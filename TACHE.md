@@ -44,7 +44,8 @@ Pour **chaque site** de `sites/*.json` :
       "competition": "Éliminatoires CAN 2027",
       "tags": [],
       "image_requetes": { "wikimedia": ["Sadio Mané"], "openverse": ["senegal football player"] },
-      "image_alt": "…"
+      "image_alt": "…",
+      "image_alt_large": "…"
     }
   ]
 }
@@ -59,7 +60,8 @@ Règles de rédaction :
 - `competition` : Keur Foot seulement (CAN, Éliminatoires CAN 2027, Ligue des champions CAF, Coupe de la CAF, Ballon d'Or, Premier League…), sinon `null`.
 - `tags` : seulement des `tag` qui existent dans `tmp/entites-<site>.json` (ex. `auteur:marguerite-abouet`) ; sinon `[]`.
 - `image_requetes`, du plus précis au plus large : pour Wikimedia, le **nom exact** de la personne, du lieu ou du club cité ; pour Openverse, 2 à 4 mots-clés **en anglais**, génériques (`african football stadium`, `bookstore books`…).
-- `image_alt` : description factuelle de ce qu'on doit voir, 160 caractères au plus.
+- `image_alt` : description factuelle de ce qu'on verra sur la photo **Wikimedia** (la personne, le lieu ou le club exact), 160 caractères au plus.
+- `image_alt_large` : description **générique**, vraie pour n'importe quelle photo Openverse trouvée avec tes mots-clés (ex. « Des joueurs lors d'un match de football en Afrique »). Pour une carte générée, le texte alternatif est écrit automatiquement.
 
 ## 4. Contrôle anti-copie, puis publication (aucune IA)
 

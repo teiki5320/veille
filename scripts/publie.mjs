@@ -118,6 +118,17 @@ export function enregistrerCarte(config, actu) {
   fs.writeFileSync(path.join(dossier, `${actu.id}.svg`), carteSvg({ config, pays: actu.pays, libelle }));
 }
 
+// Texte alternatif d'une carte : ce qu'on y voit vraiment (drapeau, compétition ou thème).
+const nomsPays = new Intl.DisplayNames(['fr'], { type: 'region' });
+export function altCarte(config, r) {
+  const libelle = r.competition || LIBELLES_THEMES[r.theme] || config.nom;
+  let pays = '';
+  try {
+    pays = r.pays?.[0] ? nomsPays.of(r.pays[0]) : '';
+  } catch {}
+  return pays ? `Illustration ${config.nom} avec le drapeau national (${pays}) et la mention « ${libelle} »` : `Illustration ${config.nom} avec la mention « ${libelle} »`;
+}
+
 async function trouverImage(config, r, recentes, journal) {
   const req = r.image_requetes || {};
   const essais = [
@@ -140,7 +151,7 @@ async function trouverImage(config, r, recentes, journal) {
         await enregistrerPhoto(buf, config.site, r.id);
         return {
           origine: t.origine,
-          image: { url: `${BASE_URL}/images/${config.site}/${r.id}.webp`, source: t.source, credit: t.credit, licence: t.licence, page: t.page, alt: couper(r.image_alt, 160), mots_cles: [q], largeur: 1600, hauteur: 900 },
+          image: { url: `${BASE_URL}/images/${config.site}/${r.id}.webp`, source: t.source, credit: t.credit, licence: t.licence, page: t.page, alt: couper(source === 'wikimedia' ? r.image_alt : r.image_alt_large || r.image_alt, 160), mots_cles: [q], largeur: 1600, hauteur: 900 },
         };
       } catch (e) {
         journal.push(`téléchargement ${t.origine} : ${e.message}`);
@@ -150,7 +161,7 @@ async function trouverImage(config, r, recentes, journal) {
   enregistrerCarte(config, r);
   return {
     origine: `carte:${config.site}:${r.id}`,
-    image: { url: `${BASE_URL}/cartes/${config.site}/${r.id}.svg`, source: 'carte', credit: `Illustration : ${config.nom}`, licence: null, page: null, alt: couper(r.image_alt, 160), mots_cles: [...(req.wikimedia || []), ...(req.openverse || [])].slice(0, 6), largeur: 1600, hauteur: 900 },
+    image: { url: `${BASE_URL}/cartes/${config.site}/${r.id}.svg`, source: 'carte', credit: `Illustration : ${config.nom}`, licence: null, page: null, alt: couper(altCarte(config, r), 160), mots_cles: [...(req.wikimedia || []), ...(req.openverse || [])].slice(0, 6), largeur: 1600, hauteur: 900 },
   };
 }
 
