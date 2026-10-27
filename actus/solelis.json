@@ -1,8 +1,73 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-27T11:17:24.106Z",
+  "genere_le": "2026-10-27T18:18:01.350Z",
   "actus": [
+    {
+      "id": "b6c012221c9cf114e002cf5653d745392c9e30aa",
+      "titre": "Paris : le BHV Marais sollicite un redressement judiciaire pour sauver sa relance",
+      "resume": "Face à des tensions de trésorerie, le grand magasin parisien demande à être placé en redressement judiciaire, trois mois après avoir présenté un plan de relance. Sa direction parle d'une étape de la restructuration et met en cause son bailleur, qui n'aurait pas payé des indemnités liées à la restitution d'une partie des murs.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/economie/article/2026/10/27/le-bhv-marais-a-paris-demande-son-placement-en-redressement-judiciaire_6801329_3234.html",
+      "autres_sources": [
+        "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html",
+        "https://www.sudouest.fr/ile-de-france/paris/economie-le-grand-magasin-bhv-marais-demande-son-placement-en-redressement-judiciaire-31267225.php",
+        "https://www.bfmtv.com/economie/entreprises/trois-mois-apres-la-presentation-d-un-plan-de-relance-le-grand-magasin-bhv-marais-demande-son-placement-en-redressement-judiciaire_AD-202610270677.html"
+      ],
+      "publie_le": "2026-10-27T17:24:34.000Z",
+      "collecte_le": "2026-10-27T18:18:01.350Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/b6c012221c9cf114e002cf5653d745392c9e30aa.webp",
+        "source": "wikimedia",
+        "credit": "Chabe01",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bazar_H%C3%B4tel_Ville_-_Paris_IV_(FR75)_-_2020-09-30_-_3.jpg",
+        "alt": "La façade du grand magasin BHV Marais, à Paris",
+        "mots_cles": [
+          "BHV Marais"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "bd0b491a7798c9f7350de65ab6dd5e55f3c3906a",
+      "titre": "Manifestations d'octobre : CCI France chiffre les dégâts subis par les commerces",
+      "resume": "D'après CCI France, plus de 2 500 boutiques ont subi des dégradations, dont 1 161 pillées, saccagées ou incendiées. En centre-ville, les ventes ont chuté jusqu'à 80 % les samedis de mobilisation, pour une perte estimée à environ 1,5 milliard d'euros par week-end.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/societe/greves-et-manifestations/manifestations-sociales-et-violences-plus-de-2-500-commerces-touches-dont-un-millier-fortement-degrades-selon-cci-france-31264766.php",
+      "autres_sources": [
+        "https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html",
+        "https://www.bfmtv.com/economie/entreprises/le-chiffre-d-affaires-baisse-de-80-en-centre-ville-plus-de-2-500-commerces-ont-ete-touches-par-les-violences-des-17-et-24-octobre-et-pres-de-la-moitie-ont-ete-fortement-degrades_AD-202610270597.html",
+        "https://www.latribune.fr/article/economie/71130012652585/17-octobre-la-facture-estimee-a-1-5-milliard-d-euros-qui-fait-trembler-l-economie-francaise",
+        "https://www.20minutes.fr/economie/4257979-20261027-colere-sociale-4-000-commerces-touches-1-5-milliard-euros-pertes-craindre-chiffres-cci?at_medium=display&at_campaign=149"
+      ],
+      "publie_le": "2026-10-27T15:50:42.000Z",
+      "collecte_le": "2026-10-27T18:18:01.350Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.webp",
+        "source": "wikimedia",
+        "credit": "Velvet",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lille_CCI_2.jpg",
+        "alt": "Le logo ou le siège de CCI France",
+        "mots_cles": [
+          "CCI France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7fe1d1dfaebf3c6be3ab2601f2c57278cb728159",
       "titre": "Les Forges de Tarbes, fabricant de corps d'obus, en redressement judiciaire",

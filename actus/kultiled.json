@@ -1,8 +1,35 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-10-27T11:17:24.104Z",
+  "genere_le": "2026-10-27T18:17:59.200Z",
   "actus": [
+    {
+      "id": "ea27cd9f8a2914ff9c3f0f32e931544ac725e524",
+      "titre": "Canada : des chercheurs doutent que les fermes verticales sauvent l'alimentation",
+      "resume": "Des enseignants de l'université Western, en Ontario, estiment que les fermes verticales, où l'on cultive en intérieur sur plusieurs étages dans un milieu contrôlé, ne suffiront pas à régler les difficultés du système alimentaire canadien.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "source_nom": "Greenhouse Canada",
+      "source_url": "https://www.greenhousecanada.com/western-university-profs-argue-vertical-farming-not-a-fix-to-canadas-food-system/",
+      "publie_le": "2026-10-26T13:20:16.000Z",
+      "collecte_le": "2026-10-27T18:17:59.200Z",
+      "langue": "en",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/ea27cd9f8a2914ff9c3f0f32e931544ac725e524.webp",
+        "source": "wikimedia",
+        "credit": "Valcenteu",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:VertiCrop.jpg",
+        "alt": "Des plantes cultivées en étages dans une ferme verticale",
+        "mots_cles": [
+          "Vertical farming"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "58118437da6dddac6971b5af09ec9f89ea20170b",
       "titre": "Plantes d'intérieur : un rapport américain compare les achats depuis 2019",

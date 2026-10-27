@@ -1,8 +1,35 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-10-27T11:15:46.119Z",
+  "genere_le": "2026-10-27T18:15:25.944Z",
   "actus": [
+    {
+      "id": "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb",
+      "titre": "Mory Sacko, de Top Chef à la couverture du Time en six ans",
+      "resume": "France 24 retrace l'ascension du chef parisien Mory Sacko : révélé par Top Chef, étoilé au Michelin, puis en couverture du magazine Time. Très sollicité par les grandes maisons de mode, il reçoit aussi des personnalités du cinéma et de la politique à sa table.",
+      "theme": "cuisine",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "France 24",
+      "source_url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261027-mory-sacko-le-samoura%C3%AF-de-la-gastronomie-qui-a-conquis-la-plan%C3%A8te",
+      "publie_le": "2026-10-27T16:05:48.000Z",
+      "collecte_le": "2026-10-27T18:15:25.944Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb.webp",
+        "source": "wikimedia",
+        "credit": "Clodomir",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:MorySacko.jpg",
+        "alt": "Le chef cuisinier Mory Sacko",
+        "mots_cles": [
+          "Mory Sacko"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "93dddac0c18cb2bf8810cc73a84fa306dadd58e7",
       "titre": "À São Tomé, la vanille prend le relais du cacao",

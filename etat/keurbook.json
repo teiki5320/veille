@@ -121,81 +121,125 @@
     "83909c7912fa554ac09f37e4fca678a4e23f798e": "2026-10-27T11:15:44.555Z",
     "73ff1fdbba935bbae0e3f7c76b00e926a40cdfdc": "2026-10-27T11:15:44.555Z",
     "b0db274eaded27b2bf788c25312990096afdadae": "2026-10-27T11:15:44.555Z",
-    "e650ff58bc57f1814750c438a1d7f4990deb22ca": "2026-10-27T11:15:44.555Z"
+    "e650ff58bc57f1814750c438a1d7f4990deb22ca": "2026-10-27T11:15:44.555Z",
+    "aaf9d159b617465fd9bb7dd93392e4f34902fb47": "2026-10-27T18:15:23.705Z",
+    "7172602a9c14ef66c1f533b50d498a05a2c6c5e2": "2026-10-27T18:15:23.705Z",
+    "1f59502721d66535e2639bcca091d7850ed5873a": "2026-10-27T18:15:23.705Z",
+    "0de5227a0ac8c62eb2a32ee3523f98131a21ff65": "2026-10-27T18:15:23.705Z",
+    "1e6d00a78278ec365e71e7dbb9fba6cbcc59dcc2": "2026-10-27T18:15:23.705Z",
+    "48e9c8bbc1ec4a653489cf34ffca14c86826f70d": "2026-10-27T18:15:23.705Z",
+    "f06dae0af4ccaf188ccb705a109560186d1ed40e": "2026-10-27T18:15:23.705Z",
+    "80b7ad31aa753ba1db592e4df223a057a10893ae": "2026-10-27T18:15:23.705Z",
+    "04837e3bba51d0ec00557ac8cb4cc110f23c40da": "2026-10-27T18:15:23.705Z",
+    "45ee28572a9d165311b5b009793465a8ec02e79d": "2026-10-27T18:15:23.705Z",
+    "a743ba1bc881cb9402c6d04698b8b5b15bcf0759": "2026-10-27T18:15:23.705Z",
+    "efe03e21698407b6986c3fe9db6d3ca179bddf7e": "2026-10-27T18:15:23.705Z",
+    "8b4857839101bae6c338485845e7508d66f2853c": "2026-10-27T18:15:23.705Z",
+    "f1153723d32109a346001ce3df72ff8927312d97": "2026-10-27T18:15:23.705Z",
+    "047a9756658810ab444b4d98a6ace6e6852a96d8": "2026-10-27T18:15:23.705Z",
+    "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb": "2026-10-27T18:15:23.705Z",
+    "e3c5773365f2d1d751159c7bb31f296272b3c29b": "2026-10-27T18:15:23.705Z",
+    "f7e9c104cb350d53482c5054f88b6b8d8721ba06": "2026-10-27T18:15:23.705Z",
+    "fd23883386414a24b459029a76e40ca72842a271": "2026-10-27T18:15:23.705Z",
+    "b94ab5154a22f36306f3c14bd647cd51a201c647": "2026-10-27T18:15:23.705Z",
+    "c1ba9016bfa6ba5484bffa8fce45f58d0662a491": "2026-10-27T18:15:23.705Z",
+    "385c604266f4050e9db571c1a5cd2691dfe9ed3d": "2026-10-27T18:15:23.705Z",
+    "2411eddc744ec095a054eca9dbcf39c32d140546": "2026-10-27T18:15:23.705Z",
+    "832c2854ba9f99d10e906efa49f1685698952611": "2026-10-27T18:15:23.705Z",
+    "71fda07ebf4ee40b9300aa30d82a9d887ebe8956": "2026-10-27T18:15:23.705Z",
+    "135692d2f4721d9d602e1ed12a7ac6c580b3d57b": "2026-10-27T18:15:23.705Z",
+    "22290ed767a728b19f863cc6bc014be162fbe311": "2026-10-27T18:15:23.705Z",
+    "6127a3342cc8442bbd467f8c3f9d02efcc683f58": "2026-10-27T18:15:23.705Z",
+    "86a80b9b2533acc79512b7c7bbabfe885ae3c4f2": "2026-10-27T18:15:23.705Z",
+    "e9daa852386d8bc3bdfb4aa58fe42da715b29c62": "2026-10-27T18:15:23.705Z",
+    "a269210a1a922abe83f72c3f4a66f8fd6ea58d45": "2026-10-27T18:15:23.705Z",
+    "deaacdc4ee0e2686eebe45697b6de85613cf1a5f": "2026-10-27T18:15:23.705Z",
+    "632b3f4e8fb47c19006fc87044c5f53c3f38de29": "2026-10-27T18:15:23.705Z",
+    "00804cbdf369193076b306fc76a263d9fc6f34c4": "2026-10-27T18:15:23.705Z",
+    "f2ca04550b94ca2f0f9553643c690c14cea6b8d6": "2026-10-27T18:15:23.705Z",
+    "ee2052b6a63acfe9f3dd26686cc7ac66e906240d": "2026-10-27T18:15:23.705Z",
+    "edf5304adf9e161ee8ad19d373577b5bdff93852": "2026-10-27T18:15:23.705Z",
+    "d177713e70e2b64e8e742d73d4af93e35053a4c0": "2026-10-27T18:15:23.705Z",
+    "5d142088688b798f0beec4aa665d0e5c64e12f58": "2026-10-27T18:15:23.705Z",
+    "ab50c79e7310ae6b18e3d761eba49783dc938cfd": "2026-10-27T18:15:23.705Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 6
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 3
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 2
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 5
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 10
+      "articles": 9
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 8
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 5
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T11:12:11.241Z",
+      "dernier_succes": "2026-10-27T18:12:07.072Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     }
   },
   "images_recentes": [
+    {
+      "id": "f1153723d32109a346001ce3df72ff8927312d97",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boobocar_Boris_Diop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "f42687aabdab0f4cca9884e39a461826e6be4789",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boubacar-Boris-Diop_DSC06105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -212,6 +256,7 @@
   "origines": {
     "77e46856dab6a4307130380b1548c7b66b4f5a25": "https://live.staticflickr.com/5168/5330476015_2a87c0b439_b.jpg",
     "142919a1219f7b89811acadf0a81a4f6fc6df64c": "https://live.staticflickr.com/293/18802224921_149ded2e8c_b.jpg",
-    "f42687aabdab0f4cca9884e39a461826e6be4789": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boubacar-Boris-Diop_DSC06105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "f42687aabdab0f4cca9884e39a461826e6be4789": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boubacar-Boris-Diop_DSC06105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "f1153723d32109a346001ce3df72ff8927312d97": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boobocar_Boris_Diop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 }

@@ -1,8 +1,35 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-10-27T11:15:46.120Z",
+  "genere_le": "2026-10-27T18:15:27.163Z",
   "actus": [
+    {
+      "id": "3abff0b081edc939ca5d6776344b9f487d717147",
+      "titre": "Design Week Lagos 2026 : sept créateurs qui dessinent l'Afrique de demain",
+      "resume": "Au retour de la Design Week de Lagos, consacrée à la façon de concevoir une nouvelle Afrique, le magazine Wallpaper* présente sept designers à suivre. Ils font partie de ceux qui façonnent l'avenir créatif du continent.",
+      "theme": "deco",
+      "pays": [
+        "NG"
+      ],
+      "source_nom": "Wallpaper*",
+      "source_url": "https://www.wallpaper.com/design-interiors/design-events/design-week-lagos-2026-review",
+      "publie_le": "2026-10-27T13:19:03.000Z",
+      "collecte_le": "2026-10-27T18:15:27.163Z",
+      "langue": "en",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/3abff0b081edc939ca5d6776344b9f487d717147.webp",
+        "source": "wikimedia",
+        "credit": "Solasly",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:A_lady_by_the_Lagos_Jetty.jpg",
+        "alt": "La ville de Lagos, au Nigeria",
+        "mots_cles": [
+          "Lagos"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "fe9913ba94141df44f26f6e57e7c80da2e12a147",
       "titre": "Ibrahim Mahama investit la Fondation Cartier avec « Le Temps des récoltes »",

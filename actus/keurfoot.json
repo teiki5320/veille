@@ -1,8 +1,330 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-27T11:15:46.123Z",
+  "genere_le": "2026-10-27T18:15:29.371Z",
   "actus": [
+    {
+      "id": "7bb83389f2cb9bade1df1270fc7e201d595b469f",
+      "titre": "Vozinha, gardien du Cap-Vert, invité à la soirée du Ballon d'Or après son Mondial",
+      "resume": "Révélé par son parcours inattendu à la Coupe du monde 2026, le gardien cap-verdien Vozinha a assisté lundi soir à Londres à la cérémonie du Ballon d'Or. ESPN y voit un beau symbole pour tous ceux qui aiment ce sport sans en être les vedettes.",
+      "theme": "foot",
+      "pays": [
+        "CV"
+      ],
+      "competition": "Ballon d'Or",
+      "source_nom": "ESPN FC",
+      "source_url": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
+      "publie_le": "2026-10-27T18:23:49.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "en",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7bb83389f2cb9bade1df1270fc7e201d595b469f.webp",
+        "source": "wikimedia",
+        "credit": "Nha Terra Nha Cretcheu",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Vozinha_Cape_Verde_Goalkeeper.jpg",
+        "alt": "Vozinha, gardien de but de l'équipe du Cap-Vert",
+        "mots_cles": [
+          "Vozinha"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "e1ae240089eb21db47b2e148fab3ed50c4338d0a",
+      "titre": "C1 africaine : première qualification historique de Wiliete SC pour les poules",
+      "resume": "Le club angolais Wiliete SC jouera pour la première fois le tour principal de la plus grande compétition interclubs du continent. Il a obtenu sa place en sortant un champion national lors des tours préliminaires.",
+      "theme": "foot",
+      "pays": [
+        "AO"
+      ],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/caf/ligue-des-champions-caf/ligue-des-champions-caf-wiliete-sc-linvite-surprise/",
+      "publie_le": "2026-10-27T16:37:44.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/e1ae240089eb21db47b2e148fab3ed50c4338d0a.webp",
+        "source": "wikimedia",
+        "credit": "L.Willms",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Estadio-11Nov-Luanda_03_linke-Seite-Bogen_LWS-2011-08-NC_0991.jpg",
+        "alt": "Le stade du 11-Novembre, à Luanda, en Angola",
+        "mots_cles": [
+          "Estádio 11 de Novembro"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9190255f85fea072930d4cfa7a71a10e61b46ab3",
+      "titre": "Toulouse : Rafik Messali, gravement blessé, probablement absent jusqu'en 2027",
+      "resume": "Sorti blessé contre Troyes, le défenseur algéro-français du Toulouse FC Rafik Messali souffre d'une déchirure de grade 3, confirmée par les examens. Sa fin d'année 2026 est fortement compromise.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "FR"
+      ],
+      "competition": "Ligue 1",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/toulouse-fin-dannee-2026-compromise-pour-rafik-messali/",
+      "publie_le": "2026-10-27T16:34:35.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/9190255f85fea072930d4cfa7a71a10e61b46ab3.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Ligue 1 »",
+        "mots_cles": [
+          "Rafik Messali",
+          "toulouse football",
+          "football injury"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "eff05f6cce33fcf8d481c5f6a90a6d0522299a54",
+      "titre": "Mamelodi Sundowns sorti dès le 2e tour préliminaire de la Ligue des champions CAF",
+      "resume": "Le club sud-africain Mamelodi Sundowns ne jouera pas la phase de groupes de la Ligue des champions africaine cette saison. Il a été éliminé au deuxième tour préliminaire, une absence de taille pour la compétition.",
+      "theme": "foot",
+      "pays": [
+        "ZA"
+      ],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/ligue-des-champions-caf-mamelodi-sundowns-le-grand-absent-de-la-saison/",
+      "publie_le": "2026-10-27T16:17:56.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/eff05f6cce33fcf8d481c5f6a90a6d0522299a54.webp",
+        "source": "wikimedia",
+        "credit": "Carlo Bruil Fotografie",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066145739.jpg",
+        "alt": "Le club de football sud-africain Mamelodi Sundowns",
+        "mots_cles": [
+          "Mamelodi Sundowns F.C."
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "58fc607e6b292363b5f8d49324e7dc1c70fef6a9",
+      "titre": "Serie A : l'Algérien Rafik Belghali s'impose comme une révélation au Torino",
+      "resume": "Arrivé au Torino sans faire de bruit, le latéral algérien Rafik Belghali enchaîne les bonnes performances. Il est désormais cité parmi les belles surprises du début de saison en Italie.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "IT"
+      ],
+      "competition": "Serie A",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a5334343792104998872-torino-litalie-est-en-train-de-tomber-amoureuse-de-rafik-belghali",
+      "publie_le": "2026-10-27T16:07:08.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/58fc607e6b292363b5f8d49324e7dc1c70fef6a9.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Serie A »",
+        "mots_cles": [
+          "Rafik Belghali",
+          "torino football",
+          "serie a football"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "1e486a8459319d621082d29798e1bf4ad1805576",
+      "titre": "Sénégal : Pape Guèye s'explique sur sa sortie rapide contre les Belges au Mondial",
+      "resume": "Le milieu des Lions Pape Guèye est revenu sur sa Coupe du monde compliquée et sur son remplacement dès le début du match perdu contre la Belgique. Il reconnaît avoir réagi à chaud, sous l'effet de la déception.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Coupe du monde 2026",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/apres-son-mondial-difficile-pape-gueye-revient-sur-sa-sortie-contre-la-belgique_2017905.html",
+      "publie_le": "2026-10-27T15:33:19.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/1e486a8459319d621082d29798e1bf4ad1805576.webp",
+        "source": "wikimedia",
+        "credit": "Bryan Berlin",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pape_Gueye_France_v_Senegal_16_June_2026-359.jpg",
+        "alt": "Pape Guèye, milieu de terrain international sénégalais",
+        "mots_cles": [
+          "Pape Gueye"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "446bf49cbaeced9cff3d5d9092e7a028ded24c5c",
+      "titre": "Arabie saoudite : Al-Faisaly et Abdoulaye Seck s'imposent 1-0 à Abha",
+      "resume": "Al-Faisaly, le club du défenseur sénégalais Abdoulaye Seck, a gagné 1-0 sur le terrain d'Abha mardi, lors d'un match en retard de la 8e journée. C'est seulement le deuxième succès de l'équipe en championnat, un résultat important dans la course au maintien.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "SA"
+      ],
+      "competition": "Saudi Pro League",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/10/27/saudi-pro-league-al-faisaly-dabdoulaye-seck-soffre-une-victoire-precieuse-face-a-abha-0-1/",
+      "autres_sources": [
+        "https://senego.com/al-faisaly-dabdoulaye-seck-bat-abha-0-1-et-relance-sa-lutte-pour-le-maintien_2017882.html"
+      ],
+      "publie_le": "2026-10-27T14:52:28.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/446bf49cbaeced9cff3d5d9092e7a028ded24c5c.webp",
+        "source": "wikimedia",
+        "credit": "feguifoot",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Abdoulaye_Seck.jpg",
+        "alt": "Abdoulaye Seck, défenseur international sénégalais",
+        "mots_cles": [
+          "Abdoulaye Seck"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "6f3c28e0a8a87bf0d90b358a8219075ac235f90e",
+      "titre": "C1 africaine : les Soudanais d'Al Hilal Omdurman de nouveau qualifiés pour les poules",
+      "resume": "On connaît depuis le week-end les seize clubs du tour principal de la plus grande compétition interclubs d'Afrique. Al Hilal Omdurman, venu du Soudan, figure parmi eux : un habitué de ce stade, qui attend toujours son premier sacre continental.",
+      "theme": "foot",
+      "pays": [
+        "SD"
+      ],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/caf/ligue-des-champions-caf/ligue-des-champions-caf-al-hilal-omdurman-une-regularite-qui-peine-a-simposer/",
+      "publie_le": "2026-10-27T14:20:30.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/6f3c28e0a8a87bf0d90b358a8219075ac235f90e.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Soudan) et la mention « Ligue des champions CAF »",
+        "mots_cles": [
+          "Al-Hilal Club (Omdurman)",
+          "african football stadium",
+          "football fans africa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "49835a86fe848d28e3fd6cb0d120ab75bda0b1aa",
+      "titre": "Mondial féminin 2027 : la FIFA verse 2,5 millions de dollars à chaque qualifié",
+      "resume": "La FIFA accordera 2,5 millions de dollars à chaque fédération présente au Mondial féminin 2027, qui se jouera au Brésil de fin juin à fin juillet, pour financer sa préparation. Absent du tournoi, le Sénégal ne touchera pas cette somme.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "BR"
+      ],
+      "competition": "Coupe du monde féminine 2027",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/10/27/mondial-feminin-2027-25-millions-de-dollars-en-jeu-le-senegal-devra-encore-attendre/",
+      "publie_le": "2026-10-27T13:45:28.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/49835a86fe848d28e3fd6cb0d120ab75bda0b1aa.webp",
+        "source": "wikimedia",
+        "credit": "Mustapha Ennaimi",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:MarocF%C3%A9minine.jpg",
+        "alt": "L'équipe féminine de football du Sénégal",
+        "mots_cles": [
+          "Senegal women's national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "e1e33d7bcb2463ab935af607c688cf0825126ed8",
+      "titre": "Tournoi UFOA-A : Moussa Gueye brille malgré la sortie du Sénégal en demi-finale",
+      "resume": "Le Sénégal a été éliminé en demi-finale du tournoi de la zone UFOA-A. Son milieu de terrain Moussa Gueye s'est distingué avec quatre buts sur deux matchs et un titre de meilleur joueur d'une rencontre.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Tournoi UFOA-A",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/moussa-gueye-revelation-du-tournoi-ufoa-a-malgre-lelimination-du-senegal_2017863.html",
+      "publie_le": "2026-10-27T13:17:39.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/e1e33d7bcb2463ab935af607c688cf0825126ed8.webp",
+        "source": "wikimedia",
+        "credit": "У джерелі не вказаний автор",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:FC_Semenivka_v_Senegal_under-21_football_team_(2016-05-20)_17.jpg",
+        "alt": "L'équipe nationale de football du Sénégal",
+        "mots_cles": [
+          "Senegal national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "f704311108a072bbd4fc4b71f56dea401e51cd3e",
+      "titre": "Sénégal : Vieira devrait enfin diriger les Lions à domicile contre le Soudan",
+      "resume": "Nommé à la tête du Sénégal en septembre, Patrick Vieira n'a encore dirigé ses joueurs que loin de Dakar. Cela devrait changer le 12 novembre avec la réception du Soudan en éliminatoires.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "SD"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/senegal-une-solution-enfin-trouvee-pour-offrir-a-vieira-un-premier-match-a-domicile",
+      "publie_le": "2026-10-27T13:02:17.000Z",
+      "collecte_le": "2026-10-27T18:15:29.371Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/f704311108a072bbd4fc4b71f56dea401e51cd3e.webp",
+        "source": "wikimedia",
+        "credit": "Simon Heseltine",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+        "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal",
+        "mots_cles": [
+          "Patrick Vieira"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "e85a006dbeb2adeab0e36f4c9e1572aec7f3c869",
       "titre": "Algérie : Zetchi et d'ex-dirigeants de la FAF condamnés à de la prison ferme",
