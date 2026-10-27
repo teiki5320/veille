@@ -1,7 +1,7 @@
 // Tests : node scripts/test.mjs  (aucun accès réseau)
 import assert from 'node:assert/strict';
-import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl } from './lib.mjs';
-import { validateur, licenceWikimediaLibre, pertinente } from './publie.mjs';
+import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl, sites, ICONES } from './lib.mjs';
+import { validateur, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
 import { collecterSite, lireFlux } from './collecte.mjs';
 import path from 'node:path';
 
@@ -124,6 +124,46 @@ await test('La carte sans pays connu met l’icône à la place du drapeau', () 
   assert.match(svg, /FOOTBALL/);
 });
 
+const schema = lireJson(path.join(RACINE, 'schema', 'actus-schema-v3.json'));
+await test('Chaque configuration de site est complète et cohérente avec le schéma', () => {
+  const enumSites = schema.properties.site.enum;
+  const enumThemes = schema.properties.actus.items.properties.theme.enum;
+  const liste = sites();
+  assert.ok(liste.length >= 6, 'au moins 6 sites');
+  for (const c of liste) {
+    assert.ok(enumSites.includes(c.site), `${c.site} absent de l’enum site`);
+    assert.ok(c.nom && c.sujets && Array.isArray(c.exclusions), `${c.site} : nom, sujets ou exclusions manquants`);
+    for (const k of ['fond', 'fond2', 'encre']) assert.match(c.couleurs?.[k] || '', /^#[0-9a-f]{6}$/i, `${c.site} : couleur ${k}`);
+    assert.ok(ICONES.includes(c.icone), `${c.site} : icône inconnue ${c.icone}`);
+    assert.ok(enumThemes.includes(c.theme_defaut), `${c.site} : thème inconnu ${c.theme_defaut}`);
+    assert.ok(c.flux.length >= 8 && c.flux.length <= 15, `${c.site} : ${c.flux.length} flux`);
+    const urls = new Set();
+    for (const f of c.flux) {
+      assert.match(f.url, /^https:\/\//, `${c.site} : ${f.url}`);
+      assert.ok(['fr', 'en'].includes(f.langue), `${c.site} : langue ${f.langue}`);
+      assert.ok(!urls.has(f.url), `${c.site} : flux en double ${f.url}`);
+      urls.add(f.url);
+    }
+  }
+});
+await test('Solelis : uniquement des sources françaises ; Kultiled exclut le cannabis', () => {
+  const sol = lireJson(path.join(RACINE, 'sites', 'solelis.json'));
+  assert.ok(sol.flux.every((f) => f.langue === 'fr'));
+  const kul = lireJson(path.join(RACINE, 'sites', 'kultiled.json'));
+  assert.ok(kul.exclusions.some((e) => /cannabis/i.test(e)));
+});
+await test('Chaque site a une carte valide avec son icône ; sans drapeau si drapeau: false', () => {
+  for (const c of sites()) {
+    const svg = carteSvg({ config: c, pays: ['SN'], libelle: 'Test' });
+    assert.match(svg, /^<\?xml[^>]*>\s*<svg [^>]*width="1600" height="900"/);
+    assert.equal((svg.match(/<svg\b/g) || []).length, (svg.match(/<\/svg>/g) || []).length, c.site);
+    assert.equal((svg.match(/<g\b/g) || []).length, (svg.match(/<\/g>/g) || []).length, c.site);
+    assert.match(svg, new RegExp(`${c.nom} · Actus`));
+    const avecDrapeau = svg.includes('#0b7226');
+    assert.equal(avecDrapeau, c.drapeau !== false, `${c.site} : drapeau ${avecDrapeau ? 'présent' : 'absent'}`);
+    if (c.drapeau === false) assert.doesNotMatch(altCarte(c, { pays: ['FR'], theme: c.theme_defaut }), /drapeau/);
+  }
+});
 await test("L'anti-répétition refuse une image vue dans les 20 dernières actus", () => {
   const recentes = Array.from({ length: 25 }, (_, i) => ({ id: String(i), origine: `https://upload.wikimedia.org/img${i}.jpg` }));
   assert.equal(imageDejaVue('https://upload.wikimedia.org/img5.jpg', recentes), true);

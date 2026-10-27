@@ -1,0 +1,36 @@
+{
+  "site": "solelis",
+  "nom": "Solelis",
+  "couleurs": { "fond": "#1e3d82", "fond2": "#0a1628", "encre": "#ffffff" },
+  "icone": "soleil",
+  "drapeau": false,
+  "theme_defaut": "entreprises",
+  "sujets": "Entreprises en difficulté en France, du point de vue du dirigeant de TPE ou de PME : chiffres des défaillances d'entreprises ; procédures (mandat ad hoc, conciliation, sauvegarde, redressement, liquidation, rétablissement professionnel) et réformes du droit des entreprises en difficulté ; tribunaux des activités économiques et tribunaux de commerce ; dettes URSSAF, impôts, fournisseurs, banques et délais de paiement ; aides et dispositifs publics (CODEFI, CCSF, Médiation du crédit, Médiateur des entreprises, prêts, fonds de soutien) ; prévention et accompagnement des dirigeants (APESA, CIP, rebond) ; redressement ou liquidation d'une enseigne connue quand cela éclaire la situation des entreprises. France uniquement, sources françaises uniquement.",
+  "exclusions": [
+    "actualité hors de France",
+    "politique partisane et polémiques",
+    "bourse, placements et marchés financiers",
+    "faits divers, procès pénaux, fraudes",
+    "noms de dirigeants ou de petites entreprises qui ne sont pas des personnalités ou des enseignes connues",
+    "levées de fonds et réussites de start-up sans rapport avec les difficultés",
+    "rumeurs non confirmées"
+  ],
+  "pays_prioritaires": ["FR"],
+  "entites_url": "https://solelis.com/veille/entites.json",
+  "flux": [
+    { "nom": "Service-Public.fr", "url": "https://www.service-public.fr/abonnements/rss/actu-actu-pro.rss", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/entreprises/rss_full.xml", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/economie-francaise/rss_full.xml", "langue": "fr" },
+    { "nom": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_entrepreneur.xml", "langue": "fr" },
+    { "nom": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_societes.xml", "langue": "fr" },
+    { "nom": "BFM Business", "url": "https://www.bfmtv.com/rss/economie/entreprises/", "langue": "fr" },
+    { "nom": "Franceinfo", "url": "https://www.francetvinfo.fr/economie/entreprises.rss", "langue": "fr" },
+    { "nom": "La Tribune", "url": "https://www.latribune.fr/feed.xml", "langue": "fr" },
+    { "nom": "L'Usine Nouvelle", "url": "https://www.usinenouvelle.com/rss/", "langue": "fr" },
+    { "nom": "Sud Ouest", "url": "https://www.sudouest.fr/economie/rss.xml", "langue": "fr" },
+    { "nom": "20 Minutes", "url": "https://www.20minutes.fr/feeds/rss-economie.xml", "langue": "fr" },
+    { "nom": "Village de la Justice", "url": "https://www.village-justice.com/articles/backend.php", "langue": "fr" },
+    { "nom": "Les Affiches Parisiennes", "url": "https://www.affiches-parisiennes.com/rss.xml", "langue": "fr" },
+    { "nom": "Échos Judiciaires", "url": "https://www.echos-judiciaires.com/feed/", "langue": "fr" }
+  ]
+}

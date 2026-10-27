@@ -1,0 +1,35 @@
+{
+  "site": "keurdeco",
+  "nom": "Keur Déco",
+  "couleurs": { "fond": "#a3472a", "fond2": "#2a1d15", "encre": "#fdf9f3" },
+  "icone": "jarre",
+  "theme_defaut": "deco",
+  "sujets": "Décoration, design et artisanat africains : designers, architectes d'intérieur et artisans africains ou de la diaspora ; textiles (wax, bogolan, kente, indigo, kuba), vannerie et raphia, poterie et terre cuite, bois sculpté, perles ; salons, foires et expositions de design ou d'art décoratif africain (Maison&Objet, Design Indaba, biennales, musées) ; maisons, hôtels et intérieurs inspirés de l'Afrique ; savoir-faire et matières naturelles. Il y a peu d'actualité : les sources sont larges (déco, design, arts, Afrique) et triées en lisant ; on ne garde que ce qui touche la déco, le design ou l'artisanat d'Afrique et de sa diaspora. Les sources en anglais sont résumées en français.",
+  "exclusions": [
+    "politique et conflits",
+    "faits divers",
+    "ventes aux enchères et cotes du marché de l'art",
+    "vocabulaire de vente : prix, promotions, « acheter », bons plans",
+    "célébrités et people sans rapport avec la déco africaine",
+    "déco sans lien avec l'Afrique ou sa diaspora"
+  ],
+  "pays_prioritaires": ["SN", "CI", "ML", "GH", "NG", "CM", "BF", "MA", "BJ", "TG", "CD", "KE", "ZA", "ET", "TN", "MG", "RW", "GN", "NE", "FR"],
+  "entites_url": "https://www.keurdeco.com/veille/entites.json",
+  "flux": [
+    { "nom": "AD Magazine", "url": "https://www.admagazine.fr/feed/rss", "langue": "fr" },
+    { "nom": "Ideat", "url": "https://ideat.fr/feed/", "langue": "fr" },
+    { "nom": "Connaissance des Arts", "url": "https://www.connaissancedesarts.com/feed/", "langue": "fr" },
+    { "nom": "Beaux Arts", "url": "https://www.beauxarts.com/feed/", "langue": "fr" },
+    { "nom": "Le Journal des Arts", "url": "https://www.lejournaldesarts.fr/rss.xml", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/arts/rss_full.xml", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/afrique/rss_full.xml", "langue": "fr" },
+    { "nom": "Africultures", "url": "https://africultures.com/feed/", "langue": "fr" },
+    { "nom": "RFI", "url": "https://www.rfi.fr/fr/culture/rss", "langue": "fr" },
+    { "nom": "France 24", "url": "https://www.france24.com/fr/culture/rss", "langue": "fr" },
+    { "nom": "Dezeen", "url": "https://www.dezeen.com/feed/", "langue": "en" },
+    { "nom": "Designboom", "url": "https://www.designboom.com/feed/", "langue": "en" },
+    { "nom": "Wallpaper*", "url": "https://www.wallpaper.com/feeds/all", "langue": "en" },
+    { "nom": "Design Milk", "url": "https://design-milk.com/feed/", "langue": "en" },
+    { "nom": "Design Indaba", "url": "https://www.designindaba.com/rss.xml", "langue": "en" }
+  ]
+}

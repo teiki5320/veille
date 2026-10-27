@@ -1,0 +1,35 @@
+{
+  "site": "kultiled",
+  "nom": "Kultiled",
+  "couleurs": { "fond": "#3a2140", "fond2": "#1b1322", "encre": "#f7c07a" },
+  "icone": "plante",
+  "drapeau": false,
+  "theme_defaut": "culture-interieur",
+  "sujets": "Culture de plantes en intérieur et éclairage LED horticole, partout dans le monde (pas seulement l'Afrique) : potagers d'intérieur, aromatiques, micro-pousses, semis ; éclairage LED pour les plantes (spectre, efficacité, nouveautés techniques) ; hydroponie, aquaponie, serres et fermes verticales ; recherche sur la croissance des plantes sous lumière artificielle ; agriculture urbaine en intérieur. Il y a peu d'actualité : les sources sont larges (jardin, horticulture, sciences des plantes) et triées en lisant ; on ne garde que ce qui touche la culture en intérieur ou la lumière des plantes. Les sources en anglais sont résumées en français.",
+  "exclusions": [
+    "cannabis, chanvre, CBD et toute drogue (toujours, même légal ou médical)",
+    "pesticides de synthèse mis en avant",
+    "vocabulaire de vente : prix, promotions, « acheter », bons plans, tests de produits",
+    "levées de fonds et rachats d'entreprises sans rapport direct avec la culture en intérieur",
+    "jardinage d'extérieur seul (pelouse, haies, arbres), animaux, champignons sauvages",
+    "politique et faits divers"
+  ],
+  "pays_prioritaires": [],
+  "entites_url": "https://www.kultiled.com/veille/entites.json",
+  "flux": [
+    { "nom": "Gerbeaud", "url": "https://www.gerbeaud.com/rss.xml", "langue": "fr" },
+    { "nom": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_jardin.xml", "langue": "fr" },
+    { "nom": "Futura", "url": "https://www.futura-sciences.com/rss/maison/actualites.xml", "langue": "fr" },
+    { "nom": "Végétable", "url": "https://www.vegetable.fr/rss", "langue": "fr" },
+    { "nom": "Sciences et Avenir", "url": "https://www.sciencesetavenir.fr/nature-environnement/rss.xml", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/planete/rss_full.xml", "langue": "fr" },
+    { "nom": "Terre-net", "url": "https://www.terre-net.fr/rss/", "langue": "fr" },
+    { "nom": "Greenhouse Grower", "url": "https://www.greenhousegrower.com/feed/", "langue": "en" },
+    { "nom": "Greenhouse Management", "url": "https://www.greenhousemag.com/rss/", "langue": "en" },
+    { "nom": "Produce Grower", "url": "https://www.producegrower.com/rss/", "langue": "en" },
+    { "nom": "Greenhouse Canada", "url": "https://www.greenhousecanada.com/feed/", "langue": "en" },
+    { "nom": "AgFunderNews", "url": "https://agfundernews.com/feed", "langue": "en" },
+    { "nom": "Phys.org", "url": "https://phys.org/rss-feed/biology-news/plants-animals/", "langue": "en" },
+    { "nom": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/plants_animals/botany.xml", "langue": "en" }
+  ]
+}

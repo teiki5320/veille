@@ -1,0 +1,34 @@
+{
+  "site": "keurcook",
+  "nom": "Keur Cook",
+  "couleurs": { "fond": "#c9531f", "fond2": "#2a1810", "encre": "#fbeee2" },
+  "icone": "marmite",
+  "theme_defaut": "cuisine",
+  "sujets": "Cuisine africaine et de la diaspora : plats, recettes et traditions culinaires ; chefs et restaurants africains (en Afrique et en France) ; produits et ingrédients du continent (fonio, mil, bissap, karité, épices, café, cacao…) vus sous l'angle de la cuisine et du goût ; fêtes et repas (Tabaski, Ramadan, mariages…) ; festivals, salons, prix et livres de cuisine ; patrimoine culinaire (UNESCO, histoire d'un plat). Les sources générales sur l'Afrique sont triées en lisant : on ne garde que ce qui parle vraiment de cuisine africaine. Les sources en anglais sont résumées en français.",
+  "exclusions": [
+    "santé, nutrition médicale, régimes, maladies, effets d'un aliment sur le corps",
+    "vocabulaire de vente : prix, promotions, « acheter », « disponible sur », bons plans",
+    "crises alimentaires, famines, faits divers, intoxications",
+    "politique et conflits",
+    "alcool mis en avant",
+    "cuisine non africaine"
+  ],
+  "pays_prioritaires": ["SN", "CI", "CM", "ML", "BF", "GN", "CD", "CG", "BJ", "TG", "GA", "MA", "DZ", "TN", "NG", "GH", "ET", "KE", "ZA", "MG"],
+  "flux": [
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/afrique/rss_full.xml", "langue": "fr" },
+    { "nom": "RFI", "url": "https://www.rfi.fr/fr/afrique/rss", "langue": "fr" },
+    { "nom": "RFI", "url": "https://www.rfi.fr/fr/culture/rss", "langue": "fr" },
+    { "nom": "France 24", "url": "https://www.france24.com/fr/afrique/rss", "langue": "fr" },
+    { "nom": "France 24", "url": "https://www.france24.com/fr/culture/rss", "langue": "fr" },
+    { "nom": "BBC Afrique", "url": "https://www.bbc.com/afrique/index.xml", "langue": "fr" },
+    { "nom": "Africanews", "url": "https://fr.africanews.com/feed/rss", "langue": "fr" },
+    { "nom": "Jeune Afrique", "url": "https://www.jeuneafrique.com/rubriques/lifestyle/feed/", "langue": "fr" },
+    { "nom": "SenePlus", "url": "https://www.seneplus.com/rss.xml", "langue": "fr" },
+    { "nom": "Le Soleil", "url": "https://lesoleil.sn/feed/", "langue": "fr" },
+    { "nom": "Mondafrique", "url": "https://mondafrique.com/feed/", "langue": "fr" },
+    { "nom": "Nofi", "url": "https://nofi.media/feed/", "langue": "fr" },
+    { "nom": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_gastronomie.xml", "langue": "fr" },
+    { "nom": "The Guardian", "url": "https://www.theguardian.com/food/rss", "langue": "en" },
+    { "nom": "AllAfrica", "url": "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf", "langue": "fr" }
+  ]
+}

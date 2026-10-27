@@ -137,15 +137,33 @@ export function imageDejaVue(origine, recentes) {
 // ---------- Carte générée (SVG 1600×900) ----------
 const echapper = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
+export const ICONES = ['ballon', 'livre', 'marmite', 'jarre', 'plante', 'soleil'];
+
 export const LIBELLES_THEMES = {
   foot: 'Football', politique: 'Politique', economie: 'Économie', societe: 'Société', culture: 'Culture', livres: 'Livres',
-  bd: 'Bande dessinée', cuisine: 'Cuisine', deco: 'Déco', cadeaux: 'Cadeaux', 'culture-interieur': 'Culture intérieur',
+  bd: 'Bande dessinée', cuisine: 'Cuisine', deco: 'Déco', cadeaux: 'Cadeaux', 'culture-interieur': 'Culture en intérieur',
   entreprises: 'Entreprises',
 };
 
 function icone(nom, encre, x, y, taille) {
   const s = taille / 100;
   const g = (contenu) => `<g transform="translate(${x} ${y}) scale(${s})" fill="none" stroke="${encre}" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">${contenu}</g>`;
+  if (nom === 'marmite')
+    return g(
+      `<path d="M14 44 H86 V68 C86 80 76 88 64 88 H36 C24 88 14 80 14 68 Z"/><path d="M14 52 H5 M86 52 H95"/><path d="M10 44 C22 32 78 32 90 44"/><circle cx="50" cy="30" r="4" fill="${encre}"/><path d="M36 22 C32 16 40 12 36 5 M64 22 C60 16 68 12 64 5" stroke-width="3"/>`,
+    );
+  if (nom === 'jarre')
+    return g(
+      '<path d="M38 8 H62 M41 8 C41 19 35 22 27 30 C14 43 14 71 30 84 C39 91 61 91 70 84 C86 71 86 43 73 30 C65 22 59 19 59 8"/><path d="M19 48 H81 M18 64 H82" stroke-width="3"/><path d="M26 48 L32 64 L38 48 L44 64 L50 48 L56 64 L62 48 L68 64 L74 48" stroke-width="3"/>',
+    );
+  if (nom === 'plante')
+    return g(
+      `<rect x="12" y="6" width="76" height="12" rx="3" fill="${encre}"/><path d="M28 26 L23 37 M50 26 V39 M72 26 L77 37" stroke-width="3"/><path d="M30 70 H70 L64 93 H36 Z"/><path d="M50 70 V46"/><path d="M50 60 C37 60 29 52 29 42 C42 42 50 49 50 60 Z M50 53 C63 53 71 45 71 35 C58 35 50 42 50 53 Z" fill="${encre}"/>`,
+    );
+  if (nom === 'soleil')
+    return g(
+      `<circle cx="50" cy="50" r="19" fill="${encre}"/><path d="M50 5 V20 M50 80 V95 M5 50 H20 M80 50 H95 M18 18 L29 29 M71 71 L82 82 M82 18 L71 29 M29 71 L18 82"/>`,
+    );
   if (nom === 'livre')
     return g(
       '<path d="M50 22 C38 14 22 12 8 14 V82 C22 80 38 82 50 90 C62 82 78 80 92 82 V14 C78 12 62 14 50 22 Z"/><path d="M50 22 V90"/><path d="M18 30 C28 29 37 31 44 35 M18 46 C28 45 37 47 44 51 M18 62 C28 61 37 63 44 67 M82 30 C72 29 63 31 56 35 M82 46 C72 45 63 47 56 51 M82 62 C72 61 63 63 56 67" stroke-width="3"/>',
@@ -172,7 +190,8 @@ export function carteSvg({ config, pays, libelle }) {
   const L = 1600;
   const H = 900;
   const bandes = Array.from({ length: 40 }, (_, i) => `<rect x="${i * 40 + 18}" y="0" width="4" height="${H}"/>`).join('');
-  const d = drapeau(pays?.[0]);
+  // drapeau: false dans la config (Kultiled, Solelis) : jamais de drapeau, l'icône au centre.
+  const d = config.drapeau === false ? null : drapeau(pays?.[0]);
   let centre;
   if (d) {
     const w = 520;

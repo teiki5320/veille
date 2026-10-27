@@ -124,7 +124,7 @@ export function altCarte(config, r) {
   const libelle = r.competition || LIBELLES_THEMES[r.theme] || config.nom;
   let pays = '';
   try {
-    pays = r.pays?.[0] ? nomsPays.of(r.pays[0]) : '';
+    pays = r.pays?.[0] && config.drapeau !== false ? nomsPays.of(r.pays[0]) : '';
   } catch {}
   return pays ? `Illustration ${config.nom} avec le drapeau national (${pays}) et la mention « ${libelle} »` : `Illustration ${config.nom} avec la mention « ${libelle} »`;
 }
