@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "site": "keurbook",
+  "genere_le": "2026-10-27T00:06:15.606Z",
+  "actus": [
+    {
+      "id": "77e46856dab6a4307130380b1548c7b66b4f5a25",
+      "titre": "Christelle Bakima Poundza consacre un essai au phénomène Aya Nakamura",
+      "resume": "L'autrice et enseignante publie au Seuil « Aya pour l'exemple », sorti le 16 octobre. Elle y analyse le parcours de la chanteuse et les critiques, souvent racistes, qui la visent, pour interroger la place des femmes noires dans la France actuelle. Elle en parle au micro de RFI.",
+      "theme": "livres",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261025-christelle-bakima-poundza-une-femme-noire-peut-incarner-l-universel-aussi",
+      "publie_le": "2026-10-25T23:03:49.000Z",
+      "collecte_le": "2026-10-27T00:06:15.606Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/77e46856dab6a4307130380b1548c7b66b4f5a25.webp",
+        "source": "openverse",
+        "credit": "Amy Guth",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/92025495@N00/5330476015",
+        "alt": "Des livres présentés sur les tables d’une librairie",
+        "mots_cles": [
+          "bookstore books"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "142919a1219f7b89811acadf0a81a4f6fc6df64c",
+      "titre": "Après l'affaire Thélyson Orélien, l'édition s'arme contre les textes écrits par IA",
+      "resume": "« C'était ça ou mourir », roman de l'écrivain haïtien, est soupçonné d'avoir été rédigé avec une intelligence artificielle. Depuis, les maisons d'édition testent des logiciels de détection, ajoutent des clauses aux contrats et envisagent un label garantissant une écriture humaine.",
+      "theme": "livres",
+      "pays": [
+        "HT"
+      ],
+      "source_nom": "France 24",
+      "source_url": "https://www.france24.com/fr/culture/20261025-la-hantise-des-%C3%A9diteurs-apr%C3%A8s-l-affaire-th%C3%A9lyson-or%C3%A9lien-la-chasse-%C3%A0-l-ia-s-organise",
+      "publie_le": "2026-10-25T08:30:09.000Z",
+      "collecte_le": "2026-10-27T00:06:15.606Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/142919a1219f7b89811acadf0a81a4f6fc6df64c.webp",
+        "source": "openverse",
+        "credit": "Image Catalog",
+        "licence": "CC0 1.0",
+        "page": "https://www.flickr.com/photos/132795455@N08/18802224921",
+        "alt": "Une machine à écrire et des pages de manuscrit",
+        "mots_cles": [
+          "typewriter manuscript"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    }
+  ]
+}

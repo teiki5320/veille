@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Keur Foot · Actus">
+<defs><linearGradient id="fond" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f8a43"/><stop offset="1" stop-color="#0a5e2e"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#fond)"/>
+<g fill="#ffffff" opacity="0.06"><rect x="18" y="0" width="4" height="900"/><rect x="58" y="0" width="4" height="900"/><rect x="98" y="0" width="4" height="900"/><rect x="138" y="0" width="4" height="900"/><rect x="178" y="0" width="4" height="900"/><rect x="218" y="0" width="4" height="900"/><rect x="258" y="0" width="4" height="900"/><rect x="298" y="0" width="4" height="900"/><rect x="338" y="0" width="4" height="900"/><rect x="378" y="0" width="4" height="900"/><rect x="418" y="0" width="4" height="900"/><rect x="458" y="0" width="4" height="900"/><rect x="498" y="0" width="4" height="900"/><rect x="538" y="0" width="4" height="900"/><rect x="578" y="0" width="4" height="900"/><rect x="618" y="0" width="4" height="900"/><rect x="658" y="0" width="4" height="900"/><rect x="698" y="0" width="4" height="900"/><rect x="738" y="0" width="4" height="900"/><rect x="778" y="0" width="4" height="900"/><rect x="818" y="0" width="4" height="900"/><rect x="858" y="0" width="4" height="900"/><rect x="898" y="0" width="4" height="900"/><rect x="938" y="0" width="4" height="900"/><rect x="978" y="0" width="4" height="900"/><rect x="1018" y="0" width="4" height="900"/><rect x="1058" y="0" width="4" height="900"/><rect x="1098" y="0" width="4" height="900"/><rect x="1138" y="0" width="4" height="900"/><rect x="1178" y="0" width="4" height="900"/><rect x="1218" y="0" width="4" height="900"/><rect x="1258" y="0" width="4" height="900"/><rect x="1298" y="0" width="4" height="900"/><rect x="1338" y="0" width="4" height="900"/><rect x="1378" y="0" width="4" height="900"/><rect x="1418" y="0" width="4" height="900"/><rect x="1458" y="0" width="4" height="900"/><rect x="1498" y="0" width="4" height="900"/><rect x="1538" y="0" width="4" height="900"/><rect x="1578" y="0" width="4" height="900"/></g>
+<g transform="translate(1430 50) scale(1.1)" fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"><circle cx="50" cy="50" r="44"/><path d="M50 30 L69 44 L62 66 L38 66 L31 44 Z" fill="#ffffff"/><path d="M50 30 V7 M69 44 L91 37 M62 66 L76 86 M38 66 L24 86 M31 44 L9 37" stroke-width="4"/></g>
+<rect x="530" y="140" width="540" height="410" rx="18" fill="#ffffff" opacity="0.18"/><svg x="540" y="150" width="520" height="390" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid slice">
+  <g fill-rule="evenodd" stroke-width="1pt">
+    <path fill="#0b7226" d="M0 0h213.3v480H0z"/>
+    <path fill="#ff0" d="M213.3 0h213.3v480H213.3z"/>
+    <path fill="#bc0000" d="M426.6 0H640v480H426.6z"/>
+  </g>
+  <path fill="#0b7226" d="M342 218.8h71.8l-56.6 43.6 20.7 69.3-56.6-43.6-56.6 41.6 20.7-67.3-56.6-43.6h69.8l22.7-71.3z"/>
+</svg>
+<text x="800" y="660" text-anchor="middle" fill="#ffffff" font-family="'Barlow Condensed','Arial Narrow',Helvetica,Arial,sans-serif" font-weight="800" font-size="92" letter-spacing="3">CAN U20</text>
+<text x="800" y="830" text-anchor="middle" fill="#ffffff" opacity="0.85" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="40" letter-spacing="2">Keur Foot · Actus</text>
+</svg>
