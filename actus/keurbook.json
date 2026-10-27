@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-27T00:07:24.687Z",
+  "genere_le": "2026-10-27T11:15:44.555Z",
   "actus": [
+    {
+      "id": "f42687aabdab0f4cca9884e39a461826e6be4789",
+      "titre": "Dakar : l'UCAD consacre un colloque international à Boubacar Boris Diop",
+      "resume": "Du 26 au 28 octobre, l'université Cheikh Anta Diop réunit chercheurs, écrivains et acteurs culturels autour de l'œuvre du romancier sénégalais, de « Murambi » à « Doomi Golo » écrit en wolof. Felwine Sarr a donné la leçon inaugurale. Un livre de l'auteur sur la poétesse Phillis Wheatley est annoncé pour mars 2027 chez Philippe Rey.",
+      "theme": "livres",
+      "pays": [
+        "SN"
+      ],
+      "tags": [
+        "auteur:boubacar-boris-diop",
+        "auteur:felwine-sarr"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/boubacar-boris-diop-la-charge-et-les-chemins-de-lecriture",
+      "publie_le": "2026-10-27T10:19:53.000Z",
+      "collecte_le": "2026-10-27T11:15:44.555Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/f42687aabdab0f4cca9884e39a461826e6be4789.webp",
+        "source": "wikimedia",
+        "credit": "Hreinn Gudlaugsson",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Boubacar-Boris-Diop_DSC06105.jpg",
+        "alt": "L'écrivain sénégalais Boubacar Boris Diop",
+        "mots_cles": [
+          "Boubacar Boris Diop"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "77e46856dab6a4307130380b1548c7b66b4f5a25",
       "titre": "Christelle Bakima Poundza consacre un essai au phénomène Aya Nakamura",

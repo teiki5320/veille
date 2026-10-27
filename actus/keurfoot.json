@@ -1,8 +1,341 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-27T00:07:25.846Z",
+  "genere_le": "2026-10-27T11:15:46.123Z",
   "actus": [
+    {
+      "id": "e85a006dbeb2adeab0e36f4c9e1572aec7f3c869",
+      "titre": "Algérie : Zetchi et d'ex-dirigeants de la FAF condamnés à de la prison ferme",
+      "resume": "Le tribunal de Sidi M’Hamed, à Alger, a prononcé des peines de un à huit ans ferme contre plusieurs anciens cadres de la FAF, la fédération de football du pays. Parmi eux figurent Kheireddine Zetchi, son ex-président, détenu depuis près de deux ans dans l’attente du jugement, et Charaf-Eddine Amara.",
+      "theme": "foot",
+      "pays": [
+        "DZ"
+      ],
+      "competition": null,
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/algerie-apres-deux-ans-dattente-le-verdict-assomme-zetchi",
+      "autres_sources": [
+        "https://africatopsports.com/afrique-football/foot-algerie-plusieurs-anciens-dirigeants-de-la-federation-condamnes-a-la-prison-ferme/"
+      ],
+      "publie_le": "2026-10-27T11:09:00.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/e85a006dbeb2adeab0e36f4c9e1572aec7f3c869.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Football »",
+        "mots_cles": [
+          "Kheireddine Zetchi",
+          "algeria football",
+          "football stadium algeria"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "01b9fa6249db00d739a35e7961b8703630ed8a1d",
+      "titre": "Cameroun : David Pagou s'explique sur les joueurs absents de sa liste",
+      "resume": "Le sélectionneur des Lions indomptables a publié sa liste pour les deux prochains matchs de qualification à la CAN 2027, les 3e et 4e journées. Certains joueurs que l’on attendait n’y figurent pas, et David Pagou a donné les raisons de ces choix.",
+      "theme": "foot",
+      "pays": [
+        "CM"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/cameroun/elim-can-2027-cameroun-david-pagou-explique-les-absences/",
+      "publie_le": "2026-10-27T10:27:52.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/01b9fa6249db00d739a35e7961b8703630ed8a1d.webp",
+        "source": "wikimedia",
+        "credit": "Дмитрий Садовник",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cameroon-Chilie_(12).jpg",
+        "alt": "L'équipe du Cameroun de football",
+        "mots_cles": [
+          "Cameroon national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "77fb7e1de2897305ddb102b50ba45a8b07c066ae",
+      "titre": "Mondial U15 : Algérie et Maroc s’affrontent en 16es, Sénégal et Ivoiriens au niveau B",
+      "resume": "À Bakou, le premier tour du Mondial U15 a réparti les 189 équipes en six divisions. L’Algérie et le Maroc se retrouvent face à face en 16es de finale. Deuxième de son groupe derrière le Cameroun malgré quatre succès sur cinq rencontres et 29 réalisations, le Sénégal rejoint la Côte d’Ivoire au niveau B.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "MA",
+        "SN",
+        "CI",
+        "CM"
+      ],
+      "competition": "Coupe du monde U15",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-choc-africain-pour-lalgerie-et-le-maroc-en-16es-ce-qui-attend-le-senegal-et-la-cote-divoire-en-ligue-b",
+      "autres_sources": [
+        "https://wiwsport.com/2026/10/27/mondial-u15-deuxieme-du-groupe-k-le-senegal-reverse-au-niveau-b/"
+      ],
+      "publie_le": "2026-10-27T09:45:00.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/77fb7e1de2897305ddb102b50ba45a8b07c066ae.webp",
+        "source": "wikimedia",
+        "credit": "Diego Delso",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_138.jpg",
+        "alt": "La ville de Bakou, en Azerbaïdjan",
+        "mots_cles": [
+          "Baku"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "23424f3409d6744dd9019151fb6981108397bc1b",
+      "titre": "Trophée Yachine : Édouard Mendy de retour dans le top 10, à la neuvième place",
+      "resume": "Le portier international sénégalais, qui joue à Al-Ahli, a été classé neuvième du Trophée Yachine 2026, remis lundi soir au meilleur gardien de la saison pendant la soirée du Ballon d’Or. Il retrouve ainsi les dix premiers de ce classement, cinq ans après son meilleur résultat dans cette distinction.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Ballon d'Or",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/ballon-dor-2026-edouard-mendy-neuvieme-du-trophee-yachine/",
+      "autres_sources": [
+        "https://wiwsport.com/2026/10/27/trophee-yachine-2026-edouard-mendy-termine-a-la-9e-place/"
+      ],
+      "publie_le": "2026-10-27T09:13:44.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/23424f3409d6744dd9019151fb6981108397bc1b.webp",
+        "source": "wikimedia",
+        "credit": "Анна Мейер",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Mendy_2021.jpg",
+        "alt": "Le gardien de but sénégalais Édouard Mendy",
+        "mots_cles": [
+          "Édouard Mendy"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d14a7b2acbb1487089e1fec01f5087057f08e917",
+      "titre": "Ballon d'Or féminin : Temwa Chawinga, première Africaine classée dans le top 10",
+      "resume": "La Malawite Temwa Chawinga a terminé dixième du classement 2026 du Ballon d’Or des femmes. Aucune joueuse du continent n’était encore entrée parmi les dix premières depuis la création de cette récompense en 2018, même si plusieurs Africaines avaient déjà été nommées.",
+      "theme": "foot",
+      "pays": [
+        "MW"
+      ],
+      "competition": "Ballon d'Or",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/ballon-dor-feminin-lafrique-brise-un-plafond-de-verre-et-soffre-un-nouveau-record",
+      "publie_le": "2026-10-27T08:51:00.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/d14a7b2acbb1487089e1fec01f5087057f08e917.webp",
+        "source": "wikimedia",
+        "credit": "Hameltion",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_KC_Current_(Sep_2024)_007_(cropped).jpg",
+        "alt": "La footballeuse malawite Temwa Chawinga",
+        "mots_cles": [
+          "Temwa Chawinga"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "a247f625310523054474906842d6212d403de47f",
+      "titre": "Togo : Patrice Neveu annonce une liste provisoire pour défier l'Algérie",
+      "resume": "Le Togo affronte l’Algérie lors de la double journée à venir des qualifications pour la CAN 2027. En vue de ces deux matchs, son sélectionneur Patrice Neveu a rendu publique une première liste de joueurs, encore provisoire.",
+      "theme": "foot",
+      "pays": [
+        "TG",
+        "DZ"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/elim-can-2027-le-togo-devoile-sa-liste-provisoire-contre-lalgerie/",
+      "publie_le": "2026-10-27T08:46:30.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/a247f625310523054474906842d6212d403de47f.webp",
+        "source": "wikimedia",
+        "credit": "Menss06",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Team_%C3%A9perviers.jpg",
+        "alt": "L'équipe du Togo de football",
+        "mots_cles": [
+          "Togo national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "373cf4855f423482e124287f284339208fa49a35",
+      "titre": "Zimbabwe : Ramon Catala publie sa liste pour affronter la Guinée équatoriale",
+      "resume": "Ramon Catala, à la tête des Warriors, a annoncé une liste provisoire pour les matchs aller et retour contre la Guinée équatoriale, comptant pour les qualifications de la CAN 2027.",
+      "theme": "foot",
+      "pays": [
+        "ZW",
+        "GQ"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/elim-can-2027-la-liste-provisoire-du-zimbabwe-est-officielle/",
+      "publie_le": "2026-10-27T08:34:43.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/373cf4855f423482e124287f284339208fa49a35.webp",
+        "source": "wikimedia",
+        "credit": "Christian Bellgardt",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Zimbabwe_national_football_team,_2009.jpg",
+        "alt": "L'équipe du Zimbabwe de football",
+        "mots_cles": [
+          "Zimbabwe national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "1c5eb284cbc146f84aea23ca93f3bb7141d17441",
+      "titre": "Ligue des champions CAF : Scottland FC se sépare de Norman Mapeza",
+      "resume": "Le club zimbabwéen de Scottland FC, engagé en Ligue des champions CAF, a annoncé que Norman Mapeza n’est plus son entraîneur, avec effet immédiat.",
+      "theme": "foot",
+      "pays": [
+        "ZW"
+      ],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/ligue-des-champions-caf-scottland-se-separe-de-son-entraineur/",
+      "publie_le": "2026-10-27T07:18:12.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/1c5eb284cbc146f84aea23ca93f3bb7141d17441.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Zimbabwe) et la mention « Ligue des champions CAF »",
+        "mots_cles": [
+          "Norman Mapeza",
+          "football coach",
+          "african football club"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9b53e02dd146a4138d0ae822297b16ed7c7810f0",
+      "titre": "Coupe de la CAF : Azam et l'AS FAR parmi les qualifiés avant le tirage des groupes",
+      "resume": "Le tirage de la phase de groupes de la Coupe de la CAF 2026-2027 a lieu mercredi. Azam, le club tanzanien de l'Ougandais Hassan Mubiru, y figure après avoir sorti ZED (Égypte), tout comme l'AS FAR de Rabat, où joue son compatriote Allan Okello.",
+      "theme": "foot",
+      "pays": [
+        "TZ",
+        "MA",
+        "UG"
+      ],
+      "competition": "Coupe de la CAF",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/10/27/caf-confederation-cup-mubirus-azam-okellos-as-far-headline-group-stage-draw/",
+      "publie_le": "2026-10-27T07:16:41.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "en",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/9b53e02dd146a4138d0ae822297b16ed7c7810f0.webp",
+        "source": "wikimedia",
+        "credit": "Pangalau",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:DPMM-Kota_Ranger_27_November_2022_(Players)_16.jpg",
+        "alt": "Le club tanzanien Azam FC",
+        "mots_cles": [
+          "Azam F.C."
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "48985bf15456eb25b7f689b35f5d6c10569eb370",
+      "titre": "Süper Lig : André Onana et Trabzonspor remontent deux buts pour battre Rizespor 4-3",
+      "resume": "Trabzonspor perdait 2-0 à la mi-temps chez le Çaykur Rizespor, lundi 26 octobre, pour la 9e journée du championnat turc. L'équipe du gardien camerounais André Onana, titulaire, a finalement gagné 4-3.",
+      "theme": "foot",
+      "pays": [
+        "CM"
+      ],
+      "competition": "Süper Lig",
+      "source_nom": "Camfoot",
+      "source_url": "https://www.camfoot.com/les-lions-en-club/super-lig-onana-et-trabzonspor-renversent-rizespor-4-3,558941.html",
+      "publie_le": "2026-10-27T02:50:12.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/48985bf15456eb25b7f689b35f5d6c10569eb370.webp",
+        "source": "wikimedia",
+        "credit": "Franco237",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Onana.jpg",
+        "alt": "Le gardien de but camerounais André Onana",
+        "mots_cles": [
+          "André Onana"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "45fc03a8a0bfa61c0b0f1bf6ba759261673db5a0",
+      "titre": "Pape Gueye se pose en candidat au Ballon d'Or africain",
+      "resume": "Le milieu sénégalais de Villarreal a dit sur Canal+ Sport Afrique viser le Ballon d'Or africain de cette année. Il met en avant le titre continental gagné avec les Lions, son but marqué en finale et sa distinction de meilleur joueur africain de Liga. Ismaïla Sarr est l'autre Sénégalais en lice.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Ballon d'Or africain",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/10/27/pape-gueye-le-ballon-dor-africain-fait-partie-de-mes-objectifs/",
+      "autres_sources": [
+        "https://africatopsports.com/football/ballon-dor-africain-pape-gueye-devoile-ses-ambitions/",
+        "https://senego.com/pape-gueye-revendique-sa-candidature-apres-son-titre-de-meilleur-africain-de-liga_2017669.html"
+      ],
+      "publie_le": "2026-10-27T00:39:52.000Z",
+      "collecte_le": "2026-10-27T11:15:46.123Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/45fc03a8a0bfa61c0b0f1bf6ba759261673db5a0.webp",
+        "source": "wikimedia",
+        "credit": "Supporterhéninois",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lens_-_Le_Havre_AC_(01-04-2019)_44.jpg",
+        "alt": "Le milieu de terrain sénégalais Pape Gueye",
+        "mots_cles": [
+          "Pape Gueye"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "b8b05a1289992b843ff44406506830b2e98c2816",
       "titre": "Cameroun : la Fécafoot récompense les Lions U20 qualifiés pour la CAN",
