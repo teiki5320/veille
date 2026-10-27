@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://teiki5320.github.io/veille/schema/actus-schema-v3.json",
+  "title": "Fichier actus (un par site : actus/keurfoot.json, actus/keurbook.json…)",
+  "type": "object",
+  "required": ["version", "site", "genere_le", "actus"],
+  "properties": {
+    "version": { "type": "integer", "const": 3 },
+    "site": {
+      "type": "string",
+      "enum": ["keurfoot", "keurbook", "keurcook", "keurdeco", "keurkado", "kultiled", "solelis"],
+      "description": "Site destinataire du fichier"
+    },
+    "genere_le": { "type": "string", "format": "date-time" },
+    "actus": {
+      "type": "array",
+      "maxItems": 60,
+      "description": "Les 60 plus récentes au plus, triées de la plus récente à la plus ancienne",
+      "items": {
+        "type": "object",
+        "required": ["id", "titre", "resume", "source_nom", "source_url", "publie_le", "image"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[0-9a-f]{40}$", "description": "SHA-1 de l'URL source normalisée (sans utm_*)" },
+          "titre": { "type": "string", "minLength": 5, "maxLength": 90, "description": "Titre reformulé (le titre original n'est jamais publié)" },
+          "resume": { "type": "string", "minLength": 20, "maxLength": 380, "description": "2 à 3 phrases réécrites, en français, jamais copiées" },
+          "theme": {
+            "type": "string",
+            "enum": ["foot", "politique", "economie", "societe", "culture", "livres", "bd", "cuisine", "deco", "cadeaux", "culture-interieur", "entreprises"]
+          },
+          "pays": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^[A-Z]{2}$" },
+            "description": "Codes ISO : SN, CI, CM…"
+          },
+          "competition": {
+            "type": ["string", "null"],
+            "description": "Keur Foot seulement : CAN, Qualifications Mondial 2026, Ligue des champions CAF…"
+          },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string", "pattern": "^[a-z]+:[a-z0-9-]+$" },
+            "description": "Lien vers une fiche du site, ex. auteur:marguerite-abouet"
+          },
+          "source_nom": { "type": "string", "minLength": 1, "description": "Ex. RFI Sports" },
+          "source_url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+          "autres_sources": {
+            "type": "array",
+            "items": { "type": "string", "format": "uri" },
+            "description": "Même info vue ailleurs (doublons fusionnés)"
+          },
+          "publie_le": { "type": "string", "format": "date-time" },
+          "collecte_le": { "type": "string", "format": "date-time" },
+          "langue": { "type": "string", "default": "fr", "description": "Langue de la source (le résumé est toujours en français)" },
+          "image": {
+            "type": "object",
+            "description": "Image d'illustration, toujours copiée sur teiki5320.github.io. Priorité : wikimedia > openverse > banque perso > carte générée. Jamais l'image de l'article source.",
+            "required": ["url", "source", "credit", "licence", "alt", "largeur", "hauteur"],
+            "properties": {
+              "url": { "type": "string", "format": "uri", "pattern": "^https://teiki5320\\.github\\.io/veille/" },
+              "source": { "type": "string", "enum": ["wikimedia", "openverse", "banque", "carte"] },
+              "credit": { "type": "string", "minLength": 1, "description": "Auteur à afficher ; pour une carte : « Illustration : [Nom du site] »" },
+              "licence": { "type": ["string", "null"], "description": "Ex. CC BY-SA 4.0 ; null pour une carte" },
+              "page": { "type": ["string", "null"], "format": "uri", "description": "Page d'origine pour l'attribution" },
+              "alt": { "type": "string", "minLength": 3, "maxLength": 160, "description": "Texte alternatif descriptif" },
+              "mots_cles": { "type": "array", "items": { "type": "string" }, "description": "Mots-clés ayant servi à la recherche" },
+              "largeur": { "type": "integer", "minimum": 1 },
+              "hauteur": { "type": "integer", "minimum": 1 }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

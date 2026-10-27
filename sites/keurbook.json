@@ -1,0 +1,23 @@
+{
+  "site": "keurbook",
+  "nom": "Keurbook",
+  "couleurs": { "fond": "#d6a24a", "fond2": "#8a5f22", "encre": "#141311" },
+  "icone": "livre",
+  "theme_defaut": "livres",
+  "sujets": "Livres et auteurs africains et afrodescendants : prix littéraires ; sorties de livres d'auteurs africains et afrodescendants ; auteurs (interviews, portraits, hommages) ; BD africaine ; salons et festivals du livre. Surtout l'Afrique francophone, avec les grands noms anglophones (Adichie, Ngũgĩ…).",
+  "exclusions": ["polémiques politiques", "faits divers"],
+  "pays_prioritaires": ["SN", "CI", "CM", "CD", "CG", "ML", "GN", "BJ", "TG", "BF", "GA", "MA", "DZ", "TN", "HT", "NG", "KE", "GH", "ZA", "MG"],
+  "entites_url": "https://www.keurbook.com/veille/entites.json",
+  "flux": [
+    { "nom": "Africultures", "url": "https://africultures.com/feed/", "langue": "fr" },
+    { "nom": "Jeune Afrique", "url": "https://www.jeuneafrique.com/rubriques/culture/feed/", "langue": "fr" },
+    { "nom": "RFI", "url": "https://www.rfi.fr/fr/culture/rss", "langue": "fr" },
+    { "nom": "France 24", "url": "https://www.france24.com/fr/culture/rss", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/afrique/rss_full.xml", "langue": "fr" },
+    { "nom": "SenePlus", "url": "https://www.seneplus.com/rss.xml", "langue": "fr" },
+    { "nom": "Livres Hebdo", "url": "https://www.livreshebdo.fr/rss.xml", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/livres/rss_full.xml", "langue": "fr" },
+    { "nom": "ActuaBD", "url": "https://www.actuabd.com/spip.php?page=backend", "langue": "fr" },
+    { "nom": "BDZoom", "url": "https://www.bdzoom.com/feed/", "langue": "fr" }
+  ]
+}

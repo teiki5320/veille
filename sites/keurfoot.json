@@ -1,0 +1,26 @@
+{
+  "site": "keurfoot",
+  "nom": "Keur Foot",
+  "couleurs": { "fond": "#0f8a43", "fond2": "#0a5e2e", "encre": "#ffffff" },
+  "icone": "ballon",
+  "theme_defaut": "foot",
+  "sujets": "Football africain : sélections nationales ; CAN et qualifications au Mondial ; joueurs africains en Europe ; championnats et clubs africains. On garde un article s'il parle d'une sélection, d'un joueur ou d'un club africain, ou de la CAN et des qualifications au Mondial. Surtout l'Afrique francophone (Sénégal, Côte d'Ivoire, Cameroun, Maroc, Mali, Guinée, RD Congo…), plus les grandes équipes (Nigeria, Égypte, Algérie, Ghana, Afrique du Sud…). Les sources en anglais sont résumées en français.",
+  "exclusions": ["paris sportifs", "faits divers violents", "rumeurs non confirmées", "autres sports"],
+  "pays_prioritaires": ["SN", "CI", "CM", "MA", "ML", "GN", "CD", "NG", "EG", "DZ", "GH", "ZA", "TN", "BF", "GA", "CG", "BJ", "TG", "NE", "MR"],
+  "flux": [
+    { "nom": "Afrik-Foot", "url": "https://www.afrik-foot.com/rss", "langue": "fr" },
+    { "nom": "Africa Top Sports", "url": "https://africatopsports.com/feed/", "langue": "fr" },
+    { "nom": "L'Équipe", "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Afrique/", "langue": "fr" },
+    { "nom": "Camfoot", "url": "https://www.camfoot.com/feed/", "langue": "fr" },
+    { "nom": "Wiwsport", "url": "https://wiwsport.com/feed/", "langue": "fr" },
+    { "nom": "Senego", "url": "https://senego.com/rubrique/sport/feed", "langue": "fr" },
+    { "nom": "Kawowo Sports", "url": "https://www.kawowo.com/feed/", "langue": "en" },
+    { "nom": "RFI", "url": "https://www.rfi.fr/fr/sports/rss", "langue": "fr" },
+    { "nom": "L'Équipe", "url": "https://dwh.lequipe.fr/api/edito/rss?path=/Football/", "langue": "fr" },
+    { "nom": "Foot Mercato", "url": "https://www.footmercato.net/flux-rss", "langue": "fr" },
+    { "nom": "ESPN FC", "url": "https://www.espn.com/espn/rss/soccer/news", "langue": "en" },
+    { "nom": "BBC Afrique", "url": "https://www.bbc.com/afrique/index.xml", "langue": "fr" },
+    { "nom": "France 24", "url": "https://www.france24.com/fr/afrique/rss", "langue": "fr" },
+    { "nom": "Jeune Afrique", "url": "https://www.jeuneafrique.com/rubriques/sport/feed/", "langue": "fr" }
+  ]
+}

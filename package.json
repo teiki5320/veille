@@ -1,0 +1,22 @@
+{
+  "name": "veille",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Veille actus des sites de Jean : un JSON par site, servi par GitHub Pages",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "collecte": "node scripts/collecte.mjs",
+    "publie": "node scripts/publie.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "fast-xml-parser": "^5.11.2",
+    "flag-icons": "^7.6.0",
+    "sharp": "^0.35.5"
+  }
+}
