@@ -1,0 +1,310 @@
+{
+  "version": 3,
+  "site": "keurfoot",
+  "genere_le": "2026-10-27T00:07:25.846Z",
+  "actus": [
+    {
+      "id": "b8b05a1289992b843ff44406506830b2e98c2816",
+      "titre": "Cameroun : la Fécafoot récompense les Lions U20 qualifiés pour la CAN",
+      "resume": "La fédération camerounaise verse une prime exceptionnelle de 20 millions de FCFA à ses moins de 20 ans. Invaincue à Yaoundé lors du tournoi qualificatif de l'Uniffac, avec dix buts marqués, l'équipe d'Yvan Kenmoe disputera la CAN 2027 au Ghana après avoir manqué les deux précédentes éditions.",
+      "theme": "foot",
+      "pays": [
+        "CM"
+      ],
+      "competition": "CAN U20",
+      "source_nom": "Camfoot",
+      "source_url": "https://www.camfoot.com/actualites/la-fecafoot-offre-une-prime-speciale-de-20-millions-de-fcfa-aux-lions-u20,558949.html",
+      "publie_le": "2026-10-26T22:46:15.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/b8b05a1289992b843ff44406506830b2e98c2816.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Cameroun) et la mention « CAN U20 »",
+        "mots_cles": [
+          "cameroon youth football",
+          "african youth football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "cfdce348015776c3fdfbad872b44730a1074f4bc",
+      "titre": "Trophée Kopa 2026 : où se classent Bouaddi, Maza et Yan Diomandé",
+      "resume": "Aucun des trois jeunes joueurs n'a remporté la récompense du meilleur espoir, attribuée lundi soir à Londres. Leurs positions dans le classement ont toutefois été rendues publiques en marge de la cérémonie.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "DZ",
+        "CI"
+      ],
+      "competition": "Ballon d'Or",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/trophee-kopa-2026-le-classement-de-bouaddi-maza-et-yan-diomande",
+      "publie_le": "2026-10-26T22:32:09.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/cfdce348015776c3fdfbad872b44730a1074f4bc.webp",
+        "source": "wikimedia",
+        "credit": "Paté kroute",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bouaddi_asselosc_2425.jpg",
+        "alt": "Un jeune footballeur africain sur le terrain",
+        "mots_cles": [
+          "Ayyoub Bouaddi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "fdb6b087a1572b2b83938d31ed74e48cf8fe3056",
+      "titre": "Éliminatoires CAN 2027 : le Botswana dévoile 26 joueurs pour affronter l'Ouganda",
+      "resume": "Le sélectionneur Thaloba Nthaga a retenu une liste provisoire avec trois gardiens, huit défenseurs, sept milieux et huit attaquants. Les deux équipes se retrouvent en novembre, avec un premier match prévu le 14 à Hoima, en Ouganda.",
+      "theme": "foot",
+      "pays": [
+        "BW",
+        "UG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/10/26/botswana-name-squad-for-uganda-cranes-double-header/",
+      "publie_le": "2026-10-26T19:57:07.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "en",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/fdb6b087a1572b2b83938d31ed74e48cf8fe3056.webp",
+        "source": "openverse",
+        "credit": "US Army Africa",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/36281822@N08/4045715231",
+        "alt": "Des joueurs lors d’un match de football en Afrique",
+        "mots_cles": [
+          "uganda football fans"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "0d08e0a6c70b4faec72a2bc62337b1d9b53616cf",
+      "titre": "Hakimi perd sept rangs et finit 13e au Ballon d'Or 2026",
+      "resume": "Le défenseur marocain du PSG occupe le 13e rang du classement révélé lundi à Londres. Sixième en 2025, il recule nettement, mais reste le deuxième défenseur le mieux placé de cette édition.",
+      "theme": "foot",
+      "pays": [
+        "MA"
+      ],
+      "competition": "Ballon d'Or",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/ballon-dor-2026-achraf-hakimi-termine-a-la-13e-place/",
+      "autres_sources": [
+        "https://www.afrik-foot.com/ballon-dor-2026-2e-meilleur-defenseur-du-classement-hakimi-est-il-a-sa-place",
+        "https://www.afrik-foot.com/achraf-hakimi-ballon-dor-classement-annee"
+      ],
+      "publie_le": "2026-10-26T19:07:46.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/0d08e0a6c70b4faec72a2bc62337b1d9b53616cf.webp",
+        "source": "wikimedia",
+        "credit": "Nawfel Ajari",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
+        "alt": "Achraf Hakimi, défenseur du Maroc et du PSG",
+        "mots_cles": [
+          "Achraf Hakimi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "13c6e86581517be5969d48dcc31c8efef0cd4f03",
+      "titre": "Sénégal : Patrick Vieira toujours invaincu avant la fenêtre de novembre",
+      "resume": "Depuis sa nomination à la tête des Lions, l'ancien capitaine des Bleus a dirigé trois rencontres pour deux succès et un match nul. Le Sénégal a pris 4 des 6 points possibles dans sa poule qualificative pour la CAN 2027, avant de nouvelles échéances en novembre.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/senegal-le-bilan-des-premiers-matchs-de-patrick-vieira-avant-la-fenetre-de-novembre-des-eliminatoires-de-la-can-2027_2017401.html",
+      "publie_le": "2026-10-26T12:33:00.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/13c6e86581517be5969d48dcc31c8efef0cd4f03.webp",
+        "source": "wikimedia",
+        "credit": "Simon Heseltine",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+        "alt": "Patrick Vieira, sélectionneur du Sénégal",
+        "mots_cles": [
+          "Patrick Vieira"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "695f5b791f6ce13b86e21e5c9c6e9057104bf89e",
+      "titre": "Avant Sénégal–Soudan, la pelouse du stade de Dakar en travaux",
+      "resume": "Les Lions recevront le Soudan le 12 novembre au stade Léopold-Sédar-Senghor, une rencontre comptant pour les qualifications à la CAN 2027. L'enceinte est fermée depuis plusieurs jours afin de remettre la pelouse en état.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/10/26/senegal-soudan-le-stade-leopold-sedar-senghor-ferme-pour-preparer-le-retour-des-lions/",
+      "publie_le": "2026-10-26T11:56:54.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/695f5b791f6ce13b86e21e5c9c6e9057104bf89e.webp",
+        "source": "openverse",
+        "credit": "Jeff Attaway",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/33398364@N08/5562333854",
+        "alt": "Un stade de football à Dakar",
+        "mots_cles": [
+          "dakar stadium"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "97c06615b7380e00f422c1ce8172ac8bdf92e4ba",
+      "titre": "CAN U20 : le Sénégal ne sera pas au Ghana",
+      "resume": "Battus en demi-finales du tournoi qualificatif de la zone UFOA A, les jeunes Lions manquent la phase finale. Les deux derniers qualifiés pour la compétition, qui se jouera au Ghana, ont été désignés dimanche.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "CAN U20",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/can-u20-le-senegal-prive-de-phase-finale-les-2-derniers-qualifies-connus",
+      "publie_le": "2026-10-25T23:02:34.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/97c06615b7380e00f422c1ce8172ac8bdf92e4ba.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « CAN U20 »",
+        "mots_cles": [
+          "senegal youth football",
+          "african youth football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "da53bff8ac59c3300e38e210aac991bbbbe1f4a2",
+      "titre": "Aston Villa : Nicolas Jackson, auteur d’un doublé contre City, salué par Unai Emery",
+      "resume": "L'attaquant sénégalais a inscrit les deux buts de la victoire 2-1 face à Manchester City samedi. Il compte désormais 7 réalisations en 11 rencontres, et son entraîneur a vanté ses progrès dans la finition ainsi que son travail tactique.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Premier League",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/la-folle-renaissance-de-nicolas-jackson-a-aston-villa-donne-des-regrets-a-chelsea",
+      "autres_sources": [
+        "https://wiwsport.com/2026/10/26/unai-emery-souligne-les-progres-de-nicolas-jackson-maintenant-il-ajuste-mieux-ses-tirs-il-travaille-de-maniere-fantastique-sur-le-plan-tactique/",
+        "https://senego.com/aston-villa-unai-emery-encense-nicolas-jackson-et-son-travail-tactique-maintenant-il-ajuste-mieux-ses-tirs_2017497.html",
+        "https://wiwsport.com/2026/10/26/il-realise-un-travail-fantastique-en-angleterre-lexcellent-debut-de-saison-de-nicolas-jackson-remet-aston-villa-sur-les-bons-rails/"
+      ],
+      "publie_le": "2026-10-25T22:13:36.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/da53bff8ac59c3300e38e210aac991bbbbe1f4a2.webp",
+        "source": "wikimedia",
+        "credit": "Timmy96",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(2).jpg",
+        "alt": "Nicolas Jackson, attaquant sénégalais d'Aston Villa",
+        "mots_cles": [
+          "Nicolas Jackson"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d8748aac9e22be6c73ae94925791a9c4f688ef6d",
+      "titre": "Coupe de la CAF : l'AS FAR Rabat qualifiée, carton plein pour le Maroc",
+      "resume": "Les Militaires ont souffert mais rejoignent la phase de groupes, ce qui permet aux deux clubs marocains engagés de passer le cap. La Côte d'Ivoire n'aura aucun représentant. Quinze des seize qualifiés sont déjà connus, parmi lesquels l'USM Alger, le Raja et Al Ahly.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "CI"
+      ],
+      "competition": "Coupe de la CAF",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-caf-las-far-rabat-offre-le-2-2-au-maroc-la-cote-divoire-bredouille",
+      "autres_sources": [
+        "https://www.afrik-foot.com/coupe-de-la-caf-usma-raja-al-ahly-les-chapeaux-probables-pour-le-tirage-au-sort-de-la-phase-de-groupes"
+      ],
+      "publie_le": "2026-10-25T21:33:39.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/d8748aac9e22be6c73ae94925791a9c4f688ef6d.webp",
+        "source": "wikimedia",
+        "credit": "Magharebia",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Les_FAR_de_Rabat_en_t%C3%AAte_du_Botola_(8170068288).jpg",
+        "alt": "Un stade de football au Maroc",
+        "mots_cles": [
+          "AS FAR Rabat"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7425babc81de32d37f34e40cdc31d1cc87d0960f",
+      "titre": "TP Mazembe éliminé de la Ligue des champions CAF, le MAS Fès qualifié",
+      "resume": "Le second tour préliminaire a rendu son verdict ce week-end. Le club congolais a chuté à Radès, et aucun club ivoirien ne s'est qualifié, alors que le champion du Maroc a validé son billet. Les 16 équipes de la phase de groupes sont désormais connues, en attendant le tirage au sort.",
+      "theme": "foot",
+      "pays": [
+        "CD",
+        "MA",
+        "CI"
+      ],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/ligue-des-champions-caf-le-tp-mazembe-passe-a-la-trappe-le-champion-du-maroc-qualifie-la-cote-divoire-fait-chou-blanc",
+      "autres_sources": [
+        "https://www.afrik-foot.com/ligue-des-champions-caf-les-chapeaux-probables-et-la-date-du-tirage-au-sort-de-la-phase-de-groupes"
+      ],
+      "publie_le": "2026-10-25T20:21:29.000Z",
+      "collecte_le": "2026-10-27T00:07:25.846Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7425babc81de32d37f34e40cdc31d1cc87d0960f.webp",
+        "source": "wikimedia",
+        "credit": "Reda benkhadra",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:FAR_Rabat_v_TP_Mazembe_10.jpg",
+        "alt": "Un stade de football lors d'un match de club africain",
+        "mots_cles": [
+          "TP Mazembe"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    }
+  ]
+}
