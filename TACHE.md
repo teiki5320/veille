@@ -25,7 +25,12 @@ Elle écrit `tmp/candidats-<site>.json` (articles des 72 dernières heures pas e
 Pour **chaque site** de `sites/*.json` :
 
 1. Lis `tmp/candidats-<site>.json` et `sites/<site>.json` (`sujets`, `exclusions`).
-2. **Trie en lisant** : garde seulement ce qui correspond aux `sujets`, écarte les `exclusions` (et les rumeurs, les paris, les faits divers violents, les autres sports pour Keur Foot ; les polémiques politiques et les faits divers pour Keurbook).
+2. **Trie en lisant** : garde seulement ce qui correspond aux `sujets`, écarte les `exclusions` (et les rumeurs, les paris, les faits divers violents, les autres sports pour Keur Foot ; les polémiques politiques et les faits divers pour Keurbook). Règles fermes des autres sites :
+   - **Keur Cook** : jamais d'actu santé ni de nutrition médicale, jamais de vocabulaire de vente ; les sources générales sur l'Afrique ne donnent qu'une actu si elle parle vraiment de cuisine.
+   - **Keur Déco** : seulement la déco, le design ou l'artisanat d'Afrique et de sa diaspora (pas les enchères).
+   - **Kultiled** : culture en intérieur et lumière des plantes, partout dans le monde (pas seulement l'Afrique) ; **jamais de cannabis, de chanvre, de CBD ni de drogue**.
+   - **Solelis** : France uniquement, du point de vue du dirigeant de TPE ou PME ; pas de noms de dirigeants ou de petites entreprises inconnus.
+   - Il est normal de n'avoir qu'une ou deux actus (voire aucune) pour Keur Cook, Keur Déco et Kultiled : ne garde jamais un article hors sujet pour faire du volume.
 3. **Fusionne les doublons** : la même info vue dans plusieurs flux = une seule actu. Le candidat le plus complet est l'`id` principal ; les autres vont dans `autres_ids`.
 4. Garde **12 actus au plus**, les plus importantes d'abord.
 5. Écris `tmp/redaction-<site>.json` — **toujours**, même vide (`{"site":"<site>","actus":[]}`) s'il n'y a rien à garder :
@@ -55,12 +60,12 @@ Règles de rédaction :
 - `titre` : **reformulé**, 90 caractères au plus, informatif, sans putaclic. Le titre original n'est jamais publié.
 - `resume` : 2 à 3 phrases, **380 caractères au plus**, **en français même si la source est en anglais**, ton neutre, les faits seulement, aucune opinion, **rien d'inventé** (seulement ce que disent le titre et la description du candidat, ou l'article lui-même).
 - N'écris **jamais 6 mots consécutifs** du titre ou de la description d'origine (noms propres compris : reformule autour, par ex. « la MansA, Maison des mondes africains » plutôt que de recopier la suite d'origine).
-- `theme` : `foot` pour Keur Foot ; `livres`, `bd` ou `culture` pour Keurbook (liste complète dans le schéma).
+- `theme` : `foot` pour Keur Foot ; `livres`, `bd` ou `culture` pour Keurbook ; `cuisine` pour Keur Cook ; `deco` pour Keur Déco ; `culture-interieur` pour Kultiled ; `entreprises` pour Solelis (liste complète dans le schéma).
 - `pays` : codes ISO à 2 lettres des pays concernés, le principal en premier (il donne le drapeau de la carte). Vide si tu n'es pas sûr.
 - `competition` : Keur Foot seulement (CAN, Éliminatoires CAN 2027, Ligue des champions CAF, Coupe de la CAF, Ballon d'Or, Premier League…), sinon `null`.
-- `tags` : seulement des `tag` qui existent dans `tmp/entites-<site>.json` (ex. `auteur:marguerite-abouet`) ; sinon `[]`.
+- `tags` : seulement des `tag` qui existent dans `tmp/entites-<site>.json` (ex. `auteur:marguerite-abouet`, `matiere:wax`, `legume:tomate`, `situation:dettes-urssaf`) ; sinon `[]`. Keur Cook n'a pas de tags : ses pages pays filtrent sur `pays`.
 - `image_requetes`, du plus précis au plus large : pour Wikimedia, le **nom exact** de la personne, du lieu ou du club cité ; pour Openverse, 2 à 4 mots-clés **en anglais**, génériques (`african football stadium`, `bookstore books`…).
-- `image_alt` : description factuelle de ce qu'on verra sur la photo **Wikimedia** (la personne, le lieu ou le club exact), 160 caractères au plus.
+- `image_alt` : description factuelle de ce qu'on verra sur la photo **Wikimedia** (la personne, le lieu ou le club exact), 160 caractères au plus. Reste prudent : la photo trouvée peut montrer une autre vue du sujet (une racine plutôt qu'une gousse, un bouton plutôt qu'un pot) ; décris le sujet, pas un détail que tu supposes.
 - `image_alt_large` : description **générique**, vraie pour n'importe quelle photo Openverse trouvée avec tes mots-clés (ex. « Des joueurs lors d'un match de football en Afrique »). Pour une carte générée, le texte alternatif est écrit automatiquement.
 
 ## 4. Contrôle anti-copie, puis publication (aucune IA)
