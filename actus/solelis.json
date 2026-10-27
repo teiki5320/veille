@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "site": "solelis",
+  "genere_le": "2026-10-27T08:01:05.037Z",
+  "actus": [
+    {
+      "id": "7fe1d1dfaebf3c6be3ab2601f2c57278cb728159",
+      "titre": "Les Forges de Tarbes, fabricant de corps d'obus, en redressement judiciaire",
+      "resume": "Le tribunal a ouvert lundi un redressement judiciaire pour cette usine des Hautes-Pyrénées, à la demande de son propriétaire, le groupe Europlasma. Seule usine du pays à fabriquer ces corps d'obus de calibre 155 mm, elle emploie une soixantaine de personnes et espère trouver un repreneur.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
+      "autres_sources": [
+        "https://www.sudouest.fr/economie/armement-les-forges-de-tarbes-qui-fabriquent-des-corps-d-obus-notamment-utilises-par-l-armee-ukrainienne-placees-en-redressement-judiciaire-31258787.php",
+        "https://www.bfmtv.com/economie/entreprises/defense/une-soixantaine-d-employes-y-fabriquent-les-corps-d-obus-des-canons-caesar-les-forges-de-tarbes-en-redressement-judiciaire_AD-202610270074.html"
+      ],
+      "publie_le": "2026-10-27T00:39:28.000Z",
+      "collecte_le": "2026-10-27T08:01:05.037Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/7fe1d1dfaebf3c6be3ab2601f2c57278cb728159.webp",
+        "source": "wikimedia",
+        "credit": "Florent Pécassou",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mairie_de_Tarbes_(Hautes-Pyr%C3%A9n%C3%A9es,_France).jpg",
+        "alt": "Une vue de la ville de Tarbes",
+        "mots_cles": [
+          "Tarbes"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "737e17d1bfee8c2a4caa408f00bc2fbc3faf3892",
+      "titre": "Alizé Group, fabricant de puzzles, en redressement malgré une bonne activité",
+      "resume": "L'entreprise mosellane a elle-même demandé, en juillet, à être placée sous la protection du tribunal, alors que ses ventes se portent bien. Ses difficultés tiennent surtout à sa structure financière ; une décision sur son avenir est attendue le 12 janvier 2027.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "L'Usine Nouvelle",
+      "source_url": "https://www.usinenouvelle.com/biens-de-consommation/jeux-et-jouets/une-problematique-plus-capitalistique-queconomique-pourquoi-le-fabricant-de-puzzles-alize-group-a-demande-son-placement-en-redressement-judiciaire-malgre-ses-bons-chiffres.RGQIUORK7FF7DJPHGFGLDDY3NY.html",
+      "publie_le": "2026-10-26T15:41:40.000Z",
+      "collecte_le": "2026-10-27T08:01:05.037Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/737e17d1bfee8c2a4caa408f00bc2fbc3faf3892.webp",
+        "source": "wikimedia",
+        "credit": "Colin",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_-_1000_piece_jigsaw_puzzle.jpg",
+        "alt": "Des pièces de puzzle",
+        "mots_cles": [
+          "jigsaw puzzle"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "33246eb3ef1591f55ee983b733a09baf76794ee1",
+      "titre": "Commerces dégradés à la mi-octobre : les aides prévues par l'État",
+      "resume": "Après les casses subies par des commerces lors des journées des 17 et 18 octobre, l'État a annoncé dès le 20 octobre des mesures d'urgence. Elles comprennent un soutien financier, une aide exceptionnelle pour l'emploi et le recours immédiat à l'activité partielle, pour une reprise rapide.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Service-Public.fr",
+      "source_url": "https://entreprendre.service-public.gouv.fr/actualites/A19106?xtor=RSS-112",
+      "autres_sources": [
+        "https://entreprendre.service-public.gouv.fr/actualites/A19108?xtor=RSS-112",
+        "https://entreprendre.service-public.gouv.fr/actualites/A19104?xtor=RSS-112"
+      ],
+      "publie_le": "2026-10-25T23:00:00.000Z",
+      "collecte_le": "2026-10-27T08:01:05.037Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/solelis/33246eb3ef1591f55ee983b733a09baf76794ee1.svg",
+        "source": "carte",
+        "credit": "Illustration : Solelis",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Solelis avec la mention « Entreprises »",
+        "mots_cles": [
+          "shop storefront",
+          "small shop"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9",
+      "titre": "E-Totem, pionnier des bornes de recharge, placé en redressement judiciaire",
+      "resume": "Le tribunal de Saint-Étienne a ouvert le 7 octobre un redressement judiciaire pour cette entreprise de la Loire, après dix ans de forte croissance. Ses ventes ont chuté de 33 millions d'euros sur un an, faute de financement pour son modèle reposant sur le tiers-investissement.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "L'Usine Nouvelle",
+      "source_url": "https://www.usinenouvelle.com/auto/son-chiffre-daffaires-a-baisse-de-33-millions-deuros-en-un-an-le-pionnier-francais-des-bornes-de-recharge-pour-voitures-electriques-e-totem-place-en-redressement-judiciaire.BIUHCPBFXRGE5EAGQGX67XMXNI.html",
+      "publie_le": "2026-10-25T14:30:00.000Z",
+      "collecte_le": "2026-10-27T08:01:05.037Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/solelis/c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9.svg",
+        "source": "carte",
+        "credit": "Illustration : Solelis",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Solelis avec la mention « Entreprises »",
+        "mots_cles": [
+          "electric car charging station"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    }
+  ]
+}

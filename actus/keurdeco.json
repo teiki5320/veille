@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "site": "keurdeco",
+  "genere_le": "2026-10-27T08:00:32.960Z",
+  "actus": [
+    {
+      "id": "fe9913ba94141df44f26f6e57e7c80da2e12a147",
+      "titre": "Ibrahim Mahama investit la Fondation Cartier avec « Le Temps des récoltes »",
+      "resume": "L'artiste ghanéen Ibrahim Mahama, très influent dans le monde de l'art, présente à la Fondation Cartier, à Paris, sa première exposition d'envergure dans l'Hexagone. Il y a convié neuf autres créateurs : formes et matériaux s'entremêlent sur trois étages, avec en toile de fond l'héritage du colonialisme.",
+      "theme": "deco",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/culture/article/2026/10/26/le-ghana-seme-objets-et-fantomes-du-colonialisme-a-la-fondation-cartier_6800800_3246.html",
+      "autres_sources": [
+        "https://www.lemonde.fr/culture/article/2026/10/26/le-ghaneen-ibrahim-mahama-cultive-un-art-sans-limites-du-partage_6800793_3246.html"
+      ],
+      "publie_le": "2026-10-26T15:30:01.000Z",
+      "collecte_le": "2026-10-27T08:00:32.960Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/fe9913ba94141df44f26f6e57e7c80da2e12a147.webp",
+        "source": "wikimedia",
+        "credit": "Alhassan Mohammed Awal",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Awal_with_Artist_Ibrahim_Mahama,_Founder_of_Red_Clay_archive_center.jpg",
+        "alt": "Une œuvre ou un portrait de l'artiste ghanéen Ibrahim Mahama",
+        "mots_cles": [
+          "Ibrahim Mahama artist"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9392e2b4a69303a76b89444472e3751bd1ba5ffa",
+      "titre": "Des quilts de Gee's Bend habillent les premiers sièges de Marfa Stance",
+      "resume": "La marque britannique de vêtements d'extérieur Marfa Stance se lance dans le mobilier. Ses sièges, dessinés avec Stephen Kenn Studio, sont recouverts de quilts de Gee's Bend, ces courtepointes cousues par des femmes afro-américaines de l'Alabama.",
+      "theme": "deco",
+      "pays": [
+        "US"
+      ],
+      "source_nom": "Wallpaper*",
+      "source_url": "https://www.wallpaper.com/design-interiors/furniture/marfa-stance-furniture-stephen-kenn-studio-gees-bend",
+      "publie_le": "2026-10-26T10:23:38.000Z",
+      "collecte_le": "2026-10-27T08:00:32.960Z",
+      "langue": "en",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/9392e2b4a69303a76b89444472e3751bd1ba5ffa.webp",
+        "source": "wikimedia",
+        "credit": "Lucy Mingo",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Pieced_Quilt,_c._1979_by_Lucy_Mingo,_Gee%27s_Bend,_Alabama.JPG",
+        "alt": "Un quilt de Gee's Bend, courtepointe aux motifs géométriques",
+        "mots_cles": [
+          "Gee's Bend quilt"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "963b5f1d0ab5a0bd1bc59d4d9c3f76468d880df6",
+      "titre": "AKAA : la foire de l'art africain a tenu sa 11e édition à Paris",
+      "resume": "La foire AKAA (Also Known As Africa), consacrée aux artistes contemporains d'Afrique et de sa diaspora, s'est achevée dimanche à Paris, au Carreau du Temple. Son directeur artistique, Sitor Senghor, y voit un marché qui s'organise et l'arrivée de nouveaux collectionneurs sur le continent.",
+      "theme": "deco",
+      "pays": [],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261024-sitor-senghor-akaa-les-artistes-africains-dans-les-grandes-galeries-occidentales-continuent-%C3%A0-y-%C3%AAtre-et-%C3%A0-prosp%C3%A9rer",
+      "publie_le": "2026-10-24T22:38:52.000Z",
+      "collecte_le": "2026-10-27T08:00:32.960Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/963b5f1d0ab5a0bd1bc59d4d9c3f76468d880df6.webp",
+        "source": "wikimedia",
+        "credit": "Carreau du Temple",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Carreau_du_Temple,_Paris_9_April_2014.jpg",
+        "alt": "Le Carreau du Temple, à Paris",
+        "mots_cles": [
+          "Carreau du Temple"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "2e411fdf7c30fc642f8178a85a363a79b847afe2",
+      "titre": "Marrakech, une journée pour découvrir l'art contemporain de la ville",
+      "resume": "Connaissance des Arts propose un parcours d'une journée, heure par heure, à travers Marrakech, où l'art classique, moderne et contemporain se découvre au fil des rues. Une façon de saisir la vitalité de la scène artistique marocaine.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Connaissance des Arts",
+      "source_url": "https://www.connaissancedesarts.com/arts-expositions/une-journee-a-marrakech-notre-itineraire-exclusif-heure-par-heure-dans-lart-contemporain-11210220/",
+      "publie_le": "2026-10-24T11:00:38.000Z",
+      "collecte_le": "2026-10-27T08:00:32.960Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/2e411fdf7c30fc642f8178a85a363a79b847afe2.webp",
+        "source": "wikimedia",
+        "credit": "Petar Milošević",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Oriental_hanging_lanterns._Souk_Haddadine,_Marrakech_Medina,_Morocco.jpg",
+        "alt": "La médina de Marrakech, au Maroc",
+        "mots_cles": [
+          "Marrakech medina"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "site": "kultiled",
+  "genere_le": "2026-10-27T08:00:41.227Z",
+  "actus": [
+    {
+      "id": "58118437da6dddac6971b5af09ec9f89ea20170b",
+      "titre": "Plantes d'intérieur : un rapport américain compare les achats depuis 2019",
+      "resume": "Aux États-Unis, le Floral Marketing Fund publie son rapport 2025 sur les plantes d'intérieur achetées par le grand public. Il compare les habitudes de 2019, 2021 et 2025 : ce que les gens choisissent, combien ils y consacrent et les pistes pour la filière.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "source_nom": "Greenhouse Management",
+      "source_url": "https://www.greenhousemag.com/consumer-houseplant-purchasing-report-2025-research-trends-floral-marketing-fund",
+      "publie_le": "2026-10-26T12:38:00.000Z",
+      "collecte_le": "2026-10-27T08:00:41.227Z",
+      "langue": "en",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/58118437da6dddac6971b5af09ec9f89ea20170b.webp",
+        "source": "wikimedia",
+        "credit": "Agnes Monkelbaan",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Amaryllis_(Hippeastrum)_18-01-2025._(actm.)_04.jpg",
+        "alt": "Des plantes d'intérieur en pot",
+        "mots_cles": [
+          "Houseplants"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "90c018d7f86270353f0e05c03178ec67af3a9076",
+      "titre": "« Fleur du diable » : une plante noire qui se passe de lumière",
+      "resume": "Récemment décrite comme une espèce nouvelle, cette plante sombre s'est affranchie de la lumière au fil de son évolution. Une découverte qui montre que la botanique, loin d'avoir tout révélé, garde des formes de vie aux parcours inattendus.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "source_nom": "Le Figaro",
+      "source_url": "https://www.lefigaro.fr/jardin/fleur-du-diable-cette-etrange-plante-noire-qui-a-renonce-a-la-lumiere-20261026",
+      "publie_le": "2026-10-26T08:49:32.000Z",
+      "collecte_le": "2026-10-27T08:00:41.227Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/kultiled/90c018d7f86270353f0e05c03178ec67af3a9076.svg",
+        "source": "carte",
+        "credit": "Illustration : Kultiled",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Kultiled avec la mention « Culture en intérieur »",
+        "mots_cles": [
+          "black flower"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "a2fa101cb1645f7efc888150fdd5add04fb787b6",
+      "titre": "Un radis qui se cueille sur la tige plutôt que dans la terre",
+      "resume": "Dans sa chronique sur une plante chaque semaine, Futura présente une forme méconnue du radis : au lieu d'arracher la racine, on récolte à hauteur de main. Une curiosité qui ne demande ni de se baisser ni de retourner le sol.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "tags": [
+        "legume:radis"
+      ],
+      "source_nom": "Futura",
+      "source_url": "https://www.futura-sciences.com/maison/actualites/potager-plante-semaine-vous-connaissez-forcement-radis-mais-certainement-pas-sous-cette-forme-il-mange-138812/",
+      "publie_le": "2026-10-25T10:13:49.000Z",
+      "collecte_le": "2026-10-27T08:00:41.227Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/a2fa101cb1645f7efc888150fdd5add04fb787b6.webp",
+        "source": "wikimedia",
+        "credit": "Tim Evanson from Cleveland Heights, Ohio, USA",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Green_radish_(34758437621).jpg",
+        "alt": "Des gousses de radis sur la plante",
+        "mots_cles": [
+          "Raphanus sativus caudatus"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    }
+  ]
+}

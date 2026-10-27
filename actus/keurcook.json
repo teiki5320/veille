@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "site": "keurcook",
+  "genere_le": "2026-10-27T08:00:26.093Z",
+  "actus": [
+    {
+      "id": "93dddac0c18cb2bf8810cc73a84fa306dadd58e7",
+      "titre": "À São Tomé, la vanille prend le relais du cacao",
+      "resume": "Réputée pour son cacao, São Tomé, île située au large de l’Afrique centrale, développe désormais la culture de la vanille à l’ombre de ses forêts. Cette épice parfumée intéresse les amateurs de bonne cuisine en Europe et ouvre une nouvelle voie aux planteurs de l’archipel.",
+      "theme": "cuisine",
+      "pays": [
+        "ST"
+      ],
+      "source_nom": "Mondafrique",
+      "source_url": "https://mondafrique.com/loisirs-culture/sao-tome-lile-chocolat-mise-sur-la-vanille/",
+      "publie_le": "2026-10-26T23:15:00.000Z",
+      "collecte_le": "2026-10-27T08:00:26.093Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/93dddac0c18cb2bf8810cc73a84fa306dadd58e7.webp",
+        "source": "wikimedia",
+        "credit": "Diego Delso",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Vainilla_(Vanilla_planifolia),_Ampasipohy,_Nosy_Be,_Madagascar,_2025-09-21,_DD_25.jpg",
+        "alt": "Le vanillier (Vanilla planifolia), plante dont on tire la vanille",
+        "mots_cles": [
+          "Vanilla planifolia"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "0634a1f512649530f376ea40256aee6efc045af7",
+      "titre": "La Tunisie fête son huile d'olive du 28 au 31 octobre",
+      "resume": "Du 28 au 31 octobre, la Tunisie organise « Célébration de l'olivier 2026 », quatre jours de rencontres consacrées à la qualité de son huile d'olive. Portée par un réseau de femmes du secteur, la manifestation s'intéresse aussi à l'innovation et à l'avenir de la filière oléicole.",
+      "theme": "cuisine",
+      "pays": [
+        "TN"
+      ],
+      "source_nom": "AllAfrica",
+      "source_url": "https://fr.allafrica.com/stories/202610260790.html",
+      "publie_le": "2026-10-26T16:41:43.000Z",
+      "collecte_le": "2026-10-27T08:00:26.093Z",
+      "langue": "fr",
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/0634a1f512649530f376ea40256aee6efc045af7.webp",
+        "source": "wikimedia",
+        "credit": "Emna Mizouni",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Olive_oil_and_honey.jpg",
+        "alt": "De l'huile d'olive de Tunisie",
+        "mots_cles": [
+          "Olive oil Tunisia"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    }
+  ]
+}
