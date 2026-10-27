@@ -7,7 +7,7 @@
   "sujets": "Livres et auteurs africains et afrodescendants : prix littéraires ; sorties de livres d'auteurs africains et afrodescendants ; auteurs (interviews, portraits, hommages) ; BD africaine ; salons et festivals du livre. Surtout l'Afrique francophone, avec les grands noms anglophones (Adichie, Ngũgĩ…).",
   "exclusions": ["polémiques politiques", "faits divers"],
   "pays_prioritaires": ["SN", "CI", "CM", "CD", "CG", "ML", "GN", "BJ", "TG", "BF", "GA", "MA", "DZ", "TN", "HT", "NG", "KE", "GH", "ZA", "MG"],
-  "entites_url": "https://www.keurbook.com/veille/entites.json",
+  "entites_url": "https://keurbook.com/veille/entites.json",
   "flux": [
     { "nom": "Africultures", "url": "https://africultures.com/feed/", "langue": "fr" },
     { "nom": "Jeune Afrique", "url": "https://www.jeuneafrique.com/rubriques/culture/feed/", "langue": "fr" },
