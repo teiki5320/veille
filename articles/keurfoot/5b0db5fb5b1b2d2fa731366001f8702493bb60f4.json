@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "5b0db5fb5b1b2d2fa731366001f8702493bb60f4",
+  "slug": "ligue-des-champions-caf-berkane-esperance-et-le-mc-alger-connaissent-5b0db5",
+  "titre": "Ligue des champions CAF : Berkane, l'Espérance et le MC Alger connaissent leurs groupes",
+  "chapo": "La CAF a procédé mercredi 28 octobre, au Caire, au tirage des poules de la C1 africaine pour la saison 2026-2027. Seize clubs répartis en quatre poules joueront le titre à partir du 27 novembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Grand absent de la cérémonie : Mamelodi Sundowns. Le club sud-africain, détenteur du trophée, a été sorti dès le deuxième tour préliminaire par les Angolais de Wiliete SC. Le TP Mazembe, battu par le Club Africain, et l'ASEC Mimosas manquent aussi à l'appel. Finaliste de la dernière édition, l'AS FAR Rabat dispute cette saison la Coupe de la Confédération, tout comme Al Ahly.",
+        "Quatre anciennes figures du football africain ont procédé au tirage, dont le Camerounais Achille Emana, ancien milieu des Lions Indomptables (43 sélections, 7 buts), et le Burkinabè Alain Traoré."
+      ]
+    },
+    {
+      "intertitre": "De longs voyages pour Berkane et l'Espérance",
+      "paragraphes": [
+        "Dans le groupe A, l'Espérance de Tunis, demi-finaliste l'an passé, ira deux fois en Angola : chez Petro Atlético, puis chez Wiliete SC, le tombeur des Sundowns. Le FC Nouadhibou, club mauritanien qui a écarté le FC San Pedro ivoirien, complète la poule. Afrik-Foot estime à près de 18 000 km les trajets des Tunisiens.",
+        "La RS Berkane, autre demi-finaliste, est versée dans le groupe C avec Simba SC (Tanzanie), les Orlando Pirates, dirigés par le Marocain Abdeslam Ouaddou, et la Colombe Sportive (Cameroun). Le champion du Cameroun a éliminé Teungueth FC, club sénégalais, pour vivre ce rendez-vous que la presse camerounaise juge historique."
+      ]
+    },
+    {
+      "intertitre": "Deux poules relevées pour le MC Alger et le MAS de Fès",
+      "paragraphes": [
+        "Qualifié après avoir renversé la situation contre Rangers International (Nigeria), le club algérois tombe dans le groupe B. Il y retrouvera le Zamalek, cinq fois vainqueur de l'épreuve, les Tanzaniens de Young Africans et le Club Africain, pour un duel entre Algérois et Tunisiens.",
+        "Dans le groupe D, le MAS de Fès, champion du Maroc, affrontera Pyramids FC, sacré en 2025, Al Hilal Omdurman (Soudan) et le Horoya AC (Guinée)."
+      ]
+    },
+    {
+      "intertitre": "Une édition sans maître désigné",
+      "paragraphes": [
+        "Privée de plusieurs habitués, cette édition paraît plus ouverte. RFI cite Pyramids, le Zamalek, l'Espérance et Berkane parmi les prétendants. Les deux premiers de chaque groupe iront en quarts de finale.",
+        "Invité à conseiller la Colombe, Achille Emana a demandé aux joueurs de tout donner sans regret, en rappelant que le club n'avait pas atteint ce niveau par hasard."
+      ]
+    }
+  ],
+  "mots": 384,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "TN",
+    "DZ",
+    "EG",
+    "CM"
+  ],
+  "competition": "Ligue des champions CAF",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/ligue-des-champions-caf-tirage-corse-pour-le-mc-alger-un-long-periple-attend-berkane-et-lesperance",
+  "autres_sources": [
+    "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/20261028-retour-sur-le-tirage-au-sort-de-la-phase-de-groupes-de-la-ligue-des-champions-caf",
+    "https://www.camfoot.com/actualites/ldc-caf-colombe-du-dja-et-lobo-herite-dun-groupe-complique,559078.html",
+    "https://africatopsports.com/caf/ligue-des-champions-caf-la-colombe-sportive-du-sud-la-grosse-surprise/",
+    "https://africatopsports.com/football/ligue-des-champions-caf-sundowns-al-ahly-mazembe-absents-les-geants-ne-font-plus-la-loi/",
+    "https://www.camfoot.com/actualites/ldc-caf-le-message-poignant-dachille-emana-a-colombe,559071.html",
+    "https://www.camfoot.com/actualites/la-caf-honore-achille-emana,559065.html"
+  ],
+  "publie_le": "2026-10-28T12:50:03.000Z",
+  "redige_le": "2026-10-28T18:21:44.281Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/5b0db5fb5b1b2d2fa731366001f8702493bb60f4.webp",
+    "source": "wikimedia",
+    "credit": "Credits to Mourad Ben Abdallah / Wikimedia Commons",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Esperance_Tunis_Building.JPG",
+    "alt": "La Renaissance sportive de Berkane, club de football marocain qualifié pour la phase de groupes",
+    "mots_cles": [
+      "Espérance sportive de Tunis"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

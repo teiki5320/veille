@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-28T11:28:40.666Z",
+  "genere_le": "2026-10-28T18:24:57.881Z",
   "actus": [
+    {
+      "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",
+      "titre": "Commerces pillés : une aide directe pouvant atteindre 10 000 euros",
+      "resume": "Le ministre du Commerce, Serge Papin, a précisé mercredi le fonds promis aux commerces endommagés depuis la mobilisation du 17 octobre : un montant plafonné à 10 000 euros, réservé aux entreprises de moins de 50 salariés. Environ 3 000 entreprises seraient touchées. Un prêt à taux zéro de Bpifrance reste aussi ouvert.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:credit-bancaire"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/economie/article/2026/10/28/mobilisations-sociales-le-gouvernement-prevoit-une-aide-allant-jusqu-a-10-000-euros-pour-les-commerces-endommages_6801573_3234.html",
+      "publie_le": "2026-10-28T12:10:32.000Z",
+      "collecte_le": "2026-10-28T18:24:57.881Z",
+      "langue": "fr",
+      "slug": "commerces-pilles-une-aide-directe-pouvant-atteindre-10-000-euros-a7e2e0",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8.webp",
+        "source": "wikimedia",
+        "credit": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_Trade,_Crafts,_Tourism_and_Purchasing_Power,_to_the_EC_-_2025_(03).jpg",
+        "alt": "Serge Papin, ministre du Commerce",
+        "mots_cles": [
+          "Serge Papin"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0bf71162ab118deb36af95fb16b94cd11cf0bd00",
       "titre": "Forges de Tarbes : l'État discute avec quatre candidats à la reprise",

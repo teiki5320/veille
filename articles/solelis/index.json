@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-28T11:28:44.585Z",
+  "genere_le": "2026-10-28T18:25:08.604Z",
   "articles": [
+    {
+      "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",
+      "slug": "commerces-pilles-une-aide-directe-pouvant-atteindre-10-000-euros-a7e2e0",
+      "titre": "Commerces pillés : une aide directe pouvant atteindre 10 000 euros",
+      "publie_le": "2026-10-28T12:10:32.000Z",
+      "redige_le": "2026-10-28T18:24:57.881Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8.json"
+    },
     {
       "id": "0bf71162ab118deb36af95fb16b94cd11cf0bd00",
       "slug": "forges-de-tarbes-etat-discute-avec-quatre-candidats-la-reprise-0bf711",

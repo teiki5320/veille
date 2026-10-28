@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b",
+  "slug": "can-2032-une-mission-de-la-caf-inspecte-les-stades-et-hopitaux-du-bf3ab9",
+  "titre": "CAN 2032 : une mission de la CAF inspecte les stades et hôpitaux du Sénégal",
+  "chapo": "Le Sénégal veut recevoir la CAN en 2032. Une délégation de la CAF parcourt le pays depuis lundi 26 octobre pour examiner ses stades, ses hôpitaux et ses moyens de transport.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "D'après le quotidien sénégalais Source A, repris par plusieurs médias locaux, la tournée a commencé au stade Léopold Sédar Senghor de Dakar. Les inspecteurs se sont ensuite rendus à l'enceinte Abdoulaye-Wade, à Diamniadio, et sur son terrain annexe. La mission devait s'achever mercredi par le King Fahd Palace, un hôtel, puis le stade Iba-Mar-Diop.",
+        "Le volet médical fait partie de l'examen. Les inspecteurs ont prévu de passer par deux établissements de santé : l'hôpital polyclinique de Dakar et celui de Diamniadio, qui porte le nom de Youssou Mbargane."
+      ]
+    },
+    {
+      "intertitre": "Les déplacements passés au crible",
+      "paragraphes": [
+        "La CAF regarde aussi comment circuleraient les sélections, les officiels et le public. Les inspecteurs ont emprunté le Train express régional, qui relie Dakar à Diamniadio, et l'autoroute à péage, deux axes essentiels autour de la capitale.",
+        "Il s'agit de mesurer si le pays peut recevoir plusieurs équipes et des milliers de supporters, avec un hébergement suffisant et des trajets fluides entre les sites."
+      ]
+    },
+    {
+      "intertitre": "Un comité de pilotage provisoire",
+      "paragraphes": [
+        "Pour suivre la visite, les autorités ont créé un comité de pilotage provisoire. On y trouve Abdoulaye Kane, secrétaire général de la FSF, le directeur de cabinet au ministère chargé des Sports et des représentants d'autres ministères.",
+        "Ce dispositif doit permettre aux pouvoirs publics et à la fédération de présenter un dossier unique et cohérent aux évaluateurs."
+      ]
+    },
+    {
+      "intertitre": "Une candidature ouverte depuis juillet",
+      "paragraphes": [
+        "La CAF a lancé en juillet 2026 l'appel à candidatures pour les éditions 2028, 2032 et 2036 de la CAN. Le Sénégal n'a organisé le tournoi qu'une seule fois, en 1992.",
+        "La visite intervient alors que Dakar s'apprête à recevoir les Jeux olympiques de la jeunesse, à partir du 31 octobre, un autre test pour les équipements du pays."
+      ]
+    }
+  ],
+  "mots": 314,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN"
+  ],
+  "competition": "CAN 2032",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/candidature-a-la-can-2032-stades-hopitaux-transports-la-caf-evalue-les-infrastructures-du-senegal_2018204.html",
+  "autres_sources": [
+    "https://africatopsports.com/afrique-football/can-2032-la-caf-evalue-les-infrastructures-du-senegal/",
+    "https://wiwsport.com/2026/10/28/can-2032-une-mission-dinspection-de-la-caf-en-visite-au-senegal/"
+  ],
+  "publie_le": "2026-10-28T11:17:21.000Z",
+  "redige_le": "2026-10-28T18:21:44.281Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurfoot/bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Foot",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « CAN 2032 »",
+    "mots_cles": [
+      "Stade Abdoulaye Wade",
+      "Stade Léopold Sédar Senghor",
+      "dakar stadium",
+      "senegal football"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

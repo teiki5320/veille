@@ -1,8 +1,56 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-28T11:28:40.641Z",
+  "genere_le": "2026-10-28T18:24:57.875Z",
   "articles": [
+    {
+      "id": "8cd5a84270c02888c09d2a57c401f5b69f8a3fef",
+      "slug": "mondial-2030-la-fifa-va-inspecter-six-villes-marocaines-candidates-8cd5a8",
+      "titre": "Mondial 2030 : la FIFA va inspecter six villes marocaines candidates",
+      "publie_le": "2026-10-28T17:51:00.000Z",
+      "redige_le": "2026-10-28T18:21:44.281Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/8cd5a84270c02888c09d2a57c401f5b69f8a3fef.json"
+    },
+    {
+      "id": "2350b9ea76f3d902c5efe7ff3e9c9faa128710d0",
+      "slug": "can-2027-le-bayern-et-ajax-inaugureront-le-nouveau-stade-de-nairobi-en-2350b9",
+      "titre": "CAN 2027 : le Bayern et l'Ajax inaugureront le nouveau stade de Nairobi en janvier",
+      "publie_le": "2026-10-28T17:00:00.000Z",
+      "redige_le": "2026-10-28T18:21:44.281Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/2350b9ea76f3d902c5efe7ff3e9c9faa128710d0.json"
+    },
+    {
+      "id": "87756a263f70d609d670a446795c43818ab7d637",
+      "slug": "mondial-u15-algerie-sortie-par-la-guinee-le-maroc-elimine-le-cameroun-87756a",
+      "titre": "Mondial U15 : l'Algérie sortie par la Guinée, le Maroc élimine le Cameroun",
+      "publie_le": "2026-10-28T12:54:11.000Z",
+      "redige_le": "2026-10-28T18:21:44.281Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/87756a263f70d609d670a446795c43818ab7d637.json"
+    },
+    {
+      "id": "5b0db5fb5b1b2d2fa731366001f8702493bb60f4",
+      "slug": "ligue-des-champions-caf-berkane-esperance-et-le-mc-alger-connaissent-5b0db5",
+      "titre": "Ligue des champions CAF : Berkane, l'Espérance et le MC Alger connaissent leurs groupes",
+      "publie_le": "2026-10-28T12:50:03.000Z",
+      "redige_le": "2026-10-28T18:21:44.281Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/5b0db5fb5b1b2d2fa731366001f8702493bb60f4.json"
+    },
+    {
+      "id": "021d0208e5d6156ba92b2b6168bfad3f2d943d33",
+      "slug": "coupe-de-la-caf-le-raja-casablanca-defiera-al-ahly-usm-alger-retrouve-021d02",
+      "titre": "Coupe de la CAF : le Raja Casablanca défiera Al Ahly, l'USM Alger retrouve Sfax",
+      "publie_le": "2026-10-28T11:50:36.000Z",
+      "redige_le": "2026-10-28T18:21:44.281Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/021d0208e5d6156ba92b2b6168bfad3f2d943d33.json"
+    },
+    {
+      "id": "bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b",
+      "slug": "can-2032-une-mission-de-la-caf-inspecte-les-stades-et-hopitaux-du-bf3ab9",
+      "titre": "CAN 2032 : une mission de la CAF inspecte les stades et hôpitaux du Sénégal",
+      "publie_le": "2026-10-28T11:17:21.000Z",
+      "redige_le": "2026-10-28T18:21:44.281Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b.json"
+    },
     {
       "id": "f829964fb8846632c9fa7770b5fee799b87b117c",
       "slug": "algerie-buteur-contre-al-hilal-bounedjah-absent-de-la-liste-elargie-f82996",

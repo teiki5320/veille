@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "021d0208e5d6156ba92b2b6168bfad3f2d943d33",
+  "slug": "coupe-de-la-caf-le-raja-casablanca-defiera-al-ahly-usm-alger-retrouve-021d02",
+  "titre": "Coupe de la CAF : le Raja Casablanca défiera Al Ahly, l'USM Alger retrouve Sfax",
+  "chapo": "Seize clubs connaissent depuis mercredi 28 octobre leurs adversaires pour les poules de la saison 2026-2027 en Coupe de la Confédération, deuxième compétition africaine des clubs. Les rencontres débutent le 27 novembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le tirage, organisé au Caire par la CAF, a produit une affiche de prestige dans le groupe A. Le Raja Casablanca, double lauréat de l'épreuve (2018 et 2021), y défiera Al Ahly. Le club cairote, douze fois champion d'Afrique, joue cette saison la Coupe de la CAF. L'ASKO de Kara (Togo) et Primeiro de Agosto (Angola) complètent le groupe.",
+        "Le Raja a gagné sa place contre El-Kanemi Warriors, club nigérian. Al Ahly a dominé les Ougandais de Kitara FC, 6-1 au total des deux matchs."
+      ]
+    },
+    {
+      "intertitre": "L'AS FAR croise Fiston Mayele",
+      "paragraphes": [
+        "Finaliste de la dernière Ligue des champions, l'AS FAR Rabat évite le Raja et hérite du groupe B. Elle y rencontrera Al Ahli Tripoli, une équipe libyenne qui a recruté l'attaquant international congolais Fiston Mayele, présenté comme le joueur le mieux payé parmi ceux qui évoluent en Afrique.",
+        "Azam FC (Tanzanie) et Durban City (Afrique du Sud), qui découvre ce stade de la compétition, complètent la poule. L'AS FAR a obtenu sa qualification contre le CO Korhogo, club ivoirien (2-1 au cumul)."
+      ]
+    },
+    {
+      "intertitre": "L'USM Alger face à deux clubs chargés d'histoire",
+      "paragraphes": [
+        "Tenante du trophée, l'USM Alger a passé le dernier tour sans jouer, son adversaire The Panthers ayant déclaré forfait. Dans le groupe D, elle retrouvera le CS Sfaxien, vainqueur en 2007, 2008 et 2013, qui dispute sa onzième phase de groupes, un record.",
+        "L'AS Real Bamako, finaliste en 1966 de l'ancienne Coupe d'Afrique des clubs champions, et les Black Bulls du Mozambique sont aussi au programme."
+      ]
+    },
+    {
+      "intertitre": "Une place encore suspendue au TAS",
+      "paragraphes": [
+        "Le groupe C n'est pas complet. Son dernier membre sortira de la confrontation entre le CR Belouizdad et l'AS Douanes (Mauritanie) ou le Hafia FC (Guinée), dont le différend doit être tranché par le Tribunal arbitral du sport.",
+        "Ce club rejoindra l'AS Maniema Union (RD Congo), quart de finaliste la saison passée, Singida Black Stars (Tanzanie) et Red Arrows (Zambie), qui a sorti les Kaizer Chiefs lors d'une séance de penalties."
+      ]
+    }
+  ],
+  "mots": 355,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "EG",
+    "DZ",
+    "ML"
+  ],
+  "competition": "Coupe de la CAF",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/tirage-coupe-de-la-caf-groupe-raja-usma-as-far-crb",
+  "autres_sources": [
+    "https://kawowo.com/2026/10/28/ugandan-players-pitted-in-same-pool-as-caf-confederation-cup-groups-are-drawn/"
+  ],
+  "publie_le": "2026-10-28T11:50:36.000Z",
+  "redige_le": "2026-10-28T18:21:44.281Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurfoot/021d0208e5d6156ba92b2b6168bfad3f2d943d33.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Foot",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Foot avec le drapeau national (Maroc) et la mention « Coupe de la CAF »",
+    "mots_cles": [
+      "Raja Club Athletic",
+      "Al Ahly SC",
+      "african football supporters",
+      "football stadium night"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

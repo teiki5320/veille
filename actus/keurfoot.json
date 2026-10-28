@@ -1,8 +1,230 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-28T11:28:07.557Z",
+  "genere_le": "2026-10-28T18:21:44.281Z",
   "actus": [
+    {
+      "id": "8cd5a84270c02888c09d2a57c401f5b69f8a3fef",
+      "titre": "Mondial 2030 : la FIFA va inspecter six villes marocaines candidates",
+      "resume": "La FIFA enverra en novembre et décembre des inspecteurs dans les trois pays hôtes du Mondial 2030 : Maroc, Espagne, Portugal. Côté marocain, Rabat, Casablanca, Fès, Tanger, Agadir et Marrakech sont concernées. La répartition des matchs n'est pas encore fixée.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "ES",
+        "PT"
+      ],
+      "competition": "Coupe du monde 2030",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-2030-une-delegation-de-la-fifa-attendue-au-maroc",
+      "publie_le": "2026-10-28T17:51:00.000Z",
+      "collecte_le": "2026-10-28T18:21:44.281Z",
+      "langue": "fr",
+      "slug": "mondial-2030-la-fifa-va-inspecter-six-villes-marocaines-candidates-8cd5a8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/8cd5a84270c02888c09d2a57c401f5b69f8a3fef.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/8cd5a84270c02888c09d2a57c401f5b69f8a3fef.webp",
+        "source": "wikimedia",
+        "credit": "Reda benkhadra",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Prince_Moulay_Abdellah_Stadium,_2025.jpg",
+        "alt": "Un grand stade de football au Maroc, pays coorganisateur du Mondial 2030",
+        "mots_cles": [
+          "Prince Moulay Abdellah Stadium"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "2350b9ea76f3d902c5efe7ff3e9c9faa128710d0",
+      "titre": "CAN 2027 : le Bayern et l'Ajax inaugureront le nouveau stade de Nairobi en janvier",
+      "resume": "Le président kényan William Ruto a annoncé un match amical entre le club allemand du Bayern et l'Ajax d'Amsterdam le 5 janvier 2027 pour ouvrir le Raila Odinga International Stadium, à Nairobi. Cette enceinte de 60 000 places doit servir pendant la CAN 2027.",
+      "theme": "foot",
+      "pays": [
+        "KE"
+      ],
+      "competition": "CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/un-stade-de-la-can-2027-inaugure-par-un-match-du-bayern-avec-kane-et-olise",
+      "publie_le": "2026-10-28T17:00:00.000Z",
+      "collecte_le": "2026-10-28T18:21:44.281Z",
+      "langue": "fr",
+      "slug": "can-2027-le-bayern-et-ajax-inaugureront-le-nouveau-stade-de-nairobi-en-2350b9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2350b9ea76f3d902c5efe7ff3e9c9faa128710d0.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/2350b9ea76f3d902c5efe7ff3e9c9faa128710d0.webp",
+        "source": "wikimedia",
+        "credit": "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg : Jorge Láscar from Bogotá, Colombia derivative work: Snowmanradio…",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8-4c.jpg",
+        "alt": "Vue de Nairobi, capitale du Kenya",
+        "mots_cles": [
+          "Nairobi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "87756a263f70d609d670a446795c43818ab7d637",
+      "titre": "Mondial U15 : l'Algérie sortie par la Guinée, le Maroc élimine le Cameroun",
+      "resume": "À Bakou, pour le premier tour à élimination directe du Mondial U15, la Guinée a sorti l'Algérie après une séance de penalties (0-0) et le Maroc a battu le Cameroun 4-1. Le Mali, la Côte d'Ivoire et la Tunisie poursuivent aussi leur route.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "GN",
+        "DZ",
+        "CM"
+      ],
+      "competition": "Coupe du monde U15",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-lalgerie-eliminee-aux-tirs-au-but-le-maroc-ecrase-le-cameroun",
+      "autres_sources": [
+        "https://www.camfoot.com/actualites/mondial-u15-le-cameroun-elimine-par-le-maroc-4-1,559084.html"
+      ],
+      "publie_le": "2026-10-28T12:54:11.000Z",
+      "collecte_le": "2026-10-28T18:21:44.281Z",
+      "langue": "fr",
+      "slug": "mondial-u15-algerie-sortie-par-la-guinee-le-maroc-elimine-le-cameroun-87756a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/87756a263f70d609d670a446795c43818ab7d637.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/87756a263f70d609d670a446795c43818ab7d637.webp",
+        "source": "wikimedia",
+        "credit": "Diego Delso",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_138.jpg",
+        "alt": "Vue de Bakou, capitale de l'Azerbaïdjan, qui accueille le Mondial U15",
+        "mots_cles": [
+          "Baku"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "5b0db5fb5b1b2d2fa731366001f8702493bb60f4",
+      "titre": "Ligue des champions CAF : Berkane, l'Espérance et le MC Alger connaissent leurs groupes",
+      "resume": "La CAF a tiré au sort au Caire les quatre poules de la C1 africaine pour la saison 2026-2027. Sans les Mamelodi Sundowns ni le TP Mazembe, sortis en préliminaires, l'épreuve reprend le 27 novembre avec Pyramids, le Zamalek, Berkane et l'Espérance parmi les favoris.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "TN",
+        "DZ",
+        "EG",
+        "CM"
+      ],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/ligue-des-champions-caf-tirage-corse-pour-le-mc-alger-un-long-periple-attend-berkane-et-lesperance",
+      "autres_sources": [
+        "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/20261028-retour-sur-le-tirage-au-sort-de-la-phase-de-groupes-de-la-ligue-des-champions-caf",
+        "https://www.camfoot.com/actualites/ldc-caf-colombe-du-dja-et-lobo-herite-dun-groupe-complique,559078.html",
+        "https://africatopsports.com/caf/ligue-des-champions-caf-la-colombe-sportive-du-sud-la-grosse-surprise/",
+        "https://africatopsports.com/football/ligue-des-champions-caf-sundowns-al-ahly-mazembe-absents-les-geants-ne-font-plus-la-loi/",
+        "https://www.camfoot.com/actualites/ldc-caf-le-message-poignant-dachille-emana-a-colombe,559071.html",
+        "https://www.camfoot.com/actualites/la-caf-honore-achille-emana,559065.html"
+      ],
+      "publie_le": "2026-10-28T12:50:03.000Z",
+      "collecte_le": "2026-10-28T18:21:44.281Z",
+      "langue": "fr",
+      "slug": "ligue-des-champions-caf-berkane-esperance-et-le-mc-alger-connaissent-5b0db5",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5b0db5fb5b1b2d2fa731366001f8702493bb60f4.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/5b0db5fb5b1b2d2fa731366001f8702493bb60f4.webp",
+        "source": "wikimedia",
+        "credit": "Credits to Mourad Ben Abdallah / Wikimedia Commons",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Esperance_Tunis_Building.JPG",
+        "alt": "La Renaissance sportive de Berkane, club de football marocain qualifié pour la phase de groupes",
+        "mots_cles": [
+          "Espérance sportive de Tunis"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "021d0208e5d6156ba92b2b6168bfad3f2d943d33",
+      "titre": "Coupe de la CAF : le Raja Casablanca défiera Al Ahly, l'USM Alger retrouve Sfax",
+      "resume": "Le tirage des poules de la deuxième coupe continentale des clubs, édition 2026-2027, place le Raja Casablanca face à Al Ahly. L'USM Alger, tenante du titre, croisera le CS Sfaxien et l'AS Real Bamako. Les premiers matchs auront lieu le 27 novembre.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "EG",
+        "DZ",
+        "ML"
+      ],
+      "competition": "Coupe de la CAF",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/tirage-coupe-de-la-caf-groupe-raja-usma-as-far-crb",
+      "autres_sources": [
+        "https://kawowo.com/2026/10/28/ugandan-players-pitted-in-same-pool-as-caf-confederation-cup-groups-are-drawn/"
+      ],
+      "publie_le": "2026-10-28T11:50:36.000Z",
+      "collecte_le": "2026-10-28T18:21:44.281Z",
+      "langue": "fr",
+      "slug": "coupe-de-la-caf-le-raja-casablanca-defiera-al-ahly-usm-alger-retrouve-021d02",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/021d0208e5d6156ba92b2b6168bfad3f2d943d33.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/021d0208e5d6156ba92b2b6168bfad3f2d943d33.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Maroc) et la mention « Coupe de la CAF »",
+        "mots_cles": [
+          "Raja Club Athletic",
+          "Al Ahly SC",
+          "african football supporters",
+          "football stadium night"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b",
+      "titre": "CAN 2032 : une mission de la CAF inspecte les stades et hôpitaux du Sénégal",
+      "resume": "Des inspecteurs de la CAF visitent cette semaine les équipements sénégalais, du stade Léopold-Sédar-Senghor à l'enceinte Abdoulaye-Wade, à Diamniadio, ainsi que des hôpitaux, le TER et l'autoroute à péage. Le Sénégal brigue l'accueil de la CAN 2032.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "CAN 2032",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/candidature-a-la-can-2032-stades-hopitaux-transports-la-caf-evalue-les-infrastructures-du-senegal_2018204.html",
+      "autres_sources": [
+        "https://africatopsports.com/afrique-football/can-2032-la-caf-evalue-les-infrastructures-du-senegal/",
+        "https://wiwsport.com/2026/10/28/can-2032-une-mission-dinspection-de-la-caf-en-visite-au-senegal/"
+      ],
+      "publie_le": "2026-10-28T11:17:21.000Z",
+      "collecte_le": "2026-10-28T18:21:44.281Z",
+      "langue": "fr",
+      "slug": "can-2032-une-mission-de-la-caf-inspecte-les-stades-et-hopitaux-du-bf3ab9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « CAN 2032 »",
+        "mots_cles": [
+          "Stade Abdoulaye Wade",
+          "Stade Léopold Sédar Senghor",
+          "dakar stadium",
+          "senegal football"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f829964fb8846632c9fa7770b5fee799b87b117c",
       "titre": "Algérie : buteur contre Al-Hilal, Bounedjah absent de la liste élargie d'Hemdani",

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "8cd5a84270c02888c09d2a57c401f5b69f8a3fef",
+  "slug": "mondial-2030-la-fifa-va-inspecter-six-villes-marocaines-candidates-8cd5a8",
+  "titre": "Mondial 2030 : la FIFA va inspecter six villes marocaines candidates",
+  "chapo": "La FIFA a annoncé mardi 27 octobre des visites d'inspection dans les trois pays hôtes du Mondial 2030. Six villes marocaines recevront ses experts en novembre et en décembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Maroc organisera la Coupe du monde 2030 avec l'Espagne et le Portugal. Dans un communiqué, la FIFA précise qu'une délégation se rendra dans les trois pays pour vérifier l'avancée des projets. Côté marocain, les villes visitées seront Fès, Agadir, Marrakech, Tanger, Rabat et Casablanca.",
+        "Dans la péninsule Ibérique, neuf villes sont concernées, notamment Lisbonne, Porto, Madrid et Barcelone."
+      ]
+    },
+    {
+      "intertitre": "Stades, transports et hôtels",
+      "paragraphes": [
+        "Les inspecteurs ne regarderont pas seulement les enceintes. Ils examineront aussi les transports, l'hébergement et l'organisation prévue pour accueillir équipes, délégations et public. Les experts doivent aussi rencontrer les responsables publics, nationaux comme locaux, ainsi que ceux qui gèrent les stades.",
+        "Le but est de comparer les engagements écrits dans les dossiers avec l'état réel des chantiers, puis de repérer les corrections nécessaires. La FIFA pourra visiter d'autres sites si elle le juge utile."
+      ]
+    },
+    {
+      "intertitre": "Le calendrier reste à écrire",
+      "paragraphes": [
+        "Aucune répartition des rencontres entre les villes n'a été décidée. Le nombre de matchs confiés à chaque stade sera fixé plus tard, avec le calendrier officiel. Le lieu de la finale reste aussi ouvert : le Maroc et l'Espagne visent tous deux ce match.",
+        "La FIFA n'a donné ni les dates exactes des visites, ni l'échéance de ses choix définitifs."
+      ]
+    },
+    {
+      "intertitre": "Une première pour le Maroc",
+      "paragraphes": [
+        "Après cinq candidatures malheureuses, pour les éditions 1994, 1998, 2006, 2010 et 2026, le Maroc accueillera pour la première fois une phase finale de Coupe du monde.",
+        "L'édition 2030 marquera aussi le centenaire du tournoi. Pour cette raison, trois rencontres se joueront en Amérique du Sud, en Uruguay, en Argentine et au Paraguay.",
+        "Le royaume a déjà organisé de grandes compétitions continentales, dont la CAN 1988 et la CAN 2025."
+      ]
+    }
+  ],
+  "mots": 306,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "ES",
+    "PT"
+  ],
+  "competition": "Coupe du monde 2030",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-2030-une-delegation-de-la-fifa-attendue-au-maroc",
+  "publie_le": "2026-10-28T17:51:00.000Z",
+  "redige_le": "2026-10-28T18:21:44.281Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/8cd5a84270c02888c09d2a57c401f5b69f8a3fef.webp",
+    "source": "wikimedia",
+    "credit": "Reda benkhadra",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Prince_Moulay_Abdellah_Stadium,_2025.jpg",
+    "alt": "Un grand stade de football au Maroc, pays coorganisateur du Mondial 2030",
+    "mots_cles": [
+      "Prince Moulay Abdellah Stadium"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

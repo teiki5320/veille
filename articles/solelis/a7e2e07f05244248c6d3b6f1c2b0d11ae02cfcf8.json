@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",
+  "slug": "commerces-pilles-une-aide-directe-pouvant-atteindre-10-000-euros-a7e2e0",
+  "titre": "Commerces pillés : une aide directe pouvant atteindre 10 000 euros",
+  "chapo": "Les boutiques abîmées pendant les débordements qui ont accompagné les manifestations d'octobre pourront toucher une aide directe plafonnée à 10 000 euros. Serge Papin, chargé du Commerce au gouvernement, en a fixé le montant mercredi 28 octobre à Paris.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le fonds de soutien avait été promis peu après les premiers pillages, mais sans chiffre. Devant la presse, Serge Papin a indiqué qu'il serait réservé aux entreprises de moins de 50 salariés dont le chiffre d'affaires annuel ne dépasse pas 10 millions d'euros. L'objectif affiché est une reprise rapide de l'activité. L'aide vise seulement les boutiques réellement endommagées par les pillages ou les casses.",
+        "Le ministre évalue à environ 3 000 le nombre d'entreprises affectées depuis la journée de mobilisation du 17 octobre, une partie d'entre elles ayant subi des dégâts matériels."
+      ]
+    },
+    {
+      "intertitre": "Plus de 2 500 commerces dégradés",
+      "paragraphes": [
+        "La veille, CCI France avait publié son propre bilan : plus de 2 500 commerces dégradés dans le pays, dont 1 161 pillés, saccagés ou incendiés. L'organisation consulaire réclamait en outre l'interdiction des défilés jusqu'à la période des fêtes.",
+        "Dès le 20 octobre, l'État avait annoncé de premières mesures d'urgence, dont un accès immédiat à l'activité partielle pour les salariés des magasins touchés."
+      ]
+    },
+    {
+      "intertitre": "Un prêt sans intérêts de Bpifrance",
+      "paragraphes": [
+        "En plus de cette subvention, les commerçants sinistrés peuvent solliciter le prêt solidarité commerce de Bpifrance, créé après les violences des 17 et 18 octobre. Il peut atteindre 50 000 euros, avec un plancher de 5 000 euros, et ne porte pas d'intérêts.",
+        "Il vise les entrepreneurs individuels, les TPE et les PME qui ont plus d'un an d'existence et peuvent présenter un an de comptabilité au minimum. Le remboursement s'étale sur 36 mois, et le capital n'est à rembourser qu'après un délai de douze mois.",
+        "Pour le ministre, ces fonds doivent aider les boutiques à reconstituer leurs stocks et à retrouver des recettes."
+      ]
+    }
+  ],
+  "mots": 310,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:credit-bancaire"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/economie/article/2026/10/28/mobilisations-sociales-le-gouvernement-prevoit-une-aide-allant-jusqu-a-10-000-euros-pour-les-commerces-endommages_6801573_3234.html",
+  "publie_le": "2026-10-28T12:10:32.000Z",
+  "redige_le": "2026-10-28T18:24:57.881Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8.webp",
+    "source": "wikimedia",
+    "credit": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_Trade,_Crafts,_Tourism_and_Purchasing_Power,_to_the_EC_-_2025_(03).jpg",
+    "alt": "Serge Papin, ministre du Commerce",
+    "mots_cles": [
+      "Serge Papin"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

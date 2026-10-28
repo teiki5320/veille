@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "87756a263f70d609d670a446795c43818ab7d637",
+  "slug": "mondial-u15-algerie-sortie-par-la-guinee-le-maroc-elimine-le-cameroun-87756a",
+  "titre": "Mondial U15 : l'Algérie sortie par la Guinée, le Maroc élimine le Cameroun",
+  "chapo": "Les seizièmes de finale de la toute première Coupe du monde U15 de la FIFA se sont joués mercredi 28 octobre à Bakou, en Azerbaïdjan. Deux duels entre sélections africaines ont marqué la journée.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans le tableau principal, appelé Niveau A et réservé aux vainqueurs de groupe, la Guinée et l'Algérie n'ont pas trouvé le chemin des filets en 40 minutes. Le Syli U15 s'est imposé lors de la séance de tirs au but. Le Maroc, de son côté, a battu le Cameroun 4-1.",
+        "Ce tournoi d'un genre nouveau, présenté comme un Mondial-Festival, oppose des équipes de huit joueurs, sur deux fois 20 minutes. Les équipes éliminées continuent de jouer des matchs de classement."
+      ]
+    },
+    {
+      "intertitre": "La désillusion algérienne",
+      "paragraphes": [
+        "L'Algérie de Karim Ziani avait dominé sa poule : quatre victoires, dont une contre l'Argentine (1-0), et un nul face à Oman (3-3). Elle avait inscrit 18 buts et n'en avait concédé que trois.",
+        "Face à une Guinée qui n'avait perdu aucun match de poule, ses attaquants sont restés muets. Les jeunes Fennecs joueront désormais pour le classement final."
+      ]
+    },
+    {
+      "intertitre": "Le Maroc toujours sans défaite",
+      "paragraphes": [
+        "Les Marocains de Karim Miftal comptent six succès en six rencontres, dont un 7-0 contre Curaçao en poule. Ils restent en course pour devenir les premiers champions de cette formule lancée par la FIFA.",
+        "Le Cameroun de Franck Onana Owono avait terminé premier de son groupe, devant le Sénégal qu'il avait battu 3-0 en ouverture. Il rejoint à son tour les matchs de classement."
+      ]
+    },
+    {
+      "intertitre": "D'autres Africains qualifiés",
+      "paragraphes": [
+        "Dans les autres tableaux, le Mali a battu le Salvador 3-0, la Côte d'Ivoire a dominé le Kirghizistan 4-0 et la Tunisie s'est imposée sur le même score contre la Namibie. Le Sénégal et la RD Congo s'étaient eux aussi qualifiés, tous deux 4-1.",
+        "Toutes ces équipes resteront à Bakou jusqu'à la fin de la compétition."
+      ]
+    }
+  ],
+  "mots": 304,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "GN",
+    "DZ",
+    "CM"
+  ],
+  "competition": "Coupe du monde U15",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-lalgerie-eliminee-aux-tirs-au-but-le-maroc-ecrase-le-cameroun",
+  "autres_sources": [
+    "https://www.camfoot.com/actualites/mondial-u15-le-cameroun-elimine-par-le-maroc-4-1,559084.html"
+  ],
+  "publie_le": "2026-10-28T12:54:11.000Z",
+  "redige_le": "2026-10-28T18:21:44.281Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/87756a263f70d609d670a446795c43818ab7d637.webp",
+    "source": "wikimedia",
+    "credit": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_138.jpg",
+    "alt": "Vue de Bakou, capitale de l'Azerbaïdjan, qui accueille le Mondial U15",
+    "mots_cles": [
+      "Baku"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "2350b9ea76f3d902c5efe7ff3e9c9faa128710d0",
+  "slug": "can-2027-le-bayern-et-ajax-inaugureront-le-nouveau-stade-de-nairobi-en-2350b9",
+  "titre": "CAN 2027 : le Bayern et l'Ajax inaugureront le nouveau stade de Nairobi en janvier",
+  "chapo": "Le Kenya a trouvé une affiche européenne pour ouvrir son nouveau grand stade. Le Bayern, club de Munich, et l'Ajax d'Amsterdam s'y affronteront le 5 janvier 2027, a annoncé le président William Ruto.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'enceinte, baptisée Raila Odinga International Stadium et aussi appelée Talanta Stadium, se trouve sur Ngong Road, à Nairobi. Elle doit compter 60 000 places. Son architecture reprend la forme du bouclier qui figure sur le drapeau kényan.",
+        "Le projet prévoit des panneaux solaires, la récupération de l'eau de pluie et des loges avec vue sur la pelouse. Le match pourrait permettre au public de voir Harry Kane, récent lauréat du Ballon d'Or, ou Michael Olise, si le Bayern les fait venir. L'affiche réunit deux clubs très titrés : le Bayern compte six Ligues des champions, l'Ajax quatre."
+      ]
+    },
+    {
+      "intertitre": "Une vitrine avant la CAN",
+      "paragraphes": [
+        "Le Kenya est l'un des trois hôtes de la CAN 2027, aux côtés de la Tanzanie et de l'Ouganda. Ce sera la première fois que trois pays accueillent ensemble le tournoi.",
+        "Le président de la CAF, Patrice Motsepe, a récemment confirmé le Kenya comme pays hôte, alors que des doutes avaient été exprimés sur l'avancée des travaux. William Ruto a rappelé qu'il avait promis, deux ans plus tôt, un stade de niveau mondial capable d'attirer les plus grands clubs."
+      ]
+    },
+    {
+      "intertitre": "Un pays d'athlétisme qui mise sur le football",
+      "paragraphes": [
+        "Le Kenya est surtout réputé pour ses coureurs de demi-fond et de fond. Sa sélection, les Harambee Stars, jouera la CAN devant son public. Sa dernière participation à la phase finale remonte à 2019, en Égypte.",
+        "Aucun des trois pays hôtes n'a encore organisé la phase finale de la CAN. Le Kenya avait obtenu l'édition 1996, avant d'y renoncer au profit de l'Afrique du Sud.",
+        "Au-delà de ce match de gala, la réussite du tournoi dépendra des transports, de l'hébergement et de l'organisation dans les trois pays hôtes."
+      ]
+    }
+  ],
+  "mots": 310,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "KE"
+  ],
+  "competition": "CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/un-stade-de-la-can-2027-inaugure-par-un-match-du-bayern-avec-kane-et-olise",
+  "publie_le": "2026-10-28T17:00:00.000Z",
+  "redige_le": "2026-10-28T18:21:44.281Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/2350b9ea76f3d902c5efe7ff3e9c9faa128710d0.webp",
+    "source": "wikimedia",
+    "credit": "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg : Jorge Láscar from Bogotá, Colombia derivative work: Snowmanradio…",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8-4c.jpg",
+    "alt": "Vue de Nairobi, capitale du Kenya",
+    "mots_cles": [
+      "Nairobi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
