@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-28T00:35:23.767Z",
+  "genere_le": "2026-10-28T00:38:05.073Z",
   "actus": [
     {
       "id": "7bb83389f2cb9bade1df1270fc7e201d595b469f",
@@ -29,7 +29,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "vozinha-gardien-du-cap-vert-invite-la-soiree-du-ballon-or-apres-son-7bb833",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7bb83389f2cb9bade1df1270fc7e201d595b469f.json",
+      "lecture_min": 2
     },
     {
       "id": "e1ae240089eb21db47b2e148fab3ed50c4338d0a",
@@ -57,7 +60,14 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.cafonline.com/caf-champions-league/news/angola-s-wiliete-dethrones-holders-mamelodi-sundowns-in-totalenergies-caf-champions-league-biggest-shock/",
+        "https://briefly.co.za/sports/football/256963-mamelodi-sundowns-crash-caf-champions-league-wiliete-sc-shock/"
+      ],
+      "slug": "c1-africaine-premiere-qualification-historique-de-wiliete-sc-pour-les-e1ae24",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e1ae240089eb21db47b2e148fab3ed50c4338d0a.json",
+      "lecture_min": 1
     },
     {
       "id": "9190255f85fea072930d4cfa7a71a10e61b46ab3",
@@ -88,7 +98,13 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://africasoccer.com/toulouse-suffer-another-setback-as-algerian-defender-rafik-messali-faces-weeks-out-with-ankle-injury/"
+      ],
+      "slug": "toulouse-rafik-messali-gravement-blesse-probablement-absent-jusqu-en-919025",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9190255f85fea072930d4cfa7a71a10e61b46ab3.json",
+      "lecture_min": 1
     },
     {
       "id": "eff05f6cce33fcf8d481c5f6a90a6d0522299a54",
@@ -116,7 +132,14 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.cafonline.com/caf-champions-league/news/angola-s-wiliete-dethrones-holders-mamelodi-sundowns-in-totalenergies-caf-champions-league-biggest-shock/",
+        "https://briefly.co.za/sports/football/256963-mamelodi-sundowns-crash-caf-champions-league-wiliete-sc-shock/"
+      ],
+      "slug": "mamelodi-sundowns-sorti-des-le-2e-tour-preliminaire-de-la-ligue-des-eff05f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/eff05f6cce33fcf8d481c5f6a90a6d0522299a54.json",
+      "lecture_min": 1
     },
     {
       "id": "58fc607e6b292363b5f8d49324e7dc1c70fef6a9",
@@ -147,7 +170,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "serie-algerien-rafik-belghali-impose-comme-une-revelation-au-torino-58fc60",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/58fc607e6b292363b5f8d49324e7dc1c70fef6a9.json",
+      "lecture_min": 2
     },
     {
       "id": "1e486a8459319d621082d29798e1bf4ad1805576",
@@ -175,7 +201,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "senegal-pape-gueye-explique-sur-sa-sortie-rapide-contre-les-belges-au-1e486a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1e486a8459319d621082d29798e1bf4ad1805576.json",
+      "lecture_min": 1
     },
     {
       "id": "446bf49cbaeced9cff3d5d9092e7a028ded24c5c",
@@ -207,7 +236,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "arabie-saoudite-al-faisaly-et-abdoulaye-seck-imposent-1-0-abha-446bf4",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/446bf49cbaeced9cff3d5d9092e7a028ded24c5c.json",
+      "lecture_min": 1
     },
     {
       "id": "6f3c28e0a8a87bf0d90b358a8219075ac235f90e",
@@ -237,7 +269,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "c1-africaine-les-soudanais-al-hilal-omdurman-de-nouveau-qualifies-pour-6f3c28",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/6f3c28e0a8a87bf0d90b358a8219075ac235f90e.json",
+      "lecture_min": 1
     },
     {
       "id": "49835a86fe848d28e3fd6cb0d120ab75bda0b1aa",
@@ -266,7 +301,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "mondial-feminin-2027-la-fifa-verse-2-5-millions-de-dollars-chaque-49835a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/49835a86fe848d28e3fd6cb0d120ab75bda0b1aa.json",
+      "lecture_min": 1
     },
     {
       "id": "e1e33d7bcb2463ab935af607c688cf0825126ed8",
@@ -294,7 +332,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "tournoi-ufoa-moussa-gueye-brille-malgre-la-sortie-du-senegal-en-demi-e1e33d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e1e33d7bcb2463ab935af607c688cf0825126ed8.json",
+      "lecture_min": 1
     },
     {
       "id": "f704311108a072bbd4fc4b71f56dea401e51cd3e",
@@ -323,7 +364,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "senegal-vieira-devrait-enfin-diriger-les-lions-domicile-contre-le-f70431",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f704311108a072bbd4fc4b71f56dea401e51cd3e.json",
+      "lecture_min": 1
     },
     {
       "id": "e85a006dbeb2adeab0e36f4c9e1572aec7f3c869",
@@ -356,7 +400,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "algerie-zetchi-et-ex-dirigeants-de-la-faf-condamnes-de-la-prison-ferme-e85a00",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e85a006dbeb2adeab0e36f4c9e1572aec7f3c869.json",
+      "lecture_min": 2
     },
     {
       "id": "01b9fa6249db00d739a35e7961b8703630ed8a1d",
@@ -384,7 +431,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "cameroun-david-pagou-explique-sur-les-joueurs-absents-de-sa-liste-01b9fa",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/01b9fa6249db00d739a35e7961b8703630ed8a1d.json",
+      "lecture_min": 1
     },
     {
       "id": "77fb7e1de2897305ddb102b50ba45a8b07c066ae",
@@ -419,7 +469,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "mondial-u15-algerie-et-maroc-affrontent-en-16es-senegal-et-ivoiriens-77fb7e",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/77fb7e1de2897305ddb102b50ba45a8b07c066ae.json",
+      "lecture_min": 1
     },
     {
       "id": "23424f3409d6744dd9019151fb6981108397bc1b",
@@ -450,7 +503,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "trophee-yachine-edouard-mendy-de-retour-dans-le-top-10-la-neuvieme-23424f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/23424f3409d6744dd9019151fb6981108397bc1b.json",
+      "lecture_min": 1
     },
     {
       "id": "d14a7b2acbb1487089e1fec01f5087057f08e917",
@@ -478,7 +534,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "ballon-or-feminin-temwa-chawinga-premiere-africaine-classee-dans-le-d14a7b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d14a7b2acbb1487089e1fec01f5087057f08e917.json",
+      "lecture_min": 1
     },
     {
       "id": "a247f625310523054474906842d6212d403de47f",

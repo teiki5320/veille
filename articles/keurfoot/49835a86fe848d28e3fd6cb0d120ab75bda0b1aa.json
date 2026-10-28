@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "49835a86fe848d28e3fd6cb0d120ab75bda0b1aa",
+  "slug": "mondial-feminin-2027-la-fifa-verse-2-5-millions-de-dollars-chaque-49835a",
+  "titre": "Mondial féminin 2027 : la FIFA verse 2,5 millions de dollars à chaque qualifié",
+  "chapo": "Les nations présentes au Mondial féminin 2027 toucheront chacune 2,5 millions de dollars de la FIFA pour se préparer. Absent du tournoi, le Sénégal ne bénéficiera pas de cette aide.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le prochain Mondial féminin aura lieu au Brésil, du 24 juin au 25 juillet 2027. Ce sera la première édition organisée en Amérique du Sud.",
+        "La FIFA a prévu une enveloppe de 2,5 millions de dollars pour chacune des fédérations engagées. Cet argent, destiné à financer la préparation des sélections, doit être versé avant le mois de décembre 2026, selon Wiwsport."
+      ]
+    },
+    {
+      "intertitre": "D'autres mesures à l'étude",
+      "paragraphes": [
+        "L'instance mondiale veut aussi améliorer l'organisation logistique, fixer une rémunération minimale pour les joueuses internationales et mieux indemniser les clubs qui mettent leurs joueuses à disposition. Ces points doivent encore être précisés en décembre.",
+        "Sur le continent, la Confédération africaine de football a déjà augmenté de 67 % les primes de la CAN féminine : elles atteignent désormais 5,8 millions de dollars, contre 3,475 auparavant."
+      ]
+    },
+    {
+      "intertitre": "Le Sénégal reste à quai",
+      "paragraphes": [
+        "Éliminées dès la phase de groupes de la dernière CAN féminine, les Lionnes ne joueront pas le Mondial. Quatre pays africains disputeront le tournoi : le Maroc, l'Algérie, le Malawi et le Cameroun.",
+        "Pour la fédération sénégalaise, la présence au tournoi aurait offert des ressources bienvenues pour préparer l'équipe, encadrer les joueuses et développer la pratique féminine dans le pays."
+      ]
+    }
+  ],
+  "mots": 225,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "BR"
+  ],
+  "competition": "Coupe du monde féminine 2027",
+  "source_nom": "Wiwsport",
+  "source_url": "https://wiwsport.com/2026/10/27/mondial-feminin-2027-25-millions-de-dollars-en-jeu-le-senegal-devra-encore-attendre/",
+  "publie_le": "2026-10-27T13:45:28.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/49835a86fe848d28e3fd6cb0d120ab75bda0b1aa.webp",
+    "source": "wikimedia",
+    "credit": "Mustapha Ennaimi",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MarocF%C3%A9minine.jpg",
+    "alt": "L'équipe féminine de football du Sénégal",
+    "mots_cles": [
+      "Senegal women's national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

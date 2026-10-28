@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "9190255f85fea072930d4cfa7a71a10e61b46ab3",
+  "slug": "toulouse-rafik-messali-gravement-blesse-probablement-absent-jusqu-en-919025",
+  "titre": "Toulouse : Rafik Messali, gravement blessé, probablement absent jusqu'en 2027",
+  "chapo": "Rafik Messali sera absent environ deux mois. Blessé contre Troyes, le défenseur du Toulouse FC souffre d'une déchirure de grade 3, et son retour n'est pas attendu avant 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le latéral algéro-français a dû quitter le terrain lors du match face à Troyes, en Ligue 1. Les examens passés ensuite ont confirmé une lésion sévère : une déchirure classée au grade 3, le plus élevé.",
+        "Selon Africa Top Sports, l'arrêt est estimé à près de deux mois. Le joueur va alterner soins et repos complet, puis se consacrer à sa rééducation. Sauf surprise, il ne rejouera pas avant le début de l'année 2027."
+      ]
+    },
+    {
+      "intertitre": "Un joueur souvent freiné",
+      "paragraphes": [
+        "Ce n'est pas la première fois que le défenseur doit s'arrêter. Il a déjà connu deux ruptures des ligaments croisés. En juillet 2025, une lésion au ménisque avait perturbé sa préparation estivale.",
+        "En septembre 2025, une entorse de la cheville droite contractée contre Lille l'avait privé de quatre à six semaines de compétition. Une autre blessure à la cheville l'avait encore éloigné des terrains à la mi-février 2026."
+      ]
+    },
+    {
+      "intertitre": "Toulouse doit s'adapter",
+      "paragraphes": [
+        "Le club haut-garonnais perd un élément de sa défense pour une longue période de la saison. Polyvalent, Messali apporte surtout des montées offensives sur le côté droit. L'encadrement toulousain devra trouver une autre solution à ce poste d'ici à son retour."
+      ]
+    }
+  ],
+  "mots": 219,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "DZ",
+    "FR"
+  ],
+  "competition": "Ligue 1",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/football/toulouse-fin-dannee-2026-compromise-pour-rafik-messali/",
+  "autres_sources": [
+    "https://africasoccer.com/toulouse-suffer-another-setback-as-algerian-defender-rafik-messali-faces-weeks-out-with-ankle-injury/"
+  ],
+  "publie_le": "2026-10-27T16:34:35.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurfoot/9190255f85fea072930d4cfa7a71a10e61b46ab3.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Foot",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Ligue 1 »",
+    "mots_cles": [
+      "Rafik Messali",
+      "toulouse football",
+      "football injury"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "d14a7b2acbb1487089e1fec01f5087057f08e917",
+  "slug": "ballon-or-feminin-temwa-chawinga-premiere-africaine-classee-dans-le-d14a7b",
+  "titre": "Ballon d'Or féminin : Temwa Chawinga, première Africaine classée dans le top 10",
+  "chapo": "La Malawite Temwa Chawinga a pris la dixième place au Ballon d'Or féminin, édition 2026. C'est une première pour une joueuse du continent depuis la création du trophée en 2018.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le classement a été dévoilé lundi soir à Londres. L'Espagnole Alexia Putellas a remporté le trophée. Temwa Chawinga, attaquante du Malawi, termine dixième.",
+        "Depuis 2018, plusieurs Africaines avaient été nommées, sans jamais se hisser parmi les dix premières. La Zambienne Barbra Banda détenait jusqu'ici le record africain avec sa 12e place de 2024. Banda figure encore au classement cette année, mais au 18e rang."
+      ]
+    },
+    {
+      "intertitre": "Sept places gagnées en un an",
+      "paragraphes": [
+        "Déjà nommée en 2025, Chawinga avait fini 17e. Elle progresse donc de sept rangs en douze mois.",
+        "Âgée de 28 ans, elle joue aux États-Unis pour Kansas City Current. Sur la période retenue, elle a marqué 15 buts et donné trois passes décisives en 22 matchs. Elle avait déjà remporté en 2024 et en 2025 les titres de MVP et de meilleure buteuse du championnat américain. Son club a salué ce classement historique sur les réseaux sociaux."
+      ]
+    },
+    {
+      "intertitre": "Un parcours venu de loin",
+      "paragraphes": [
+        "Le Malawi ne fait pas partie des nations historiques du football féminin africain. Avec sa sœur Tabitha, Temwa Chawinga a pourtant porté les Scorchers jusqu'en finale de la CAN féminine 2026, à la surprise générale.",
+        "Avant de s'imposer en Amérique du Nord, elle a joué en Suède puis en Chine, où elle a gagné quatre titres. C'est aux États-Unis qu'elle a trouvé la visibilité qui lui manquait."
+      ]
+    },
+    {
+      "intertitre": "Un nouveau palier pour l'Afrique",
+      "paragraphes": [
+        "Aucune Africaine n'a encore remporté le Ballon d'Or, et le podium reste loin. Mais ce classement montre que les meilleures joueuses du continent sont capables de se mesurer aux meilleures du monde quand elles évoluent dans un championnat relevé.",
+        "Pour Afrik-Foot, la prochaine étape serait une place dans le top 5."
+      ]
+    }
+  ],
+  "mots": 305,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MW"
+  ],
+  "competition": "Ballon d'Or",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/ballon-dor-feminin-lafrique-brise-un-plafond-de-verre-et-soffre-un-nouveau-record",
+  "publie_le": "2026-10-27T08:51:00.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/d14a7b2acbb1487089e1fec01f5087057f08e917.webp",
+    "source": "wikimedia",
+    "credit": "Hameltion",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_KC_Current_(Sep_2024)_007_(cropped).jpg",
+    "alt": "La footballeuse malawite Temwa Chawinga",
+    "mots_cles": [
+      "Temwa Chawinga"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

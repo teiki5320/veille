@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "e1e33d7bcb2463ab935af607c688cf0825126ed8",
+  "slug": "tournoi-ufoa-moussa-gueye-brille-malgre-la-sortie-du-senegal-en-demi-e1e33d",
+  "titre": "Tournoi UFOA-A : Moussa Gueye brille malgré la sortie du Sénégal en demi-finale",
+  "chapo": "Le Sénégal est sorti en demi-finale du tournoi UFOA-A, qualificatif pour la CAN U20 2027. Son milieu Moussa Gueye a toutefois marqué la compétition avec quatre buts.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Tenants du titre, les Lionceaux visaient un des deux billets pour la CAN U20, prévue au Ghana en 2027. Ils ont été stoppés par la Guinée en demi-finale, alors que seule une place en finale ouvrait la voie à la phase finale continentale.",
+        "Dans ce parcours, Moussa Gueye a été l'un des joueurs les plus en vue. Le jeune joueur a trouvé le chemin des filets à quatre reprises en trois rencontres, avec deux doublés."
+      ]
+    },
+    {
+      "intertitre": "Deux doublés",
+      "paragraphes": [
+        "Le premier match du groupe B opposait le Sénégal à la Mauritanie. Les Mauritaniens ont ouvert le score à la 13e minute par Imam Dine Sow. Moussa Gueye a ensuite marqué deux fois pour offrir la victoire 2-1 aux siens. Les techniciens de la WAFU, l'Union des fédérations ouest-africaines de football, l'ont désigné homme du match, selon Senegal7.",
+        "Contre la Sierra Leone, il n'a pas trouvé le chemin des filets. Il a cependant beaucoup pesé dans le jeu, par sa conservation du ballon, sa qualité de passe et ses courses vers l'avant après les récupérations.",
+        "En demi-finale face à la Guinée, il a de nouveau marqué à deux reprises, avant de sortir blessé. Ses buts n'ont pas suffi à qualifier le Sénégal pour la finale, que la Guinée disputera à sa place."
+      ]
+    },
+    {
+      "intertitre": "Un profil à suivre",
+      "paragraphes": [
+        "Passé par l'académie AsCAF de Mariste, le joueur est présenté par Senego comme appartenant à Brentford, en Angleterre. Son tournoi en fait l'une des révélations de cette édition.",
+        "Pour le Sénégal, l'élimination signifie en revanche l'absence de la prochaine CAN U20. Le pays avait remporté la dernière édition du tournoi de zone, ce qui rend cette sortie d'autant plus marquante."
+      ]
+    }
+  ],
+  "mots": 300,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN"
+  ],
+  "competition": "Tournoi UFOA-A",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/moussa-gueye-revelation-du-tournoi-ufoa-a-malgre-lelimination-du-senegal_2017863.html",
+  "publie_le": "2026-10-27T13:17:39.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/e1e33d7bcb2463ab935af607c688cf0825126ed8.webp",
+    "source": "wikimedia",
+    "credit": "У джерелі не вказаний автор",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:FC_Semenivka_v_Senegal_under-21_football_team_(2016-05-20)_17.jpg",
+    "alt": "L'équipe nationale de football du Sénégal",
+    "mots_cles": [
+      "Senegal national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

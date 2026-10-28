@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "e85a006dbeb2adeab0e36f4c9e1572aec7f3c869",
+  "slug": "algerie-zetchi-et-ex-dirigeants-de-la-faf-condamnes-de-la-prison-ferme-e85a00",
+  "titre": "Algérie : Zetchi et d'ex-dirigeants de la FAF condamnés à de la prison ferme",
+  "chapo": "La justice algérienne a condamné mardi plusieurs anciens dirigeants de la FAF, l'instance qui gère le football du pays, à des peines de un à huit ans ferme. Charaf-Eddine Amara et Kheireddine Zetchi écopent de huit ans.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le verdict a été rendu mardi 27 octobre au tribunal algérois de Sidi M'Hamed, par la chambre chargée des affaires économiques et financières. Les deux anciens présidents de la FAF, Charaf-Eddine Amara et Kheireddine Zetchi, sont condamnés à huit ans. Djahid Zefizef, qui a aussi présidé l'instance, reçoit six ans, selon les médias locaux.",
+        "Quatre autres prévenus, dont l'ancien directeur administratif Abdelghani Nekkache, prennent trois ans. Abdelmoumène Berraf est condamné à deux ans, et quatre ex-membres du Bureau fédéral à un an chacun. Des amendes d'un million de dinars ont aussi été prononcées contre les principaux accusés."
+      ]
+    },
+    {
+      "intertitre": "Six années de gestion examinées",
+      "paragraphes": [
+        "L'affaire concernait la gestion de la fédération de 2017 à 2023. Les accusations portaient sur des abus de fonction, la dilapidation de fonds publics et des contrats passés hors des règles pour accorder des avantages indus. Parmi les dossiers cités figurent l'accord avec l'équipementier Adidas, une agence de voyages et des marchés liés à des compétitions.",
+        "Le parquet avait requis des peines pouvant atteindre dix ans, assorties de 5 millions de dinars d'amende. Zetchi était incarcéré, sans jugement, depuis novembre 2024. Son procès avait été reporté six fois avant de s'ouvrir."
+      ]
+    },
+    {
+      "intertitre": "La défense plaidait l'acquittement",
+      "paragraphes": [
+        "Ses avocats faisaient valoir que les comptes de la FAF avaient été approuvés par l'assemblée générale et que son statut d'association l'écartait du Code des marchés publics. Selon Me Feddag, Zetchi reversait à la fédération l'indemnité annuelle de 20 000 dollars versée par la CAF, au profit du football féminin et des jeunes.",
+        "Tous les prévenus ont contesté les faits durant la procédure."
+      ]
+    },
+    {
+      "intertitre": "Un appel possible",
+      "paragraphes": [
+        "Fondateur du Paradou AC, Zetchi a présidé la FAF de 2017 à 2021. Son mandat reste lié à l'arrivée de Djamel Belmadi et à la victoire de l'Algérie à la CAN 2019. Les condamnés peuvent désormais faire appel du jugement."
+      ]
+    }
+  ],
+  "mots": 340,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "DZ"
+  ],
+  "competition": null,
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/algerie-apres-deux-ans-dattente-le-verdict-assomme-zetchi",
+  "autres_sources": [
+    "https://africatopsports.com/afrique-football/foot-algerie-plusieurs-anciens-dirigeants-de-la-federation-condamnes-a-la-prison-ferme/"
+  ],
+  "publie_le": "2026-10-27T11:09:00.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurfoot/e85a006dbeb2adeab0e36f4c9e1572aec7f3c869.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Foot",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Football »",
+    "mots_cles": [
+      "Kheireddine Zetchi",
+      "algeria football",
+      "football stadium algeria"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

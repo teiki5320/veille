@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "7bb83389f2cb9bade1df1270fc7e201d595b469f",
+  "slug": "vozinha-gardien-du-cap-vert-invite-la-soiree-du-ballon-or-apres-son-7bb833",
+  "titre": "Vozinha, gardien du Cap-Vert, invité à la soirée du Ballon d'Or après son Mondial",
+  "chapo": "Le gardien cap-verdien Vozinha, 40 ans, figurait lundi soir à Londres parmi les nommés du Trophée Yachine. Une distinction qu'il doit à son Mondial 2026 bien plus qu'à sa saison en club.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "De son vrai nom Josimar José Évora Dias, Vozinha était l'un des gardiens retenus pour le Trophée Yachine 2026. La remise des prix du Ballon d'Or avait lieu lundi 26 octobre au London Palladium. Originaire de Mindelo, sur l'île cap-verdienne de São Vicente, il n'avait presque aucune chance de l'emporter. Le trophée est revenu à l'Espagnol Unai Simón.",
+        "Son nom sur la liste ne tient pas à ses matchs en club. Il a peu joué avec Chaves, en deuxième division au Portugal, avant de signer à Colo-Colo, au Chili, où il est le plus souvent remplaçant."
+      ]
+    },
+    {
+      "intertitre": "Un été qui a tout changé",
+      "paragraphes": [
+        "Tout est parti de la Coupe du monde. Pour l'entrée en lice du Cap-Vert, il a gardé sa cage inviolée contre l'Espagne, future championne. En seizièmes de finale, il a poussé l'Argentine, future finaliste, jusqu'au bout des prolongations, en s'interposant plusieurs fois devant Lionel Messi.",
+        "D'après ESPN, son compte Instagram a grimpé de 56 000 abonnés à près de 27,7 millions. Les supporters l'ont aussi désigné gardien titulaire du onze idéal des fans organisé par la FIFA."
+      ]
+    },
+    {
+      "intertitre": "Un marathon jusqu'à Londres",
+      "paragraphes": [
+        "La veille de la soirée, il a enfin joué un match de championnat avec Colo-Colo. Le club chilien a fait 1-1 contre Palestino et son gardien a réussi trois parades remarquées. Il a ensuite pris l'avion à Santiago pour Madrid, puis un jet privé jusqu'à Londres, accompagné du président du club, Aníbal Mosa.",
+        "Sur place, il a multiplié les autographes et demandé des photos à Lamine Yamal et à l'entraîneur Fabio Capello. Mais la vidéo de présentation des nommés s'est interrompue avant son passage : son nom n'a pas résonné dans la salle."
+      ]
+    },
+    {
+      "intertitre": "Un symbole plus qu'un pronostic",
+      "paragraphes": [
+        "Vozinha garde les pieds sur terre. En septembre, le Cap-Vert a perdu ses deux matchs qualificatifs pour la CAN, 3-1 contre le Mali puis 2-1 face au Rwanda. Dans un entretien à The Observer, il a reconnu que sa soudaine célébrité lui pesait davantage qu'elle ne l'aidait.",
+        "Pour ESPN, cette soirée sera sans doute sa dernière parmi l'élite des gardiens. Le média y voit surtout une belle image pour les passionnés anonymes du football, ceux qui l'aiment sans jamais en être les têtes d'affiche."
+      ]
+    }
+  ],
+  "mots": 397,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "CV"
+  ],
+  "competition": "Ballon d'Or",
+  "source_nom": "ESPN FC",
+  "source_url": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
+  "publie_le": "2026-10-27T18:23:49.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/7bb83389f2cb9bade1df1270fc7e201d595b469f.webp",
+    "source": "wikimedia",
+    "credit": "Nha Terra Nha Cretcheu",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vozinha_Cape_Verde_Goalkeeper.jpg",
+    "alt": "Vozinha, gardien de but de l'équipe du Cap-Vert",
+    "mots_cles": [
+      "Vozinha"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "01b9fa6249db00d739a35e7961b8703630ed8a1d",
+  "slug": "cameroun-david-pagou-explique-sur-les-joueurs-absents-de-sa-liste-01b9fa",
+  "titre": "Cameroun : David Pagou s'explique sur les joueurs absents de sa liste",
+  "chapo": "David Pagou a dévoilé sa liste pour la double confrontation contre la Namibie, en éliminatoires de la CAN 2027. André Onana, Yvan Dibango et Christian Kofane n'y figurent pas, et le sélectionneur a justifié ces absences.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Cameroun affrontera deux fois la Namibie lors des 3e et 4e journées des qualifications. Pour ces deux matchs, plusieurs joueurs attendus ont été laissés de côté par le sélectionneur des Lions indomptables."
+      ]
+    },
+    {
+      "intertitre": "Onana toujours écarté",
+      "paragraphes": [
+        "Le cas le plus commenté est celui d'André Onana. Le gardien, passé par l'Inter Milan et Manchester United, enchaîne pourtant les bons matchs avec Trabzonspor. Pagou estime que le pays a toujours produit d'excellents gardiens et se dit content des options retenues à ce poste.",
+        "Onana avait déjà été laissé de côté lors de la première liste de Pagou, en décembre 2025, juste avant la CAN au Maroc. Cette nouvelle absence éloigne encore un peu plus son retour en sélection."
+      ]
+    },
+    {
+      "intertitre": "Dibango et Kofane aussi absents",
+      "paragraphes": [
+        "Le défenseur Yvan Dibango, qui dispute la Ligue des champions avec le LASK, est lui aussi victime de la concurrence. Le sélectionneur dit bien le connaître et suivre ses matchs, mais préfère pour l'instant d'autres profils. Il n'exclut pas de l'appeler plus tard.",
+        "Quant à Christian Kofane, il ne serait pas encore au sommet de sa forme physique.",
+        "Le Cameroun avait débuté sa campagne en battant les Comores 3-1 en septembre, dans un groupe G qui comprend aussi le Congo et la Namibie."
+      ]
+    }
+  ],
+  "mots": 240,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "CM"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/afrique-football/cameroun/elim-can-2027-cameroun-david-pagou-explique-les-absences/",
+  "publie_le": "2026-10-27T10:27:52.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/01b9fa6249db00d739a35e7961b8703630ed8a1d.webp",
+    "source": "wikimedia",
+    "credit": "Дмитрий Садовник",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cameroon-Chilie_(12).jpg",
+    "alt": "L'équipe du Cameroun de football",
+    "mots_cles": [
+      "Cameroon national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "f704311108a072bbd4fc4b71f56dea401e51cd3e",
+  "slug": "senegal-vieira-devrait-enfin-diriger-les-lions-domicile-contre-le-f70431",
+  "titre": "Sénégal : Vieira devrait enfin diriger les Lions à domicile contre le Soudan",
+  "chapo": "Patrick Vieira devrait diriger le Sénégal à Dakar pour la première fois le 12 novembre, contre le Soudan, en éliminatoires de la CAN 2027. Le match se jouera au stade Léopold-Sédar-Senghor.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Nommé sélectionneur en septembre, le Franco-Sénégalais n'a encore connu que des matchs loin de la capitale. La réception du Soudan, le 12 novembre, doit lui permettre de découvrir enfin le public de Dakar.",
+        "Le stade Abdoulaye-Wade n'est pas disponible : Dakar l'a réservé aux Jeux olympiques de la jeunesse qu'accueille la ville. Les dirigeants du football sénégalais se sont donc tournés vers le stade Léopold-Sédar-Senghor."
+      ]
+    },
+    {
+      "intertitre": "Une pelouse sous surveillance",
+      "paragraphes": [
+        "Le choix ne règle pas tout. L'état de la pelouse de Léopold-Sédar-Senghor suscite des doutes depuis plusieurs semaines. Aucun match n'y a eu lieu depuis le 18 octobre, date du match continental entre le club sénégalais Teungueth FC et les Camerounais de Colombe Sportive du Dja.",
+        "Rien n'y est programmé d'ici l'arrivée du Soudan, afin de laisser le temps de remettre le terrain en état. En septembre, le ministère des Sports avait annoncé un entretien renforcé, avec un contrôle technique et un suivi chaque jour.",
+        "Lors du rassemblement précédent, l'incertitude sur les stades avait déjà obligé à inverser l'ordre des matchs contre le Mozambique. Le Sénégal avait alors joué à Maputo, où il avait concédé le nul (1-1)."
+      ]
+    },
+    {
+      "intertitre": "Un match important au classement",
+      "paragraphes": [
+        "Vieira veut une équipe capable de relancer proprement depuis l'arrière et de prendre le jeu à son compte. Un terrain abîmé gênerait ce projet, comme à Maputo. Le technicien a confié à Wiwsport son impatience de vivre l'ambiance du public sénégalais.",
+        "Le rendez-vous compte aussi sur le plan comptable. Le Sénégal est pour l'instant deuxième de son groupe, derrière le Soudan. Après le nul au Mozambique et une courte victoire en Éthiopie, jouer à domicile sur une bonne pelouse serait un vrai atout pour les Lions."
+      ]
+    }
+  ],
+  "mots": 309,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "SD"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/senegal-une-solution-enfin-trouvee-pour-offrir-a-vieira-un-premier-match-a-domicile",
+  "publie_le": "2026-10-27T13:02:17.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/f704311108a072bbd4fc4b71f56dea401e51cd3e.webp",
+    "source": "wikimedia",
+    "credit": "Simon Heseltine",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+    "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal",
+    "mots_cles": [
+      "Patrick Vieira"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

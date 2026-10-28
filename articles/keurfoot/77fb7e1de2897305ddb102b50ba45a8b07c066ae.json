@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "77fb7e1de2897305ddb102b50ba45a8b07c066ae",
+  "slug": "mondial-u15-algerie-et-maroc-affrontent-en-16es-senegal-et-ivoiriens-77fb7e",
+  "titre": "Mondial U15 : Algérie et Maroc s’affrontent en 16es, Sénégal et Ivoiriens au niveau B",
+  "chapo": "À Bakou, le Mondial U15 aborde sa phase de classement. L'Algérie et le Maroc, qualifiés pour le niveau A, joueront chacun un duel africain en 16es, tandis que la Côte d'Ivoire et le Sénégal basculent au niveau B.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Après trois journées très chargées en Azerbaïdjan, les 189 sélections du tournoi ont été réparties en six divisions, de A à F. Les premiers de groupe vont en Ligue A, la seule qui donne accès au titre mondial. Les deuxièmes passent en Ligue B, les troisièmes en Ligue C, etc.",
+        "Aucune équipe n'est éliminée : toutes continuent à jouer des matchs de classement jusqu'au 30 octobre."
+      ]
+    },
+    {
+      "intertitre": "Chocs africains en Ligue A",
+      "paragraphes": [
+        "L'Algérie de Karim Ziani a terminé le premier tour sans défaite, avec quatre succès et un nul. Elle affronte la Guinée mercredi à 11h30 (heure de Paris et d'Alger). Les Guinéens ont eux aussi fini sans revers, avec notamment un 6-0 contre Singapour.",
+        "Au même moment, le Maroc, auteur d'un sans-faute et d'un 7-0 face à Curaçao, défie le Cameroun. L'Afrique comptera donc au minimum deux qualifiés pour les huitièmes de finale.",
+        "Six autres pays du continent sont en Ligue A : l'Égypte joue l'Albanie, le Ghana la Corée du Sud, l'Angola la Tchéquie et le Kenya la Pologne."
+      ]
+    },
+    {
+      "intertitre": "Le Sénégal deuxième derrière le Cameroun",
+      "paragraphes": [
+        "Les Lionceaux ont gagné quatre de leurs cinq matchs et marqué 29 buts. Ils terminent pourtant deuxièmes du groupe K, à égalité de points (12) avec le Cameroun, vainqueur 3-0 de leur face-à-face, selon Wiwsport.",
+        "En Ligue B, le Sénégal affronte la Géorgie et la Côte d'Ivoire le Kirghizistan, mercredi à 9h45. Le vainqueur de cette division terminera à la 33e place du classement général."
+      ]
+    },
+    {
+      "intertitre": "Les autres sélections africaines",
+      "paragraphes": [
+        "Le Mali, seulement battu par le Pérou, retrouve le Salvador. En Ligue C, la Tunisie croise la Namibie. En Ligue D, la RD Congo affronte Maurice et le Burkina Faso la République dominicaine. Pour ces équipes, l'objectif reste d'accumuler de l'expérience internationale."
+      ]
+    }
+  ],
+  "mots": 325,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "DZ",
+    "MA",
+    "SN",
+    "CI",
+    "CM"
+  ],
+  "competition": "Coupe du monde U15",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-choc-africain-pour-lalgerie-et-le-maroc-en-16es-ce-qui-attend-le-senegal-et-la-cote-divoire-en-ligue-b",
+  "autres_sources": [
+    "https://wiwsport.com/2026/10/27/mondial-u15-deuxieme-du-groupe-k-le-senegal-reverse-au-niveau-b/"
+  ],
+  "publie_le": "2026-10-27T09:45:00.000Z",
+  "redige_le": "2026-10-28T00:38:05.073Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/77fb7e1de2897305ddb102b50ba45a8b07c066ae.webp",
+    "source": "wikimedia",
+    "credit": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_138.jpg",
+    "alt": "La ville de Bakou, en Azerbaïdjan",
+    "mots_cles": [
+      "Baku"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
