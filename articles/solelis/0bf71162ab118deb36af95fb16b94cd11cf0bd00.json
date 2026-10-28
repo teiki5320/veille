@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "0bf71162ab118deb36af95fb16b94cd11cf0bd00",
+  "slug": "forges-de-tarbes-etat-discute-avec-quatre-candidats-la-reprise-0bf711",
+  "titre": "Forges de Tarbes : l'État discute avec quatre candidats à la reprise",
+  "chapo": "Le sauvetage des Forges de Tarbes est engagé. Placée en redressement judiciaire, l'usine qui fabrique des corps d'obus pour les armées a attiré quatre repreneurs potentiels, selon le gouvernement.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "C'est la juridiction commerciale de Tarbes qui a ouvert, lundi 26 octobre, une procédure de redressement judiciaire pour les Forges de Tarbes, le seul fabricant français de corps creux pour obus.",
+        "Le lendemain, auditionnée par les sénateurs chargés de la défense, Catherine Vautrin, qui dirige le ministère des Armées, a fait savoir que l'État échangeait avec quatre industriels intéressés par la reprise du savoir-faire de l'entreprise."
+      ]
+    },
+    {
+      "intertitre": "Un enjeu pour les armées",
+      "paragraphes": [
+        "La ministre a souligné que les forces ont besoin de munitions de 155 mm, et donc des pièces fabriquées à Tarbes. Elle a réaffirmé sa volonté de maintenir l'outil industriel et a salué l'expertise du site.",
+        "Pour une entreprise, le redressement judiciaire gèle les dettes nées avant le jugement et ouvre une période d'observation. Pendant cette phase, un plan de continuation ou une cession à un repreneur peut être soumis au tribunal."
+      ]
+    },
+    {
+      "intertitre": "Un propriétaire mis en cause",
+      "paragraphes": [
+        "Le site appartient depuis 2021 au groupe Europlasma. Mi-octobre, la Direction générale de l'armement a signalé au parquet la gestion de l'usine par son propriétaire, en particulier la cession des bâtiments du site, intervenue en mars 2026 sous la forme d'une cession-bail. Le PDG d'Europlasma, Jérôme Garnache-Creuillot, l'avait évoquée publiquement dès avril devant l'Assemblée nationale.",
+        "Malgré une production en hausse, l'usine est restée en deçà des objectifs affichés ; certains salariés jugent les machines dépassées. Début octobre, la préfecture a mis l'usine en demeure de mettre en règle ses équipements sous pression avant la fin de l'année, faute de quoi des sanctions sont possibles."
+      ]
+    },
+    {
+      "intertitre": "D'autres sites du groupe fragilisés",
+      "paragraphes": [
+        "Europlasma rencontre des difficultés sur plusieurs fronts. La Fonderie de Bretagne a été placée en liquidation judiciaire, et le métallurgiste Valdunes, dans le Nord, cherche un repreneur."
+      ]
+    }
+  ],
+  "mots": 313,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/defense/nous-avons-besoin-de-ces-corps-d-obus-quatre-candidats-a-la-reprise-des-forges-de-tarbes-placees-en-redressement-judiciaire_AV-202610280283.html",
+  "autres_sources": [
+    "https://www.usinenouvelle.com/aero-spatial/defense/sauvetage-des-forges-de-tarbes-nous-dialoguons-avec-quatre-candidats-industriels-pour-reprendre-le-savoir-faire-de-lentreprise-indique-la-ministre-des-armees.7PKFPODEPRH6JF5TI3YIRI6MVE.html"
+  ],
+  "publie_le": "2026-10-28T08:11:02.000Z",
+  "redige_le": "2026-10-28T11:28:40.666Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/0bf71162ab118deb36af95fb16b94cd11cf0bd00.webp",
+    "source": "wikimedia",
+    "credit": "Les Guides Bleus Pyrénées\"; with an introduction by F. Schrader, Published by Librairie Hachette, Paris",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tarbes_1925.webp",
+    "alt": "Une vue de la ville de Tarbes",
+    "mots_cles": [
+      "Tarbes"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

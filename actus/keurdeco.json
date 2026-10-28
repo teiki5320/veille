@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-10-28T00:34:33.587Z",
+  "genere_le": "2026-10-28T11:27:45.230Z",
   "actus": [
+    {
+      "id": "ab13af92079ba405558865e3917e7283ae097447",
+      "titre": "Paris : un appartement de 120 m² repensé autour d'une collection d'art africain",
+      "resume": "Au-dessus du passage Choiseul, les architectes du studio Stene Alexopoulos ont refait pour la deuxième fois l'appartement parisien d'une famille passionnée d'art africain. Bois, marbres colorés et mobilier sur mesure remplacent le décor minimaliste d'origine, avec notamment un siège sculpté venu du Ghana.",
+      "theme": "deco",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "AD Magazine",
+      "source_url": "https://www.admagazine.fr/article/paris-appartement-reinvente-minimaliste",
+      "publie_le": "2026-10-28T10:36:45.000Z",
+      "collecte_le": "2026-10-28T11:27:45.230Z",
+      "langue": "fr",
+      "slug": "paris-un-appartement-de-120-repense-autour-une-collection-art-africain-ab13af",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/ab13af92079ba405558865e3917e7283ae097447.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/ab13af92079ba405558865e3917e7283ae097447.webp",
+        "source": "wikimedia",
+        "credit": "LPLT",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Passage_Choiseul.JPG",
+        "alt": "Le passage Choiseul, galerie couverte du IIe arrondissement de Paris",
+        "mots_cles": [
+          "Passage Choiseul"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3abff0b081edc939ca5d6776344b9f487d717147",
       "titre": "Design Week Lagos 2026 : sept créateurs qui dessinent l'Afrique de demain",

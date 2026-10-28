@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-28T00:34:25.357Z",
+  "genere_le": "2026-10-28T11:28:40.666Z",
   "actus": [
+    {
+      "id": "0bf71162ab118deb36af95fb16b94cd11cf0bd00",
+      "titre": "Forges de Tarbes : l'État discute avec quatre candidats à la reprise",
+      "resume": "En redressement judiciaire depuis lundi, les Forges de Tarbes, seul fabricant français de corps creux pour obus, intéressent quatre industriels, selon Catherine Vautrin, chargée des Armées, entendue au Sénat. L'État veut préserver ce site jugé stratégique.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/defense/nous-avons-besoin-de-ces-corps-d-obus-quatre-candidats-a-la-reprise-des-forges-de-tarbes-placees-en-redressement-judiciaire_AV-202610280283.html",
+      "autres_sources": [
+        "https://www.usinenouvelle.com/aero-spatial/defense/sauvetage-des-forges-de-tarbes-nous-dialoguons-avec-quatre-candidats-industriels-pour-reprendre-le-savoir-faire-de-lentreprise-indique-la-ministre-des-armees.7PKFPODEPRH6JF5TI3YIRI6MVE.html"
+      ],
+      "publie_le": "2026-10-28T08:11:02.000Z",
+      "collecte_le": "2026-10-28T11:28:40.666Z",
+      "langue": "fr",
+      "slug": "forges-de-tarbes-etat-discute-avec-quatre-candidats-la-reprise-0bf711",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/0bf71162ab118deb36af95fb16b94cd11cf0bd00.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/0bf71162ab118deb36af95fb16b94cd11cf0bd00.webp",
+        "source": "wikimedia",
+        "credit": "Les Guides Bleus Pyrénées\"; with an introduction by F. Schrader, Published by Librairie Hachette, Paris",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Tarbes_1925.webp",
+        "alt": "Une vue de la ville de Tarbes",
+        "mots_cles": [
+          "Tarbes"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "b6c012221c9cf114e002cf5653d745392c9e30aa",
       "titre": "Paris : le BHV Marais sollicite un redressement judiciaire pour sauver sa relance",

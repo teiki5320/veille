@@ -1,8 +1,64 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-28T00:45:58.841Z",
+  "genere_le": "2026-10-28T11:28:40.641Z",
   "articles": [
+    {
+      "id": "f829964fb8846632c9fa7770b5fee799b87b117c",
+      "slug": "algerie-buteur-contre-al-hilal-bounedjah-absent-de-la-liste-elargie-f82996",
+      "titre": "Algérie : buteur contre Al-Hilal, Bounedjah absent de la liste élargie d'Hemdani",
+      "publie_le": "2026-10-28T09:53:22.000Z",
+      "redige_le": "2026-10-28T11:28:07.557Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/f829964fb8846632c9fa7770b5fee799b87b117c.json"
+    },
+    {
+      "id": "35ca2faf5359bafd2e8525dc964531da314c755a",
+      "slug": "football-guineen-34-ans-mamady-doumbouya-elu-la-tete-de-la-feguifoot-35ca2f",
+      "titre": "Football guinéen : à 34 ans, Mamady Doumbouya élu à la tête de la Feguifoot",
+      "publie_le": "2026-10-28T09:48:06.000Z",
+      "redige_le": "2026-10-28T11:28:07.557Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/35ca2faf5359bafd2e8525dc964531da314c755a.json"
+    },
+    {
+      "id": "a11602538d8819b7dcb2dc0bb5895531ec1f84a3",
+      "slug": "mondial-u15-le-senegal-et-la-rdc-imposent-4-1-et-filent-en-huitiemes-a11602",
+      "titre": "Mondial U15 : le Sénégal et la RDC s'imposent 4-1 et filent en huitièmes",
+      "publie_le": "2026-10-28T09:45:42.000Z",
+      "redige_le": "2026-10-28T11:28:07.557Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/a11602538d8819b7dcb2dc0bb5895531ec1f84a3.json"
+    },
+    {
+      "id": "277c61a0ae62bb4a7900bf02ff06cb4fca112141",
+      "slug": "can-2025-avant-le-verdict-du-tas-mustapha-hadji-defend-le-sacre-du-277c61",
+      "titre": "CAN 2025 : avant le verdict du TAS, Mustapha Hadji défend le sacre du Maroc",
+      "publie_le": "2026-10-28T08:51:00.000Z",
+      "redige_le": "2026-10-28T11:28:07.557Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/277c61a0ae62bb4a7900bf02ff06cb4fca112141.json"
+    },
+    {
+      "id": "e104c94b04c5583a4ced3ae819ef1f59984b241e",
+      "slug": "ouganda-khalid-aucho-pourtant-retraite-rappele-pour-ses-adieux-face-au-e104c9",
+      "titre": "Ouganda : Khalid Aucho, pourtant retraité, rappelé pour ses adieux face au Botswana",
+      "publie_le": "2026-10-28T08:19:38.000Z",
+      "redige_le": "2026-10-28T11:28:07.557Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/e104c94b04c5583a4ced3ae819ef1f59984b241e.json"
+    },
+    {
+      "id": "b52a6bb27c51e315367f3f44d953c9c3f7795e04",
+      "slug": "wael-mohya-17-ans-revelation-de-gladbach-courtisee-par-le-bayern-et-le-b52a6b",
+      "titre": "Waël Mohya, 17 ans, révélation de Gladbach courtisée par le Bayern et le Maroc",
+      "publie_le": "2026-10-27T19:02:06.000Z",
+      "redige_le": "2026-10-28T11:28:07.557Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/b52a6bb27c51e315367f3f44d953c9c3f7795e04.json"
+    },
+    {
+      "id": "a55e72af8849b04f80a1b30e35ccad2950cbfdd6",
+      "slug": "ballon-or-africain-2026-pape-gueye-assume-viser-le-trophee-a55e72",
+      "titre": "Ballon d'Or africain 2026 : Pape Gueye assume viser le trophée",
+      "publie_le": "2026-10-27T18:38:42.000Z",
+      "redige_le": "2026-10-28T11:28:07.557Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/a55e72af8849b04f80a1b30e35ccad2950cbfdd6.json"
+    },
     {
       "id": "7bb83389f2cb9bade1df1270fc7e201d595b469f",
       "slug": "vozinha-gardien-du-cap-vert-invite-la-soiree-du-ballon-or-apres-son-7bb833",

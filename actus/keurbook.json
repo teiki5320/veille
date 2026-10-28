@@ -1,8 +1,70 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-28T00:34:18.418Z",
+  "genere_le": "2026-10-28T11:26:26.140Z",
   "actus": [
+    {
+      "id": "58e2a3b715877b5cdeb62ef466ef3749182137aa",
+      "titre": "Soufiane Khaloua, un premier roman d'été entre deux clans rivaux",
+      "resume": "Africultures revient sur « La Vallée des Lazhars », premier roman de Soufiane Khaloua paru chez Agullo en 2023. Le récit suit Amir, jeune Français revenu dans la vallée familiale, entre un amour impossible et sa fascination pour son cousin Haroun. L'auteur est attendu au salon Lettres du Maghreb d'Oujda.",
+      "theme": "livres",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Africultures",
+      "source_url": "https://africultures.com/soufiane-khaloua-un-jeune-romancier-dans-la-vallee-des-lazhars/",
+      "publie_le": "2026-10-28T08:37:19.000Z",
+      "collecte_le": "2026-10-28T11:26:26.140Z",
+      "langue": "fr",
+      "slug": "soufiane-khaloua-un-premier-roman-ete-entre-deux-clans-rivaux-58e2a3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/58e2a3b715877b5cdeb62ef466ef3749182137aa.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurbook/58e2a3b715877b5cdeb62ef466ef3749182137aa.svg",
+        "source": "carte",
+        "credit": "Illustration : Keurbook",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keurbook avec le drapeau national (Maroc) et la mention « Livres »",
+        "mots_cles": [
+          "Oujda",
+          "novel book reading",
+          "open book"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "81a86c82546c52e75447e275d608281982d17d4b",
+      "titre": "Kinshasa accueille un nouveau festival pour faire circuler le livre africain",
+      "resume": "Le Live du Livre Book Fest tient sa première édition du 31 octobre au 1er novembre au Musée national de la RDC, à Kinshasa. Lancé sans aide publique par Pascal Ashuza, il réunit auteurs, éditeurs et libraires autour de la circulation des ouvrages entre pays africains.",
+      "theme": "livres",
+      "pays": [
+        "CD"
+      ],
+      "source_nom": "Livres Hebdo",
+      "source_url": "http://www.livreshebdo.fr/article/kinshasa-un-nouveau-festival-pour-desenclaver-le-livre-africain",
+      "publie_le": "2026-10-28T07:30:00.000Z",
+      "collecte_le": "2026-10-28T11:26:26.140Z",
+      "langue": "fr",
+      "slug": "kinshasa-accueille-un-nouveau-festival-pour-faire-circuler-le-livre-81a86c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/81a86c82546c52e75447e275d608281982d17d4b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/81a86c82546c52e75447e275d608281982d17d4b.webp",
+        "source": "wikimedia",
+        "credit": "Steeve P",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lokol%C3%A9_au_Mus%C3%A9e_National_de_la_R%C3%A9publique_d%C3%A9mocratique_du_Congo.jpg",
+        "alt": "Le Musée national de la RDC ou une vue de Kinshasa",
+        "mots_cles": [
+          "Musée national de la République démocratique du Congo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f1153723d32109a346001ce3df72ff8927312d97",
       "titre": "Felwine Sarr relit « Murambi », tournant de l'œuvre de Boubacar Boris Diop",

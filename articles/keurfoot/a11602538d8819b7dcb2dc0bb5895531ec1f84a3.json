@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "a11602538d8819b7dcb2dc0bb5895531ec1f84a3",
+  "slug": "mondial-u15-le-senegal-et-la-rdc-imposent-4-1-et-filent-en-huitiemes-a11602",
+  "titre": "Mondial U15 : le Sénégal et la RDC s'imposent 4-1 et filent en huitièmes",
+  "chapo": "Deux sélections africaines ont validé leur place en huitièmes de finale du Mondial U15, disputé à Bakou, en Azerbaïdjan, avec le même score de 4-1.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Mercredi 28 octobre, les Lionceaux du Sénégal ont dominé la Géorgie 4-1 en seizièmes de la Division B. La rencontre était pliée avant la pause : les jeunes Sénégalais menaient déjà 3-1 au repos."
+      ]
+    },
+    {
+      "intertitre": "Abdoulaye Diallo, homme du match",
+      "paragraphes": [
+        "Le joueur de Salam Académie a signé un triplé et une passe décisive. Il a ouvert le score dès la 5e minute, servi par Pierre Fleury Mbengue, avant d'offrir le deuxième but à Georges Kanfom trois minutes plus tard. Kanfom lui a rendu la pareille à la 14e minute.",
+        "Les Géorgiens ont réduit l'écart dans la foulée, à la 15e minute. Diallo a ensuite conclu sa démonstration d'une frappe de loin à la 23e minute."
+      ]
+    },
+    {
+      "intertitre": "La RDC monte en puissance",
+      "paragraphes": [
+        "En Ligue D, les jeunes Léopards de la RDC, dirigés par Zico Tumba, ont eux aussi gagné 4-1, face à l'Île Maurice. Après des débuts hésitants dans le tournoi, ils ont livré une prestation offensive convaincante et font désormais figure de prétendants.",
+        "Pour une place en quarts de finale, ils affronteront le gagnant de Burkina Faso – République dominicaine."
+      ]
+    }
+  ],
+  "mots": 203,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "CD"
+  ],
+  "competition": "Coupe du monde U15",
+  "source_nom": "Wiwsport",
+  "source_url": "https://wiwsport.com/2026/10/28/mondial-u15-le-senegal-domine-la-georgie-4-1-et-file-en-huitiemes-de-finale-de-la-division-b/",
+  "autres_sources": [
+    "https://africatopsports.com/football/mondial-u15-la-rdc-ecrase-lile-maurice-et-file-en-8es-de-finale/"
+  ],
+  "publie_le": "2026-10-28T09:45:42.000Z",
+  "redige_le": "2026-10-28T11:28:07.557Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/a11602538d8819b7dcb2dc0bb5895531ec1f84a3.webp",
+    "source": "wikimedia",
+    "credit": "AlixSaz",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Baku_bay,_Azerbaijan.jpg",
+    "alt": "La ville de Bakou, en Azerbaïdjan",
+    "mots_cles": [
+      "Baku"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

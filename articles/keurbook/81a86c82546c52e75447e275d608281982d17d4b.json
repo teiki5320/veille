@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "81a86c82546c52e75447e275d608281982d17d4b",
+  "slug": "kinshasa-accueille-un-nouveau-festival-pour-faire-circuler-le-livre-81a86c",
+  "titre": "Kinshasa accueille un nouveau festival pour faire circuler le livre africain",
+  "chapo": "Kinshasa ajoute un rendez-vous littéraire à son agenda. Le Live du Livre Book Fest ouvre sa première édition à la fin de la semaine, avec l'ambition de rapprocher tous les métiers du livre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Rendez-vous est donné samedi 31 octobre et dimanche 1er novembre, dans les murs du Musée national de la RDC, au cœur de la capitale congolaise. Il s'adresse à toute la chaîne du livre : lecteurs, écrivains, maisons d'édition, librairies et distributeurs. Les organisateurs attendent une centaine de participants chaque jour.",
+        "Son thème invite à mettre en valeur le livre et ceux qui le font vivre. Le programme s'articule autour des liens entre littérature et tradition orale."
+      ]
+    },
+    {
+      "intertitre": "Un projet né d'un média",
+      "paragraphes": [
+        "L'initiative revient à Pascal Ashuza, fondateur du Live du Livre, un média créé en 2022 qui publie des podcasts, un magazine et une lettre d'information. Le festival a été monté sans soutien d'une institution. Il est financé par les fonds propres du média, tirés des ventes de son magazine, et par l'appui de sa communauté.",
+        "Pascal Ashuza remercie notamment Celena Ngoy, qui l'a épaulé au sein de la structure Art Majeur durant la préparation de l'événement."
+      ]
+    },
+    {
+      "intertitre": "Lever les obstacles à la diffusion",
+      "paragraphes": [
+        "Un des axes du programme porte sur les échanges de livres à l'intérieur du continent comme vers l'extérieur. Droits de douane et frais de transport freinent encore la diffusion des ouvrages entre les pays africains.",
+        "Le festival veut ouvrir un espace de discussion entre professionnels congolais et de la région, et constituer un réseau capable de proposer des solutions durables. Les échanges feront l'objet d'un mémorandum, diffusé dans la lettre d'information du média et adressé aux participants comme aux institutions."
+      ]
+    },
+    {
+      "intertitre": "Des suites déjà prévues",
+      "paragraphes": [
+        "Des conférences doivent ensuite être organisées à Bruxelles et à Paris. Les organisateurs souhaitent faire de ce festival un rendez-vous annuel, puis l'emmener ailleurs en RDC, voire au-delà des frontières congolaises, sur le continent."
+      ]
+    }
+  ],
+  "mots": 314,
+  "lecture_min": 1,
+  "theme": "livres",
+  "pays": [
+    "CD"
+  ],
+  "source_nom": "Livres Hebdo",
+  "source_url": "http://www.livreshebdo.fr/article/kinshasa-un-nouveau-festival-pour-desenclaver-le-livre-africain",
+  "publie_le": "2026-10-28T07:30:00.000Z",
+  "redige_le": "2026-10-28T11:26:26.140Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/81a86c82546c52e75447e275d608281982d17d4b.webp",
+    "source": "wikimedia",
+    "credit": "Steeve P",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lokol%C3%A9_au_Mus%C3%A9e_National_de_la_R%C3%A9publique_d%C3%A9mocratique_du_Congo.jpg",
+    "alt": "Le Musée national de la RDC ou une vue de Kinshasa",
+    "mots_cles": [
+      "Musée national de la République démocratique du Congo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

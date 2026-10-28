@@ -161,81 +161,118 @@
     "edf5304adf9e161ee8ad19d373577b5bdff93852": "2026-10-27T18:15:23.705Z",
     "d177713e70e2b64e8e742d73d4af93e35053a4c0": "2026-10-27T18:15:23.705Z",
     "5d142088688b798f0beec4aa665d0e5c64e12f58": "2026-10-27T18:15:23.705Z",
-    "ab50c79e7310ae6b18e3d761eba49783dc938cfd": "2026-10-27T18:15:23.705Z"
+    "ab50c79e7310ae6b18e3d761eba49783dc938cfd": "2026-10-27T18:15:23.705Z",
+    "f0be55eb6245141a7841c7e0ebb2588fbc2db2f2": "2026-10-28T11:26:26.140Z",
+    "74c0034f6e179f7daef6ec3b2e381783c58f8438": "2026-10-28T11:26:26.140Z",
+    "11a62a51ce9fc7bff54e74fdd136072658b0b66d": "2026-10-28T11:26:26.140Z",
+    "9d788d99c982b936d6e048d2dc78d2ca70bd6a95": "2026-10-28T11:26:26.140Z",
+    "d93d8e86612c94f1dc894f9de4081813ccc77cf6": "2026-10-28T11:26:26.140Z",
+    "a0e07c0a62ca5bc4ea1fa264d6e9eca991d8844e": "2026-10-28T11:26:26.140Z",
+    "ef299fd3c71580c3c0688fd16d4196881fe54ed9": "2026-10-28T11:26:26.140Z",
+    "82b8acffe244f22d6533313f3ffcbd7416e93ba5": "2026-10-28T11:26:26.140Z",
+    "80cf5b8ba9a01998f16114419c0abbc74b2b7a08": "2026-10-28T11:26:26.140Z",
+    "58e2a3b715877b5cdeb62ef466ef3749182137aa": "2026-10-28T11:26:26.140Z",
+    "31bc82d3a21b2837561fa5286d5f4486f17c164b": "2026-10-28T11:26:26.140Z",
+    "36081319f70913d91fde52fbb0764dfa67d9619f": "2026-10-28T11:26:26.140Z",
+    "28dfb6ebae792b383edddfa023d5181bdd34a84e": "2026-10-28T11:26:26.140Z",
+    "bd9fb235f3232fe0176adbbfe766df8e4555bb76": "2026-10-28T11:26:26.140Z",
+    "e3dd441b12280b7afe6df1ad3557bf98ff9ddbcc": "2026-10-28T11:26:26.140Z",
+    "81a86c82546c52e75447e275d608281982d17d4b": "2026-10-28T11:26:26.140Z",
+    "3184a631b71bc538ada14db853a84d92b585f3f8": "2026-10-28T11:26:26.140Z",
+    "4d27a752dd7d784acdc0cebf398f04588957f504": "2026-10-28T11:26:26.140Z",
+    "1e1c0cc3e3cf459ff9e44c0d65da82427d13dc9d": "2026-10-28T11:26:26.140Z",
+    "1bbbcdf6a3d356ee3c28dc830a18932972d99499": "2026-10-28T11:26:26.140Z",
+    "a1b9479850a3405b40064fd0cde899a01074725b": "2026-10-28T11:26:26.140Z",
+    "2c23f23f85fad6146c846381b56afc1039349276": "2026-10-28T11:26:26.140Z",
+    "cea3ff2cd07b037d5d5a922afe5a3387101226b7": "2026-10-28T11:26:26.140Z",
+    "8c4a9ab4337da8c29c94ccb4fb0cd341bc48a9c3": "2026-10-28T11:26:26.140Z",
+    "302620c52c2a6c71829cf7118d5361a553383547": "2026-10-28T11:26:26.140Z",
+    "2f3c2df0950613beba0f815d68bb3871f4cb38ef": "2026-10-28T11:26:26.140Z",
+    "cec07fa114ee4ec02cbcbcd699efc71763b05a81": "2026-10-28T11:26:26.140Z",
+    "b85a8880c85935c482d5ed924955dfda061b77c6": "2026-10-28T11:26:26.140Z",
+    "798e2025c8275be1ff845edf9b6e37c9a3f43b81": "2026-10-28T11:26:26.140Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 2
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 7
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 2
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 0
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 3
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 9
+      "articles": 10
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 8
+      "articles": 3
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 0
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 1
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-10-27T18:12:07.072Z",
+      "dernier_succes": "2026-10-28T11:12:18.041Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     }
   },
   "images_recentes": [
+    {
+      "id": "58e2a3b715877b5cdeb62ef466ef3749182137aa",
+      "origine": "carte:keurbook:58e2a3b715877b5cdeb62ef466ef3749182137aa"
+    },
+    {
+      "id": "81a86c82546c52e75447e275d608281982d17d4b",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lokol%C3%A9_au_Mus%C3%A9e_National_de_la_R%C3%A9publique_d%C3%A9mocratique_du_Congo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "f1153723d32109a346001ce3df72ff8927312d97",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boobocar_Boris_Diop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -257,6 +294,8 @@
     "77e46856dab6a4307130380b1548c7b66b4f5a25": "https://live.staticflickr.com/5168/5330476015_2a87c0b439_b.jpg",
     "142919a1219f7b89811acadf0a81a4f6fc6df64c": "https://live.staticflickr.com/293/18802224921_149ded2e8c_b.jpg",
     "f42687aabdab0f4cca9884e39a461826e6be4789": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boubacar-Boris-Diop_DSC06105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "f1153723d32109a346001ce3df72ff8927312d97": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boobocar_Boris_Diop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "f1153723d32109a346001ce3df72ff8927312d97": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boobocar_Boris_Diop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "81a86c82546c52e75447e275d608281982d17d4b": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lokol%C3%A9_au_Mus%C3%A9e_National_de_la_R%C3%A9publique_d%C3%A9mocratique_du_Congo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "58e2a3b715877b5cdeb62ef466ef3749182137aa": "carte:keurbook:58e2a3b715877b5cdeb62ef466ef3749182137aa"
   }
 }

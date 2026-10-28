@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-10-28T00:45:58.843Z",
+  "genere_le": "2026-10-28T11:28:07.537Z",
   "articles": [
+    {
+      "id": "ab13af92079ba405558865e3917e7283ae097447",
+      "slug": "paris-un-appartement-de-120-repense-autour-une-collection-art-africain-ab13af",
+      "titre": "Paris : un appartement de 120 m² repensé autour d'une collection d'art africain",
+      "publie_le": "2026-10-28T10:36:45.000Z",
+      "redige_le": "2026-10-28T11:27:45.230Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/ab13af92079ba405558865e3917e7283ae097447.json"
+    },
     {
       "id": "3abff0b081edc939ca5d6776344b9f487d717147",
       "slug": "design-week-lagos-2026-sept-createurs-qui-dessinent-afrique-de-demain-3abff0",

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "58e2a3b715877b5cdeb62ef466ef3749182137aa",
+  "slug": "soufiane-khaloua-un-premier-roman-ete-entre-deux-clans-rivaux-58e2a3",
+  "titre": "Soufiane Khaloua, un premier roman d'été entre deux clans rivaux",
+  "chapo": "Paru en 2023, « La Vallée des Lazhars » fait l'objet d'une lecture attentive d'Africultures. Le premier roman de Soufiane Khaloua raconte l'été d'un adolescent tiraillé entre deux appartenances.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le livre, publié par les éditions Agullo, se déroule dans une vallée où deux familles, les Ayami et les Hokbani, s'opposent depuis des générations, chacune installée sur un versant. Elles se détestent, mais ne peuvent se passer l'une de l'autre.",
+        "Le narrateur, Amir, est né et vit en France. Il maîtrise mal l'arabe et revient dans la vallée après une longue absence, au moment où un mariage doit unir les deux clans. Il s'éprend aussitôt d'une jeune fille du camp opposé, dans un schéma qui rappelle celui de Roméo et Juliette."
+      ]
+    },
+    {
+      "intertitre": "Deux cousins, deux trajectoires",
+      "paragraphes": [
+        "L'été d'Amir tourne aussi autour de Haroun, son cousin préféré. Venus au monde le même jour, ils sont surnommés les jumeaux. Amir l'admire et voit en lui une part d'identité qui lui échappe encore. Il comprend peu à peu que Haroun est surtout un rebelle, qui rejette des traditions qu'il trouve autoritaires.",
+        "Chacun envie à l'autre ce qu'il n'a pas reçu. Amir a grandi dans des conditions plus faciles, Haroun a été forgé par les épreuves. Le roman évite de trancher entre eux et ne présente aucun destin comme un modèle. Le narrateur sait d'ailleurs que ce séjour n'est qu'une parenthèse avant le retour à sa vie en France."
+      ]
+    },
+    {
+      "intertitre": "L'hospitalité au cœur du récit",
+      "paragraphes": [
+        "Pour Africultures, le livre se lit comme une fable sur l'hospitalité, entendue non comme une simple politesse mais comme ce qui permet à une communauté de tenir malgré ses haines. La critique relève une construction habile, des passages de road-trip, de l'humour et de l'émotion, ainsi que le va-et-vient du héros entre ses deux langues."
+      ]
+    },
+    {
+      "intertitre": "Un deuxième roman et un salon",
+      "paragraphes": [
+        "Soufiane Khaloua a publié en 2025, toujours chez Agullo, un deuxième roman, « Chasseurs d'été ». Il compte parmi les invités de Lettres du Maghreb, rendez-vous consacré au livre maghrébin, dont la 6e édition se tient à Oujda, au Maroc, jusqu'au 1er novembre."
+      ]
+    }
+  ],
+  "mots": 342,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Africultures",
+  "source_url": "https://africultures.com/soufiane-khaloua-un-jeune-romancier-dans-la-vallee-des-lazhars/",
+  "publie_le": "2026-10-28T08:37:19.000Z",
+  "redige_le": "2026-10-28T11:26:26.140Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurbook/58e2a3b715877b5cdeb62ef466ef3749182137aa.svg",
+    "source": "carte",
+    "credit": "Illustration : Keurbook",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keurbook avec le drapeau national (Maroc) et la mention « Livres »",
+    "mots_cles": [
+      "Oujda",
+      "novel book reading",
+      "open book"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "ab13af92079ba405558865e3917e7283ae097447",
+  "slug": "paris-un-appartement-de-120-repense-autour-une-collection-art-africain-ab13af",
+  "titre": "Paris : un appartement de 120 m² repensé autour d'une collection d'art africain",
+  "chapo": "Dans le IIe arrondissement de Paris, un appartement familial a troqué son décor dépouillé contre un intérieur chaleureux, bâti autour d'œuvres d'art africain.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le logement de 120 m² occupe un immeuble de cinq étages bâti vers 1850 et donne sur la verrière du passage Choiseul, près du Palais-Royal. Il appartient à Sandra et Robin, deux Parisiens qui travaillent dans la finance, et à leurs deux enfants.",
+        "Les architectes Elena Alexopoulos et Jonathan Stene avaient déjà rénové les lieux sept ans plus tôt, juste après l'achat. Le couple voulait alors un intérieur minimaliste. Devenus parents, ils ont souhaité un cadre plus riche et plus personnel. Le studio franco-grec que les deux architectes ont fondé en 2022 a donc repensé le mobilier et le décor, ainsi que la chambre et sa salle d'eau."
+      ]
+    },
+    {
+      "intertitre": "L'art africain comme fil conducteur",
+      "paragraphes": [
+        "Le projet part de la passion des propriétaires pour l'art africain, liée à leur histoire : la famille de Sandra et la grand-mère de Robin viennent d'Afrique du Nord. Les œuvres ont été choisies avec la commissaire Najwa Borro, spécialiste de l'art africain.",
+        "Ces pièces au caractère fort répondent au chêne clair, d'inspiration scandinave, et à des matériaux aux couleurs intenses, retenus pour les mettre en valeur. La palette vient surtout des veines et du grain des matériaux naturels."
+      ]
+    },
+    {
+      "intertitre": "Bois, marbre et mobilier sur mesure",
+      "paragraphes": [
+        "Au salon, un canapé Sesann en cuir brun, dessin de Gianfranco Frattini édité par Tacchini, fait écho aux tons terreux des sculptures. Il fait face à une table basse en noyer massif incrustée de marbre Cipollino grec, dessinée par le studio. Côté repas, une table en chêne faite sur mesure est entourée de chaises Trieste en rotin, une création d'Aldo Jacober, sous des suspensions de George Nelson.",
+        "La chambre, conçue sur le modèle d'une suite d'hôtel, a une tête de lit en noyer au veinage rayonnant et des appliques en marbre assorties à la table basse. La cuisine est entièrement en inox."
+      ]
+    },
+    {
+      "intertitre": "Une touche ghanéenne",
+      "paragraphes": [
+        "Dans la salle de bains, une pierre Lapponia verte et une pierre Visconté blanche et bleue entourent un siège sculpté en forme d'animal, venu du Ghana. Le studio dit vouloir associer des formes brutes à des matériaux précieux, entre usage quotidien et poésie."
+      ]
+    }
+  ],
+  "mots": 369,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "AD Magazine",
+  "source_url": "https://www.admagazine.fr/article/paris-appartement-reinvente-minimaliste",
+  "publie_le": "2026-10-28T10:36:45.000Z",
+  "redige_le": "2026-10-28T11:27:45.230Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/ab13af92079ba405558865e3917e7283ae097447.webp",
+    "source": "wikimedia",
+    "credit": "LPLT",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Passage_Choiseul.JPG",
+    "alt": "Le passage Choiseul, galerie couverte du IIe arrondissement de Paris",
+    "mots_cles": [
+      "Passage Choiseul"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

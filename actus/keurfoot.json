@@ -1,8 +1,246 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-28T00:38:05.073Z",
+  "genere_le": "2026-10-28T11:28:07.557Z",
   "actus": [
+    {
+      "id": "f829964fb8846632c9fa7770b5fee799b87b117c",
+      "titre": "Algérie : buteur contre Al-Hilal, Bounedjah absent de la liste élargie d'Hemdani",
+      "resume": "Baghdad Bounedjah a marqué mardi lors de la victoire 3-1 d'Al-Shamal sur Al-Hilal en Ligue des champions asiatique. Son nom ne figure pourtant pas dans la liste élargie du sélectionneur Brahim Hemdani pour la double confrontation contre le Togo en novembre, selon la presse algérienne.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "TG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/algerie-brillant-en-c1-asiatique-bounedjah-recoit-une-mauvaise-nouvelle-dhemdani",
+      "autres_sources": [
+        "https://africatopsports.com/afrique-football/elim-can-2027-brahim-hemdani-etudie-plusieurs-nouveaux-profils-avant-le-double-choc-face-au-togo/",
+        "https://wiwsport.com/2026/10/27/afc-champions-league-al-shamal-de-youssouf-sabaly-surprend-al-hilal-de-kalidou-koulibaly/"
+      ],
+      "publie_le": "2026-10-28T09:53:22.000Z",
+      "collecte_le": "2026-10-28T11:28:07.557Z",
+      "langue": "fr",
+      "slug": "algerie-buteur-contre-al-hilal-bounedjah-absent-de-la-liste-elargie-f82996",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f829964fb8846632c9fa7770b5fee799b87b117c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/f829964fb8846632c9fa7770b5fee799b87b117c.webp",
+        "source": "wikimedia",
+        "credit": "Magharebia",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Algeria_NT_training_2013_AFCON.jpg",
+        "alt": "L'attaquant algérien Baghdad Bounedjah",
+        "mots_cles": [
+          "Algeria national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "35ca2faf5359bafd2e8525dc964531da314c755a",
+      "titre": "Football guinéen : à 34 ans, Mamady Doumbouya élu à la tête de la Feguifoot",
+      "resume": "Mamady Doumbouya a été élu le 27 octobre président de la Fédération guinéenne de football avec 21 voix, devant Antonio Souaré et Ibrahima Kalil Kaba. À 34 ans, il est le plus jeune dirigeant qu'ait connu l'instance, qui sortait de quatre mois de transition.",
+      "theme": "foot",
+      "pays": [
+        "GN"
+      ],
+      "competition": null,
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/10/28/guinee-mamady-doumbouya-elu-nouveau-president-de-la-federation/",
+      "autres_sources": [
+        "https://www.rfi.fr/fr/afrique-foot/20261027-mamady-doumbouya-34-ans-devient-le-plus-jeune-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-guin%C3%A9enne-de-football"
+      ],
+      "publie_le": "2026-10-28T09:48:06.000Z",
+      "collecte_le": "2026-10-28T11:28:07.557Z",
+      "langue": "fr",
+      "slug": "football-guineen-34-ans-mamady-doumbouya-elu-la-tete-de-la-feguifoot-35ca2f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/35ca2faf5359bafd2e8525dc964531da314c755a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/35ca2faf5359bafd2e8525dc964531da314c755a.webp",
+        "source": "wikimedia",
+        "credit": "Fédération Guinéenne Football",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:2U4A8197.jpg",
+        "alt": "Le logo ou un stade lié au football guinéen",
+        "mots_cles": [
+          "Fédération guinéenne de football"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "a11602538d8819b7dcb2dc0bb5895531ec1f84a3",
+      "titre": "Mondial U15 : le Sénégal et la RDC s'imposent 4-1 et filent en huitièmes",
+      "resume": "Au Mondial U15 de Bakou, le Sénégal a battu la Géorgie 4-1, porté par Abdoulaye Diallo, auteur de trois buts, et rejoint les huitièmes de la Division B. La RDC s'est elle aussi qualifiée en Ligue D en dominant l'Île Maurice sur le même score.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "CD"
+      ],
+      "competition": "Coupe du monde U15",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/10/28/mondial-u15-le-senegal-domine-la-georgie-4-1-et-file-en-huitiemes-de-finale-de-la-division-b/",
+      "autres_sources": [
+        "https://africatopsports.com/football/mondial-u15-la-rdc-ecrase-lile-maurice-et-file-en-8es-de-finale/"
+      ],
+      "publie_le": "2026-10-28T09:45:42.000Z",
+      "collecte_le": "2026-10-28T11:28:07.557Z",
+      "langue": "fr",
+      "slug": "mondial-u15-le-senegal-et-la-rdc-imposent-4-1-et-filent-en-huitiemes-a11602",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/a11602538d8819b7dcb2dc0bb5895531ec1f84a3.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/a11602538d8819b7dcb2dc0bb5895531ec1f84a3.webp",
+        "source": "wikimedia",
+        "credit": "AlixSaz",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Baku_bay,_Azerbaijan.jpg",
+        "alt": "La ville de Bakou, en Azerbaïdjan",
+        "mots_cles": [
+          "Baku"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "277c61a0ae62bb4a7900bf02ff06cb4fca112141",
+      "titre": "CAN 2025 : avant le verdict du TAS, Mustapha Hadji défend le sacre du Maroc",
+      "resume": "L'ancien international marocain Mustapha Hadji estime que le Maroc a obtenu la CAN 2025 conformément au règlement, après la sortie temporaire des Sénégalais en finale. Il critique aussi l'arbitre Jean-Jacques Ndala. Le Tribunal arbitral du sport doit trancher vers la fin novembre.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "SN"
+      ],
+      "competition": "CAN",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/maroc-senegal-ils-savent-ce-qui-sest-passe-la-sortie-explosive-de-hadji-avant-le-verdict-du-tas",
+      "publie_le": "2026-10-28T08:51:00.000Z",
+      "collecte_le": "2026-10-28T11:28:07.557Z",
+      "langue": "fr",
+      "slug": "can-2025-avant-le-verdict-du-tas-mustapha-hadji-defend-le-sacre-du-277c61",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/277c61a0ae62bb4a7900bf02ff06cb4fca112141.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/277c61a0ae62bb4a7900bf02ff06cb4fca112141.webp",
+        "source": "wikimedia",
+        "credit": "Doha Stadium Plus Qatar",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mustapha_Hadji.jpg",
+        "alt": "L'ancien footballeur marocain Mustapha Hadji",
+        "mots_cles": [
+          "Mustapha Hadji"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "e104c94b04c5583a4ced3ae819ef1f59984b241e",
+      "titre": "Ouganda : Khalid Aucho, pourtant retraité, rappelé pour ses adieux face au Botswana",
+      "resume": "Retiré de la sélection ougandaise depuis le 12 octobre, Khalid Aucho figure dans le groupe de 30 joueurs de Paul Put pour la double confrontation contre le Botswana. Le sélectionneur veut offrir à l'ancien capitaine, 77 sélections, un hommage organisé le 14 novembre à Hoima.",
+      "theme": "foot",
+      "pays": [
+        "UG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/10/28/why-paul-put-summoned-retired-khalid-aucho-to-uganda-cranes-squad/",
+      "autres_sources": [
+        "https://africatopsports.com/football/elim-can-2027-louganda-prepare-un-hommage-a-khalid-aucho/",
+        "https://kawowo.com/2026/10/28/uganda-cranes-head-coach-confirms-30-man-squad-for-botswana-double-head-afcon-2027-qualifiers/"
+      ],
+      "publie_le": "2026-10-28T08:19:38.000Z",
+      "collecte_le": "2026-10-28T11:28:07.557Z",
+      "langue": "en",
+      "slug": "ouganda-khalid-aucho-pourtant-retraite-rappele-pour-ses-adieux-face-au-e104c9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e104c94b04c5583a4ced3ae819ef1f59984b241e.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/e104c94b04c5583a4ced3ae819ef1f59984b241e.webp",
+        "source": "wikimedia",
+        "credit": "Fédération Guinéenne Football",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Khalid_Aucho.jpg",
+        "alt": "Le milieu de terrain ougandais Khalid Aucho",
+        "mots_cles": [
+          "Khalid Aucho"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "b52a6bb27c51e315367f3f44d953c9c3f7795e04",
+      "titre": "Waël Mohya, 17 ans, révélation de Gladbach courtisée par le Bayern et le Maroc",
+      "resume": "Le milieu offensif germano-marocain Waël Mohya, 17 ans, s'impose à Mönchengladbach avec trois buts en huit matchs. Le club veut prolonger son contrat, qui court jusqu'en 2028, alors que le Bayern, Dortmund, Leverkusen et Leipzig le suivent. Le Maroc tente aussi de le convaincre.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "DE"
+      ],
+      "competition": "Bundesliga",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a3335516362927596926-wael-mohya-le-phenomene-de-17-ans-qui-rend-deja-fou-lallemagne",
+      "autres_sources": [
+        "https://africatopsports.com/football-europe/borussia-monchengladbach-une-prolongation-de-wael-mohya-a-letude/"
+      ],
+      "publie_le": "2026-10-27T19:02:06.000Z",
+      "collecte_le": "2026-10-28T11:28:07.557Z",
+      "langue": "fr",
+      "slug": "wael-mohya-17-ans-revelation-de-gladbach-courtisee-par-le-bayern-et-le-b52a6b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/b52a6bb27c51e315367f3f44d953c9c3f7795e04.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/b52a6bb27c51e315367f3f44d953c9c3f7795e04.webp",
+        "source": "wikimedia",
+        "credit": "Sascha Brück",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Borussia_Park_M%C3%B6nchengladbach.jpg",
+        "alt": "Le stade ou les couleurs du Borussia Mönchengladbach",
+        "mots_cles": [
+          "Borussia-Park"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "a55e72af8849b04f80a1b30e35ccad2950cbfdd6",
+      "titre": "Ballon d'Or africain 2026 : Pape Gueye assume viser le trophée",
+      "resume": "Interrogé par Canal+ Sport Afrique, le milieu sénégalais de Villarreal Pape Gueye affirme que le Ballon d'Or africain faisait partie de ses objectifs de la saison. Le trophée sera remis le 7 décembre à Lagos, quelques jours après le verdict du TAS sur la dernière finale de CAN.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Ballon d'Or africain",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/ballon-dor-africain-jai-fait-pas-mal-de-bonnes-choses-un-senegalais-fait-acte-de-candidature",
+      "publie_le": "2026-10-27T18:38:42.000Z",
+      "collecte_le": "2026-10-28T11:28:07.557Z",
+      "langue": "fr",
+      "slug": "ballon-or-africain-2026-pape-gueye-assume-viser-le-trophee-a55e72",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/a55e72af8849b04f80a1b30e35ccad2950cbfdd6.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/a55e72af8849b04f80a1b30e35ccad2950cbfdd6.webp",
+        "source": "wikimedia",
+        "credit": "Supporterhéninois",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lens_-_Le_Havre_AC_(01-04-2019)_44.jpg",
+        "alt": "Le milieu de terrain sénégalais Pape Gueye",
+        "mots_cles": [
+          "Pape Gueye"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7bb83389f2cb9bade1df1270fc7e201d595b469f",
       "titre": "Vozinha, gardien du Cap-Vert, invité à la soirée du Ballon d'Or après son Mondial",

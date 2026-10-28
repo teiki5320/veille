@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-28T00:45:58.845Z",
+  "genere_le": "2026-10-28T11:28:44.585Z",
   "articles": [
+    {
+      "id": "0bf71162ab118deb36af95fb16b94cd11cf0bd00",
+      "slug": "forges-de-tarbes-etat-discute-avec-quatre-candidats-la-reprise-0bf711",
+      "titre": "Forges de Tarbes : l'État discute avec quatre candidats à la reprise",
+      "publie_le": "2026-10-28T08:11:02.000Z",
+      "redige_le": "2026-10-28T11:28:40.666Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/0bf71162ab118deb36af95fb16b94cd11cf0bd00.json"
+    },
     {
       "id": "b6c012221c9cf114e002cf5653d745392c9e30aa",
       "slug": "paris-le-bhv-marais-sollicite-un-redressement-judiciaire-pour-sauver-b6c012",

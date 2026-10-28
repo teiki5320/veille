@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-10-28T00:45:58.842Z",
+  "genere_le": "2026-10-28T11:27:45.216Z",
   "articles": [
+    {
+      "id": "58e2a3b715877b5cdeb62ef466ef3749182137aa",
+      "slug": "soufiane-khaloua-un-premier-roman-ete-entre-deux-clans-rivaux-58e2a3",
+      "titre": "Soufiane Khaloua, un premier roman d'été entre deux clans rivaux",
+      "publie_le": "2026-10-28T08:37:19.000Z",
+      "redige_le": "2026-10-28T11:26:26.140Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/58e2a3b715877b5cdeb62ef466ef3749182137aa.json"
+    },
+    {
+      "id": "81a86c82546c52e75447e275d608281982d17d4b",
+      "slug": "kinshasa-accueille-un-nouveau-festival-pour-faire-circuler-le-livre-81a86c",
+      "titre": "Kinshasa accueille un nouveau festival pour faire circuler le livre africain",
+      "publie_le": "2026-10-28T07:30:00.000Z",
+      "redige_le": "2026-10-28T11:26:26.140Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/81a86c82546c52e75447e275d608281982d17d4b.json"
+    },
     {
       "id": "f1153723d32109a346001ce3df72ff8927312d97",
       "slug": "felwine-sarr-relit-murambi-tournant-de-oeuvre-de-boubacar-boris-diop-f11537",
