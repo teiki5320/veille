@@ -1,7 +1,7 @@
 // Tests : node scripts/test.mjs  (aucun accès réseau)
 import assert from 'node:assert/strict';
 import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl, sites, ICONES } from './lib.mjs';
-import { validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
+import { propre, validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
 import { slugDe, controleArticle, motsArticle } from './lib.mjs';
 import { extraireTexte } from './sources.mjs';
 import { collecterSite, lireFlux } from './collecte.mjs';
@@ -218,6 +218,11 @@ await test('Lecture des flux Atom', () => {
 });
 
 // ---------- Articles complets ----------
+await test('Coquilles nettoyées : virgule doublée, point doublé, espaces', () => {
+  assert.equal(propre('cinquième édition,, puis  la suite.. Fin…'), 'cinquième édition, puis la suite. Fin…');
+  assert.equal(propre('Et ensuite...'), 'Et ensuite...');
+});
+
 const phrase = (i) => `Phrase numéro ${i} écrite pour le test avec des mots tout à fait ordinaires et variés.`;
 const articleDe = (nParagraphes, phrasesParParagraphe = 5) => ({
   chapo: 'Un chapô assez long pour passer le contrôle de la longueur minimale.',

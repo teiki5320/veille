@@ -42,10 +42,12 @@ const texteSource = (site, id) => {
 const nbMots = (t) => String(t || '').split(/\s+/).filter(Boolean).length;
 
 // Article complet nettoyé, prêt à écrire dans articles/<site>/<id>.json.
+// Petites coquilles de frappe : ponctuation doublée, espaces en trop.
+export const propre = (t) => String(t).replace(/\s*,(\s*,)+/g, ',').replace(/([^.])\.\.(?!\.)/g, '$1.').replace(/[ \t]{2,}/g, ' ').trim();
 function nettoyerArticle(a) {
   return {
-    chapo: String(a.chapo).trim(),
-    blocs: a.blocs.map((b) => ({ intertitre: b.intertitre ? String(b.intertitre).trim() : null, paragraphes: b.paragraphes.map((x) => String(x).trim()).filter(Boolean) })),
+    chapo: propre(a.chapo),
+    blocs: a.blocs.map((b) => ({ intertitre: b.intertitre ? propre(b.intertitre) : null, paragraphes: b.paragraphes.map(propre).filter(Boolean) })),
   };
 }
 export function docArticle(site, actu, article, maintenant) {
