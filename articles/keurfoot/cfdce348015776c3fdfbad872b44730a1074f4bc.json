@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "cfdce348015776c3fdfbad872b44730a1074f4bc",
+  "slug": "trophee-kopa-2026-ou-se-classent-bouaddi-maza-et-yan-diomande-cfdce3",
+  "titre": "Trophée Kopa 2026 : où se classent Bouaddi, Maza et Yan Diomandé",
+  "chapo": "Yan Diomandé a terminé 5e, Ayyoub Bouaddi 6e et Ibrahim Maza 9e du Trophée Kopa 2026, remporté pour la troisième fois de suite par Lamine Yamal lundi à Londres.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le classement complet du prix du meilleur jeune a été publié pendant la cérémonie londonienne, dont c'était la 70e édition. L'Espagnol du FC Barcelone l'emporte de nouveau. Il devient le premier joueur à gagner ce trophée trois années de suite.",
+        "Derrière lui figurent son compatriote Pau Cubarsi, le Français Warren Zaïre-Emery et l'Allemand Lennart Karl. Les trois Africains se placent ensuite."
+      ]
+    },
+    {
+      "intertitre": "Diomandé, l'Africain le mieux classé",
+      "paragraphes": [
+        "Âgé de 19 ans, l'ailier de la Côte d'Ivoire arrive en 5e position. L'été dernier, son passage de Leipzig au Real Madrid, contre 125 millions d'euros, sans compter les bonus, est devenu le transfert le plus cher d'un joueur africain.",
+        "Juste derrière, le Marocain Ayyoub Bouaddi est 6e. Le même âge, il a rejoint Manchester City en provenance de Lille pour 95 millions d'euros. Il porte le maillot des Lions de l'Atlas depuis la fin mai et s'est illustré pendant la Coupe du monde 2026.",
+        "L'Algérien Ibrahim Maza, 20 ans, termine 9e. Pièce maîtresse du jeu de Leverkusen et des Fennecs, il aurait mérité mieux selon de nombreux observateurs algériens, surpris par ce rang."
+      ]
+    },
+    {
+      "intertitre": "Une première pour le continent",
+      "paragraphes": [
+        "Créé en 2018, le Trophée Kopa distingue chaque année le meilleur footballeur âgé de moins de 21 ans. Jamais trois Africains n'avaient été nommés la même année.",
+        "Jusqu'ici, un seul Africain avait atteint les dix premières places : Amadou Haïdara, Malien, lors de la première édition, puis Samuel Chukwueze, Nigérian, l'année suivante."
+      ]
+    },
+    {
+      "intertitre": "Une génération à suivre",
+      "paragraphes": [
+        "Diomandé joue désormais en Espagne, Bouaddi en Angleterre et Maza en Allemagne. Leur présence confirme le poids croissant des jeunes talents africains dans les grands clubs européens. Tous trois sont déjà internationaux avec leur sélection."
+      ]
+    }
+  ],
+  "mots": 305,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "DZ",
+    "CI"
+  ],
+  "competition": "Ballon d'Or",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/trophee-kopa-2026-le-classement-de-bouaddi-maza-et-yan-diomande",
+  "publie_le": "2026-10-26T22:32:09.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/cfdce348015776c3fdfbad872b44730a1074f4bc.webp",
+    "source": "wikimedia",
+    "credit": "Paté kroute",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bouaddi_asselosc_2425.jpg",
+    "alt": "Un jeune footballeur africain sur le terrain",
+    "mots_cles": [
+      "Ayyoub Bouaddi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

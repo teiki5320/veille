@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "695f5b791f6ce13b86e21e5c9c6e9057104bf89e",
+  "slug": "avant-senegal-soudan-la-pelouse-du-stade-de-dakar-en-travaux-695f5b",
+  "titre": "Avant Sénégal–Soudan, la pelouse du stade de Dakar en travaux",
+  "chapo": "Le stade Léopold-Sédar-Senghor n'accueille plus de match depuis le 18 octobre : sa pelouse est en travaux. Il doit accueillir Sénégal–Soudan le 12 novembre, en qualifications pour la CAN 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les travaux ont commencé juste après le dernier match disputé dans l'enceinte dakaroise : une rencontre de Ligue des champions africaine entre Teungueth FC et la Colombe Sportive du Sud, club camerounais.",
+        "Les Lions de Patrick Vieira y recevront le Soudan pour la 3e journée de leur groupe qualificatif."
+      ]
+    },
+    {
+      "intertitre": "Pourquoi Senghor plutôt que Diamniadio",
+      "paragraphes": [
+        "Le choix du stade s'explique par le calendrier. L'autre grande enceinte du pays, à Diamniadio, sert de cadre aux Jeux olympiques de la jeunesse, organisés à Dakar entre le 31 octobre et le 13 novembre. Il n'est donc pas disponible pour les Lions.",
+        "Lors de la fenêtre de septembre, la question s'était déjà posée. Diamniadio était alors occupé par les préparatifs des JOJ, et la pelouse de Senghor était en mauvais état. Le Sénégal avait joué au Mozambique (1-1) et en Éthiopie."
+      ]
+    },
+    {
+      "intertitre": "Le retour des Lions à Dakar",
+      "paragraphes": [
+        "Ce match marquera le retour de la sélection devant le public dakarois, dans un stade historique de la capitale. Le Sénégal est deuxième de son groupe avec 4 points, à égalité avec le Mozambique. La pelouse devra être prête dans un peu plus de deux semaines."
+      ]
+    }
+  ],
+  "mots": 218,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Wiwsport",
+  "source_url": "https://wiwsport.com/2026/10/26/senegal-soudan-le-stade-leopold-sedar-senghor-ferme-pour-preparer-le-retour-des-lions/",
+  "publie_le": "2026-10-26T11:56:54.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/695f5b791f6ce13b86e21e5c9c6e9057104bf89e.webp",
+    "source": "openverse",
+    "credit": "Jeff Attaway",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/33398364@N08/5562333854",
+    "alt": "Un stade de football à Dakar",
+    "mots_cles": [
+      "dakar stadium"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

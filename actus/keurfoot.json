@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-27T18:15:29.371Z",
+  "genere_le": "2026-10-28T00:35:23.767Z",
   "actus": [
     {
       "id": "7bb83389f2cb9bade1df1270fc7e201d595b469f",
@@ -507,7 +507,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "togo-patrice-neveu-annonce-une-liste-provisoire-pour-defier-algerie-a247f6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/a247f625310523054474906842d6212d403de47f.json",
+      "lecture_min": 2
     },
     {
       "id": "373cf4855f423482e124287f284339208fa49a35",
@@ -536,7 +539,14 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.heraldonline.co.zw/warriors-return-to-familiar-territory/",
+        "https://africasoccer.com/?p=624544"
+      ],
+      "slug": "zimbabwe-ramon-catala-publie-sa-liste-pour-affronter-la-guinee-373cf4",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/373cf4855f423482e124287f284339208fa49a35.json",
+      "lecture_min": 1
     },
     {
       "id": "1c5eb284cbc146f84aea23ca93f3bb7141d17441",
@@ -566,7 +576,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "ligue-des-champions-caf-scottland-fc-se-separe-de-norman-mapeza-1c5eb2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1c5eb284cbc146f84aea23ca93f3bb7141d17441.json",
+      "lecture_min": 1
     },
     {
       "id": "9b53e02dd146a4138d0ae822297b16ed7c7810f0",
@@ -596,7 +609,13 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.afrik-foot.com/coupe-caf-las-far-rabat-offre-le-2-2-au-maroc-la-cote-divoire-bredouille"
+      ],
+      "slug": "coupe-de-la-caf-azam-et-as-far-parmi-les-qualifies-avant-le-tirage-des-9b53e0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9b53e02dd146a4138d0ae822297b16ed7c7810f0.json",
+      "lecture_min": 1
     },
     {
       "id": "48985bf15456eb25b7f689b35f5d6c10569eb370",
@@ -624,7 +643,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "super-lig-andre-onana-et-trabzonspor-remontent-deux-buts-pour-battre-48985b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/48985bf15456eb25b7f689b35f5d6c10569eb370.json",
+      "lecture_min": 2
     },
     {
       "id": "45fc03a8a0bfa61c0b0f1bf6ba759261673db5a0",
@@ -656,7 +678,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "pape-gueye-se-pose-en-candidat-au-ballon-or-africain-45fc03",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/45fc03a8a0bfa61c0b0f1bf6ba759261673db5a0.json",
+      "lecture_min": 1
     },
     {
       "id": "b8b05a1289992b843ff44406506830b2e98c2816",
@@ -685,7 +710,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "cameroun-la-fecafoot-recompense-les-lions-u20-qualifies-pour-la-can-b8b05a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/b8b05a1289992b843ff44406506830b2e98c2816.json",
+      "lecture_min": 1
     },
     {
       "id": "cfdce348015776c3fdfbad872b44730a1074f4bc",
@@ -715,7 +743,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "trophee-kopa-2026-ou-se-classent-bouaddi-maza-et-yan-diomande-cfdce3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/cfdce348015776c3fdfbad872b44730a1074f4bc.json",
+      "lecture_min": 1
     },
     {
       "id": "fdb6b087a1572b2b83938d31ed74e48cf8fe3056",
@@ -744,7 +775,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "eliminatoires-can-2027-le-botswana-devoile-26-joueurs-pour-affronter-fdb6b0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/fdb6b087a1572b2b83938d31ed74e48cf8fe3056.json",
+      "lecture_min": 1
     },
     {
       "id": "0d08e0a6c70b4faec72a2bc62337b1d9b53616cf",
@@ -776,7 +810,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "hakimi-perd-sept-rangs-et-finit-13e-au-ballon-or-2026-0d08e0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/0d08e0a6c70b4faec72a2bc62337b1d9b53616cf.json",
+      "lecture_min": 1
     },
     {
       "id": "13c6e86581517be5969d48dcc31c8efef0cd4f03",
@@ -804,7 +841,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "senegal-patrick-vieira-toujours-invaincu-avant-la-fenetre-de-novembre-13c6e8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/13c6e86581517be5969d48dcc31c8efef0cd4f03.json",
+      "lecture_min": 2
     },
     {
       "id": "695f5b791f6ce13b86e21e5c9c6e9057104bf89e",
@@ -832,7 +872,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "avant-senegal-soudan-la-pelouse-du-stade-de-dakar-en-travaux-695f5b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/695f5b791f6ce13b86e21e5c9c6e9057104bf89e.json",
+      "lecture_min": 1
     },
     {
       "id": "97c06615b7380e00f422c1ce8172ac8bdf92e4ba",
@@ -861,7 +904,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "can-u20-le-senegal-ne-sera-pas-au-ghana-97c066",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/97c06615b7380e00f422c1ce8172ac8bdf92e4ba.json",
+      "lecture_min": 1
     },
     {
       "id": "da53bff8ac59c3300e38e210aac991bbbbe1f4a2",
@@ -894,7 +940,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "aston-villa-nicolas-jackson-auteur-un-double-contre-city-salue-par-da53bf",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/da53bff8ac59c3300e38e210aac991bbbbe1f4a2.json",
+      "lecture_min": 1
     },
     {
       "id": "d8748aac9e22be6c73ae94925791a9c4f688ef6d",
@@ -926,7 +975,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "coupe-de-la-caf-as-far-rabat-qualifiee-carton-plein-pour-le-maroc-d8748a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d8748aac9e22be6c73ae94925791a9c4f688ef6d.json",
+      "lecture_min": 1
     },
     {
       "id": "7425babc81de32d37f34e40cdc31d1cc87d0960f",
@@ -959,7 +1011,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "tp-mazembe-elimine-de-la-ligue-des-champions-caf-le-mas-fes-qualifie-7425ba",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7425babc81de32d37f34e40cdc31d1cc87d0960f.json",
+      "lecture_min": 1
     }
   ]
 }

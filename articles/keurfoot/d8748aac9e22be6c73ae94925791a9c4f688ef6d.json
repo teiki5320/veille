@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "d8748aac9e22be6c73ae94925791a9c4f688ef6d",
+  "slug": "coupe-de-la-caf-as-far-rabat-qualifiee-carton-plein-pour-le-maroc-d8748a",
+  "titre": "Coupe de la CAF : l'AS FAR Rabat qualifiée, carton plein pour le Maroc",
+  "chapo": "Malmenée par le CO Korhogo, l'AS FAR de Rabat sera bien présente en poules de la C2 africaine. Les deux clubs marocains engagés dimanche ont passé le cap, tandis que la Côte d'Ivoire n'aura aucun représentant.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les Militaires se sont imposés 2-1 lors du match retour du second tour préliminaire, au stade Prince-Moulay-Abdellah. Youssef El Fahli avait transformé un penalty à la 6e minute. Mais l'égalisation ivoirienne, à la 54e, éliminait virtuellement les Rabatis, à cause du but marqué à l'extérieur par Korhogo.",
+        "Anas Bach les a délivrés à la 83e minute."
+      ]
+    },
+    {
+      "intertitre": "Un 2 sur 2 pour le Maroc",
+      "paragraphes": [
+        "Plus tôt dans la journée, le MAS Fès avait validé son billet pour la Ligue des champions. Les deux clubs marocains en lice dimanche se sont donc qualifiés. La veille, le Raja Casablanca avait déjà éliminé El Kanemi Warriors en Coupe de la CAF.",
+        "Le bilan est inverse pour la Côte d'Ivoire. Après Korhogo, l'AFAD Plateau est tombé face au CS Sfaxien. En Ligue des champions, l'ASEC Mimosas a été éliminée par le MAS Fès et le FC San Pedro par Nouadhibou."
+      ]
+    },
+    {
+      "intertitre": "Quinze qualifiés sur seize",
+      "paragraphes": [
+        "Côté nord-africain, on retrouvera Al Ahly, l'USM Alger, tenante du titre, le CS Sfaxien, Al Ahli Tripoli, le Raja et l'AS FAR. Les autres places reviennent à Azam FC et Singida Black Stars (Tanzanie), Maniema Union (RD Congo), le Real Bamako (Mali), l'ASKO Kara (Togo), les Black Bulls (Mozambique), Durban City (Afrique du Sud), les Red Arrows (Zambie) et Primeiro de Agosto (Angola).",
+        "La dernière place se jouera entre le CR Belouizdad et le vainqueur du dossier opposant l'AS Douanes à Hafia, soumis au Tribunal arbitral du sport."
+      ]
+    },
+    {
+      "intertitre": "Le tirage mercredi",
+      "paragraphes": [
+        "Le tirage au sort est prévu mercredi à midi, heure de Paris. D'après les chapeaux qui circulent, Al Ahly, l'USM Alger, l'AS FAR et le dernier qualifié seraient têtes de série. Le Raja, Maniema Union, Azam et le CS Sfaxien composeraient le deuxième chapeau."
+      ]
+    }
+  ],
+  "mots": 320,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "CI"
+  ],
+  "competition": "Coupe de la CAF",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-caf-las-far-rabat-offre-le-2-2-au-maroc-la-cote-divoire-bredouille",
+  "autres_sources": [
+    "https://www.afrik-foot.com/coupe-de-la-caf-usma-raja-al-ahly-les-chapeaux-probables-pour-le-tirage-au-sort-de-la-phase-de-groupes"
+  ],
+  "publie_le": "2026-10-25T21:33:39.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/d8748aac9e22be6c73ae94925791a9c4f688ef6d.webp",
+    "source": "wikimedia",
+    "credit": "Magharebia",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Les_FAR_de_Rabat_en_t%C3%AAte_du_Botola_(8170068288).jpg",
+    "alt": "Un stade de football au Maroc",
+    "mots_cles": [
+      "AS FAR Rabat"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

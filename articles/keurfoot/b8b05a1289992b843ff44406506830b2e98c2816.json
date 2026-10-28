@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "b8b05a1289992b843ff44406506830b2e98c2816",
+  "slug": "cameroun-la-fecafoot-recompense-les-lions-u20-qualifies-pour-la-can-b8b05a",
+  "titre": "Cameroun : la Fécafoot récompense les Lions U20 qualifiés pour la CAN",
+  "chapo": "La Fécafoot a accordé 20 millions de FCFA à ses moins de 20 ans. Ils ont remporté le tournoi de zone Uniffac, disputé dans la capitale camerounaise, et iront à la CAN de leur catégorie, prévue au Ghana.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les joueurs d'Yvan Kenmoe ont été reçus lundi au siège de la fédération camerounaise. Le président, Samuel Eto'o, était absent. C'est Isaac Blaise Mandong, secrétaire général de l'instance, qui a félicité le groupe pour son titre régional et sa qualification.",
+        "Il a transmis le message du président. Celui-ci promet de réunir les meilleures conditions de travail pour les joueurs et l'encadrement. La prime de 20 millions de FCFA a été présentée comme un encouragement."
+      ]
+    },
+    {
+      "intertitre": "Un tournoi sans faute",
+      "paragraphes": [
+        "Les jeunes Lions ont dominé la compétition qualificative disputée dans la capitale. Ils ont enchaîné quatre victoires en quatre matchs, avec dix buts marqués et un seul encaissé. En finale, ils ont battu la Centrafrique, également qualifiée pour la phase finale.",
+        "Emmenée par son capitaine Ivan Nana, cette génération met fin à une série négative. Le Cameroun avait manqué les deux précédentes éditions de la CAN des moins de 20 ans."
+      ]
+    },
+    {
+      "intertitre": "Viser la Coupe du monde",
+      "paragraphes": [
+        "La suite sera plus exigeante. Le niveau de la compétition continentale est nettement supérieur à celui du tournoi de zone. L'objectif affiché est d'y décrocher un billet pour la Coupe du monde de la catégorie.",
+        "Pour y parvenir, le staff veut renforcer la défense et l'attaque. Il prévoit aussi de prospecter afin de repérer de nouveaux profils."
+      ]
+    },
+    {
+      "intertitre": "Douze qualifiés connus",
+      "paragraphes": [
+        "La liste des participants est désormais complète, après les derniers tournois de zone disputés le week-end. Le Ghana, pays hôte, et le Maroc figurent parmi les qualifiés. Les dates officielles de la phase finale n'ont pas encore été annoncées par la CAF. D'ici là, la sélection doit poursuivre sa préparation et élargir sa base de joueurs."
+      ]
+    }
+  ],
+  "mots": 308,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "CM"
+  ],
+  "competition": "CAN U20",
+  "source_nom": "Camfoot",
+  "source_url": "https://www.camfoot.com/actualites/la-fecafoot-offre-une-prime-speciale-de-20-millions-de-fcfa-aux-lions-u20,558949.html",
+  "publie_le": "2026-10-26T22:46:15.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurfoot/b8b05a1289992b843ff44406506830b2e98c2816.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Foot",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Foot avec le drapeau national (Cameroun) et la mention « CAN U20 »",
+    "mots_cles": [
+      "cameroon youth football",
+      "african youth football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

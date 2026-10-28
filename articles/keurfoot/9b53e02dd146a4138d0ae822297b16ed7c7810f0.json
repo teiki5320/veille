@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "9b53e02dd146a4138d0ae822297b16ed7c7810f0",
+  "slug": "coupe-de-la-caf-azam-et-as-far-parmi-les-qualifies-avant-le-tirage-des-9b53e0",
+  "titre": "Coupe de la CAF : Azam et l'AS FAR parmi les qualifiés avant le tirage des groupes",
+  "chapo": "Les clubs de deux internationaux ougandais, Azam FC et l'AS FAR de Rabat, ont rejoint les seize équipes de la deuxième compétition interclubs du continent pour 2026-2027, dont le tirage a lieu mercredi au Caire.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Hassan Mubiru joue à Azam, en Tanzanie. Son club s'est qualifié en éliminant les Égyptiens de ZED au dernier tour préliminaire. Allan Okello, son coéquipier en sélection ougandaise, évolue à l'AS FAR, qui a aussi validé son billet.",
+        "Le tirage au sort est programmé le mercredi 28 octobre dans la capitale égyptienne. Seize clubs y seront répartis en quatre poules de quatre."
+      ]
+    },
+    {
+      "intertitre": "Une qualification arrachée par les Militaires",
+      "paragraphes": [
+        "À Rabat, l'AS FAR a souffert face au CO Korhogo, club ivoirien. Youssef El Fahli avait ouvert le score sur penalty en tout début de match. L'égalisation adverse, peu après la pause, plaçait les Marocains hors course à cause des buts à l'extérieur. Anas Bach les a sauvés à la 83e minute (2-1).",
+        "Le Raja Casablanca s'est lui aussi qualifié, en éliminant El Kanemi Warriors, ce qui donne au Maroc deux clubs dans cette phase."
+      ]
+    },
+    {
+      "intertitre": "Des poids lourds en lice",
+      "paragraphes": [
+        "Al Ahly, qui a écrasé les Ougandais de Kitara (6-1), est la tête d'affiche. L'USM Alger, tenante du titre, et le CS Sfaxien sont également présents. Une seule place reste à attribuer, entre le CR Belouizdad et le vainqueur du litige entre l'AS Douanes et Hafia, que doit trancher le Tribunal arbitral du sport.",
+        "Selon les chapeaux qui circulent, l'AS FAR serait parmi les têtes de série, avec Al Ahly et l'USM Alger. Azam se trouverait dans le deuxième chapeau, avec le Raja, Maniema Union et le CS Sfaxien."
+      ]
+    },
+    {
+      "intertitre": "La suite du programme",
+      "paragraphes": [
+        "La phase de groupes doit démarrer en novembre 2026. Les deux premiers de chaque poule iront en quarts de finale. La Tanzanie aura un second représentant, Singida Black Stars. Le Maroc en comptera deux, avec le Raja et l'AS FAR."
+      ]
+    }
+  ],
+  "mots": 316,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "TZ",
+    "MA",
+    "UG"
+  ],
+  "competition": "Coupe de la CAF",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/10/27/caf-confederation-cup-mubirus-azam-okellos-as-far-headline-group-stage-draw/",
+  "autres_sources": [
+    "https://www.afrik-foot.com/coupe-caf-las-far-rabat-offre-le-2-2-au-maroc-la-cote-divoire-bredouille"
+  ],
+  "publie_le": "2026-10-27T07:16:41.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/9b53e02dd146a4138d0ae822297b16ed7c7810f0.webp",
+    "source": "wikimedia",
+    "credit": "Pangalau",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DPMM-Kota_Ranger_27_November_2022_(Players)_16.jpg",
+    "alt": "Le club tanzanien Azam FC",
+    "mots_cles": [
+      "Azam F.C."
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "1c5eb284cbc146f84aea23ca93f3bb7141d17441",
+  "slug": "ligue-des-champions-caf-scottland-fc-se-separe-de-norman-mapeza-1c5eb2",
+  "titre": "Ligue des champions CAF : Scottland FC se sépare de Norman Mapeza",
+  "chapo": "Sorti dès les tours préliminaires de la Ligue des champions africaine, le Scottland FC a mis fin à sa collaboration avec Norman Mapeza. Le départ prend effet tout de suite.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le club zimbabwéen a annoncé que son entraîneur principal quittait ses fonctions. Cette séparation intervient après l'échec de l'équipe dans les tours préliminaires de la compétition continentale : Scottland ne sera pas parmi les seize clubs encore en course après les tours préliminaires."
+      ]
+    },
+    {
+      "intertitre": "Un bon parcours en championnat",
+      "paragraphes": [
+        "Le bilan national de Mapeza était pourtant solide. Le club est actuellement deuxième du championnat du Zimbabwe. Les dirigeants vont maintenant chercher un successeur capable de tenir ce rythme jusqu'à la fin de la saison.",
+        "Scottland est aussi un réservoir pour la sélection : huit de ses joueurs, dont Knowledge Musona, figurent sur la liste provisoire des Warriors pour les matchs de novembre contre la Guinée équatoriale."
+      ]
+    },
+    {
+      "intertitre": "Un technicien bien connu au Zimbabwe",
+      "paragraphes": [
+        "Ancien international, Norman Mapeza a longtemps entraîné le FC Platinum, qu'il a quitté une première fois en 2019 avant d'y revenir fin 2020. Il a aussi dirigé la sélection nationale à plusieurs reprises, notamment comme intérimaire en 2021. Le nom de son remplaçant à Scottland n'a pas encore été communiqué."
+      ]
+    }
+  ],
+  "mots": 201,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "ZW"
+  ],
+  "competition": "Ligue des champions CAF",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/football/ligue-des-champions-caf-scottland-se-separe-de-son-entraineur/",
+  "publie_le": "2026-10-27T07:18:12.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurfoot/1c5eb284cbc146f84aea23ca93f3bb7141d17441.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Foot",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Foot avec le drapeau national (Zimbabwe) et la mention « Ligue des champions CAF »",
+    "mots_cles": [
+      "Norman Mapeza",
+      "football coach",
+      "african football club"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

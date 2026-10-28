@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "373cf4855f423482e124287f284339208fa49a35",
+  "slug": "zimbabwe-ramon-catala-publie-sa-liste-pour-affronter-la-guinee-373cf4",
+  "titre": "Zimbabwe : Ramon Catala publie sa liste pour affronter la Guinée équatoriale",
+  "chapo": "Le sélectionneur espagnol du Zimbabwe, Ramon Catala, a convoqué 32 joueurs pour les deux matchs contre la Guinée équatoriale, en novembre, dans le groupe E des qualifications pour la CAN 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les Warriors ont désormais une liste élargie pour leur double rendez-vous des 3e et 4e journées. Elle compte trois gardiens, huit défenseurs, sept milieux et quatorze attaquants. Elle sera resserrée avant le rassemblement.",
+        "La première rencontre se jouera le 12 novembre à Yaoundé, au stade Ahmadou-Ahidjo, sur terrain neutre, faute d'enceinte homologuée par la CAF chez les Équato-Guinéens. Le retour aura lieu quatre jours après dans la capitale zimbabwéenne, Harare."
+      ]
+    },
+    {
+      "intertitre": "Un mélange de locaux et d'expatriés",
+      "paragraphes": [
+        "Catala a puisé dans le championnat national, en particulier au Scottland FC, qui fournit huit joueurs, dont les deux Musona, Knowledge et Walter. Hardrock en place quatre.",
+        "Les joueurs basés en Angleterre restent nombreux : Corbin Mthunzi (Ipswich), Jordan Zemura (Watford), Sean Fusire, de Sheffield Wednesday, ainsi que Marshall Munetsi et Tawanda Chirewa, tous deux à Wolverhampton. Marvellous Nakamba, passé par Aston Villa, joue désormais en Grèce, à Panetolikos, comme Tino Kadewere à l'Aris Salonique."
+      ]
+    },
+    {
+      "intertitre": "Deuxième du groupe après deux journées",
+      "paragraphes": [
+        "Le Zimbabwe a ouvert sa campagne par un succès 3-2 contre la Sierra Leone, au Maroc, après avoir été mené de deux buts. Munetsi avait signé un doublé et Chirewa le troisième but. Les Warriors ont ensuite perdu 2-1 à Harare face à la RD Congo de Sébastien Desabre.",
+        "La Guinée équatoriale, elle, s'est inclinée 2-0 à Kinshasa lors de la première journée. Le Zimbabwe occupe la deuxième place avant ces deux matchs."
+      ]
+    },
+    {
+      "intertitre": "Des retours attendus",
+      "paragraphes": [
+        "Zemura, ainsi que Divine Lunga, de Mamelodi Sundowns, étaient diminués ou absents contre la RD Congo. Ils paraissent désormais disponibles. Lunga ne figure toutefois pas sur cette première liste. Le groupe définitif doit être annoncé avant le départ pour le Cameroun."
+      ]
+    }
+  ],
+  "mots": 305,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "ZW",
+    "GQ"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/football/elim-can-2027-la-liste-provisoire-du-zimbabwe-est-officielle/",
+  "autres_sources": [
+    "https://www.heraldonline.co.zw/warriors-return-to-familiar-territory/",
+    "https://africasoccer.com/?p=624544"
+  ],
+  "publie_le": "2026-10-27T08:34:43.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/373cf4855f423482e124287f284339208fa49a35.webp",
+    "source": "wikimedia",
+    "credit": "Christian Bellgardt",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Zimbabwe_national_football_team,_2009.jpg",
+    "alt": "L'équipe du Zimbabwe de football",
+    "mots_cles": [
+      "Zimbabwe national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

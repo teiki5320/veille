@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "7425babc81de32d37f34e40cdc31d1cc87d0960f",
+  "slug": "tp-mazembe-elimine-de-la-ligue-des-champions-caf-le-mas-fes-qualifie-7425ba",
+  "titre": "TP Mazembe éliminé de la Ligue des champions CAF, le MAS Fès qualifié",
+  "chapo": "Défait à Radès par le Club Africain sur la plus petite des marges, le TP Mazembe ne verra pas les poules de la C1 du continent. Le MAS Fès, champion du Maroc, s'est qualifié aux dépens de l'ASEC Mimosas.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le second tour préliminaire s'est achevé ce week-end. Tenu en échec 1-1 à domicile à l'aller, le club congolais a perdu dimanche dans la banlieue de Tunis. Le seul but est l'œuvre du Camerounais Taddeus Nkeng, recruté cet été après un passage au Stade Malien. Il a frappé juste avant la pause.",
+        "Mazembe, éliminé 2-1 au total, manque la phase de groupes pour la deuxième saison de suite."
+      ]
+    },
+    {
+      "intertitre": "Le MAS Fès de retour après 14 ans",
+      "paragraphes": [
+        "À Abidjan, l'ASEC a perdu 2-1 contre le MAS Fès, après un nul 1-1 à l'aller à Meknès. Christopher Ibayi a ouvert le score à la 62e. Kevin Bakaré a égalisé à la 73e, avant le but de Khalid Baba dans le temps additionnel. Les Fassis retrouvent la compétition pour la première fois depuis quatorze ans et rejoignent la RS Berkane.",
+        "Le FC San Pedro a aussi été éliminé, battu 2-0 en Mauritanie par Nouadhibou après sa victoire 2-1 à l'aller. Aucun club ivoirien ne sera donc présent."
+      ]
+    },
+    {
+      "intertitre": "Les seize qualifiés",
+      "paragraphes": [
+        "L'Afrique du Nord place sept clubs : l'Espérance de Tunis, le Club Africain, Zamalek, Pyramids, le MC Alger, la RS Berkane et le MAS Fès. Les autres qualifiés sont Al Hilal Omdurman, Nouadhibou, Horoya, la Colombe Sportive, Orlando Pirates, Petro Luanda, Wiliete, Simba SC et les Young Africans.",
+        "Al Ahly, recordman de titres, est absent. Mamelodi Sundowns, tenant du titre, a été sorti au tour préliminaire par Wiliete."
+      ]
+    },
+    {
+      "intertitre": "Le tirage mercredi au Caire",
+      "paragraphes": [
+        "La CAF procédera au tirage mercredi dans la capitale égyptienne, à 13 heures, heure de Paris. Les seize clubs seront répartis en quatre groupes de quatre. L'Espérance, qui dispute la compétition pour la 24e fois, devrait être tête de série avec la RS Berkane, Pyramids et Zamalek."
+      ]
+    }
+  ],
+  "mots": 326,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "CD",
+    "MA",
+    "CI"
+  ],
+  "competition": "Ligue des champions CAF",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/ligue-des-champions-caf-le-tp-mazembe-passe-a-la-trappe-le-champion-du-maroc-qualifie-la-cote-divoire-fait-chou-blanc",
+  "autres_sources": [
+    "https://www.afrik-foot.com/ligue-des-champions-caf-les-chapeaux-probables-et-la-date-du-tirage-au-sort-de-la-phase-de-groupes"
+  ],
+  "publie_le": "2026-10-25T20:21:29.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/7425babc81de32d37f34e40cdc31d1cc87d0960f.webp",
+    "source": "wikimedia",
+    "credit": "Reda benkhadra",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:FAR_Rabat_v_TP_Mazembe_10.jpg",
+    "alt": "Un stade de football lors d'un match de club africain",
+    "mots_cles": [
+      "TP Mazembe"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

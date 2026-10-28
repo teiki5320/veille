@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "a247f625310523054474906842d6212d403de47f",
+  "slug": "togo-patrice-neveu-annonce-une-liste-provisoire-pour-defier-algerie-a247f6",
+  "titre": "Togo : Patrice Neveu annonce une liste provisoire pour défier l'Algérie",
+  "chapo": "Patrice Neveu a publié une liste provisoire de 31 joueurs pour la double confrontation du Togo face à l'Algérie, prévue à la mi-novembre dans les qualifications pour la CAN 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le sélectionneur des Éperviers a fait connaître un premier groupe pour les troisième et quatrième journées de la phase qualificative. Il comprend quatre gardiens, douze défenseurs, huit milieux et sept attaquants. Cette liste n'est pas définitive : elle devra être réduite avant le rassemblement.",
+        "Le calendrier est serré. Les Togolais se déplacent d'abord en Algérie le 14 novembre. Trois jours plus tard, le 17, ils accueillent les Fennecs pour le match retour au stade de Kégué, à Lomé."
+      ]
+    },
+    {
+      "intertitre": "Une majorité de joueurs expatriés",
+      "paragraphes": [
+        "Le groupe repose largement sur des joueurs évoluant hors du pays. L'Allemagne fournit plusieurs défenseurs, comme Lilian Brassier (Eintracht Francfort), Pierre Nadjombe (Magdebourg) et Henri Koudossou (Arminia Bielefeld). En France, Neveu a retenu Gustave Akueson (Bastia), Izak Akakpo (Lorient), Dermane Karim (Troyes), Charles Abi (Valenciennes) et le jeune gardien d'Auxerre Rayann Amedivlo.",
+        "Le continent africain reste représenté. Abdoul-Sabourh Bode joue au TP Mazembe, en RD Congo, et Malcolm Barcola garde les buts de l'Ittihad Tanger, au Maroc. Trois éléments viennent du championnat ivoirien, dont Youssifou Atte, de l'Asec Mimosas. Deux attaquants jouent en Égypte : Komi Arnaud Komlavi et Yaw Annor."
+      ]
+    },
+    {
+      "intertitre": "Denkey et Klidje en pointe",
+      "paragraphes": [
+        "Le secteur offensif s'appuie sur Kevin Denkey, buteur du FC Cincinnati en MLS, et sur Thibault Klidje, qui évolue à Hibernian, en Écosse. Mansour Ouro-Tagba (Bochum) et Kodjo Fodoh Laba (Sharjah, Émirats arabes unis) complètent les options.",
+        "Au milieu, le sélectionneur compte sur des profils variés : Kodjo Aziangbe joue en Chine, à Shanghai Port, Sadik Fofana en Italie, à Lecce, et Dakonam Djene en Liga, à Getafe."
+      ]
+    },
+    {
+      "intertitre": "Deux rendez-vous décisifs",
+      "paragraphes": [
+        "Ces deux matchs face à l'une des grandes nations du continent pèseront lourd dans la course à la phase finale. La CAN 2027 se disputera au Kenya, en Ouganda et en Tanzanie. La liste définitive des Éperviers est attendue dans les prochains jours, avant le départ pour l'Algérie."
+      ]
+    }
+  ],
+  "mots": 338,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "TG",
+    "DZ"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/football/elim-can-2027-le-togo-devoile-sa-liste-provisoire-contre-lalgerie/",
+  "publie_le": "2026-10-27T08:46:30.000Z",
+  "redige_le": "2026-10-28T00:35:23.767Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/a247f625310523054474906842d6212d403de47f.webp",
+    "source": "wikimedia",
+    "credit": "Menss06",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Team_%C3%A9perviers.jpg",
+    "alt": "L'équipe du Togo de football",
+    "mots_cles": [
+      "Togo national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
