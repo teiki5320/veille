@@ -16,6 +16,7 @@ import {
   RACINE, BASE_URL, MAX_ACTUS, MAX_PAR_PASSAGE, FENETRE_RECENTES, LIBELLES_THEMES,
   sites, lireJson, ecrireJson, lireEtat, ecrireEtat, controleAntiCopie, imageDejaVue,
   carteSvg, telecharger, mots, texteSeul, couper, heureParis, normaliserUrl,
+  controleArticle, motsArticle, lectureMin, slugDe,
 } from './lib.mjs';
 
 // ---------- Validation ----------
@@ -23,6 +24,53 @@ export function validateur() {
   const ajv = new Ajv2020({ allErrors: true, strict: false });
   addFormats(ajv);
   return ajv.compile(lireJson(path.join(RACINE, 'schema', 'actus-schema-v3.json')));
+}
+export function validateurArticle() {
+  const ajv = new Ajv2020({ allErrors: true, strict: false });
+  addFormats(ajv);
+  return ajv.compile(lireJson(path.join(RACINE, 'schema', 'article-schema-v1.json')));
+}
+
+// Texte de l'article source lu par scripts/sources.mjs (vide s'il n'a pas pu être lu).
+const texteSource = (site, id) => {
+  try {
+    return fs.readFileSync(path.join(RACINE, 'tmp', 'sources', site, `${id}.txt`), 'utf8');
+  } catch {
+    return '';
+  }
+};
+const nbMots = (t) => String(t || '').split(/\s+/).filter(Boolean).length;
+
+// Article complet nettoyé, prêt à écrire dans articles/<site>/<id>.json.
+function nettoyerArticle(a) {
+  return {
+    chapo: String(a.chapo).trim(),
+    blocs: a.blocs.map((b) => ({ intertitre: b.intertitre ? String(b.intertitre).trim() : null, paragraphes: b.paragraphes.map((x) => String(x).trim()).filter(Boolean) })),
+  };
+}
+export function docArticle(site, actu, article, maintenant) {
+  const a = nettoyerArticle(article);
+  const n = motsArticle(a);
+  return {
+    version: 1,
+    site,
+    id: actu.id,
+    slug: actu.slug,
+    titre: actu.titre,
+    ...a,
+    mots: n,
+    lecture_min: lectureMin(n),
+    ...(actu.theme ? { theme: actu.theme } : {}),
+    ...(actu.pays ? { pays: actu.pays } : {}),
+    ...('competition' in actu ? { competition: actu.competition } : {}),
+    ...(actu.tags ? { tags: actu.tags } : {}),
+    source_nom: actu.source_nom,
+    source_url: actu.source_url,
+    ...(actu.autres_sources ? { autres_sources: actu.autres_sources } : {}),
+    publie_le: actu.publie_le,
+    redige_le: maintenant,
+    image: actu.image,
+  };
 }
 
 // ---------- Licences ----------
@@ -166,19 +214,28 @@ async function trouverImage(config, r, recentes, journal) {
 }
 
 // ---------- Contrôle anti-copie d'un lot ----------
-export function verifierLot(redaction, candidats) {
+// site : pour lire tmp/sources ; publiees : actus déjà en ligne (on peut leur ajouter un article).
+export function verifierLot(redaction, candidats, { site = null, publiees = new Map() } = {}) {
   const parId = new Map(candidats.map((c) => [c.id, c]));
   const ok = [];
   const rejets = [];
   for (const r of redaction) {
     const principal = parId.get(r.id);
+    const source = site ? texteSource(site, r.id) : '';
+    if (!principal && publiees.has(r.id)) {
+      // Complément : article d'une actu déjà publiée (titre et résumé ne changent pas).
+      const raisons = controleArticle(r.article, [source], nbMots(source));
+      if (raisons.length) rejets.push({ id: r.id, titre: publiees.get(r.id).titre, raisons, mots_source: nbMots(source) });
+      else ok.push({ ...r, complement: true });
+      continue;
+    }
     if (!principal) {
       rejets.push({ id: r.id, titre: r.titre, raisons: ['id inconnu dans tmp/candidats (utilise l’id du candidat principal)'] });
       continue;
     }
     const origines = [principal, ...(r.autres_ids || []).map((i) => parId.get(i)).filter(Boolean)].flatMap((c) => [c.titre_original, c.description]);
-    const raisons = controleAntiCopie(r, origines);
-    if (raisons.length) rejets.push({ id: r.id, titre: r.titre, resume: r.resume, raisons, titre_original: principal.titre_original, description_origine: principal.description });
+    const raisons = [...controleAntiCopie(r, origines), ...(site ? controleArticle(r.article, [...origines, source], nbMots(source)) : [])];
+    if (raisons.length) rejets.push({ id: r.id, titre: r.titre, resume: r.resume, raisons, titre_original: principal.titre_original, description_origine: principal.description, mots_source: nbMots(source) });
     else ok.push(r);
   }
   return { ok, rejets };
@@ -187,10 +244,10 @@ export function verifierLot(redaction, candidats) {
 function nettoyerOrphelins(site, gardes) {
   const ids = new Set(gardes);
   let n = 0;
-  for (const dossier of [path.join(RACINE, 'images', site), path.join(RACINE, 'cartes', site)]) {
+  for (const dossier of [path.join(RACINE, 'images', site), path.join(RACINE, 'cartes', site), path.join(RACINE, 'articles', site)]) {
     if (!fs.existsSync(dossier)) continue;
     for (const f of fs.readdirSync(dossier)) {
-      const id = f.replace(/(-carre)?\.(webp|svg)$/, '');
+      const id = f.replace(/(-carre)?\.(webp|svg|json)$/, '');
       if (/^[0-9a-f]{40}$/.test(id) && !ids.has(id)) {
         fs.unlinkSync(path.join(dossier, f));
         n++;
@@ -200,27 +257,44 @@ function nettoyerOrphelins(site, gardes) {
   return n;
 }
 
-async function publierSite(config, { verifierSeul, valider }) {
+async function publierSite(config, { verifierSeul, valider, validerArticle }) {
   const site = config.site;
   const redac = lireJson(path.join(RACINE, 'tmp', `redaction-${site}.json`), null);
   const cand = lireJson(path.join(RACINE, 'tmp', `candidats-${site}.json`), { candidats: [] });
   const redaction = Array.isArray(redac) ? redac : redac?.actus || [];
-  const { ok, rejets } = verifierLot(redaction, cand.candidats || []);
+  const ancien = lireJson(path.join(RACINE, 'actus', `${site}.json`), { actus: [] });
+  const publiees = new Map((ancien.actus || []).map((a) => [a.id, a]));
+  const { ok, rejets } = verifierLot(redaction, cand.candidats || [], { site, publiees });
   ecrireJson(path.join(RACINE, 'tmp', `rejets-${site}.json`), rejets);
   if (verifierSeul) return { site, nom: config.nom, verifie: redaction.length, rejets: rejets.length };
 
   const etat = lireEtat(site);
   const parId = new Map((cand.candidats || []).map((c) => [c.id, c]));
-  const ancien = lireJson(path.join(RACINE, 'actus', `${site}.json`), { actus: [] });
   const dejaPublies = new Set((ancien.actus || []).map((a) => a.id));
   const origines = { ...(etat.origines || {}) };
   const recentes = (ancien.actus || []).slice(0, FENETRE_RECENTES).map((a) => ({ id: a.id, origine: origines[a.id] || a.image?.url }));
   const journal = [];
   const nouvelles = [];
   const maintenant = new Date().toISOString();
-  for (const r of ok.filter((x) => !dejaPublies.has(x.id)).slice(0, MAX_PAR_PASSAGE)) {
+  const articles = new Map(); // id → article à écrire
+  for (const r of ok.filter((x) => x.complement)) {
+    const a = publiees.get(r.id);
+    if (a.slug) continue;
+    const slug = slugDe(a.titre, a.id);
+    // Source mince : le rédacteur a pu lire la même info ailleurs (autres_sources).
+    const enPlus = [...new Set([...(a.autres_sources || []), ...(r.autres_sources || [])])].filter((u) => /^https?:\/\//.test(u) && u !== a.source_url);
+    const art = docArticle(site, { ...a, slug, ...(enPlus.length ? { autres_sources: enPlus } : {}) }, r.article, maintenant);
+    if (!validerArticle(art)) {
+      journal.push(`article ${a.id} invalide : ${(validerArticle.errors || []).slice(0, 3).map((e) => `${e.instancePath} ${e.message}`).join(' ; ')}`);
+      continue;
+    }
+    publiees.set(a.id, { ...a, ...(enPlus.length ? { autres_sources: enPlus } : {}), slug, article_url: `${BASE_URL}/articles/${site}/${a.id}.json`, lecture_min: art.lecture_min });
+    articles.set(a.id, art);
+  }
+  ancien.actus = (ancien.actus || []).map((a) => publiees.get(a.id) || a);
+  for (const r of ok.filter((x) => !x.complement && !dejaPublies.has(x.id)).slice(0, MAX_PAR_PASSAGE)) {
     const c = parId.get(r.id);
-    const autres = [...new Set((r.autres_ids || []).map((i) => parId.get(i)?.lien).filter((u) => u && u !== c.lien))];
+    const autres = [...new Set([...(r.autres_ids || []).map((i) => parId.get(i)?.lien), ...(r.autres_sources || [])].filter((u) => u && /^https?:\/\//.test(u) && u !== c.lien))];
     const base = {
       id: r.id,
       titre: String(r.titre).trim(),
@@ -237,9 +311,17 @@ async function publierSite(config, { verifierSeul, valider }) {
       langue: c.langue || 'fr',
     };
     const { origine, image } = await trouverImage(config, { ...r, ...base }, recentes, journal);
+    const slug = slugDe(base.titre, r.id);
+    const art = docArticle(site, { ...base, slug, image }, r.article, maintenant);
+    if (!validerArticle(art)) {
+      journal.push(`article ${r.id} invalide, actu abandonnée : ${(validerArticle.errors || []).slice(0, 3).map((e) => `${e.instancePath} ${e.message}`).join(' ; ')}`);
+      for (const f of [`images/${site}/${r.id}.webp`, `images/${site}/${r.id}-carre.webp`, `cartes/${site}/${r.id}.svg`]) fs.rmSync(path.join(RACINE, f), { force: true });
+      continue;
+    }
     recentes.unshift({ id: r.id, origine });
     origines[r.id] = origine;
-    nouvelles.push({ ...base, image });
+    articles.set(r.id, art);
+    nouvelles.push({ ...base, slug, article_url: `${BASE_URL}/articles/${site}/${r.id}.json`, lecture_min: art.lecture_min, image });
   }
 
   const fusion = new Map();
@@ -259,13 +341,15 @@ async function publierSite(config, { verifierSeul, valider }) {
     return { site, nom: config.nom, publie: false, nouvelles: 0, erreur: `fichier invalide (schéma v3) : ${erreurs.join(' ; ')}`, rejets: rejets.length, journal };
   }
   ecrireJson(path.join(RACINE, 'actus', `${site}.json`), doc);
+  for (const a of actus) if (articles.has(a.id)) ecrireJson(path.join(RACINE, 'articles', site, `${a.id}.json`), articles.get(a.id));
   const garder = new Set(actus.map((a) => a.id));
   etat.origines = Object.fromEntries(Object.entries(origines).filter(([id]) => garder.has(id)));
   etat.images_recentes = actus.slice(0, FENETRE_RECENTES).map((a) => ({ id: a.id, origine: etat.origines[a.id] || a.image.url }));
   ecrireEtat(site, etat);
   const supprimes = nettoyerOrphelins(site, garder);
   const types = nouvelles.reduce((acc, a) => ((acc[a.image.source] = (acc[a.image.source] || 0) + 1), acc), {});
-  return { site, nom: config.nom, publie: true, nouvelles: nouvelles.length, total: actus.length, images: types, abandonnees: rejets.length, orphelins_supprimes: supprimes, journal };
+  const completes = [...articles.keys()].filter((id) => !nouvelles.some((a) => a.id === id)).length;
+  return { site, nom: config.nom, publie: true, nouvelles: nouvelles.length, articles_ajoutes: completes, total: actus.length, images: types, abandonnees: rejets.length, orphelins_supprimes: supprimes, journal };
 }
 
 function git(...args) {
@@ -278,6 +362,7 @@ async function principal() {
   const sansGit = args.includes('--sans-git');
   const demandes = args.filter((a) => !a.startsWith('--'));
   const valider = validateur();
+  const validerArticle = validateurArticle();
   const bilan = [];
   for (const config of sites()) {
     if (demandes.length && !demandes.includes(config.site)) continue;
@@ -286,7 +371,7 @@ async function principal() {
       continue;
     }
     try {
-      bilan.push(await publierSite(config, { verifierSeul, valider }));
+      bilan.push(await publierSite(config, { verifierSeul, valider, validerArticle }));
     } catch (e) {
       bilan.push({ site: config.site, nom: config.nom, publie: false, nouvelles: 0, erreur: String(e?.stack || e).slice(0, 500) });
     }
@@ -297,19 +382,19 @@ async function principal() {
   }
   ecrireJson(path.join(RACINE, 'tmp', 'publie-bilan.json'), { le: new Date().toISOString(), sites: bilan });
   for (const b of bilan) {
-    if (b.publie) console.log(`${b.nom} : ${b.nouvelles} nouvelles actus (${Object.entries(b.images).map(([k, v]) => `${v} ${k}`).join(', ') || 'aucune image'}), ${b.total} en ligne, ${b.abandonnees} abandonnées (anti-copie)`);
+    if (b.publie) console.log(`${b.nom} : ${b.nouvelles} nouvelles actus${b.articles_ajoutes ? `, ${b.articles_ajoutes} articles ajoutés à des actus en ligne` : ''} (${Object.entries(b.images).map(([k, v]) => `${v} ${k}`).join(', ') || 'aucune image'}), ${b.total} en ligne, ${b.abandonnees} abandonnées (anti-copie)`);
     else console.log(`${b.nom} : NON publié — ${b.erreur}`);
     for (const j of (b.journal || []).slice(0, 8)) console.log(`   · ${j}`);
   }
   if (sansGit) return;
-  git('add', 'actus', 'images', 'cartes', 'etat');
+  git('add', 'actus', 'articles', 'images', 'cartes', 'etat');
   const change = execFileSync('git', ['diff', '--cached', '--name-only'], { cwd: RACINE, encoding: 'utf8' }).trim();
   if (!change) {
     console.log('Rien de nouveau à publier.');
     return;
   }
   const { jour, heure } = heureParis();
-  const parts = bilan.filter((b) => b.publie).map((b) => `${b.nouvelles} actus ${b.nom}`);
+  const parts = bilan.filter((b) => b.publie).map((b) => `${b.nouvelles} actus ${b.nom}${b.articles_ajoutes ? ` (+${b.articles_ajoutes} articles)` : ''}`);
   const msg = `Veille du ${jour} à ${heure} : ${parts.join(', ') || 'mise à jour'}\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`;
   git('commit', '-m', msg);
   try {

@@ -1,7 +1,9 @@
 // Tests : node scripts/test.mjs  (aucun accès réseau)
 import assert from 'node:assert/strict';
 import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl, sites, ICONES } from './lib.mjs';
-import { validateur, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
+import { validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
+import { slugDe, controleArticle, motsArticle } from './lib.mjs';
+import { extraireTexte } from './sources.mjs';
 import { collecterSite, lireFlux } from './collecte.mjs';
 import path from 'node:path';
 
@@ -213,6 +215,57 @@ await test("Un flux qui ne répond pas n'arrête pas la collecte", async () => {
 await test('Lecture des flux Atom', () => {
   const items = lireFlux('<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>A</title><link rel="alternate" href="https://x.example/a"/><updated>2026-10-27T08:00:00Z</updated><summary>S</summary></entry></feed>');
   assert.equal(items[0].lien, 'https://x.example/a');
+});
+
+// ---------- Articles complets ----------
+const phrase = (i) => `Phrase numéro ${i} écrite pour le test avec des mots tout à fait ordinaires et variés.`;
+const articleDe = (nParagraphes, phrasesParParagraphe = 5) => ({
+  chapo: 'Un chapô assez long pour passer le contrôle de la longueur minimale.',
+  blocs: [
+    { intertitre: 'Ce qui s’est passé', paragraphes: Array.from({ length: nParagraphes }, (_, i) => Array.from({ length: phrasesParParagraphe }, (_, j) => phrase(i * 10 + j)).join(' ')) },
+    { intertitre: 'La suite', paragraphes: [phrase(99)] },
+  ],
+});
+
+await test('Adresse de page : sans accents ni ligatures, avec le début de l’id', () => {
+  assert.equal(slugDe('Le Sénégal bat l’Égypte 2-0 à Dakar', 'abcdef1234'), 'le-senegal-bat-egypte-2-0-dakar-abcdef');
+  assert.match(slugDe('Felwine Sarr relit l’œuvre de Boris Diop', 'f11537aa'), /^felwine-sarr-relit-oeuvre-de-boris-diop-f11537$/);
+  assert.ok(slugDe('x'.repeat(200), 'abcdef').length <= 80);
+});
+await test('Article : longueur contrôlée (300 mots, ou 150 si la source est mince)', () => {
+  const court = articleDe(2);
+  assert.ok(motsArticle(court) < 300 && motsArticle(court) >= 150, `${motsArticle(court)} mots`);
+  assert.ok(controleArticle(court, [], 600).some((r) => r.startsWith('trop court')));
+  assert.deepEqual(controleArticle(court, [], 100), []);
+  assert.deepEqual(controleArticle(articleDe(4), [], 600), []);
+  assert.ok(controleArticle(articleDe(6), [], 600).some((r) => r.startsWith('trop long')));
+  assert.deepEqual(controleArticle(null, [], 600), ['article manquant']);
+});
+await test('Article : une suite de 6 mots reprise de la source est rejetée', () => {
+  const a = articleDe(4);
+  const source = `Bla bla. ${phrase(12)} Fin.`;
+  assert.ok(controleArticle(a, [source], 600).some((r) => r.startsWith('article :')));
+});
+await test('Complément : article ajouté à une actu déjà publiée, contrôlé contre la source', () => {
+  const publiees = new Map([['a'.repeat(40), { id: 'a'.repeat(40), titre: 'Titre' }]]);
+  const { ok: bons, rejets } = verifierLot([{ id: 'a'.repeat(40), article: articleDe(4) }, { id: 'b'.repeat(40), article: articleDe(4) }], [], { publiees });
+  assert.equal(bons.length, 1);
+  assert.equal(bons[0].complement, true);
+  assert.equal(rejets.length, 1, 'id inconnu partout → rejet');
+});
+await test('Le schéma article v1 valide un article produit par docArticle', () => {
+  const actu = { ...exemple().actus[0], slug: 'le-senegal-assure-sa-place-abcdef' };
+  const art = docArticle('keurfoot', actu, articleDe(4), '2026-10-28T12:00:00.000Z');
+  const v = validateurArticle();
+  assert.ok(v(art), JSON.stringify(v.errors));
+  assert.equal(art.lecture_min, Math.max(1, Math.round(art.mots / 220)));
+  const doc = exemple();
+  Object.assign(doc.actus[0], { slug: actu.slug, article_url: 'https://teiki5320.github.io/veille/articles/keurfoot/x.json', lecture_min: 2 });
+  assert.ok(valider(doc), JSON.stringify(valider.errors));
+});
+await test('Lecture d’une page source : paragraphes de l’article, sans menus ni cookies', () => {
+  const html = `<html><nav><p>Menu menu menu menu menu menu menu menu menu menu</p></nav><article><h1>T</h1><p>Premier paragraphe de l’article, assez long pour être gardé ici.</p><p>Nous utilisons des cookies pour améliorer votre expérience de lecture.</p><p>Second paragraphe de l’article, lui aussi assez long pour compter.</p></article><footer><p>Pied de page avec beaucoup de mots inutiles dedans.</p></footer></html>`;
+  assert.equal(extraireTexte(html), 'Premier paragraphe de l’article, assez long pour être gardé ici.\n\nSecond paragraphe de l’article, lui aussi assez long pour compter.');
 });
 
 console.log(`\n${ok} réussis, ${ko} en échec`);

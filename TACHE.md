@@ -33,7 +33,10 @@ Pour **chaque site** de `sites/*.json` :
    - Il est normal de n'avoir qu'une ou deux actus (voire aucune) pour Keur Cook, Keur Déco et Kultiled : ne garde jamais un article hors sujet pour faire du volume.
 3. **Fusionne les doublons** : la même info vue dans plusieurs flux = une seule actu. Le candidat le plus complet est l'`id` principal ; les autres vont dans `autres_ids`.
 4. Garde **12 actus au plus**, les plus importantes d'abord.
-5. Écris `tmp/redaction-<site>.json` — **toujours**, même vide (`{"site":"<site>","actus":[]}`) s'il n'y a rien à garder :
+5. **Lis les sources des actus gardées** (aucune IA) : `node scripts/sources.mjs <site> <id> <id>…` (ids des candidats principaux). Le texte va dans `tmp/sources/<site>/<id>.txt` et le nombre de mots s'affiche.
+   - Si une source fait **moins de 250 mots** (page bloquée, vidéo, brève) : ouvre-la avec WebFetch ; sinon cherche la **même info chez un autre média sérieux** (WebSearch), lis-le avec WebFetch, **ajoute son texte à la fin** de `tmp/sources/<site>/<id>.txt` et son adresse dans `autres_sources` de l'actu.
+   - Si, malgré ça, tu n'as pas de quoi écrire 150 mots vrais : **n'en fais pas une actu** (prends-en une autre).
+6. Écris `tmp/redaction-<site>.json` — **toujours**, même vide (`{"site":"<site>","actus":[]}`) s'il n'y a rien à garder :
 
 ```json
 {
@@ -50,7 +53,16 @@ Pour **chaque site** de `sites/*.json` :
       "tags": [],
       "image_requetes": { "wikimedia": ["Sadio Mané"], "openverse": ["senegal football player"] },
       "image_alt": "…",
-      "image_alt_large": "…"
+      "image_alt_large": "…",
+      "autres_sources": [],
+      "article": {
+        "chapo": "…",
+        "blocs": [
+          { "intertitre": null, "paragraphes": ["…", "…"] },
+          { "intertitre": "…", "paragraphes": ["…"] },
+          { "intertitre": "…", "paragraphes": ["…"] }
+        ]
+      }
     }
   ]
 }
@@ -66,6 +78,15 @@ Règles de rédaction :
 - `tags` : seulement des `tag` qui existent dans `tmp/entites-<site>.json` (ex. `auteur:marguerite-abouet`, `matiere:wax`, `legume:tomate`, `situation:dettes-urssaf`) ; sinon `[]`. Keur Cook n'a pas de tags : ses pages pays filtrent sur `pays`.
 - `image_requetes`, du plus précis au plus large : pour Wikimedia, le **nom exact** de la personne, du lieu ou du club cité ; pour Openverse, 2 à 4 mots-clés **en anglais**, génériques (`african football stadium`, `bookstore books`…).
 - `image_alt` : description factuelle de ce qu'on verra sur la photo **Wikimedia** (la personne, le lieu ou le club exact), 160 caractères au plus. Reste prudent : la photo trouvée peut montrer une autre vue du sujet (une racine plutôt qu'une gousse, un bouton plutôt qu'un pot) ; décris le sujet, pas un détail que tu supposes.
+- `article` : **l'article complet**, affiché sur sa propre page du site (`/actus/<adresse>/`). Règles :
+  - **300 à 450 mots** (contrôlé : 300 à 480) ; **150 mots au moins** seulement si la source fait moins de 250 mots.
+  - `chapo` : 1 ou 2 phrases d'attaque (40 à 320 caractères) qui disent l'essentiel.
+  - `blocs` : 3 ou 4 blocs. Le 1er sans intertitre (les faits : qui, quoi, où, quand). Puis des intertitres courts et informatifs (pas de questions racoleuses) : le contexte, les chiffres ou les réactions, ce qui va se passer ensuite. 1 à 3 paragraphes par bloc.
+  - **Rien d'inventé** : seulement ce que disent `tmp/sources/<site>/<id>.txt`, le titre et la description du candidat, et des faits de contexte **sûrs et vérifiables** (dates, palmarès, rôle d'une institution). Pas de citation entre guillemets sauf si elle est mot pour mot dans la source, et alors 15 mots au plus et attribuée.
+  - **En français**, ton neutre de journaliste, phrases courtes, aucune opinion, aucun vocabulaire de vente.
+  - **Jamais 6 mots consécutifs** de la source (le contrôle compare tout le texte de `tmp/sources`). Reformule complètement, ne suis pas l'ordre des phrases de la source.
+  - Ne cite jamais un autre site de Jean.
+- `autres_sources` : adresses des médias lus en plus quand la source était mince (sinon `[]`).
 - `image_alt_large` : description **générique**, vraie pour n'importe quelle photo Openverse trouvée avec tes mots-clés (ex. « Des joueurs lors d'un match de football en Afrique »). Pour une carte générée, le texte alternatif est écrit automatiquement.
 
 ## 4. Contrôle anti-copie, puis publication (aucune IA)
@@ -74,13 +95,13 @@ Règles de rédaction :
 node scripts/publie.mjs --verifier
 ```
 
-S'il y a des rejets, lis `tmp/rejets-<site>.json` (toutes les suites de 6 mots reprises y sont listées), **réécris une seule fois** ces actus dans `tmp/redaction-<site>.json`, puis publie :
+S'il y a des rejets, lis `tmp/rejets-<site>.json` (suites de 6 mots reprises, article trop court ou trop long), **réécris une seule fois** ces actus dans `tmp/redaction-<site>.json`, puis publie :
 
 ```sh
 node scripts/publie.mjs
 ```
 
-Les actus encore rejetées sont abandonnées. Le script cherche l'image (Wikimedia → Openverse → banque perso → carte générée), fusionne avec les actus déjà en ligne (60 au plus), valide le schéma v3 (un fichier invalide n'est **pas** publié : l'ancien reste en ligne), puis fait `git add actus images cartes etat`, le commit (« Veille du 27/10 à 12 h : 9 actus Keur Foot, 6 actus Keurbook »), `git pull --rebase` et `git push`.
+Les actus encore rejetées sont abandonnées. Le script écrit l'article dans `articles/<site>/<id>.json` (schéma `schema/article-schema-v1.json`), ajoute `slug`, `article_url` et `lecture_min` à l'actu, cherche l'image (Wikimedia → Openverse → banque perso → carte générée), fusionne avec les actus déjà en ligne (60 au plus), valide le schéma v3 (un fichier invalide n'est **pas** publié : l'ancien reste en ligne), puis fait `git add actus articles images cartes etat`, le commit (« Veille du 27/10 à 12 h : 9 actus Keur Foot, 6 actus Keurbook »), `git pull --rebase` et `git push`.
 
 Codes de sortie : `0` = tout est publié ; `1` = au moins un site n'a pas été publié ; `2` = le push a échoué. Le bilan est dans `tmp/publie-bilan.json`.
 

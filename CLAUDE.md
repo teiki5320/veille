@@ -17,9 +17,10 @@ Décisions : `Studio/docs/veille/decisions-v1.md` (dépôt teiki5320/Studio).
 
 - `sites/<site>.json` : configuration (couleurs de la carte, sujets, exclusions, flux RSS).
 - `actus/<site>.json` : fichier publié, lu par le site.
+- `articles/<site>/<id>.json` : article complet de chaque actu (300 à 450 mots, schéma `schema/article-schema-v1.json`), affiché sur la page `/actus/<slug>/` du site.
 - `images/<site>/<id>.webp` (16:9) et `<id>-carre.webp` (600×600) : photos libres copiées.
 - `cartes/<site>/<id>.svg` : cartes générées (dernier recours).
 - `etat/<site>.json` : déjà-vus, erreurs de flux, images récentes (anti-répétition).
 - `banque/<site>/` : banque d'images perso (vide pour l'instant ; `index.json` = `[{ fichier, credit, licence, page, mots_cles }]`).
-- `scripts/collecte.mjs` (étape 1), `scripts/publie.mjs` (étape 3), `scripts/test.mjs` (tests : `npm test`).
+- `scripts/collecte.mjs` (étape 1), `scripts/sources.mjs` (texte des articles sources, pour rédiger et pour l'anti-copie), `scripts/publie.mjs` (étape 3), `scripts/test.mjs` (tests : `npm test`).
 - `tmp/` : fichiers de travail d'un passage, jamais commités.

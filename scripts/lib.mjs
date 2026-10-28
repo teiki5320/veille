@@ -128,6 +128,46 @@ export function controleAntiCopie(actu, origines) {
   ];
 }
 
+// ---------- Article complet ----------
+// Bornes de longueur : 300 à 450 mots visés ; si la source est trop mince pour
+// tenir 300 mots sans rien inventer, 150 mots suffisent.
+export const ARTICLE_MAX = 480;
+export const ARTICLE_MIN = 300;
+export const ARTICLE_MIN_SOURCE_MINCE = 150;
+export const SOURCE_MINCE = 250;
+
+export const textesArticle = (a) => [a?.chapo, ...(a?.blocs || []).flatMap((b) => [b.intertitre, ...(b.paragraphes || [])])].filter(Boolean).map(String);
+export const motsArticle = (a) => textesArticle(a).reduce((n, t) => n + t.split(/\s+/).filter(Boolean).length, 0);
+export const lectureMin = (n) => Math.max(1, Math.round(n / 220));
+
+// Adresse de la page : titre sans accents + début de l'id (stable et unique).
+export function slugDe(titre, id) {
+  let base = '';
+  const propre = String(titre).replace(/œ/gi, 'oe').replace(/æ/gi, 'ae').replace(/ß/g, 'ss');
+  for (const m of mots(propre).map((x) => x.replace(/[^a-z0-9]/g, '')).filter((x) => x.length > 1 || /\d/.test(x))) {
+    if (base.length + m.length + 1 > 70) break;
+    base = base ? `${base}-${m}` : m;
+  }
+  return `${base || 'actu'}-${String(id).slice(0, 6)}`;
+}
+
+// Défauts d'un article : longueur, forme, suites de 6 mots reprises de la source.
+export function controleArticle(article, origines, motsSource) {
+  const raisons = [];
+  if (!article || typeof article !== 'object') return ['article manquant'];
+  if (!article.chapo || String(article.chapo).length < 40) raisons.push('chapô manquant ou trop court (40 caractères au moins)');
+  if (String(article.chapo || '').length > 320) raisons.push('chapô trop long (320 caractères au plus)');
+  const blocs = Array.isArray(article.blocs) ? article.blocs : [];
+  if (blocs.length < 2) raisons.push('au moins 2 blocs (intertitre + paragraphes)');
+  if (blocs.some((b) => !Array.isArray(b.paragraphes) || !b.paragraphes.length)) raisons.push('chaque bloc a au moins un paragraphe');
+  const n = motsArticle(article);
+  const min = motsSource >= SOURCE_MINCE ? ARTICLE_MIN : ARTICLE_MIN_SOURCE_MINCE;
+  if (n < min) raisons.push(`trop court : ${n} mots (${min} au moins${min === ARTICLE_MIN ? '' : ', source mince'})`);
+  if (n > ARTICLE_MAX) raisons.push(`trop long : ${n} mots (${ARTICLE_MAX} au plus)`);
+  for (const t of textesArticle(article)) for (const s of suitesCopiees(t, origines)) raisons.push(`article : « ${s} »`);
+  return raisons;
+}
+
 // ---------- Anti-répétition des images ----------
 export function imageDejaVue(origine, recentes) {
   const o = normaliserUrl(origine);

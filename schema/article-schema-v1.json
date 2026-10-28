@@ -1,0 +1,141 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://teiki5320.github.io/veille/schema/article-schema-v1.json",
+  "title": "Article complet d'une actu (articles/<site>/<id>.json)",
+  "type": "object",
+  "required": [
+    "version",
+    "site",
+    "id",
+    "slug",
+    "titre",
+    "chapo",
+    "blocs",
+    "mots",
+    "lecture_min",
+    "source_nom",
+    "source_url",
+    "publie_le",
+    "redige_le",
+    "image"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "site": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{40}$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 80
+    },
+    "titre": {
+      "type": "string",
+      "minLength": 5,
+      "maxLength": 90
+    },
+    "chapo": {
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 320,
+      "description": "Phrase d'attaque en gras sous le titre"
+    },
+    "blocs": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "required": [
+          "paragraphes"
+        ],
+        "properties": {
+          "intertitre": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "maxLength": 90
+          },
+          "paragraphes": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 5,
+            "items": {
+              "type": "string",
+              "minLength": 20,
+              "maxLength": 900
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "mots": {
+      "type": "integer",
+      "minimum": 150,
+      "maximum": 480
+    },
+    "lecture_min": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "theme": {
+      "type": "string"
+    },
+    "pays": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$"
+      }
+    },
+    "competition": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z]+:[a-z0-9-]+$"
+      }
+    },
+    "source_nom": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "autres_sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "publie_le": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "redige_le": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "image": {
+      "type": "object",
+      "description": "Même image que dans actus/<site>.json"
+    }
+  },
+  "additionalProperties": false
+}
