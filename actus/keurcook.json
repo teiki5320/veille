@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-10-28T00:33:54.439Z",
+  "genere_le": "2026-10-28T00:34:21.588Z",
   "actus": [
     {
       "id": "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb",
@@ -28,7 +28,14 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.timeout.fr/paris/actualites/le-chef-etoile-mory-sacko-livre-enfin-ses-secrets-dans-son-premier-livre-de-cuisine-071726",
+        "https://guide.michelin.com/sg/en/article/travel/mory-sacko-a-samurai-in-the-kitchen"
+      ],
+      "slug": "mory-sacko-de-top-chef-la-couverture-du-time-en-six-ans-0d040e",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb.json",
+      "lecture_min": 2
     },
     {
       "id": "93dddac0c18cb2bf8810cc73a84fa306dadd58e7",

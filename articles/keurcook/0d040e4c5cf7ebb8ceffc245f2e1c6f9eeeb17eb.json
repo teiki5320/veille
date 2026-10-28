@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb",
+  "slug": "mory-sacko-de-top-chef-la-couverture-du-time-en-six-ans-0d040e",
+  "titre": "Mory Sacko, de Top Chef à la couverture du Time en six ans",
+  "chapo": "En six ans, Mory Sacko est passé du plateau de Top Chef au guide rouge, qui l'a étoilé, puis à la une du magazine Time. Le chef parisien était l'invité de France 24 pour son premier livre de cuisine.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Né à Paris de parents maliens, Mory Sacko s'est fait connaître du grand public en 2020 grâce à l'émission Top Chef, sur M6. La même année, il a ouvert son restaurant, MoSuke, dans le 14e arrondissement de la capitale.",
+        "L'émission « À l'Affiche » de France 24 l'a reçu fin octobre. Elle le décrit en samouraï des fourneaux, une image qu'il cultive lui-même depuis ses débuts."
+      ]
+    },
+    {
+      "intertitre": "Trois cuisines dans l'assiette",
+      "paragraphes": [
+        "Sa cuisine croise trois influences : la technique française, les saveurs ouest-africaines et le Japon, un pays qui le passionne depuis l'enfance. Le nom de MoSuke en témoigne. Il associe le début de son prénom à Yasuke, un homme d'origine africaine devenu samouraï dans le Japon du XVIe siècle.",
+        "Avant de lancer sa propre table, le chef s'est formé dans de grandes maisons parisiennes, notamment au Meurice, auprès d'Alain Ducasse. MoSuke a décroché sa première étoile au guide Michelin en 2021."
+      ]
+    },
+    {
+      "intertitre": "De Time aux maisons de mode",
+      "paragraphes": [
+        "En 2023, Time l'a placé seul en couverture d'un numéro consacré aux jeunes figures appelées à compter dans les années à venir. Il avait alors 31 ans. Avant lui, seuls deux chefs français avaient eu cet honneur : Michel Guérard en 1976 et Alain Ducasse en 2001.",
+        "Les grandes maisons de mode font souvent appel à lui, comme Louis Vuitton ou Ralph Lauren. Selon France 24, il reçoit aussi à sa table des personnalités du cinéma et de la politique. Il a par ailleurs créé MoSugo, une adresse de cuisine rapide installée dans plusieurs lieux de Paris, dont les Galeries Lafayette du boulevard Haussmann."
+      ]
+    },
+    {
+      "intertitre": "Un premier livre de recettes",
+      "paragraphes": [
+        "Son ouvrage, « Cuisinier », est paru le 22 octobre aux éditions Phaidon. Écrit avec Bénédicte Bortoli et illustré par les photos de Tiphaine Caro, il réunit plus de soixante recettes classées au fil des saisons. On y retrouve ses origines africaines, sa passion japonaise et sa formation française.",
+        "Au-delà des plats, il y livre des conseils de dressage et des souvenirs de son parcours. Le chef prolonge aussi son lien avec le Japon à l'écran, avec « Food Samouraï », une série documentaire visible sur Disney+."
+      ]
+    }
+  ],
+  "mots": 392,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "France 24",
+  "source_url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261027-mory-sacko-le-samoura%C3%AF-de-la-gastronomie-qui-a-conquis-la-plan%C3%A8te",
+  "autres_sources": [
+    "https://www.timeout.fr/paris/actualites/le-chef-etoile-mory-sacko-livre-enfin-ses-secrets-dans-son-premier-livre-de-cuisine-071726",
+    "https://guide.michelin.com/sg/en/article/travel/mory-sacko-a-samurai-in-the-kitchen"
+  ],
+  "publie_le": "2026-10-27T16:05:48.000Z",
+  "redige_le": "2026-10-28T00:34:21.588Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb.webp",
+    "source": "wikimedia",
+    "credit": "Clodomir",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MorySacko.jpg",
+    "alt": "Le chef cuisinier Mory Sacko",
+    "mots_cles": [
+      "Mory Sacko"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
