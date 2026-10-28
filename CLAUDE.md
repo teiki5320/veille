@@ -17,7 +17,7 @@ Décisions : `Studio/docs/veille/decisions-v1.md` (dépôt teiki5320/Studio).
 
 - `sites/<site>.json` : configuration (couleurs de la carte, sujets, exclusions, flux RSS).
 - `actus/<site>.json` : fichier publié, lu par le site.
-- `articles/<site>/<id>.json` : article complet de chaque actu (300 à 450 mots, schéma `schema/article-schema-v1.json`), affiché sur la page `/actus/<slug>/` du site.
+- `articles/<site>/<id>.json` : article complet de chaque actu (300 à 450 mots, schéma `schema/article-schema-v1.json`), affiché sur la page `/actus/<slug>/` du site. Les articles (et leurs images) ne sont **jamais supprimés**, même quand l'actu sort des 60 plus récentes ; `articles/<site>/index.json` les liste tous : c'est lui que le site doit lire pour construire ses pages.
 - `images/<site>/<id>.webp` (16:9) et `<id>-carre.webp` (600×600) : photos libres copiées.
 - `cartes/<site>/<id>.svg` : cartes générées (dernier recours).
 - `etat/<site>.json` : déjà-vus, erreurs de flux, images récentes (anti-répétition).

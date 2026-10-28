@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "genere_le": "2026-10-28T00:45:58.842Z",
+  "articles": [
+    {
+      "id": "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb",
+      "slug": "mory-sacko-de-top-chef-la-couverture-du-time-en-six-ans-0d040e",
+      "titre": "Mory Sacko, de Top Chef à la couverture du Time en six ans",
+      "publie_le": "2026-10-27T16:05:48.000Z",
+      "redige_le": "2026-10-28T00:34:21.588Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb.json"
+    },
+    {
+      "id": "93dddac0c18cb2bf8810cc73a84fa306dadd58e7",
+      "slug": "sao-tome-la-vanille-prend-le-relais-du-cacao-93ddda",
+      "titre": "À São Tomé, la vanille prend le relais du cacao",
+      "publie_le": "2026-10-26T23:15:00.000Z",
+      "redige_le": "2026-10-28T00:33:54.439Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/93dddac0c18cb2bf8810cc73a84fa306dadd58e7.json"
+    },
+    {
+      "id": "0634a1f512649530f376ea40256aee6efc045af7",
+      "slug": "la-tunisie-fete-son-huile-olive-du-28-au-31-octobre-0634a1",
+      "titre": "La Tunisie fête son huile d'olive du 28 au 31 octobre",
+      "publie_le": "2026-10-26T16:41:43.000Z",
+      "redige_le": "2026-10-28T00:33:54.439Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/0634a1f512649530f376ea40256aee6efc045af7.json"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 // Tests : node scripts/test.mjs  (aucun accès réseau)
 import assert from 'node:assert/strict';
 import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl, sites, ICONES } from './lib.mjs';
-import { propre, validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
+import { ecrireIndexArticles, propre, validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
 import { slugDe, controleArticle, motsArticle } from './lib.mjs';
 import { extraireTexte } from './sources.mjs';
 import { collecterSite, lireFlux } from './collecte.mjs';
@@ -218,6 +218,19 @@ await test('Lecture des flux Atom', () => {
 });
 
 // ---------- Articles complets ----------
+await test('Index des articles : tous les articles du dossier, du plus récent au plus ancien', async () => {
+  const fs = await import('node:fs');
+  const os = await import('node:os');
+  const r = fs.mkdtempSync(path.join(os.tmpdir(), 'veille-'));
+  fs.mkdirSync(path.join(r, 'articles', 'keurfoot'), { recursive: true });
+  for (const [id, d] of [['a'.repeat(40), '2026-10-01'], ['b'.repeat(40), '2026-10-20']])
+    fs.writeFileSync(path.join(r, 'articles', 'keurfoot', `${id}.json`), JSON.stringify({ id, slug: `s-${id.slice(0, 6)}`, titre: 'T', publie_le: `${d}T00:00:00.000Z`, redige_le: '2026-10-28T00:00:00.000Z' }));
+  assert.equal(ecrireIndexArticles('keurfoot', r), 2);
+  const idx = JSON.parse(fs.readFileSync(path.join(r, 'articles', 'keurfoot', 'index.json'), 'utf8'));
+  assert.deepEqual(idx.articles.map((a) => a.id[0]), ['b', 'a']);
+  assert.match(idx.articles[0].url, /\/articles\/keurfoot\/b{40}\.json$/);
+});
+
 await test('Coquilles nettoyées : virgule doublée, point doublé, espaces', () => {
   assert.equal(propre('cinquième édition,, puis  la suite.. Fin…'), 'cinquième édition, puis la suite. Fin…');
   assert.equal(propre('Et ensuite...'), 'Et ensuite...');

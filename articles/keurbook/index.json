@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "genere_le": "2026-10-28T00:45:58.842Z",
+  "articles": [
+    {
+      "id": "f1153723d32109a346001ce3df72ff8927312d97",
+      "slug": "felwine-sarr-relit-murambi-tournant-de-oeuvre-de-boubacar-boris-diop-f11537",
+      "titre": "Felwine Sarr relit « Murambi », tournant de l'œuvre de Boubacar Boris Diop",
+      "publie_le": "2026-10-27T16:09:33.000Z",
+      "redige_le": "2026-10-28T00:34:18.418Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/f1153723d32109a346001ce3df72ff8927312d97.json"
+    },
+    {
+      "id": "f42687aabdab0f4cca9884e39a461826e6be4789",
+      "slug": "dakar-ucad-consacre-un-colloque-international-boubacar-boris-diop-f42687",
+      "titre": "Dakar : l'UCAD consacre un colloque international à Boubacar Boris Diop",
+      "publie_le": "2026-10-27T10:19:53.000Z",
+      "redige_le": "2026-10-28T00:33:51.103Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/f42687aabdab0f4cca9884e39a461826e6be4789.json"
+    },
+    {
+      "id": "77e46856dab6a4307130380b1548c7b66b4f5a25",
+      "slug": "christelle-bakima-poundza-consacre-un-essai-au-phenomene-aya-nakamura-77e468",
+      "titre": "Christelle Bakima Poundza consacre un essai au phénomène Aya Nakamura",
+      "publie_le": "2026-10-25T23:03:49.000Z",
+      "redige_le": "2026-10-28T00:33:51.103Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/77e46856dab6a4307130380b1548c7b66b4f5a25.json"
+    },
+    {
+      "id": "142919a1219f7b89811acadf0a81a4f6fc6df64c",
+      "slug": "apres-affaire-thelyson-orelien-edition-arme-contre-les-textes-ecrits-142919",
+      "titre": "Après l'affaire Thélyson Orélien, l'édition s'arme contre les textes écrits par IA",
+      "publie_le": "2026-10-25T08:30:09.000Z",
+      "redige_le": "2026-10-28T00:33:51.103Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/142919a1219f7b89811acadf0a81a4f6fc6df64c.json"
+    }
+  ]
+}

@@ -244,13 +244,17 @@ export function verifierLot(redaction, candidats, { site = null, publiees = new 
   return { ok, rejets };
 }
 
+// Les actus qui ont un article ne sont jamais nettoyées : leur page reste sur le site
+// (et son image) même quand l'actu sort des 60 plus récentes.
 function nettoyerOrphelins(site, gardes) {
-  const ids = new Set(gardes);
+  const dossierArticles = path.join(RACINE, 'articles', site);
+  const avecArticle = fs.existsSync(dossierArticles) ? fs.readdirSync(dossierArticles).filter((f) => /^[0-9a-f]{40}\.json$/.test(f)).map((f) => f.slice(0, 40)) : [];
+  const ids = new Set([...gardes, ...avecArticle]);
   let n = 0;
-  for (const dossier of [path.join(RACINE, 'images', site), path.join(RACINE, 'cartes', site), path.join(RACINE, 'articles', site)]) {
+  for (const dossier of [path.join(RACINE, 'images', site), path.join(RACINE, 'cartes', site)]) {
     if (!fs.existsSync(dossier)) continue;
     for (const f of fs.readdirSync(dossier)) {
-      const id = f.replace(/(-carre)?\.(webp|svg|json)$/, '');
+      const id = f.replace(/(-carre)?\.(webp|svg)$/, '');
       if (/^[0-9a-f]{40}$/.test(id) && !ids.has(id)) {
         fs.unlinkSync(path.join(dossier, f));
         n++;
@@ -350,9 +354,25 @@ async function publierSite(config, { verifierSeul, valider, validerArticle }) {
   etat.images_recentes = actus.slice(0, FENETRE_RECENTES).map((a) => ({ id: a.id, origine: etat.origines[a.id] || a.image.url }));
   ecrireEtat(site, etat);
   const supprimes = nettoyerOrphelins(site, garder);
+  ecrireIndexArticles(site);
   const types = nouvelles.reduce((acc, a) => ((acc[a.image.source] = (acc[a.image.source] || 0) + 1), acc), {});
   const completes = [...articles.keys()].filter((id) => !nouvelles.some((a) => a.id === id)).length;
   return { site, nom: config.nom, publie: true, nouvelles: nouvelles.length, articles_ajoutes: completes, total: actus.length, images: types, abandonnees: rejets.length, orphelins_supprimes: supprimes, journal };
+}
+
+// articles/<site>/index.json : tous les articles jamais publiés (le site construit une page pour chacun).
+export function ecrireIndexArticles(site, racine = RACINE) {
+  const dossier = path.join(racine, 'articles', site);
+  if (!fs.existsSync(dossier)) return 0;
+  const articles = fs
+    .readdirSync(dossier)
+    .filter((f) => /^[0-9a-f]{40}\.json$/.test(f))
+    .map((f) => lireJson(path.join(dossier, f), null))
+    .filter(Boolean)
+    .map((a) => ({ id: a.id, slug: a.slug, titre: a.titre, publie_le: a.publie_le, redige_le: a.redige_le, url: `${BASE_URL}/articles/${site}/${a.id}.json` }))
+    .sort((a, b) => b.publie_le.localeCompare(a.publie_le));
+  ecrireJson(path.join(dossier, 'index.json'), { version: 1, site, genere_le: new Date().toISOString(), articles });
+  return articles.length;
 }
 
 function git(...args) {

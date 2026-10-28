@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "genere_le": "2026-10-28T00:45:58.845Z",
+  "articles": [
+    {
+      "id": "b6c012221c9cf114e002cf5653d745392c9e30aa",
+      "slug": "paris-le-bhv-marais-sollicite-un-redressement-judiciaire-pour-sauver-b6c012",
+      "titre": "Paris : le BHV Marais sollicite un redressement judiciaire pour sauver sa relance",
+      "publie_le": "2026-10-27T17:24:34.000Z",
+      "redige_le": "2026-10-28T00:34:25.357Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/b6c012221c9cf114e002cf5653d745392c9e30aa.json"
+    },
+    {
+      "id": "bd0b491a7798c9f7350de65ab6dd5e55f3c3906a",
+      "slug": "manifestations-octobre-cci-france-chiffre-les-degats-subis-par-les-bd0b49",
+      "titre": "Manifestations d'octobre : CCI France chiffre les dégâts subis par les commerces",
+      "publie_le": "2026-10-27T15:50:42.000Z",
+      "redige_le": "2026-10-28T00:34:25.357Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.json"
+    },
+    {
+      "id": "7fe1d1dfaebf3c6be3ab2601f2c57278cb728159",
+      "slug": "les-forges-de-tarbes-fabricant-de-corps-obus-en-redressement-7fe1d1",
+      "titre": "Les Forges de Tarbes, fabricant de corps d'obus, en redressement judiciaire",
+      "publie_le": "2026-10-27T00:39:28.000Z",
+      "redige_le": "2026-10-28T00:34:25.357Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/7fe1d1dfaebf3c6be3ab2601f2c57278cb728159.json"
+    },
+    {
+      "id": "737e17d1bfee8c2a4caa408f00bc2fbc3faf3892",
+      "slug": "alize-group-fabricant-de-puzzles-en-redressement-malgre-une-bonne-737e17",
+      "titre": "Alizé Group, fabricant de puzzles, en redressement malgré une bonne activité",
+      "publie_le": "2026-10-26T15:41:40.000Z",
+      "redige_le": "2026-10-28T00:34:25.357Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/737e17d1bfee8c2a4caa408f00bc2fbc3faf3892.json"
+    },
+    {
+      "id": "33246eb3ef1591f55ee983b733a09baf76794ee1",
+      "slug": "commerces-degrades-la-mi-octobre-les-aides-prevues-par-etat-33246e",
+      "titre": "Commerces dégradés à la mi-octobre : les aides prévues par l'État",
+      "publie_le": "2026-10-25T23:00:00.000Z",
+      "redige_le": "2026-10-28T00:34:25.357Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/33246eb3ef1591f55ee983b733a09baf76794ee1.json"
+    },
+    {
+      "id": "c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9",
+      "slug": "totem-pionnier-des-bornes-de-recharge-place-en-redressement-judiciaire-c10d7b",
+      "titre": "E-Totem, pionnier des bornes de recharge, placé en redressement judiciaire",
+      "publie_le": "2026-10-25T14:30:00.000Z",
+      "redige_le": "2026-10-28T00:34:25.357Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9.json"
+    }
+  ]
+}
