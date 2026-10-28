@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "93dddac0c18cb2bf8810cc73a84fa306dadd58e7",
+  "slug": "sao-tome-la-vanille-prend-le-relais-du-cacao-93ddda",
+  "titre": "À São Tomé, la vanille prend le relais du cacao",
+  "chapo": "Célèbre pour son cacao, São Tomé développe aujourd'hui la vanille. Cultivée sous le couvert des forêts, elle attire l'attention des chefs européens grâce à un parfum singulier.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "São Tomé se trouve dans le golfe de Guinée, au large de l'Afrique centrale. Sur les pentes boisées de l'île, des lianes grimpent le long des arbres et portent des gousses encore vertes. Ces plants de vanille prennent peu à peu place à côté des cacaoyers qui ont fait la renommée de l'archipel.",
+        "La plante n'est pourtant pas une nouvelle venue. D'après les récits historiques, l'orchidée Vanilla planifolia a été apportée du Gabon vers 1880. Elle est restée longtemps dans l'ombre de la canne à sucre, du café et surtout du cacao."
+      ]
+    },
+    {
+      "intertitre": "L'héritage de « l'île chocolat »",
+      "paragraphes": [
+        "Au début du XXe siècle, sous administration portugaise, São Tomé était le premier producteur de cacao au monde. Les grandes plantations ont façonné ses paysages. Mais les arbres ont vieilli et le secteur a connu des années difficiles, ce qui pousse les agriculteurs à chercher d'autres cultures.",
+        "À Abade, au cœur de São Tomé, l'agriculteur Ifrasio de Barros Rompao cultive la vanille sur une parcelle escarpée où sa mère faisait pousser du cacao. Pour lui, cette épice compte beaucoup pour faire vivre sa famille nombreuse."
+      ]
+    },
+    {
+      "intertitre": "Une préparation de plusieurs mois",
+      "paragraphes": [
+        "La vanille demande de la patience. Il faut parfois trois ou quatre ans avant la première fleur, puis une attention de chaque instant pour la pollinisation et la maturation des gousses.",
+        "L'Atelier Vanilha, fondé il y a sept ans, travaille avec une cinquantaine de cultivateurs. Sa cofondatrice, Juliette Dohar, voit dans la vanille un complément au cacao pour les familles rurales. Près de la capitale, à Pema Pema, les gousses sont d'abord séchées au soleil. Viennent ensuite plusieurs mois de soins : passages à la chaleur, séchage, massages, affinage. Elles brunissent et développent leurs arômes."
+      ]
+    },
+    {
+      "intertitre": "Des notes de violette et de cacao",
+      "paragraphes": [
+        "L'atelier produit environ 300 kilos par an, très loin de Madagascar et de l'Indonésie, qui assurent ensemble plus de 80 % de la vanille mondiale. Le choix est donc celui de la qualité. Les gousses partent surtout en France, en Suisse et en Belgique, où elles rejoignent des tables gastronomiques.",
+        "À Cancale, en Bretagne, Mathilde Roellinger, qui dirige la maison d'épices familiale, évoque une vanille florale qui rappelle la violette, puis des touches de grué, ces éclats de fèves de cacao, et de fruits rouges. Comme un clin d'œil à l'autre culture phare de l'île."
+      ]
+    }
+  ],
+  "mots": 412,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "ST"
+  ],
+  "source_nom": "Mondafrique",
+  "source_url": "https://mondafrique.com/loisirs-culture/sao-tome-lile-chocolat-mise-sur-la-vanille/",
+  "publie_le": "2026-10-26T23:15:00.000Z",
+  "redige_le": "2026-10-28T00:33:54.439Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/93dddac0c18cb2bf8810cc73a84fa306dadd58e7.webp",
+    "source": "wikimedia",
+    "credit": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vainilla_(Vanilla_planifolia),_Ampasipohy,_Nosy_Be,_Madagascar,_2025-09-21,_DD_25.jpg",
+    "alt": "Le vanillier (Vanilla planifolia), plante dont on tire la vanille",
+    "mots_cles": [
+      "Vanilla planifolia"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

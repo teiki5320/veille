@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-10-27T18:15:25.944Z",
+  "genere_le": "2026-10-28T00:33:54.439Z",
   "actus": [
     {
       "id": "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb",
@@ -55,7 +55,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "sao-tome-la-vanille-prend-le-relais-du-cacao-93ddda",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/93dddac0c18cb2bf8810cc73a84fa306dadd58e7.json",
+      "lecture_min": 2
     },
     {
       "id": "0634a1f512649530f376ea40256aee6efc045af7",
@@ -82,7 +85,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "la-tunisie-fete-son-huile-olive-du-28-au-31-octobre-0634a1",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/0634a1f512649530f376ea40256aee6efc045af7.json",
+      "lecture_min": 2
     }
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "0634a1f512649530f376ea40256aee6efc045af7",
+  "slug": "la-tunisie-fete-son-huile-olive-du-28-au-31-octobre-0634a1",
+  "titre": "La Tunisie fête son huile d'olive du 28 au 31 octobre",
+  "chapo": "Du 28 au 31 octobre, la Tunisie consacre quatre jours à son huile d'olive avec « Célébration de l'olivier 2026 ». Au menu : distinctions, ateliers sur le savoir-faire des huileries et dégustation de la nouvelle récolte.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'événement est porté par un réseau tunisien de femmes actives dans la filière oléicole. Le financement vient d'une organisation arabe chargée du développement agricole. Deux associations sont partenaires : Tunis Paix et Gardens of Peace.",
+        "Des spécialistes, des professionnelles de la filière et des membres de réseaux féminins du monde arabe sont attendus. Le programme alterne remises de distinctions, formations et visites sur le terrain."
+      ]
+    },
+    {
+      "intertitre": "Un concours au nom de Didon",
+      "paragraphes": [
+        "Mercredi 28 octobre, la manifestation s'ouvre avec le palmarès du concours DIDO International, dont c'est la cinquième édition,, qui distingue des huiles d'olive. Son nom renvoie à Didon, la reine légendaire à qui la tradition attribue la fondation de Carthage. Une façon de rappeler la place ancienne de l'olivier dans l'histoire et la culture tunisiennes.",
+        "La même journée, l'initiative Gardens of Peace sera présentée. Elle voit dans l'olivier un emblème du dialogue entre les peuples et défend la préservation des variétés anciennes."
+      ]
+    },
+    {
+      "intertitre": "Des huileries aux savoir-faire",
+      "paragraphes": [
+        "Jeudi 29 octobre, une formation porte sur les techniques de la filière : analyse des huiles, particularités des variétés tunisiennes, conditionnement et conservation. Les participants aborderont aussi l'usage des ultrasons pour l'extraction et la numérisation du travail dans les moulins.",
+        "Vendredi 30 octobre, les échanges s'élargissent à l'automatisation des huileries, aux défauts de goût qui peuvent apparaître et aux nouveaux emballages. L'après-midi, une table ronde rassemble l'organisation qui finance l'événement et un réseau de femmes du monde arabe engagées dans l'oléiculture. Elle s'intéresse à la coopération entre pays de la région et à la place des femmes à chaque étape, du verger au moulin."
+      ]
+    },
+    {
+      "intertitre": "Une dégustation pour finir",
+      "paragraphes": [
+        "Samedi 31 octobre, les participants visiteront une huilerie moderne puis l'entreprise Renda Services. La journée se terminera dans le nord du pays, près de Toukaber, au domaine Triomphe de Ben Ismaïl. Au programme : découverte de l'oléotourisme et dégustation de l'huile de la campagne 2026-2027.",
+        "La Tunisie compte parmi les grands producteurs mondiaux d'huile d'olive, et l'olivier occupe une large part de ses terres agricoles. L'automne correspond au début de la récolte des olives dans le pays."
+      ]
+    }
+  ],
+  "mots": 379,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "TN"
+  ],
+  "source_nom": "AllAfrica",
+  "source_url": "https://fr.allafrica.com/stories/202610260790.html",
+  "publie_le": "2026-10-26T16:41:43.000Z",
+  "redige_le": "2026-10-28T00:33:54.439Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/0634a1f512649530f376ea40256aee6efc045af7.webp",
+    "source": "wikimedia",
+    "credit": "Emna Mizouni",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Olive_oil_and_honey.jpg",
+    "alt": "De l'huile d'olive de Tunisie",
+    "mots_cles": [
+      "Olive oil Tunisia"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
