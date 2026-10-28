@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "ea27cd9f8a2914ff9c3f0f32e931544ac725e524",
+  "slug": "canada-des-chercheurs-doutent-que-les-fermes-verticales-sauvent-ea27cd",
+  "titre": "Canada : des chercheurs doutent que les fermes verticales sauvent l'alimentation",
+  "chapo": "Trois chercheurs de l'université Western, à London (Ontario), contestent l'idée que les fermes verticales puissent résoudre l'insécurité alimentaire au Canada. Ils pointent leur coût, leur besoin en énergie et le choix restreint des cultures.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le doctorant Richard Bloomfield, le professeur de géographie et d'environnement Tony Weis et son collègue Evan Bowness, professeur adjoint dans la même discipline, ont cosigné un texte publié par leur université. Le magazine spécialisé Greenhouse Canada en a rendu compte le 26 octobre.",
+        "Les fermes verticales cultivent des plantes en intérieur, dans des tours ou des entrepôts, sous un climat et une lumière entièrement artificiels. Elles sont souvent présentées au grand public comme une réponse majeure à la faim, au Canada comme ailleurs."
+      ]
+    },
+    {
+      "intertitre": "Des atouts reconnus",
+      "paragraphes": [
+        "Les auteurs ne nient pas leurs avantages. Ces installations occupent peu de surface au sol, à un moment où l'usage des terres et de l'eau inquiète. Elles s'intègrent aussi dans des villes que l'on pousse à grandir en hauteur plutôt qu'en s'étalant.",
+        "Mais à leurs yeux, une technique nouvelle n'est pas forcément utile à grande échelle. Ils les décrivent comme des usines à plantes et y voient le prolongement des contradictions de l'agriculture industrielle."
+      ]
+    },
+    {
+      "intertitre": "Énergie, pannes et cultures limitées",
+      "paragraphes": [
+        "Le trio met en avant des coûts élevés, une forte demande en électricité, notamment pour l'éclairage et le contrôle du climat, et des équipements qui tombent souvent en panne. Pour rentabiliser l'énergie et les infrastructures, il faut vendre cher chaque volume produit.",
+        "Résultat : ces fermes se concentrent sur quelques productions à forte marge, comme la laitue, les micro-pousses ou les petits fruits. Les aliments plus nourrissants, qui pèseraient davantage contre l'insécurité alimentaire mondiale, en restent exclus.",
+        "Evan Bowness y voit une politique de continuité, qui consiste à entretenir l'attente d'une abondance permanente alors que les conditions écologiques qui la rendent possible deviennent incertaines. Selon les chercheurs, le vrai coût de ces rayons bien garnis échappe à la plupart des consommateurs."
+      ]
+    },
+    {
+      "intertitre": "Une place dans le Grand Nord",
+      "paragraphes": [
+        "Les auteurs admettent que la technique peut servir à certaines échelles et dans certains milieux. Ils citent le Nord canadien, où l'approvisionnement en produits frais est difficile, à condition d'alimenter les installations à l'énergie solaire plutôt qu'au diesel. Ailleurs, ils invitent les pouvoirs publics, qui ont soutenu ces projets aux côtés d'investisseurs privés, à miser davantage sur des solutions durables."
+      ]
+    }
+  ],
+  "mots": 386,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "source_nom": "Greenhouse Canada",
+  "source_url": "https://www.greenhousecanada.com/western-university-profs-argue-vertical-farming-not-a-fix-to-canadas-food-system/",
+  "publie_le": "2026-10-26T13:20:16.000Z",
+  "redige_le": "2026-10-28T00:34:36.818Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/ea27cd9f8a2914ff9c3f0f32e931544ac725e524.webp",
+    "source": "wikimedia",
+    "credit": "Valcenteu",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:VertiCrop.jpg",
+    "alt": "Des plantes cultivées en étages dans une ferme verticale",
+    "mots_cles": [
+      "Vertical farming"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

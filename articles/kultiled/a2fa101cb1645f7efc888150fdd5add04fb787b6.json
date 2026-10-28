@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "a2fa101cb1645f7efc888150fdd5add04fb787b6",
+  "slug": "un-radis-qui-se-cueille-sur-la-tige-plutot-que-dans-la-terre-a2fa10",
+  "titre": "Un radis qui se cueille sur la tige plutôt que dans la terre",
+  "chapo": "Le radis serpent ne se récolte pas sous terre : on cueille les longues gousses qui pendent de ses tiges. Futura consacre sa chronique hebdomadaire du potager à cette variété ancienne venue de Java.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Son nom botanique est Raphanus sativus var. caudatus. Il appartient à la famille des Brassicacées, comme le chou, le navet ou le radis rose. On l'appelle aussi radis queue-de-rat. Venu d'Indonésie, de Java en particulier, il se distingue de nos radis rouges ou noirs : on ne le cultive pas pour sa racine, mais pour ses fruits, qui se forment au-dessus du sol.",
+        "La plante porte des tiges ramifiées couvertes de petites fleurs. Celles-ci laissent place à des siliques, des gousses qui contiennent les graines. Vertes ou violettes, elles atteignent une vingtaine de centimètres et pendent en se tortillant, d'où leurs surnoms."
+      ]
+    },
+    {
+      "intertitre": "Une longue histoire en Europe",
+      "paragraphes": [
+        "D'après la chronique, ses graines seraient arrivées en Europe au début du XIXe siècle, rapportées par des Britanniques. Son nom de radis de Java apparaîtrait dans les catalogues de semences européens à partir des années 1860.",
+        "Il a un cousin sauvage, la ravenelle (Raphanus raphanistrum), originaire du Proche-Orient et des rives de la Méditerranée. Souvent vue comme une mauvaise herbe, elle pousse vite dans des sols pauvres. Ses feuilles et ses gousses se mangent aussi."
+      ]
+    },
+    {
+      "intertitre": "Chaleur, espace et patience",
+      "paragraphes": [
+        "Contrairement aux radis classiques, qui aiment la fraîcheur, le radis serpent a besoin de chaleur. Il lui faut une place protégée du vent et une terre légère, riche, fraîche et drainante. Les semis se font après les dernières gelées, quand le sol se réchauffe. Les étaler toutes les deux semaines permet de prolonger la production.",
+        "À maturité, la plante atteint environ un mètre. On laisse 20 à 30 cm entre les pieds. Les premières gousses se cueillent 50 à 60 jours après le semis. Fin octobre, la saison s'achève, sauf dans les régions douces."
+      ]
+    },
+    {
+      "intertitre": "À cueillir jeune",
+      "paragraphes": [
+        "Les gousses sont meilleures jeunes : leur goût reste doux, avec le léger piquant propre aux radis. En mûrissant, elles durcissent et deviennent fibreuses pendant que les graines grossissent. Croquantes, elles se mangent crues, à l'apéritif ou en salade, sautées rapidement, cuites à la vapeur, en pickles ou fermentées."
+      ]
+    }
+  ],
+  "mots": 366,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "tags": [
+    "legume:radis"
+  ],
+  "source_nom": "Futura",
+  "source_url": "https://www.futura-sciences.com/maison/actualites/potager-plante-semaine-vous-connaissez-forcement-radis-mais-certainement-pas-sous-cette-forme-il-mange-138812/",
+  "publie_le": "2026-10-25T10:13:49.000Z",
+  "redige_le": "2026-10-28T00:34:36.818Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/a2fa101cb1645f7efc888150fdd5add04fb787b6.webp",
+    "source": "wikimedia",
+    "credit": "Tim Evanson from Cleveland Heights, Ohio, USA",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Green_radish_(34758437621).jpg",
+    "alt": "Des gousses de radis sur la plante",
+    "mots_cles": [
+      "Raphanus sativus caudatus"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "58118437da6dddac6971b5af09ec9f89ea20170b",
+  "slug": "plantes-interieur-un-rapport-americain-compare-les-achats-depuis-2019-581184",
+  "titre": "Plantes d'intérieur : un rapport américain compare les achats depuis 2019",
+  "chapo": "Le Floral Marketing Fund publie la troisième vague de son enquête sur les plantes d'intérieur aux États-Unis. Les Américains en achètent moins souvent qu'avant, mais en possèdent davantage et y consacrent un budget plus élevé.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le rapport, daté de 2025 et diffusé en octobre 2026, fait suite à deux études menées en 2019 et en 2021. L'ensemble permet de comparer trois périodes : avant la pandémie de Covid-19, pendant, puis après.",
+        "Le Floral Marketing Fund est une organisation de la filière florale américaine qui finance des actions de promotion et des études auprès du public. Il a coordonné ce travail avec le soutien de trois entreprises horticoles, Bell Nursery, Costa Farms et Metrolina Greenhouses, ainsi que d'un fonds consacré à la floriculture."
+      ]
+    },
+    {
+      "intertitre": "Quatre chercheurs, trois universités",
+      "paragraphes": [
+        "L'enquête nationale a été conduite par Melinda Knuth, de l'université d'État de Caroline du Nord, Hayk Khachatryan, de l'université de Floride, ainsi que Charlie Hall et Marco Palma, de l'université Texas A&M.",
+        "Elle passe en revue de nombreux aspects : le nombre de plantes dans les foyers, la fréquence des achats, les sommes dépensées, les prix jugés normaux, les lieux préférés pour se fournir, le rôle des réseaux sociaux, les cadeaux et le lien entre plantes et bien-être."
+      ]
+    },
+    {
+      "intertitre": "Ce que montrent les chiffres",
+      "paragraphes": [
+        "Après l'engouement des années de confinement, la fréquence des achats a reculé. Mais les personnes interrogées en 2025 ont chez elles plus de plantes qu'auparavant, et leurs dépenses sont plus élevées dans les catégories comparables d'une étude à l'autre.",
+        "Les réseaux sociaux pèsent toujours : 73 % des acheteurs disent s'être déjà fournis auprès d'un professionnel après avoir vu ses contenus en ligne. Près de 97 % affirment que leurs plantes les rendent plus heureux.",
+        "Offrir une plante paraît aussi plus naturel qu'en 2019. Les sondés la jugent adaptée à davantage d'occasions : souhaiter un prompt rétablissement, remercier quelqu'un, ou simplement se faire plaisir."
+      ]
+    },
+    {
+      "intertitre": "Des pistes pour la filière",
+      "paragraphes": [
+        "Pour les auteurs, les plantes d'intérieur gardent une place solide dans les foyers américains. Le rapport doit aider producteurs et jardineries à suivre l'évolution des goûts et à toucher de nouveaux publics."
+      ]
+    }
+  ],
+  "mots": 350,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "Greenhouse Management",
+  "source_url": "https://www.greenhousemag.com/consumer-houseplant-purchasing-report-2025-research-trends-floral-marketing-fund",
+  "autres_sources": [
+    "https://www.greenhousegrower.com/management/new-consumer-study-reveals-changes-in-houseplant-purchasing-trends/",
+    "https://www.scrippsnews.com/life/the-pandemic-plant-craze-has-cooled-but-americans-arent-giving-up-on-greenery"
+  ],
+  "publie_le": "2026-10-26T12:38:00.000Z",
+  "redige_le": "2026-10-28T00:34:36.818Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/58118437da6dddac6971b5af09ec9f89ea20170b.webp",
+    "source": "wikimedia",
+    "credit": "Agnes Monkelbaan",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amaryllis_(Hippeastrum)_18-01-2025._(actm.)_04.jpg",
+    "alt": "Des plantes d'intérieur en pot",
+    "mots_cles": [
+      "Houseplants"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

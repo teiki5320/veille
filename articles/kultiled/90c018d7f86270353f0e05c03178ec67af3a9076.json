@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "90c018d7f86270353f0e05c03178ec67af3a9076",
+  "slug": "fleur-du-diable-une-plante-noire-qui-se-passe-de-lumiere-90c018",
+  "titre": "« Fleur du diable » : une plante noire qui se passe de lumière",
+  "chapo": "Décrite officiellement en août 2026, Thismia daemona est une petite plante noire de Thaïlande qui ne fait pas de photosynthèse. Elle tire sa nourriture de champignons du sol et ne compte qu'une seule population connue.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La plante a été prélevée le 13 mai 2025 à l'ouest de la Thaïlande, dans le parc de Thong Pha Phum, une aire protégée nationale. Neeranuch Taosiri, botaniste à l'université Chulalongkorn de Bangkok, et son équipe sont à l'origine de la récolte. Elle cosigne avec quatre autres chercheurs l'étude qui décrit l'espèce.",
+        "Les auteurs ont examiné sa forme et analysé son ADN avant de conclure à une espèce nouvelle pour la science."
+      ]
+    },
+    {
+      "intertitre": "Une fleur qui ressemble à un insecte",
+      "paragraphes": [
+        "Thismia daemona mesure au plus 12,5 cm, fleur incluse. Sa fleur sombre forme un tube surmonté d'un petit dôme. De celui-ci s'élancent trois fins prolongements qui peuvent dépasser 2 cm. Avec ses petites pointes colorées, elle évoque davantage un champignon, voire un insecte, qu'une plante ordinaire, d'où son surnom de « fleur du diable ».",
+        "L'essentiel de sa vie se passe sous terre. Ses tiges et ses racines restent enfouies ; seule la fleur sort du sol, le temps de se reproduire."
+      ]
+    },
+    {
+      "intertitre": "Vivre sans lumière",
+      "paragraphes": [
+        "La plupart des végétaux utilisent l'énergie du soleil pour fabriquer leurs sucres : c'est la photosynthèse, rendue possible par la chlorophylle, le pigment vert des feuilles. Thismia daemona n'en possède pas. Elle ne peut donc pas produire sa matière organique à partir de la lumière.",
+        "Elle s'alimente grâce à des champignons du sol, eux-mêmes liés aux racines d'autres plantes. Par ce réseau souterrain, elle récupère le carbone dont elle a besoin. Les botanistes appellent ce mode de vie la mycohétérotrophie. Le genre Thismia compte d'autres espèces qui vivent de la même façon.",
+        "Ce cas reste une exception : pour les plantes cultivées, en pleine terre comme en intérieur, la lumière demeure la source d'énergie indispensable."
+      ]
+    },
+    {
+      "intertitre": "Déjà en danger",
+      "paragraphes": [
+        "À peine décrite, l'espèce est classée provisoirement en danger critique d'extinction. Moins de 50 individus sont connus, regroupés en un seul endroit du parc. Toute atteinte au milieu, comme le piétinement ou la dégradation de la forêt, pourrait rompre l'équilibre entre la plante, les champignons et les arbres dont elle dépend."
+      ]
+    }
+  ],
+  "mots": 368,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "source_nom": "Le Figaro",
+  "source_url": "https://www.lefigaro.fr/jardin/fleur-du-diable-cette-etrange-plante-noire-qui-a-renonce-a-la-lumiere-20261026",
+  "publie_le": "2026-10-26T08:49:32.000Z",
+  "redige_le": "2026-10-28T00:34:36.818Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/kultiled/90c018d7f86270353f0e05c03178ec67af3a9076.svg",
+    "source": "carte",
+    "credit": "Illustration : Kultiled",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Kultiled avec la mention « Culture en intérieur »",
+    "mots_cles": [
+      "black flower"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

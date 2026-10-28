@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-10-27T18:17:59.200Z",
+  "genere_le": "2026-10-28T00:34:36.818Z",
   "actus": [
     {
       "id": "ea27cd9f8a2914ff9c3f0f32e931544ac725e524",
@@ -28,7 +28,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "canada-des-chercheurs-doutent-que-les-fermes-verticales-sauvent-ea27cd",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/ea27cd9f8a2914ff9c3f0f32e931544ac725e524.json",
+      "lecture_min": 2
     },
     {
       "id": "58118437da6dddac6971b5af09ec9f89ea20170b",
@@ -55,7 +58,14 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.greenhousegrower.com/management/new-consumer-study-reveals-changes-in-houseplant-purchasing-trends/",
+        "https://www.scrippsnews.com/life/the-pandemic-plant-craze-has-cooled-but-americans-arent-giving-up-on-greenery"
+      ],
+      "slug": "plantes-interieur-un-rapport-americain-compare-les-achats-depuis-2019-581184",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/58118437da6dddac6971b5af09ec9f89ea20170b.json",
+      "lecture_min": 2
     },
     {
       "id": "90c018d7f86270353f0e05c03178ec67af3a9076",
@@ -80,7 +90,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "fleur-du-diable-une-plante-noire-qui-se-passe-de-lumiere-90c018",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/90c018d7f86270353f0e05c03178ec67af3a9076.json",
+      "lecture_min": 2
     },
     {
       "id": "a2fa101cb1645f7efc888150fdd5add04fb787b6",
@@ -108,7 +121,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "un-radis-qui-se-cueille-sur-la-tige-plutot-que-dans-la-terre-a2fa10",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/a2fa101cb1645f7efc888150fdd5add04fb787b6.json",
+      "lecture_min": 2
     }
   ]
 }
