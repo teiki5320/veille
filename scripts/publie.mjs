@@ -149,16 +149,94 @@ function chercherBanque(site, requete) {
     .map((e) => ({ source: 'banque', origine: `banque/${site}/${e.fichier}`, fichierLocal: path.join(dossier, e.fichier), credit: e.credit || 'Banque perso', licence: e.licence ?? null, page: e.page ?? null }));
 }
 
-export async function enregistrerPhoto(buffer, site, id) {
+// Sans visage ni personne détectés, photo en hauteur : on garde la bande placée au tiers de la hauteur
+// (ni le mur au-dessus de la tête, ni le buste).
+export const HAUT_PORTRAIT = 0.35;
+
+// Détection des visages et des personnes par Vision (macOS), via scripts/visages.swift compilé dans tmp/bin.
+// Renvoie null si l'outil n'est pas disponible (autre système) : on retombe alors sur le cadrage automatique.
+function detecterSujets(jpeg) {
+  try {
+    const source = path.join(RACINE, 'scripts', 'visages.swift');
+    const binaire = path.join(RACINE, 'tmp', 'bin', 'visages');
+    if (!fs.existsSync(binaire) || fs.statSync(binaire).mtimeMs < fs.statSync(source).mtimeMs) {
+      fs.mkdirSync(path.dirname(binaire), { recursive: true });
+      execFileSync('swiftc', ['-O', source, '-o', binaire], { stdio: 'ignore', timeout: 300000 });
+    }
+    const fichier = path.join(RACINE, 'tmp', `cadrage-${process.pid}.jpg`);
+    fs.writeFileSync(fichier, jpeg);
+    try {
+      return JSON.parse(execFileSync(binaire, [fichier], { encoding: 'utf8', timeout: 60000 }));
+    } finally {
+      fs.rmSync(fichier, { force: true });
+    }
+  } catch {
+    return null;
+  }
+}
+
+// Zone à garder absolument (coordonnées 0-1, origine en haut à gauche) : les visages avec cheveux et menton,
+// sinon le haut des personnes détectées (la tête, même de dos), sinon rien.
+export function zoneSujet(sujets) {
+  const union = (bs) => {
+    const x0 = Math.min(...bs.map((b) => b.x)), y0 = Math.min(...bs.map((b) => b.y));
+    return { x0, y0, x1: Math.max(...bs.map((b) => b.x + b.l)), y1: Math.max(...bs.map((b) => b.y + b.h)) };
+  };
+  const borne = (z) => ({ x0: Math.max(0, z.x0), y0: Math.max(0, z.y0), x1: Math.min(1, z.x1), y1: Math.min(1, z.y1) });
+  if (sujets?.visages?.length) {
+    const z = union(sujets.visages.map((b) => ({ x: b.x - b.l * 0.25, y: b.y - b.h * 1.0, l: b.l * 1.5, h: b.h * 2.3 })));
+    return borne(z);
+  }
+  if (sujets?.corps?.length) {
+    const z = union(sujets.corps);
+    return borne({ ...z, y0: z.y0 - 0.02, y1: z.y0 + Math.min(z.y1 - z.y0, 0.3) });
+  }
+  return null;
+}
+
+// Fenêtre largeur×hauteur dans l'image redimensionnée W×H : le sujet en entier si possible, son haut en priorité,
+// placé vers les 40 % de la hauteur du cadre. haut (0-1) impose la position verticale à la main.
+export function fenetre(W, H, largeur, hauteur, zone, haut) {
+  const borne = (v, max) => Math.round(Math.min(Math.max(0, v), Math.max(0, max)));
+  let left = (W - largeur) / 2;
+  let top = (H - hauteur) * (haut ?? 0.5);
+  if (zone) {
+    const [x0, x1, y0, y1] = [zone.x0 * W, zone.x1 * W, zone.y0 * H, zone.y1 * H];
+    left = (x0 + x1) / 2 - largeur / 2;
+    if (haut == null) {
+      top = (y0 + y1) / 2 - hauteur * 0.4;
+      if (y1 - y0 > hauteur) top = (y0 + y1) / 2 - hauteur * 0.5; // gros plan : le visage au centre
+      else {
+        if (y1 > top + hauteur) top = y1 - hauteur;
+        if (y0 < top) top = y0;
+      }
+    }
+  }
+  return { left: borne(left, W - largeur), top: borne(top, H - hauteur) };
+}
+
+async function recadrer(base, w, h, largeur, hauteur, zone, haut) {
+  if (!zone && haut == null) return base.clone().resize(largeur, hauteur, { fit: 'cover', position: 'attention' });
+  const echelle = Math.max(largeur / w, hauteur / h);
+  const W = Math.max(largeur, Math.round(w * echelle));
+  const H = Math.max(hauteur, Math.round(h * echelle));
+  const { left, top } = fenetre(W, H, largeur, hauteur, zone, haut);
+  return base.clone().resize(W, H).extract({ left, top, width: largeur, height: hauteur });
+}
+
+// haut : position verticale imposée (0 = tout en haut, 1 = tout en bas), pour corriger à la main
+// avec scripts/recadre.mjs. Sinon : cadrage sur les visages détectés.
+export async function enregistrerPhoto(buffer, site, id, haut) {
   const dossier = path.join(RACINE, 'images', site);
   fs.mkdirSync(dossier, { recursive: true });
   const base = sharp(buffer, { failOn: 'none' }).rotate();
-  // Photo en hauteur (souvent une personne) : on garde le haut pour ne pas couper la tête.
-  const meta = await base.metadata();
-  const portrait = (meta.autoOrient?.height || meta.height || 0) > (meta.autoOrient?.width || meta.width || 0) * 1.05;
-  const position = portrait ? 'north' : 'attention';
-  await base.clone().resize(1600, 900, { fit: 'cover', position }).webp({ quality: 80 }).toFile(path.join(dossier, `${id}.webp`));
-  await base.clone().resize(600, 600, { fit: 'cover', position }).webp({ quality: 80 }).toFile(path.join(dossier, `${id}-carre.webp`));
+  const { data, info } = await base.clone().jpeg({ quality: 90 }).toBuffer({ resolveWithObject: true });
+  const zone = zoneSujet(detecterSujets(data));
+  const portrait = info.height > info.width * 1.05;
+  const h = haut ?? (!zone && portrait ? HAUT_PORTRAIT : null);
+  await (await recadrer(base, info.width, info.height, 1600, 900, zone, h)).webp({ quality: 80 }).toFile(path.join(dossier, `${id}.webp`));
+  await (await recadrer(base, info.width, info.height, 600, 600, zone, h)).webp({ quality: 80 }).toFile(path.join(dossier, `${id}-carre.webp`));
+  return { zone };
 }
 
 export function enregistrerCarte(config, actu) {

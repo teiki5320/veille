@@ -105,6 +105,22 @@ Les actus encore rejetées sont abandonnées. Le script écrit l'article dans `a
 
 Codes de sortie : `0` = tout est publié ; `1` = au moins un site n'a pas été publié ; `2` = le push a échoué. Le bilan est dans `tmp/publie-bilan.json`.
 
+### Vérifier le cadrage des photos (obligatoire, Jean y tient)
+
+Le script cadre chaque photo sur les visages détectés (Vision du Mac). Vérifie quand même **chaque photo publiée** :
+
+```sh
+node scripts/recadre.mjs --planche <site> <id> <id>…   # ids des actus publiées avec une photo
+```
+
+Ouvre `tmp/planche-<site>.png` (outil Read). Pour chaque vignette : aucun visage ni tête coupés, le sujet de l'actu visible. Sinon, recadre :
+
+```sh
+node scripts/recadre.mjs <site> <id> <haut>    # haut : 0 = garder le haut de la photo, 1 = le bas (essaie 0.1, 0.2…)
+```
+
+Pour une photo Openverse, ajoute l'adresse de l'original (page Flickr → `og:image`). Refais la planche jusqu'à ce que ce soit bon, puis `git add images && git commit -m "Veille : recadrage des photos" && git pull --rebase && git push`.
+
 ## 5. Alerte dans le Studio de Jean (seulement en cas de problème)
 
 Envoie une alerte si :

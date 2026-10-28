@@ -1,11 +1,13 @@
 // Tests : node scripts/test.mjs  (aucun accès réseau)
 import assert from 'node:assert/strict';
 import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl, sites, ICONES } from './lib.mjs';
-import { ecrireIndexArticles, propre, validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
+import { fenetre, zoneSujet, enregistrerPhoto, ecrireIndexArticles, propre, validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
 import { slugDe, controleArticle, motsArticle } from './lib.mjs';
 import { extraireTexte } from './sources.mjs';
 import { collecterSite, lireFlux } from './collecte.mjs';
 import path from 'node:path';
+import fs from 'node:fs';
+import sharp from 'sharp';
 
 let ok = 0;
 let ko = 0;
@@ -286,6 +288,40 @@ await test('Le schéma article v1 valide un article produit par docArticle', () 
 await test('Lecture d’une page source : paragraphes de l’article, sans menus ni cookies', () => {
   const html = `<html><nav><p>Menu menu menu menu menu menu menu menu menu menu</p></nav><article><h1>T</h1><p>Premier paragraphe de l’article, assez long pour être gardé ici.</p><p>Nous utilisons des cookies pour améliorer votre expérience de lecture.</p><p>Second paragraphe de l’article, lui aussi assez long pour compter.</p></article><footer><p>Pied de page avec beaucoup de mots inutiles dedans.</p></footer></html>`;
   assert.equal(extraireTexte(html), 'Premier paragraphe de l’article, assez long pour être gardé ici.\n\nSecond paragraphe de l’article, lui aussi assez long pour compter.');
+});
+
+await test('photo en hauteur : le recadrage garde le visage (tiers de la hauteur), ni le mur du haut', async () => {
+  // 1000×2000 : fond blanc, « visage » rouge entre 35 % et 50 % de la hauteur.
+  const visage = await sharp({ create: { width: 1000, height: 300, channels: 3, background: '#ff0000' } }).png().toBuffer();
+  const buf = await sharp({ create: { width: 1000, height: 2000, channels: 3, background: '#ffffff' } }).composite([{ input: visage, top: 700, left: 0 }]).jpeg().toBuffer();
+  const site = '_test-recadrage';
+  try {
+    await enregistrerPhoto(buf, site, 'x');
+    for (const [nom, l, h] of [['x.webp', 1600, 900], ['x-carre.webp', 600, 600]]) {
+      const img = sharp(path.join(RACINE, 'images', site, nom));
+      const m = await img.metadata();
+      assert.deepEqual([m.width, m.height], [l, h]);
+      const { data } = await img.clone().extract({ left: Math.floor(l / 2), top: Math.floor(h / 2), width: 1, height: 1 }).raw().toBuffer({ resolveWithObject: true });
+      assert.ok(data[0] > 200 && data[1] < 120, `${nom} : le visage doit être au centre de l'image`);
+    }
+  } finally {
+    fs.rmSync(path.join(RACINE, 'images', site), { recursive: true, force: true });
+  }
+});
+
+await test('cadrage : le visage détecté reste en entier dans le cadre, même tout en haut ou sur le côté', () => {
+  // Portrait 1600×3200 redimensionné, visage tout en haut à droite.
+  const zone = zoneSujet({ visages: [{ x: 0.6, y: 0.05, l: 0.2, h: 0.08 }], corps: [] });
+  const { top } = fenetre(1600, 3200, 1600, 900, zone);
+  assert.ok(zone.y0 * 3200 >= top && zone.y1 * 3200 <= top + 900, 'visage coupé en hauteur');
+  // Paysage très large 3000×900, visage à gauche.
+  const z2 = zoneSujet({ visages: [{ x: 0.05, y: 0.3, l: 0.08, h: 0.3 }], corps: [] });
+  const { left } = fenetre(3000, 900, 1600, 900, z2);
+  assert.ok(z2.x0 * 3000 >= left && z2.x1 * 3000 <= left + 1600, 'visage coupé en largeur');
+  // Personne de dos (pas de visage) : on garde le haut du corps.
+  const z3 = zoneSujet({ visages: [], corps: [{ x: 0.3, y: 0.1, l: 0.3, h: 0.85 }] });
+  assert.ok(fenetre(1600, 3200, 1600, 900, z3).top <= 0.1 * 3200);
+  assert.equal(zoneSujet({ visages: [], corps: [] }), null);
 });
 
 console.log(`\n${ok} réussis, ${ko} en échec`);
