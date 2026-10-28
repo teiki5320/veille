@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "9392e2b4a69303a76b89444472e3751bd1ba5ffa",
+  "slug": "des-quilts-de-gee-bend-habillent-les-premiers-sieges-de-marfa-stance-9392e2",
+  "titre": "Des quilts de Gee's Bend habillent les premiers sièges de Marfa Stance",
+  "chapo": "Marfa Stance, marque britannique de vêtements d'extérieur, présente ses premiers meubles. Conçus avec Stephen Kenn Studio, ces sièges portent des quilts cousus par les femmes de Gee's Bend, en Alabama.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La collection compte trois chaises à structure d'acier et un banc. Leurs épais coussins sont recouverts de courtepointes réalisées par les quilteuses de Gee's Bend. Chaque siège est installé dans une boutique différente de la marque : à Montecito et à Chicago, sur Madison Avenue à New York et dans le quartier de Chelsea, à Londres.",
+        "Comme chaque quilt est différent, chaque pièce est unique. Les sièges sont fabriqués à la commande à Los Angeles par la petite équipe de Stephen Kenn et des artisans locaux, souvent des entreprises familiales de l'est et du sud de la ville. Ils sont pensés pour être réparés et modifiés avec le temps."
+      ]
+    },
+    {
+      "intertitre": "Une tradition transmise entre générations",
+      "paragraphes": [
+        "Gee's Bend est une communauté de femmes afro-américaines installée dans un méandre de la rivière Alabama, dans le comté de Wilcox. Le savoir-faire du quilt s'y transmet de mère en fille. Ces compositions colorées ont été exposées dans de grands musées américains, notamment au Whitney Museum de New York en 2002.",
+        "Marfa Stance travaille avec elles depuis 2022. Ensemble, elles ont déjà transformé des tissus italiens inutilisés en vestes matelassées et en couvertures."
+      ]
+    },
+    {
+      "intertitre": "Des chutes de tissu aux meubles",
+      "paragraphes": [
+        "Fondée en 2019 par la designer britannique Georgia Dant, passée par Burberry et Rag & Bone, la marque doit son nom à Marfa, au Texas, où vivait l'artiste Donald Judd. Ses vestes modulables et réversibles sont confectionnées en Italie, dans des ateliers dirigés par des femmes, à partir de nylon, de laine et de cachemire restés en stock.",
+        "Le choix de Stephen Kenn, créateur de meubles basé à Los Angeles, s'est fait naturellement : son studio avait déjà meublé la première boutique new-yorkaise de la marque. Lui aussi travaille avec des matériaux de récupération et en garde les irrégularités. Georgia Dant parle d'une suite logique pour une marque qui ne veut pas se limiter à une seule catégorie."
+      ]
+    },
+    {
+      "intertitre": "Deux modèles existants revisités",
+      "paragraphes": [
+        "Les sièges reprennent deux lignes déjà dessinées par Stephen Kenn. La première associe acier noirci, sangles de coton et ceintures de cuir qui maintiennent des coussins posés. La seconde joue sur une forme courbe rembourrée, avec des mousses de densités différentes. La marque laisse entendre que d'autres objets pour la maison pourraient suivre."
+      ]
+    }
+  ],
+  "mots": 398,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "Wallpaper*",
+  "source_url": "https://www.wallpaper.com/design-interiors/furniture/marfa-stance-furniture-stephen-kenn-studio-gees-bend",
+  "publie_le": "2026-10-26T10:23:38.000Z",
+  "redige_le": "2026-10-28T00:34:33.587Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/9392e2b4a69303a76b89444472e3751bd1ba5ffa.webp",
+    "source": "wikimedia",
+    "credit": "Lucy Mingo",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Pieced_Quilt,_c._1979_by_Lucy_Mingo,_Gee%27s_Bend,_Alabama.JPG",
+    "alt": "Un quilt de Gee's Bend, courtepointe aux motifs géométriques",
+    "mots_cles": [
+      "Gee's Bend quilt"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

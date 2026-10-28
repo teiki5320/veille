@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "2e411fdf7c30fc642f8178a85a363a79b847afe2",
+  "slug": "marrakech-une-journee-pour-decouvrir-art-contemporain-de-la-ville-2e411f",
+  "titre": "Marrakech, une journée pour découvrir l'art contemporain de la ville",
+  "chapo": "Le magazine Connaissance des Arts a tracé un itinéraire d'une journée à Marrakech, du Jardin Majorelle au MACAAL. Un parcours qui passe par le patrimoine, l'Art déco et les lieux dédiés à la création marocaine et africaine.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Fondée vers 1070 par la dynastie almoravide, l'ancienne capitale impériale est aujourd'hui la troisième ville du Maroc par sa population, à égalité avec Fès. Sa médina figure sur la liste du patrimoine mondial de l'Unesco. On l'appelle la Ville rouge, à cause de la teinte de ses murs traditionnels. Le circuit proposé enchaîne plusieurs adresses entre la matinée et l'après-midi."
+      ]
+    },
+    {
+      "intertitre": "Majorelle et Yves Saint Laurent",
+      "paragraphes": [
+        "La journée commence au Jardin Majorelle, ouvert dès 8 h 30. Conçu par le peintre Jacques Majorelle, mort en 1962, il réunit près de 300 espèces de plantes, dont des palmiers, des bambous et des cactus. Sa villa Art déco accueille un musée de la culture berbère, riche d'environ 600 bijoux, armes, cuirs, tapis et vêtements. Yves Saint Laurent et Pierre Bergé avaient racheté le site en 1980.",
+        "Tout près, le musée Yves Saint Laurent occupe depuis 2017 un bâtiment de briques signé Studio KO. Sur environ 4 000 m², il présente robes, photos et objets du couturier, des expositions temporaires et une bibliothèque de quelque 5 000 livres."
+      ]
+    },
+    {
+      "intertitre": "De l'Art déco à la scène émergente",
+      "paragraphes": [
+        "Vers midi, le parcours fait halte au Comptoir des Mines. Cet immeuble Art déco de 1932, aux mosaïques d'origine restaurées, a été converti en galerie en 2016 par Hicham Daoudi. Depuis 2021, son programme MAJAZ permet à de jeunes artistes de présenter leur première exposition personnelle.",
+        "Le domaine familial Es Saadi montre ensuite des pièces réunies par Élisabeth Bauchet-Bouhlal et son mari, Jamil Bouhlal : plus de 400 œuvres marocaines au total. L'accrochage actuel mêle des noms anciens et modernes, comme Jilali Gharbaoui ou Mohamed Kacimi, à des créateurs plus récents."
+      ]
+    },
+    {
+      "intertitre": "Le MACAAL et les rendez-vous de l'année",
+      "paragraphes": [
+        "L'après-midi mène au MACAAL, ouvert en 2018. Ce musée consacré à l'art africain d'aujourd'hui s'appuie sur la collection de la famille Lazraq. Rénové entre 2023 et 2025, il présente désormais un parcours permanent de 150 œuvres, une salle qui retrace le passé artistique de l'Afrique et une médiathèque.",
+        "Le magazine conseille de venir début février, pendant la foire 1-54, qui réunit une vingtaine d'exposants à La Mamounia. La Fondation Montresso, qui accueille des artistes en résidence sur 11 hectares, complète le tableau."
+      ]
+    }
+  ],
+  "mots": 398,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Connaissance des Arts",
+  "source_url": "https://www.connaissancedesarts.com/arts-expositions/une-journee-a-marrakech-notre-itineraire-exclusif-heure-par-heure-dans-lart-contemporain-11210220/",
+  "publie_le": "2026-10-24T11:00:38.000Z",
+  "redige_le": "2026-10-28T00:34:33.587Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/2e411fdf7c30fc642f8178a85a363a79b847afe2.webp",
+    "source": "wikimedia",
+    "credit": "Petar Milošević",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Oriental_hanging_lanterns._Souk_Haddadine,_Marrakech_Medina,_Morocco.jpg",
+    "alt": "La médina de Marrakech, au Maroc",
+    "mots_cles": [
+      "Marrakech medina"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "fe9913ba94141df44f26f6e57e7c80da2e12a147",
+  "slug": "ibrahim-mahama-investit-la-fondation-cartier-avec-le-temps-des-fe9913",
+  "titre": "Ibrahim Mahama investit la Fondation Cartier avec « Le Temps des récoltes »",
+  "chapo": "Le Ghanéen Ibrahim Mahama expose à la Fondation Cartier, à Paris. Dans « Le Temps des récoltes », il partage les trois niveaux du lieu avec neuf invités, autour des traces laissées par la colonisation.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "C'est la première grande exposition de l'artiste en France. Ibrahim Mahama en est à la fois l'auteur principal et l'organisateur : il a convié sept artistes et deux collectifs. Une majorité vient du Ghana, mais pas tous. La Slovène Tjasa Rener et le Franco-Afghan Feda Wardak font partie de l'aventure, tout comme le CATPC, un collectif né dans les anciennes plantations de Lusanga, en RDC.",
+        "Le parcours ne prétend pas dresser un tableau complet de la création ghanéenne. Des figures majeures comme El Anatsui, connu pour ses tentures de métal récupéré, ou le portraitiste Amoako Boafo n'y figurent pas."
+      ]
+    },
+    {
+      "intertitre": "Des tabourets ashantis en cercle",
+      "paragraphes": [
+        "Le niveau inférieur, le plus grand des trois, est réservé presque entièrement aux œuvres de Mahama : installations posées au sol, textiles suspendus, collages réalisés à partir d'archives et assemblages d'images, souvent numériques.",
+        "On y retrouve Parliament of Ghosts, un cercle formé de dizaines de tabourets ashantis. Ces sièges au pied sculpté et ajouré appartenaient à des personnes aujourd'hui disparues ; beaucoup de pièces de ce type ont été emportées pendant la période coloniale vers des collections européennes. Formes, matières et objets anciens se mêlent ainsi dans tout le bâtiment."
+      ]
+    },
+    {
+      "intertitre": "Un artiste ancré au nord du Ghana",
+      "paragraphes": [
+        "Né en 1987, Ibrahim Mahama s'est fait connaître par ses vastes installations en sacs de jute usagés. Il vit et travaille dans la région de Tamale, à quelque 470 km de la capitale, Accra, vers le nord. Il y a fondé en 2020 le Red Clay Studio, un vaste ensemble de bâtiments en briques rouges qu'il agrandit d'année en année. De vieux wagons et des avions hors service y sont alignés, comme des archives du pays.",
+        "Ce terrain de plusieurs hectares, acquis en 2014, est ouvert aux artistes et aux habitants, en particulier aux enfants. L'idée est de réunir objets et personnes pour créer ensemble."
+      ]
+    },
+    {
+      "intertitre": "En tête du classement ArtReview",
+      "paragraphes": [
+        "Le magazine britannique ArtReview a placé Ibrahim Mahama à la première place de son dernier Power 100, la liste annuelle des cent personnalités jugées les plus influentes de l'art contemporain. Une reconnaissance pour un artiste qui a choisi de bâtir ses institutions loin des grandes capitales, en zone rurale."
+      ]
+    }
+  ],
+  "mots": 395,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/culture/article/2026/10/26/le-ghana-seme-objets-et-fantomes-du-colonialisme-a-la-fondation-cartier_6800800_3246.html",
+  "autres_sources": [
+    "https://www.lemonde.fr/culture/article/2026/10/26/le-ghaneen-ibrahim-mahama-cultive-un-art-sans-limites-du-partage_6800793_3246.html"
+  ],
+  "publie_le": "2026-10-26T15:30:01.000Z",
+  "redige_le": "2026-10-28T00:34:33.587Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/fe9913ba94141df44f26f6e57e7c80da2e12a147.webp",
+    "source": "wikimedia",
+    "credit": "Alhassan Mohammed Awal",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Awal_with_Artist_Ibrahim_Mahama,_Founder_of_Red_Clay_archive_center.jpg",
+    "alt": "Une œuvre ou un portrait de l'artiste ghanéen Ibrahim Mahama",
+    "mots_cles": [
+      "Ibrahim Mahama artist"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

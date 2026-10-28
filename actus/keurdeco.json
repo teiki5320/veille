@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-10-27T18:15:27.163Z",
+  "genere_le": "2026-10-28T00:34:33.587Z",
   "actus": [
     {
       "id": "3abff0b081edc939ca5d6776344b9f487d717147",
@@ -28,7 +28,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "design-week-lagos-2026-sept-createurs-qui-dessinent-afrique-de-demain-3abff0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/3abff0b081edc939ca5d6776344b9f487d717147.json",
+      "lecture_min": 2
     },
     {
       "id": "fe9913ba94141df44f26f6e57e7c80da2e12a147",
@@ -58,7 +61,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "ibrahim-mahama-investit-la-fondation-cartier-avec-le-temps-des-fe9913",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/fe9913ba94141df44f26f6e57e7c80da2e12a147.json",
+      "lecture_min": 2
     },
     {
       "id": "9392e2b4a69303a76b89444472e3751bd1ba5ffa",
@@ -85,7 +91,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "des-quilts-de-gee-bend-habillent-les-premiers-sieges-de-marfa-stance-9392e2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/9392e2b4a69303a76b89444472e3751bd1ba5ffa.json",
+      "lecture_min": 2
     },
     {
       "id": "963b5f1d0ab5a0bd1bc59d4d9c3f76468d880df6",
@@ -110,7 +119,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "akaa-la-foire-de-art-africain-tenu-sa-11e-edition-paris-963b5f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/963b5f1d0ab5a0bd1bc59d4d9c3f76468d880df6.json",
+      "lecture_min": 2
     },
     {
       "id": "2e411fdf7c30fc642f8178a85a363a79b847afe2",
@@ -137,7 +149,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "marrakech-une-journee-pour-decouvrir-art-contemporain-de-la-ville-2e411f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/2e411fdf7c30fc642f8178a85a363a79b847afe2.json",
+      "lecture_min": 2
     }
   ]
 }

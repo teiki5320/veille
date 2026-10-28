@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "963b5f1d0ab5a0bd1bc59d4d9c3f76468d880df6",
+  "slug": "akaa-la-foire-de-art-africain-tenu-sa-11e-edition-paris-963b5f",
+  "titre": "AKAA : la foire de l'art africain a tenu sa 11e édition à Paris",
+  "chapo": "Installée à Paris, au Carreau du Temple, la 11e édition d'AKAA, foire de l'art contemporain d'Afrique et de sa diaspora, s'est achevée le 25 octobre. Son directeur artistique, Sitor Senghor, décrit un secteur qui se structure.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Créée en 2016, AKAA, pour Also Known As Africa, rassemble chaque automne à Paris des galeries qui défendent des artistes africains et afro-descendants. Cette année, la photographie était mise en avant. Elle occupait le Carreau du Temple, dans le 3e arrondissement, et a fermé le dimanche 25 octobre.",
+        "Sitor Senghor, Franco-Sénégalais, commissaire d'exposition et collectionneur, en assure la direction artistique. Il a détaillé sa lecture de la scène au micro de RFI."
+      ]
+    },
+    {
+      "intertitre": "La photographie en vedette",
+      "paragraphes": [
+        "Selon lui, les œuvres des artistes africains se comprennent sans long texte d'explication. Il oppose cette lisibilité à une partie de l'art occidental récent, qu'il juge de plus en plus conceptuel.",
+        "Il voit dans la photographie un cas encore plus net. Les outils numériques ont rendu la pratique accessible à un public bien plus large. Des autodidactes, sans passer par une école d'art ni par un long apprentissage, peuvent désormais se faire connaître."
+      ]
+    },
+    {
+      "intertitre": "Un intérêt qui dure",
+      "paragraphes": [
+        "Sitor Senghor rappelle que l'art contemporain africain a d'abord fait l'objet d'un fort engouement spéculatif, car il arrivait tard sur la scène internationale. Un net recul a suivi vers 2024. Pour lui, ce tri a laissé place aux artistes les plus solides, et l'intérêt n'est plus un effet de mode. Il souligne que les créateurs africains représentés par les grandes galeries occidentales y restent et y réussissent."
+      ]
+    },
+    {
+      "intertitre": "De jeunes collectionneurs sur le continent",
+      "paragraphes": [
+        "Un point faible demeure : les galeries installées en Afrique ne réalisent qu'environ 30 % de leur activité sur place. Le directeur artistique note cependant l'arrivée d'une génération de collectionneurs jeunes, souvent revenus s'installer et entreprendre en Afrique après des études à l'étranger. Ils mesurent mieux ce que vaut l'héritage artistique africain.",
+        "Autre changement : les amateurs africains, qui traitaient autrefois directement avec les artistes, passent de plus en plus par les galeries. Sitor Senghor cite une exposition qu'il avait montée à Abidjan en 2018, qui avait bien fonctionné malgré les doutes de son entourage. Il se dit confiant pour la suite."
+      ]
+    }
+  ],
+  "mots": 364,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [],
+  "source_nom": "RFI",
+  "source_url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261024-sitor-senghor-akaa-les-artistes-africains-dans-les-grandes-galeries-occidentales-continuent-%C3%A0-y-%C3%AAtre-et-%C3%A0-prosp%C3%A9rer",
+  "publie_le": "2026-10-24T22:38:52.000Z",
+  "redige_le": "2026-10-28T00:34:33.587Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/963b5f1d0ab5a0bd1bc59d4d9c3f76468d880df6.webp",
+    "source": "wikimedia",
+    "credit": "Carreau du Temple",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carreau_du_Temple,_Paris_9_April_2014.jpg",
+    "alt": "Le Carreau du Temple, à Paris",
+    "mots_cles": [
+      "Carreau du Temple"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
