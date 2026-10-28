@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-28T00:33:51.103Z",
+  "genere_le": "2026-10-28T00:34:18.418Z",
   "actus": [
     {
       "id": "f1153723d32109a346001ce3df72ff8927312d97",
@@ -32,7 +32,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "felwine-sarr-relit-murambi-tournant-de-oeuvre-de-boubacar-boris-diop-f11537",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/f1153723d32109a346001ce3df72ff8927312d97.json",
+      "lecture_min": 2
     },
     {
       "id": "f42687aabdab0f4cca9884e39a461826e6be4789",

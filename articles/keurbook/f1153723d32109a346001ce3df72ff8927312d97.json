@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "f1153723d32109a346001ce3df72ff8927312d97",
+  "slug": "felwine-sarr-relit-murambi-tournant-de-oeuvre-de-boubacar-boris-diop-f11537",
+  "titre": "Felwine Sarr relit « Murambi », tournant de l'œuvre de Boubacar Boris Diop",
+  "chapo": "À Dakar, Felwine Sarr a placé « Murambi, le livre des ossements » au centre du travail de Boubacar Boris Diop. Pour lui, ce roman de 2000 marque un virage dans le parcours de l'écrivain sénégalais.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Lundi 26 octobre, l'université dakaroise Cheikh Anta Diop a ouvert un colloque de trois jours sur Boubacar Boris Diop. La leçon inaugurale revenait à Felwine Sarr, écrivain et professeur à l'université Duke, aux États-Unis. Son thème : « écrire sur les crêtes ».",
+        "Devant des chercheurs, des journalistes et des auteurs venus de plusieurs pays, il a consacré une large part de son propos à « Murambi ». Selon lui, ce livre rassemble presque toutes les questions qui traversent l'œuvre : la mémoire, le regard porté sur les sociétés africaines, le sens même de l'acte d'écrire."
+      ]
+    },
+    {
+      "intertitre": "Un roman né d'une résidence au Rwanda",
+      "paragraphes": [
+        "Le roman est issu d'un projet lancé en 1998 : une dizaine d'écrivains africains avaient été invités au Rwanda pour écrire sur le génocide des Tutsi. Ces massacres ont tué plus d'un million de personnes entre avril et juin 1994.",
+        "Le récit suit deux personnages, Jessica et Cornelius, amis depuis l'enfance. À travers eux, l'auteur raconte les blessures des survivants et la folie qui peut gagner une société. Felwine Sarr a rappelé que la postface de l'édition de 2011 revient sur la genèse du texte et sur le devoir, pour un écrivain africain, de comprendre la vie politique de son continent.",
+        "Il a surtout salué la retenue du livre : une langue sobre, sans effet spectaculaire. L'écrivain, a-t-il souligné, ne prend la place ni de l'historien ni du journaliste."
+      ]
+    },
+    {
+      "intertitre": "Cinquante ans d'écriture",
+      "paragraphes": [
+        "« Murambi » reste le titre le plus lu de Boubacar Boris Diop. Il lui a valu en 2022 le prix international Neustadt, souvent présenté comme l'une des plus hautes distinctions littéraires au monde.",
+        "Felwine Sarr a aussi parcouru le reste de l'œuvre : « Le Temps de Tamango » (1981), « Les Tambours de la mémoire », récompensé en 1990 par le Grand prix du chef de l'État, « Kaveena » (2006) ou encore « Doomi Golo », roman en wolof paru en 2003, que l'auteur a lui-même transposé en français (« Les Petits de la guenon »). Il a cité aussi « Malaanum Lëndëm », publié en 2022."
+      ]
+    },
+    {
+      "intertitre": "Une œuvre toujours en cours",
+      "paragraphes": [
+        "Pour l'orateur, cette production commencée il y a cinq décennies n'est pas close. Elle couvre des romans, des essais, des nouvelles, du théâtre, des traductions et de nombreux textes de presse. Certains chercheurs y voient une littérature qui refuse que l'histoire, les identités et les langues soient effacées.",
+        "Boubacar Boris Diop a également cofondé deux maisons d'édition, Jimsaan et Ejo. Le colloque se tient jusqu'au 28 octobre."
+      ]
+    }
+  ],
+  "mots": 453,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN"
+  ],
+  "tags": [
+    "auteur:boubacar-boris-diop",
+    "auteur:felwine-sarr"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/murambi-le-roman-charniere-de-boubacar-boris-diop-selon-felwine-sarr",
+  "publie_le": "2026-10-27T16:09:33.000Z",
+  "redige_le": "2026-10-28T00:34:18.418Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/f1153723d32109a346001ce3df72ff8927312d97.webp",
+    "source": "wikimedia",
+    "credit": "Boberger",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Boobocar_Boris_Diop.JPG",
+    "alt": "L'écrivain sénégalais Boubacar Boris Diop",
+    "mots_cles": [
+      "Boubacar Boris Diop"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
