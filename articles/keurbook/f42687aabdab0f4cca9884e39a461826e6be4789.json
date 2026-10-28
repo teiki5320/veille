@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "f42687aabdab0f4cca9884e39a461826e6be4789",
+  "slug": "dakar-ucad-consacre-un-colloque-international-boubacar-boris-diop-f42687",
+  "titre": "Dakar : l'UCAD consacre un colloque international à Boubacar Boris Diop",
+  "chapo": "Jusqu'au 28 octobre, l'université dakaroise Cheikh Anta Diop consacre un colloque international à Boubacar Boris Diop. Romans, essais, journalisme : toute l'œuvre de l'écrivain sénégalais est passée en revue.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La rencontre s'est ouverte le lundi 26 octobre sur le site de l'UCAD 2. Elle réunit des universitaires, des chercheurs, des écrivains et des acteurs de la culture. Le lieu a valeur de symbole : Boubacar Boris Diop a lui-même étudié dans cette université.",
+        "Les organisateurs veulent aussi faire entrer davantage ses textes dans les cours. Le doyen Mamadou Bouna Timéra, à la tête de la faculté des lettres, a plaidé pour que ses romans, ses essais et ses articles soient tous étudiés par les étudiants."
+      ]
+    },
+    {
+      "intertitre": "Felwine Sarr ouvre les travaux",
+      "paragraphes": [
+        "La leçon inaugurale a été donnée par Felwine Sarr, autour d'une image : « écrire sur les crêtes ». Il s'est présenté en lecteur plutôt qu'en critique. Il a décrit une œuvre attentive à la mémoire collective et aux tensions des sociétés africaines.",
+        "Il a rappelé les jalons de ce parcours. « Le Temps de Tamango », en 1981, et « Les Tambours de la mémoire », en 1990, interrogent déjà la manière dont l'histoire est racontée et parfois déformée par le pouvoir. « Murambi, le livre des ossements », sur le génocide des Tutsi au Rwanda, a vu le jour après un séjour d'auteurs à Kigali, en 1998."
+      ]
+    },
+    {
+      "intertitre": "Le wolof au cœur du projet",
+      "paragraphes": [
+        "Le colloque revient aussi sur le choix des langues africaines. En 2003, l'auteur publie « Doomi Golo » en wolof, qui est sa langue maternelle. Il a ensuite lancé en 2016 les éditions Ejo, dédiées aux livres en langues nationales, puis le journal en wolof Lu defu waxu. Il traduit lui-même une partie de ses textes.",
+        "Son travail a été salué hors du Sénégal, notamment par le Neustadt, reçu en 2022. Les intervenants ont également évoqué ses années à Sud Hebdo, l'ancêtre de Sud Quotidien, et son attachement à une presse indépendante."
+      ]
+    },
+    {
+      "intertitre": "Un nouveau livre en 2027",
+      "paragraphes": [
+        "Boubacar Boris Diop prépare un ouvrage sur Phillis Wheatley, poétesse afro-américaine du XVIIIe siècle, réduite en esclavage enfant puis devenue l'une des premières femmes noires publiées en Amérique. Sa sortie est annoncée pour mars 2027 chez Philippe Rey.",
+        "Ce projet prolonge un fil déjà présent dans l'œuvre : la traite atlantique et les mémoires que l'histoire officielle a laissées de côté. Les échanges de Dakar se terminent ce mercredi."
+      ]
+    }
+  ],
+  "mots": 401,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN"
+  ],
+  "tags": [
+    "auteur:boubacar-boris-diop",
+    "auteur:felwine-sarr"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/boubacar-boris-diop-la-charge-et-les-chemins-de-lecriture",
+  "publie_le": "2026-10-27T10:19:53.000Z",
+  "redige_le": "2026-10-28T00:33:51.103Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/f42687aabdab0f4cca9884e39a461826e6be4789.webp",
+    "source": "wikimedia",
+    "credit": "Hreinn Gudlaugsson",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Boubacar-Boris-Diop_DSC06105.jpg",
+    "alt": "L'écrivain sénégalais Boubacar Boris Diop",
+    "mots_cles": [
+      "Boubacar Boris Diop"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

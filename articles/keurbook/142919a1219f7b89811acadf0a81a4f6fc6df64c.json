@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "142919a1219f7b89811acadf0a81a4f6fc6df64c",
+  "slug": "apres-affaire-thelyson-orelien-edition-arme-contre-les-textes-ecrits-142919",
+  "titre": "Après l'affaire Thélyson Orélien, l'édition s'arme contre les textes écrits par IA",
+  "chapo": "Soupçonné d'avoir été écrit avec une intelligence artificielle, le roman de l'Haïtien Thélyson Orélien secoue l'édition française. Détecteurs, clauses de contrat, label : les maisons cherchent des parades.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le livre en cause s'intitule « C'était ça ou mourir », publié chez Grasset. Le 21 octobre, les éditions québécoises du Boréal ont annoncé la fin de leur collaboration avec l'auteur. Après une expertise extérieure, elles disent avoir trouvé des marques liées à l'IA dans les données cachées de quelques fichiers, sans pouvoir mesurer l'ampleur de son usage.",
+        "Thélyson Orélien maintient qu'il a écrit son roman. Il admet s'être servi d'outils numériques pour des recherches historiques et des vérifications de langue. Il a par ailleurs reconnu des plagiats dans d'autres textes."
+      ]
+    },
+    {
+      "intertitre": "Des prix littéraires bousculés",
+      "paragraphes": [
+        "L'affaire est partie en septembre d'un compte anonyme sur X. En s'appuyant sur un logiciel de détection, il affirmait que le texte était presque entièrement généré par une machine.",
+        "Fin septembre, l'Académie Goncourt a écarté le livre de sa deuxième liste, en invoquant les plagiats. Le livre a reçu le prix du Roman Fnac 2026 ; l'enseigne veut réunir de nouveau son jury, sans date annoncée. Le Renaudot l'avait gardé dans sa deuxième liste, avec une décision attendue lors de la sélection finale du 28 octobre."
+      ]
+    },
+    {
+      "intertitre": "Les éditeurs s'organisent",
+      "paragraphes": [
+        "Antoine Gallimard a prévenu les maisons du groupe Madrigall que leurs manuscrits passeraient par un détecteur d'IA à partir de janvier 2027. La Martinière a ajouté à ses contrats une clause qui interdit le recours à ces outils. Du côté de l'Observatoire, un label nommé « Sanctuaire » certifie depuis cet automne une écriture entièrement humaine.",
+        "Pour Philippe Claudel, qui préside le Goncourt, l'éditeur est garant de l'origine humaine des livres. Il soutient l'idée d'un signalement des ouvrages conçus avec l'IA."
+      ]
+    },
+    {
+      "intertitre": "Des outils encore contestés",
+      "paragraphes": [
+        "Tous ne sont pas convaincus. Un éditeur, resté anonyme, trouve étrange de confier à une IA le soin de repérer l'IA. Jérôme Attal, romancier, rappelle que d'autres intervenants, comme les correcteurs, peuvent eux aussi utiliser ces logiciels, ce qui brouille la frontière.",
+        "Le débat dépasse ce seul dossier. Dès le 30 septembre, plusieurs écrivains, parmi lesquels le Sénégalais Mohamed Mbougar Sarr, prix Goncourt 2021, a publié une tribune contre les textes mêlant écriture humaine et machine. À l'inverse, un nouveau prix, le prix Pascal, récompense des livres signés à deux par un auteur et son agent d'IA."
+      ]
+    }
+  ],
+  "mots": 394,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "HT"
+  ],
+  "source_nom": "France 24",
+  "source_url": "https://www.france24.com/fr/culture/20261025-la-hantise-des-%C3%A9diteurs-apr%C3%A8s-l-affaire-th%C3%A9lyson-or%C3%A9lien-la-chasse-%C3%A0-l-ia-s-organise",
+  "autres_sources": [
+    "https://www.livreshebdo.fr/article/affaire-thelyson-orelien-les-editeurs-et-les-prix-litteraires-sous-la-pression-de-lia"
+  ],
+  "publie_le": "2026-10-25T08:30:09.000Z",
+  "redige_le": "2026-10-28T00:33:51.103Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/142919a1219f7b89811acadf0a81a4f6fc6df64c.webp",
+    "source": "openverse",
+    "credit": "Image Catalog",
+    "licence": "CC0 1.0",
+    "page": "https://www.flickr.com/photos/132795455@N08/18802224921",
+    "alt": "Une machine à écrire",
+    "mots_cles": [
+      "typewriter manuscript"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
