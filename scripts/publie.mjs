@@ -222,7 +222,8 @@ export function verifierLot(redaction, candidats, { site = null, publiees = new 
   for (const r of redaction) {
     const principal = parId.get(r.id);
     const source = site ? texteSource(site, r.id) : '';
-    if (!principal && publiees.has(r.id)) {
+    if (publiees.has(r.id)) {
+      // Déjà en ligne (même si l'id est encore dans les candidats) : seul l'article peut être ajouté.
       // Complément : article d'une actu déjà publiée (titre et résumé ne changent pas).
       const raisons = controleArticle(r.article, [source], nbMots(source));
       if (raisons.length) rejets.push({ id: r.id, titre: publiees.get(r.id).titre, raisons, mots_source: nbMots(source) });

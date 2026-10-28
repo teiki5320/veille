@@ -252,6 +252,8 @@ await test('Complément : article ajouté à une actu déjà publiée, contrôl�
   assert.equal(bons.length, 1);
   assert.equal(bons[0].complement, true);
   assert.equal(rejets.length, 1, 'id inconnu partout → rejet');
+  const encoreCandidat = verifierLot([{ id: 'a'.repeat(40), article: articleDe(4) }], [{ id: 'a'.repeat(40), titre_original: 'T', description: 'D' }], { publiees });
+  assert.equal(encoreCandidat.ok[0]?.complement, true, 'une actu en ligne reste un complément même si elle est encore candidate');
 });
 await test('Le schéma article v1 valide un article produit par docArticle', () => {
   const actu = { ...exemple().actus[0], slug: 'le-senegal-assure-sa-place-abcdef' };
