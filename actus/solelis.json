@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-27T18:18:01.350Z",
+  "genere_le": "2026-10-28T00:34:25.357Z",
   "actus": [
     {
       "id": "b6c012221c9cf114e002cf5653d745392c9e30aa",
@@ -33,7 +33,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "paris-le-bhv-marais-sollicite-un-redressement-judiciaire-pour-sauver-b6c012",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/b6c012221c9cf114e002cf5653d745392c9e30aa.json",
+      "lecture_min": 2
     },
     {
       "id": "bd0b491a7798c9f7350de65ab6dd5e55f3c3906a",
@@ -66,7 +69,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "manifestations-octobre-cci-france-chiffre-les-degats-subis-par-les-bd0b49",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.json",
+      "lecture_min": 2
     },
     {
       "id": "7fe1d1dfaebf3c6be3ab2601f2c57278cb728159",
@@ -97,7 +103,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "les-forges-de-tarbes-fabricant-de-corps-obus-en-redressement-7fe1d1",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/7fe1d1dfaebf3c6be3ab2601f2c57278cb728159.json",
+      "lecture_min": 2
     },
     {
       "id": "737e17d1bfee8c2a4caa408f00bc2fbc3faf3892",
@@ -124,7 +133,14 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.lejournaldesentreprises.com/article/alize-group-sest-restructure-pour-engager-une-croissance-plus-stable-2096135",
+        "https://www.procedures-collectives.com/entreprise/797545779-alize-group/"
+      ],
+      "slug": "alize-group-fabricant-de-puzzles-en-redressement-malgre-une-bonne-737e17",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/737e17d1bfee8c2a4caa408f00bc2fbc3faf3892.json",
+      "lecture_min": 2
     },
     {
       "id": "33246eb3ef1591f55ee983b733a09baf76794ee1",
@@ -156,7 +172,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "slug": "commerces-degrades-la-mi-octobre-les-aides-prevues-par-etat-33246e",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/33246eb3ef1591f55ee983b733a09baf76794ee1.json",
+      "lecture_min": 2
     },
     {
       "id": "c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9",
@@ -183,7 +202,15 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.tesla-mag.com/e-totem-redressement-judiciaire-bornes-president/",
+        "https://www.automag.fr/vehicules-electriques/pionnier-francais-bornes-recharge-vacille.html",
+        "https://kohenavocats.fr/?p=2146872"
+      ],
+      "slug": "totem-pionnier-des-bornes-de-recharge-place-en-redressement-judiciaire-c10d7b",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9.json",
+      "lecture_min": 2
     }
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "b6c012221c9cf114e002cf5653d745392c9e30aa",
+  "slug": "paris-le-bhv-marais-sollicite-un-redressement-judiciaire-pour-sauver-b6c012",
+  "titre": "Paris : le BHV Marais sollicite un redressement judiciaire pour sauver sa relance",
+  "chapo": "Le BHV Marais, grand magasin du centre de Paris, a annoncé mardi 27 octobre qu'il demandait son placement en redressement judiciaire. Sa direction présente cette démarche comme un outil au service de la relance, faute d'argent disponible.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'enseigne s'est tournée vers la juridiction économique lyonnaise, a-t-elle précisé à l'AFP. Le Figaro avait révélé l'information en premier. Le magasin, créé en 1856, continue d'accueillir ses clients. Il compte environ 700 salariés, selon les chiffres connus en septembre.",
+        "La direction explique qu'il lui manque de la trésorerie pour financer le plan présenté trois mois plus tôt. Ce plan reposait en partie sur des indemnités prévues par contrat avec le bailleur, en contrepartie de la restitution, ce printemps, d'une majorité de la surface du bâtiment. D'après le BHV, cet argent n'est jamais arrivé."
+      ]
+    },
+    {
+      "intertitre": "Le propriétaire des murs dément",
+      "paragraphes": [
+        "Le fonds canadien Brookfield, à qui appartient l'immeuble, rejette cette version. Dans une déclaration à l'AFP, il assure ne rien devoir à l'enseigne à ce jour.",
+        "Le grand magasin évoque aussi les violences de plusieurs samedis dans le centre de la capitale. Son rez-de-chaussée a été pillé, ce qui a encore affaibli, selon lui, des finances déjà tendues. L'inspection du travail soupçonne de son côté que l'entreprise est en cessation de paiements. La direction le conteste."
+      ]
+    },
+    {
+      "intertitre": "Un changement de main en juin",
+      "paragraphes": [
+        "Le BHV Marais a changé de propriétaire en juin. La Société des grands magasins, qui l'exploitait depuis 2023, l'a cédé à perte à plusieurs de ses cadres dirigeants. Le président actuel a pris la tête de l'enseigne à cette occasion. Les fonds attendus devaient permettre dès l'été de regarnir les rayons, de réaménager l'espace conservé et de relancer la communication."
+      ]
+    },
+    {
+      "intertitre": "Ce que la procédure peut changer",
+      "paragraphes": [
+        "Le redressement judiciaire concerne les entreprises qui ne peuvent plus payer leurs dettes exigibles mais dont le sauvetage paraît possible. Une fois la procédure ouverte, les dettes nées avant le jugement sont gelées et les poursuites des créanciers suspendues. Une période d'observation commence, sous le contrôle d'un administrateur et d'un mandataire désignés par le tribunal.",
+        "La direction veut mener deux chantiers en parallèle : les investissements de relance et l'apurement du passif. Elle affirme que les fournisseurs et marques qui continuent de livrer seront réglés à l'échéance, avec la priorité que leur donne la loi. Elle compte enfin sur le calendrier fixé par le juge pour faire appliquer les accords conclus avec le bailleur. Le tribunal doit encore statuer sur la demande."
+      ]
+    }
+  ],
+  "mots": 405,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/economie/article/2026/10/27/le-bhv-marais-a-paris-demande-son-placement-en-redressement-judiciaire_6801329_3234.html",
+  "autres_sources": [
+    "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html",
+    "https://www.sudouest.fr/ile-de-france/paris/economie-le-grand-magasin-bhv-marais-demande-son-placement-en-redressement-judiciaire-31267225.php",
+    "https://www.bfmtv.com/economie/entreprises/trois-mois-apres-la-presentation-d-un-plan-de-relance-le-grand-magasin-bhv-marais-demande-son-placement-en-redressement-judiciaire_AD-202610270677.html"
+  ],
+  "publie_le": "2026-10-27T17:24:34.000Z",
+  "redige_le": "2026-10-28T00:34:25.357Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/b6c012221c9cf114e002cf5653d745392c9e30aa.webp",
+    "source": "wikimedia",
+    "credit": "Chabe01",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bazar_H%C3%B4tel_Ville_-_Paris_IV_(FR75)_-_2020-09-30_-_3.jpg",
+    "alt": "La façade du grand magasin BHV Marais, à Paris",
+    "mots_cles": [
+      "BHV Marais"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

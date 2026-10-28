@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "737e17d1bfee8c2a4caa408f00bc2fbc3faf3892",
+  "slug": "alize-group-fabricant-de-puzzles-en-redressement-malgre-une-bonne-737e17",
+  "titre": "Alizé Group, fabricant de puzzles, en redressement malgré une bonne activité",
+  "chapo": "Alizé Group, fabricant de puzzles installé à Behren-lès-Forbach, en Moselle, est en redressement judiciaire depuis l'été, à sa propre demande. Son activité tient bon : c'est le poids de sa dette qui pose problème.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le jugement d'ouverture date du 21 juillet 2026. Il a été rendu par le tribunal judiciaire de Sarreguemines, dont la chambre commerciale traite les entreprises en difficulté en Moselle. L'entreprise avait elle-même sollicité la protection de la justice. Une audience est prévue le 12 janvier 2027 pour décider de son avenir.",
+        "La direction espère y faire valider un plan de continuation. Il prévoit d'étaler sur dix ans le remboursement de la dette bancaire principale. Selon son président, le problème tient au montage financier bien plus qu'à l'activité elle-même."
+      ]
+    },
+    {
+      "intertitre": "Une dette calibrée sur des ventes trop optimistes",
+      "paragraphes": [
+        "L'origine des difficultés remonte à 2022. Le fonds UI Investissement a alors pris le contrôle de l'entreprise par un rachat financé en grande partie par emprunt, au travers d'une société holding. Ce type d'opération suppose que les bénéfices de l'entreprise rachetée remboursent la dette.",
+        "Or le montage tablait sur un chiffre d'affaires d'environ 10,1 millions d'euros en 2022. Les ventes réelles se sont limitées à 6,4 millions cette année-là, après le pic lié aux confinements. Résultat : une dette trop lourde et une trésorerie trop faible pour la porter."
+      ]
+    },
+    {
+      "intertitre": "Une activité en croissance",
+      "paragraphes": [
+        "L'entreprise a réalisé 7,1 millions d'euros de chiffre d'affaires en 2024, avec une cinquantaine de salariés. Elle se présente comme le seul producteur industriel de puzzles en France. Elle vend en grande partie sur internet, notamment en Allemagne, et a racheté la plateforme La Puzzlerie. Elle visait plus d'un million de boîtes produites en 2026, contre 750 000 en 2025."
+      ]
+    },
+    {
+      "intertitre": "Un cas instructif pour les dirigeants",
+      "paragraphes": [
+        "Le dossier montre que le redressement judiciaire n'est pas réservé aux entreprises en perte de vitesse. La procédure s'ouvre dès que l'entreprise ne peut plus faire face à ses dettes exigibles avec ses liquidités. Pendant la période d'observation, les créances antérieures sont gelées, ce qui laisse le temps de bâtir un plan. Ce plan peut étaler les dettes sur dix ans au plus."
+      ]
+    }
+  ],
+  "mots": 352,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "L'Usine Nouvelle",
+  "source_url": "https://www.usinenouvelle.com/biens-de-consommation/jeux-et-jouets/une-problematique-plus-capitalistique-queconomique-pourquoi-le-fabricant-de-puzzles-alize-group-a-demande-son-placement-en-redressement-judiciaire-malgre-ses-bons-chiffres.RGQIUORK7FF7DJPHGFGLDDY3NY.html",
+  "autres_sources": [
+    "https://www.lejournaldesentreprises.com/article/alize-group-sest-restructure-pour-engager-une-croissance-plus-stable-2096135",
+    "https://www.procedures-collectives.com/entreprise/797545779-alize-group/"
+  ],
+  "publie_le": "2026-10-26T15:41:40.000Z",
+  "redige_le": "2026-10-28T00:34:25.357Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/737e17d1bfee8c2a4caa408f00bc2fbc3faf3892.webp",
+    "source": "wikimedia",
+    "credit": "Colin",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_-_1000_piece_jigsaw_puzzle.jpg",
+    "alt": "Des pièces de puzzle",
+    "mots_cles": [
+      "jigsaw puzzle"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

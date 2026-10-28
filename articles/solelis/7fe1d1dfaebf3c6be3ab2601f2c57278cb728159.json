@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "7fe1d1dfaebf3c6be3ab2601f2c57278cb728159",
+  "slug": "les-forges-de-tarbes-fabricant-de-corps-obus-en-redressement-7fe1d1",
+  "titre": "Les Forges de Tarbes, fabricant de corps d'obus, en redressement judiciaire",
+  "chapo": "La justice commerciale de Tarbes a ouvert lundi 26 octobre un redressement judiciaire pour les Forges de Tarbes. Cette usine des Hautes-Pyrénées est la seule du pays à produire les enveloppes métalliques d'obus de 155 mm.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La procédure a été demandée par le propriétaire du site, le groupe Europlasma. Elle doit permettre de trouver un repreneur pour cette entreprise considérée comme stratégique pour la défense. L'usine compte une soixantaine de salariés.",
+        "Les Forges produisent les fûts des obus tirés par les canons Caesar. La France a fourni ces pièces d'artillerie à l'Ukraine, dont l'armée utilise ces munitions."
+      ]
+    },
+    {
+      "intertitre": "Des investissements promis, jamais vus",
+      "paragraphes": [
+        "Europlasma a repris le site en 2021. Le groupe s'était engagé à moderniser une usine vieillissante pour sortir 15 000 pièces mensuelles dès 2025. Début octobre, dans une lettre ouverte, les salariés disaient n'avoir jamais vu arriver ces investissements. Ils dénonçaient aussi le silence de leur direction et réclamaient l'intervention de l'État.",
+        "La DGA, chargée des achats d'armement de l'État, s'est adressée au procureur de Tarbes. Elle lui signale des choix de gestion récents qui auraient accéléré la dégradation financière de l'entreprise. Par un arrêté du 9 octobre, la préfecture exige en outre la mise aux normes de certains équipements avant fin décembre, sous peine de leur arrêt."
+      ]
+    },
+    {
+      "intertitre": "Un groupe fragilisé",
+      "paragraphes": [
+        "Europlasma, d'abord spécialisé dans la dépollution, a nettement creusé ses pertes en 2025. Il reconnaît des problèmes de trésorerie, la plupart de ses activités étant déficitaires. Deux autres de ses sites vont mal : la Fonderie de Bretagne a été placée en liquidation, et le métallurgiste Valdunes, dans le Nord, cherche un repreneur.",
+        "En avril, le groupe avait annoncé son intention de vendre ses activités de défense et disait discuter avec un industriel français. Aucun accord n'a été annoncé depuis. Ses dirigeants ont par ailleurs été entendus par une commission d'enquête parlementaire consacrée aux fonds spéculatifs et à la perte de capacités industrielles."
+      ]
+    },
+    {
+      "intertitre": "Et maintenant",
+      "paragraphes": [
+        "Le redressement judiciaire ouvre une période d'observation. L'activité se poursuit pendant ce temps, les dettes antérieures sont gelées et des candidats peuvent déposer des offres de reprise auprès de l'administrateur. Carole Delga, présidente socialiste de l'Occitanie, demande au gouvernement d'intervenir pour que les investissements nécessaires au site soient réalisés."
+      ]
+    }
+  ],
+  "mots": 367,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
+  "autres_sources": [
+    "https://www.sudouest.fr/economie/armement-les-forges-de-tarbes-qui-fabriquent-des-corps-d-obus-notamment-utilises-par-l-armee-ukrainienne-placees-en-redressement-judiciaire-31258787.php",
+    "https://www.bfmtv.com/economie/entreprises/defense/une-soixantaine-d-employes-y-fabriquent-les-corps-d-obus-des-canons-caesar-les-forges-de-tarbes-en-redressement-judiciaire_AD-202610270074.html"
+  ],
+  "publie_le": "2026-10-27T00:39:28.000Z",
+  "redige_le": "2026-10-28T00:34:25.357Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/7fe1d1dfaebf3c6be3ab2601f2c57278cb728159.webp",
+    "source": "wikimedia",
+    "credit": "Florent Pécassou",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mairie_de_Tarbes_(Hautes-Pyr%C3%A9n%C3%A9es,_France).jpg",
+    "alt": "Une vue de la ville de Tarbes",
+    "mots_cles": [
+      "Tarbes"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

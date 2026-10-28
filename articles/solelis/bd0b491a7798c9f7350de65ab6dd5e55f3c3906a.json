@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "bd0b491a7798c9f7350de65ab6dd5e55f3c3906a",
+  "slug": "manifestations-octobre-cci-france-chiffre-les-degats-subis-par-les-bd0b49",
+  "titre": "Manifestations d'octobre : CCI France chiffre les dégâts subis par les commerces",
+  "chapo": "Au-delà de 2 500 boutiques ont été abîmées lors des violences survenues en marge des manifestations d'octobre, selon un bilan dressé le 27 octobre par CCI France. Le réseau consulaire chiffre aussi la chute des ventes en centre-ville.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le décompte des chambres de commerce porte sur deux samedis. Le 17 octobre, 2 488 boutiques ont été touchées, puis 50 le 24 octobre. Au total, 1 161 ont subi un pillage, un saccage ou un incendie. Le réseau a dévoilé ces chiffres devant la presse, à distance.",
+        "D'après la CCI, le luxe, l'habillement, les magasins de sport, la téléphonie, bijoutiers et buralistes figurent parmi les cibles principales. Personne ne sait encore combien coûteront les casses et les vols. Il s'annonce lourd, car beaucoup de commerçants avaient déjà reçu leurs marchandises pour les fêtes."
+      ]
+    },
+    {
+      "intertitre": "Marseille, Paris et Lyon en tête",
+      "paragraphes": [
+        "Marseille et sa métropole forment la zone la plus touchée : 527 commerces concernés, dont 331 sinistrés et 128 entièrement vidés. Viennent ensuite la région parisienne, puis l'agglomération lyonnaise avec Saint-Étienne et Roanne, où 307 commerces ont été dégradés. Bordeaux et Rennes figurent aussi dans le bilan.",
+        "À Lyon, la chambre de commerce a recruté environ quarante vigiles privés, à la demande du préfet. Elle estime avoir ainsi épargné une vingtaine de commerces le 17 octobre. Ce dispositif inédit pourrait ne pas être reconduit."
+      ]
+    },
+    {
+      "intertitre": "Des ventes en chute les samedis",
+      "paragraphes": [
+        "Les jours de mobilisation, les commerces de centre-ville ont perdu 80 % de leur chiffre d'affaires, car les clients évitent les quartiers concernés. Or novembre et décembre représentent 40 % des ventes annuelles du commerce de proximité. CCI France évalue le manque à gagner à environ 1,5 milliard d'euros pour chaque week-end perturbé d'ici à Noël.",
+        "Le président de CCI France rappelle que le secteur traverse des crises à répétition depuis 2018 : gilets jaunes, Covid-19, guerre en Ukraine, émeutes de 2023 et pouvoir d'achat en baisse. Le réseau demande qu'aucune manifestation ne soit autorisée avant les fêtes."
+      ]
+    },
+    {
+      "intertitre": "Les premiers soutiens",
+      "paragraphes": [
+        "Dans la région d'Aix-Marseille, un fonds d'urgence a rassemblé quelque 12 millions d'euros, versés par la région, le département, la métropole et de grandes entreprises. Il prévoit pour l'instant 10 000 euros par commerce sinistré, pour la sécurité, la reprise ou le paiement des franchises d'assurance. Les CCI offrent aussi une écoute psychologique et une aide aux démarches. L'État a, de son côté, annoncé le 20 octobre des mesures d'urgence, dont l'activité partielle et un prêt à taux zéro."
+      ]
+    }
+  ],
+  "mots": 408,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/societe/greves-et-manifestations/manifestations-sociales-et-violences-plus-de-2-500-commerces-touches-dont-un-millier-fortement-degrades-selon-cci-france-31264766.php",
+  "autres_sources": [
+    "https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html",
+    "https://www.bfmtv.com/economie/entreprises/le-chiffre-d-affaires-baisse-de-80-en-centre-ville-plus-de-2-500-commerces-ont-ete-touches-par-les-violences-des-17-et-24-octobre-et-pres-de-la-moitie-ont-ete-fortement-degrades_AD-202610270597.html",
+    "https://www.latribune.fr/article/economie/71130012652585/17-octobre-la-facture-estimee-a-1-5-milliard-d-euros-qui-fait-trembler-l-economie-francaise",
+    "https://www.20minutes.fr/economie/4257979-20261027-colere-sociale-4-000-commerces-touches-1-5-milliard-euros-pertes-craindre-chiffres-cci?at_medium=display&at_campaign=149"
+  ],
+  "publie_le": "2026-10-27T15:50:42.000Z",
+  "redige_le": "2026-10-28T00:34:25.357Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.webp",
+    "source": "wikimedia",
+    "credit": "Velvet",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lille_CCI_2.jpg",
+    "alt": "Le logo ou le siège de CCI France",
+    "mots_cles": [
+      "CCI France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

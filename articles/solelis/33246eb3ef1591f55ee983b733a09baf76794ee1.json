@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "33246eb3ef1591f55ee983b733a09baf76794ee1",
+  "slug": "commerces-degrades-la-mi-octobre-les-aides-prevues-par-etat-33246e",
+  "titre": "Commerces dégradés à la mi-octobre : les aides prévues par l'État",
+  "chapo": "Le gouvernement a annoncé le 20 octobre une série de mesures d'urgence pour les entreprises abîmées lors des violences des 17 et 18 octobre. Chômage partiel pris en charge, reports de charges, prêt sans intérêt : voici ce qui est prévu.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les dispositifs ont été détaillés sur le site officiel Entreprendre Service Public, mis à jour le 26 octobre. Ils visent les commerçants et les entreprises dont les locaux ont été dégradés, ou dont l'activité a été réduite par ces événements. L'objectif affiché est de préserver l'emploi et de permettre une reprise rapide."
+      ]
+    },
+    {
+      "intertitre": "L'activité partielle sans reste à charge",
+      "paragraphes": [
+        "Les entreprises qui doivent réduire ou arrêter leur activité peuvent placer leurs salariés en activité partielle. Quand l'effectif est inférieur à 250 personnes, l'État rembourse exceptionnellement la totalité des indemnités. Les salariés reçoivent 60 % de leur salaire brut, et 100 % s'ils sont payés au Smic.",
+        "Deux motifs sont admis : le sinistre, quand des dégâts matériels empêchent de travailler, et la fermeture imposée par un arrêté du préfet. Un commerce fermé de sa propre initiative n'y a pas droit, sauf s'il a malgré tout subi des dégâts. L'employeur a 30 jours pour déposer sa demande en ligne. Une entreprise assurée contre la perte d'exploitation reste éligible tant que l'assureur n'a pas payé ; elle devra ensuite rembourser les sommes faisant double emploi."
+      ]
+    },
+    {
+      "intertitre": "Impôts, cotisations et prêt à taux zéro",
+      "paragraphes": [
+        "L'Urssaf accepte de reporter jusqu'à douze mois les cotisations patronales et celles des indépendants des échéances de novembre, de décembre et de janvier 2027. Les indépendants et micro-entrepreneurs peuvent aussi faire réviser à la baisse leurs cotisations provisionnelles.",
+        "Côté fiscal, il est possible d'étaler ses impôts sans pénalité et d'obtenir plus vite le remboursement de certains crédits d'impôt, en s'adressant à son service des impôts. Bpifrance propose un prêt à taux zéro jusqu'à 50 000 euros, remboursable en trois ans. Les artisans peuvent obtenir jusqu'à 1 500 euros d'aide d'urgence auprès de leur chambre de métiers, joignable au 3630. Un fonds spécial est enfin créé pour les structures de moins de 50 salariés qui cumulent dégâts importants et baisse d'activité."
+      ]
+    },
+    {
+      "intertitre": "Où se faire aider",
+      "paragraphes": [
+        "Dans chaque département, des conseillers dédiés aux sociétés en difficulté peuvent analyser la situation et orienter les démarches. Un numéro unique, le 0 806 807 807, répond aux questions des entreprises, au prix d'un appel ordinaire. À Paris, la juridiction des activités économiques propose aussi un entretien confidentiel aux dirigeants touchés, pour faire le point et étudier les solutions possibles."
+      ]
+    }
+  ],
+  "mots": 414,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Service-Public.fr",
+  "source_url": "https://entreprendre.service-public.gouv.fr/actualites/A19106?xtor=RSS-112",
+  "autres_sources": [
+    "https://entreprendre.service-public.gouv.fr/actualites/A19108?xtor=RSS-112",
+    "https://entreprendre.service-public.gouv.fr/actualites/A19104?xtor=RSS-112"
+  ],
+  "publie_le": "2026-10-25T23:00:00.000Z",
+  "redige_le": "2026-10-28T00:34:25.357Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/solelis/33246eb3ef1591f55ee983b733a09baf76794ee1.svg",
+    "source": "carte",
+    "credit": "Illustration : Solelis",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Solelis avec la mention « Entreprises »",
+    "mots_cles": [
+      "shop storefront",
+      "small shop"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9",
+  "slug": "totem-pionnier-des-bornes-de-recharge-place-en-redressement-judiciaire-c10d7b",
+  "titre": "E-Totem, pionnier des bornes de recharge, placé en redressement judiciaire",
+  "chapo": "E-Totem, entreprise stéphanoise pionnière des bornes de recharge pour voitures électriques, est en redressement judiciaire depuis le 7 octobre. Ses ventes se sont effondrées après l'arrêt du financement de son modèle de tiers-investissement.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le tribunal de Saint-Étienne a ouvert la procédure en fixant la date de cessation des paiements au 28 septembre. Une période d'observation court jusqu'au 6 janvier 2027. Un administrateur et un mandataire judiciaire ont été nommés. Les candidats à la reprise ont jusqu'au 20 novembre à midi pour déposer une offre.",
+        "Créée en 2012, l'entreprise conçoit, vend et exploite des bornes de recharge. Elle emploie 88 personnes. Elle revendique au-delà de 12 000 points de charge installés, dont environ la moitié gérés par ses équipes."
+      ]
+    },
+    {
+      "intertitre": "Un chiffre d'affaires divisé par plus de trois",
+      "paragraphes": [
+        "En 2024, les ventes atteignaient quelque 47,4 millions d'euros. Elles sont tombées à 13,9 millions l'année suivante, soit une baisse proche de 33 millions. Les pertes sont estimées à 7 millions d'euros pour l'exploitation et à 10 millions au total.",
+        "En cause, le tiers-investissement. Dans ce modèle, l'exploitant paie le matériel, le raccordement et les travaux, puis se rembourse grâce aux recharges, des années plus tard. Le gestionnaire d'actifs Conquest, qui finançait ces projets, a cessé de le faire, puis s'est retiré du capital début 2026. L'entreprise n'a pas réussi à changer de modèle assez vite."
+      ]
+    },
+    {
+      "intertitre": "Les bornes continuent de fonctionner",
+      "paragraphes": [
+        "L'entreprise assure que l'exploitation se poursuit pendant la procédure. Les contrats signés avec les collectivités sont logés dans des sociétés de projet, sous le contrôle d'un autre investisseur, C4M Infra, que le jugement ne vise pas. Montpellier indique que ses 356 points de charge fonctionnent normalement.",
+        "Le marché, lui, progresse : fin septembre 2026, le pays disposait de 202 804 points de recharge accessibles à tous, en hausse de 13 % sur un an."
+      ]
+    },
+    {
+      "intertitre": "Plan de continuation ou reprise",
+      "paragraphes": [
+        "Deux issues sont envisagées : un plan de continuation soutenu par les actionnaires, ou une cession à un repreneur. La direction compte renoncer au tiers-investissement et se recentrer sur la fourniture et la pose de bornes pour ses clients. Les fournisseurs doivent déclarer leurs créances antérieures dans les deux mois suivant la publication au Bodacc."
+      ]
+    }
+  ],
+  "mots": 361,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "L'Usine Nouvelle",
+  "source_url": "https://www.usinenouvelle.com/auto/son-chiffre-daffaires-a-baisse-de-33-millions-deuros-en-un-an-le-pionnier-francais-des-bornes-de-recharge-pour-voitures-electriques-e-totem-place-en-redressement-judiciaire.BIUHCPBFXRGE5EAGQGX67XMXNI.html",
+  "autres_sources": [
+    "https://www.tesla-mag.com/e-totem-redressement-judiciaire-bornes-president/",
+    "https://www.automag.fr/vehicules-electriques/pionnier-francais-bornes-recharge-vacille.html",
+    "https://kohenavocats.fr/?p=2146872"
+  ],
+  "publie_le": "2026-10-25T14:30:00.000Z",
+  "redige_le": "2026-10-28T00:34:25.357Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/solelis/c10d7b98b45b5235678dffc16f0ffdd92f4f9ee9.svg",
+    "source": "carte",
+    "credit": "Illustration : Solelis",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Solelis avec la mention « Entreprises »",
+    "mots_cles": [
+      "electric car charging station"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
