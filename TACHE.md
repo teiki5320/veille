@@ -83,6 +83,7 @@ Règles de rédaction :
   - `chapo` : 1 ou 2 phrases d'attaque (40 à 320 caractères) qui disent l'essentiel.
   - `blocs` : 3 ou 4 blocs. Le 1er sans intertitre (les faits : qui, quoi, où, quand). Puis des intertitres courts et informatifs (pas de questions racoleuses) : le contexte, les chiffres ou les réactions, ce qui va se passer ensuite. 1 à 3 paragraphes par bloc.
   - **Rien d'inventé** : seulement ce que disent `tmp/sources/<site>/<id>.txt`, le titre et la description du candidat, et des faits de contexte **sûrs et vérifiables** (dates, palmarès, rôle d'une institution). Pas de citation entre guillemets sauf si elle est mot pour mot dans la source, et alors 15 mots au plus et attribuée.
+  - **Bilans et chiffres historiques** : même si la source donne un seul chiffre, un bilan discuté se donne en fourchette, avec les dates exactes (ex. génocide des Tutsi au Rwanda : « entre 800 000 et plus d'un million de morts, d'avril à juillet 1994 »). Un chiffre absent de la source (vues, ventes, abonnés…) ne s'écrit pas.
   - **En français**, ton neutre de journaliste, phrases courtes, aucune opinion, aucun vocabulaire de vente.
   - **Jamais 6 mots consécutifs** de la source (le contrôle compare tout le texte de `tmp/sources`). Reformule complètement, ne suis pas l'ordre des phrases de la source.
   - Ne cite jamais un autre site de Jean.
