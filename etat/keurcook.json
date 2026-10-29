@@ -573,98 +573,98 @@
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 2
     },
     "https://www.rfi.fr/fr/afrique/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 13
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://www.france24.com/fr/afrique/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 3
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.bbc.com/afrique/index.xml": {
       "nom": "BBC Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
       "articles": 3
     },
     "https://fr.africanews.com/feed/rss": {
       "nom": "Africanews",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 13
+      "articles": 7
     },
     "https://www.jeuneafrique.com/rubriques/lifestyle/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 9
+      "articles": 5
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 7
+      "articles": 10
     },
     "https://lesoleil.sn/feed/": {
       "nom": "Le Soleil",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 14
+      "articles": 17
     },
     "https://mondafrique.com/feed/": {
       "nom": "Mondafrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 3
     },
     "https://nofi.media/feed/": {
       "nom": "Nofi",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.lefigaro.fr/rss/figaro_gastronomie.xml": {
       "nom": "Le Figaro",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.theguardian.com/food/rss": {
       "nom": "The Guardian",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
       "articles": 1
     },
@@ -678,9 +678,65 @@
     "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf": {
       "nom": "AllAfrica",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:12:25.716Z",
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
       "derniere_erreur": null,
-      "articles": 18
+      "articles": 14
+    },
+    "https://www.africanbites.com/feed/": {
+      "nom": "Immaculate Bites",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 3
+    },
+    "https://www.myjoyonline.com/lifestyle/food/feed/": {
+      "nom": "MyJoyOnline",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 1
+    },
+    "https://www.zikoko.com/category/chopist/feed/": {
+      "nom": "Zikoko",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 0
+    },
+    "https://www.capetownetc.com/category/food-and-drink/feed/": {
+      "nom": "Cape Town Etc",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 1
+    },
+    "https://www.lemonde.fr/le-monde-passe-a-table/rss_full.xml": {
+      "nom": "Le Monde",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 2
+    },
+    "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml": {
+      "nom": "The New York Times",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 10
+    },
+    "https://www.eater.com/rss/index.xml": {
+      "nom": "Eater",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 3
+    },
+    "https://tastecooking.com/feed/": {
+      "nom": "Taste",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:12:16.974Z",
+      "derniere_erreur": null,
+      "articles": 4
     }
   },
   "images_recentes": [

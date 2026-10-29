@@ -30,6 +30,14 @@
     { "nom": "Greenhouse Canada", "url": "https://www.greenhousecanada.com/feed/", "langue": "en" },
     { "nom": "AgFunderNews", "url": "https://agfundernews.com/feed", "langue": "en" },
     { "nom": "Phys.org", "url": "https://phys.org/rss-feed/biology-news/plants-animals/", "langue": "en" },
-    { "nom": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/plants_animals/botany.xml", "langue": "en" }
+    { "nom": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/plants_animals/botany.xml", "langue": "en" },
+    { "nom": "Vertical Farm Daily", "url": "https://www.verticalfarmdaily.com/rss.xml/", "langue": "en" },
+    { "nom": "HortiDaily", "url": "https://www.hortidaily.com/rss.xml/", "langue": "en" },
+    { "nom": "CEAg World", "url": "https://www.ceagworld.com/feed/", "langue": "en" },
+    { "nom": "The Sill", "url": "https://www.thesill.com/blogs/plants-101.atom", "langue": "en" },
+    { "nom": "Gardening Know How", "url": "https://www.gardeningknowhow.com/feed", "langue": "en" },
+    { "nom": "Phys.org", "url": "https://phys.org/rss-feed/biology-news/agriculture/", "langue": "en" },
+    { "nom": "Lien Horticole", "url": "https://www.materiel-paysage.com/rss/29251", "langue": "fr" },
+    { "nom": "Jardiner Malin", "url": "https://www.jardiner-malin.fr/feed", "langue": "fr" }
   ]
 }

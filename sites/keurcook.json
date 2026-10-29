@@ -29,6 +29,14 @@
     { "nom": "Nofi", "url": "https://nofi.media/feed/", "langue": "fr" },
     { "nom": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_gastronomie.xml", "langue": "fr" },
     { "nom": "The Guardian", "url": "https://www.theguardian.com/food/rss", "langue": "en" },
-    { "nom": "AllAfrica", "url": "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf", "langue": "fr" }
+    { "nom": "AllAfrica", "url": "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf", "langue": "fr" },
+    { "nom": "Immaculate Bites", "url": "https://www.africanbites.com/feed/", "langue": "en" },
+    { "nom": "MyJoyOnline", "url": "https://www.myjoyonline.com/lifestyle/food/feed/", "langue": "en" },
+    { "nom": "Zikoko", "url": "https://www.zikoko.com/category/chopist/feed/", "langue": "en" },
+    { "nom": "Cape Town Etc", "url": "https://www.capetownetc.com/category/food-and-drink/feed/", "langue": "en" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/le-monde-passe-a-table/rss_full.xml", "langue": "fr" },
+    { "nom": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml", "langue": "en" },
+    { "nom": "Eater", "url": "https://www.eater.com/rss/index.xml", "langue": "en" },
+    { "nom": "Taste", "url": "https://tastecooking.com/feed/", "langue": "en" }
   ]
 }

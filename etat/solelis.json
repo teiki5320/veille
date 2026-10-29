@@ -437,100 +437,142 @@
     "https://www.service-public.fr/abonnements/rss/actu-actu-pro.rss": {
       "nom": "Service-Public.fr",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.lemonde.fr/entreprises/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 6
     },
     "https://www.lemonde.fr/economie-francaise/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 0
     },
     "https://www.lefigaro.fr/rss/figaro_entrepreneur.xml": {
       "nom": "Le Figaro",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.lefigaro.fr/rss/figaro_societes.xml": {
       "nom": "Le Figaro",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://www.bfmtv.com/rss/economie/entreprises/": {
       "nom": "BFM Business",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 8
+      "articles": 6
     },
     "https://www.francetvinfo.fr/economie/entreprises.rss": {
       "nom": "Franceinfo",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
       "articles": 1
     },
     "https://www.latribune.fr/feed.xml": {
       "nom": "La Tribune",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 11
+      "articles": 9
     },
     "https://www.usinenouvelle.com/rss/": {
       "nom": "L'Usine Nouvelle",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 9
+      "articles": 7
     },
     "https://www.sudouest.fr/economie/rss.xml": {
       "nom": "Sud Ouest",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
       "articles": 20
     },
     "https://www.20minutes.fr/feeds/rss-economie.xml": {
       "nom": "20 Minutes",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 1
     },
     "https://www.village-justice.com/articles/backend.php": {
       "nom": "Village de la Justice",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 2
     },
     "https://www.affiches-parisiennes.com/rss.xml": {
       "nom": "Les Affiches Parisiennes",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
       "articles": 7
     },
     "https://www.echos-judiciaires.com/feed/": {
       "nom": "Échos Judiciaires",
       "erreurs": 0,
-      "dernier_succes": "2026-10-28T18:13:28.644Z",
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
+    },
+    "https://www.lejournaldesentreprises.com/rss-all": {
+      "nom": "Le Journal des Entreprises",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
+      "derniere_erreur": null,
+      "articles": 35
+    },
+    "https://www.affiches.fr/feed/": {
+      "nom": "Les Affiches de Grenoble",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
+      "derniere_erreur": null,
+      "articles": 9
+    },
+    "https://www.journaldunet.com/management/rss/": {
+      "nom": "Journal du Net",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
+      "derniere_erreur": null,
+      "articles": 0
+    },
+    "https://www.insee.fr/fr/flux/1": {
+      "nom": "Insee",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
+      "derniere_erreur": null,
+      "articles": 4
+    },
+    "https://www.ladepeche.fr/economie/rss.xml": {
+      "nom": "La Dépêche",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
+      "derniere_erreur": null,
+      "articles": 25
+    },
+    "https://www.laprovence.com/rss/economie.xml": {
+      "nom": "La Provence",
+      "erreurs": 0,
+      "dernier_succes": "2026-10-29T09:14:09.271Z",
+      "derniere_erreur": null,
+      "articles": 20
     }
   },
   "images_recentes": [

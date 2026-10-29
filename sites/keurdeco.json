@@ -30,6 +30,13 @@
     { "nom": "Designboom", "url": "https://www.designboom.com/feed/", "langue": "en" },
     { "nom": "Wallpaper*", "url": "https://www.wallpaper.com/feeds/all", "langue": "en" },
     { "nom": "Design Milk", "url": "https://design-milk.com/feed/", "langue": "en" },
-    { "nom": "Design Indaba", "url": "https://www.designindaba.com/rss.xml", "langue": "en" }
+    { "nom": "Design Indaba", "url": "https://www.designindaba.com/rss.xml", "langue": "en" },
+    { "nom": "Maisons du Maroc", "url": "https://maisonsdumaroc.com/feed", "langue": "fr" },
+    { "nom": "Visi", "url": "https://visi.co.za/feed/", "langue": "en" },
+    { "nom": "Art Africa", "url": "https://artafricamagazine.org/feed/", "langue": "en" },
+    { "nom": "10and5", "url": "https://10and5.com/feed/", "langue": "en" },
+    { "nom": "BellaNaija", "url": "https://www.bellanaija.com/category/style/feed/", "langue": "en" },
+    { "nom": "BusinessDay", "url": "https://businessday.ng/category/life-arts/feed/", "langue": "en" },
+    { "nom": "Afrocosmopolitan", "url": "https://afrocosmopolitan.com/feed", "langue": "en" }
   ]
 }

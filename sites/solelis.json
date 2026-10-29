@@ -31,6 +31,12 @@
     { "nom": "20 Minutes", "url": "https://www.20minutes.fr/feeds/rss-economie.xml", "langue": "fr" },
     { "nom": "Village de la Justice", "url": "https://www.village-justice.com/articles/backend.php", "langue": "fr" },
     { "nom": "Les Affiches Parisiennes", "url": "https://www.affiches-parisiennes.com/rss.xml", "langue": "fr" },
-    { "nom": "Échos Judiciaires", "url": "https://www.echos-judiciaires.com/feed/", "langue": "fr" }
+    { "nom": "Échos Judiciaires", "url": "https://www.echos-judiciaires.com/feed/", "langue": "fr" },
+    { "nom": "Le Journal des Entreprises", "url": "https://www.lejournaldesentreprises.com/rss-all", "langue": "fr" },
+    { "nom": "Les Affiches de Grenoble", "url": "https://www.affiches.fr/feed/", "langue": "fr" },
+    { "nom": "Journal du Net", "url": "https://www.journaldunet.com/management/rss/", "langue": "fr" },
+    { "nom": "Insee", "url": "https://www.insee.fr/fr/flux/1", "langue": "fr" },
+    { "nom": "La Dépêche", "url": "https://www.ladepeche.fr/economie/rss.xml", "langue": "fr" },
+    { "nom": "La Provence", "url": "https://www.laprovence.com/rss/economie.xml", "langue": "fr" }
   ]
 }

@@ -140,7 +140,7 @@ await test('Chaque configuration de site est complète et cohérente avec le sch
     for (const k of ['fond', 'fond2', 'encre']) assert.match(c.couleurs?.[k] || '', /^#[0-9a-f]{6}$/i, `${c.site} : couleur ${k}`);
     assert.ok(ICONES.includes(c.icone), `${c.site} : icône inconnue ${c.icone}`);
     assert.ok(enumThemes.includes(c.theme_defaut), `${c.site} : thème inconnu ${c.theme_defaut}`);
-    assert.ok(c.flux.length >= 8 && c.flux.length <= 15, `${c.site} : ${c.flux.length} flux`);
+    assert.ok(c.flux.length >= 8 && c.flux.length <= 30, `${c.site} : ${c.flux.length} flux`);
     const urls = new Set();
     for (const f of c.flux) {
       assert.match(f.url, /^https:\/\//, `${c.site} : ${f.url}`);
