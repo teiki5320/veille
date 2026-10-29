@@ -19,6 +19,7 @@
       "enum": [
         "keurfoot",
         "keurbook",
+        "keurbible",
         "keurcook",
         "keurdeco",
         "keurkado",

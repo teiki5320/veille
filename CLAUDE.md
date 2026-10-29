@@ -1,6 +1,6 @@
 # Veille actus — dépôt `teiki5320/veille`
 
-Ce dépôt public contient les **actus récupérées automatiquement** pour les sites de Jean (Keur Foot, Keurbook, puis les autres). Une tâche planifiée Claude le remplit à **12 h et 19 h** (voir `TACHE.md`). Les fichiers sont servis par GitHub Pages sur `https://teiki5320.github.io/veille/` et lus en direct par les sites.
+Ce dépôt public contient les **actus récupérées automatiquement** pour les sites de Jean (Keur Foot, Keurbook, Keur Bible, puis les autres). Une tâche planifiée Claude le remplit à **12 h et 19 h** (voir `TACHE.md`). Les fichiers sont servis par GitHub Pages sur `https://teiki5320.github.io/veille/` et lus en direct par les sites.
 
 Décisions : `Studio/docs/veille/decisions-v1.md` (dépôt teiki5320/Studio).
 

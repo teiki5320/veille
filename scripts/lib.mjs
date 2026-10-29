@@ -180,7 +180,7 @@ export function imageDejaVue(origine, recentes) {
 // ---------- Carte générée (SVG 1600×900) ----------
 const echapper = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
-export const ICONES = ['ballon', 'livre', 'marmite', 'jarre', 'plante', 'soleil'];
+export const ICONES = ['ballon', 'livre', 'marmite', 'jarre', 'plante', 'soleil', 'croix'];
 
 export const LIBELLES_THEMES = {
   foot: 'Football', politique: 'Politique', economie: 'Économie', societe: 'Société', culture: 'Culture', livres: 'Livres',
@@ -206,6 +206,10 @@ function icone(nom, encre, x, y, taille) {
   if (nom === 'soleil')
     return g(
       `<circle cx="50" cy="50" r="19" fill="${encre}"/><path d="M50 5 V20 M50 80 V95 M5 50 H20 M80 50 H95 M18 18 L29 29 M71 71 L82 82 M82 18 L71 29 M29 71 L18 82"/>`,
+    );
+  if (nom === 'croix')
+    return g(
+      `<path d="M20 96 V46 C20 24 33 10 50 10 C67 10 80 24 80 46 V96"/><path d="M50 28 V80 M36 44 H64" stroke-width="8"/>`,
     );
   if (nom === 'livre')
     return g(

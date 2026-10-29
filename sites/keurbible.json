@@ -1,0 +1,36 @@
+{
+  "site": "keurbible",
+  "nom": "Keur Bible",
+  "couleurs": { "fond": "#1e4a7a", "fond2": "#0f2740", "encre": "#fbf7f1" },
+  "icone": "croix",
+  "theme_defaut": "culture",
+  "sujets": "Culture chrétienne en Afrique et dans la diaspora africaine (en particulier en France), pour toutes les Églises (catholique, protestantes, évangéliques, orthodoxes) : fêtes et pèlerinages (Namugongo, Popenguine, Timkat, Meskel, Noël et Pâques en Afrique) ; gospel, chorales et musique chrétienne africaine ; art sacré, icônes, artistes chrétiens et expositions ; patrimoine religieux (Lalibela, basilique de Yamoussoukro, cathédrales, monastères) ; livres et films chrétiens d'auteurs africains ; saints, bienheureux et grandes figures chrétiennes africaines ; vie des communautés chrétiennes africaines en France (fêtes, concerts, rassemblements). Il y a peu d'actualité : les sources sont larges (presse chrétienne, presse sur l'Afrique) et triées en lisant ; on ne garde que ce qui touche la culture chrétienne en Afrique ou dans sa diaspora. Les sources en anglais sont résumées en français.",
+  "exclusions": [
+    "politique, élections, conflits et prises de position des Églises sur la politique",
+    "scandales, abus, procès et faits divers",
+    "débats et polémiques entre Églises ou au sein d'une Église (doctrine, nominations contestées, querelles)",
+    "persécutions et violences contre les chrétiens (sujet grave, hors du ton du site)",
+    "prosélytisme, guérisons miraculeuses et promesses spirituelles",
+    "vocabulaire de vente : prix, promotions, « acheter », bons plans",
+    "actualité chrétienne sans lien avec l'Afrique ou sa diaspora"
+  ],
+  "pays_prioritaires": ["SN", "CI", "CM", "CD", "CG", "BJ", "TG", "BF", "GA", "GN", "ML", "ET", "ER", "UG", "RW", "BI", "NG", "GH", "KE", "MG", "FR"],
+  "entites_url": "https://keurbible.com/veille/entites.json",
+  "flux": [
+    { "nom": "La Croix", "url": "https://www.la-croix.com/RSS/UNIVERS", "langue": "fr" },
+    { "nom": "Vatican News", "url": "https://www.vaticannews.va/fr.rss.xml", "langue": "fr" },
+    { "nom": "Vatican News Africa", "url": "https://www.vaticannews.va/en/africa.rss.xml", "langue": "en" },
+    { "nom": "ACI Africa", "url": "https://www.aciafrica.org/rss", "langue": "en" },
+    { "nom": "Aleteia", "url": "https://fr.aleteia.org/feed/", "langue": "fr" },
+    { "nom": "Zenit", "url": "https://fr.zenit.org/feed/", "langue": "fr" },
+    { "nom": "Église catholique en France", "url": "https://eglise.catholique.fr/feed/", "langue": "fr" },
+    { "nom": "Réforme", "url": "https://www.reforme.net/feed/", "langue": "fr" },
+    { "nom": "Regards protestants", "url": "https://regardsprotestants.com/feed/", "langue": "fr" },
+    { "nom": "Christianisme Aujourd'hui", "url": "https://www.christianismeaujourdhui.info/feed/", "langue": "fr" },
+    { "nom": "Christianity Today", "url": "https://www.christianitytoday.com/feed/", "langue": "en" },
+    { "nom": "Orthodoxie.com", "url": "https://orthodoxie.com/feed/", "langue": "fr" },
+    { "nom": "Africultures", "url": "https://africultures.com/feed/", "langue": "fr" },
+    { "nom": "RFI", "url": "https://www.rfi.fr/fr/afrique/rss", "langue": "fr" },
+    { "nom": "Le Monde", "url": "https://www.lemonde.fr/afrique/rss_full.xml", "langue": "fr" }
+  ]
+}
