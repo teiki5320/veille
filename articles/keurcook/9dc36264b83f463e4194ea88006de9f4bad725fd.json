@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "9dc36264b83f463e4194ea88006de9f4bad725fd",
+  "slug": "gragnano-capitale-italienne-des-pates-une-cheffe-dakaroise-signe-un-9dc362",
+  "titre": "À Gragnano, capitale italienne des pâtes, une cheffe dakaroise signe un ragù sénégalais",
+  "chapo": "Au cœur de la région italienne des pâtes sèches, une sauce venue du Sénégal a trouvé sa place. La cheffe Astou Ndiaye l'a imaginée pour le festival Mondopasta de Gragnano.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans sa chronique du Guardian, l'autrice culinaire Rachel Roddy, qui vit à Rome, raconte une visite récente à Gragnano, à une trentaine de kilomètres au sud de Naples. Elle en a rapporté des paquets de pâtes de sept fabricants et une recette : celle d'un ragù d'inspiration sénégalaise conçu par Astou Ndiaye pour l'édition de cette année de Mondopasta.",
+        "Née à Dakar, la cheffe vit aujourd'hui à Milan avec sa famille. Sa cuisine mêle ses racines sénégalaises et sa vie en Italie."
+      ]
+    },
+    {
+      "intertitre": "Une viande marinée puis mijotée deux heures",
+      "paragraphes": [
+        "La recette repose sur une marinade mixée de céleri, poivron rouge, échalote, ail, coriandre fraîche et clous de girofle. Rachel Roddy a choisi de l'agneau, coupé en cubes et laissé dans la moitié de ce mélange entre deux heures et une journée.",
+        "La viande est ensuite saisie, puis remise dans la cocotte avec un oignon, le reste de la marinade, du paprika, du garam masala et de l'eau. Après deux heures à feu doux, elle se défait et forme une sauce épaisse. Elle accompagne des pâtes courtes, comme des candele cassées en tronçons."
+      ]
+    },
+    {
+      "intertitre": "Une ville façonnée par les pâtes",
+      "paragraphes": [
+        "Gragnano doit sa réputation à ses sources et à son climat. Dès le XIIIe siècle, une suite de moulins à eau y broyait le grain. Plus tard, l'humidité et la brise marine ont permis de faire sécher les pâtes dans les rues. La ville comptait 81 fabriques en 1859.",
+        "Aujourd'hui, une indication géographique protégée encadre l'origine du blé, l'extrusion et le séchage. Vingt-trois producteurs y fabriquent plus de 100 000 tonnes de pâtes par an.",
+        "Pour Rachel Roddy, ce plat résume l'esprit de ces pâtes : ancré à la fois à Gragnano et à Dakar."
+      ]
+    }
+  ],
+  "mots": 313,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "SN",
+    "IT"
+  ],
+  "source_nom": "The Guardian",
+  "source_url": "https://www.theguardian.com/food/2026/oct/29/pasta-with-senegalese-inspired-ragu-recipe-rachel-roddy",
+  "publie_le": "2026-10-29T06:00:24.000Z",
+  "redige_le": "2026-10-29T11:22:00.797Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/9dc36264b83f463e4194ea88006de9f4bad725fd.webp",
+    "source": "wikimedia",
+    "credit": "LigaDue",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GragnanoCapannoriBorgo1.jpg",
+    "alt": "La ville de Gragnano, près de Naples, réputée pour ses pâtes",
+    "mots_cles": [
+      "Gragnano"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "0cd3f42aa166d00815a685eddc5fb73b7ff174d7",
+  "slug": "eclairage-horticole-la-marque-hortilux-reprise-par-le-groupe-de-gavita-0cd3f4",
+  "titre": "Éclairage horticole : la marque Hortilux reprise par le groupe de Gavita et Agrolux",
+  "chapo": "Le nom Hortilux ne disparaîtra pas. Le groupe néerlandais Prohort Lighting Solutions, propriétaire de Gavita International, a racheté la marque du spécialiste de l'éclairage pour serres, en faillite depuis septembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'accord a été conclu avec le curateur désigné par le tribunal pour gérer la faillite d'Hortilux Schréder. Il porte sur la marque, la propriété intellectuelle et le fonds commercial. Le montant n'a pas été rendu public.",
+        "Hortilux Schréder concevait et fournissait des installations d'éclairage pour les serres et pour les fermes verticales. L'entreprise avait été déclarée en faillite en septembre 2026."
+      ]
+    },
+    {
+      "intertitre": "Deux marques néerlandaises réunies",
+      "paragraphes": [
+        "Hortilux rejoint Agrolux, autre marque du groupe. Ensemble, elles cumulent plus de 80 ans d'histoire dans la lumière horticole. Selon l'acquéreur, Hortilux apporte une réputation solide auprès des producteurs, un savoir-faire de service et des débouchés que n'avait pas Agrolux. Agrolux, de son côté, met dans la corbeille sa gamme de lampes et ses ingénieurs.",
+        "Le directeur général de Gavita International, Marc Salvany, reconnaît une période difficile pour le secteur. Il dit vouloir préserver ce qu'Hortilux a apporté aux cultivateurs, et discute avec certains salariés pour qu'ils rejoignent l'entreprise."
+      ]
+    },
+    {
+      "intertitre": "Les dettes restent dans la faillite",
+      "paragraphes": [
+        "Le rachat ne couvre pas les obligations antérieures d'Hortilux Schréder. Les contrats en cours et les demandes de garantie restent traités dans le cadre de la procédure de faillite.",
+        "Dans les prochaines semaines, Gavita doit passer en revue les deux catalogues et les marchés couverts, pour décider comment les deux marques serviront les serristes. Huub Welles, directeur commercial, promet de contacter directement les clients d'Hortilux pour organiser la transition."
+      ]
+    },
+    {
+      "intertitre": "Un secteur sous pression",
+      "paragraphes": [
+        "L'éclairage d'appoint permet de cultiver tomates, fleurs ou salades en hiver, quand la lumière naturelle manque, et il est indispensable dans les fermes verticales. Les fabricants doivent aujourd'hui composer avec des producteurs plus prudents dans leurs investissements."
+      ]
+    }
+  ],
+  "mots": 300,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "NL"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9887083/prohort-lighting-solutions-bv-parent-company-of-gavita-international-bv-acquires-hortilux-brand/",
+  "autres_sources": [
+    "https://www.verticalfarmdaily.com/article/9887083/prohort-lighting-solutions-bv-parent-company-of-gavita-international-bv-acquires-hortilux-brand/"
+  ],
+  "publie_le": "2026-10-28T13:24:00.000Z",
+  "redige_le": "2026-10-29T11:22:58.463Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/0cd3f42aa166d00815a685eddc5fb73b7ff174d7.webp",
+    "source": "openverse",
+    "credit": "yellowcloud",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/63794141@N00/4240017317",
+    "alt": "Des plantes cultivées sous des lampes dans une serre",
+    "mots_cles": [
+      "led grow light plants"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

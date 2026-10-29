@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-10-28T18:21:44.248Z",
+  "genere_le": "2026-10-29T11:22:00.790Z",
   "articles": [
+    {
+      "id": "4c14ebb0deb34da9c28fafd195a1c45ee44f6359",
+      "slug": "prix-renaudot-osvalde-lewat-finaliste-thelyson-orelien-ecarte-4c14eb",
+      "titre": "Prix Renaudot : Osvalde Lewat finaliste, Thélyson Orélien écarté",
+      "publie_le": "2026-10-29T01:52:14.000Z",
+      "redige_le": "2026-10-29T11:21:57.404Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/4c14ebb0deb34da9c28fafd195a1c45ee44f6359.json"
+    },
     {
       "id": "58e2a3b715877b5cdeb62ef466ef3749182137aa",
       "slug": "soufiane-khaloua-un-premier-roman-ete-entre-deux-clans-rivaux-58e2a3",

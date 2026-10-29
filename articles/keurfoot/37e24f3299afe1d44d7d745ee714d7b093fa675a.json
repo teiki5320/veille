@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "37e24f3299afe1d44d7d745ee714d7b093fa675a",
+  "slug": "mondial-u15-plus-equipe-africaine-pour-le-titre-le-senegal-et-la-37e24f",
+  "titre": "Mondial U15 : plus d'équipe africaine pour le titre, le Sénégal et la Tunisie en demies",
+  "chapo": "Le premier Mondial U15 organisé par la FIFA ne sera pas gagné par une sélection africaine. Plusieurs équipes du continent restent toutefois en course dans les divisions inférieures, à Bakou.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jeudi 29 octobre, les deux dernières équipes africaines engagées dans la Ligue A, celle qui attribue le titre, ont quitté la compétition en quarts de finale. Le Ghana a cédé face au Paraguay lors de la séance de tirs au but après un nul 2-2. La Guinée, elle, a perdu 2-1 contre la Grèce.",
+        "Le tournoi se joue près de la capitale de l'Azerbaïdjan. Les sélections sont réparties en plusieurs ligues selon leurs résultats du premier tour, et une équipe battue continue de jouer des matchs de classement."
+      ]
+    },
+    {
+      "intertitre": "Le Sénégal assuré d'un finaliste africain en Ligue B",
+      "paragraphes": [
+        "Les Lionceaux ont dominé Madagascar 4-0 en quarts de finale, avec un doublé d'Abdoulaye Diallo, déjà auteur de trois buts contre le Costa Rica la veille. Ils affrontent la Zambie en demi-finale : un pays africain sera donc forcément en finale de cette division.",
+        "Un étage plus bas, en Ligue C, les jeunes Tunisiens ont surpris la France (5-3). En Ligue D, la RD Congo a été éliminée par la Somalie (0-4), qui poursuit sa route. La Centrafrique, le Tchad, le Gabon et l'Éthiopie restent en lice dans les divisions suivantes."
+      ]
+    },
+    {
+      "intertitre": "Maroc et Cameroun en difficulté",
+      "paragraphes": [
+        "Sorti dès les huitièmes par le Paraguay (0-1), le Maroc a encore perdu en match de classement, cette fois 3-0 contre le Mexique. Le Cameroun a été largement battu par la Russie (2-9).",
+        "L'Algérie de Karim Ziani, éliminée par la Guinée puis battue par l'Albanie, a fini par gagner contre l'Estonie (2-1). Victoire 2-1 de la Côte d'Ivoire face au Soudan du Sud, défaite 2-0 du Mali contre le Niger."
+      ]
+    },
+    {
+      "intertitre": "Les derniers matchs vendredi",
+      "paragraphes": [
+        "Les finales des six ligues sont programmées jusqu'au vendredi 30 octobre. Le Sénégal et la Tunisie peuvent encore conclure leur tournoi par un trophée."
+      ]
+    }
+  ],
+  "mots": 321,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "TN",
+    "GN",
+    "GH"
+  ],
+  "competition": "Coupe du monde U15",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-le-titre-echappe-a-lafrique-lalgerie-se-reprend-pas-le-maroc-la-tunisie-sort-la-france-le-senegal-en-demi-finales-b",
+  "autres_sources": [
+    "https://www.afrik-foot.com/coupe-du-monde-u15-le-maroc-et-lalgerie-chutent-le-senegal-et-le-cameroun-passent-la-cote-divoire-battue",
+    "https://wiwsport.com/2026/10/29/mondial-u15-le-senegal-domine-madagascar-4-0-et-file-en-demi-finales-de-la-division-b/",
+    "https://africatopsports.com/football/mondial-u15-la-rdc-eliminee-en-quarts-par-la-somalie/",
+    "https://africatopsports.com/football/coupe-du-monde-u15-2026-le-niger-domine-le-mali-et-termine-sur-une-victoire/",
+    "https://www.camfoot.com/actualites/mondial-u15-cameroun-chypre-russie-classement,559113.html"
+  ],
+  "publie_le": "2026-10-29T10:12:52.000Z",
+  "redige_le": "2026-10-29T11:22:49.855Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/37e24f3299afe1d44d7d745ee714d7b093fa675a.webp",
+    "source": "wikimedia",
+    "credit": "AlixSaz",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Baku_Funicular.jpg",
+    "alt": "Vue de Bakou, capitale de l'Azerbaïdjan, ville hôte du Mondial U15",
+    "mots_cles": [
+      "Baku"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

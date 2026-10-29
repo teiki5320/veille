@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-10-28T18:21:44.254Z",
+  "genere_le": "2026-10-29T11:22:49.845Z",
   "articles": [
+    {
+      "id": "4f250ce14e9fdc2cb343c1e219c840a7fa8e711a",
+      "slug": "biennale-de-venise-166-artisans-marocains-derriere-installation-amina-4f250c",
+      "titre": "Biennale de Venise : 166 artisans marocains derrière l'installation d'Amina Agueznay",
+      "publie_le": "2026-10-29T10:56:02.000Z",
+      "redige_le": "2026-10-29T11:22:06.291Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/4f250ce14e9fdc2cb343c1e219c840a7fa8e711a.json"
+    },
     {
       "id": "ab13af92079ba405558865e3917e7283ae097447",
       "slug": "paris-un-appartement-de-120-repense-autour-une-collection-art-africain-ab13af",
@@ -26,6 +34,14 @@
       "publie_le": "2026-10-26T15:30:01.000Z",
       "redige_le": "2026-10-28T00:34:33.587Z",
       "url": "https://teiki5320.github.io/veille/articles/keurdeco/fe9913ba94141df44f26f6e57e7c80da2e12a147.json"
+    },
+    {
+      "id": "0eb7a3ea1d542cb33cbe11ccb62b3b2c7699b0c7",
+      "slug": "rabat-rassane-fadili-dessine-la-ville-depuis-interieur-des-maisons-0eb7a3",
+      "titre": "Rabat : Rassane Fadili dessine la ville depuis l'intérieur des maisons",
+      "publie_le": "2026-10-26T11:48:32.000Z",
+      "redige_le": "2026-10-29T11:22:06.291Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/0eb7a3ea1d542cb33cbe11ccb62b3b2c7699b0c7.json"
     },
     {
       "id": "9392e2b4a69303a76b89444472e3751bd1ba5ffa",

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "b86e9c7933f0d09fdb977580faa433a806ec9c56",
+  "slug": "benin-ananas-pain-de-sucre-allada-veut-seduire-europe-et-la-chine-b86e9c",
+  "titre": "Bénin : l'ananas pain de sucre d'Allada veut séduire l'Europe et la Chine",
+  "chapo": "Le Bénin veut faire découvrir hors de ses frontières l'ananas pain de sucre, fruit phare d'Allada, un plateau du sud du pays. Sa particularité : il reste vert quand il est mûr, et sa saveur est très sucrée.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Selon un reportage de RFI publié le 29 octobre, Cotonou veut accélérer les envois de ce fruit vers l'Europe et la Chine. Il bénéficie depuis six ans d'une indication géographique protégée, qui le rattache à son terroir du sud du pays.",
+        "Pour garder toutes ses qualités gustatives, il voyage en avion. Il arrive sur le marché européen en une journée, puis dans les cuisines en trois ou quatre jours."
+      ]
+    },
+    {
+      "intertitre": "Un goût de miel, une peau verte",
+      "paragraphes": [
+        "Tiranké Kaké, qui dirige une société de fruits et légumes au marché de Rungis, compare sa saveur à celle du miel. Mais en Europe, beaucoup associent encore un ananas jaune à un fruit mûr. Pour elle comme pour Éric Akoute, directeur de l'agence béninoise chargée des exportations, il faut donc raconter l'histoire de ce fruit et apprendre aux gourmands à le reconnaître."
+      ]
+    },
+    {
+      "intertitre": "Une petite part de la récolte quitte le pays",
+      "paragraphes": [
+        "Chaque année, le pays récolte environ 500 000 tonnes de cette variété, mais seules 6 000 tonnes partent à l'étranger. La France reçoit 60 % de ces envois. Une convention a été signée avec la Chine, où les premières livraisons ont commencé, et le fruit doit être présenté à la foire de Shanghai.",
+        "Les importateurs demandent toutefois des fruits plus réguliers en taille et en qualité, car le long trajet ne pardonne pas les écarts. Tiranké Kaké appelle les producteurs à travailler en ce sens."
+      ]
+    },
+    {
+      "intertitre": "Un quai fruitier à l'aéroport",
+      "paragraphes": [
+        "Pour mieux préserver la chaîne du froid, un quai réservé aux fruits doit ouvrir ces prochains jours sur le site aéroportuaire de Cotonou. Au Bénin, l'ananas se déguste nature, en jus ou en salade de fruits, et le pain de sucre reste la variété préférée sur les marchés du sud."
+      ]
+    }
+  ],
+  "mots": 325,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "BJ"
+  ],
+  "source_nom": "RFI",
+  "source_url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261028-l-ananas-pain-de-sucre-b%C3%A9ninois-veut-se-faire-une-place-%C3%A0-l-international",
+  "publie_le": "2026-10-28T23:02:43.000Z",
+  "redige_le": "2026-10-29T11:22:00.797Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/b86e9c7933f0d09fdb977580faa433a806ec9c56.webp",
+    "source": "wikimedia",
+    "credit": "Azogbonon",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ananas_de_la_vari%C3%A9t%C3%A9_pain_de_sucre_du_B%C3%A9nin.jpg",
+    "alt": "Un ananas pain de sucre du Bénin",
+    "mots_cles": [
+      "Ananas pain de sucre"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

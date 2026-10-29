@@ -1,8 +1,44 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-28T18:21:44.241Z",
+  "genere_le": "2026-10-29T11:21:57.404Z",
   "actus": [
+    {
+      "id": "4c14ebb0deb34da9c28fafd195a1c45ee44f6359",
+      "titre": "Prix Renaudot : Osvalde Lewat finaliste, Thélyson Orélien écarté",
+      "resume": "Le jury du Renaudot a retenu six romans pour sa liste finale, dont « Un corps indocile » de la Camerounaise Osvalde Lewat. Le livre du Canado-Haïtien Thélyson Orélien, soupçonné d'avoir été écrit avec l'aide de l'IA, n'y figure plus. Le lauréat sera connu le 3 novembre.",
+      "theme": "livres",
+      "pays": [
+        "CM",
+        "HT"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/livres/article/2026/10/29/thelyson-orelien-ecarte-de-la-liste-des-finalistes-du-prix-renaudot_6801843_3260.html",
+      "autres_sources": [
+        "http://www.livreshebdo.fr/article/les-finalistes-du-prix-renaudot-2026",
+        "https://beninwebtv.bj/litterature-osvalde-lewat-ausculte-les-blessures-de-lexil-et-du-travail-dans-un-corps-indocile/",
+        "https://cameroon-tribune.cm/article.html/80411/fr.html/details_2"
+      ],
+      "publie_le": "2026-10-29T01:52:14.000Z",
+      "collecte_le": "2026-10-29T11:21:57.404Z",
+      "langue": "fr",
+      "slug": "prix-renaudot-osvalde-lewat-finaliste-thelyson-orelien-ecarte-4c14eb",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/4c14ebb0deb34da9c28fafd195a1c45ee44f6359.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/4c14ebb0deb34da9c28fafd195a1c45ee44f6359.webp",
+        "source": "wikimedia",
+        "credit": "Chrislinlopez",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Osvalde_Lewat.jpg",
+        "alt": "Osvalde Lewat, romancière et réalisatrice d'origine camerounaise",
+        "mots_cles": [
+          "Osvalde Lewat"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "58e2a3b715877b5cdeb62ef466ef3749182137aa",
       "titre": "Soufiane Khaloua, un premier roman d'été entre deux clans rivaux",

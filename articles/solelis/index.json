@@ -1,7 +1,7 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-28T18:25:08.604Z",
+  "genere_le": "2026-10-29T11:24:23.986Z",
   "articles": [
     {
       "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",
@@ -10,6 +10,14 @@
       "publie_le": "2026-10-28T12:10:32.000Z",
       "redige_le": "2026-10-28T18:24:57.881Z",
       "url": "https://teiki5320.github.io/veille/articles/solelis/a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8.json"
+    },
+    {
+      "id": "db61d0c63f410b036b7feb9e7ce7cb73525076d7",
+      "slug": "papeterie-de-saint-gaudens-pas-offre-ferme-200-investissement-db61d0",
+      "titre": "Papeterie de Saint-Gaudens : pas d'offre ferme, 200 M€ d'investissement envisagés",
+      "publie_le": "2026-10-28T12:10:06.000Z",
+      "redige_le": "2026-10-29T11:24:17.510Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/db61d0c63f410b036b7feb9e7ce7cb73525076d7.json"
     },
     {
       "id": "0bf71162ab118deb36af95fb16b94cd11cf0bd00",
@@ -34,6 +42,14 @@
       "publie_le": "2026-10-27T15:50:42.000Z",
       "redige_le": "2026-10-28T00:34:25.357Z",
       "url": "https://teiki5320.github.io/veille/articles/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.json"
+    },
+    {
+      "id": "2af0ee11252bf40e415a0a47df7bcf805323a145",
+      "slug": "factures-impayees-entre-commercants-le-recouvrement-sans-juge-precise-2af0ee",
+      "titre": "Factures impayées entre commerçants : le recouvrement sans juge précisé par décret",
+      "publie_le": "2026-10-27T11:04:32.000Z",
+      "redige_le": "2026-10-29T11:24:17.510Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/2af0ee11252bf40e415a0a47df7bcf805323a145.json"
     },
     {
       "id": "7fe1d1dfaebf3c6be3ab2601f2c57278cb728159",

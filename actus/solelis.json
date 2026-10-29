@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-28T18:24:57.881Z",
+  "genere_le": "2026-10-29T11:24:17.510Z",
   "actus": [
     {
       "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",
@@ -31,6 +31,36 @@
         "alt": "Serge Papin, ministre du Commerce",
         "mots_cles": [
           "Serge Papin"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "db61d0c63f410b036b7feb9e7ce7cb73525076d7",
+      "titre": "Papeterie de Saint-Gaudens : pas d'offre ferme, 200 M€ d'investissement envisagés",
+      "resume": "Fibre Excellence Saint-Gaudens, 238 salariés, n'a reçu aucune offre ferme avant le 22 octobre. Un industriel portugais, Ghost, prépare avec les pouvoirs publics un plan chiffré à 200 millions d'euros. Une audience est prévue début novembre au tribunal de commerce.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Journal des Entreprises",
+      "source_url": "https://www.lejournaldesentreprises.com/article/fibre-excellence-saint-gaudens-un-projet-de-reprise-200-millions-deuros-2148206",
+      "publie_le": "2026-10-28T12:10:06.000Z",
+      "collecte_le": "2026-10-29T11:24:17.510Z",
+      "langue": "fr",
+      "slug": "papeterie-de-saint-gaudens-pas-offre-ferme-200-investissement-db61d0",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/db61d0c63f410b036b7feb9e7ce7cb73525076d7.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/db61d0c63f410b036b7feb9e7ce7cb73525076d7.webp",
+        "source": "wikimedia",
+        "credit": "Didier Descouens",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Coll%C3%A9giale_Saint-Pierre_et_Saint-Gaudens.jpg",
+        "alt": "La ville de Saint-Gaudens, en Haute-Garonne",
+        "mots_cles": [
+          "Saint-Gaudens"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -139,6 +169,39 @@
       "slug": "manifestations-octobre-cci-france-chiffre-les-degats-subis-par-les-bd0b49",
       "article_url": "https://teiki5320.github.io/veille/articles/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.json",
       "lecture_min": 2
+    },
+    {
+      "id": "2af0ee11252bf40e415a0a47df7bcf805323a145",
+      "titre": "Factures impayées entre commerçants : le recouvrement sans juge précisé par décret",
+      "resume": "Un décret d'octobre précise une procédure votée au printemps : un commissaire de justice pourra obtenir un titre exécutoire contre un client professionnel qui laisse une facture impayée sans la contester. Le dispositif doit s'appliquer avant la fin de l'année.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-fournisseurs"
+      ],
+      "source_nom": "Le Journal des Entreprises",
+      "source_url": "https://www.lejournaldesentreprises.com/article/un-decret-fixe-le-cadre-dun-recouvrement-sans-juge-des-impayes-entre-commercants-2148182",
+      "publie_le": "2026-10-27T11:04:32.000Z",
+      "collecte_le": "2026-10-29T11:24:17.510Z",
+      "langue": "fr",
+      "slug": "factures-impayees-entre-commercants-le-recouvrement-sans-juge-precise-2af0ee",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/2af0ee11252bf40e415a0a47df7bcf805323a145.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/2af0ee11252bf40e415a0a47df7bcf805323a145.webp",
+        "source": "wikimedia",
+        "credit": "Rudy 40",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Gare_facture_biganos.JPG",
+        "alt": "Une facture papier",
+        "mots_cles": [
+          "Facture"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
     },
     {
       "id": "7fe1d1dfaebf3c6be3ab2601f2c57278cb728159",

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "5912c83d3258812e9337c643a41dbcf001187f83",
+  "slug": "detroit-la-plus-grande-ferme-verticale-du-michigan-cesse-son-activite-5912c8",
+  "titre": "Détroit : la plus grande ferme verticale du Michigan cesse son activité et sera vendue",
+  "chapo": "Planted Detroit, devenue la plus grande ferme verticale du Michigan, met fin à ses activités en novembre. Son site industriel et tout son équipement de culture sont proposés à la vente.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La société d'enchères SecondBloom a annoncé une vente sur offres cachetées du campus de Planted Detroit, situé dans le corridor industriel est de la ville. Le lot réunit deux bâtiments rénovés, d'environ 3 500 m² au total, et une unité complète de culture en environnement contrôlé et de transformation alimentaire.",
+        "L'entreprise avait démarré en 2018. Elle doit arrêter la production en novembre 2026."
+      ]
+    },
+    {
+      "intertitre": "Un équipement de près de 17 millions de dollars",
+      "paragraphes": [
+        "Entre 2019 et 2023, Planted Detroit a investi environ 16,9 millions de dollars dans le site. On y trouve deux systèmes automatisés de culture en NFT, une technique où les racines baignent dans un mince film de solution nutritive, et 98 étagères de culture mobiles.",
+        "S'y ajoutent une pépinière, une salle de récolte, un atelier de transformation aux normes alimentaires, des chambres froides, la climatisation des salles de culture et des groupes électrogènes. La surface cultivée atteint environ 2 600 m². Le site possède une certification de bonnes pratiques agricoles délivrée par le ministère américain de l'Agriculture."
+      ]
+    },
+    {
+      "intertitre": "Reprendre sans construire",
+      "paragraphes": [
+        "Blake Lange, cofondateur de SecondBloom, met en avant la possibilité de récupérer une ferme déjà en service, sans les deux ans habituellement nécessaires pour en bâtir une. Selon lui, l'irrigation, l'éclairage et les systèmes automatisés coûteraient bien plus cher à refaire que le terrain lui-même.",
+        "Il attend des offres d'exploitants de fermes en intérieur, mais aussi d'industriels de l'alimentation ou d'autres secteurs. Le zonage des parcelles autorise la transformation alimentaire, la fabrication, l'entreposage et les laboratoires."
+      ]
+    },
+    {
+      "intertitre": "Un secteur qui se resserre",
+      "paragraphes": [
+        "Cette fermeture s'ajoute à d'autres arrêts de fermes verticales aux États-Unis ces dernières années. Le repreneur pourra choisir de continuer à produire des légumes ou de donner une autre vocation au site."
+      ]
+    }
+  ],
+  "mots": 316,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9887034/secondbloom-auctions-to-offer-planted-detroit-s-largest-vertical-farm-in-sealed-bid-sale/",
+  "autres_sources": [
+    "https://www.verticalfarmdaily.com/article/9887034/secondbloom-auctions-to-offer-planted-detroit-s-largest-vertical-farm-in-sealed-bid-sale/"
+  ],
+  "publie_le": "2026-10-28T13:24:00.000Z",
+  "redige_le": "2026-10-29T11:22:58.463Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/5912c83d3258812e9337c643a41dbcf001187f83.webp",
+    "source": "wikimedia",
+    "credit": "User21343321",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Detroit_montage_2020.jpg",
+    "alt": "Vue de la ville de Détroit, dans le Michigan",
+    "mots_cles": [
+      "Detroit"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

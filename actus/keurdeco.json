@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-10-28T18:21:44.252Z",
+  "genere_le": "2026-10-29T11:22:06.291Z",
   "actus": [
+    {
+      "id": "4f250ce14e9fdc2cb343c1e219c840a7fa8e711a",
+      "titre": "Biennale de Venise : 166 artisans marocains derrière l'installation d'Amina Agueznay",
+      "resume": "Pour le premier pavillon national officiel du Maroc à la Biennale d'art de Venise, l'artiste Amina Agueznay et la commissaire Meriem Berrada présentent Asǝṭṭa. Laine, raphia et broderies tombent de hautes structures d'acier, fruit du travail de 166 artisans du pays.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "tags": [
+        "matiere:raphia-paniers"
+      ],
+      "source_nom": "Art Africa",
+      "source_url": "https://artafricamagazine.org/ase%e1%b9%ad%e1%b9%ada-the-living-architecture-of-memory-at-moroccos-venice-biennale-2026-pavilion/",
+      "publie_le": "2026-10-29T10:56:02.000Z",
+      "collecte_le": "2026-10-29T11:22:06.291Z",
+      "langue": "en",
+      "slug": "biennale-de-venise-166-artisans-marocains-derriere-installation-amina-4f250c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/4f250ce14e9fdc2cb343c1e219c840a7fa8e711a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurdeco/4f250ce14e9fdc2cb343c1e219c840a7fa8e711a.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Déco",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Déco avec le drapeau national (Maroc) et la mention « Déco »",
+        "mots_cles": [
+          "Arsenale di Venezia",
+          "moroccan weaving wool",
+          "woven textile installation"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ab13af92079ba405558865e3917e7283ae097447",
       "titre": "Paris : un appartement de 120 m² repensé autour d'une collection d'art africain",
@@ -95,6 +130,36 @@
       "slug": "ibrahim-mahama-investit-la-fondation-cartier-avec-le-temps-des-fe9913",
       "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/fe9913ba94141df44f26f6e57e7c80da2e12a147.json",
       "lecture_min": 2
+    },
+    {
+      "id": "0eb7a3ea1d542cb33cbe11ccb62b3b2c7699b0c7",
+      "titre": "Rabat : Rassane Fadili dessine la ville depuis l'intérieur des maisons",
+      "resume": "Formé à l'architecture, Rassane Fadili s'est tourné vers le dessin d'observation. Ce professeur d'arts plastiques de Rabat représente les monuments de la ville vus depuis les salons qui leur font face, et peint aussi des fresques pour des restaurants et des espaces de travail.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/arts/le-maroc-illustre-rassane-fadili-vues-de-linterieur",
+      "publie_le": "2026-10-26T11:48:32.000Z",
+      "collecte_le": "2026-10-29T11:22:06.291Z",
+      "langue": "fr",
+      "slug": "rabat-rassane-fadili-dessine-la-ville-depuis-interieur-des-maisons-0eb7a3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/0eb7a3ea1d542cb33cbe11ccb62b3b2c7699b0c7.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/0eb7a3ea1d542cb33cbe11ccb62b3b2c7699b0c7.webp",
+        "source": "wikimedia",
+        "credit": "J. N'Demenye",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:MMVI.JPG",
+        "alt": "Le Musée Mohammed VI d'art moderne et contemporain, à Rabat",
+        "mots_cles": [
+          "Musée Mohammed VI d'art moderne et contemporain"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
     },
     {
       "id": "9392e2b4a69303a76b89444472e3751bd1ba5ffa",

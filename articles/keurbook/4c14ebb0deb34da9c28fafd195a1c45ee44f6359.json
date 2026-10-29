@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "4c14ebb0deb34da9c28fafd195a1c45ee44f6359",
+  "slug": "prix-renaudot-osvalde-lewat-finaliste-thelyson-orelien-ecarte-4c14eb",
+  "titre": "Prix Renaudot : Osvalde Lewat finaliste, Thélyson Orélien écarté",
+  "chapo": "Osvalde Lewat fait partie des six romanciers encore en course pour le prix Renaudot 2026. Le jury, présidé par Frédéric Beigbeder, a en revanche retiré de sa liste le roman de Thélyson Orélien.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Mercredi 28 octobre, les jurés du Renaudot ont publié leurs finalistes. Dans la catégorie roman figure « Un corps indocile » (Philippe Rey), de l'écrivaine franco-camerounaise Osvalde Lewat, aux côtés de François-Henri Désérable, David Djaïz, Patrice Jean, Anne Percin et Marie Petitcuénot. Quatre essais sont aussi en lice. Les prix seront remis le 3 novembre chez Drouant, juste après le Goncourt."
+      ]
+    },
+    {
+      "intertitre": "Un couturier pris dans la mondialisation",
+      "paragraphes": [
+        "Paru en août, le livre suit Deffo, couturier africain établi à Paris. Une douleur que les médecins n'expliquent pas ruine peu à peu son travail comme sa vie amoureuse. Le héros rentre alors au Zambuena, un État fictif que l'autrice avait déjà mis en scène, afin d'y trouver un remède traditionnel, et finit ouvrier dans une usine textile détenue par des capitaux chinois.",
+        "Le récit s'ouvre après un meurtre et remonte jusqu'à lui. L'exil, la fragilité masculine et la précarité au travail traversent ce deuxième roman. Le premier, « Les Aquatiques » (2021), avait reçu le prix Ahmadou-Kourouma et le Grand Prix panafricain de littérature. Osvalde Lewat est aussi photographe et réalisatrice.",
+        "Une autre Camerounaise, Hemley Boum, figurait dans la première sélection du prix avec « Nos vies sauvages »."
+      ]
+    },
+    {
+      "intertitre": "L'affaire Orélien tranchée",
+      "paragraphes": [
+        "Le jury avait étonné début octobre en gardant dans sa deuxième liste le roman de Thélyson Orélien, publié par Grasset, alors que des soupçons d'écriture assistée par IA pesaient déjà sur lui. L'auteur contestait ces accusations.",
+        "Mais il y a quelques jours, la maison qui le publie au Canada a rompu avec lui, en considérant que l'IA avait bien servi à l'écriture. Pour le secrétaire général du prix, Georges-Olivier Châteaureynaud, le livre ne pouvait plus rester en lice dès lors que cet éditeur avait coupé les ponts.",
+        "Ce récit d'une fuite hors d'un Haïti livré à la violence s'était très bien vendu à l'automne. Il avait déjà quitté la course au Goncourt et n'avait pas été retenu dans la deuxième liste du Femina."
+      ]
+    }
+  ],
+  "mots": 356,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "CM",
+    "HT"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/livres/article/2026/10/29/thelyson-orelien-ecarte-de-la-liste-des-finalistes-du-prix-renaudot_6801843_3260.html",
+  "autres_sources": [
+    "http://www.livreshebdo.fr/article/les-finalistes-du-prix-renaudot-2026",
+    "https://beninwebtv.bj/litterature-osvalde-lewat-ausculte-les-blessures-de-lexil-et-du-travail-dans-un-corps-indocile/",
+    "https://cameroon-tribune.cm/article.html/80411/fr.html/details_2"
+  ],
+  "publie_le": "2026-10-29T01:52:14.000Z",
+  "redige_le": "2026-10-29T11:21:57.404Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/4c14ebb0deb34da9c28fafd195a1c45ee44f6359.webp",
+    "source": "wikimedia",
+    "credit": "Chrislinlopez",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Osvalde_Lewat.jpg",
+    "alt": "Osvalde Lewat, romancière et réalisatrice d'origine camerounaise",
+    "mots_cles": [
+      "Osvalde Lewat"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

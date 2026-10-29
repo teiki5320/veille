@@ -1,8 +1,69 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-10-28T18:21:44.249Z",
+  "genere_le": "2026-10-29T11:22:00.797Z",
   "actus": [
+    {
+      "id": "9dc36264b83f463e4194ea88006de9f4bad725fd",
+      "titre": "À Gragnano, capitale italienne des pâtes, une cheffe dakaroise signe un ragù sénégalais",
+      "resume": "Pour le festival Mondopasta de Gragnano, près de Naples, la cheffe Astou Ndiaye, née à Dakar et installée à Milan, a créé un ragù d'inspiration sénégalaise. L'autrice culinaire Rachel Roddy en publie la recette dans The Guardian : agneau mariné aux herbes et aux clous de girofle, puis mijoté.",
+      "theme": "cuisine",
+      "pays": [
+        "SN",
+        "IT"
+      ],
+      "source_nom": "The Guardian",
+      "source_url": "https://www.theguardian.com/food/2026/oct/29/pasta-with-senegalese-inspired-ragu-recipe-rachel-roddy",
+      "publie_le": "2026-10-29T06:00:24.000Z",
+      "collecte_le": "2026-10-29T11:22:00.797Z",
+      "langue": "en",
+      "slug": "gragnano-capitale-italienne-des-pates-une-cheffe-dakaroise-signe-un-9dc362",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/9dc36264b83f463e4194ea88006de9f4bad725fd.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/9dc36264b83f463e4194ea88006de9f4bad725fd.webp",
+        "source": "wikimedia",
+        "credit": "LigaDue",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:GragnanoCapannoriBorgo1.jpg",
+        "alt": "La ville de Gragnano, près de Naples, réputée pour ses pâtes",
+        "mots_cles": [
+          "Gragnano"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "b86e9c7933f0d09fdb977580faa433a806ec9c56",
+      "titre": "Bénin : l'ananas pain de sucre d'Allada veut séduire l'Europe et la Chine",
+      "resume": "Protégé par une indication géographique depuis six ans, l'ananas pain de sucre du plateau d'Allada voyage en avion pour garder son goût. Le Bénin en produit 500 000 tonnes par an mais n'en exporte que 6 000, et veut faire connaître ce fruit vert à maturité.",
+      "theme": "cuisine",
+      "pays": [
+        "BJ"
+      ],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261028-l-ananas-pain-de-sucre-b%C3%A9ninois-veut-se-faire-une-place-%C3%A0-l-international",
+      "publie_le": "2026-10-28T23:02:43.000Z",
+      "collecte_le": "2026-10-29T11:22:00.797Z",
+      "langue": "fr",
+      "slug": "benin-ananas-pain-de-sucre-allada-veut-seduire-europe-et-la-chine-b86e9c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/b86e9c7933f0d09fdb977580faa433a806ec9c56.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/b86e9c7933f0d09fdb977580faa433a806ec9c56.webp",
+        "source": "wikimedia",
+        "credit": "Azogbonon",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ananas_de_la_vari%C3%A9t%C3%A9_pain_de_sucre_du_B%C3%A9nin.jpg",
+        "alt": "Un ananas pain de sucre du Bénin",
+        "mots_cles": [
+          "Ananas pain de sucre"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb",
       "titre": "Mory Sacko, de Top Chef à la couverture du Time en six ans",

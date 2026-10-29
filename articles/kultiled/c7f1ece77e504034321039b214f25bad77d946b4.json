@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "c7f1ece77e504034321039b214f25bad77d946b4",
+  "slug": "afrique-du-sud-des-fraises-hors-sol-cultivees-toute-annee-sous-22-c7f1ec",
+  "titre": "Afrique du Sud : des fraises hors-sol cultivées toute l'année sous 22 serres",
+  "chapo": "En Afrique du Sud, une exploitation de la commune de Merafong produit des fraises en continu grâce à la culture hors-sol sous serre. Elle a fortement grandi depuis 2020.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Vusi's Farm a été rachetée en 2020 par la société d'investissement Menar. Elle comptait alors trois serres multichapelles. Elle en a aujourd'hui 22, longues de 136 mètres et larges de 40.",
+        "Plus de deux millions de plants y sont cultivés, et 600 000 autres en plein champ. À pleine capacité, la ferme récolte environ 850 tonnes de fraises par an. Plusieurs variétés sont choisies selon le climat, les modes de culture et la tenue des fruits, et leur répartition change d'une saison à l'autre."
+      ]
+    },
+    {
+      "intertitre": "Pas de terre sous les serres",
+      "paragraphes": [
+        "Les fraisiers poussent dans de la fibre de coco importée du Sri Lanka. Ce substrat est conditionné en sacs plats, gonflés et préparés avant la plantation. Des goutteurs apportent l'eau et les engrais dissous directement aux racines par des trous percés dans les sacs : c'est la fertirrigation.",
+        "Les plants sont posés sur 155 km de gouttières hydroponiques. En les surélevant, ce dispositif limite les maladies venues du sol. La plupart des jeunes plants viennent de la pépinière de la ferme."
+      ]
+    },
+    {
+      "intertitre": "Un suivi par échantillons",
+      "paragraphes": [
+        "Plutôt que de contrôler chaque sac, l'équipe prélève des échantillons à une dizaine d'endroits dans chaque serre. Elle mesure la conductivité électrique, qui indique la quantité de sels minéraux dissous, et le pH. Les moyennes servent ensuite à ajuster l'alimentation des plantes.",
+        "Le reportage a été réalisé par le magazine African Farming avec Etzard Grimbeek, directeur de l'exploitation, et James Ueckermann, chargé des ventes et du suivi des cultures."
+      ]
+    },
+    {
+      "intertitre": "Une méthode utile aussi à la maison",
+      "paragraphes": [
+        "Le principe se retrouve à petite échelle chez les jardiniers d'intérieur : une fraise cultivée hors-sol, dans un substrat inerte arrosé d'une solution nutritive, se surveille avec les mêmes repères de pH et de conductivité."
+      ]
+    }
+  ],
+  "mots": 315,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "ZA"
+  ],
+  "tags": [
+    "legume:fraise"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9887024/south-africa-how-vusi-s-farm-produces-strawberries-year-round/",
+  "publie_le": "2026-10-28T13:55:00.000Z",
+  "redige_le": "2026-10-29T11:22:58.463Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/kultiled/c7f1ece77e504034321039b214f25bad77d946b4.svg",
+    "source": "carte",
+    "credit": "Illustration : Kultiled",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Kultiled avec la mention « Culture en intérieur »",
+    "mots_cles": [
+      "Strawberry greenhouse hydroponic",
+      "strawberry greenhouse",
+      "hydroponic strawberries"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

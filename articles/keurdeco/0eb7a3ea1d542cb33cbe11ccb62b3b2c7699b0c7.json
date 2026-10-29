@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "0eb7a3ea1d542cb33cbe11ccb62b3b2c7699b0c7",
+  "slug": "rabat-rassane-fadili-dessine-la-ville-depuis-interieur-des-maisons-0eb7a3",
+  "titre": "Rabat : Rassane Fadili dessine la ville depuis l'intérieur des maisons",
+  "chapo": "Le dessinateur marocain Rassane Fadili représente les bâtiments de Rabat tels qu'on les aperçoit depuis la fenêtre d'un salon. Une manière de lier le décor des maisons au patrimoine de la ville.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le magazine Maisons du Maroc consacre un portrait à cet illustrateur de Rabat. Il a suivi des études d'architecture en espérant y trouver une large place pour le dessin. Déçu sur ce point après ses stages, il a changé de voie, sans regret.",
+        "Il travaille d'abord sur le motif, son carnet sur les genoux, face à une façade ou à une rue. Selon lui, cette méthode oblige à vraiment regarder, ce que ne permet pas une photo. Il arrondit parfois un angle ou corrige une perspective, ce qui donne à ses planches un style reconnaissable. Il compose aussi des architectures imaginaires à partir de lieux traversés."
+      ]
+    },
+    {
+      "intertitre": "Des monuments vus depuis les salons",
+      "paragraphes": [
+        "En 2021, il a exposé une série sur les monuments de Rabat, dont le grand musée d'art contemporain de la capitale. Chaque bâtiment y est dessiné depuis l'intérieur d'une maison voisine. Sur des feuilles de 65 sur 50 cm, seule la partie visible par la fenêtre est en couleur. Le reste, c'est-à-dire la pièce et son mobilier, occupe presque toute la surface en noir et blanc.",
+        "L'idée : rappeler que le patrimoine ne se résume pas aux façades protégées. Il passe aussi par la façon dont chacun aménage son intérieur et regarde sa ville. La finesse du trait impose d'ailleurs un format minimum proche de l'A4."
+      ]
+    },
+    {
+      "intertitre": "Des fresques pour les lieux de vie",
+      "paragraphes": [
+        "Le dessin est une histoire de famille. Son grand-père fut, selon le magazine, le tout premier élève nord-africain des Arts déco à Paris. Sa mère, elle, a longtemps été professeure de dessin et de peinture dans un lycée français de Rabat. Lui-même enseigne aujourd'hui cette matière au collège Léon l'Africain.",
+        "Ses premières peintures murales sont nées au lycée, quand il a proposé de transformer les graffitis de la cafétéria en fresques collectives. Il a ensuite signé un mur pour le festival Jidar puis à Casablanca. Il répond désormais surtout à des commandes de restaurants et d'espaces de coworking, avec l'envie de faire entrer la rue dans les intérieurs."
+      ]
+    }
+  ],
+  "mots": 365,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/arts/le-maroc-illustre-rassane-fadili-vues-de-linterieur",
+  "publie_le": "2026-10-26T11:48:32.000Z",
+  "redige_le": "2026-10-29T11:22:06.291Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/0eb7a3ea1d542cb33cbe11ccb62b3b2c7699b0c7.webp",
+    "source": "wikimedia",
+    "credit": "J. N'Demenye",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MMVI.JPG",
+    "alt": "Le Musée Mohammed VI d'art moderne et contemporain, à Rabat",
+    "mots_cles": [
+      "Musée Mohammed VI d'art moderne et contemporain"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

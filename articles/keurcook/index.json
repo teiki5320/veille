@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-10-28T18:21:44.251Z",
+  "genere_le": "2026-10-29T11:22:06.279Z",
   "articles": [
+    {
+      "id": "9dc36264b83f463e4194ea88006de9f4bad725fd",
+      "slug": "gragnano-capitale-italienne-des-pates-une-cheffe-dakaroise-signe-un-9dc362",
+      "titre": "À Gragnano, capitale italienne des pâtes, une cheffe dakaroise signe un ragù sénégalais",
+      "publie_le": "2026-10-29T06:00:24.000Z",
+      "redige_le": "2026-10-29T11:22:00.797Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/9dc36264b83f463e4194ea88006de9f4bad725fd.json"
+    },
+    {
+      "id": "b86e9c7933f0d09fdb977580faa433a806ec9c56",
+      "slug": "benin-ananas-pain-de-sucre-allada-veut-seduire-europe-et-la-chine-b86e9c",
+      "titre": "Bénin : l'ananas pain de sucre d'Allada veut séduire l'Europe et la Chine",
+      "publie_le": "2026-10-28T23:02:43.000Z",
+      "redige_le": "2026-10-29T11:22:00.797Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/b86e9c7933f0d09fdb977580faa433a806ec9c56.json"
+    },
     {
       "id": "0d040e4c5cf7ebb8ceffc245f2e1c6f9eeeb17eb",
       "slug": "mory-sacko-de-top-chef-la-couverture-du-time-en-six-ans-0d040e",

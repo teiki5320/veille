@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "2af0ee11252bf40e415a0a47df7bcf805323a145",
+  "slug": "factures-impayees-entre-commercants-le-recouvrement-sans-juge-precise-2af0ee",
+  "titre": "Factures impayées entre commerçants : le recouvrement sans juge précisé par décret",
+  "chapo": "Les entreprises qui attendent le règlement d'une facture par un autre commerçant disposeront bientôt d'une voie rapide, sans passer devant un juge. Le décret d'application vient d'être publié.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Paru au Journal officiel le 21 octobre, le décret n° 2026-967 applique une loi votée en avril dernier (n° 2026-307). Ce texte a ouvert une voie de recouvrement propre aux factures entre commerçants, afin de soulager leur trésorerie. Un arrêté du ministre de la Justice fixera la date de départ, qui ne pourra pas dépasser la fin de 2026.",
+        "Les retards de paiement comptent parmi les principales causes de défaillance des TPE et des PME. Jusqu'ici, le créancier devait choisir entre la négociation amiable et une action en justice, par exemple une injonction de payer."
+      ]
+    },
+    {
+      "intertitre": "Un mois pour contester",
+      "paragraphes": [
+        "Le créancier confie le dossier à un commissaire de justice, le métier issu en 2022 du rapprochement des huissiers et des commissaires-priseurs judiciaires. Après vérification, celui-ci remet au débiteur un commandement de payer accompagné de la facture. Aucun montant maximum n'est prévu, mais la dette doit être certaine, chiffrée et échue.",
+        "Le client a alors un mois pour payer, contester ou trouver un accord. S'il conteste, la procédure s'arrête et le créancier peut toujours saisir le tribunal. S'il ne fait rien, le commissaire établit un procès-verbal de non-contestation, que le greffier rend exécutoire après contrôle. Le créancier obtient ainsi un titre exécutoire."
+      ]
+    },
+    {
+      "intertitre": "Des garanties pour le débiteur",
+      "paragraphes": [
+        "La suite de la procédure n'est possible que si le commandement a été remis à la personne, à son domicile ou à l'étude. Une fois le titre signifié, le débiteur peut encore former opposition, ce qui suspend l'exécution. Le président du tribunal des activités économiques du siège du débiteur reçoit une copie du titre.",
+        "Avec l'accord du créancier, le commissaire peut proposer un échelonnement, pour éviter, quand c'est possible, de rompre les liens entre les deux entreprises. Les frais sont à la charge du débiteur. Les tarifs des actes restent à fixer."
+      ]
+    },
+    {
+      "intertitre": "Des délais qui s'améliorent",
+      "paragraphes": [
+        "D'après une étude d'Altares, 49,7 % des entreprises réglaient leurs factures à temps entre janvier et juin 2026 (45,2 % sur la même période de 2025). En moyenne, le retard a reculé de 14,1 à 12,3 jours."
+      ]
+    }
+  ],
+  "mots": 367,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-fournisseurs"
+  ],
+  "source_nom": "Le Journal des Entreprises",
+  "source_url": "https://www.lejournaldesentreprises.com/article/un-decret-fixe-le-cadre-dun-recouvrement-sans-juge-des-impayes-entre-commercants-2148182",
+  "publie_le": "2026-10-27T11:04:32.000Z",
+  "redige_le": "2026-10-29T11:24:17.510Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/2af0ee11252bf40e415a0a47df7bcf805323a145.webp",
+    "source": "wikimedia",
+    "credit": "Rudy 40",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gare_facture_biganos.JPG",
+    "alt": "Une facture papier",
+    "mots_cles": [
+      "Facture"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

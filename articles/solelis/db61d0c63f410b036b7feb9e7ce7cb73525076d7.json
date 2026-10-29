@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "db61d0c63f410b036b7feb9e7ce7cb73525076d7",
+  "slug": "papeterie-de-saint-gaudens-pas-offre-ferme-200-investissement-db61d0",
+  "titre": "Papeterie de Saint-Gaudens : pas d'offre ferme, 200 M€ d'investissement envisagés",
+  "chapo": "L'usine de pâte à papier de Saint-Gaudens, en Haute-Garonne, n'a pas trouvé de repreneur dans les délais. Un projet porté par un industriel portugais, avec l'État et la Région, laisse toutefois un espoir.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Selon ses administrateurs judiciaires, Fibre Excellence Saint-Gaudens emploie 238 personnes pour 140 millions d'euros de ventes l'an dernier. Aucune offre ferme n'a été déposée avant la date limite du 22 octobre.",
+        "Seules trois lettres d'intention ont été remises : par Ghost, par l'État et par la Région Occitanie. La Région rappelle qu'elles ne valent pas offre de reprise."
+      ]
+    },
+    {
+      "intertitre": "Relancer la pâte et transformer sur place",
+      "paragraphes": [
+        "Le projet prévoit deux étapes. D'abord, faire repartir la fabrication de pâte, dans un délai d'environ un an selon la Région. Ensuite, construire sur place une unité de 50 000 m² pour y produire des articles d'hygiène, comme les couches ou le papier ménager. L'investissement est évalué à 200 millions d'euros.",
+        "Il manque encore le plan de financement, les permis et plusieurs études. Ghost, déjà client de l'usine, est présent dans plus de 30 pays. Sébastien Martin, chargé de l'Industrie au gouvernement, qui a reçu son dirigeant le 19 octobre, indique que le groupe demande au moins six mois pour finaliser son projet. Le groupe alsacien Soprema reste aussi intéressé."
+      ]
+    },
+    {
+      "intertitre": "Une liquidation jugée probable",
+      "paragraphes": [
+        "Le tribunal de commerce doit examiner le dossier début novembre. Faute d'offre ferme, la Région estime qu'une liquidation judiciaire est probable. Le projet de Ghost pourrait se poursuivre malgré tout.",
+        "En attendant, les partenaires veulent protéger les machines et les compétences, sans manquer aux obligations écologiques, et soutenir le personnel grâce aux aides publiques prévues. Plus de 130 industriels avaient été approchés avant l'arrivée de Ghost."
+      ]
+    },
+    {
+      "intertitre": "Un groupe déjà fragilisé",
+      "paragraphes": [
+        "Créée en 1994, l'usine avait encore dégagé 8,8 millions d'euros de bénéfice en 2024, pour 204,4 millions de chiffre d'affaires. L'autre site du groupe, à Tarascon, dans les Bouches-du-Rhône, a été placé en liquidation judiciaire en juillet."
+      ]
+    }
+  ],
+  "mots": 319,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Journal des Entreprises",
+  "source_url": "https://www.lejournaldesentreprises.com/article/fibre-excellence-saint-gaudens-un-projet-de-reprise-200-millions-deuros-2148206",
+  "publie_le": "2026-10-28T12:10:06.000Z",
+  "redige_le": "2026-10-29T11:24:17.510Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/db61d0c63f410b036b7feb9e7ce7cb73525076d7.webp",
+    "source": "wikimedia",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Coll%C3%A9giale_Saint-Pierre_et_Saint-Gaudens.jpg",
+    "alt": "La ville de Saint-Gaudens, en Haute-Garonne",
+    "mots_cles": [
+      "Saint-Gaudens"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

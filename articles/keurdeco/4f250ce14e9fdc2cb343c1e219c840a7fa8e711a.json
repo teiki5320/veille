@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "4f250ce14e9fdc2cb343c1e219c840a7fa8e711a",
+  "slug": "biennale-de-venise-166-artisans-marocains-derriere-installation-amina-4f250c",
+  "titre": "Biennale de Venise : 166 artisans marocains derrière l'installation d'Amina Agueznay",
+  "chapo": "Le Maroc dispose pour la première fois d'un pavillon national officiel à la Biennale d'art de Venise. Il y montre Asǝṭṭa, une installation monumentale d'Amina Agueznay construite avec des artisans de tout le pays.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Installée dans les Artiglierie de l'Arsenal, l'œuvre de l'artiste marocaine est présentée par la commissaire Meriem Berrada dans le cadre de la 61e Exposition internationale d'art. De grandes structures en acier portent des cascades de laine, de raphia et de fils brodés. Les visiteurs circulent entre ces volumes, à mi-chemin de la sculpture et de l'architecture.",
+        "Au total, 166 artisans marocains ont participé à la fabrication des pièces."
+      ]
+    },
+    {
+      "intertitre": "Un mot amazigh pour le tissage rituel",
+      "paragraphes": [
+        "Le titre reprend un terme amazigh lié au tissage pratiqué lors des rituels. Le projet s'appuie sur des savoir-faire transmis de génération en génération, en grande partie par des femmes, et rarement consignés dans des archives écrites.",
+        "L'installation s'inspire aussi de l'âatba, le seuil des maisons traditionnelles marocaines. Elle invite à passer d'un espace à l'autre : du connu vers l'inconnu, du privé vers le public."
+      ]
+    },
+    {
+      "intertitre": "Une collaboration commencée à Assilah",
+      "paragraphes": [
+        "L'artiste et la commissaire travaillent ensemble depuis plusieurs années. Leur démarche s'est précisée lors d'un atelier de tissage organisé en 2018 à Assilah, l'année où l'œuvre Noise était exposée au MACAAL de Marrakech. Ont suivi une exposition au Musée de l'histoire de l'immigration, à Paris, en 2021, puis Fieldworks à Marrakech en 2025.",
+        "Amina Agueznay explique être venue au tissage par l'architecture et le design, avant deux décennies de travail de terrain auprès d'artisans de plusieurs régions. Meriem Berrada, qui a grandi à Fès, dit avoir appris à regarder la pensée derrière un objet plutôt que sa seule perfection technique."
+      ]
+    },
+    {
+      "intertitre": "L'artisanat comme matière vivante",
+      "paragraphes": [
+        "Le pavillon veut montrer que l'artisanat n'est pas un héritage figé. Il brouille la frontière entre art et métier d'art, entre création individuelle et travail collectif, et met en avant ceux qui font vivre ces gestes au quotidien."
+      ]
+    }
+  ],
+  "mots": 322,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "tags": [
+    "matiere:raphia-paniers"
+  ],
+  "source_nom": "Art Africa",
+  "source_url": "https://artafricamagazine.org/ase%e1%b9%ad%e1%b9%ada-the-living-architecture-of-memory-at-moroccos-venice-biennale-2026-pavilion/",
+  "publie_le": "2026-10-29T10:56:02.000Z",
+  "redige_le": "2026-10-29T11:22:06.291Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurdeco/4f250ce14e9fdc2cb343c1e219c840a7fa8e711a.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Déco",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Déco avec le drapeau national (Maroc) et la mention « Déco »",
+    "mots_cles": [
+      "Arsenale di Venezia",
+      "moroccan weaving wool",
+      "woven textile installation"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-10-28T18:24:57.878Z",
+  "genere_le": "2026-10-29T11:24:17.497Z",
   "articles": [
+    {
+      "id": "c7f1ece77e504034321039b214f25bad77d946b4",
+      "slug": "afrique-du-sud-des-fraises-hors-sol-cultivees-toute-annee-sous-22-c7f1ec",
+      "titre": "Afrique du Sud : des fraises hors-sol cultivées toute l'année sous 22 serres",
+      "publie_le": "2026-10-28T13:55:00.000Z",
+      "redige_le": "2026-10-29T11:22:58.463Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/c7f1ece77e504034321039b214f25bad77d946b4.json"
+    },
+    {
+      "id": "0cd3f42aa166d00815a685eddc5fb73b7ff174d7",
+      "slug": "eclairage-horticole-la-marque-hortilux-reprise-par-le-groupe-de-gavita-0cd3f4",
+      "titre": "Éclairage horticole : la marque Hortilux reprise par le groupe de Gavita et Agrolux",
+      "publie_le": "2026-10-28T13:24:00.000Z",
+      "redige_le": "2026-10-29T11:22:58.463Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/0cd3f42aa166d00815a685eddc5fb73b7ff174d7.json"
+    },
+    {
+      "id": "5912c83d3258812e9337c643a41dbcf001187f83",
+      "slug": "detroit-la-plus-grande-ferme-verticale-du-michigan-cesse-son-activite-5912c8",
+      "titre": "Détroit : la plus grande ferme verticale du Michigan cesse son activité et sera vendue",
+      "publie_le": "2026-10-28T13:24:00.000Z",
+      "redige_le": "2026-10-29T11:22:58.463Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/5912c83d3258812e9337c643a41dbcf001187f83.json"
+    },
     {
       "id": "ea27cd9f8a2914ff9c3f0f32e931544ac725e524",
       "slug": "canada-des-chercheurs-doutent-que-les-fermes-verticales-sauvent-ea27cd",

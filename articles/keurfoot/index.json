@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-28T18:24:57.875Z",
+  "genere_le": "2026-10-29T11:22:58.457Z",
   "articles": [
+    {
+      "id": "37e24f3299afe1d44d7d745ee714d7b093fa675a",
+      "slug": "mondial-u15-plus-equipe-africaine-pour-le-titre-le-senegal-et-la-37e24f",
+      "titre": "Mondial U15 : plus d'équipe africaine pour le titre, le Sénégal et la Tunisie en demies",
+      "publie_le": "2026-10-29T10:12:52.000Z",
+      "redige_le": "2026-10-29T11:22:49.855Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/37e24f3299afe1d44d7d745ee714d7b093fa675a.json"
+    },
+    {
+      "id": "722b16f40315708e3cfbae4f9d4b5e1e78bacdd7",
+      "slug": "senegal-27-ans-ismail-jakobs-met-fin-sa-carriere-internationale-722b16",
+      "titre": "Sénégal : à 27 ans, Ismaïl Jakobs met fin à sa carrière internationale",
+      "publie_le": "2026-10-28T21:14:08.000Z",
+      "redige_le": "2026-10-29T11:22:49.855Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/722b16f40315708e3cfbae4f9d4b5e1e78bacdd7.json"
+    },
     {
       "id": "8cd5a84270c02888c09d2a57c401f5b69f8a3fef",
       "slug": "mondial-2030-la-fifa-va-inspecter-six-villes-marocaines-candidates-8cd5a8",

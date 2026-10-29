@@ -1,8 +1,85 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-28T18:21:44.281Z",
+  "genere_le": "2026-10-29T11:22:49.855Z",
   "actus": [
+    {
+      "id": "37e24f3299afe1d44d7d745ee714d7b093fa675a",
+      "titre": "Mondial U15 : plus d'équipe africaine pour le titre, le Sénégal et la Tunisie en demies",
+      "resume": "À Bakou, la Guinée et le Ghana ont été éliminés en quarts de la Ligue A, ce qui prive l'Afrique du titre principal. Le Sénégal, vainqueur de Madagascar, et la Tunisie, qui a battu la France, jouent les demi-finales de leurs divisions.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "TN",
+        "GN",
+        "GH"
+      ],
+      "competition": "Coupe du monde U15",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-le-titre-echappe-a-lafrique-lalgerie-se-reprend-pas-le-maroc-la-tunisie-sort-la-france-le-senegal-en-demi-finales-b",
+      "autres_sources": [
+        "https://www.afrik-foot.com/coupe-du-monde-u15-le-maroc-et-lalgerie-chutent-le-senegal-et-le-cameroun-passent-la-cote-divoire-battue",
+        "https://wiwsport.com/2026/10/29/mondial-u15-le-senegal-domine-madagascar-4-0-et-file-en-demi-finales-de-la-division-b/",
+        "https://africatopsports.com/football/mondial-u15-la-rdc-eliminee-en-quarts-par-la-somalie/",
+        "https://africatopsports.com/football/coupe-du-monde-u15-2026-le-niger-domine-le-mali-et-termine-sur-une-victoire/",
+        "https://www.camfoot.com/actualites/mondial-u15-cameroun-chypre-russie-classement,559113.html"
+      ],
+      "publie_le": "2026-10-29T10:12:52.000Z",
+      "collecte_le": "2026-10-29T11:22:49.855Z",
+      "langue": "fr",
+      "slug": "mondial-u15-plus-equipe-africaine-pour-le-titre-le-senegal-et-la-37e24f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/37e24f3299afe1d44d7d745ee714d7b093fa675a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/37e24f3299afe1d44d7d745ee714d7b093fa675a.webp",
+        "source": "wikimedia",
+        "credit": "AlixSaz",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Baku_Funicular.jpg",
+        "alt": "Vue de Bakou, capitale de l'Azerbaïdjan, ville hôte du Mondial U15",
+        "mots_cles": [
+          "Baku"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "722b16f40315708e3cfbae4f9d4b5e1e78bacdd7",
+      "titre": "Sénégal : à 27 ans, Ismaïl Jakobs met fin à sa carrière internationale",
+      "resume": "Le latéral gauche de Galatasaray a confirmé sur Instagram qu'il ne jouera plus pour les Lions. Appelé depuis 2022, il compte 33 sélections, deux Coupes du monde et deux CAN. Il veut désormais se consacrer à son club et à sa famille.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": null,
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a8364616530529129373-senegal-ismail-jakobs-prend-sa-retraite-internationale-a-27-ans",
+      "autres_sources": [
+        "https://senego.com/je-la-quitte-en-tant-quhomme-ismail-jakobs-officialise-sa-retraite-internationale-avec-le-senegal_2018345.html",
+        "https://www.lequipe.fr/Football/Actualites/A-27-ans-le-senegalais-ismail-jakobs-prend-sa-retraite-internationale/1739412",
+        "https://wiwsport.com/2026/10/28/equipe-nationale-ismail-jakobs-annonce-sa-retraite-internationale-avec-le-senegal/"
+      ],
+      "publie_le": "2026-10-28T21:14:08.000Z",
+      "collecte_le": "2026-10-29T11:22:49.855Z",
+      "langue": "fr",
+      "slug": "senegal-27-ans-ismail-jakobs-met-fin-sa-carriere-internationale-722b16",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/722b16f40315708e3cfbae4f9d4b5e1e78bacdd7.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/722b16f40315708e3cfbae4f9d4b5e1e78bacdd7.webp",
+        "source": "wikimedia",
+        "credit": "feguifoot",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Ismail_Jakobs.jpg",
+        "alt": "Ismaïl Jakobs, défenseur international sénégalais",
+        "mots_cles": [
+          "Ismail Jakobs"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8cd5a84270c02888c09d2a57c401f5b69f8a3fef",
       "titre": "Mondial 2030 : la FIFA va inspecter six villes marocaines candidates",
