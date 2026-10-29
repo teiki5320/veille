@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "site": "keurbible",
+  "genere_le": "2026-10-29T18:21:31.743Z",
+  "actus": [
+    {
+      "id": "b9d2ab733c69f68890a718cc23e12a77005dfcb8",
+      "titre": "Nairobi : première pierre bénie pour le futur siège du Centre biblique d'Afrique",
+      "resume": "Le cardinal Fridolin Ambongo, président du SECAM, a béni le 19 octobre à Nairobi la première pierre du futur siège du Centre biblique catholique pour l'Afrique et Madagascar. Cet organisme coordonne l'apostolat biblique sur le continent et soutient la traduction de la Bible dans les langues africaines.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "tags": [
+        "rubrique:bibles"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/24995/new-headquarters-for-continental-bible-centre-takes-shape-in-nairobi-as-secam-blesses-foundation-stone",
+      "publie_le": "2026-10-28T20:45:00.000Z",
+      "collecte_le": "2026-10-29T18:21:31.743Z",
+      "langue": "en",
+      "slug": "nairobi-premiere-pierre-benie-pour-le-futur-siege-du-centre-biblique-b9d2ab",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/b9d2ab733c69f68890a718cc23e12a77005dfcb8.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurbible/b9d2ab733c69f68890a718cc23e12a77005dfcb8.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Bible",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Bible avec le drapeau national (Kenya) et la mention « Culture »",
+        "mots_cles": [
+          "Fridolin Ambongo Besungu",
+          "open bible",
+          "bible africa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "625d1d941931c3bbe1134bf8dcb68e88042bd3fc",
+      "titre": "JOJ Dakar 2026 : les évêques du Sénégal appellent à accueillir chaque visiteur en hôte",
+      "resume": "Avant les JOJ de Dakar, qui débutent le 31 octobre, l'Église catholique du Sénégal publie un message de bienvenue. Elle relie la teranga à l'accueil de l'étranger dans l'Évangile et prévoit une messe d'ouverture à Dakar ainsi qu'une présence au village olympique.",
+      "theme": "culture",
+      "pays": [
+        "SN"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/monde/news/2026-10/joj-dakar-2026-l-appel-des-eveques-senegalais-a-la-celebra.html",
+      "publie_le": "2026-10-28T10:21:00.000Z",
+      "collecte_le": "2026-10-29T18:21:31.743Z",
+      "langue": "fr",
+      "slug": "joj-dakar-2026-les-eveques-du-senegal-appellent-accueillir-chaque-625d1d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/625d1d941931c3bbe1134bf8dcb68e88042bd3fc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/625d1d941931c3bbe1134bf8dcb68e88042bd3fc.webp",
+        "source": "wikimedia",
+        "credit": "Photowalk",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_du_Souvenir_africain_de_Dakar.jpg",
+        "alt": "La cathédrale de Dakar, au Sénégal",
+        "mots_cles": [
+          "Cathédrale du Souvenir africain"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "255962e262f2fb431d4c02409ac751704d3609fc",
+      "titre": "Cap-Vert : à Mindelo, trois ans de préparation pour les 25 ans du diocèse",
+      "resume": "Les 17 paroisses du diocèse de Mindelo, au Cap-Vert, ont commencé un cycle pastoral de trois ans pour préparer les 25 ans de leur diocèse. Le thème retenu, « Célébrer et Annoncer », guidera ce parcours, dont le temps fort sera un congrès eucharistique en 2028.",
+      "theme": "culture",
+      "pays": [
+        "CV"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/cap-vert-le-diocese-de-mindelo-lance-un-triennat-pastoral-pour.html",
+      "publie_le": "2026-10-27T12:39:00.000Z",
+      "collecte_le": "2026-10-29T18:21:31.743Z",
+      "langue": "fr",
+      "slug": "cap-vert-mindelo-trois-ans-de-preparation-pour-les-25-ans-du-diocese-255962",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/255962e262f2fb431d4c02409ac751704d3609fc.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/255962e262f2fb431d4c02409ac751704d3609fc.webp",
+        "source": "wikimedia",
+        "credit": "Manuel de Sousa",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mindelo_(S_Vicente,_Cabo_Verde).JPG",
+        "alt": "La ville de Mindelo, sur l'île de São Vicente, au Cap-Vert",
+        "mots_cles": [
+          "Mindelo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    }
+  ]
+}

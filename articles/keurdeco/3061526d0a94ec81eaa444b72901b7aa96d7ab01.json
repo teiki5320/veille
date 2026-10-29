@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "3061526d0a94ec81eaa444b72901b7aa96d7ab01",
+  "slug": "marrakech-le-jardin-majorelle-devoile-nouala-pavillon-de-salsabil-el-306152",
+  "titre": "Marrakech : le Jardin Majorelle dévoile « Nouala », pavillon de Salsabil El Ouazzani",
+  "chapo": "Le Jardin Majorelle de Marrakech présente depuis le 29 octobre son deuxième pavillon temporaire. La jeune architecte marocaine Salsabil El Ouazzani y revisite la nouala, abri des campagnes fait de roseaux et de chaume.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Baptisé « Nouala, le refuge mobile », le pavillon se dresse dans l'espace vert de la Villa Oasis. Il restera en place dix-huit mois et doit aussi servir de lieu d'exposition.",
+        "La nouala est une cabane rurale du Maroc, bâtie avec ce que l'on trouve autour de soi. Formée à l'UM6P, l'Université Mohammed VI Polytechnique, Salsabil El Ouazzani en a tiré une construction actuelle, légère et démontable. Elle a retenu des matériaux simples et naturels et un assemblage réversible. Le palmier y remplace le roseau, en écho aux plantes du jardin."
+      ]
+    },
+    {
+      "intertitre": "Un prix pour les architectes de moins de 40 ans",
+      "paragraphes": [
+        "Le 15 mai 2026, l'architecte s'est vu décerner le prix de la Fondation Jardin Majorelle, dont c'était la deuxième édition. Ce concours est réservé aux professionnels marocains âgés de moins de 40 ans. Il a reçu trente-quatre dossiers, issus en particulier des écoles de Casablanca, Rabat, Marrakech et Ben Guérir, ainsi que de l'Euromed de Fès.",
+        "Présidé par Madison Cox, qui dirige la Fondation, le jury rassemblait l'anthropologue et architecte Salima Naji, Alexis Sornin, directeur des musées Yves Saint Laurent et Pierre Bergé des arts berbères à Marrakech, ainsi que Karl Fournier, l'un des fondateurs de Studio KO. Le choix a été unanime : le jury a relevé la finesse du dessin, l'insertion dans la végétation et le réalisme du projet."
+      ]
+    },
+    {
+      "intertitre": "Une vitrine renouvelée tous les deux ans",
+      "paragraphes": [
+        "Né à l'occasion des 100 ans du jardin, le pavillon temporaire est remplacé tous les deux ans par le projet du dernier lauréat. Ce lieu, parmi les plus fréquentés du pays, sert ainsi de banc d'essai aux jeunes talents de l'architecture. Le jardin a été créé par le peintre Jacques Majorelle dans les années 1920, puis racheté en 1980 par Yves Saint Laurent et Pierre Bergé.",
+        "À l'intérieur, on découvre « Les oiseaux du Jardin Majorelle », une exposition présentée depuis avril 2026. Elle présente plus de trente espèces qui fréquentent les lieux et explique ce qui les attire : une végétation en étages, des recoins pour nicher, des points d'eau et un entretien sans produits toxiques."
+      ]
+    }
+  ],
+  "mots": 380,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/architectures-et-design/jardin-majorelle-nouala-le-nouveau-pavillon-temporaire",
+  "publie_le": "2026-10-29T11:55:28.000Z",
+  "redige_le": "2026-10-29T18:22:20.879Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/3061526d0a94ec81eaa444b72901b7aa96d7ab01.webp",
+    "source": "wikimedia",
+    "credit": "Viault",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_jardin_des_majorelle_16.JPG",
+    "alt": "Le Jardin Majorelle, à Marrakech",
+    "mots_cles": [
+      "Jardin Majorelle"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

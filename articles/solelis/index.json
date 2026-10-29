@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-29T11:24:23.986Z",
+  "genere_le": "2026-10-29T18:23:42.049Z",
   "articles": [
+    {
+      "id": "4f52fbad14267cdc1c82f757f84024555d16570b",
+      "slug": "tpe-90-des-patrons-pessimistes-sur-le-climat-des-affaires-un-niveau-4f52fb",
+      "titre": "TPE : 90 % des patrons pessimistes sur le climat des affaires, un niveau record",
+      "publie_le": "2026-10-29T16:46:20.000Z",
+      "redige_le": "2026-10-29T18:22:46.213Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/4f52fbad14267cdc1c82f757f84024555d16570b.json"
+    },
+    {
+      "id": "2e309e2b0bbd96df165be769512ec79ad2beaec4",
+      "slug": "commerces-touches-par-les-manifestations-des-ouvertures-le-dimanche-2e309e",
+      "titre": "Commerces touchés par les manifestations : des ouvertures le dimanche jusqu'à Noël",
+      "publie_le": "2026-10-29T12:11:51.000Z",
+      "redige_le": "2026-10-29T18:22:46.213Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/2e309e2b0bbd96df165be769512ec79ad2beaec4.json"
+    },
     {
       "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",
       "slug": "commerces-pilles-une-aide-directe-pouvant-atteindre-10-000-euros-a7e2e0",

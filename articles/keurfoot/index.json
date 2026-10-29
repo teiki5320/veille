@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-29T11:22:58.457Z",
+  "genere_le": "2026-10-29T18:22:37.333Z",
   "articles": [
+    {
+      "id": "7a81d0612673c94b1fdefa5e56efdffa4ac5caad",
+      "slug": "mondial-u15-quatre-finales-pour-afrique-le-senegal-battu-par-la-zambie-7a81d0",
+      "titre": "Mondial U15 : quatre finales pour l'Afrique, le Sénégal battu par la Zambie",
+      "publie_le": "2026-10-29T17:00:09.000Z",
+      "redige_le": "2026-10-29T18:22:25.839Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7a81d0612673c94b1fdefa5e56efdffa4ac5caad.json"
+    },
+    {
+      "id": "189d12871782a9d7ab6b46e916cbebd855fad06e",
+      "slug": "senegal-la-fifa-evalue-generation-foot-dans-son-projet-pilote-sur-les-189d12",
+      "titre": "Sénégal : la FIFA évalue Génération Foot dans son projet pilote sur les académies",
+      "publie_le": "2026-10-29T11:33:07.000Z",
+      "redige_le": "2026-10-29T18:22:25.839Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/189d12871782a9d7ab6b46e916cbebd855fad06e.json"
+    },
     {
       "id": "37e24f3299afe1d44d7d745ee714d7b093fa675a",
       "slug": "mondial-u15-plus-equipe-africaine-pour-le-titre-le-senegal-et-la-37e24f",

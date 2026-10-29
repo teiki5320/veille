@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-10-29T11:22:49.845Z",
+  "genere_le": "2026-10-29T18:22:25.830Z",
   "articles": [
+    {
+      "id": "3061526d0a94ec81eaa444b72901b7aa96d7ab01",
+      "slug": "marrakech-le-jardin-majorelle-devoile-nouala-pavillon-de-salsabil-el-306152",
+      "titre": "Marrakech : le Jardin Majorelle dévoile « Nouala », pavillon de Salsabil El Ouazzani",
+      "publie_le": "2026-10-29T11:55:28.000Z",
+      "redige_le": "2026-10-29T18:22:20.879Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/3061526d0a94ec81eaa444b72901b7aa96d7ab01.json"
+    },
     {
       "id": "4f250ce14e9fdc2cb343c1e219c840a7fa8e711a",
       "slug": "biennale-de-venise-166-artisans-marocains-derriere-installation-amina-4f250c",

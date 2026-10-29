@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "genere_le": "2026-10-29T18:22:20.864Z",
+  "articles": [
+    {
+      "id": "b9d2ab733c69f68890a718cc23e12a77005dfcb8",
+      "slug": "nairobi-premiere-pierre-benie-pour-le-futur-siege-du-centre-biblique-b9d2ab",
+      "titre": "Nairobi : première pierre bénie pour le futur siège du Centre biblique d'Afrique",
+      "publie_le": "2026-10-28T20:45:00.000Z",
+      "redige_le": "2026-10-29T18:21:31.743Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/b9d2ab733c69f68890a718cc23e12a77005dfcb8.json"
+    },
+    {
+      "id": "625d1d941931c3bbe1134bf8dcb68e88042bd3fc",
+      "slug": "joj-dakar-2026-les-eveques-du-senegal-appellent-accueillir-chaque-625d1d",
+      "titre": "JOJ Dakar 2026 : les évêques du Sénégal appellent à accueillir chaque visiteur en hôte",
+      "publie_le": "2026-10-28T10:21:00.000Z",
+      "redige_le": "2026-10-29T18:21:31.743Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/625d1d941931c3bbe1134bf8dcb68e88042bd3fc.json"
+    },
+    {
+      "id": "255962e262f2fb431d4c02409ac751704d3609fc",
+      "slug": "cap-vert-mindelo-trois-ans-de-preparation-pour-les-25-ans-du-diocese-255962",
+      "titre": "Cap-Vert : à Mindelo, trois ans de préparation pour les 25 ans du diocèse",
+      "publie_le": "2026-10-27T12:39:00.000Z",
+      "redige_le": "2026-10-29T18:21:31.743Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/255962e262f2fb431d4c02409ac751704d3609fc.json"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "b9d2ab733c69f68890a718cc23e12a77005dfcb8",
+  "slug": "nairobi-premiere-pierre-benie-pour-le-futur-siege-du-centre-biblique-b9d2ab",
+  "titre": "Nairobi : première pierre bénie pour le futur siège du Centre biblique d'Afrique",
+  "chapo": "Le Centre biblique catholique pour l'Afrique et Madagascar prépare son installation dans de nouveaux locaux à Nairobi. Le cardinal Fridolin Ambongo a béni la première pierre du bâtiment le 19 octobre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La cérémonie s'est tenue dans la capitale du Kenya, pendant la deuxième session de l'année du comité permanent du SECAM, le Symposium des conférences épiscopales d'Afrique et de Madagascar, réuni du 18 au 22 octobre. Le service de communication du SECAM l'a fait savoir le 27 octobre, dans un communiqué relayé par l'agence ACI Africa.",
+        "Archevêque de Kinshasa, en RD Congo, le cardinal Ambongo préside le SECAM. Il a aussi conduit les travaux de ce comité, qui rassemblait des évêques membres et les secrétaires généraux de l'organisation."
+      ]
+    },
+    {
+      "intertitre": "La Bible dans les langues africaines",
+      "paragraphes": [
+        "Connu sous les sigles BICAM en anglais et CEBAM en français, le centre est l'organe officiel du SECAM pour l'apostolat biblique. Il anime, coordonne et organise cette mission sur tout le continent et encourage la traduction des Écritures dans les langues africaines.",
+        "Rattaché à la commission du SECAM pour l'évangélisation, il fédère les services bibliques des conférences épiscopales régionales et nationales, des diocèses et d'autres organismes engagés dans ce travail, en Afrique comme dans les îles voisines. Il est aujourd'hui dirigé par le père Anselm Kamuyu, prêtre de l'archidiocèse de Nairobi."
+      ]
+    },
+    {
+      "intertitre": "Un symposium né à Kampala en 1969",
+      "paragraphes": [
+        "Le SECAM a vu le jour en 1969 à Kampala, en Ouganda, lors du voyage du pape Paul VI, le premier d'un pape en Afrique. Il rassemble les conférences épiscopales du continent et de Madagascar.",
+        "Pendant la session de Nairobi, les participants ont fait le point sur l'application du plan d'action du SECAM, sur les activités en cours et sur les rapports présentés. Ils ont aussi échangé sur la vie de l'Église et sur la réalité sociale des pays représentés. Le communiqué ne donne pas de date pour l'ouverture du nouveau siège."
+      ]
+    }
+  ],
+  "mots": 314,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "KE"
+  ],
+  "tags": [
+    "rubrique:bibles"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/24995/new-headquarters-for-continental-bible-centre-takes-shape-in-nairobi-as-secam-blesses-foundation-stone",
+  "publie_le": "2026-10-28T20:45:00.000Z",
+  "redige_le": "2026-10-29T18:21:31.743Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurbible/b9d2ab733c69f68890a718cc23e12a77005dfcb8.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Bible",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Bible avec le drapeau national (Kenya) et la mention « Culture »",
+    "mots_cles": [
+      "Fridolin Ambongo Besungu",
+      "open bible",
+      "bible africa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

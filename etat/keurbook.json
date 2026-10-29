@@ -264,76 +264,94 @@
     "4c14ebb0deb34da9c28fafd195a1c45ee44f6359": "2026-10-29T11:21:57.404Z",
     "11825a4b59024b428aec3200c2f7bc4917584af7": "2026-10-29T11:21:57.404Z",
     "3f33c4651b607f5bd052e1eef8755fda153f6fee": "2026-10-29T11:21:57.404Z",
-    "bef6cf43e4b15392982c90567031dd85bb74ef1b": "2026-10-29T11:21:57.404Z"
+    "bef6cf43e4b15392982c90567031dd85bb74ef1b": "2026-10-29T11:21:57.404Z",
+    "bb05ce0a24552a90179978c8a0a40dacfcd26332": "2026-10-29T18:22:20.865Z",
+    "d2c097aa94d6dcb8b2925e430ffb0b19cc4d3aec": "2026-10-29T18:22:20.865Z",
+    "3649e2826b38d9f9ea59c29a3e20b5323967ad74": "2026-10-29T18:22:20.865Z",
+    "294f8e1dd82bbfb8f2dcbe23ec4c2f6650d600ed": "2026-10-29T18:22:20.865Z",
+    "86fbebafa333d342c69663e19bbe3982bcf85163": "2026-10-29T18:22:20.865Z",
+    "cf25371ba7c89488e853ddf7d1f15ccdf1b78735": "2026-10-29T18:22:20.865Z",
+    "23ac135f8befca3b0f671d0d7505a515123d5b85": "2026-10-29T18:22:20.865Z",
+    "0e8f8824cf0192d9e6d8463c73d01292e746d6c9": "2026-10-29T18:22:20.865Z",
+    "914e38da9853409a69955ab848015c7a8804e7c9": "2026-10-29T18:22:20.865Z",
+    "0fec73f380a901aab615c12247a0be418f865e57": "2026-10-29T18:22:20.865Z",
+    "9701abd9b31659d59b4d0d217897671c1b56ba6d": "2026-10-29T18:22:20.865Z",
+    "eff6988b881d166ca813aa6b5bd1bcc8a5a7ba98": "2026-10-29T18:22:20.865Z",
+    "35781ba7d3c2aaee3d1a3c4a2adfa5ea8dfc082a": "2026-10-29T18:22:20.865Z",
+    "5e4a6b77a756def53ea3a314192c0d52883c4608": "2026-10-29T18:22:20.865Z",
+    "0583a9e8b3a9c666e4865badb4194e56c4c48271": "2026-10-29T18:22:20.865Z",
+    "736c66595ba9f0fe617b411d3da54babd6e9187b": "2026-10-29T18:22:20.865Z",
+    "15cf528dd15439bc7d1ce1802a15f55578541e9e": "2026-10-29T18:22:20.865Z",
+    "b0e639a3466c66368837c21e134b19f894c137a5": "2026-10-29T18:22:20.865Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
-      "articles": 11
+      "articles": 4
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
       "articles": 3
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 1
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
-      "articles": 10
+      "articles": 4
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
-      "articles": 7
+      "articles": 3
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 2
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T11:12:13.057Z",
+      "dernier_succes": "2026-10-29T18:12:27.599Z",
       "derniere_erreur": null,
       "articles": 0
     }

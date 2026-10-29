@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "4f52fbad14267cdc1c82f757f84024555d16570b",
+  "slug": "tpe-90-des-patrons-pessimistes-sur-le-climat-des-affaires-un-niveau-4f52fb",
+  "titre": "TPE : 90 % des patrons pessimistes sur le climat des affaires, un niveau record",
+  "chapo": "Neuf dirigeants de très petites entreprises sur dix voient le climat des affaires en France d'un mauvais œil, selon le baromètre Ifop-Fiducial publié le 29 octobre. Près de huit sur dix mettent en attente leurs projets.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Réalisée entre le 21 septembre et le 9 octobre, l'enquête a interrogé 1 006 chefs d'entreprise employant moins de 20 salariés. Le pessimisme sur la conjoncture atteint 90 %, le niveau le plus haut jamais mesuré par ce baromètre, en hausse de 17 points en trois mois.",
+        "Face à l'incertitude, 77 % des patrons interrogés disent différer leurs investissements ou leurs recrutements."
+      ]
+    },
+    {
+      "intertitre": "Prix, énergie et charges en tête des freins",
+      "paragraphes": [
+        "La hausse des prix arrive en tête des difficultés citées (84 %), devant la facture énergétique (82 %). Suivent, à égalité avec 80 %, la lourdeur des démarches administratives et le niveau des cotisations sociales et des impôts.",
+        "La confiance envers l'exécutif est au plus bas : 90 % des dirigeants ne croient pas aux mesures économiques annoncées, un record pour cette enquête. Ils sont 83 % à juger non respectés les engagements pris quand Emmanuel Macron a été réélu."
+      ]
+    },
+    {
+      "intertitre": "Les attentes à l'approche de 2027",
+      "paragraphes": [
+        "À un an et demi de l'élection présidentielle, 83 % estiment que les candidats saisissent mal les problèmes propres aux TPE, et 79 % que les partis délaissent leurs sujets. Ils attendent d'abord des propositions sur les salaires et le pouvoir d'achat (52 %), puis sur les impôts (51 %) ainsi que sur la croissance et l'emploi (51 %).",
+        "Parmi les pistes déjà évoquées, 87 % approuvent une règle d'or qui interdirait à l'État de dépenser plus qu'il ne perçoit, 83 % un plan d'aide aux petites et moyennes entreprises, et 78 % une hausse générale des salaires.",
+        "Les élus locaux gardent la confiance de 63 % des dirigeants, loin devant les parlementaires (22 %) et les partis politiques (15 %)."
+      ]
+    }
+  ],
+  "mots": 313,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/un-niveau-de-defiance-tres-eleve-83-des-patrons-de-tres-petites-entreprises-estiment-que-les-candidats-a-la-presidentielle-comprennent-mal-leurs-difficultes_AD-202610290693.html",
+  "publie_le": "2026-10-29T16:46:20.000Z",
+  "redige_le": "2026-10-29T18:22:46.213Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/4f52fbad14267cdc1c82f757f84024555d16570b.webp",
+    "source": "wikimedia",
+    "credit": "Atelier Nadar. Photographe",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Petit._Chef_du_cabinet_du_minist%C3%A8re_du_Commerce_-_btv1b53225801k.jpg",
+    "alt": "Un petit commerce en France",
+    "mots_cles": [
+      "Petit commerce en France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

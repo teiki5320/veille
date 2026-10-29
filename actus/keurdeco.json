@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-10-29T11:22:06.291Z",
+  "genere_le": "2026-10-29T18:22:20.879Z",
   "actus": [
+    {
+      "id": "3061526d0a94ec81eaa444b72901b7aa96d7ab01",
+      "titre": "Marrakech : le Jardin Majorelle dévoile « Nouala », pavillon de Salsabil El Ouazzani",
+      "resume": "Depuis le 29 octobre, le Jardin Majorelle présente son deuxième pavillon temporaire. La jeune architecte marocaine Salsabil El Ouazzani y réinterprète la nouala, abri rural de roseaux et de chaume, avec une structure légère en palmier, démontable, qui accueille une exposition sur les oiseaux du jardin.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/architectures-et-design/jardin-majorelle-nouala-le-nouveau-pavillon-temporaire",
+      "publie_le": "2026-10-29T11:55:28.000Z",
+      "collecte_le": "2026-10-29T18:22:20.879Z",
+      "langue": "fr",
+      "slug": "marrakech-le-jardin-majorelle-devoile-nouala-pavillon-de-salsabil-el-306152",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/3061526d0a94ec81eaa444b72901b7aa96d7ab01.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/3061526d0a94ec81eaa444b72901b7aa96d7ab01.webp",
+        "source": "wikimedia",
+        "credit": "Viault",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Le_jardin_des_majorelle_16.JPG",
+        "alt": "Le Jardin Majorelle, à Marrakech",
+        "mots_cles": [
+          "Jardin Majorelle"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4f250ce14e9fdc2cb343c1e219c840a7fa8e711a",
       "titre": "Biennale de Venise : 166 artisans marocains derrière l'installation d'Amina Agueznay",

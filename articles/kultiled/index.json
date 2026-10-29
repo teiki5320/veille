@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-10-29T11:24:17.497Z",
+  "genere_le": "2026-10-29T18:22:46.207Z",
   "articles": [
+    {
+      "id": "07fc5bd2a0a8fe506b7f1d374a1d8456af55d55b",
+      "slug": "wyoming-une-chambre-de-culture-lumiere-reglable-pour-etudier-effet-du-07fc5b",
+      "titre": "Wyoming : une chambre de culture à lumière réglable pour étudier l'effet du spectre",
+      "publie_le": "2026-10-29T13:10:00.000Z",
+      "redige_le": "2026-10-29T18:22:37.337Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/07fc5bd2a0a8fe506b7f1d374a1d8456af55d55b.json"
+    },
     {
       "id": "c7f1ece77e504034321039b214f25bad77d946b4",
       "slug": "afrique-du-sud-des-fraises-hors-sol-cultivees-toute-annee-sous-22-c7f1ec",

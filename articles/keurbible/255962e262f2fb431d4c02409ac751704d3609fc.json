@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "255962e262f2fb431d4c02409ac751704d3609fc",
+  "slug": "cap-vert-mindelo-trois-ans-de-preparation-pour-les-25-ans-du-diocese-255962",
+  "titre": "Cap-Vert : à Mindelo, trois ans de préparation pour les 25 ans du diocèse",
+  "chapo": "Les 17 paroisses du diocèse de Mindelo, au Cap-Vert, se sont lancées dans un parcours de trois ans pour préparer le jubilé d'argent de leur Église locale. Un congrès eucharistique en sera le point d'orgue.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ce triennat pastoral, qui couvre la période 2026-2029, a démarré avec la nouvelle année pastorale. Il a pour thème « Célébrer et Annoncer ». L'évêque, Mgr Ildo Fortes, en a présenté les grandes lignes aux médias du Vatican.",
+        "Le parcours veut approfondir la place de l'Eucharistie dans toute la vie du diocèse : paroisses, mouvements de jeunes et catéchèse. L'idée est de proposer partout une même formation chrétienne."
+      ]
+    },
+    {
+      "intertitre": "Des rendez-vous jusqu'en 2028",
+      "paragraphes": [
+        "Les différents secrétariats diocésains préparent des supports de formation, qui seront dupliqués pour toutes les communautés paroissiales selon les moyens du diocèse. En août 2027, une journée diocésaine consacrée à la catéchèse et une assemblée des jeunes sont au programme.",
+        "En 2028, un congrès eucharistique et un forum diocésain constitueront les grands moments de cette préparation, le congrès en étant le sommet."
+      ]
+    },
+    {
+      "intertitre": "Un diocèse créé en 2003",
+      "paragraphes": [
+        "C'est Jean-Paul II qui a créé le diocèse de Mindelo, le 9 décembre 2003, en le séparant de celui de Santiago, alors unique diocèse de l'archipel. Son territoire correspond à la région de Barlavento, au nord : les îles de Santo Antão, São Vicente, São Nicolau, Sal et Boa Vista.",
+        "Son siège se trouve à Mindelo, sur l'île de São Vicente, où une église dédiée à Notre-Dame de la Lumière tient lieu de pro-cathédrale. Le premier titulaire du siège fut Dom Arlindo Gomes Furtado. Devenu par la suite évêque de Santiago, désormais retiré, il avait été créé cardinal par le pape François en 2015.",
+        "Mgr Ildo Fortes a été ordonné évêque le 3 avril 2011 et a fait son entrée dans le diocèse six jours plus tard. Pays lusophone d'Afrique de l'Ouest, le Cap-Vert compte une large majorité de catholiques."
+      ]
+    }
+  ],
+  "mots": 314,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "CV"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/cap-vert-le-diocese-de-mindelo-lance-un-triennat-pastoral-pour.html",
+  "publie_le": "2026-10-27T12:39:00.000Z",
+  "redige_le": "2026-10-29T18:21:31.743Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/255962e262f2fb431d4c02409ac751704d3609fc.webp",
+    "source": "wikimedia",
+    "credit": "Manuel de Sousa",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mindelo_(S_Vicente,_Cabo_Verde).JPG",
+    "alt": "La ville de Mindelo, sur l'île de São Vicente, au Cap-Vert",
+    "mots_cles": [
+      "Mindelo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

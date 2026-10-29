@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "7a81d0612673c94b1fdefa5e56efdffa4ac5caad",
+  "slug": "mondial-u15-quatre-finales-pour-afrique-le-senegal-battu-par-la-zambie-7a81d0",
+  "titre": "Mondial U15 : quatre finales pour l'Afrique, le Sénégal battu par la Zambie",
+  "chapo": "Quatre sélections africaines disputeront vendredi une finale de division au tournoi mondial U15 de la FIFA à Bakou. Le Sénégal, lui, a été arrêté par la Zambie au stade des demi-finales.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jeudi, en Azerbaïdjan, la Zambie, la Tunisie, l'Éthiopie et la Centrafrique ont validé leur ticket pour le dernier match de leur division. Ces rencontres auront lieu vendredi au Crystal Hall de Bakou, qui accueille la toute première édition de cette compétition mondiale réservée aux moins de 15 ans.",
+        "Le titre de champion du monde ne se joue qu'en division A, où plus aucune équipe du continent n'est en course. Les autres divisions offrent toutefois encore des trophées à aller chercher."
+      ]
+    },
+    {
+      "intertitre": "Les Lionceaux du Sénégal tombent face à la Zambie",
+      "paragraphes": [
+        "En division B, le duel entre deux nations africaines a tourné à l'avantage des Zambiens, vainqueurs 4-3. Abdoulaye Diallo, pensionnaire de Salam Académie, a marqué les trois buts sénégalais, en vain. Les Lionceaux restaient pourtant sur deux larges succès : 6-1 contre le Costa Rica, puis 4-0 face à Madagascar.",
+        "La Zambie jouera la finale contre le Portugal. Le Sénégal disputera la troisième place face à l'Argentine, vendredi matin à 6 h 15 GMT."
+      ]
+    },
+    {
+      "intertitre": "Trois autres finales pour le continent",
+      "paragraphes": [
+        "La Tunisie poursuit son très bon parcours en division C. Après un 5-0 contre la Thaïlande et une victoire 5-3 sur la France en quarts, elle a écarté le Luxembourg sur le score de 3-0. Le Bélarus sera son dernier adversaire.",
+        "La Centrafrique, qui a sorti le Tchad aux tirs au but, affrontera le Bangladesh en finale de la division E. L'Éthiopie, de son côté, défiera la Nouvelle-Zélande en division F."
+      ]
+    },
+    {
+      "intertitre": "Matchs de classement : des fortunes diverses",
+      "paragraphes": [
+        "En division A, le Maroc a renoué avec la victoire contre le Venezuela (4-3), après des revers face au Paraguay et au Mexique. L'Algérie de Karim Ziani a en revanche cédé contre le Kenya (3-4). Le Cameroun a été battu aux tirs au but par l'Irlande, après un 4-4.",
+        "Dans la division B, les Ivoiriens ont pris le dessus sur les Sud-Africains (4-3), et les Maliens ont largement battu les Émirats (5-1). En division D, la RD Congo s'est imposée 4-1 contre le Burundi."
+      ]
+    }
+  ],
+  "mots": 362,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "ZM",
+    "TN",
+    "CF",
+    "ET"
+  ],
+  "competition": "Coupe du monde U15",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-la-tunisie-dans-lune-des-3-finales-africaines-pas-le-senegal-le-maroc-se-reprend-lalgerie-rechute",
+  "autres_sources": [
+    "https://senego.com/mondial-u15-le-senegal-tombe-en-demi-finale-malgre-le-triple-dabdoulaye-diallo_2018585.html",
+    "https://wiwsport.com/2026/10/29/mondial-u15-le-senegal-sincline-face-a-la-zambie-4-3-et-jouera-le-match-de-classement/",
+    "https://senego.com/u15-senegal-face-a-largentine-vendredi_2018593.html",
+    "https://www.camfoot.com/actualites/mondial-u15-le-cameroun-battu-par-lirlande,559174.html"
+  ],
+  "publie_le": "2026-10-29T17:00:09.000Z",
+  "redige_le": "2026-10-29T18:22:25.839Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/7a81d0612673c94b1fdefa5e56efdffa4ac5caad.webp",
+    "source": "wikimedia",
+    "credit": "Interfase",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Baku_Crystal_Hall_Green_Room.JPG",
+    "alt": "Le Crystal Hall de Bakou, en Azerbaïdjan",
+    "mots_cles": [
+      "Baku Crystal Hall"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

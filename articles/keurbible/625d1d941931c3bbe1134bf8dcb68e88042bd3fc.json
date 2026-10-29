@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "625d1d941931c3bbe1134bf8dcb68e88042bd3fc",
+  "slug": "joj-dakar-2026-les-eveques-du-senegal-appellent-accueillir-chaque-625d1d",
+  "titre": "JOJ Dakar 2026 : les évêques du Sénégal appellent à accueillir chaque visiteur en hôte",
+  "chapo": "À l'approche des JOJ Dakar 2026, l'Église catholique du Sénégal a adressé un message de bienvenue aux participants. Elle demande aux familles et aux paroisses de faire vivre la teranga auprès des athlètes et des visiteurs.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Sénégal reçoit, entre le 31 octobre et le 13 novembre 2026, la quatrième édition des JOJ, premier rendez-vous olympique mondial jamais accueilli en Afrique. Environ 2 700 sportifs âgés de 15 à 17 ans, venus de 206 pays, s'affronteront dans 25 compétitions à Dakar, Diamniadio et Saly.",
+        "Dans leur message, les évêques souhaitent que ces Jeux offrent l'image d'un monde, et d'une Afrique, solidaires et fraternels. Mgr Albert Sène, administrateur diocésain de Thiès et président de la commission épiscopale chargée de la communication et du sport, en a expliqué le sens à Vatican News."
+      ]
+    },
+    {
+      "intertitre": "La teranga lue à la lumière de l'Évangile",
+      "paragraphes": [
+        "Les évêques rapprochent l'hospitalité sénégalaise, la teranga, d'une parole du Christ rapportée par l'Évangile selon saint Matthieu sur l'accueil de l'étranger. Pour les chrétiens, recevoir un visiteur revient à recevoir le Christ. Les paroisses et les familles sont donc invitées à traiter chaque personne de passage comme un hôte.",
+        "Aux athlètes sénégalais, ils rappellent que leur attitude comptera autant que les médailles. Aux sportifs du monde entier, ils disent qu'un adversaire reste un frère. Les journalistes et les utilisateurs des réseaux sociaux sont appelés à raconter les Jeux avec justesse et respect."
+      ]
+    },
+    {
+      "intertitre": "Une messe d'ouverture et une présence au village olympique",
+      "paragraphes": [
+        "Le vendredi 30 octobre, l'archevêque de Dakar, Mgr André Guèye, célébrera une messe d'ouverture à la cathédrale, pour les athlètes, leurs encadrants et les visiteurs. Pendant la compétition, des prêtres, des religieux et des religieuses se relaieront au village olympique de Diamniadio, sous la « Tente de la Rencontre », un espace interreligieux. Ils y accueilleront les sportifs en français, en anglais, en espagnol, en allemand, en portugais et en arabe.",
+        "Une neuvaine et une prière dédiée aux sportifs seront proposées dans les paroisses, jusqu'à une célébration d'action de grâce à la clôture."
+      ]
+    },
+    {
+      "intertitre": "Sous le regard de Popenguine",
+      "paragraphes": [
+        "Les évêques placent les Jeux sous la protection de la Vierge de Popenguine, honorée comme Notre-Dame de la Délivrance, grand lieu de pèlerinage marial du pays, et à saint Pier Giorgio Frassati, patron des sportifs. Le 1er octobre, le pape Léon XIV avait reçu le président du comité olympique sénégalais, Mamadou Diagne Ndiaye, et donné sa bénédiction à l'événement."
+      ]
+    }
+  ],
+  "mots": 397,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/monde/news/2026-10/joj-dakar-2026-l-appel-des-eveques-senegalais-a-la-celebra.html",
+  "publie_le": "2026-10-28T10:21:00.000Z",
+  "redige_le": "2026-10-29T18:21:31.743Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/625d1d941931c3bbe1134bf8dcb68e88042bd3fc.webp",
+    "source": "wikimedia",
+    "credit": "Photowalk",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_du_Souvenir_africain_de_Dakar.jpg",
+    "alt": "La cathédrale de Dakar, au Sénégal",
+    "mots_cles": [
+      "Cathédrale du Souvenir africain"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

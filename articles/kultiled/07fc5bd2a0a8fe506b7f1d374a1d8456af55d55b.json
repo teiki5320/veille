@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "07fc5bd2a0a8fe506b7f1d374a1d8456af55d55b",
+  "slug": "wyoming-une-chambre-de-culture-lumiere-reglable-pour-etudier-effet-du-07fc5b",
+  "titre": "Wyoming : une chambre de culture à lumière réglable pour étudier l'effet du spectre",
+  "chapo": "L'université du Wyoming dispose d'une nouvelle chambre de culture, assez grande pour y entrer, dont on peut régler les couleurs de l'éclairage. Ses chercheurs veulent mieux comprendre comment la qualité de la lumière agit sur les plantes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'équipement, fabriqué par la société Conviron, a rejoint la plateforme de croissance et de phénotypage des plantes de l'université, à Laramie. Son achat a été financé par l'État du Wyoming.",
+        "Il doit faire avancer la photobiologie, une branche des sciences végétales en plein essor. Elle étudie l'influence de la lumière sur le développement des plantes et sur la façon dont elles utilisent l'eau, les nutriments et l'énergie."
+      ]
+    },
+    {
+      "intertitre": "Rouge, bleu et rouge lointain à la carte",
+      "paragraphes": [
+        "Les anciennes chambres offraient un éclairage à large spectre, impossible à modifier. Ici, les chercheurs règlent séparément le rouge, le bleu et le rouge lointain. Ils pourront ainsi mesurer l'efficacité de la photosynthèse, observer la forme que prennent les plantes et suivre leurs réactions métaboliques.",
+        "Le rouge et le bleu sont les couleurs que la chlorophylle absorbe le mieux. Le rouge lointain, à la limite de l'infrarouge, agit notamment sur l'allongement des tiges et la floraison.",
+        "La chambre accueillera aussi une imagerie automatisée pour mesurer un grand nombre de plantes, ainsi qu'un montage hydroponique pour étudier l'absorption des nutriments."
+      ]
+    },
+    {
+      "intertitre": "Une plateforme ouverte à toutes les cultures",
+      "paragraphes": [
+        "La plateforme occupe le cinquième étage du Science Initiative Building, sur près de 600 m². Officiellement ouverte en 2024, elle réunit douze compartiments de serre où l'on pilote la température, l'humidité, l'arrosage, le CO2 et l'éclairage, des chambres de culture et des laboratoires.",
+        "Sa directrice, Carmela Rosaria Guadagno, explique que l'environnement est adapté à chaque culture. En un an, l'équipe a fait pousser des fraises, des tomates, des aubergines, du gombo, des salades, de jeunes pins et des plantes sauvages du Wyoming. Michael Baldwin, chercheur assistant, en assure la gestion."
+      ]
+    },
+    {
+      "intertitre": "Un lieu de recherche et de formation",
+      "paragraphes": [
+        "Biologistes, ingénieurs, généticiens et microbiologistes y travaillent ensemble, notamment sur les capteurs et l'automatisation. Les étudiants y apprennent aussi à manier les outils de contrôle du climat et de phénotypage, en vue de métiers liés à la culture en environnement contrôlé."
+      ]
+    }
+  ],
+  "mots": 356,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:fraise",
+    "legume:tomate",
+    "legume:aubergine"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9887490/university-of-wyoming-adds-conviron-walk-in-chamber-to-plant-growth-facility/",
+  "autres_sources": [
+    "https://www.hortidaily.com/article/9887490/university-of-wyoming-adds-conviron-walk-in-chamber-to-plant-growth-facility/"
+  ],
+  "publie_le": "2026-10-29T13:10:00.000Z",
+  "redige_le": "2026-10-29T18:22:37.337Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/07fc5bd2a0a8fe506b7f1d374a1d8456af55d55b.webp",
+    "source": "wikimedia",
+    "credit": "Tony Webster",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arts_and_Sciences_Building_-_University_of_Wyoming_-_Laramie_(52040416492).jpg",
+    "alt": "Le campus de l'université du Wyoming, à Laramie",
+    "mots_cles": [
+      "University of Wyoming"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
