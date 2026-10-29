@@ -32,7 +32,7 @@ Pour **chaque site** de `sites/*.json` :
    - **Solelis** : France uniquement, du point de vue du dirigeant de TPE ou PME ; pas de noms de dirigeants ou de petites entreprises inconnus.
    - Il est normal de n'avoir qu'une ou deux actus (voire aucune) pour Keur Cook, Keur Déco et Kultiled : ne garde jamais un article hors sujet pour faire du volume.
 3. **Fusionne les doublons** : la même info vue dans plusieurs flux = une seule actu. Le candidat le plus complet est l'`id` principal ; les autres vont dans `autres_ids`.
-4. Garde **12 actus au plus**, les plus importantes d'abord.
+4. Garde **4 actus au plus par site et par jour** (les deux passages comptés ensemble ; regarde dans `actus/<site>.json` combien ont un `collecte_le` d'aujourd'hui et ne rédige que ce qu'il reste). Choisis **les plus pertinentes et les plus « buzz »** : celles dont tout le monde parle (reprises par plusieurs flux = beaucoup d'`autres_ids`), les grands noms, les grands événements, les records et les premières. Classe-les de la plus forte à la moins forte. Le script de publication coupe de toute façon au-delà de 4 par jour.
 5. **Lis les sources des actus gardées** (aucune IA) : `node scripts/sources.mjs <site> <id> <id>…` (ids des candidats principaux). Le texte va dans `tmp/sources/<site>/<id>.txt` et le nombre de mots s'affiche.
    - Si une source fait **moins de 250 mots** (page bloquée, vidéo, brève) : ouvre-la avec WebFetch ; sinon cherche la **même info chez un autre média sérieux** (WebSearch), lis-le avec WebFetch, **ajoute son texte à la fin** de `tmp/sources/<site>/<id>.txt` et son adresse dans `autres_sources` de l'actu.
    - Si, malgré ça, tu n'as pas de quoi écrire 150 mots vrais : **n'en fais pas une actu** (prends-en une autre).

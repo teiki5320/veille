@@ -11,6 +11,9 @@ export const BASE_URL = 'https://teiki5320.github.io/veille';
 export const USER_AGENT = 'VeilleKeur/1.0 (contact: admin@toakeur.com)';
 export const MAX_ACTUS = 60;
 export const MAX_PAR_PASSAGE = 12;
+// Jean, 29/10 : 3 ou 4 actus par jour et par site, les plus pertinentes et les plus « buzz » (les deux passages comptés ensemble).
+export const MAX_PAR_JOUR = 4;
+export const jourParis = (iso) => new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Paris' }).format(new Date(iso));
 export const FENETRE_RECENTES = 20;
 
 // ---------- Fichiers ----------

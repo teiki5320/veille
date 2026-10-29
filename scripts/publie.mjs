@@ -13,7 +13,7 @@ import sharp from 'sharp';
 import Ajv2020 from 'ajv/dist/2020.js';
 import addFormats from 'ajv-formats';
 import {
-  RACINE, BASE_URL, MAX_ACTUS, MAX_PAR_PASSAGE, FENETRE_RECENTES, LIBELLES_THEMES,
+  RACINE, BASE_URL, MAX_ACTUS, MAX_PAR_PASSAGE, MAX_PAR_JOUR, jourParis, FENETRE_RECENTES, LIBELLES_THEMES,
   sites, lireJson, ecrireJson, lireEtat, ecrireEtat, controleAntiCopie, imageDejaVue,
   carteSvg, telecharger, mots, texteSeul, couper, heureParis, normaliserUrl,
   controleArticle, motsArticle, lectureMin, slugDe,
@@ -377,7 +377,10 @@ async function publierSite(config, { verifierSeul, valider, validerArticle }) {
     articles.set(a.id, art);
   }
   ancien.actus = (ancien.actus || []).map((a) => publiees.get(a.id) || a);
-  for (const r of ok.filter((x) => !x.complement && !dejaPublies.has(x.id)).slice(0, MAX_PAR_PASSAGE)) {
+  // Ce qu'il reste pour aujourd'hui : le passage de 19 h complète celui de 12 h jusqu'à MAX_PAR_JOUR.
+  const dejaAujourdhui = (ancien.actus || []).filter((a) => a.collecte_le && jourParis(a.collecte_le) === jourParis(maintenant)).length;
+  const restant = Math.max(0, Math.min(MAX_PAR_PASSAGE, MAX_PAR_JOUR - dejaAujourdhui));
+  for (const r of ok.filter((x) => !x.complement && !dejaPublies.has(x.id)).slice(0, restant)) {
     const c = parId.get(r.id);
     const autres = [...new Set([...(r.autres_ids || []).map((i) => parId.get(i)?.lien), ...(r.autres_sources || [])].filter((u) => u && /^https?:\/\//.test(u) && u !== c.lien))];
     const base = {
