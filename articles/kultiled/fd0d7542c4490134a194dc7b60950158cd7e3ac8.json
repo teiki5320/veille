@@ -49,12 +49,12 @@
   "publie_le": "2026-10-28T15:00:30.000Z",
   "redige_le": "2026-10-30T11:23:08.882Z",
   "image": {
-    "url": "https://teiki5320.github.io/veille/images/kultiled/fd0d7542c4490134a194dc7b60950158cd7e3ac8.webp",
-    "source": "wikimedia",
-    "credit": "Georgin François",
-    "licence": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Georgin_Fran%C3%A7ois,_The_3_Roads_to_Eternity,_1825_Cornell_CUL_PJM_1040_01.jpg",
-    "alt": "Le campus de l'université Cornell, dans l'État de New York, où travaille Neil Mattson.",
+    "url": "https://teiki5320.github.io/veille/cartes/kultiled/fd0d7542c4490134a194dc7b60950158cd7e3ac8.svg",
+    "source": "carte",
+    "credit": "Illustration : Kultiled",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Kultiled avec la mention « Culture en intérieur »",
     "mots_cles": [
       "Cornell University"
     ],

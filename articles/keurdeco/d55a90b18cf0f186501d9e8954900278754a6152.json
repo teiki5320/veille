@@ -47,12 +47,12 @@
   "publie_le": "2026-10-30T04:00:00.000Z",
   "redige_le": "2026-10-30T11:21:59.845Z",
   "image": {
-    "url": "https://teiki5320.github.io/veille/images/keurdeco/d55a90b18cf0f186501d9e8954900278754a6152.webp",
-    "source": "wikimedia",
-    "credit": "Astronomical Institute of the Charles University : Josef Ďurech, Vojtěch Sidorin",
-    "licence": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:1490Limpopo_(Lightcurve_Inversion).png",
-    "alt": "Un paysage de la province du Limpopo, dans le nord de l'Afrique du Sud",
+    "url": "https://teiki5320.github.io/veille/cartes/keurdeco/d55a90b18cf0f186501d9e8954900278754a6152.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Déco",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Déco avec le drapeau national (Afrique du Sud) et la mention « Déco »",
     "mots_cles": [
       "Limpopo"
     ],

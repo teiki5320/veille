@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Keur Déco · Actus">
+<defs><linearGradient id="fond" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3472a"/><stop offset="1" stop-color="#2a1d15"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#fond)"/>
+<g fill="#fdf9f3" opacity="0.06"><rect x="18" y="0" width="4" height="900"/><rect x="58" y="0" width="4" height="900"/><rect x="98" y="0" width="4" height="900"/><rect x="138" y="0" width="4" height="900"/><rect x="178" y="0" width="4" height="900"/><rect x="218" y="0" width="4" height="900"/><rect x="258" y="0" width="4" height="900"/><rect x="298" y="0" width="4" height="900"/><rect x="338" y="0" width="4" height="900"/><rect x="378" y="0" width="4" height="900"/><rect x="418" y="0" width="4" height="900"/><rect x="458" y="0" width="4" height="900"/><rect x="498" y="0" width="4" height="900"/><rect x="538" y="0" width="4" height="900"/><rect x="578" y="0" width="4" height="900"/><rect x="618" y="0" width="4" height="900"/><rect x="658" y="0" width="4" height="900"/><rect x="698" y="0" width="4" height="900"/><rect x="738" y="0" width="4" height="900"/><rect x="778" y="0" width="4" height="900"/><rect x="818" y="0" width="4" height="900"/><rect x="858" y="0" width="4" height="900"/><rect x="898" y="0" width="4" height="900"/><rect x="938" y="0" width="4" height="900"/><rect x="978" y="0" width="4" height="900"/><rect x="1018" y="0" width="4" height="900"/><rect x="1058" y="0" width="4" height="900"/><rect x="1098" y="0" width="4" height="900"/><rect x="1138" y="0" width="4" height="900"/><rect x="1178" y="0" width="4" height="900"/><rect x="1218" y="0" width="4" height="900"/><rect x="1258" y="0" width="4" height="900"/><rect x="1298" y="0" width="4" height="900"/><rect x="1338" y="0" width="4" height="900"/><rect x="1378" y="0" width="4" height="900"/><rect x="1418" y="0" width="4" height="900"/><rect x="1458" y="0" width="4" height="900"/><rect x="1498" y="0" width="4" height="900"/><rect x="1538" y="0" width="4" height="900"/><rect x="1578" y="0" width="4" height="900"/></g>
+<g transform="translate(1430 50) scale(1.1)" fill="none" stroke="#fdf9f3" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"><path d="M38 8 H62 M41 8 C41 19 35 22 27 30 C14 43 14 71 30 84 C39 91 61 91 70 84 C86 71 86 43 73 30 C65 22 59 19 59 8"/><path d="M19 48 H81 M18 64 H82" stroke-width="3"/><path d="M26 48 L32 64 L38 48 L44 64 L50 48 L56 64 L62 48 L68 64 L74 48" stroke-width="3"/></g>
+<rect x="530" y="140" width="540" height="410" rx="18" fill="#fdf9f3" opacity="0.18"/><svg x="540" y="150" width="520" height="390" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="za-a">
+      <path fill-opacity=".7" d="M-71.9 0h682.7v512H-71.9z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#za-a)" transform="translate(67.4)scale(.93748)">
+    <g fill-rule="evenodd" stroke-width="1pt">
+      <path fill="#000001" d="M-71.9 407.8V104.4L154 256.1z"/>
+      <path fill="#000c8a" d="m82.2 512.1 253.6-170.6H696V512H82.2z"/>
+      <path fill="#e1392d" d="M66 0h630v170.8H335.7S69.3-1.7 66 0"/>
+      <path fill="#ffb915" d="M-71.9 64v40.4L154 256-72 407.8v40.3l284.5-192z"/>
+      <path fill="#007847" d="M-71.9 64V0h95l301.2 204h371.8v104.2H324.3L23 512h-94.9v-63.9l284.4-192L-71.8 64z"/>
+      <path fill="#fff" d="M23 0h59.2l253.6 170.7H696V204H324.3zm0 512.1h59.2l253.6-170.6H696v-33.2H324.3L23 512z"/>
+    </g>
+  </g>
+</svg>
+<text x="800" y="660" text-anchor="middle" fill="#fdf9f3" font-family="'Barlow Condensed','Arial Narrow',Helvetica,Arial,sans-serif" font-weight="800" font-size="92" letter-spacing="3">DÉCO</text>
+<text x="800" y="830" text-anchor="middle" fill="#fdf9f3" opacity="0.85" font-family="Helvetica,Arial,sans-serif" font-weight="600" font-size="40" letter-spacing="2">Keur Déco · Actus</text>
+</svg>
