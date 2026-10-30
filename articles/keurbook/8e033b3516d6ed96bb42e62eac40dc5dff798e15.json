@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "8e033b3516d6ed96bb42e62eac40dc5dff798e15",
+  "slug": "rfi-rend-hommage-tanella-boni-grande-voix-des-lettres-ivoiriennes-8e033b",
+  "titre": "RFI rend hommage à Tanella Boni, grande voix des lettres ivoiriennes",
+  "chapo": "Six semaines après sa mort, RFI consacre une émission à Tanella Boni. La romancière, poétesse et philosophe ivoirienne est morte à Toulouse, le 15 septembre 2026.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le 30 octobre, l'émission Littérature sans frontières de RFI a choisi de saluer la mémoire de Tanella Boni. Pour lui rendre hommage, la radio remet à l'antenne un grand entretien enregistré en avril 2024, d'une durée d'environ une demi-heure.",
+        "L'écrivaine y présentait d'abord son ultime roman, un polar sorti en 2023 chez l'éditeur Nimba. Sa mort avait été annoncée le 18 septembre par le ministère ivoirien de la Culture et par la Grande Chancellerie."
+      ]
+    },
+    {
+      "intertitre": "Un polar sur les déchets toxiques",
+      "paragraphes": [
+        "Ce livre prend la forme d'une enquête policière. Il part du meurtre de Fabien, un gardien d'immeuble tué devant son lieu de travail à Abidjan. Sa disparition paraît liée à un navire, le Bateau bleu, venu décharger des déchets dangereux dans le port.",
+        "L'intrigue s'appuie sur une affaire réelle : en 2006, des déchets toxiques avaient été déversés dans la capitale économique ivoirienne. À travers les proches de la victime et la voix du mort lui-même, le roman dresse un portrait de toute la société du pays."
+      ]
+    },
+    {
+      "intertitre": "Une vingtaine de livres et plusieurs combats",
+      "paragraphes": [
+        "Née à Abidjan en 1954, Tanella Boni a étudié à Toulouse puis à Paris, jusqu'à un doctorat d'État de philosophie à la Sorbonne. Elle a enseigné cette discipline à l'université de Cocody, où elle a aussi pris la tête de son département.",
+        "Elle a signé une vingtaine d'ouvrages : poèmes, romans, essais, mais aussi des ouvrages destinés aux jeunes lecteurs. Son roman Matins de couvre-feu a reçu le prix Ahmadou-Kourouma en 2005. En 2025, elle avait reçu une distinction de poésie africaine, le prix Tchicaya U Tam'si. Ses engagements concernaient la cause des femmes, l'école et la protection de l'environnement."
+      ]
+    },
+    {
+      "intertitre": "Une figure du monde du livre ivoirien",
+      "paragraphes": [
+        "De 1991 à 1997, elle a été à la tête de l'AECI, qui rassemble les auteurs ivoiriens. Elle était aussi membre de l'ASCAD, une académie panafricaine tournée vers les arts, les sciences et les cultures du continent et de ses diasporas. Elle avait par ailleurs créé les Poeticales, un rendez-vous ouvert aux poètes et aux slameurs."
+      ]
+    }
+  ],
+  "mots": 363,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "CI"
+  ],
+  "source_nom": "RFI",
+  "source_url": "https://www.rfi.fr/fr/podcasts/litt%C3%A9rature-sans-fronti%C3%A8res/20261030-en-souvenir-de-tanella-boni-%C3%A9crivaine-po%C3%A8te-et-philosophe-ivoirienne",
+  "autres_sources": [
+    "https://fr.allafrica.com/stories/202609190102.html",
+    "https://beninwebtv.bj/tanella-boni-est-morte-a-toulouse-ses-obseques-prevues-lundi/"
+  ],
+  "publie_le": "2026-10-30T06:00:27.000Z",
+  "redige_le": "2026-10-30T11:21:27.235Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/8e033b3516d6ed96bb42e62eac40dc5dff798e15.webp",
+    "source": "wikimedia",
+    "credit": "Ludovic Péron",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tanella_Boni_-_salon_du_livre_Gen%C3%A8ve_2012.jpg",
+    "alt": "Portrait de l'écrivaine et philosophe ivoirienne Tanella Boni",
+    "mots_cles": [
+      "Tanella Boni"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

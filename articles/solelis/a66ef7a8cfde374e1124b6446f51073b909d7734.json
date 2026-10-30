@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "a66ef7a8cfde374e1124b6446f51073b909d7734",
+  "slug": "marseille-un-guichet-commun-pour-aider-les-commercants-pilles-le-17-a66ef7",
+  "titre": "Marseille : un guichet commun pour aider les commerçants pillés le 17 octobre",
+  "chapo": "À Marseille, les services de l'État, la Région, le Département, la Ville et la chambre de commerce ont présenté jeudi 29 octobre un guichet physique destiné aux commerçants victimes des pillages du 17 octobre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La réunion s'est tenue au palais de la Bourse, sur la Canebière, où siège la chambre de commerce locale. Le but : que les boutiques touchées puissent être dédommagées et, au même endroit, avancer leurs dossiers avec leur banque, leur assureur et l'administration fiscale.",
+        "Une permanence sans rendez-vous y était organisée le jour même, en fin d'après-midi. Organismes sociaux, assureurs, banquiers, juristes et experts-comptables y participaient aux côtés des collectivités."
+      ]
+    },
+    {
+      "intertitre": "Plus de 500 commerces concernés",
+      "paragraphes": [
+        "D'après le bilan dressé le 27 octobre par Jean-Luc Chauvin, qui préside la chambre consulaire, 527 commerces ont été touchés dans la métropole : 331 ont subi des dégâts et 128 ont été vidés. À l'échelle du pays, CCI France compte près de 2 500 boutiques touchées le 17 octobre.",
+        "Lors d'une première permanence, le 23 octobre, 40 commerçants avaient été reçus et 166 rendez-vous pris avec des spécialistes."
+      ]
+    },
+    {
+      "intertitre": "Trésorerie et assurance, les deux urgences",
+      "paragraphes": [
+        "Les commerçants doivent réparer, remplacer leur matériel et reconstituer leurs stocks, tout en réglant loyers, crédits et fournisseurs. Certains découvrent que leur contrat d'assurance ne couvre pas ces dommages. Le guichet les aide à déclarer les sinistres, à dialoguer avec leur assureur, à échelonner une partie de leurs charges et à étudier le chômage partiel pour leurs salariés.",
+        "Le calendrier presse : novembre et décembre pèseraient environ 40 % des ventes annuelles du commerce de proximité."
+      ]
+    },
+    {
+      "intertitre": "Une aide régionale jusqu'à fin février",
+      "paragraphes": [
+        "La Région a ouvert le 26 octobre un fonds baptisé « Solidarité commerces pillés ». Il verse une somme forfaitaire de 10 000 euros par établissement, sous conditions, aux PME indépendantes comptant moins de 250 personnes ainsi qu'aux associations et coopératives de l'ESS. Les dossiers se déposent en ligne jusqu'au 28 février 2027, avec un justificatif d'immatriculation, un RIB, la déclaration à l'assureur et un rapport d'expert ou un dépôt de plainte. La CCI propose de les aider à les monter."
+      ]
+    }
+  ],
+  "mots": 347,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Provence",
+  "source_url": "https://www.laprovence.com/article/economie/48158491726688/video-pillages-des-commerces-du-17-octobre-lunion-sacree-pour-relever-le-centre-ville-de-marseille",
+  "autres_sources": [
+    "https://www.economiematin.fr/?p=235947"
+  ],
+  "publie_le": "2026-10-29T19:33:25.000Z",
+  "redige_le": "2026-10-30T11:24:28.512Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/a66ef7a8cfde374e1124b6446f51073b909d7734.webp",
+    "source": "wikimedia",
+    "credit": "Robert Valette",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_de_la_bourse_%C3%A0_Marseille.JPG",
+    "alt": "Le palais de la Bourse, sur la Canebière à Marseille, siège de la chambre de commerce.",
+    "mots_cles": [
+      "Palais de la Bourse (Marseille)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

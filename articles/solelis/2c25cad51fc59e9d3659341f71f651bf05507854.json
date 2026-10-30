@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "2c25cad51fc59e9d3659341f71f651bf05507854",
+  "slug": "bhv-paris-et-lyon-se-disputent-le-dossier-les-dettes-sociales-en-2c25ca",
+  "titre": "BHV : Paris et Lyon se disputent le dossier, les dettes sociales en question",
+  "chapo": "Le dossier du BHV se joue désormais devant deux tribunaux. Mardi, le grand magasin a demandé son redressement judiciaire à Lyon ; vendredi 30 octobre, c'est le tribunal des activités économiques de Paris qui examinait sa situation.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La société SEGM BHV exploite le magasin historique du Marais, ouvert en 1856 au cœur de la capitale, et celui du centre commercial Parly 2, dans les Yvelines. Le 27 octobre, sa direction a reconnu ne plus pouvoir faire face à ses dettes et a sollicité l'ouverture d'un redressement judiciaire auprès du tribunal lyonnais. Elle dit vouloir protéger l'activité, les emplois et son projet de relance.",
+        "Le même dossier était pourtant attendu à Paris vendredi. D'après une source syndicale, l'audience parisienne porte notamment sur une alerte transmise par l'inspection du travail : dès l'été, celle-ci pensait le magasin déjà en cessation des paiements."
+      ]
+    },
+    {
+      "intertitre": "Deux tribunaux pour un même magasin",
+      "paragraphes": [
+        "Pourquoi Lyon, alors que le siège a été transféré à Paris en février ? Une porte-parole de l'enseigne l'explique par une assignation lancée par un créancier dans cette ville il y a plusieurs mois. Les avocats du BHV discutent avec les deux juridictions pour savoir laquelle tranchera. Le parquet, de son côté, a saisi le tribunal parisien.",
+        "Ariel Weil, maire du secteur Paris Centre, a lui aussi écrit au parquet. Il y pointe des défauts de sécurité dans le bâtiment et des cotisations sociales impayées. Selon un délégué CGT, les dettes sociales (Urssaf, mutuelle, retraite) avoisineraient 10 millions d'euros, même si les 680 salariés ont jusqu'ici reçu leur paie."
+      ]
+    },
+    {
+      "intertitre": "Un chiffre d'affaires en chute libre",
+      "paragraphes": [
+        "Les ventes sont tombées de 274 millions d'euros en 2024 à 170 millions en 2025, après l'installation très contestée d'un espace Shein en novembre 2025. Une vingtaine de petites marques non payées sont parties, suivies par des griffes comme Dior ou Maje. Les syndicats comptent 600 départs sans plan de sauvegarde de l'emploi.",
+        "S'y ajoute un conflit avec le fonds canadien Brookfield, qui a acquis les murs pour environ 300 millions d'euros en janvier. Le BHV lui reproche de ne pas avoir versé une trentaine de millions d'euros promis en échange de la restitution d'une partie des surfaces. Brookfield affirme que ces locaux ne sont pas conformes à l'accord."
+      ]
+    },
+    {
+      "intertitre": "Ce que change le redressement",
+      "paragraphes": [
+        "Si la procédure est ouverte, une phase d'observation d'un semestre, prolongeable une fois, permettra de bâtir un plan de continuation. Un administrateur judiciaire pourra consulter les comptes et les contrats. Les représentants du personnel jugent que seule une reprise solide et bien financée sauvera une partie des emplois."
+      ]
+    }
+  ],
+  "mots": 423,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-urssaf"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/le-magasin-parisien-est-en-redressement-judiciaire-le-tribunal-des-affaires-economiques-de-paris-se-penche-sur-la-situation-du-bhv_AD-202610300117.html",
+  "autres_sources": [
+    "https://www.ladepeche.fr/2026/10/30/decryptage-le-bhv-en-redressement-judiciaire-un-an-apres-larrivee-de-shein-faire-du-discount-et-du-luxe-en-meme-temps-ca-nexiste-pas-13624387.php"
+  ],
+  "publie_le": "2026-10-30T05:29:59.000Z",
+  "redige_le": "2026-10-30T11:24:28.512Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/2c25cad51fc59e9d3659341f71f651bf05507854.webp",
+    "source": "wikimedia",
+    "credit": "Guilhem Vellut from Paris, France",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BHV_Le_Marais,_Paris_3_September_2016.jpg",
+    "alt": "La façade du BHV Marais, grand magasin de la rue de Rivoli à Paris.",
+    "mots_cles": [
+      "BHV Marais"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

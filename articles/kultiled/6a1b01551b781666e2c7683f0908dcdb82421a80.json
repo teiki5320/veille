@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "6a1b01551b781666e2c7683f0908dcdb82421a80",
+  "slug": "fraises-de-ferme-verticale-oishii-double-sa-presence-dans-les-6a1b01",
+  "titre": "Fraises de ferme verticale : Oishii double sa présence dans les épiceries américaines",
+  "chapo": "Oishii, spécialiste des fraises cultivées en ferme verticale, va dépasser les 500 magasins aux États-Unis à la fin de 2026. Une croissance rendue possible par une production en forte hausse dans ses fermes automatisées.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La société Oishii, entreprise à la fois américaine et japonaise, produit des petits fruits rouges en environnement contrôlé, à l'intérieur de bâtiments où la lumière, la température et l'humidité sont pilotées. Elle a annoncé fin octobre 2026 un net élargissement de sa distribution : ses fraises seront présentes dans plus de 500 magasins répartis sur 25 États d'ici la fin de l'année, ce qui représente plus du double de son réseau précédent.",
+        "Pour la première fois, trois enseignes accueillent ses fruits : Giant Food, avec 30 magasins dans le Maryland et en Virginie, Walmart, avec 78 magasins dans le New Jersey et en Pennsylvanie, et The Fresh Market, avec 84 magasins dans le sud-est du pays. Cette dernière enseigne fait entrer les fraises d'Oishii pour la première fois en Alabama, en Louisiane, au Mississippi et dans les deux Carolines."
+      ]
+    },
+    {
+      "intertitre": "Une production presque multipliée par quatre",
+      "paragraphes": [
+        "Ce déploiement repose d'abord sur la ferme. Depuis le début de 2026, Oishii dit avoir augmenté de 282 % sa production de Nikko Berry, sa variété la plus diffusée. Le rendement commercialisable de chaque plant a doublé, et la part des fraises cueillies par des robots a progressé de 50 %.",
+        "L'entreprise attribue ces gains à l'amélioration de sa technologie de culture, baptisée Smart Farm, à la modernisation des convoyeurs qui déplacent les plantes et les fruits dans ses installations, ainsi qu'à ses équipes de recherche installées aux États-Unis et au Japon."
+      ]
+    },
+    {
+      "intertitre": "Un emballage repensé",
+      "paragraphes": [
+        "Au début de l'année, Oishii a réorganisé ses trois variétés, Omakase, Koyo et Nikko, en trois niveaux de gamme. La Nikko Berry de niveau Premium, la plus répandue, est vendue dans une barquette qui utilise 80 % de plastique en moins que les boîtes à clapet habituelles. Selon l'entreprise, ce nouvel emballage allonge aussi d'un tiers la durée de conservation du fruit.",
+        "Chez l'enseigne Sprouts, déjà partenaire, la présence d'Oishii est passée de 20 à 65 magasins, avec 34 points supplémentaires en Floride et en Géorgie."
+      ]
+    },
+    {
+      "intertitre": "Un signal pour la culture en intérieur",
+      "paragraphes": [
+        "La fraise compte parmi les cultures les plus délicates à produire en ferme verticale, car elle demande une pollinisation, un éclairage adapté et un contrôle fin du climat. La montée en puissance d'Oishii montre qu'un fruit cultivé entièrement en intérieur peut désormais quitter les épiceries fines pour rejoindre de grandes chaînes de supermarchés."
+      ]
+    }
+  ],
+  "mots": 420,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US",
+    "JP"
+  ],
+  "tags": [
+    "legume:fraise"
+  ],
+  "source_nom": "CEAg World",
+  "source_url": "https://www.ceagworld.com/greenhouse-produce/oishii-expanded-to-500-retail-locations-across-25-states-in-2026/",
+  "publie_le": "2026-10-29T17:00:50.000Z",
+  "redige_le": "2026-10-30T11:23:08.882Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/6a1b01551b781666e2c7683f0908dcdb82421a80.webp",
+    "source": "wikimedia",
+    "credit": "RobThinks",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Oishii_Restaurant_Hertford.jpg",
+    "alt": "Des fraises, le fruit cultivé par Oishii dans ses fermes verticales.",
+    "mots_cles": [
+      "Oishii"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-10-29T18:22:25.830Z",
+  "genere_le": "2026-10-30T11:22:02.339Z",
   "articles": [
+    {
+      "id": "d55a90b18cf0f186501d9e8954900278754a6152",
+      "slug": "afrique-du-sud-tshepo-masilo-peint-les-rituels-du-foyer-dans-portraits-d55a90",
+      "titre": "Afrique du Sud : Tshepo Masilo peint les rituels du foyer dans « Portraits of Home »",
+      "publie_le": "2026-10-30T04:00:00.000Z",
+      "redige_le": "2026-10-30T11:21:59.845Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/d55a90b18cf0f186501d9e8954900278754a6152.json"
+    },
     {
       "id": "3061526d0a94ec81eaa444b72901b7aa96d7ab01",
       "slug": "marrakech-le-jardin-majorelle-devoile-nouala-pavillon-de-salsabil-el-306152",

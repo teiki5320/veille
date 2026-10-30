@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-29T18:22:20.865Z",
+  "genere_le": "2026-10-30T11:21:27.235Z",
   "actus": [
+    {
+      "id": "8e033b3516d6ed96bb42e62eac40dc5dff798e15",
+      "titre": "RFI rend hommage à Tanella Boni, grande voix des lettres ivoiriennes",
+      "resume": "Disparue en septembre à Toulouse, la romancière, poétesse et philosophe ivoirienne Tanella Boni est saluée par RFI. La radio rediffuse un long entretien de 2024 consacré à son ultime roman, un polar paru chez Nimba sur le scandale des déchets toxiques d'Abidjan.",
+      "theme": "livres",
+      "pays": [
+        "CI"
+      ],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/podcasts/litt%C3%A9rature-sans-fronti%C3%A8res/20261030-en-souvenir-de-tanella-boni-%C3%A9crivaine-po%C3%A8te-et-philosophe-ivoirienne",
+      "autres_sources": [
+        "https://fr.allafrica.com/stories/202609190102.html",
+        "https://beninwebtv.bj/tanella-boni-est-morte-a-toulouse-ses-obseques-prevues-lundi/"
+      ],
+      "publie_le": "2026-10-30T06:00:27.000Z",
+      "collecte_le": "2026-10-30T11:21:27.235Z",
+      "langue": "fr",
+      "slug": "rfi-rend-hommage-tanella-boni-grande-voix-des-lettres-ivoiriennes-8e033b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/8e033b3516d6ed96bb42e62eac40dc5dff798e15.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/8e033b3516d6ed96bb42e62eac40dc5dff798e15.webp",
+        "source": "wikimedia",
+        "credit": "Ludovic Péron",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tanella_Boni_-_salon_du_livre_Gen%C3%A8ve_2012.jpg",
+        "alt": "Portrait de l'écrivaine et philosophe ivoirienne Tanella Boni",
+        "mots_cles": [
+          "Tanella Boni"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4c14ebb0deb34da9c28fafd195a1c45ee44f6359",
       "titre": "Prix Renaudot : Osvalde Lewat finaliste, Thélyson Orélien écarté",

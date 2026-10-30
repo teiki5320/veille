@@ -1,8 +1,77 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-29T18:22:46.213Z",
+  "genere_le": "2026-10-30T11:24:28.512Z",
   "actus": [
+    {
+      "id": "2c25cad51fc59e9d3659341f71f651bf05507854",
+      "titre": "BHV : Paris et Lyon se disputent le dossier, les dettes sociales en question",
+      "resume": "Trois jours après la demande de redressement déposée à Lyon par le BHV, le tribunal des activités économiques de Paris s'est penché vendredi sur le grand magasin. Les deux juridictions doivent désigner celle qui est compétente. Un signalement au parquet évoque des cotisations sociales non réglées.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-urssaf"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/le-magasin-parisien-est-en-redressement-judiciaire-le-tribunal-des-affaires-economiques-de-paris-se-penche-sur-la-situation-du-bhv_AD-202610300117.html",
+      "autres_sources": [
+        "https://www.ladepeche.fr/2026/10/30/decryptage-le-bhv-en-redressement-judiciaire-un-an-apres-larrivee-de-shein-faire-du-discount-et-du-luxe-en-meme-temps-ca-nexiste-pas-13624387.php"
+      ],
+      "publie_le": "2026-10-30T05:29:59.000Z",
+      "collecte_le": "2026-10-30T11:24:28.512Z",
+      "langue": "fr",
+      "slug": "bhv-paris-et-lyon-se-disputent-le-dossier-les-dettes-sociales-en-2c25ca",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/2c25cad51fc59e9d3659341f71f651bf05507854.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/2c25cad51fc59e9d3659341f71f651bf05507854.webp",
+        "source": "wikimedia",
+        "credit": "Guilhem Vellut from Paris, France",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:BHV_Le_Marais,_Paris_3_September_2016.jpg",
+        "alt": "La façade du BHV Marais, grand magasin de la rue de Rivoli à Paris.",
+        "mots_cles": [
+          "BHV Marais"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "a66ef7a8cfde374e1124b6446f51073b909d7734",
+      "titre": "Marseille : un guichet commun pour aider les commerçants pillés le 17 octobre",
+      "resume": "État, collectivités et CCI ont présenté jeudi au palais de la Bourse un point d'accueil pour les commerces marseillais pillés lors des violences d'octobre. Les commerçants y obtiennent de l'aide pour être indemnisés et pour leurs dossiers avec leur banque, leur assureur et le fisc.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Provence",
+      "source_url": "https://www.laprovence.com/article/economie/48158491726688/video-pillages-des-commerces-du-17-octobre-lunion-sacree-pour-relever-le-centre-ville-de-marseille",
+      "autres_sources": [
+        "https://www.economiematin.fr/?p=235947"
+      ],
+      "publie_le": "2026-10-29T19:33:25.000Z",
+      "collecte_le": "2026-10-30T11:24:28.512Z",
+      "langue": "fr",
+      "slug": "marseille-un-guichet-commun-pour-aider-les-commercants-pilles-le-17-a66ef7",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a66ef7a8cfde374e1124b6446f51073b909d7734.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/a66ef7a8cfde374e1124b6446f51073b909d7734.webp",
+        "source": "wikimedia",
+        "credit": "Robert Valette",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Palais_de_la_bourse_%C3%A0_Marseille.JPG",
+        "alt": "Le palais de la Bourse, sur la Canebière à Marseille, siège de la chambre de commerce.",
+        "mots_cles": [
+          "Palais de la Bourse (Marseille)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4f52fbad14267cdc1c82f757f84024555d16570b",
       "titre": "TPE : 90 % des patrons pessimistes sur le climat des affaires, un niveau record",

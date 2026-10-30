@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-29T18:22:37.333Z",
+  "genere_le": "2026-10-30T11:23:08.872Z",
   "articles": [
+    {
+      "id": "e3ee453d5dc778fc98f472e3e0abe2e719bbb609",
+      "slug": "mondial-2030-fouzi-lekjaa-defend-casablanca-et-son-stade-geant-pour-la-e3ee45",
+      "titre": "Mondial 2030 : Fouzi Lekjaa défend Casablanca et son stade géant pour la finale",
+      "publie_le": "2026-10-30T09:51:11.000Z",
+      "redige_le": "2026-10-30T11:22:02.354Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/e3ee453d5dc778fc98f472e3e0abe2e719bbb609.json"
+    },
+    {
+      "id": "b684c2db77895f40bbd56c6e27d14512631c3297",
+      "slug": "volte-face-de-la-caf-la-coupe-afrique-garde-son-rythme-de-deux-ans-b684c2",
+      "titre": "Volte-face de la CAF : la Coupe d'Afrique garde son rythme de deux ans",
+      "publie_le": "2026-10-30T09:31:26.000Z",
+      "redige_le": "2026-10-30T11:22:02.354Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/b684c2db77895f40bbd56c6e27d14512631c3297.json"
+    },
+    {
+      "id": "99063a8d5d2c0f3cc23d96615150e35c1976e86c",
+      "slug": "adnane-abid-buteur-du-standard-de-liege-courtise-la-fois-par-le-maroc-99063a",
+      "titre": "Adnane Abid, buteur du Standard de Liège, courtisé à la fois par le Maroc et la Belgique",
+      "publie_le": "2026-10-30T07:45:54.000Z",
+      "redige_le": "2026-10-30T11:22:02.354Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/99063a8d5d2c0f3cc23d96615150e35c1976e86c.json"
+    },
+    {
+      "id": "75075e63a7dbe77b044d255810205879ab04dca1",
+      "slug": "nigeria-eric-chelle-doit-diriger-les-et-les-u23-aux-memes-dates-en-75075e",
+      "titre": "Nigeria : Eric Chelle doit diriger les A et les U23 aux mêmes dates en novembre",
+      "publie_le": "2026-10-29T22:57:55.000Z",
+      "redige_le": "2026-10-30T11:22:02.354Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/75075e63a7dbe77b044d255810205879ab04dca1.json"
+    },
     {
       "id": "7a81d0612673c94b1fdefa5e56efdffa4ac5caad",
       "slug": "mondial-u15-quatre-finales-pour-afrique-le-senegal-battu-par-la-zambie-7a81d0",

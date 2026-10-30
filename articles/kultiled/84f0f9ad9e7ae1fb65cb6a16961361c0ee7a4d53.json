@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "84f0f9ad9e7ae1fb65cb6a16961361c0ee7a4d53",
+  "slug": "hydroponie-ecole-paul-brentlinger-de-cropking-finaliste-un-prix-du-84f0f9",
+  "titre": "Hydroponie à l'école : Paul Brentlinger, de CropKing, finaliste d'un prix du secteur",
+  "chapo": "Le dirigeant de CropKing, Paul Brentlinger, est l'un des trois finalistes de la catégorie Leadership des CEAg World Impact Awards 2026. Il mise sur la préparation des futurs producteurs et sur l'hydroponie à l'école.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Paul Brentlinger préside CropKing, une entreprise de l'Ohio spécialisée dans les serres hydroponiques, où les plantes poussent sans terre, les racines nourries par une eau enrichie en éléments minéraux. Il figure parmi les trois finalistes de la catégorie Leadership des CEAg World Impact Awards 2026, qui distinguent un dirigeant ayant fait avancer à la fois son entreprise et la culture en environnement contrôlé.",
+        "CropKing a été fondée en 1982 par ses parents, Dan et Marilyn Brentlinger. Lui-même a fait pousser sa première culture hydroponique avant ses 10 ans. L'entreprise a travaillé avec des producteurs dans les 50 États américains et dans plus de 20 pays."
+      ]
+    },
+    {
+      "intertitre": "Préparer avant de construire",
+      "paragraphes": [
+        "Depuis plus de vingt ans, Paul Brentlinger pose d'abord la même question aux candidats : leur serre peut-elle devenir une activité durable ? Selon lui, savoir faire pousser une plante ne suffit pas, il faut connaître ses cultures et ses débouchés. Il prévient que passer de l'idée à une serre en fonctionnement prend au moins 12 à 18 mois, parfois plus de cinq ans.",
+        "Il estime que trop de projets ont reposé sur des prévisions trop optimistes et que leurs échecs pèsent sur toute la profession. Alors que les grandes exploitations se regroupent, il défend la place des petites serres locales, souvent de moins de 15 000 pieds carrés, soit environ 1 400 m², parfois reprises par la deuxième ou troisième génération d'une ferme familiale."
+      ]
+    },
+    {
+      "intertitre": "Des systèmes hydroponiques dans les classes",
+      "paragraphes": [
+        "Les ateliers de CropKing mêlent depuis longtemps technique de culture hors-sol, conception de serre et gestion. L'entreprise s'adresse désormais aussi aux écoles, de la maternelle au lycée : elle fournit des systèmes hydroponiques pour les salles de classe, des supports pédagogiques et une formation des enseignants, avec une équipe dédiée.",
+        "Pour Paul Brentlinger, faire pousser des légumes en classe aide les enfants à comprendre l'origine de leur nourriture et les rend plus curieux de goûter fruits et légumes frais. Il intervient aussi dans un centre américain consacré à l'agriculture d'intérieur."
+      ]
+    },
+    {
+      "intertitre": "Annonce le 10 novembre",
+      "paragraphes": [
+        "Le lauréat sera connu le 10 novembre 2026 à Charlotte, en Caroline du Nord, à l'ouverture du salon CEAg World."
+      ]
+    }
+  ],
+  "mots": 388,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "CEAg World",
+  "source_url": "https://www.ceagworld.com/greenhouse-produce/2026-leadership-award-finalist-paul-brentlinger-cropking/",
+  "publie_le": "2026-10-29T13:30:32.000Z",
+  "redige_le": "2026-10-30T11:23:08.882Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/84f0f9ad9e7ae1fb65cb6a16961361c0ee7a4d53.webp",
+    "source": "wikimedia",
+    "credit": "NASA",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_onions,_NASA_--_17_June_2004.jpg",
+    "alt": "Des plantes cultivées en hydroponie, les racines baignant dans une solution nutritive.",
+    "mots_cles": [
+      "Hydroponics"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

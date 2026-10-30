@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-10-29T18:22:46.207Z",
+  "genere_le": "2026-10-30T11:24:28.497Z",
   "articles": [
+    {
+      "id": "6a1b01551b781666e2c7683f0908dcdb82421a80",
+      "slug": "fraises-de-ferme-verticale-oishii-double-sa-presence-dans-les-6a1b01",
+      "titre": "Fraises de ferme verticale : Oishii double sa présence dans les épiceries américaines",
+      "publie_le": "2026-10-29T17:00:50.000Z",
+      "redige_le": "2026-10-30T11:23:08.882Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/6a1b01551b781666e2c7683f0908dcdb82421a80.json"
+    },
+    {
+      "id": "84f0f9ad9e7ae1fb65cb6a16961361c0ee7a4d53",
+      "slug": "hydroponie-ecole-paul-brentlinger-de-cropking-finaliste-un-prix-du-84f0f9",
+      "titre": "Hydroponie à l'école : Paul Brentlinger, de CropKing, finaliste d'un prix du secteur",
+      "publie_le": "2026-10-29T13:30:32.000Z",
+      "redige_le": "2026-10-30T11:23:08.882Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/84f0f9ad9e7ae1fb65cb6a16961361c0ee7a4d53.json"
+    },
     {
       "id": "07fc5bd2a0a8fe506b7f1d374a1d8456af55d55b",
       "slug": "wyoming-une-chambre-de-culture-lumiere-reglable-pour-etudier-effet-du-07fc5b",
@@ -10,6 +26,14 @@
       "publie_le": "2026-10-29T13:10:00.000Z",
       "redige_le": "2026-10-29T18:22:37.337Z",
       "url": "https://teiki5320.github.io/veille/articles/kultiled/07fc5bd2a0a8fe506b7f1d374a1d8456af55d55b.json"
+    },
+    {
+      "id": "fd0d7542c4490134a194dc7b60950158cd7e3ac8",
+      "slug": "eclairage-des-serres-le-chercheur-neil-mattson-cornell-en-lice-pour-un-fd0d75",
+      "titre": "Éclairage des serres : le chercheur Neil Mattson (Cornell) en lice pour un prix du secteur",
+      "publie_le": "2026-10-28T15:00:30.000Z",
+      "redige_le": "2026-10-30T11:23:08.882Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/fd0d7542c4490134a194dc7b60950158cd7e3ac8.json"
     },
     {
       "id": "c7f1ece77e504034321039b214f25bad77d946b4",

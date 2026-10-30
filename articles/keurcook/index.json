@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-10-29T18:22:20.875Z",
+  "genere_le": "2026-10-30T11:21:59.836Z",
   "articles": [
+    {
+      "id": "120614283496c4b42fed019a25c471272d8ea00b",
+      "slug": "le-dessinateur-jul-livre-sa-pkaila-ragout-tunisien-aux-epinards-frits-120614",
+      "titre": "Le dessinateur Jul livre sa pkaila, ragoût tunisien aux épinards frits hérité de sa mère",
+      "publie_le": "2026-10-30T10:30:10.000Z",
+      "redige_le": "2026-10-30T11:21:42.425Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/120614283496c4b42fed019a25c471272d8ea00b.json"
+    },
+    {
+      "id": "c5650d16457dc3a3bf3e669c04075a20a5d6d85c",
+      "slug": "au-cap-le-rooibos-infuse-froid-devient-une-boisson-petillante-aux-c5650d",
+      "titre": "Au Cap, le rooibos infusé à froid devient une boisson pétillante aux plantes locales",
+      "publie_le": "2026-10-29T20:00:34.000Z",
+      "redige_le": "2026-10-30T11:21:42.425Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/c5650d16457dc3a3bf3e669c04075a20a5d6d85c.json"
+    },
     {
       "id": "9dc36264b83f463e4194ea88006de9f4bad725fd",
       "slug": "gragnano-capitale-italienne-des-pates-une-cheffe-dakaroise-signe-un-9dc362",

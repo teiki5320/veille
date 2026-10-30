@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-10-29T18:22:20.879Z",
+  "genere_le": "2026-10-30T11:21:59.845Z",
   "actus": [
+    {
+      "id": "d55a90b18cf0f186501d9e8954900278754a6152",
+      "titre": "Afrique du Sud : Tshepo Masilo peint les rituels du foyer dans « Portraits of Home »",
+      "resume": "L'illustrateur sud-africain Tshepo Masilo, dit TshepoMas, présente « Portraits of Home », une série de peintures sur les gestes quotidiens de la maison. Basé à Johannesburg, il travaille désormais aussi le carton et la mousse d'emballage, et a mis en scène ses tableaux avec des habitants du Limpopo.",
+      "theme": "deco",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Visi",
+      "source_url": "https://visi.co.za/portraits-of-home-by-tshepo-masilo/",
+      "publie_le": "2026-10-30T04:00:00.000Z",
+      "collecte_le": "2026-10-30T11:21:59.845Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-tshepo-masilo-peint-les-rituels-du-foyer-dans-portraits-d55a90",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/d55a90b18cf0f186501d9e8954900278754a6152.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/d55a90b18cf0f186501d9e8954900278754a6152.webp",
+        "source": "wikimedia",
+        "credit": "Astronomical Institute of the Charles University : Josef Ďurech, Vojtěch Sidorin",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:1490Limpopo_(Lightcurve_Inversion).png",
+        "alt": "Un paysage de la province du Limpopo, dans le nord de l'Afrique du Sud",
+        "mots_cles": [
+          "Limpopo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3061526d0a94ec81eaa444b72901b7aa96d7ab01",
       "titre": "Marrakech : le Jardin Majorelle dévoile « Nouala », pavillon de Salsabil El Ouazzani",

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-10-29T18:22:20.871Z",
+  "genere_le": "2026-10-30T11:21:42.393Z",
   "articles": [
+    {
+      "id": "8e033b3516d6ed96bb42e62eac40dc5dff798e15",
+      "slug": "rfi-rend-hommage-tanella-boni-grande-voix-des-lettres-ivoiriennes-8e033b",
+      "titre": "RFI rend hommage à Tanella Boni, grande voix des lettres ivoiriennes",
+      "publie_le": "2026-10-30T06:00:27.000Z",
+      "redige_le": "2026-10-30T11:21:27.235Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/8e033b3516d6ed96bb42e62eac40dc5dff798e15.json"
+    },
     {
       "id": "4c14ebb0deb34da9c28fafd195a1c45ee44f6359",
       "slug": "prix-renaudot-osvalde-lewat-finaliste-thelyson-orelien-ecarte-4c14eb",

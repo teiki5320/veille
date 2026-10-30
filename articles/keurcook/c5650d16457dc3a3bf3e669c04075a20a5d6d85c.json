@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "c5650d16457dc3a3bf3e669c04075a20a5d6d85c",
+  "slug": "au-cap-le-rooibos-infuse-froid-devient-une-boisson-petillante-aux-c5650d",
+  "titre": "Au Cap, le rooibos infusé à froid devient une boisson pétillante aux plantes locales",
+  "chapo": "Une entreprise du Cap mise sur le rooibos, la plante emblématique de la province du Cap-Occidental, pour fabriquer des boissons pétillantes. Elle mélange cette infusion à des fruits et à des plantes sud-africaines.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La marque s'appelle Monatea. Fondée par Tsepo Montsi et Imraan Jeeva, elle fait infuser le rooibos à froid, puis le rend pétillant. L'idée, selon ses créateurs, est de construire le goût avec la plante, les fruits et les herbes plutôt qu'avec du sucre. Le site d'information Cape Town Etc a présenté la démarche.",
+        "Tsepo Montsi voit dans le rooibos une excellente base, et dans la flore sud-africaine un réservoir d'idées presque sans limite."
+      ]
+    },
+    {
+      "intertitre": "Trois mélanges autour de plantes du Cap",
+      "paragraphes": [
+        "La gamme compte trois recettes. La première marie la sauge, le citron vert et la menthe du Cap, pour un profil herbacé et acidulé. La deuxième associe des baies à l'hibiscus, qui apporte de l'acidité, et au buchu, un arbuste aromatique de la région du Cap.",
+        "La troisième réunit le gingembre, la pêche et la feuille d'olivier africain. Deux versions existent : l'une sans sucre ni édulcorant, l'autre légèrement sucrée."
+      ]
+    },
+    {
+      "intertitre": "Le rooibos, plante du Cederberg",
+      "paragraphes": [
+        "Le rooibos est cultivé dans le Cap-Occidental, surtout dans les montagnes du Cederberg, au nord du Cap. On en tire une infusion rouge sans caféine, très bue dans le pays. Il tient une place reconnue dans la culture culinaire sud-africaine, ce qui encourage les jeunes entreprises à bâtir des produits autour de cet ingrédient local.",
+        "Monatea dit s'approvisionner auprès de Skimmelberg, une ferme familiale du Cederberg qui transforme elle-même sa récolte et laisse plus de 90 % de ses terres à la préservation de la nature."
+      ]
+    },
+    {
+      "intertitre": "Au-delà de l'Afrique du Sud",
+      "paragraphes": [
+        "Les boissons sont conditionnées en canettes d'aluminium recyclables et portent des labels bio, halal et casher. Après le marché sud-africain, l'entreprise indique se tourner vers les Pays-Bas, le Botswana et le Canada."
+      ]
+    }
+  ],
+  "mots": 311,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "Cape Town Etc",
+  "source_url": "https://www.capetownetc.com/food-and-drink/monatea-gives-rooibos-a-sparkling-new-identity/",
+  "publie_le": "2026-10-29T20:00:34.000Z",
+  "redige_le": "2026-10-30T11:21:42.425Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/c5650d16457dc3a3bf3e669c04075a20a5d6d85c.webp",
+    "source": "wikimedia",
+    "credit": "Winfried Bruenken ( Amrum )",
+    "licence": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Rooibos_(Aspalathus_linearis)PICT2813.JPG",
+    "alt": "Le rooibos, arbuste des montagnes du Cederberg en Afrique du Sud",
+    "mots_cles": [
+      "Aspalathus linearis"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

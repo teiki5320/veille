@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-10-29T18:22:20.864Z",
+  "genere_le": "2026-10-30T11:21:27.229Z",
   "articles": [
+    {
+      "id": "c044b67bbb9d340a46d9836585e32445b2c46089",
+      "slug": "nairobi-sept-religieuses-franciscaines-prononcent-leurs-premiers-voeux-c044b6",
+      "titre": "Nairobi : sept religieuses franciscaines prononcent leurs premiers vœux",
+      "publie_le": "2026-10-29T20:40:00.000Z",
+      "redige_le": "2026-10-30T11:20:33.951Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/c044b67bbb9d340a46d9836585e32445b2c46089.json"
+    },
     {
       "id": "b9d2ab733c69f68890a718cc23e12a77005dfcb8",
       "slug": "nairobi-premiere-pierre-benie-pour-le-futur-siege-du-centre-biblique-b9d2ab",

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "d55a90b18cf0f186501d9e8954900278754a6152",
+  "slug": "afrique-du-sud-tshepo-masilo-peint-les-rituels-du-foyer-dans-portraits-d55a90",
+  "titre": "Afrique du Sud : Tshepo Masilo peint les rituels du foyer dans « Portraits of Home »",
+  "chapo": "Le Sud-Africain Tshepo Masilo consacre une nouvelle série de tableaux aux petits rituels qui font une maison : la lessive, le crochet, la toilette dans une bassine.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Illustrateur et directeur artistique, Tshepo Masilo signe ses œuvres sous le nom de TshepoMas. Né à Parys, dans l'État-Libre, il vit aujourd'hui à Johannesburg. Le magazine sud-africain de décoration Visi lui consacre un long entretien, mené par Palesa Mohola, à l'occasion de sa série « Portraits of Home ».",
+        "Ces peintures montrent des moments que beaucoup de familles reconnaîtront : un oncle qui se lave dans une bassine, une grand-mère occupée à son crochet, un homme âgé qui fume son tabac, une tante qui fait la lessive avec un bébé noué dans le dos. L'artiste explique que ces images viennent de ses propres souvenirs d'enfance."
+      ]
+    },
+    {
+      "intertitre": "Du dessin numérique aux matières",
+      "paragraphes": [
+        "TshepoMas a commencé par l'illustration sur écran. Il s'est mis à la peinture pour donner à ses images un corps, un objet que l'on peut toucher et partager dans une pièce. Sa pratique mêle aujourd'hui tableaux, fresques murales, illustrations et commandes pour des marques.",
+        "Depuis deux ans, il cherche à rendre ses œuvres plus interactives. Il joue sur la forme, le relief et la texture en utilisant du carton et de la mousse d'emballage. Ce choix, dit-il, renvoie à la débrouille qu'il a toujours vue autour de lui : fabriquer quelque chose de beau avec ce que l'on a sous la main.",
+        "Un prix a marqué son parcours : en 2022, il a remporté le Takealot Heritage Design Challenge, un concours sud-africain de design."
+      ]
+    },
+    {
+      "intertitre": "Un voyage dans le Limpopo",
+      "paragraphes": [
+        "« Portraits of Home » prolonge une exposition précédente, « An African Home ». Pour cette série, l'artiste a travaillé avec le photographe Ntikana Ramohlale. Tous deux se sont rendus dans les villages du Limpopo, une province que le peintre découvrait pour la première fois.",
+        "Sur place, des habitants ont rejoué les scènes des tableaux devant l'objectif. TshepoMas raconte avoir été frappé de croiser des personnes qui ressemblaient beaucoup à des personnages qu'il avait imaginés avant de les rencontrer."
+      ]
+    },
+    {
+      "intertitre": "Raconter la vie ordinaire",
+      "paragraphes": [
+        "Ses personnages sont inventés, mais nourris de gestes, de postures et de détails observés chez ses proches. Il veut que le public se reconnaisse dans une silhouette ou un objet familier, et que d'autres découvrent une façon de vivre qu'ils ne connaissent pas.",
+        "Sans galerie pour le représenter, il assure lui-même la diffusion de son travail. Son projet pour la suite : parcourir le continent africain pour rencontrer ses habitants et faire de leurs histoires la matière de nouvelles œuvres."
+      ]
+    }
+  ],
+  "mots": 429,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "Visi",
+  "source_url": "https://visi.co.za/portraits-of-home-by-tshepo-masilo/",
+  "publie_le": "2026-10-30T04:00:00.000Z",
+  "redige_le": "2026-10-30T11:21:59.845Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/d55a90b18cf0f186501d9e8954900278754a6152.webp",
+    "source": "wikimedia",
+    "credit": "Astronomical Institute of the Charles University : Josef Ďurech, Vojtěch Sidorin",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1490Limpopo_(Lightcurve_Inversion).png",
+    "alt": "Un paysage de la province du Limpopo, dans le nord de l'Afrique du Sud",
+    "mots_cles": [
+      "Limpopo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

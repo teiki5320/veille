@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-29T18:23:42.049Z",
+  "genere_le": "2026-10-30T11:24:58.234Z",
   "articles": [
+    {
+      "id": "2c25cad51fc59e9d3659341f71f651bf05507854",
+      "slug": "bhv-paris-et-lyon-se-disputent-le-dossier-les-dettes-sociales-en-2c25ca",
+      "titre": "BHV : Paris et Lyon se disputent le dossier, les dettes sociales en question",
+      "publie_le": "2026-10-30T05:29:59.000Z",
+      "redige_le": "2026-10-30T11:24:28.512Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/2c25cad51fc59e9d3659341f71f651bf05507854.json"
+    },
+    {
+      "id": "a66ef7a8cfde374e1124b6446f51073b909d7734",
+      "slug": "marseille-un-guichet-commun-pour-aider-les-commercants-pilles-le-17-a66ef7",
+      "titre": "Marseille : un guichet commun pour aider les commerçants pillés le 17 octobre",
+      "publie_le": "2026-10-29T19:33:25.000Z",
+      "redige_le": "2026-10-30T11:24:28.512Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/a66ef7a8cfde374e1124b6446f51073b909d7734.json"
+    },
     {
       "id": "4f52fbad14267cdc1c82f757f84024555d16570b",
       "slug": "tpe-90-des-patrons-pessimistes-sur-le-climat-des-affaires-un-niveau-4f52fb",

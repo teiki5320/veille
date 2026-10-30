@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "75075e63a7dbe77b044d255810205879ab04dca1",
+  "slug": "nigeria-eric-chelle-doit-diriger-les-et-les-u23-aux-memes-dates-en-75075e",
+  "titre": "Nigeria : Eric Chelle doit diriger les A et les U23 aux mêmes dates en novembre",
+  "chapo": "Le Nigeria a confié deux sélections au même homme, et le calendrier le rattrape : en novembre, Eric Chelle est attendu sur deux bancs, dans deux pays, aux mêmes dates.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le technicien franco-malien dirige à la fois les Super Eagles et l'équipe des moins de 23 ans, surnommée les Olympic Eagles. Ce double rôle devait rapprocher les jeunes de la sélection A. Il crée surtout un casse-tête pour la fédération nigériane (NFF).",
+        "Le 13 novembre, les A reçoivent la Tanzanie à Uyo, lors de la 3e journée des qualifications pour la CAN 2027. Au même moment, les U23 sont attendus à Lubumbashi, dans l'enceinte du TP Mazembe, face à la RD Congo, en match aller des qualifications de la CAN U23. Le 17 novembre, rebelote : les A vont à Dar es Salaam, pendant que les jeunes accueillent les Congolais à Ikenne, au Remo Stars Stadium."
+      ]
+    },
+    {
+      "intertitre": "Une équipe sans son entraîneur",
+      "paragraphes": [
+        "La NFF a reconnu que les deux calendriers se chevauchent, sans annoncer quelle sélection Chelle conduira lui-même. Un adjoint ou un intérimaire prendra donc en charge l'autre équipe."
+      ]
+    },
+    {
+      "intertitre": "Les Super Eagles sous pression",
+      "paragraphes": [
+        "L'équipe A paraît prioritaire. Au bout de deux matchs dans sa poule (groupe L), le Nigeria n'a que trois points : un succès contre Madagascar (2-1), puis un revers net en Guinée-Bissau (0-3). La Guinée-Bissau mène avec six points.",
+        "La Tanzanie, qui n'a qu'un point, est déjà qualifiée pour la phase finale comme pays coorganisateur, avec le Kenya et l'Ouganda. Du coup, une seule autre équipe du groupe ira à la CAN : la meilleure des non-qualifiées d'office. Un faux pas à Uyo compliquerait beaucoup la situation nigériane."
+      ]
+    },
+    {
+      "intertitre": "L'enjeu olympique des U23",
+      "paragraphes": [
+        "Pour les moins de 23 ans, les deux matchs contre la RD Congo sont à élimination directe. Le vainqueur ira à la CAN U23, prévue en Égypte en 2027, qui sert aussi de passage vers les Jeux olympiques de Los Angeles en 2028.",
+        "Eric Chelle a déjà présélectionné 31 joueurs des championnats nigérians pour ce rendez-vous. Quel que soit son choix, l'une des deux équipes jouera un match décisif sans son sélectionneur principal."
+      ]
+    }
+  ],
+  "mots": 349,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "NG",
+    "TZ",
+    "CD"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/insolite-eric-chelle-attendu-sur-deux-bancs-le-meme-jour-avec-le-nigeria",
+  "publie_le": "2026-10-29T22:57:55.000Z",
+  "redige_le": "2026-10-30T11:22:02.354Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/75075e63a7dbe77b044d255810205879ab04dca1.webp",
+    "source": "wikimedia",
+    "credit": "Дмитрий Пукалик",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Argentina-Nigeria_(8).jpg",
+    "alt": "Eric Chelle, sélectionneur de l'équipe du Nigeria",
+    "mots_cles": [
+      "Nigeria national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

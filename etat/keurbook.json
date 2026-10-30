@@ -282,81 +282,116 @@
     "0583a9e8b3a9c666e4865badb4194e56c4c48271": "2026-10-29T18:22:20.865Z",
     "736c66595ba9f0fe617b411d3da54babd6e9187b": "2026-10-29T18:22:20.865Z",
     "15cf528dd15439bc7d1ce1802a15f55578541e9e": "2026-10-29T18:22:20.865Z",
-    "b0e639a3466c66368837c21e134b19f894c137a5": "2026-10-29T18:22:20.865Z"
+    "b0e639a3466c66368837c21e134b19f894c137a5": "2026-10-29T18:22:20.865Z",
+    "200c74a1b54c1b4d38b9242b73f248302665a271": "2026-10-30T11:21:27.235Z",
+    "6d58abf4f555b4dafb9d30cbbca11c1def3edac9": "2026-10-30T11:21:27.235Z",
+    "47b0daf96b134506ebb92b95fbb011741eb2d23d": "2026-10-30T11:21:27.235Z",
+    "53b400817a30d9bac9b2b3b578005e457678f6f7": "2026-10-30T11:21:27.235Z",
+    "b02276933f62b4b9061c931e122e53cf44a81405": "2026-10-30T11:21:27.235Z",
+    "bbba416d49f67b24327a3dbb95d1deff674b6088": "2026-10-30T11:21:27.235Z",
+    "b5afecbe13caea614c9fce68904e99c89cf35977": "2026-10-30T11:21:27.235Z",
+    "a2fcad5c820e335fbc0c8a753cd69f40b5d9e937": "2026-10-30T11:21:27.235Z",
+    "990d62cf0cfed8fed423d8d0663f20c0d0826e99": "2026-10-30T11:21:27.235Z",
+    "5afeb05f060f170f5289163520740bac4f866667": "2026-10-30T11:21:27.235Z",
+    "bdbab85f6aa2455db4b561920c346e61fb70a1f3": "2026-10-30T11:21:27.235Z",
+    "eb198e8ff0d07b7e67dc08a71fc49151ac04dcb1": "2026-10-30T11:21:27.235Z",
+    "b1c026bd68172418a0d8278856138a9564e88e9e": "2026-10-30T11:21:27.235Z",
+    "d9106890f470a0dfba09a48ae0a096de984015b5": "2026-10-30T11:21:27.235Z",
+    "3b8ea6fa31c222b5497504129c21780b651ec595": "2026-10-30T11:21:27.235Z",
+    "ab9837b73da4baa5d56450021fd4776d4ef6b8be": "2026-10-30T11:21:27.235Z",
+    "dbe92ec43e50904a3bc9cef1ea1037b34ab623b3": "2026-10-30T11:21:27.235Z",
+    "2792c077b22dd8481d3a07fb766c7cfc951ddad0": "2026-10-30T11:21:27.235Z",
+    "3723dee17e02505ae337c5a4a916280d1d2094f1": "2026-10-30T11:21:27.235Z",
+    "4eb3a9ae0472528fa9c62e40419f91dc01fac87a": "2026-10-30T11:21:27.235Z",
+    "59216e908c1fc4065ba954526d359767cd845a73": "2026-10-30T11:21:27.235Z",
+    "bcd1a20f56a0ce4c685c79165ef305403d6f0377": "2026-10-30T11:21:27.235Z",
+    "8e033b3516d6ed96bb42e62eac40dc5dff798e15": "2026-10-30T11:21:27.235Z",
+    "78a91839ee1ff117d80c699d6a9a87282ce627a9": "2026-10-30T11:21:27.235Z",
+    "a8ccca795f14fffc98996481f921d76a62067cd3": "2026-10-30T11:21:27.235Z",
+    "7641688977942e5f0f93790bf31b828ac1ec36a5": "2026-10-30T11:21:27.235Z",
+    "1a58901029e1f283c2eb398d4d949c792b0ce573": "2026-10-30T11:21:27.235Z",
+    "20369261facecd95372c2b1e5882c0a33e5f9b0c": "2026-10-30T11:21:27.235Z",
+    "32c3ba0614b41dab3fe51b8867b4e001f34f89cf": "2026-10-30T11:21:27.235Z",
+    "ff162452d9dd708b575b870e457fe7659150d453": "2026-10-30T11:21:27.235Z",
+    "e6ce44be64dcd24bf68d0c8e598a7e4df0717dd3": "2026-10-30T11:21:27.235Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 5
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 5
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
       "articles": 1
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 10
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 4
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-10-29T18:12:27.599Z",
+      "dernier_succes": "2026-10-30T11:12:43.823Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     }
   },
   "images_recentes": [
+    {
+      "id": "8e033b3516d6ed96bb42e62eac40dc5dff798e15",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanella_Boni_-_salon_du_livre_Gen%C3%A8ve_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "4c14ebb0deb34da9c28fafd195a1c45ee44f6359",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/0/09/Osvalde_Lewat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -393,6 +428,7 @@
     "f1153723d32109a346001ce3df72ff8927312d97": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boobocar_Boris_Diop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "81a86c82546c52e75447e275d608281982d17d4b": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lokol%C3%A9_au_Mus%C3%A9e_National_de_la_R%C3%A9publique_d%C3%A9mocratique_du_Congo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "58e2a3b715877b5cdeb62ef466ef3749182137aa": "carte:keurbook:58e2a3b715877b5cdeb62ef466ef3749182137aa",
-    "4c14ebb0deb34da9c28fafd195a1c45ee44f6359": "https://upload.wikimedia.org/wikipedia/commons/0/09/Osvalde_Lewat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "4c14ebb0deb34da9c28fafd195a1c45ee44f6359": "https://upload.wikimedia.org/wikipedia/commons/0/09/Osvalde_Lewat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "8e033b3516d6ed96bb42e62eac40dc5dff798e15": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanella_Boni_-_salon_du_livre_Gen%C3%A8ve_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 }

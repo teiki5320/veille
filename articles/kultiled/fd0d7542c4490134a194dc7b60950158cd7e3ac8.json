@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "fd0d7542c4490134a194dc7b60950158cd7e3ac8",
+  "slug": "eclairage-des-serres-le-chercheur-neil-mattson-cornell-en-lice-pour-un-fd0d75",
+  "titre": "Éclairage des serres : le chercheur Neil Mattson (Cornell) en lice pour un prix du secteur",
+  "chapo": "Spécialiste de la lumière et du climat des serres, Neil Mattson, de l'université Cornell, est finaliste des CEAg World Impact Awards 2026 dans la catégorie qui distingue les avancées pour la profession.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Professeur à l'université Cornell, dans l'État de New York, Neil Mattson y dirige le programme consacré à l'agriculture en environnement contrôlé, c'est-à-dire la culture en serre ou en intérieur avec un pilotage précis de la lumière, de l'eau et de la température. Il fait partie des trois finalistes de la catégorie Industry Advancement des CEAg World Impact Awards 2026, organisés par le média spécialisé CEAg World.",
+        "Ce prix récompense une personne dont la recherche, l'enseignement ou le travail de diffusion a fait progresser ce mode de culture et a été mis en pratique par les producteurs."
+      ]
+    },
+    {
+      "intertitre": "Lumière d'appoint et ombrage automatisés",
+      "paragraphes": [
+        "Depuis près de vingt ans à Cornell, Neil Mattson étudie la réaction des plantes de serre à leur environnement : éclairage, arrosage, nutrition des cultures, consommation d'énergie. Il est le chercheur principal du consortium GLASE, créé en 2017 avec l'agence de l'énergie de l'État de New York et des entreprises, qui teste l'efficacité de l'éclairage et des systèmes de pilotage, y compris dans des serres commerciales.",
+        "Lors d'une démonstration menée en 2024 et 2025, un système de GLASE qui gère à la fois les lampes et les écrans d'ombrage a atteint la dose quotidienne de lumière visée environ 8 % plus souvent que la méthode habituelle de la serre, les jours où un éclairage d'appoint était nécessaire.",
+        "Un autre essai a montré qu'un apport de CO₂ accroissait d'environ 7 % la croissance de la laitue. Une simulation estime enfin qu'associer des lampes plus puissantes à des écrans fermés la nuit pourrait réduire de 30 % l'électricité consacrée à l'éclairage."
+      ]
+    },
+    {
+      "intertitre": "Des réglages qui se tiennent entre eux",
+      "paragraphes": [
+        "Le chercheur insiste sur un point : dans une serre, tout est lié. Modifier la lumière oblige à revoir aussi la température, l'humidité et le rythme d'irrigation. Il souligne également qu'une nouveauté technique n'est adoptée que si elle fait gagner du temps au producteur, et pas seulement de l'énergie.",
+        "En 2026, il a rejoint un projet de Cornell sur la détection précoce des maladies en serre, qui associe des robots prélevant des feuilles et des analyses moléculaires rapides. Son objectif à long terme : que les légumes cultivés sous abri coûtent autant que ceux des champs, sans émissions nettes de carbone."
+      ]
+    },
+    {
+      "intertitre": "Résultat en novembre",
+      "paragraphes": [
+        "Les lauréats seront annoncés le 10 novembre 2026 à Charlotte, en Caroline du Nord, lors de l'ouverture du salon CEAg World."
+      ]
+    }
+  ],
+  "mots": 424,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:laitue"
+  ],
+  "source_nom": "CEAg World",
+  "source_url": "https://www.ceagworld.com/greenhouse-produce/2026-industry-advancement-award-finalist-neil-mattson-cornell-university/",
+  "publie_le": "2026-10-28T15:00:30.000Z",
+  "redige_le": "2026-10-30T11:23:08.882Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/fd0d7542c4490134a194dc7b60950158cd7e3ac8.webp",
+    "source": "wikimedia",
+    "credit": "Georgin François",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Georgin_Fran%C3%A7ois,_The_3_Roads_to_Eternity,_1825_Cornell_CUL_PJM_1040_01.jpg",
+    "alt": "Le campus de l'université Cornell, dans l'État de New York, où travaille Neil Mattson.",
+    "mots_cles": [
+      "Cornell University"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

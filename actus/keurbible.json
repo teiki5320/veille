@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-10-29T18:21:31.743Z",
+  "genere_le": "2026-10-30T11:20:33.951Z",
   "actus": [
+    {
+      "id": "c044b67bbb9d340a46d9836585e32445b2c46089",
+      "titre": "Nairobi : sept religieuses franciscaines prononcent leurs premiers vœux",
+      "resume": "Le 29 octobre, sept sœurs de la Congrégation franciscaine clariste ont fait leur première profession dans une paroisse de l'archidiocèse de Nairobi, au Kenya. Dans son homélie, l'archevêque Philip Subira Anyolo les a invitées à une vie sobre, tournée vers la prière et le service.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25023/embrace-evangelical-poverty-resist-worldliness-kenyas-archbishop-anyolo-urges-newly-professed-sisters",
+      "publie_le": "2026-10-29T20:40:00.000Z",
+      "collecte_le": "2026-10-30T11:20:33.951Z",
+      "langue": "en",
+      "slug": "nairobi-sept-religieuses-franciscaines-prononcent-leurs-premiers-voeux-c044b6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/c044b67bbb9d340a46d9836585e32445b2c46089.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/c044b67bbb9d340a46d9836585e32445b2c46089.webp",
+        "source": "wikimedia",
+        "credit": "Roman Catholic Church",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Coat-of-arms-of-archbishop-philip-anyolo-of-kisumu-2018_orig.png",
+        "alt": "L'archevêque catholique kényan Philip Subira Anyolo.",
+        "mots_cles": [
+          "Philip Anyolo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "b9d2ab733c69f68890a718cc23e12a77005dfcb8",
       "titre": "Nairobi : première pierre bénie pour le futur siège du Centre biblique d'Afrique",

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "120614283496c4b42fed019a25c471272d8ea00b",
+  "slug": "le-dessinateur-jul-livre-sa-pkaila-ragout-tunisien-aux-epinards-frits-120614",
+  "titre": "Le dessinateur Jul livre sa pkaila, ragoût tunisien aux épinards frits hérité de sa mère",
+  "chapo": "Le dessinateur Jul a confié au Monde la recette de la pkaila de sa mère tunisienne. Ce ragoût vert sombre demande une longue cuisson et un geste particulier : faire frire les épinards jusqu'à les rendre croustillants.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La pkaila, qu'on écrit aussi bkaïla ou bkeila, est une spécialité des Juifs de Tunisie. C'est une variante locale du hamin, que les Tunisiens appellent t'fina : un plat qui cuit pendant des heures et qu'on prépare souvent pour le shabbat et les fêtes juives.",
+        "Jul, de son vrai nom Julien Berjeaut, est connu pour la série Silex and the City et comme scénariste de Lucky Luke depuis 2016. Il a appris ce plat de sa mère, née en Tunisie, et en partage la façon de faire dans les pages du Monde. Sa version garde les gestes de la cuisine familiale, avec des quantités pensées pour une grande tablée."
+      ]
+    },
+    {
+      "intertitre": "Des épinards réduits en poudre craquante",
+      "paragraphes": [
+        "Tout commence par 1,5 kg d'épinards, frais ou surgelés. Une fois lavés et coupés, ils sèchent dans une grande cocotte très chaude, puis frient dans l'huile versée petit à petit. Il faut remuer longtemps, jusqu'à ce que les feuilles deviennent une poudre sombre et sèche.",
+        "On ajoute alors deux litres d'eau, 200 g de haricots blancs mis à tremper la veille, de l'oignon, de l'ail, des épices, de la menthe, du poivre et un pied de bœuf ou deux pieds de veau en morceaux. La viande arrive à la reprise de l'ébullition."
+      ]
+    },
+    {
+      "intertitre": "Trois heures de mijotage",
+      "paragraphes": [
+        "La pkaila cuit ensuite à couvert, sur feu moyen, pendant environ trois heures. On peut y glisser de l'osbane à mi-cuisson, une sorte de saucisse tunisienne garnie de riz, de viande et d'herbes. Le sel n'entre qu'à la fin, et la sauce doit rester courte. Comptez 40 minutes de préparation et 4 heures de cuisson au total.",
+        "Le plat se sert très chaud. Selon la recette de Jul, on peut séparer la viande et la sauce au moment de servir, puis accompagner le tout de semoule et de harissa. Dans les familles juives de Tunisie, la pkaila se mange aussi avec du couscous, ou seule, sans accompagnement."
+      ]
+    }
+  ],
+  "mots": 355,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "TN"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/m-styles/article/2026/10/30/la-t-fina-pkaila-la-recette-de-jul_6803070_4497319.html",
+  "autres_sources": [
+    "https://en.wikipedia.org/wiki/Pkaila"
+  ],
+  "publie_le": "2026-10-30T10:30:10.000Z",
+  "redige_le": "2026-10-30T11:21:42.425Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/120614283496c4b42fed019a25c471272d8ea00b.webp",
+    "source": "wikimedia",
+    "credit": "Ishpashout",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pkaila.jpg",
+    "alt": "Un plat de pkaila, ragoût tunisien aux épinards et aux haricots blancs",
+    "mots_cles": [
+      "Pkaila"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

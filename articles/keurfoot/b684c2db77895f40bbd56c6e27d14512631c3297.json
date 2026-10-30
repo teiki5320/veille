@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "b684c2db77895f40bbd56c6e27d14512631c3297",
+  "slug": "volte-face-de-la-caf-la-coupe-afrique-garde-son-rythme-de-deux-ans-b684c2",
+  "titre": "Volte-face de la CAF : la Coupe d'Afrique garde son rythme de deux ans",
+  "chapo": "La Confédération africaine de football renonce à espacer sa compétition reine : la CAN continuera de se jouer selon un cycle biennal, onze mois à peine après l'annonce d'un passage à quatre ans.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Comité exécutif de la CAF s'est réuni jeudi 29 octobre 2026 et a tranché à l'unanimité : le grand tournoi africain des sélections reste biennal. La décision a été rendue publique dans la nuit, puis confirmée vendredi par l'instance.",
+        "C'est un net changement de cap. En décembre 2025, la CAF avait annoncé que son tournoi phare ne se jouerait plus que tous les quatre ans. Le président Patrice Motsepe avait ensuite promis de revoir ce choix lors d'une conférence stratégique tenue au Cap-Vert au début du mois d'octobre."
+      ]
+    },
+    {
+      "intertitre": "L'argent au cœur du revirement",
+      "paragraphes": [
+        "Selon Patrice Motsepe, la raison principale est financière. Pour compenser des CAN moins fréquentes, la CAF prévoyait de créer une Ligue des nations africaine, jouée elle aussi tous les deux ans. Ce projet est désormais abandonné.",
+        "Le dirigeant sud-africain a reconnu que cette nouvelle épreuve aurait mis plusieurs années avant de rapporter autant que la CAN. Or le tournoi continental reste la première ressource de la confédération et sert à financer ses autres compétitions continentales."
+      ]
+    },
+    {
+      "intertitre": "Une réforme très contestée",
+      "paragraphes": [
+        "Le passage à quatre ans avait été très critiqué en Afrique. Beaucoup y voyaient un geste envers la FIFA et les grands clubs européens, qui doivent libérer leurs joueurs africains à chaque édition.",
+        "Plusieurs médias spécialisés relient aussi ce retour en arrière au conflit qui oppose l'UEFA à la FIFA : cette dernière ne chercherait plus à satisfaire l'Europe, favorable à des CAN plus rares."
+      ]
+    },
+    {
+      "intertitre": "Le calendrier des prochaines éditions",
+      "paragraphes": [
+        "La prochaine CAN aura lieu en 2027, organisée conjointement par le Kenya, la Tanzanie et l'Ouganda. Suivront les éditions 2028, 2031 et 2033.",
+        "Si trois années séparent 2028 et 2031, c'est à cause du Mondial prévu en 2030 : la CAF ne veut pas organiser son tournoi la même année que le Mondial, qui sera accueilli par le Maroc, l'Espagne et le Portugal. Les qualifications pour l'édition 2027 se poursuivent en novembre."
+      ]
+    }
+  ],
+  "mots": 348,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [],
+  "competition": "CAN",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/la-caf-justifie-le-retour-a-la-can-tous-les-deux-ans",
+  "autres_sources": [
+    "https://senego.com/can-la-caf-fait-marche-arriere-et-confirme-le-retour-a-une-competition-tous-les-deux-ans_2018797.html",
+    "https://www.lequipe.fr/Football/Actualites/La-caf-fait-marche-arriere-la-can-aura-bien-lieu-tous-les-deux-ans/1739654",
+    "https://wiwsport.com/2026/10/30/officiel-la-caf-annonce-le-retour-de-la-can-tous-les-deux-ans/",
+    "https://www.footmercato.net/a2539430389484070950-la-can-se-tiendra-de-nouveau-tous-les-deux-ans",
+    "https://www.rfi.fr/fr/podcasts/journal-des-sports-afrique/20261030-football-la-caf-r%C3%A9trop%C3%A9dale-la-can-reste-biennale",
+    "https://www.camfoot.com/actualites/organisation-can-le-retropedalage-de-la-caf-de-patrice-motsepe,559209.html",
+    "https://www.afrik-foot.com/can-tous-les-deux-ans-la-nouvelle-annonce-de-motsepe",
+    "https://wiwsport.com/2026/10/30/football-la-caf-abandonne-son-projet-de-ligue-des-nations-africaine/"
+  ],
+  "publie_le": "2026-10-30T09:31:26.000Z",
+  "redige_le": "2026-10-30T11:22:02.354Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/b684c2db77895f40bbd56c6e27d14512631c3297.webp",
+    "source": "wikimedia",
+    "credit": "Copyright by World Economic Forum swiss-image.ch/Photo by Monika Flueckiger",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrice_Motsepe.jpg",
+    "alt": "Patrice Motsepe, président de la Confédération africaine de football",
+    "mots_cles": [
+      "Patrice Motsepe"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
