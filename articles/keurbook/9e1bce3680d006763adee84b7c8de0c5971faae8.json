@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "9e1bce3680d006763adee84b7c8de0c5971faae8",
+  "slug": "wolof-une-tribune-plaide-pour-former-des-lecteurs-aux-oeuvres-de-9e1bce",
+  "titre": "Wolof : une tribune plaide pour former des lecteurs aux œuvres de Boubacar Boris Diop",
+  "chapo": "Un texte d'opinion paru le 30 octobre dans la presse en ligne sénégalaise revient sur le colloque consacré à Boubacar Boris Diop. Son auteur interroge l'écart entre la place reconnue au wolof et le nombre de personnes capables de le lire.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le colloque organisé autour de l'écriture de Boubacar Boris Diop a été l'occasion d'un hommage rendu en wolof à l'écrivain sénégalais. Pour l'auteur de la tribune, ce choix a une portée culturelle : il montre que cette langue sait aussi servir à analyser une œuvre, à en discuter le sens et à en saluer l'apport.",
+        "Né à Dakar en 1946, Boubacar Boris Diop a d'abord bâti une œuvre de romancier en français, avant de publier en wolof, notamment « Doomi Golo » en 2003. Écrire dans une langue, souligne le texte, c'est en explorer les ressources et offrir aux lecteurs des images et des rythmes qu'aucune traduction ne rend tout à fait."
+      ]
+    },
+    {
+      "intertitre": "Parler n'est pas lire",
+      "paragraphes": [
+        "La tribune part d'un constat : des millions de Sénégalais parlent le wolof au quotidien, mais tous ne savent pas le lire. Manier la langue à l'oral ne dispense pas d'apprendre ses conventions écrites, et un lecteur à l'aise en français peut peiner devant une page en wolof.",
+        "L'auteur refuse d'y voir un manque de capacités. Il rappelle aussi l'existence du wolofal, l'écriture du wolof en caractères arabes, preuve que plusieurs traditions écrites coexistent."
+      ]
+    },
+    {
+      "intertitre": "Un lectorat à construire",
+      "paragraphes": [
+        "Pour atteindre un public, une œuvre en langue nationale a besoin d'un enseignement adapté, d'éditeurs, de livres abordables et de lieux où les découvrir. Le texte cite l'école, les bibliothèques, les familles et les médias comme autant d'endroits où se forment les lecteurs.",
+        "Les outils numériques, comme les textes accompagnés d'une version audio, peuvent aider s'ils sont bien conçus. La traduction, surtout automatique, reste selon l'auteur un appui utile mais imparfait pour rendre les nuances d'un texte."
+      ]
+    },
+    {
+      "intertitre": "Toutes les langues nationales",
+      "paragraphes": [
+        "L'auteur relie ces questions à la décolonisation des savoirs : faire vivre la recherche et le débat en langues africaines suppose des institutions prêtes à les accueillir. Il souhaite que l'effort ne se limite pas au wolof et profite à toutes les langues du Sénégal, avec des échanges et des traductions entre elles."
+      ]
+    }
+  ],
+  "mots": 369,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN"
+  ],
+  "tags": [
+    "auteur:boubacar-boris-diop"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/langues-nationales-reconnaitre-les-oeuvres-former-les-lecteurs",
+  "publie_le": "2026-10-30T12:24:28.000Z",
+  "redige_le": "2026-10-30T18:20:51.941Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/9e1bce3680d006763adee84b7c8de0c5971faae8.webp",
+    "source": "wikimedia",
+    "credit": "Rama",
+    "licence": "CC BY-SA 2.0 fr",
+    "page": "https://commons.wikimedia.org/wiki/File:Boubacar_Diop_IMG_2389.JPG",
+    "alt": "L'écrivain sénégalais Boubacar Boris Diop",
+    "mots_cles": [
+      "Boubacar Boris Diop"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

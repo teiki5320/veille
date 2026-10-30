@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "407f01b347a20a5ae48340adccd71be50d2feb7f",
+  "slug": "rdc-lubumbashi-un-symposium-ravive-heritage-de-mgr-christophe-407f01",
+  "titre": "RDC : à Lubumbashi, un symposium ravive l'héritage de Mgr Christophe Munzihirwa",
+  "chapo": "Un symposium international réuni à Lubumbashi jusqu'au 31 octobre honore Mgr Christophe Munzihirwa, archevêque jésuite de Bukavu mort il y a trente ans. Ses organisateurs veulent que sa mémoire nourrisse la recherche de la paix au Congo.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La troisième édition de ce rendez-vous consacré à Mgr Christophe Munzihirwa s'est ouverte le 29 octobre à Lubumbashi, dans le sud-est de la République démocratique du Congo. Le thème retenu relie la figure de celui qui fut archevêque de Bukavu aux défis actuels de la paix et à un projet de pacte social destiné à favoriser la cohabitation pacifique.",
+        "L'initiative est portée par le père Toussaint Kafarhire, jésuite à la tête du Centre Arrupe (CARF), une structure jésuite qui mêle travaux de recherche et formation. Dans un entretien aux médias du Vatican, il explique vouloir que les Congolais s'approprient le message de ce prélat et sa façon de guider les autres."
+      ]
+    },
+    {
+      "intertitre": "Une figure de l'Église congolaise",
+      "paragraphes": [
+        "Jésuite, Christophe Munzihirwa était archevêque de Bukavu, dans l'est du pays, lorsqu'il a été tué le 29 octobre 1996, en pleine période de guerre autour des Grands Lacs africains. Trente ans plus tard, il reste pour de nombreux catholiques congolais une référence morale.",
+        "Selon le père Kafarhire, l'archevêque défendait la valeur de chaque être humain, sans tenir compte de son ethnie ni de sa place dans la société. Il prônait une paix fondée sur le dialogue et l'action, et jamais imposée par la force."
+      ]
+    },
+    {
+      "intertitre": "Justice, dialogue et gouvernance",
+      "paragraphes": [
+        "Pour le jésuite, une paix durable passe d'abord par le respect de la loi et par des institutions qui défendent les personnes les plus fragiles. Il désigne l'impunité et les excès des puissants comme des causes profondes des crises que traverse le pays.",
+        "Les échanges abordent aussi l'éthique et la bonne gouvernance. Responsables politiques, acteurs de la société civile et représentants de plusieurs confessions sont invités à prier et à réfléchir ensemble. L'organisateur voit dans cette diversité de participants un motif d'espoir."
+      ]
+    },
+    {
+      "intertitre": "Les femmes et les jeunes en première ligne",
+      "paragraphes": [
+        "Le père Kafarhire insiste enfin sur le rôle des femmes, souvent premières touchées par les conflits, qu'il souhaite voir écoutées et associées aux décisions. Il compte aussi sur les jeunes, qu'il appelle des « soldats de la paix », pour relayer en ligne le message de pardon et de réconciliation laissé par Mgr Munzihirwa."
+      ]
+    }
+  ],
+  "mots": 385,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "CD"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/30-ans-martyr-mgr-munzihirwa-symposium-vivre-son-heritage-rdc.html",
+  "publie_le": "2026-10-30T15:46:00.000Z",
+  "redige_le": "2026-10-30T18:20:41.499Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/407f01b347a20a5ae48340adccd71be50d2feb7f.webp",
+    "source": "wikimedia",
+    "credit": "+Bishop Dr. Steven Ayule-Milenge (PhD)-O/CGS",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pro-Cathedral_Sainte_Trinit%C3%A9.jpg",
+    "alt": "Mgr Christophe Munzihirwa ou un lieu de l'Église catholique en République démocratique du Congo",
+    "mots_cles": [
+      "Bukavu Cathedral"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

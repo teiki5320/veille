@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-30T11:24:58.234Z",
+  "genere_le": "2026-10-30T18:21:15.759Z",
   "articles": [
+    {
+      "id": "a414dc82dd8bc344eae84efdacabe55bcd0c7ae2",
+      "slug": "toulouse-ouverture-dominicale-autorisee-le-1er-novembre-pour-les-a414dc",
+      "titre": "Toulouse : ouverture dominicale autorisée le 1er novembre pour les commerces du centre",
+      "publie_le": "2026-10-30T15:01:43.000Z",
+      "redige_le": "2026-10-30T18:21:06.799Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/a414dc82dd8bc344eae84efdacabe55bcd0c7ae2.json"
+    },
+    {
+      "id": "580a37ad3f94b8851798e4ccf39d18e11a8ec62d",
+      "slug": "pib-en-recul-de-0-1-economie-francaise-frole-la-recession-580a37",
+      "titre": "PIB en recul de 0,1 % : l'économie française frôle la récession, l'investissement freine",
+      "publie_le": "2026-10-30T13:18:19.000Z",
+      "redige_le": "2026-10-30T18:21:06.799Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/580a37ad3f94b8851798e4ccf39d18e11a8ec62d.json"
+    },
     {
       "id": "2c25cad51fc59e9d3659341f71f651bf05507854",
       "slug": "bhv-paris-et-lyon-se-disputent-le-dossier-les-dettes-sociales-en-2c25ca",

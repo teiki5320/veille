@@ -1,8 +1,81 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-30T11:21:27.235Z",
+  "genere_le": "2026-10-30T18:20:51.941Z",
   "actus": [
+    {
+      "id": "2febdbf6f757f883607c0529877cce0b90730f7e",
+      "titre": "À Dakar, le critique Boniface Mongo-Mboussa voit dans le rire une force de résistance",
+      "resume": "Invité d'un colloque littéraire international tenu à Dakar jusqu'au 30 octobre, l'écrivain et critique congolais Boniface Mongo-Mboussa défend l'idée que l'humour aide à tenir le malheur à distance. Mohamed Mbougar Sarr, Ken Bugul et Gauz' figurent aussi parmi les participants.",
+      "theme": "livres",
+      "pays": [
+        "SN",
+        "CG"
+      ],
+      "tags": [
+        "auteur:mohamed-mbougar-sarr",
+        "auteur:ken-bugul",
+        "auteur:gauz",
+        "auteur:leopold-sedar-senghor",
+        "auteur:ousmane-sembene",
+        "auteur:cheikh-anta-diop",
+        "auteur:cheikh-hamidou-kane"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/boniface-mongo-mboussa-le-rire-comme-resistance",
+      "publie_le": "2026-10-30T16:02:45.000Z",
+      "collecte_le": "2026-10-30T18:20:51.941Z",
+      "langue": "fr",
+      "slug": "dakar-le-critique-boniface-mongo-mboussa-voit-dans-le-rire-une-force-2febdb",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/2febdbf6f757f883607c0529877cce0b90730f7e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/2febdbf6f757f883607c0529877cce0b90730f7e.webp",
+        "source": "wikimedia",
+        "credit": "Rama",
+        "licence": "CC BY-SA 3.0 fr",
+        "page": "https://commons.wikimedia.org/wiki/File:Boniface_Mongo-Mboussa-IMG_0837-square.jpg",
+        "alt": "Boniface Mongo-Mboussa, écrivain et critique littéraire congolais, ou un lieu de Dakar",
+        "mots_cles": [
+          "Boniface Mongo-Mboussa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9e1bce3680d006763adee84b7c8de0c5971faae8",
+      "titre": "Wolof : une tribune plaide pour former des lecteurs aux œuvres de Boubacar Boris Diop",
+      "resume": "Une tribune publiée au Sénégal revient sur un colloque dédié à Boubacar Boris Diop et à son œuvre en wolof. Son auteur rappelle qu'on peut parler couramment une langue nationale sans savoir la lire, et appelle l'école, l'édition et la médiation culturelle à former un lectorat.",
+      "theme": "livres",
+      "pays": [
+        "SN"
+      ],
+      "tags": [
+        "auteur:boubacar-boris-diop"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/langues-nationales-reconnaitre-les-oeuvres-former-les-lecteurs",
+      "publie_le": "2026-10-30T12:24:28.000Z",
+      "collecte_le": "2026-10-30T18:20:51.941Z",
+      "langue": "fr",
+      "slug": "wolof-une-tribune-plaide-pour-former-des-lecteurs-aux-oeuvres-de-9e1bce",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/9e1bce3680d006763adee84b7c8de0c5971faae8.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/9e1bce3680d006763adee84b7c8de0c5971faae8.webp",
+        "source": "wikimedia",
+        "credit": "Rama",
+        "licence": "CC BY-SA 2.0 fr",
+        "page": "https://commons.wikimedia.org/wiki/File:Boubacar_Diop_IMG_2389.JPG",
+        "alt": "L'écrivain sénégalais Boubacar Boris Diop",
+        "mots_cles": [
+          "Boubacar Boris Diop"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8e033b3516d6ed96bb42e62eac40dc5dff798e15",
       "titre": "RFI rend hommage à Tanella Boni, grande voix des lettres ivoiriennes",

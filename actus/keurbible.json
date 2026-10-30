@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-10-30T11:20:33.951Z",
+  "genere_le": "2026-10-30T18:20:41.499Z",
   "actus": [
+    {
+      "id": "407f01b347a20a5ae48340adccd71be50d2feb7f",
+      "titre": "RDC : à Lubumbashi, un symposium ravive l'héritage de Mgr Christophe Munzihirwa",
+      "resume": "Trente ans après sa mort, l'ancien archevêque jésuite de Bukavu est au centre d'un troisième symposium international, ouvert le 29 octobre à Lubumbashi. Les participants veulent faire de son message de paix et de respect de chaque personne un appui pour le vivre-ensemble au Congo.",
+      "theme": "culture",
+      "pays": [
+        "CD"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/30-ans-martyr-mgr-munzihirwa-symposium-vivre-son-heritage-rdc.html",
+      "publie_le": "2026-10-30T15:46:00.000Z",
+      "collecte_le": "2026-10-30T18:20:41.499Z",
+      "langue": "fr",
+      "slug": "rdc-lubumbashi-un-symposium-ravive-heritage-de-mgr-christophe-407f01",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/407f01b347a20a5ae48340adccd71be50d2feb7f.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/407f01b347a20a5ae48340adccd71be50d2feb7f.webp",
+        "source": "wikimedia",
+        "credit": "+Bishop Dr. Steven Ayule-Milenge (PhD)-O/CGS",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pro-Cathedral_Sainte_Trinit%C3%A9.jpg",
+        "alt": "Mgr Christophe Munzihirwa ou un lieu de l'Église catholique en République démocratique du Congo",
+        "mots_cles": [
+          "Bukavu Cathedral"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "471c7c09ac1e9bdd6e4df9bff06a02e761964b37",
+      "titre": "Égypte : Tawadros II engage l'Église copte aux côtés d'une fondation caritative",
+      "resume": "Au Caire, le patriarche copte orthodoxe Tawadros II a présidé la signature d'un accord entre son Église et une fondation égyptienne inspirée du Document sur la fraternité humaine. Le texte prévoit une collaboration dans l'aide sociale et les soins aux plus démunis.",
+      "theme": "culture",
+      "pays": [
+        "EG"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/tawadros-ii-protocole-de-cooperation-fraternite-humaine.html",
+      "publie_le": "2026-10-30T15:02:00.000Z",
+      "collecte_le": "2026-10-30T18:20:41.499Z",
+      "langue": "fr",
+      "slug": "egypte-tawadros-ii-engage-eglise-copte-aux-cotes-une-fondation-471c7c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/471c7c09ac1e9bdd6e4df9bff06a02e761964b37.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/471c7c09ac1e9bdd6e4df9bff06a02e761964b37.webp",
+        "source": "wikimedia",
+        "credit": "OSCE Parliamentary Assembly",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tawadros_II.jpg",
+        "alt": "Le pape copte orthodoxe Tawadros II ou la cathédrale Saint-Marc du Caire, siège de l'Église copte",
+        "mots_cles": [
+          "Pope Tawadros II"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c044b67bbb9d340a46d9836585e32445b2c46089",
       "titre": "Nairobi : sept religieuses franciscaines prononcent leurs premiers vœux",

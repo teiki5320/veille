@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-10-30T11:26:30.206Z",
+  "genere_le": "2026-10-30T18:21:06.793Z",
   "articles": [
+    {
+      "id": "f85fc27d87c027c5a479c6840c842da49b93067e",
+      "slug": "canada-un-fonds-de-750-millions-de-dollars-pour-la-culture-en-f85fc2",
+      "titre": "Canada : un fonds de 750 millions de dollars pour la culture en environnement contrôlé",
+      "publie_le": "2026-10-30T17:46:46.000Z",
+      "redige_le": "2026-10-30T18:21:02.627Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/f85fc27d87c027c5a479c6840c842da49b93067e.json"
+    },
     {
       "id": "6a1b01551b781666e2c7683f0908dcdb82421a80",
       "slug": "fraises-de-ferme-verticale-oishii-double-sa-presence-dans-les-6a1b01",

@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-10-30T11:21:27.229Z",
+  "genere_le": "2026-10-30T18:20:51.933Z",
   "articles": [
+    {
+      "id": "407f01b347a20a5ae48340adccd71be50d2feb7f",
+      "slug": "rdc-lubumbashi-un-symposium-ravive-heritage-de-mgr-christophe-407f01",
+      "titre": "RDC : à Lubumbashi, un symposium ravive l'héritage de Mgr Christophe Munzihirwa",
+      "publie_le": "2026-10-30T15:46:00.000Z",
+      "redige_le": "2026-10-30T18:20:41.499Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/407f01b347a20a5ae48340adccd71be50d2feb7f.json"
+    },
+    {
+      "id": "471c7c09ac1e9bdd6e4df9bff06a02e761964b37",
+      "slug": "egypte-tawadros-ii-engage-eglise-copte-aux-cotes-une-fondation-471c7c",
+      "titre": "Égypte : Tawadros II engage l'Église copte aux côtés d'une fondation caritative",
+      "publie_le": "2026-10-30T15:02:00.000Z",
+      "redige_le": "2026-10-30T18:20:41.499Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/471c7c09ac1e9bdd6e4df9bff06a02e761964b37.json"
+    },
     {
       "id": "c044b67bbb9d340a46d9836585e32445b2c46089",
       "slug": "nairobi-sept-religieuses-franciscaines-prononcent-leurs-premiers-voeux-c044b6",

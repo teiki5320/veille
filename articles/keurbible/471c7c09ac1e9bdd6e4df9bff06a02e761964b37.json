@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "471c7c09ac1e9bdd6e4df9bff06a02e761964b37",
+  "slug": "egypte-tawadros-ii-engage-eglise-copte-aux-cotes-une-fondation-471c7c",
+  "titre": "Égypte : Tawadros II engage l'Église copte aux côtés d'une fondation caritative",
+  "chapo": "Le patriarche Tawadros II a reçu au Caire les responsables d'une fondation caritative égyptienne pour sceller un accord avec l'Église copte orthodoxe. Objectif : unir leurs forces auprès des malades et des familles pauvres.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La cérémonie s'est tenue jeudi au siège du patriarcat copte orthodoxe, au Caire. Tawadros II y a accueilli Mgr Yoannis Lahzi Gaid, qui fut le secrétaire particulier du pape François et qui dirige aujourd'hui la fondation dite de la Fraternité humaine. Deux autres membres de ce conseil l'accompagnaient.",
+        "Côté copte, c'est le père Moussa Ibrahim, qui parle au nom de l'Église, qui a apposé sa signature ; Mgr Lahzi Gaid a signé pour la fondation. L'accord fixe un cadre de travail commun dans l'action humanitaire, l'aide sociale et la santé."
+      ]
+    },
+    {
+      "intertitre": "Une fondation tournée vers les plus fragiles",
+      "paragraphes": [
+        "Cette organisation égyptienne veut traduire en actes le texte sur la fraternité humaine signé en 2019 à Abou Dhabi par le pape François et le grand imam d'Al-Azhar. Elle soutient des orphelins, des malades, des personnes âgées et des personnes handicapées, sans distinction.",
+        "Elle gère notamment un foyer pour orphelins dans la nouvelle capitale administrative et un programme baptisé « Bambino Gesù », qui offre gratuitement aux enfants des soins, des examens et des opérations à l'hôpital italien du Caire. D'après Mgr Lahzi Gaid, 9 000 patients ont été suivis l'an dernier."
+      ]
+    },
+    {
+      "intertitre": "Le regard du patriarche",
+      "paragraphes": [
+        "Prenant la parole, le patriarche a observé que l'action sociale existe partout, sous des formes variées, mais qu'elle prend une couleur propre quand l'Église la porte : celle d'un amour qui n'exclut personne. Il s'est réjoui que son Église rejoigne ce service.",
+        "Le patriarche a aussi rappelé que ce rapprochement avait commencé du vivant du pape François, mort en 2025. Le père Moussa Ibrahim a, lui, souligné que le travail en commun produit des effets visibles pour les plus démunis et aide les institutions à mieux se connaître."
+      ]
+    },
+    {
+      "intertitre": "Une Église ancienne d'Égypte",
+      "paragraphes": [
+        "L'Église copte orthodoxe, dont les racines remontent aux premiers siècles du christianisme, rassemble la grande majorité des chrétiens d'Égypte. Le texte de l'accord la décrit comme étroitement liée à l'histoire et à l'identité du pays, et engagée au service de toute la population."
+      ]
+    }
+  ],
+  "mots": 362,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "EG"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/tawadros-ii-protocole-de-cooperation-fraternite-humaine.html",
+  "publie_le": "2026-10-30T15:02:00.000Z",
+  "redige_le": "2026-10-30T18:20:41.499Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/471c7c09ac1e9bdd6e4df9bff06a02e761964b37.webp",
+    "source": "wikimedia",
+    "credit": "OSCE Parliamentary Assembly",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tawadros_II.jpg",
+    "alt": "Le pape copte orthodoxe Tawadros II ou la cathédrale Saint-Marc du Caire, siège de l'Église copte",
+    "mots_cles": [
+      "Pope Tawadros II"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

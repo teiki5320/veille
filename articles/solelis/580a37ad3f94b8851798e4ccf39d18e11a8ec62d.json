@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "580a37ad3f94b8851798e4ccf39d18e11a8ec62d",
+  "slug": "pib-en-recul-de-0-1-economie-francaise-frole-la-recession-580a37",
+  "titre": "PIB en recul de 0,1 % : l'économie française frôle la récession, l'investissement freine",
+  "chapo": "Selon les chiffres publiés le 30 octobre, l'activité française a perdu 0,1 % sur la période de juillet à septembre. Neuf mois sans vraie croissance inquiètent, d'autant que les entreprises réduisent leurs projets.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Au premier trimestre, le PIB avait déjà perdu 0,2 %, puis il était resté stable au deuxième. La nouvelle baisse surprend : l'Insee tablait encore sur une petite progression de 0,1 %. Roland Lescure, qui dirige le ministère de l'Économie, a résumé la situation en jugeant l'économie « à l'arrêt ».",
+        "Techniquement, la France n'est pas en récession : la définition habituelle suppose deux trimestres de baisse qui se suivent, or le printemps a été stable. Mais aucun trimestre de 2026 n'a affiché de vraie croissance. Le gouvernement a d'ailleurs ramené sa prévision pour l'année de 0,7 % à 0,5 %."
+      ]
+    },
+    {
+      "intertitre": "Les entreprises investissent moins",
+      "paragraphes": [
+        "Au troisième trimestre, l'investissement a de nouveau baissé, de 0,6 %, après −0,5 % le trimestre précédent. Les entreprises, comme les ménages et l'État, reportent leurs achats de machines ou leurs agrandissements, faute de visibilité politique et budgétaire. Ce recul pèse sur l'activité immédiate et sur la capacité à produire plus tard.",
+        "Le bâtiment est aussi en difficulté. Les usines produisent sensiblement moins, en particulier chez les constructeurs automobiles et dans l'aéronautique."
+      ]
+    },
+    {
+      "intertitre": "Exportations en baisse, consommation en soutien",
+      "paragraphes": [
+        "Les ventes à l'étranger ont chuté de 1,7 %, en grande partie à cause de l'aéronautique, alors que les achats à l'étranger n'ont presque pas bougé. Le commerce extérieur a ainsi coûté 0,6 point de croissance.",
+        "La consommation des ménages a progressé de 0,4 %, portée notamment par les ventes de voitures électriques. Mais les dépenses en biens ont reculé de 0,5 % en septembre, et la remontée des prix de l'énergie pourrait rogner le budget des familles."
+      ]
+    },
+    {
+      "intertitre": "Un dernier trimestre décisif",
+      "paragraphes": [
+        "Un économiste de l'institut Rexecode évoque un « début de récession ». Si le PIB recule encore d'octobre à décembre, la France s'en rapprocherait nettement. Le principal risque serait que la consommation cède à son tour, alors que l'investissement et les exportations sont déjà en repli : l'économie n'aurait alors presque plus de moteur."
+      ]
+    }
+  ],
+  "mots": 352,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/10/30/leconomie-francaise-est-a-larret-trois-trimestres-sans-croissance-des-entreprises-qui-freinent-leurs-depenses-et-des-exportations-en-chute-la-france-13627927.php",
+  "publie_le": "2026-10-30T13:18:19.000Z",
+  "redige_le": "2026-10-30T18:21:06.799Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/580a37ad3f94b8851798e4ccf39d18e11a8ec62d.webp",
+    "source": "wikimedia",
+    "credit": "Fred Romero from Paris, France",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_(27734592992).jpg",
+    "alt": "Le bâtiment du ministère de l'Économie et des Finances, à Bercy, à Paris",
+    "mots_cles": [
+      "Ministère de l'Économie et des Finances (France)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,71 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-30T11:24:28.512Z",
+  "genere_le": "2026-10-30T18:21:06.799Z",
   "actus": [
+    {
+      "id": "a414dc82dd8bc344eae84efdacabe55bcd0c7ae2",
+      "titre": "Toulouse : ouverture dominicale autorisée le 1er novembre pour les commerces du centre",
+      "resume": "Après plusieurs samedis de manifestations marqués par des débordements, la mairie de Toulouse permet aux commerces d'ouvrir le dimanche 1er novembre. Selon la CCI de Haute-Garonne, les ventes ont reculé d'environ 30 % puis 40 % les deux premiers samedis, et des commerçants réclament d'autres dimanches.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/10/30/manifestation-du-31-octobre-a-toulouse-la-mairie-autorise-louverture-des-commerces-ce-dimanche-pour-compenser-les-pertes-13628096.php",
+      "autres_sources": [
+        "https://www.ladepeche.fr/2026/10/30/manifestations-du-31-octobre-a-toulouse-il-faut-obtenir-lautorisation-douvrir-les-dimanches-de-novembre-plaide-cette-commercante-qui-a-accuse-plus-de-13627827.php"
+      ],
+      "publie_le": "2026-10-30T15:01:43.000Z",
+      "collecte_le": "2026-10-30T18:21:06.799Z",
+      "langue": "fr",
+      "slug": "toulouse-ouverture-dominicale-autorisee-le-1er-novembre-pour-les-a414dc",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a414dc82dd8bc344eae84efdacabe55bcd0c7ae2.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/a414dc82dd8bc344eae84efdacabe55bcd0c7ae2.webp",
+        "source": "wikimedia",
+        "credit": "Didier Descouens",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Rue_de_Metz_(Toulouse).jpg",
+        "alt": "Une rue commerçante du centre-ville de Toulouse",
+        "mots_cles": [
+          "Rue de Metz (Toulouse)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "580a37ad3f94b8851798e4ccf39d18e11a8ec62d",
+      "titre": "PIB en recul de 0,1 % : l'économie française frôle la récession, l'investissement freine",
+      "resume": "Le PIB français a perdu 0,1 % au troisième trimestre, ce qui suit un recul en début d'année et une stagnation au printemps. L'investissement continue de diminuer et les exportations chutent, tandis que la consommation des ménages tient encore.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/10/30/leconomie-francaise-est-a-larret-trois-trimestres-sans-croissance-des-entreprises-qui-freinent-leurs-depenses-et-des-exportations-en-chute-la-france-13627927.php",
+      "publie_le": "2026-10-30T13:18:19.000Z",
+      "collecte_le": "2026-10-30T18:21:06.799Z",
+      "langue": "fr",
+      "slug": "pib-en-recul-de-0-1-economie-francaise-frole-la-recession-580a37",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/580a37ad3f94b8851798e4ccf39d18e11a8ec62d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/580a37ad3f94b8851798e4ccf39d18e11a8ec62d.webp",
+        "source": "wikimedia",
+        "credit": "Fred Romero from Paris, France",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_(27734592992).jpg",
+        "alt": "Le bâtiment du ministère de l'Économie et des Finances, à Bercy, à Paris",
+        "mots_cles": [
+          "Ministère de l'Économie et des Finances (France)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "2c25cad51fc59e9d3659341f71f651bf05507854",
       "titre": "BHV : Paris et Lyon se disputent le dossier, les dettes sociales en question",

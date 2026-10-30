@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "a414dc82dd8bc344eae84efdacabe55bcd0c7ae2",
+  "slug": "toulouse-ouverture-dominicale-autorisee-le-1er-novembre-pour-les-a414dc",
+  "titre": "Toulouse : ouverture dominicale autorisée le 1er novembre pour les commerces du centre",
+  "chapo": "Le maire de Toulouse a signé un arrêté qui permet aux commerces d'ouvrir le dimanche 1er novembre. Il veut aider les boutiques du centre-ville, touchées par la baisse de fréquentation liée aux manifestations d'octobre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le maire, Jean-Luc Moudenc, qui préside aussi la métropole, a pris cette décision à la veille d'un autre samedi de manifestations, le 31 octobre. Il répond à une demande de la fédération qui regroupe les associations d'artisans et de commerçants de la ville.",
+        "Depuis le début du mouvement social, plusieurs rassemblements ont été suivis de débordements dans l'hypercentre. De nombreuses vitrines sont désormais protégées par des panneaux de bois, ce qui cache les enseignes et décourage une partie des clients."
+      ]
+    },
+    {
+      "intertitre": "Des pertes chiffrées",
+      "paragraphes": [
+        "La CCI de Haute-Garonne parle d'un recul des ventes proche de 30 % le premier samedi, et voisin de 40 % la semaine suivante. Dans l'hypercentre, le nombre de passants a chuté de moitié environ.",
+        "Certains commerçants évoquent un manque à gagner compris entre 4 000 et 5 000 euros pour chaque samedi perturbé. L'activité des autres jours ne suffit pas toujours à combler ce trou."
+      ]
+    },
+    {
+      "intertitre": "La trésorerie sous tension",
+      "paragraphes": [
+        "Installée rue de Metz depuis quinze ans, une commerçante indépendante fait état d'une chute de plus de 70 % de son chiffre d'affaires lors des deux derniers samedis, sans rattrapage possible sur internet. Elle explique ne plus se verser de salaire depuis juin. Sa rue, déjà vidée par des mois de chantier, cumule les difficultés.",
+        "Elle demande que les commerces puissent aussi ouvrir les autres dimanches de novembre, comme Rouen et Le Havre l'ont obtenu pour les 1er et 8 novembre. L'enjeu est de reconstituer de la trésorerie avant le Black Friday, le 28 novembre, puis Noël et les soldes de janvier."
+      ]
+    },
+    {
+      "intertitre": "Des freins plus anciens",
+      "paragraphes": [
+        "Selon elle, les manifestations s'ajoutent à des difficultés déjà présentes : accès compliqué au centre, coût du carburant et du stationnement, fortes chaleurs de l'été. Elle rappelle que les commerçants avaient déjà subi de nombreux samedis perturbés pendant le mouvement des gilets jaunes, en 2018."
+      ]
+    }
+  ],
+  "mots": 338,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/10/30/manifestation-du-31-octobre-a-toulouse-la-mairie-autorise-louverture-des-commerces-ce-dimanche-pour-compenser-les-pertes-13628096.php",
+  "autres_sources": [
+    "https://www.ladepeche.fr/2026/10/30/manifestations-du-31-octobre-a-toulouse-il-faut-obtenir-lautorisation-douvrir-les-dimanches-de-novembre-plaide-cette-commercante-qui-a-accuse-plus-de-13627827.php"
+  ],
+  "publie_le": "2026-10-30T15:01:43.000Z",
+  "redige_le": "2026-10-30T18:21:06.799Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/a414dc82dd8bc344eae84efdacabe55bcd0c7ae2.webp",
+    "source": "wikimedia",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_de_Metz_(Toulouse).jpg",
+    "alt": "Une rue commerçante du centre-ville de Toulouse",
+    "mots_cles": [
+      "Rue de Metz (Toulouse)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

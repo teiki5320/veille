@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-10-30T11:23:08.882Z",
+  "genere_le": "2026-10-30T18:21:02.627Z",
   "actus": [
+    {
+      "id": "f85fc27d87c027c5a479c6840c842da49b93067e",
+      "titre": "Canada : un fonds de 750 millions de dollars pour la culture en environnement contrôlé",
+      "resume": "Le gouvernement canadien a ouvert le 30 octobre un programme de 750 millions de dollars consacré à l'agriculture en environnement contrôlé. Un volet finance l'achat de technologies, dont l'éclairage, l'autre des projets locaux dans les régions rurales et nordiques. Les premiers dossiers sont attendus jusqu'au 23 décembre 2026.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "source_nom": "Greenhouse Canada",
+      "source_url": "https://www.greenhousecanada.com/ottawas-750m-cea-funding-program-opens-to-applicants/",
+      "publie_le": "2026-10-30T17:46:46.000Z",
+      "collecte_le": "2026-10-30T18:21:02.627Z",
+      "langue": "en",
+      "slug": "canada-un-fonds-de-750-millions-de-dollars-pour-la-culture-en-f85fc2",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/f85fc27d87c027c5a479c6840c842da49b93067e.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/f85fc27d87c027c5a479c6840c842da49b93067e.webp",
+        "source": "wikimedia",
+        "credit": "Ken Lund from Reno, Nevada, USA",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Leamington,_Ontario_(21782912051).jpg",
+        "alt": "Des serres de production de légumes au Canada",
+        "mots_cles": [
+          "Greenhouses in Leamington, Ontario"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "6a1b01551b781666e2c7683f0908dcdb82421a80",
       "titre": "Fraises de ferme verticale : Oishii double sa présence dans les épiceries américaines",

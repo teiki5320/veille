@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-10-30T11:21:42.393Z",
+  "genere_le": "2026-10-30T18:21:02.594Z",
   "articles": [
+    {
+      "id": "2febdbf6f757f883607c0529877cce0b90730f7e",
+      "slug": "dakar-le-critique-boniface-mongo-mboussa-voit-dans-le-rire-une-force-2febdb",
+      "titre": "À Dakar, le critique Boniface Mongo-Mboussa voit dans le rire une force de résistance",
+      "publie_le": "2026-10-30T16:02:45.000Z",
+      "redige_le": "2026-10-30T18:20:51.941Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/2febdbf6f757f883607c0529877cce0b90730f7e.json"
+    },
+    {
+      "id": "9e1bce3680d006763adee84b7c8de0c5971faae8",
+      "slug": "wolof-une-tribune-plaide-pour-former-des-lecteurs-aux-oeuvres-de-9e1bce",
+      "titre": "Wolof : une tribune plaide pour former des lecteurs aux œuvres de Boubacar Boris Diop",
+      "publie_le": "2026-10-30T12:24:28.000Z",
+      "redige_le": "2026-10-30T18:20:51.941Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/9e1bce3680d006763adee84b7c8de0c5971faae8.json"
+    },
     {
       "id": "8e033b3516d6ed96bb42e62eac40dc5dff798e15",
       "slug": "rfi-rend-hommage-tanella-boni-grande-voix-des-lettres-ivoiriennes-8e033b",

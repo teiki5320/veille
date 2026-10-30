@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "2febdbf6f757f883607c0529877cce0b90730f7e",
+  "slug": "dakar-le-critique-boniface-mongo-mboussa-voit-dans-le-rire-une-force-2febdb",
+  "titre": "À Dakar, le critique Boniface Mongo-Mboussa voit dans le rire une force de résistance",
+  "chapo": "L'écrivain et critique congolais Boniface Mongo-Mboussa participe à Dakar à trois jours de rencontres consacrées à l'humour en littérature. Pour lui, rire permet de garder une part de liberté quand tout va mal.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Du 28 au 30 octobre, la capitale sénégalaise accueille un colloque international dont l'intitulé reprend une formule célèbre associant le rire au désespoir. Écrivains, universitaires et artistes y décortiquent la satire, l'ironie et la moquerie chez les auteurs d'hier et d'aujourd'hui, en Afrique comme ailleurs.",
+        "Boniface Mongo-Mboussa, chercheur reconnu pour ses travaux de critique, a étudié le rire pendant sa thèse de doctorat. Il y voit un sujet riche, qui va de la parodie à l'ironie et en dit long sur notre façon d'habiter le monde."
+      ]
+    },
+    {
+      "intertitre": "Prendre de la distance",
+      "paragraphes": [
+        "Selon lui, le rire n'efface ni la souffrance ni l'injustice. Il offre en revanche une chance de ne pas s'y laisser enfermer, de regarder une situation pesante sous un autre angle et d'en voir l'absurdité. Cette respiration, même brève, aide à tenir.",
+        "Le critique rattache cette idée au passé des peuples noirs, qui ont traversé l'esclavage, la colonisation puis les secousses des indépendances. Il se demande comment ces populations ont tenu face à tant d'épreuves, et voit dans le rire, la danse et la culture des formes de résistance collective. La littérature, par la satire ou le comique, permet aussi de mettre à nu les rapports de domination."
+      ]
+    },
+    {
+      "intertitre": "Un colloque ouvert au public dakarois",
+      "paragraphes": [
+        "Pour Boniface Mongo-Mboussa, le choix de Dakar compte. Il évoque Senghor, Sembène, Cheikh Anta Diop ou encore Cheikh Hamidou Kane, des auteurs qui ont nourri la pensée du continent. Il espère des débats avec le public sénégalais sur les identités et sur la manière de vivre ensemble.",
+        "Les séances se déroulent à l'Institut français, sur le campus de la grande université publique de Dakar, dans des librairies et dans des écoles. Parmi les invités figurent Mohamed Mbougar Sarr, Ken Bugul, Gauz', Bessora, Gaël Octavia et Mabrouck Rachedi. On y croise aussi Odia, dessinateur de presse, et Élisabeth Dadoul, éditrice.",
+        "La Fabrique des mots, programme qui accompagne de nouvelles plumes, y verra en outre une promotion céder la place à la suivante."
+      ]
+    }
+  ],
+  "mots": 358,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN",
+    "CG"
+  ],
+  "tags": [
+    "auteur:mohamed-mbougar-sarr",
+    "auteur:ken-bugul",
+    "auteur:gauz",
+    "auteur:leopold-sedar-senghor",
+    "auteur:ousmane-sembene",
+    "auteur:cheikh-anta-diop",
+    "auteur:cheikh-hamidou-kane"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/boniface-mongo-mboussa-le-rire-comme-resistance",
+  "publie_le": "2026-10-30T16:02:45.000Z",
+  "redige_le": "2026-10-30T18:20:51.941Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/2febdbf6f757f883607c0529877cce0b90730f7e.webp",
+    "source": "wikimedia",
+    "credit": "Rama",
+    "licence": "CC BY-SA 3.0 fr",
+    "page": "https://commons.wikimedia.org/wiki/File:Boniface_Mongo-Mboussa-IMG_0837-square.jpg",
+    "alt": "Boniface Mongo-Mboussa, écrivain et critique littéraire congolais, ou un lieu de Dakar",
+    "mots_cles": [
+      "Boniface Mongo-Mboussa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

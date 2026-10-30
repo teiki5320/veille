@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "f85fc27d87c027c5a479c6840c842da49b93067e",
+  "slug": "canada-un-fonds-de-750-millions-de-dollars-pour-la-culture-en-f85fc2",
+  "titre": "Canada : un fonds de 750 millions de dollars pour la culture en environnement contrôlé",
+  "chapo": "Ottawa a lancé le 30 octobre un programme de 750 millions de dollars canadiens pour développer la production de fruits et légumes sous abri tout au long de l'année. Robotique, automatisation et éclairage font partie des dépenses visées.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le ministre fédéral de l'Agriculture et de l'Agroalimentaire, Heath MacDonald, a présenté les règles de ce programme dédié à l'agriculture en environnement contrôlé, souvent désignée par le sigle anglais CEA. L'enveloppe avait été annoncée en juin dans le cadre de la stratégie nationale de sécurité alimentaire du Canada, dotée de 3,2 milliards de dollars.",
+        "L'agriculture en environnement contrôlé regroupe les serres, les fermes verticales et les autres installations où la lumière, la température, l'humidité et l'arrosage sont pilotés. Elle permet de récolter même pendant le long hiver canadien."
+      ]
+    },
+    {
+      "intertitre": "Deux volets de financement",
+      "paragraphes": [
+        "La plus grosse part, 650 millions de dollars, va à un volet consacré à l'adoption de technologies. Il doit aider les producteurs à installer, agrandir ou moderniser leurs équipements. Les dépenses admises couvrent l'automatisation, la robotique, les outils numériques de culture et l'éclairage, poste clé des cultures sous lumière artificielle.",
+        "Les 100 millions restants financent des projets portés par des collectivités rurales et nordiques, pour produire davantage sur place et rendre les produits frais plus faciles à trouver."
+      ]
+    },
+    {
+      "intertitre": "Qui peut demander une aide",
+      "paragraphes": [
+        "Chaque projet retenu pourra recevoir de 100 000 à 10 millions de dollars. Dans le volet technologique, l'aide sera remboursable ou non selon le projet et les retombées attendues. Dans le volet rural et nordique, elle n'aura jamais à être remboursée.",
+        "Le programme s'adresse aux producteurs canadiens, aux entreprises comme aux organismes sans but lucratif, aux personnes et communautés autochtones, aux associations et aux autres niveaux de gouvernement."
+      ]
+    },
+    {
+      "intertitre": "Un calendrier en deux temps",
+      "paragraphes": [
+        "Les candidats envoient d'abord un résumé de leur projet, jusqu'au 23 décembre 2026. Ceux dont la proposition correspond aux objectifs du programme seront ensuite invités à déposer un dossier complet auprès d'Agriculture et Agroalimentaire Canada."
+      ]
+    }
+  ],
+  "mots": 321,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "source_nom": "Greenhouse Canada",
+  "source_url": "https://www.greenhousecanada.com/ottawas-750m-cea-funding-program-opens-to-applicants/",
+  "publie_le": "2026-10-30T17:46:46.000Z",
+  "redige_le": "2026-10-30T18:21:02.627Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/f85fc27d87c027c5a479c6840c842da49b93067e.webp",
+    "source": "wikimedia",
+    "credit": "Ken Lund from Reno, Nevada, USA",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Leamington,_Ontario_(21782912051).jpg",
+    "alt": "Des serres de production de légumes au Canada",
+    "mots_cles": [
+      "Greenhouses in Leamington, Ontario"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
