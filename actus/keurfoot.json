@@ -65,12 +65,12 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/189d12871782a9d7ab6b46e916cbebd855fad06e.json",
       "lecture_min": 1,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/189d12871782a9d7ab6b46e916cbebd855fad06e.webp",
-        "source": "wikimedia",
-        "credit": "cogdogblog",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Big_Foot_tire_with_alloy_wheel_on_a_Ford_F-150_(15291518063).jpg",
-        "alt": "L'académie sénégalaise de football Génération Foot",
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/189d12871782a9d7ab6b46e916cbebd855fad06e.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « Football »",
         "mots_cles": [
           "Génération Foot"
         ],
