@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-10-30T18:20:41.499Z",
+  "genere_le": "2026-10-31T11:10:14.922Z",
   "actus": [
     {
       "id": "407f01b347a20a5ae48340adccd71be50d2feb7f",
@@ -58,6 +58,96 @@
         "alt": "Le pape copte orthodoxe Tawadros II ou la cathédrale Saint-Marc du Caire, siège de l'Église copte",
         "mots_cles": [
           "Pope Tawadros II"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "500e0049c984e8b1bed76fa910b8ef494fbc6fbf",
+      "titre": "Kenya : l'évêque de Homa Bay veut que l'Église africaine envoie à son tour des prêtres",
+      "resume": "Devant des prêtres Fidei Donum réunis le 28 octobre à Homa Bay, Mgr Michael Otieno Odiwa a plaidé pour une mission à double sens. Selon lui, les Églises africaines qui ont reçu des missionnaires doivent désormais envoyer leurs propres prêtres vers les diocèses qui en manquent.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25035/fidei-donum-not-a-one-way-arrangement-kenyan-catholic-bishop-advocates-for-reciprocity-in-mission",
+      "publie_le": "2026-10-30T14:58:00.000Z",
+      "collecte_le": "2026-10-31T11:10:14.922Z",
+      "langue": "en",
+      "slug": "kenya-eveque-de-homa-bay-veut-que-eglise-africaine-envoie-son-tour-des-500e00",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/500e0049c984e8b1bed76fa910b8ef494fbc6fbf.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/500e0049c984e8b1bed76fa910b8ef494fbc6fbf.webp",
+        "source": "wikimedia",
+        "credit": "Lukas Mott",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Homa_Bay_City_(2023).jpg",
+        "alt": "Une vue de Homa Bay, au bord du lac Victoria, au Kenya.",
+        "mots_cles": [
+          "Homa Bay"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "3d531c56ea0746e127277622a45672298a34576e",
+      "titre": "Malawi : les Œuvres pontificales missionnaires prennent part à une conférence à Rome",
+      "resume": "Le directeur des Œuvres pontificales missionnaires au Malawi, le père Ephraim Peter Madeya, voit dans la conférence internationale réunie à Rome du 29 au 31 octobre une occasion de renforcer la coopération pour l'évangélisation. Il rappelle que la mission concerne tous les baptisés.",
+      "theme": "culture",
+      "pays": [
+        "MW"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25043/an-opportunity-to-strengthen-cooperation-in-evangelization-malawis-pms-official-on-participation-in-rome-conference",
+      "publie_le": "2026-10-30T14:18:00.000Z",
+      "collecte_le": "2026-10-31T11:10:14.922Z",
+      "langue": "en",
+      "slug": "malawi-les-oeuvres-pontificales-missionnaires-prennent-part-une-3d531c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/3d531c56ea0746e127277622a45672298a34576e.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/3d531c56ea0746e127277622a45672298a34576e.webp",
+        "source": "wikimedia",
+        "credit": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Lilongwe,_Malawi_(ASTER).jpg",
+        "alt": "Une vue de Lilongwe, la capitale du Malawi.",
+        "mots_cles": [
+          "Lilongwe"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93",
+      "titre": "Cameroun : les maîtres de cérémonie des 26 diocèses formés à la liturgie à Bafoussam",
+      "resume": "Du 25 au 28 octobre, le diocèse de Bafoussam a accueilli une session de formation pour les maîtres de cérémonie venus des 26 diocèses du Cameroun. Présidée par Mgr Paul Lontsié-Keuné, elle visait à mieux préparer les célébrations pour aider les fidèles à prier.",
+      "theme": "culture",
+      "pays": [
+        "CM"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25033/catholic-church-in-cameroon-trains-event-emcees-to-foster-true-encounter-with-god-at-liturgical-celebrations",
+      "publie_le": "2026-10-30T13:56:00.000Z",
+      "collecte_le": "2026-10-31T11:10:14.922Z",
+      "langue": "en",
+      "slug": "cameroun-les-maitres-de-ceremonie-des-26-dioceses-formes-la-liturgie-4109a4",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.webp",
+        "source": "wikimedia",
+        "credit": "OpenStreetMap contributors",
+        "licence": "CC BY 2.5",
+        "page": "https://commons.wikimedia.org/wiki/File:Bafoussam_Openstreetmap.png",
+        "alt": "Une vue de la ville de Bafoussam, dans l'ouest du Cameroun.",
+        "mots_cles": [
+          "Bafoussam"
         ],
         "largeur": 1600,
         "hauteur": 900

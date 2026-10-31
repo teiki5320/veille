@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-30T18:21:02.624Z",
+  "genere_le": "2026-10-31T11:10:26.758Z",
   "articles": [
+    {
+      "id": "1cda795b8e75320aa66b257d1dd42cb03f96d0dd",
+      "slug": "trophee-kopa-lionel-messi-place-algerien-ibrahim-maza-sur-son-podium-1cda79",
+      "titre": "Trophée Kopa : Lionel Messi place l'Algérien Ibrahim Maza sur son podium",
+      "publie_le": "2026-10-31T08:13:21.000Z",
+      "redige_le": "2026-10-31T11:10:21.266Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/1cda795b8e75320aa66b257d1dd42cb03f96d0dd.json"
+    },
+    {
+      "id": "f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b",
+      "slug": "ballon-or-2026-mbappe-favori-des-jures-africains-hakimi-soutenu-par-le-f20157",
+      "titre": "Ballon d'Or 2026 : Mbappé, favori des jurés africains, Hakimi soutenu par le seul Maroc",
+      "publie_le": "2026-10-30T21:16:25.000Z",
+      "redige_le": "2026-10-31T11:10:21.266Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b.json"
+    },
+    {
+      "id": "053afcb52024dbcbfa3fcf9ac269cda0fe4220d5",
+      "slug": "achraf-hakimi-auteur-de-son-premier-triple-porte-le-psg-au-havre-5-1-053afc",
+      "titre": "Achraf Hakimi, auteur de son premier triplé, porte le PSG au Havre (5-1)",
+      "publie_le": "2026-10-30T19:54:04.000Z",
+      "redige_le": "2026-10-31T11:10:21.266Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/053afcb52024dbcbfa3fcf9ac269cda0fe4220d5.json"
+    },
     {
       "id": "e3ee453d5dc778fc98f472e3e0abe2e719bbb609",
       "slug": "mondial-2030-fouzi-lekjaa-defend-casablanca-et-son-stade-geant-pour-la-e3ee45",

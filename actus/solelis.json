@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-30T18:21:06.799Z",
+  "genere_le": "2026-10-31T11:10:26.773Z",
   "actus": [
+    {
+      "id": "f372f8a0c8313da596dbf7bbfd55871f0efb797c",
+      "titre": "Défaillances : Altares s'attend à près de 19 000 procédures au dernier trimestre 2026",
+      "resume": "Après un troisième trimestre presque stable, le cabinet Altares estime que quelque 19 000 sociétés risquent de faire défaut d'octobre à décembre. Sur douze mois, le nombre de procédures approche 72 000, plus qu'après la crise de 2008. Les très petites structures, sous trois salariés, restent les plus touchées.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Figaro",
+      "source_url": "https://www.lefigaro.fr/societes/deja-a-un-niveau-record-les-faillites-devraient-repartir-a-la-hausse-20261030",
+      "autres_sources": [
+        "https://tpeactu.fr/2026/10/13/defaillances-entreprises-t3-2026-altares-tpe/"
+      ],
+      "publie_le": "2026-10-30T20:32:28.000Z",
+      "collecte_le": "2026-10-31T11:10:26.773Z",
+      "langue": "fr",
+      "slug": "defaillances-altares-attend-pres-de-19-000-procedures-au-dernier-f372f8",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f372f8a0c8313da596dbf7bbfd55871f0efb797c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f372f8a0c8313da596dbf7bbfd55871f0efb797c.webp",
+        "source": "wikimedia",
+        "credit": "DXR",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tribunal_de_Commerce,_Paris_140320_2.jpg",
+        "alt": "Le bâtiment du tribunal de commerce de Paris.",
+        "mots_cles": [
+          "Tribunal de commerce de Paris"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "a414dc82dd8bc344eae84efdacabe55bcd0c7ae2",
       "titre": "Toulouse : ouverture dominicale autorisée le 1er novembre pour les commerces du centre",

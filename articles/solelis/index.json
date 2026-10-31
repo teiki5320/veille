@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-30T18:21:15.759Z",
+  "genere_le": "2026-10-31T11:10:28.671Z",
   "articles": [
+    {
+      "id": "f372f8a0c8313da596dbf7bbfd55871f0efb797c",
+      "slug": "defaillances-altares-attend-pres-de-19-000-procedures-au-dernier-f372f8",
+      "titre": "Défaillances : Altares s'attend à près de 19 000 procédures au dernier trimestre 2026",
+      "publie_le": "2026-10-30T20:32:28.000Z",
+      "redige_le": "2026-10-31T11:10:26.773Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/f372f8a0c8313da596dbf7bbfd55871f0efb797c.json"
+    },
     {
       "id": "a414dc82dd8bc344eae84efdacabe55bcd0c7ae2",
       "slug": "toulouse-ouverture-dominicale-autorisee-le-1er-novembre-pour-les-a414dc",

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "3d531c56ea0746e127277622a45672298a34576e",
+  "slug": "malawi-les-oeuvres-pontificales-missionnaires-prennent-part-une-3d531c",
+  "titre": "Malawi : les Œuvres pontificales missionnaires prennent part à une conférence à Rome",
+  "chapo": "Le Malawi participe, sur place et en ligne, à une conférence internationale sur l'avenir de la mission, organisée à Rome du 29 au 31 octobre 2026. Une occasion de mieux coopérer pour annoncer l'Évangile, selon le responsable national des Œuvres pontificales missionnaires.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans une déclaration publiée le jeudi 29 octobre, jour d'ouverture, le père Ephraim Peter Madeya, directeur des Œuvres pontificales missionnaires (OPM) au Malawi, a expliqué que cette présence permet au pays d'apporter sa part à l'effort de toute l'Église pour la formation et l'éveil missionnaires.",
+        "Il estime que la rencontre permet de partager des réflexions venues du monde entier et de renforcer la collaboration entre les Églises."
+      ]
+    },
+    {
+      "intertitre": "La mission de tous les baptisés",
+      "paragraphes": [
+        "Le prêtre insiste sur un message central de la conférence : l'annonce de l'Évangile n'est pas réservée aux prêtres, aux religieux et aux religieuses. Elle revient à chaque baptisé, appelé par la foi et la formation à porter le message du Christ à tous les peuples.",
+        "Pour les communautés malawites, cette participation est aussi une façon de rester reliées à la réflexion de l'Église universelle sur la mission."
+      ]
+    },
+    {
+      "intertitre": "Trois jours de travaux",
+      "paragraphes": [
+        "La conférence est organisée par le secrétariat international des OPM, à travers l'Union pontificale missionnaire. Son thème porte sur la mission universelle de l'Église et le service de cette union, depuis sa fondation jusqu'au pontificat de Léon XIV. L'Union pontificale missionnaire a été fondée en 1916 par le bienheureux Paolo Manna.",
+        "La première séance, le 29 octobre, a porté sur les liens entre Église locale et identité missionnaire. La deuxième, le 30, sur la spiritualité missionnaire. La dernière, le 31, est consacrée à l'avenir de l'union, à la lumière des orientations des papes François et Léon XIV."
+      ]
+    },
+    {
+      "intertitre": "Une messe d'envoi",
+      "paragraphes": [
+        "Les travaux doivent se conclure par une messe d'envoi présidée par Mgr Fortunatus Nwachukwu, prélat nigérian et secrétaire du dicastère pour l'Évangélisation."
+      ]
+    }
+  ],
+  "mots": 309,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "MW"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25043/an-opportunity-to-strengthen-cooperation-in-evangelization-malawis-pms-official-on-participation-in-rome-conference",
+  "publie_le": "2026-10-30T14:18:00.000Z",
+  "redige_le": "2026-10-31T11:10:14.922Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/3d531c56ea0746e127277622a45672298a34576e.webp",
+    "source": "wikimedia",
+    "credit": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Lilongwe,_Malawi_(ASTER).jpg",
+    "alt": "Une vue de Lilongwe, la capitale du Malawi.",
+    "mots_cles": [
+      "Lilongwe"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,116 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-30T18:21:02.611Z",
+  "genere_le": "2026-10-31T11:10:21.266Z",
   "actus": [
+    {
+      "id": "1cda795b8e75320aa66b257d1dd42cb03f96d0dd",
+      "titre": "Trophée Kopa : Lionel Messi place l'Algérien Ibrahim Maza sur son podium",
+      "resume": "Lionel Messi a classé le milieu international algérien de Leverkusen troisième de son vote pour le trophée Kopa, derrière Lamine Yamal et Pau Cubarsí. À 20 ans, Ibrahim Maza termine neuvième de cette récompense, grâce au seul point accordé par l'Argentin.",
+      "theme": "foot",
+      "pays": [
+        "DZ"
+      ],
+      "competition": "Trophée Kopa",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a1877363796230145539-lionel-messi-a-vote-pour-ibrahim-maza-au-trophee-kopa",
+      "autres_sources": [
+        "https://africatopsports.com/football/trophee-kopa-2026-lionel-messi-met-en-avant-le-talent-algerien-ibrahim-maza-dans-son-vote/",
+        "https://www.lequipe.fr/Football/Actualites/Lionel-messi-a-vote-pour-ibrahim-maza-au-trophee-de-meilleur-jeune-de-la-saison/1739895",
+        "https://www.lequipe.fr/Football/Actualites/Adoube-par-lionel-messi-next-ballon-d-or-d-ousmane-dembele-ibrahim-maza-l-artiste-qui-monte-et-seduit-l-europe/1739628"
+      ],
+      "publie_le": "2026-10-31T08:13:21.000Z",
+      "collecte_le": "2026-10-31T11:10:21.266Z",
+      "langue": "fr",
+      "slug": "trophee-kopa-lionel-messi-place-algerien-ibrahim-maza-sur-son-podium-1cda79",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1cda795b8e75320aa66b257d1dd42cb03f96d0dd.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/1cda795b8e75320aa66b257d1dd42cb03f96d0dd.webp",
+        "source": "wikimedia",
+        "credit": "Ardfern",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Newcastle_United_vs_Bayer_Leverkusen,_15_August_2026_(13).jpg",
+        "alt": "Le milieu de terrain international algérien Ibrahim Maza.",
+        "mots_cles": [
+          "Ibrahim Maza"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b",
+      "titre": "Ballon d'Or 2026 : Mbappé, favori des jurés africains, Hakimi soutenu par le seul Maroc",
+      "resume": "Le détail des votes publié vendredi montre que neuf des 20 journalistes africains du jury ont placé Kylian Mbappé en tête, alors que Harry Kane a remporté le trophée. Le juré marocain est le seul à avoir mis Achraf Hakimi premier ; Sadio Mané ne figure que dans le top 10 du Gabon.",
+      "theme": "foot",
+      "pays": [],
+      "competition": "Ballon d'Or",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/ballon-dor-2026-le-vote-tres-chauvin-du-maroc-algerie-cote-divoire-et-cameroun-boudent-kane-un-seul-pays-a-vote-mane",
+      "autres_sources": [
+        "https://www.afrik-foot.com/ballon-dor-2026-kane-seulement-3e-voici-celui-que-lafrique-voulait-comme-vainqueur",
+        "https://africatopsports.com/football/ballon-dor-voici-ces-pays-africains-qui-ont-place-mbappe-en-tete/",
+        "https://senego.com/ballon-dor-2026-kane-yamal-mbappe-les-choix-du-journaliste-senegalais-devoiles_2019030.html",
+        "https://wiwsport.com/2026/10/30/ballon-dor-2026-voici-le-top-10-du-journaliste-senegalais-harry-kane-en-tete/"
+      ],
+      "publie_le": "2026-10-30T21:16:25.000Z",
+      "collecte_le": "2026-10-31T11:10:21.266Z",
+      "langue": "fr",
+      "slug": "ballon-or-2026-mbappe-favori-des-jures-africains-hakimi-soutenu-par-le-f20157",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b.webp",
+        "source": "wikimedia",
+        "credit": "Ank kumar",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:FIFA_Ballon_D%E2%80%98OR_Awards,_FIFA_Museum,_Zurich_09.jpg",
+        "alt": "Le trophée du Ballon d'Or.",
+        "mots_cles": [
+          "Ballon d'Or"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "053afcb52024dbcbfa3fcf9ac269cda0fe4220d5",
+      "titre": "Achraf Hakimi, auteur de son premier triplé, porte le PSG au Havre (5-1)",
+      "resume": "Le latéral marocain a marqué trois fois et délivré deux passes décisives lors de la victoire 5-1 du PSG au Havre, vendredi, en Ligue 1 (9e journée). Ce succès fait de Luis Enrique l'entraîneur le plus victorieux de l'histoire du club, avec 127 matchs gagnés.",
+      "theme": "foot",
+      "pays": [
+        "MA"
+      ],
+      "competition": "Ligue 1",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a634342798306263519-ligue-1-le-psg-etrille-le-havre-grace-a-un-immense-hakimi-et-reste-en-tete",
+      "autres_sources": [
+        "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+        "https://www.lequipe.fr/Football/Actualites/Achraf-hakimi-apres-son-triple-et-son-double-de-passes-decisives-avec-le-psg-face-au-havre-5-1-non-ce-n-est-pas-le-match-de-ma-vie/1739897",
+        "https://www.footmercato.net/a7412385971203569637-psg-linfatigable-achraf-hakimi-a-encore-impressionne-tout-le-monde",
+        "https://www.lequipe.fr/Football/Article/Avec-trois-buts-et-deux-passes-decisives-le-lateral-achraf-hakimi-signe-une-performance-exceptionnelle-avec-le-psg-au-havre/1739910"
+      ],
+      "publie_le": "2026-10-30T19:54:04.000Z",
+      "collecte_le": "2026-10-31T11:10:21.266Z",
+      "langue": "fr",
+      "slug": "achraf-hakimi-auteur-de-son-premier-triple-porte-le-psg-au-havre-5-1-053afc",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/053afcb52024dbcbfa3fcf9ac269cda0fe4220d5.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/053afcb52024dbcbfa3fcf9ac269cda0fe4220d5.webp",
+        "source": "wikimedia",
+        "credit": "Nawfel Ajari",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
+        "alt": "Le défenseur international marocain Achraf Hakimi.",
+        "mots_cles": [
+          "Achraf Hakimi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "e3ee453d5dc778fc98f472e3e0abe2e719bbb609",
       "titre": "Mondial 2030 : Fouzi Lekjaa défend Casablanca et son stade géant pour la finale",

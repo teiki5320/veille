@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93",
+  "slug": "cameroun-les-maitres-de-ceremonie-des-26-dioceses-formes-la-liturgie-4109a4",
+  "titre": "Cameroun : les maîtres de cérémonie des 26 diocèses formés à la liturgie à Bafoussam",
+  "chapo": "Venus des 26 diocèses du Cameroun, des maîtres de cérémonie ont suivi pendant quatre jours, à Bafoussam, une formation consacrée à la préparation et à la conduite des célébrations liturgiques.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La session s'est tenue du 25 au 28 octobre 2026 dans le diocèse de Bafoussam, dans l'ouest du pays. Elle était présidée par l'évêque du lieu, Mgr Paul Lontsié-Keuné, qui dirige aussi la commission épiscopale pour la liturgie et le culte divin de la Conférence épiscopale nationale du Cameroun.",
+        "Son thème portait sur la formation qu'exige le rôle de maître de cérémonie. L'objectif : que la liturgie aide réellement les fidèles à rencontrer Dieu."
+      ]
+    },
+    {
+      "intertitre": "Un rôle de service",
+      "paragraphes": [
+        "Lors de la conférence d'ouverture, le 26 octobre, l'évêque s'est appuyé sur la lettre apostolique Desiderio Desideravi du pape François. Il a rappelé que la liturgie est le culte public rendu à Dieu par l'assemblée unie au Christ, et qu'elle n'est ni une réunion privée ni un spectacle.",
+        "Secrétaire général de la commission, l'abbé Antoine Essomba Fouda a présenté le maître de cérémonie comme un clerc ou un séminariste chargé de préparer et de coordonner les célébrations. Il a cité les qualités attendues : discrétion, humilité, piété, patience et zèle, ainsi qu'une vraie connaissance de la liturgie."
+      ]
+    },
+    {
+      "intertitre": "La Parole et la prière des heures",
+      "paragraphes": [
+        "L'abbé Alain Intimi, professeur au grand séminaire Notre-Dame de l'Espérance de Bertoua, a parlé du rôle de l'Esprit saint, en s'appuyant sur une encyclique de Jean-Paul II. L'abbé Dieudonné Bayemeg, de l'archidiocèse de Douala, a insisté sur la place de la Parole de Dieu et de l'homélie, et invité les fidèles à participer de façon active et consciente.",
+        "Prêtre de Milan en mission dans l'archidiocèse de Garoua, l'abbé Luca Damiani a présenté la liturgie des heures, des laudes aux complies, cette prière qui rythme la journée de l'Église."
+      ]
+    },
+    {
+      "intertitre": "Retour dans les diocèses",
+      "paragraphes": [
+        "En clôture, Mgr Lontsié-Keuné a demandé aux participants de mettre en pratique ces enseignements dans leurs diocèses respectifs, afin que les célébrations manifestent davantage la gloire de Dieu."
+      ]
+    }
+  ],
+  "mots": 332,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "CM"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25033/catholic-church-in-cameroon-trains-event-emcees-to-foster-true-encounter-with-god-at-liturgical-celebrations",
+  "publie_le": "2026-10-30T13:56:00.000Z",
+  "redige_le": "2026-10-31T11:10:14.922Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.webp",
+    "source": "wikimedia",
+    "credit": "OpenStreetMap contributors",
+    "licence": "CC BY 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Bafoussam_Openstreetmap.png",
+    "alt": "Une vue de la ville de Bafoussam, dans l'ouest du Cameroun.",
+    "mots_cles": [
+      "Bafoussam"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

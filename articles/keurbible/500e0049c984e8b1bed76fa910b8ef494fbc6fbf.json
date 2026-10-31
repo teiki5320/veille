@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "500e0049c984e8b1bed76fa910b8ef494fbc6fbf",
+  "slug": "kenya-eveque-de-homa-bay-veut-que-eglise-africaine-envoie-son-tour-des-500e00",
+  "titre": "Kenya : l'évêque de Homa Bay veut que l'Église africaine envoie à son tour des prêtres",
+  "chapo": "Pour l'évêque kényan Michael Otieno Odiwa, la mission ne doit pas aller dans un seul sens : les Églises d'Afrique qui ont reçu des prêtres doivent, à leur tour, en envoyer.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'évêque de Homa Bay, dans l'ouest du Kenya, s'exprimait le mercredi 28 octobre 2026 devant des prêtres Fidei Donum réunis en convention au centre d'évangélisation Golgotha. Il a appelé à une démarche missionnaire réciproque, capable de bâtir une Église africaine plus autonome.",
+        "Fidei Donum désigne des prêtres diocésains envoyés par leur Église locale pour servir ailleurs, tout en restant membres de leur diocèse d'origine. Le nom vient d'une encyclique du pape Pie XII, publiée en 1957."
+      ]
+    },
+    {
+      "intertitre": "Recevoir, grandir, envoyer",
+      "paragraphes": [
+        "Mgr Odiwa connaît ce chemin de l'intérieur : avant d'être ordonné évêque, en février 2021, il a lui-même servi comme prêtre Fidei Donum en Australie. Il souhaite que les diocèses kényans qui accueillent des missionnaires se renforcent, puis envoient leurs propres prêtres là où l'Église grandit.",
+        "Il a comparé ce partage à celui d'une famille qui, même avec peu de nourriture, donne une part de son repas à une famille plus démunie. Il a aussi fait le lien avec l'eucharistie, où le pain rompu nourrit le plus grand nombre."
+      ]
+    },
+    {
+      "intertitre": "Un don qui coûte",
+      "paragraphes": [
+        "L'évêque a rappelé que ces prêtres quittent leur diocèse, leur communauté et leurs repères pour vivre comme des hôtes dans une autre Église. Selon lui, une mission sans sacrifice n'est pas un vrai don. Il a aussi regretté que certains prêtres hésitent à servir dans des paroisses pauvres, et salué ceux qui acceptent d'y aller.",
+        "Il a encouragé les prêtres à faire régulièrement des retraites, pour raviver l'élan de leur vocation."
+      ]
+    },
+    {
+      "intertitre": "La qualité avant le nombre",
+      "paragraphes": [
+        "Évoquant le centenaire de la Journée missionnaire mondiale, célébré en 2026, Mgr Odiwa a estimé que l'apport du Kenya devait se mesurer à la qualité du service rendu plutôt qu'au nombre de prêtres envoyés. Une mission réussie, selon lui, est celle qui enrichit les communautés qui la reçoivent."
+      ]
+    }
+  ],
+  "mots": 327,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "KE"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25035/fidei-donum-not-a-one-way-arrangement-kenyan-catholic-bishop-advocates-for-reciprocity-in-mission",
+  "publie_le": "2026-10-30T14:58:00.000Z",
+  "redige_le": "2026-10-31T11:10:14.922Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/500e0049c984e8b1bed76fa910b8ef494fbc6fbf.webp",
+    "source": "wikimedia",
+    "credit": "Lukas Mott",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Homa_Bay_City_(2023).jpg",
+    "alt": "Une vue de Homa Bay, au bord du lac Victoria, au Kenya.",
+    "mots_cles": [
+      "Homa Bay"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

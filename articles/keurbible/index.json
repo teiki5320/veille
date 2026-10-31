@@ -1,7 +1,7 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-10-30T18:20:51.933Z",
+  "genere_le": "2026-10-31T11:10:21.239Z",
   "articles": [
     {
       "id": "407f01b347a20a5ae48340adccd71be50d2feb7f",
@@ -18,6 +18,30 @@
       "publie_le": "2026-10-30T15:02:00.000Z",
       "redige_le": "2026-10-30T18:20:41.499Z",
       "url": "https://teiki5320.github.io/veille/articles/keurbible/471c7c09ac1e9bdd6e4df9bff06a02e761964b37.json"
+    },
+    {
+      "id": "500e0049c984e8b1bed76fa910b8ef494fbc6fbf",
+      "slug": "kenya-eveque-de-homa-bay-veut-que-eglise-africaine-envoie-son-tour-des-500e00",
+      "titre": "Kenya : l'évêque de Homa Bay veut que l'Église africaine envoie à son tour des prêtres",
+      "publie_le": "2026-10-30T14:58:00.000Z",
+      "redige_le": "2026-10-31T11:10:14.922Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/500e0049c984e8b1bed76fa910b8ef494fbc6fbf.json"
+    },
+    {
+      "id": "3d531c56ea0746e127277622a45672298a34576e",
+      "slug": "malawi-les-oeuvres-pontificales-missionnaires-prennent-part-une-3d531c",
+      "titre": "Malawi : les Œuvres pontificales missionnaires prennent part à une conférence à Rome",
+      "publie_le": "2026-10-30T14:18:00.000Z",
+      "redige_le": "2026-10-31T11:10:14.922Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/3d531c56ea0746e127277622a45672298a34576e.json"
+    },
+    {
+      "id": "4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93",
+      "slug": "cameroun-les-maitres-de-ceremonie-des-26-dioceses-formes-la-liturgie-4109a4",
+      "titre": "Cameroun : les maîtres de cérémonie des 26 diocèses formés à la liturgie à Bafoussam",
+      "publie_le": "2026-10-30T13:56:00.000Z",
+      "redige_le": "2026-10-31T11:10:14.922Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.json"
     },
     {
       "id": "c044b67bbb9d340a46d9836585e32445b2c46089",

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f372f8a0c8313da596dbf7bbfd55871f0efb797c",
+  "slug": "defaillances-altares-attend-pres-de-19-000-procedures-au-dernier-f372f8",
+  "titre": "Défaillances : Altares s'attend à près de 19 000 procédures au dernier trimestre 2026",
+  "chapo": "Le répit de l'été sur le front des faillites pourrait ne pas durer. Selon Altares, près de 19 000 entreprises risquent d'entrer en procédure au dernier trimestre 2026.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le cabinet d'études, spécialiste des données sur les entreprises, a compté 14 652 procédures collectives ouvertes au troisième trimestre 2026. C'est à peine 0,5 % de plus qu'un an plus tôt, après des hausses de 6,4 % puis de 5,4 % lors des deux trimestres précédents.",
+        "Ce ralentissement ne signifie pas un retour à la normale. Sur douze mois glissants, près de 72 000 entreprises ont connu une sauvegarde, un redressement ou une liquidation judiciaire. C'est davantage que lors de la récession de 2008-2009, après la crise financière américaine. Le seul mois de septembre a compté environ 7 100 dossiers, un record."
+      ]
+    },
+    {
+      "intertitre": "Les plus petites en première ligne",
+      "paragraphes": [
+        "Les structures employant moins de trois salariés pèsent près de trois procédures sur quatre, avec 10 960 dossiers au troisième trimestre, soit 2,9 % de plus en un an. Chez elles, les redressements judiciaires augmentent de 8,2 %.",
+        "Certains secteurs souffrent davantage : la restauration, avec près de 10 % de défaillances en plus et 15,8 % pour la restauration rapide, mais aussi le commerce alimentaire et la réparation. La construction et l'industrie, à l'inverse, voient leurs procédures reculer."
+      ]
+    },
+    {
+      "intertitre": "Une fragilité qui demeure",
+      "paragraphes": [
+        "Le Figaro attribue ces difficultés au choc énergétique et au renchérissement du crédit. Thierry Millon, directeur des études d'Altares, juge que le sommet des défaillances est sans doute passé, contrairement à celui de la fragilité financière.",
+        "Pour une petite entreprise, avoir des commandes ne suffit pas : délais de paiement des clients, échéances bancaires et marges réduites peuvent vider la trésorerie. Des procédures amiables et confidentielles, comme le mandat ad hoc ou la conciliation, permettent de négocier avec ses créanciers avant que la situation ne s'aggrave."
+      ]
+    },
+    {
+      "intertitre": "Le BHV en attente",
+      "paragraphes": [
+        "Parmi les dossiers en cours figure celui du BHV. La juridiction parisienne chargée des entreprises en difficulté a examiné vendredi la situation du grand magasin, qui s'était déclaré en cessation des paiements trois jours plus tôt, et a reporté à lundi sa décision sur l'ouverture d'un redressement judiciaire. Environ 700 emplois sont en jeu."
+      ]
+    }
+  ],
+  "mots": 363,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Figaro",
+  "source_url": "https://www.lefigaro.fr/societes/deja-a-un-niveau-record-les-faillites-devraient-repartir-a-la-hausse-20261030",
+  "autres_sources": [
+    "https://tpeactu.fr/2026/10/13/defaillances-entreprises-t3-2026-altares-tpe/"
+  ],
+  "publie_le": "2026-10-30T20:32:28.000Z",
+  "redige_le": "2026-10-31T11:10:26.773Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f372f8a0c8313da596dbf7bbfd55871f0efb797c.webp",
+    "source": "wikimedia",
+    "credit": "DXR",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tribunal_de_Commerce,_Paris_140320_2.jpg",
+    "alt": "Le bâtiment du tribunal de commerce de Paris.",
+    "mots_cles": [
+      "Tribunal de commerce de Paris"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
