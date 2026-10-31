@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
+  "slug": "iba-der-thiam-cinq-ans-apres-sa-veuve-raconte-historien-au-quotidien-c1e26e",
+  "titre": "Iba Der Thiam, cinq ans après : sa veuve raconte l'historien au quotidien",
+  "chapo": "Cinq ans après la disparition de l'historien sénégalais Iba Der Thiam, son épouse, la sociologue Maréma Touré Thiam, publie un hommage qui montre l'homme derrière l'œuvre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Iba Der Thiam est mort le 31 octobre 2020, à 83 ans. Universitaire, ministre de l'Éducation nationale de 1983 à 1988 et homme politique, il a marqué la recherche historique au Sénégal. Pour cet anniversaire, sa veuve a rédigé un texte dont l'Agence de presse sénégalaise (APS) a reçu une copie.",
+        "Ce témoignage a d'abord été lu lors d'un colloque international du Codesria, le conseil panafricain pour la recherche en sciences sociales, réuni à Kisumu, au Kenya, entre le 21 et le 23 septembre. La rencontre, intitulée « Vivre avec un historien », honorait aussi le Kényan Bethwell Allan Ogot."
+      ]
+    },
+    {
+      "intertitre": "L'Histoire comme compagne de chaque jour",
+      "paragraphes": [
+        "Maréma Touré Thiam décrit un mari pour qui le passé éclairait tout : l'actualité, les gens, les sociétés et jusqu'aux anecdotes du quotidien. À partir d'un détail, il pouvait remonter des décennies, voire des siècles. Elle dit en avoir souri au début, avant de comprendre qu'il s'agissait d'une véritable façon de voir le monde.",
+        "Elle insiste aussi sur ses engagements : l'indépendance nationale, la liberté syndicale, l'unité africaine et la dignité humaine. Derrière celui qu'on surnommait « Der la Science », elle évoque un époux et un père, avec ses silences, ses élans et ses moments de fatigue.",
+        "Ancienne responsable des sciences humaines et sociales au bureau ouest-africain de l'Unesco, elle souligne qu'elle a toujours gardé sa propre voix de chercheuse. Leur couple faisait dialoguer deux regards : lui lisait les sociétés dans le temps, elle dans leurs structures et leurs relations."
+      ]
+    },
+    {
+      "intertitre": "Une œuvre tournée vers la transmission",
+      "paragraphes": [
+        "Ancien instituteur, Iba Der Thiam a franchi un à un les grades de l'enseignement. Ses livres portent notamment sur Blaise Diagne et Maba Diakhou Ba, sur l'histoire du syndicalisme et sur le Sénégal pendant la guerre. Il a aussi signé des centaines d'articles et huit manuels scolaires destinés aux élèves sénégalais.",
+        "De 2013 à sa mort, il a dirigé l'Histoire générale du Sénégal, un vaste chantier qui retrace le pays depuis ses débuts et aborde aussi bien la politique que l'économie, la société ou la culture. L'université de Thiès porte aujourd'hui son nom."
+      ]
+    }
+  ],
+  "mots": 373,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/cinq-ans-apres-la-disparition-diba-der-thiam-son-epouse-raconte-lhomme-derriere-lhistorien",
+  "publie_le": "2026-10-31T12:42:36.000Z",
+  "redige_le": "2026-10-31T18:18:50.620Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurbook/c1e26eb2822a903c8c5b13a2e5a7fccf589c5226.svg",
+    "source": "carte",
+    "credit": "Illustration : Keurbook",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keurbook avec le drapeau national (Sénégal) et la mention « Livres »",
+    "mots_cles": [
+      "Iba Der Thiam",
+      "history books library",
+      "old books shelf"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

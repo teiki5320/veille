@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "c67a379ef90d27f3da62880557a2dcdb6ea8ee4e",
+  "slug": "joj-dakar-2026-archeveque-andre-gueye-celebre-une-messe-pour-les-c67a37",
+  "titre": "JOJ Dakar 2026 : l'archevêque André Gueye célèbre une messe pour les jeunes athlètes",
+  "chapo": "Vendredi 30 octobre, à Notre-Dame-des-Victoires, la cathédrale de la capitale sénégalaise, une messe a ouvert les JOJ 2026. L'archevêque André Gueye y a appelé les jeunes sportifs à faire de la compétition une fête fraternelle.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La célébration s'est tenue la veille de la cérémonie d'ouverture de ces Jeux, organisés au Sénégal pendant deux semaines. C'est la première fois qu'un pays africain reçoit une compétition olympique. Environ 2 700 sportifs de moins de 18 ans, représentant 206 pays, sont attendus sur les trois sites de Dakar, Diamniadio et Saly.",
+        "L'archevêque de la capitale, Mgr André Gueye, présidait l'eucharistie. Autour de lui se trouvaient le nonce apostolique, des membres du gouvernement sénégalais, des prêtres, des religieuses et religieux, plusieurs sportifs et de nombreux fidèles. La messe se voulait un moment de prière et d'hospitalité, destiné aux délégations, à leurs encadrants et aux visiteurs."
+      ]
+    },
+    {
+      "intertitre": "Une homélie sur l'esprit du sport",
+      "paragraphes": [
+        "Partant du slogan des Jeux, qui associe l'accueil de l'Afrique et la fête sénégalaise, l'archevêque s'est demandé ce que l'on célébrait vraiment. Sa réponse : une jeunesse du monde entier capable de porter des valeurs de paix, de justice, de solidarité et de respect.",
+        "Pour lui, l'affrontement sportif n'est pas une guerre mais une manière de montrer ce dont l'être humain est capable. Il a demandé aux athlètes d'applaudir les réussites de leurs adversaires, de saluer aussi bien les vainqueurs que les vaincus et de ne jamais rabaisser celui qui perd. Il a également invité les adultes à respecter la dignité de ces jeunes."
+      ]
+    },
+    {
+      "intertitre": "Saint Paul et le prophète Isaïe",
+      "paragraphes": [
+        "Mgr Gueye s'est appuyé sur la lettre de saint Paul qui appelle à la bienveillance, puis sur l'image évangélique du sel de la terre et de la lumière. Il a souhaité que les jeunes sportifs marquent les esprits autant par leur conduite que par leurs résultats.",
+        "Citant Isaïe, qui annonce des nations renonçant aux armes, il a formé le vœu que ces Jeux soient un moment de paix entre les pays présents. Il a aussi espéré un apaisement social au Sénégal, en associant à cette prière chrétiens, musulmans et croyants de toutes confessions."
+      ]
+    },
+    {
+      "intertitre": "La teranga en toile de fond",
+      "paragraphes": [
+        "L'archevêque a repris l'appel du président Bassirou Diomaye Faye à faire vivre aux visiteurs l'hospitalité sénégalaise, la teranga, et à garantir leur sécurité partout. Il a conclu en bénissant tous ceux qui font vivre l'événement et en encourageant les athlètes à nouer des amitiés durables pendant ces deux semaines."
+      ]
+    }
+  ],
+  "mots": 405,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/a-dakar-une-messe-d-ouverture-pour-les-joj-2026.html",
+  "publie_le": "2026-10-31T12:03:00.000Z",
+  "redige_le": "2026-10-31T18:18:48.428Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/c67a379ef90d27f3da62880557a2dcdb6ea8ee4e.webp",
+    "source": "wikimedia",
+    "credit": "Photowalk",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:3-Cath%C3%A9drale_du_Souvenir_africain_de_Dakar.jpg",
+    "alt": "La cathédrale Notre-Dame-des-Victoires de Dakar, au Sénégal",
+    "mots_cles": [
+      "Cathédrale du Souvenir africain"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

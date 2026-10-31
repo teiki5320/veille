@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-31T11:10:28.671Z",
+  "genere_le": "2026-10-31T18:19:34.553Z",
   "articles": [
+    {
+      "id": "5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce",
+      "slug": "gers-la-taxe-fonciere-des-terres-agricoles-allegee-apres-une-annee-de-5c2ec2",
+      "titre": "Gers : la taxe foncière des terres agricoles allégée après une année de calamités",
+      "publie_le": "2026-10-31T12:01:02.000Z",
+      "redige_le": "2026-10-31T18:19:32.769Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce.json"
+    },
     {
       "id": "f372f8a0c8313da596dbf7bbfd55871f0efb797c",
       "slug": "defaillances-altares-attend-pres-de-19-000-procedures-au-dernier-f372f8",

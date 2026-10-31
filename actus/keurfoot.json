@@ -1,8 +1,47 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-31T11:10:21.266Z",
+  "genere_le": "2026-10-31T18:19:31.304Z",
   "actus": [
+    {
+      "id": "ac4ae80253438889cc65aa758d96e251d535ec3b",
+      "titre": "Premier League : Mbeumo et Baleba battus avec Manchester United à Chelsea (2-0)",
+      "resume": "Manchester United s'est incliné 2-0 sur le terrain de Chelsea, samedi 31 octobre, pour le compte de la 9e journée du championnat anglais. Les Camerounais Bryan Mbeumo et Carlos Baleba étaient titulaires. Réduits à dix après l'expulsion de Lisandro Martínez, les Mancuniens restent juste au-dessus de la zone de relégation.",
+      "theme": "foot",
+      "pays": [
+        "CM"
+      ],
+      "competition": "Premier League",
+      "source_nom": "Camfoot",
+      "source_url": "https://www.camfoot.com/actualites/premier-league-united-mbeumo-et-carlos-baleba-coulent-face-a-chelsea,559392.html",
+      "autres_sources": [
+        "https://africatopsports.com/football-europe/angleterre-mbeumo-et-manchester-united-sinclinent-devant-chelsea/",
+        "https://www.footmercato.net/a6359672305376047944-mu-bryan-mbeumo-vole-au-secours-de-michael-carrick",
+        "https://www.camfoot.com/actualites/premier-league-le-onze-de-carrick-avec-mbeumo-et-baleba,559374.html",
+        "https://www.footmercato.net/a6683355456478857618-premier-league-reduit-a-dix-manchester-united-prend-leau-face-a-chelsea-et-senfonce-dans-la-crise",
+        "https://www.lequipe.fr/Football/Actualites/Chelsea-enfonce-manchester-united-et-michael-carrick-dans-la-crise/1740021",
+        "https://www.footmercato.net/a3419897673100438569-chelsea-manchester-united-les-compositions-officielles"
+      ],
+      "publie_le": "2026-10-31T14:44:25.000Z",
+      "collecte_le": "2026-10-31T18:19:31.304Z",
+      "langue": "fr",
+      "slug": "premier-league-mbeumo-et-baleba-battus-avec-manchester-united-chelsea-ac4ae8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/ac4ae80253438889cc65aa758d96e251d535ec3b.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/ac4ae80253438889cc65aa758d96e251d535ec3b.webp",
+        "source": "wikimedia",
+        "credit": "Pedro Semitiel",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bryan_Mbeumo.jpg",
+        "alt": "Bryan Mbeumo, attaquant international camerounais",
+        "mots_cles": [
+          "Bryan Mbeumo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1cda795b8e75320aa66b257d1dd42cb03f96d0dd",
       "titre": "Trophée Kopa : Lionel Messi place l'Algérien Ibrahim Maza sur son podium",

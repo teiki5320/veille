@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-10-31T11:10:21.243Z",
+  "genere_le": "2026-10-31T18:19:31.280Z",
   "articles": [
+    {
+      "id": "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
+      "slug": "iba-der-thiam-cinq-ans-apres-sa-veuve-raconte-historien-au-quotidien-c1e26e",
+      "titre": "Iba Der Thiam, cinq ans après : sa veuve raconte l'historien au quotidien",
+      "publie_le": "2026-10-31T12:42:36.000Z",
+      "redige_le": "2026-10-31T18:18:50.620Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/c1e26eb2822a903c8c5b13a2e5a7fccf589c5226.json"
+    },
     {
       "id": "2febdbf6f757f883607c0529877cce0b90730f7e",
       "slug": "dakar-le-critique-boniface-mongo-mboussa-voit-dans-le-rire-une-force-2febdb",

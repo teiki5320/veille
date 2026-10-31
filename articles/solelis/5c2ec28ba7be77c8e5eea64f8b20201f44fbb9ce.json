@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce",
+  "slug": "gers-la-taxe-fonciere-des-terres-agricoles-allegee-apres-une-annee-de-5c2ec2",
+  "titre": "Gers : la taxe foncière des terres agricoles allégée après une année de calamités",
+  "chapo": "Les services fiscaux du Gers (DDFiP) allègent la taxe foncière sur les terres agricoles abîmées par les intempéries de 2026. Les avis seront envoyés dans la première quinzaine de novembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Grêle, sécheresse, canicule, inondations : le département a cumulé les épisodes extrêmes cette année. Pour tenir compte des récoltes perdues, l'administration fiscale applique une réduction collective, appelée dégrèvement, sur la taxe foncière des terrains non bâtis (TFNB) due pour 2026.",
+        "Le Code général des impôts prévoit ce mécanisme dans son article 1398. Il permet de réduire l'impôt des propriétaires quand des événements exceptionnels détruisent des récoltes encore sur pied."
+      ]
+    },
+    {
+      "intertitre": "Des taux de pertes par culture",
+      "paragraphes": [
+        "Les pertes ont été évaluées commune par commune par les services de l'État chargés de l'agriculture, avec la Chambre d'agriculture. Pour les grandes cultures, le taux retenu est de 55 % dans tout le département et grimpe à 75 % dans les zones grêlées. Les prairies sont à 50 %, et à 70 % en secteur touché par la grêle.",
+        "Pour la vigne, trois niveaux s'appliquent : 50 % au cœur de la sécheresse exceptionnelle, 40 % là où elle a été forte et 15 % dans le reste du vignoble concerné. En arboriculture, prunes et noisettes bénéficient d'un taux de 60 % dans les communes qui en cultivent au moins un hectare."
+      ]
+    },
+    {
+      "intertitre": "Calendrier et démarches",
+      "paragraphes": [
+        "Les avis de dégrèvement doivent parvenir aux contribuables avant l'échéance de paiement de la TFNB, repoussée exceptionnellement au 15 novembre. Les listes des parcelles retenues seront consultables en mairie.",
+        "Les propriétaires qui louent leurs terres doivent faire profiter leurs fermiers de cette réduction, comme le prévoit le Code rural. Un exploitant dont les pertes réelles dépassent les taux fixés peut déposer une réclamation individuelle, justificatifs à l'appui, auprès du service des impôts fonciers d'Auch. En cas de trésorerie tendue, des délais de paiement peuvent aussi être demandés."
+      ]
+    }
+  ],
+  "mots": 308,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/10/31/55-de-pertes-pour-les-grandes-cultures-cette-annee-dans-le-gers-un-degrevement-collectif-de-taxe-fonciere-accorde-aux-agriculteurs-apres-les-aleas-13628097.php",
+  "publie_le": "2026-10-31T12:01:02.000Z",
+  "redige_le": "2026-10-31T18:19:32.769Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce.webp",
+    "source": "wikimedia",
+    "credit": "Krzysztof Golik",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rural_landscape_of_Mongausy_(1).jpg",
+    "alt": "Un paysage de campagne dans le département du Gers",
+    "mots_cles": [
+      "Gers landscape"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-31T11:10:26.758Z",
+  "genere_le": "2026-10-31T18:19:32.759Z",
   "articles": [
+    {
+      "id": "ac4ae80253438889cc65aa758d96e251d535ec3b",
+      "slug": "premier-league-mbeumo-et-baleba-battus-avec-manchester-united-chelsea-ac4ae8",
+      "titre": "Premier League : Mbeumo et Baleba battus avec Manchester United à Chelsea (2-0)",
+      "publie_le": "2026-10-31T14:44:25.000Z",
+      "redige_le": "2026-10-31T18:19:31.304Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/ac4ae80253438889cc65aa758d96e251d535ec3b.json"
+    },
     {
       "id": "1cda795b8e75320aa66b257d1dd42cb03f96d0dd",
       "slug": "trophee-kopa-lionel-messi-place-algerien-ibrahim-maza-sur-son-podium-1cda79",

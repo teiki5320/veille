@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-31T11:10:26.773Z",
+  "genere_le": "2026-10-31T18:19:32.769Z",
   "actus": [
+    {
+      "id": "5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce",
+      "titre": "Gers : la taxe foncière des terres agricoles allégée après une année de calamités",
+      "resume": "Grêle, sécheresse, canicule et inondations : après une année 2026 éprouvante, les services fiscaux du Gers allègent la taxe foncière des terres agricoles touchées. Les taux de pertes retenus vont de 15 % à 75 % selon les cultures et les zones.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/10/31/55-de-pertes-pour-les-grandes-cultures-cette-annee-dans-le-gers-un-degrevement-collectif-de-taxe-fonciere-accorde-aux-agriculteurs-apres-les-aleas-13628097.php",
+      "publie_le": "2026-10-31T12:01:02.000Z",
+      "collecte_le": "2026-10-31T18:19:32.769Z",
+      "langue": "fr",
+      "slug": "gers-la-taxe-fonciere-des-terres-agricoles-allegee-apres-une-annee-de-5c2ec2",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce.webp",
+        "source": "wikimedia",
+        "credit": "Krzysztof Golik",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Rural_landscape_of_Mongausy_(1).jpg",
+        "alt": "Un paysage de campagne dans le département du Gers",
+        "mots_cles": [
+          "Gers landscape"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f372f8a0c8313da596dbf7bbfd55871f0efb797c",
       "titre": "Défaillances : Altares s'attend à près de 19 000 procédures au dernier trimestre 2026",

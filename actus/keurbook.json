@@ -1,8 +1,40 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-31T11:10:21.240Z",
+  "genere_le": "2026-10-31T18:18:50.620Z",
   "actus": [
+    {
+      "id": "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
+      "titre": "Iba Der Thiam, cinq ans après : sa veuve raconte l'historien au quotidien",
+      "resume": "Cinq ans après la mort d'Iba Der Thiam, le 31 octobre 2020, la sociologue Maréma Touré Thiam lui rend hommage. Elle décrit un historien qui vivait avec son sujet au quotidien, auteur d'une œuvre abondante couronnée par le projet d'une histoire générale du Sénégal.",
+      "theme": "livres",
+      "pays": [
+        "SN"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/cinq-ans-apres-la-disparition-diba-der-thiam-son-epouse-raconte-lhomme-derriere-lhistorien",
+      "publie_le": "2026-10-31T12:42:36.000Z",
+      "collecte_le": "2026-10-31T18:18:50.620Z",
+      "langue": "fr",
+      "slug": "iba-der-thiam-cinq-ans-apres-sa-veuve-raconte-historien-au-quotidien-c1e26e",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/c1e26eb2822a903c8c5b13a2e5a7fccf589c5226.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurbook/c1e26eb2822a903c8c5b13a2e5a7fccf589c5226.svg",
+        "source": "carte",
+        "credit": "Illustration : Keurbook",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keurbook avec le drapeau national (Sénégal) et la mention « Livres »",
+        "mots_cles": [
+          "Iba Der Thiam",
+          "history books library",
+          "old books shelf"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "2febdbf6f757f883607c0529877cce0b90730f7e",
       "titre": "À Dakar, le critique Boniface Mongo-Mboussa voit dans le rire une force de résistance",

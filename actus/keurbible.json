@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-10-31T11:10:14.922Z",
+  "genere_le": "2026-10-31T18:18:48.428Z",
   "actus": [
+    {
+      "id": "c67a379ef90d27f3da62880557a2dcdb6ea8ee4e",
+      "titre": "JOJ Dakar 2026 : l'archevêque André Gueye célèbre une messe pour les jeunes athlètes",
+      "resume": "À la veille de l'ouverture des JOJ 2026, la cathédrale de Dakar a accueilli une messe présidée par Mgr André Gueye. L'archevêque a demandé aux participants de respecter l'adversaire, de rester humbles et de nouer des amitiés entre nations.",
+      "theme": "culture",
+      "pays": [
+        "SN"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-10/a-dakar-une-messe-d-ouverture-pour-les-joj-2026.html",
+      "publie_le": "2026-10-31T12:03:00.000Z",
+      "collecte_le": "2026-10-31T18:18:48.428Z",
+      "langue": "fr",
+      "slug": "joj-dakar-2026-archeveque-andre-gueye-celebre-une-messe-pour-les-c67a37",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/c67a379ef90d27f3da62880557a2dcdb6ea8ee4e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/c67a379ef90d27f3da62880557a2dcdb6ea8ee4e.webp",
+        "source": "wikimedia",
+        "credit": "Photowalk",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:3-Cath%C3%A9drale_du_Souvenir_africain_de_Dakar.jpg",
+        "alt": "La cathédrale Notre-Dame-des-Victoires de Dakar, au Sénégal",
+        "mots_cles": [
+          "Cathédrale du Souvenir africain"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "407f01b347a20a5ae48340adccd71be50d2feb7f",
       "titre": "RDC : à Lubumbashi, un symposium ravive l'héritage de Mgr Christophe Munzihirwa",
