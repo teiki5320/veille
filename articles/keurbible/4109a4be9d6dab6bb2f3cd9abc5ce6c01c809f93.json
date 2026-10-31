@@ -45,12 +45,12 @@
   "publie_le": "2026-10-30T13:56:00.000Z",
   "redige_le": "2026-10-31T11:10:14.922Z",
   "image": {
-    "url": "https://teiki5320.github.io/veille/images/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.webp",
-    "source": "wikimedia",
-    "credit": "OpenStreetMap contributors",
-    "licence": "CC BY 2.5",
-    "page": "https://commons.wikimedia.org/wiki/File:Bafoussam_Openstreetmap.png",
-    "alt": "Une vue de la ville de Bafoussam, dans l'ouest du Cameroun.",
+    "url": "https://teiki5320.github.io/veille/cartes/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Bible",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Bible avec le drapeau national (Cameroun) et la mention « Culture »",
     "mots_cles": [
       "Bafoussam"
     ],

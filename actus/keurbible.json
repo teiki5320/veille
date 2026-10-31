@@ -110,12 +110,12 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurbible/3d531c56ea0746e127277622a45672298a34576e.json",
       "lecture_min": 1,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurbible/3d531c56ea0746e127277622a45672298a34576e.webp",
-        "source": "wikimedia",
-        "credit": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Lilongwe,_Malawi_(ASTER).jpg",
-        "alt": "Une vue de Lilongwe, la capitale du Malawi.",
+        "url": "https://teiki5320.github.io/veille/cartes/keurbible/3d531c56ea0746e127277622a45672298a34576e.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Bible",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Bible avec le drapeau national (Malawi) et la mention « Culture »",
         "mots_cles": [
           "Lilongwe"
         ],
@@ -140,12 +140,12 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.json",
       "lecture_min": 2,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.webp",
-        "source": "wikimedia",
-        "credit": "OpenStreetMap contributors",
-        "licence": "CC BY 2.5",
-        "page": "https://commons.wikimedia.org/wiki/File:Bafoussam_Openstreetmap.png",
-        "alt": "Une vue de la ville de Bafoussam, dans l'ouest du Cameroun.",
+        "url": "https://teiki5320.github.io/veille/cartes/keurbible/4109a4be9d6dab6bb2f3cd9abc5ce6c01c809f93.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Bible",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Bible avec le drapeau national (Cameroun) et la mention « Culture »",
         "mots_cles": [
           "Bafoussam"
         ],

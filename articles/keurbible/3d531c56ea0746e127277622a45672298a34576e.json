@@ -45,12 +45,12 @@
   "publie_le": "2026-10-30T14:18:00.000Z",
   "redige_le": "2026-10-31T11:10:14.922Z",
   "image": {
-    "url": "https://teiki5320.github.io/veille/images/keurbible/3d531c56ea0746e127277622a45672298a34576e.webp",
-    "source": "wikimedia",
-    "credit": "NASA/METI/AIST/Japan Space Systems, and U.S./Japan ASTER Science Team",
-    "licence": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Lilongwe,_Malawi_(ASTER).jpg",
-    "alt": "Une vue de Lilongwe, la capitale du Malawi.",
+    "url": "https://teiki5320.github.io/veille/cartes/keurbible/3d531c56ea0746e127277622a45672298a34576e.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Bible",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Bible avec le drapeau national (Malawi) et la mention « Culture »",
     "mots_cles": [
       "Lilongwe"
     ],
