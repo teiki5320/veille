@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-10-31T18:19:32.769Z",
+  "genere_le": "2026-11-01T11:20:06.250Z",
   "actus": [
+    {
+      "id": "52640369183533fa543f17fc2c28dc416ce81dfb",
+      "titre": "Patrons de PME : près d'un sur deux se dit isolé, selon une étude de Bpifrance",
+      "resume": "Selon Bpifrance Le Lab, 49 % des dirigeants de PME et d'ETI se sentent isolés dans leur fonction, contre 45 % en 2016, et 18 % se disent très isolés. La complexité administrative et l'incertitude économique sont les premières causes citées. La solitude culmine quand l'entreprise traverse des difficultés.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "L'Usine Nouvelle",
+      "source_url": "https://www.usinenouvelle.com/elles-et-ils-font-l-industrie/dirigeants/pres-dun-dirigeant-sur-deux-se-sent-isole-a-la-tete-de-son-entreprise-le-sentiment-de-solitude-ne-faiblit-pas-chez-les-patrons-francais-de-pme-et-eti.UW5ZDLOC4RPKDDEQF2RYTXOLN4.html",
+      "autres_sources": [
+        "https://www.linfodurable.fr/pres-dun-dirigeant-dentreprise-sur-deux-continue-se-sentir-isole-selon-une-etude-57707",
+        "https://www.lagazettefrance.fr/article/solitude-des-dirigeants-de-pme-un-malaise-qui-s-intensifie"
+      ],
+      "publie_le": "2026-11-01T10:00:00.000Z",
+      "collecte_le": "2026-11-01T11:20:06.250Z",
+      "langue": "fr",
+      "slug": "patrons-de-pme-pres-un-sur-deux-se-dit-isole-selon-une-etude-de-526403",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/52640369183533fa543f17fc2c28dc416ce81dfb.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/52640369183533fa543f17fc2c28dc416ce81dfb.webp",
+        "source": "wikimedia",
+        "credit": "Benoît Prieur",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bpifrance_%C3%A0_Bourg-en-Bresse_(f%C3%A9vrier_2023).JPG",
+        "alt": "Logo ou locaux de Bpifrance, la banque publique d'investissement",
+        "mots_cles": [
+          "Bpifrance"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce",
       "titre": "Gers : la taxe foncière des terres agricoles allégée après une année de calamités",

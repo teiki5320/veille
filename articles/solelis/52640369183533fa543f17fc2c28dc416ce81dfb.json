@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "52640369183533fa543f17fc2c28dc416ce81dfb",
+  "slug": "patrons-de-pme-pres-un-sur-deux-se-dit-isole-selon-une-etude-de-526403",
+  "titre": "Patrons de PME : près d'un sur deux se dit isolé, selon une étude de Bpifrance",
+  "chapo": "Une étude de Bpifrance Le Lab montre que 49 % des dirigeants de PME et d'ETI se sentent seuls dans l'exercice de leur fonction, un niveau plus élevé qu'il y a dix ans.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dix ans après une première enquête sur le sujet, Bpifrance Le Lab a de nouveau interrogé les patrons de PME et d'ETI sur leur isolement. Publiée fin juin et remise en avant cette semaine par la presse économique, l'étude repose sur 917 chefs d'entreprises de plus de dix salariés, sondés entre février et avril 2026, puis sur une trentaine d'entretiens.",
+        "Résultat : 49 % se déclarent isolés, contre 45 % en 2016. La part de ceux qui se disent très isolés passe de 11 % à 18 %. Pour Philippe Mutricy, directeur des études de Bpifrance, ce sentiment a progressé et s'est renforcé."
+      ]
+    },
+    {
+      "intertitre": "L'administratif et l'incertitude en tête",
+      "paragraphes": [
+        "La complexité réglementaire et administrative arrive en premier parmi les causes citées (63 %), devant l'incertitude économique (58 %) et le mal à recruter ou à garder des salariés (41 %). Trois patrons sur quatre se sont demandé, sur l'année écoulée, si leur engagement gardait un sens.",
+        "L'isolement est le plus fort dans les passages délicats : 58 % des répondants se sentent seuls quand leur société traverse des difficultés, 42 % au moment de la transmettre, et 25 % même lorsque tout va bien."
+      ]
+    },
+    {
+      "intertitre": "Des effets sur la santé",
+      "paragraphes": [
+        "Chez les plus isolés, 46 % jugent leur moral et leur équilibre psychique abîmés, et 54 % disent mal dormir, contre 17 % et 31 % pour l'ensemble des sondés. Face à une surcharge personnelle, 43 % des dirigeants affrontent la situation sans aide.",
+        "Les relais classiques reculent. Seuls 19 % participent à une organisation patronale, contre 28 % en 2016, et 15 % fréquentent les salons professionnels, contre 32 %. Les réseaux d'entrepreneurs progressent légèrement et réunissent 49 % des dirigeants."
+      ]
+    },
+    {
+      "intertitre": "Des soutiens existent",
+      "paragraphes": [
+        "Plusieurs dispositifs gratuits accompagnent les chefs d'entreprise en difficulté. L'association APESA propose une aide psychologique aux dirigeants en souffrance. Les centres d'information sur la prévention des difficultés des entreprises (CIP) offrent des entretiens confidentiels avec un avocat, un expert-comptable et un ancien juge du tribunal de commerce."
+      ]
+    }
+  ],
+  "mots": 363,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "L'Usine Nouvelle",
+  "source_url": "https://www.usinenouvelle.com/elles-et-ils-font-l-industrie/dirigeants/pres-dun-dirigeant-sur-deux-se-sent-isole-a-la-tete-de-son-entreprise-le-sentiment-de-solitude-ne-faiblit-pas-chez-les-patrons-francais-de-pme-et-eti.UW5ZDLOC4RPKDDEQF2RYTXOLN4.html",
+  "autres_sources": [
+    "https://www.linfodurable.fr/pres-dun-dirigeant-dentreprise-sur-deux-continue-se-sentir-isole-selon-une-etude-57707",
+    "https://www.lagazettefrance.fr/article/solitude-des-dirigeants-de-pme-un-malaise-qui-s-intensifie"
+  ],
+  "publie_le": "2026-11-01T10:00:00.000Z",
+  "redige_le": "2026-11-01T11:20:06.250Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/52640369183533fa543f17fc2c28dc416ce81dfb.webp",
+    "source": "wikimedia",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bpifrance_%C3%A0_Bourg-en-Bresse_(f%C3%A9vrier_2023).JPG",
+    "alt": "Logo ou locaux de Bpifrance, la banque publique d'investissement",
+    "mots_cles": [
+      "Bpifrance"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

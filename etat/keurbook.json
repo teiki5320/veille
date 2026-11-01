@@ -387,81 +387,106 @@
     "67ee89a7bb2121f5abf3c1fdf148f561602df89c": "2026-10-31T18:18:50.620Z",
     "cc4943cfeefbd2a6b9599fefc21beeeeae091410": "2026-10-31T18:18:50.620Z",
     "8cdc2dc8faec5a84932ddb1495d1563d029b47af": "2026-10-31T18:18:50.620Z",
-    "411177fd065fa763061e0b29b5815406ba6ef071": "2026-10-31T18:18:50.620Z"
+    "411177fd065fa763061e0b29b5815406ba6ef071": "2026-10-31T18:18:50.620Z",
+    "46ad6ca97a3ee50919653f4f83f9ec2d1057b428": "2026-11-01T11:19:59.233Z",
+    "723fdf4ef2fa302d990a2f040ffe9e8e356d7d35": "2026-11-01T11:19:59.233Z",
+    "676bb9b31827baefe975f2aa58d8408f9e9002c3": "2026-11-01T11:19:59.233Z",
+    "b26343af17bc5f0508609d0c087bfde6c959e0ae": "2026-11-01T11:19:59.233Z",
+    "99684ec643f7091d5d5ccc2d806a977888479d9e": "2026-11-01T11:19:59.233Z",
+    "924bf9060c10087b41d9ea2792756c114e163ab1": "2026-11-01T11:19:59.233Z",
+    "a579becc345dae7b8b969be1cefb202b72f95d2d": "2026-11-01T11:19:59.233Z",
+    "b3fec17fdf00882746242b6e9473873a4677c2a4": "2026-11-01T11:19:59.233Z",
+    "460c5bff9789ac71af10fcd1c9e2cb177ba1dfab": "2026-11-01T11:19:59.233Z",
+    "17cd2c06ec61d071b4df1363e636f99e24585a9f": "2026-11-01T11:19:59.233Z",
+    "26c8838915b585df1ee60d0479549cf409d96b80": "2026-11-01T11:19:59.233Z",
+    "51b9988e417297c034b3e69be664fb4df77107bc": "2026-11-01T11:19:59.233Z",
+    "13efc399d50706abb05aaba68b7b61d748f21be8": "2026-11-01T11:19:59.233Z",
+    "066d28fd137c1bda8ce26ded9394a3e406adf894": "2026-11-01T11:19:59.233Z",
+    "b8f4a299d944d9cf6bae561cbe2567d51015edf2": "2026-11-01T11:19:59.233Z",
+    "709ba61ab092995bbf11293ef706938de0373cde": "2026-11-01T11:19:59.233Z",
+    "64c239a8b0e144f315d5251f4c70baf627a8aa5b": "2026-11-01T11:19:59.233Z",
+    "727b5a2b8354dbf2a3db9e5091494ee0d64d5b4e": "2026-11-01T11:19:59.233Z",
+    "d422e47ae857311d0d0d5383f3b50f441b5a60bb": "2026-11-01T11:19:59.233Z",
+    "24064f85a7f96a67f6a8e3822279b131af557e8e": "2026-11-01T11:19:59.233Z",
+    "677cc2b8a1396a74aa63e0bbc419d2943dbaee8b": "2026-11-01T11:19:59.233Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 1
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 5
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 1
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 2
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 8
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 1
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-10-31T18:12:43.809Z",
+      "dernier_succes": "2026-11-01T11:12:59.136Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     }
   },
   "images_recentes": [
+    {
+      "id": "a579becc345dae7b8b969be1cefb202b72f95d2d",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
       "origine": "carte:keurbook:c1e26eb2822a903c8c5b13a2e5a7fccf589c5226"
@@ -518,6 +543,7 @@
     "8e033b3516d6ed96bb42e62eac40dc5dff798e15": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanella_Boni_-_salon_du_livre_Gen%C3%A8ve_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "2febdbf6f757f883607c0529877cce0b90730f7e": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Boniface_Mongo-Mboussa-IMG_0837-square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "9e1bce3680d006763adee84b7c8de0c5971faae8": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Boubacar_Diop_IMG_2389.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226": "carte:keurbook:c1e26eb2822a903c8c5b13a2e5a7fccf589c5226"
+    "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226": "carte:keurbook:c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
+    "a579becc345dae7b8b969be1cefb202b72f95d2d": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 }

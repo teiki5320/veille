@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "a579becc345dae7b8b969be1cefb202b72f95d2d",
+  "slug": "hemley-boum-plonge-dans-les-luttes-democratiques-du-cameroun-avec-nos-a579be",
+  "titre": "Hemley Boum plonge dans les luttes démocratiques du Cameroun avec « Nos vies sauvages »",
+  "chapo": "La romancière camerounaise Hemley Boum publie chez Gallimard « Nos vies sauvages », un roman sur les femmes et les hommes engagés dans le combat démocratique au Cameroun.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Née au Cameroun en 1973, Hemley Boum a écrit six livres, traduits dans sept langues et salués par plusieurs prix. Paru chez Gallimard, « Nos vies sauvages » s'aventure au cœur du pouvoir de Paul Biya, à la tête du Cameroun depuis 1982, et revient sur la répression des mouvements démocratiques des années 1990.",
+        "De passage à Paris pour présenter le livre, elle s'est entretenue avec Le Monde chez Gallimard. Le roman a été distingué par le prix Landerneau des lecteurs. Il était aussi retenu dans la deuxième liste du Renaudot."
+      ]
+    },
+    {
+      "intertitre": "Une œuvre tournée vers la mémoire",
+      "paragraphes": [
+        "L'écrivaine reconnaît qu'elle s'intéressait peu à la politique pendant sa jeunesse camerounaise. Ses romans racontent pourtant l'histoire récente de son pays. « Les jours viennent et passent », paru en 2019, avait pour toile de fond la menace de Boko Haram. « Le Rêve du pêcheur », en 2024, montrait les dégâts causés au Cameroun par la pêche industrielle.",
+        "Avec ce nouveau titre, elle aborde de façon plus frontale encore la mémoire et l'héritage des combats passés. Au Cameroun, où elle retourne souvent, elle bénéficie d'une audience particulière chez les jeunes lecteurs, curieux de l'histoire de leur pays. C'est d'abord cette génération qu'elle dit vouloir toucher."
+      ]
+    },
+    {
+      "intertitre": "Une passion pour le roman",
+      "paragraphes": [
+        "Lectrice très précoce, de Baudelaire à Victor Hugo en passant par Anaïs Nin, Hemley Boum écrit aussi de la poésie, dont quelques vers se retrouvent dans tous ses romans. Mais c'est le roman qu'elle place au-dessus de tout. Elle juge la création littéraire d'aujourd'hui plus riche que jamais, avec des voix venues du monde entier, même si l'on répète que le public lit de moins en moins.",
+        "Parmi ses lectures marquantes du moment, elle nomme trois auteurs : Arundhati Roy, venue d'Inde, Hisham Matar, Britannique d'origine libyenne, et Ben Okri, né au Nigeria."
+      ]
+    },
+    {
+      "intertitre": "Une année en résidence à Berlin",
+      "paragraphes": [
+        "La romancière vit en ce moment à Berlin. Elle y est accueillie pendant un an par le DAAD, l'office allemand d'échanges universitaires, dont le programme de résidence pour artistes est réputé."
+      ]
+    }
+  ],
+  "mots": 366,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "CM"
+  ],
+  "tags": [
+    "auteur:hemley-boum"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/livres/article/2026/11/01/hemley-boum-dont-le-nouveau-roman-evoque-la-dictature-camerounaise-deployer-dans-la-langue-une-violence-assumee_6804126_3260.html",
+  "publie_le": "2026-11-01T08:00:05.000Z",
+  "redige_le": "2026-11-01T11:19:59.233Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/a579becc345dae7b8b969be1cefb202b72f95d2d.webp",
+    "source": "wikimedia",
+    "credit": "Wikinade",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG",
+    "alt": "Portrait de la romancière camerounaise Hemley Boum",
+    "mots_cles": [
+      "Hemley Boum"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

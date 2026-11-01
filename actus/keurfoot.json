@@ -1,8 +1,111 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-10-31T18:19:31.304Z",
+  "genere_le": "2026-11-01T11:20:01.144Z",
   "actus": [
+    {
+      "id": "9e7bdfb48101fb9eceeee957884be76a174822bf",
+      "titre": "Ajax : le Nigérian Tolu Arokodare offre la victoire face à l'AZ, une première depuis 2022",
+      "resume": "L'attaquant nigérian Tolu Arokodare a marqué de la tête l'unique but du succès de l'Ajax contre l'AZ Alkmaar, samedi. Le club d'Amsterdam n'avait plus battu ce rival depuis mars 2022. Il revient à un point du leader Feyenoord, et son buteur a balayé toute brouille avec son entraîneur.",
+      "theme": "foot",
+      "pays": [
+        "NG"
+      ],
+      "competition": "Eredivisie",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/ajax-tolu-arokodare-marque-et-brise-une-malediction-vielle-de-5-ans/",
+      "autres_sources": [
+        "https://africatopsports.com/football/tolu-arokodare-lattaquant-nigerian-repond-aux-critiques-de-son-entraineur-de-lajax/"
+      ],
+      "publie_le": "2026-11-01T09:45:05.000Z",
+      "collecte_le": "2026-11-01T11:20:01.144Z",
+      "langue": "fr",
+      "slug": "ajax-le-nigerian-tolu-arokodare-offre-la-victoire-face-az-une-premiere-9e7bdf",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9e7bdfb48101fb9eceeee957884be76a174822bf.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/9e7bdfb48101fb9eceeee957884be76a174822bf.webp",
+        "source": "wikimedia",
+        "credit": "Timmy96",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tolu_Arokodare_01112025_(1).jpg",
+        "alt": "Tolu Arokodare, attaquant international nigérian",
+        "mots_cles": [
+          "Tolu Arokodare"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d80b8117c7c5bc09001e53486941f8ccd4377294",
+      "titre": "Serbie : de retour dans le onze, Bamba Dieng marque trois fois pour l'Étoile Rouge",
+      "resume": "Titularisé après deux matches de championnat commencés sur le banc, l'attaquant sénégalais Bamba Dieng a inscrit un triplé samedi lors de la victoire 4-2 de l'Étoile Rouge de Belgrade contre Macva Sabac. Il compte désormais quatre buts cette saison avec le leader de la Superliga serbe.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Superliga serbe",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/apres-deux-matchs-sur-le-banc-bamba-dieng-signe-un-triple-face-a-macva-sabac_2019309.html",
+      "autres_sources": [
+        "https://wiwsport.com/2026/10/31/mozzart-bet-superliga-bamba-dieng-signe-un-triple-avec-letoile-rouge-de-belgrade/"
+      ],
+      "publie_le": "2026-11-01T00:02:24.000Z",
+      "collecte_le": "2026-11-01T11:20:01.144Z",
+      "langue": "fr",
+      "slug": "serbie-de-retour-dans-le-onze-bamba-dieng-marque-trois-fois-pour-d80b81",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.webp",
+        "source": "wikimedia",
+        "credit": "Bryan Berlin",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bamba_Dieng_France_v_Senegal_16_June_2026-242.jpg",
+        "alt": "Bamba Dieng, attaquant international sénégalais",
+        "mots_cles": [
+          "Bamba Dieng"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d51f1b490b5392d95b01c0623eaa38a36151e62e",
+      "titre": "Maroc : Ismael Saibari blessé avec le Bayern, à quelques jours de la liste de Ouahbi",
+      "resume": "Le milieu offensif marocain Ismael Saibari est sorti avant la demi-heure lors du nul 2-2 entre le Bayern Munich et Dortmund, samedi. Touché au genou et à la cheville, il est reparti avec des béquilles. Le Bayern parle d'une blessure sérieuse, alors que le Maroc affronte le Niger les 13 et 17 novembre.",
+      "theme": "foot",
+      "pays": [
+        "MA"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/maroc-frisson-sur-le-klassiker-saibari-blesse-a-j-4-de-la-liste-de-ouahbi",
+      "autres_sources": [
+        "https://africatopsports.com/maghreb/ismael-saibari-le-bayern-donne-des-nouvelles-sur-la-grave-blessure-du-marocain/",
+        "https://www.footmercato.net/a2775163112076377708-bayern-munich-max-eberl-tres-inquiet-pour-saibari-et-gnabry-plus-rassurant-pour-olise"
+      ],
+      "publie_le": "2026-10-31T19:12:24.000Z",
+      "collecte_le": "2026-11-01T11:20:01.144Z",
+      "langue": "fr",
+      "slug": "maroc-ismael-saibari-blesse-avec-le-bayern-quelques-jours-de-la-liste-d51f1b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d51f1b490b5392d95b01c0623eaa38a36151e62e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/d51f1b490b5392d95b01c0623eaa38a36151e62e.webp",
+        "source": "wikimedia",
+        "credit": "A.Nawfel",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ismael_Saibari.jpg",
+        "alt": "Ismael Saibari, milieu offensif international marocain",
+        "mots_cles": [
+          "Ismael Saibari"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ac4ae80253438889cc65aa758d96e251d535ec3b",
       "titre": "Premier League : Mbeumo et Baleba battus avec Manchester United à Chelsea (2-0)",

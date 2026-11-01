@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-10-31T18:19:32.759Z",
+  "genere_le": "2026-11-01T11:20:06.240Z",
   "articles": [
+    {
+      "id": "9e7bdfb48101fb9eceeee957884be76a174822bf",
+      "slug": "ajax-le-nigerian-tolu-arokodare-offre-la-victoire-face-az-une-premiere-9e7bdf",
+      "titre": "Ajax : le Nigérian Tolu Arokodare offre la victoire face à l'AZ, une première depuis 2022",
+      "publie_le": "2026-11-01T09:45:05.000Z",
+      "redige_le": "2026-11-01T11:20:01.144Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/9e7bdfb48101fb9eceeee957884be76a174822bf.json"
+    },
+    {
+      "id": "d80b8117c7c5bc09001e53486941f8ccd4377294",
+      "slug": "serbie-de-retour-dans-le-onze-bamba-dieng-marque-trois-fois-pour-d80b81",
+      "titre": "Serbie : de retour dans le onze, Bamba Dieng marque trois fois pour l'Étoile Rouge",
+      "publie_le": "2026-11-01T00:02:24.000Z",
+      "redige_le": "2026-11-01T11:20:01.144Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.json"
+    },
+    {
+      "id": "d51f1b490b5392d95b01c0623eaa38a36151e62e",
+      "slug": "maroc-ismael-saibari-blesse-avec-le-bayern-quelques-jours-de-la-liste-d51f1b",
+      "titre": "Maroc : Ismael Saibari blessé avec le Bayern, à quelques jours de la liste de Ouahbi",
+      "publie_le": "2026-10-31T19:12:24.000Z",
+      "redige_le": "2026-11-01T11:20:01.144Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/d51f1b490b5392d95b01c0623eaa38a36151e62e.json"
+    },
     {
       "id": "ac4ae80253438889cc65aa758d96e251d535ec3b",
       "slug": "premier-league-mbeumo-et-baleba-battus-avec-manchester-united-chelsea-ac4ae8",

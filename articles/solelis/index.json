@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-10-31T18:19:34.553Z",
+  "genere_le": "2026-11-01T11:20:08.300Z",
   "articles": [
+    {
+      "id": "52640369183533fa543f17fc2c28dc416ce81dfb",
+      "slug": "patrons-de-pme-pres-un-sur-deux-se-dit-isole-selon-une-etude-de-526403",
+      "titre": "Patrons de PME : près d'un sur deux se dit isolé, selon une étude de Bpifrance",
+      "publie_le": "2026-11-01T10:00:00.000Z",
+      "redige_le": "2026-11-01T11:20:06.250Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/52640369183533fa543f17fc2c28dc416ce81dfb.json"
+    },
     {
       "id": "5c2ec28ba7be77c8e5eea64f8b20201f44fbb9ce",
       "slug": "gers-la-taxe-fonciere-des-terres-agricoles-allegee-apres-une-annee-de-5c2ec2",

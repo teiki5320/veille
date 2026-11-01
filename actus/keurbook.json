@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-10-31T18:18:50.620Z",
+  "genere_le": "2026-11-01T11:19:59.233Z",
   "actus": [
+    {
+      "id": "a579becc345dae7b8b969be1cefb202b72f95d2d",
+      "titre": "Hemley Boum plonge dans les luttes démocratiques du Cameroun avec « Nos vies sauvages »",
+      "resume": "La romancière camerounaise Hemley Boum publie chez Gallimard « Nos vies sauvages », consacré à celles et ceux qui ont réclamé un régime démocratique au Cameroun sous Paul Biya. Le livre a reçu le prix Landerneau des lecteurs. De passage à Paris, l'autrice s'est confiée au Monde sur son œuvre et son amour du roman.",
+      "theme": "livres",
+      "pays": [
+        "CM"
+      ],
+      "tags": [
+        "auteur:hemley-boum"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/livres/article/2026/11/01/hemley-boum-dont-le-nouveau-roman-evoque-la-dictature-camerounaise-deployer-dans-la-langue-une-violence-assumee_6804126_3260.html",
+      "publie_le": "2026-11-01T08:00:05.000Z",
+      "collecte_le": "2026-11-01T11:19:59.233Z",
+      "langue": "fr",
+      "slug": "hemley-boum-plonge-dans-les-luttes-democratiques-du-cameroun-avec-nos-a579be",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/a579becc345dae7b8b969be1cefb202b72f95d2d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/a579becc345dae7b8b969be1cefb202b72f95d2d.webp",
+        "source": "wikimedia",
+        "credit": "Wikinade",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG",
+        "alt": "Portrait de la romancière camerounaise Hemley Boum",
+        "mots_cles": [
+          "Hemley Boum"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
       "titre": "Iba Der Thiam, cinq ans après : sa veuve raconte l'historien au quotidien",
