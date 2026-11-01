@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "715a1d5e00be16362bd80c35161c99679de57ee1",
+  "slug": "joj-dakar-2026-leon-xiv-benit-les-jeunes-athletes-et-salue-un-signe-715a1d",
+  "titre": "JOJ Dakar 2026 : Léon XIV bénit les jeunes athlètes et salue un signe d'espoir",
+  "chapo": "Le pape Léon XIV a adressé dimanche 1er novembre son salut et sa bénédiction aux jeunes sportifs réunis à Dakar pour les JOJ 2026, premier rendez-vous olympique accueilli par l'Afrique.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "C'est à la fin de la prière de l'Angélus, au Vatican, que le pape a évoqué la compétition. Les Jeux se sont ouverts au Sénégal le samedi 31 octobre et se tiendront jusqu'au 13 novembre.",
+        "Plus de 2 600 adolescents y participent, tous entre 15 et 18 ans. Ils viennent de 204 comités nationaux, auxquels s'ajoute l'équipe des athlètes réfugiés.",
+        "Léon XIV a rappelé que l'événement ne se limite pas aux épreuves. Le programme comprend aussi des temps d'échange éducatifs et culturels pour faire vivre l'idéal olympique et aider des jeunes du monde entier à mieux se connaître. Il y a vu un nouveau « signe d'espoir » venu du sport."
+      ]
+    },
+    {
+      "intertitre": "Le sport, outil de coopération",
+      "paragraphes": [
+        "Le pape a repris une idée exprimée la veille, lors d'une audience avec des basketteurs américains des universités Notre Dame et Villanova : le sport permet aux peuples de travailler ensemble et transmet des valeurs.",
+        "Au Sénégal, la presse a largement relayé ce message. Le quotidien Le Soleil note qu'il s'agit de la deuxième prise de parole du souverain pontife sur ces Jeux, et insiste sur l'accent mis par le pape sur le respect et la compréhension entre les peuples."
+      ]
+    },
+    {
+      "intertitre": "Une bénédiction déjà donnée en octobre",
+      "paragraphes": [
+        "Un mois plus tôt, le 1er octobre, le président du comité d'organisation, Mamadou Diagna Ndiaye, avait été reçu par le pape au Palais apostolique. Le pontife avait alors béni les Jeux, les jeunes du Sénégal, du continent et du monde entier, ainsi que toutes les équipes engagées dans leur préparation."
+      ]
+    },
+    {
+      "intertitre": "Une première pour le continent",
+      "paragraphes": [
+        "Créés par le Comité international olympique, les JOJ rassemblent des sportifs trop jeunes pour les Jeux classiques. Dakar accueille la quatrième édition d'été, après Singapour, Nankin et Buenos Aires. Prévue d'abord en 2022, elle avait été repoussée en raison de la pandémie de Covid-19. C'est la première fois qu'une compétition olympique se déroule sur le sol africain."
+      ]
+    }
+  ],
+  "mots": 344,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "SN",
+    "VA"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-angelus-appels-jeux-olymiques-jeunesse-senegal-sport.html",
+  "autres_sources": [
+    "https://senego.com/aux-joj-de-dakar-leon-xiv-met-en-avant-la-cooperation-par-le-sport_2019367.html",
+    "https://lesoleil.sn/actualites/sports/joj-dakar-2026-le-pape-leon-xiv-salue-un-signe-desperance-venu-du-sport/"
+  ],
+  "publie_le": "2026-11-01T12:25:00.000Z",
+  "redige_le": "2026-11-01T18:21:01.391Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/715a1d5e00be16362bd80c35161c99679de57ee1.webp",
+    "source": "wikimedia",
+    "credit": "Edgar Beltrán / The Pillar",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_2.jpg",
+    "alt": "Le pape Léon XIV",
+    "mots_cles": [
+      "Pope Leo XIV"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

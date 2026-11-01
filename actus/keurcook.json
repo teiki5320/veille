@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-01T11:20:01.132Z",
+  "genere_le": "2026-11-01T18:21:14.445Z",
   "actus": [
+    {
+      "id": "3564f35fc42ac88de596fde6ddf9a47e363657b8",
+      "titre": "Tunisie : à Testour, la grenade fêtée en jus, confitures et mélasse pour la 10e édition",
+      "resume": "Pendant six jours, jusqu'au 1er novembre, la ville de la région de Béja a consacré son festival au fruit emblématique de son terroir. Les visiteurs ont goûté la grenade sous de nombreuses formes et découvert des spécialités locales comme le hrous, le zrir ou des douceurs venues de la tradition andalouse.",
+      "theme": "cuisine",
+      "pays": [
+        "TN"
+      ],
+      "source_nom": "AllAfrica",
+      "source_url": "https://fr.allafrica.com/stories/202611010042.html",
+      "publie_le": "2026-11-01T14:05:00.000Z",
+      "collecte_le": "2026-11-01T18:21:14.445Z",
+      "langue": "fr",
+      "slug": "tunisie-testour-la-grenade-fetee-en-jus-confitures-et-melasse-pour-la-3564f3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/3564f35fc42ac88de596fde6ddf9a47e363657b8.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/3564f35fc42ac88de596fde6ddf9a47e363657b8.webp",
+        "source": "wikimedia",
+        "credit": "Cimoi",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Place_Testour.jpg",
+        "alt": "La ville de Testour, en Tunisie",
+        "mots_cles": [
+          "Testour"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "120614283496c4b42fed019a25c471272d8ea00b",
       "titre": "Le dessinateur Jul livre sa pkaila, ragoût tunisien aux épinards frits hérité de sa mère",

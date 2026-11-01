@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-01T11:20:08.300Z",
+  "genere_le": "2026-11-01T18:21:27.117Z",
   "articles": [
+    {
+      "id": "3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91",
+      "slug": "restauration-rapide-le-franchise-kfc-palois-pronoia-passe-en-procedure-3f01af",
+      "titre": "Restauration rapide : le franchisé KFC palois ProNoïa passe en procédure de sauvegarde",
+      "publie_le": "2026-11-01T17:05:23.000Z",
+      "redige_le": "2026-11-01T18:21:22.710Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91.json"
+    },
+    {
+      "id": "57e082cbaed32d3557b5d6e93f04646a47d3b108",
+      "slug": "carburants-le-gazole-recule-la-pompe-les-petites-stations-se-disent-57e082",
+      "titre": "Carburants : le gazole recule à la pompe, les petites stations se disent pénalisées",
+      "publie_le": "2026-11-01T15:48:42.000Z",
+      "redige_le": "2026-11-01T18:21:22.710Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/57e082cbaed32d3557b5d6e93f04646a47d3b108.json"
+    },
     {
       "id": "52640369183533fa543f17fc2c28dc416ce81dfb",
       "slug": "patrons-de-pme-pres-un-sur-deux-se-dit-isole-selon-une-etude-de-526403",

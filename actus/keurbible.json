@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-01T11:19:59.216Z",
+  "genere_le": "2026-11-01T18:21:01.391Z",
   "actus": [
+    {
+      "id": "715a1d5e00be16362bd80c35161c99679de57ee1",
+      "titre": "JOJ Dakar 2026 : Léon XIV bénit les jeunes athlètes et salue un signe d'espoir",
+      "resume": "Après l'Angélus du 1er novembre, le pape a salué les plus de 2 600 sportifs âgés d'au moins 15 ans et d'au plus 18 ans, réunis au Sénégal pour la première compétition olympique organisée en Afrique. Il voit dans le sport un moyen de coopérer et de transmettre des valeurs.",
+      "theme": "culture",
+      "pays": [
+        "SN",
+        "VA"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/pape/news/2026-11/pape-angelus-appels-jeux-olymiques-jeunesse-senegal-sport.html",
+      "autres_sources": [
+        "https://senego.com/aux-joj-de-dakar-leon-xiv-met-en-avant-la-cooperation-par-le-sport_2019367.html",
+        "https://lesoleil.sn/actualites/sports/joj-dakar-2026-le-pape-leon-xiv-salue-un-signe-desperance-venu-du-sport/"
+      ],
+      "publie_le": "2026-11-01T12:25:00.000Z",
+      "collecte_le": "2026-11-01T18:21:01.391Z",
+      "langue": "fr",
+      "slug": "joj-dakar-2026-leon-xiv-benit-les-jeunes-athletes-et-salue-un-signe-715a1d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/715a1d5e00be16362bd80c35161c99679de57ee1.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/715a1d5e00be16362bd80c35161c99679de57ee1.webp",
+        "source": "wikimedia",
+        "credit": "Edgar Beltrán / The Pillar",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_2.jpg",
+        "alt": "Le pape Léon XIV",
+        "mots_cles": [
+          "Pope Leo XIV"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c67a379ef90d27f3da62880557a2dcdb6ea8ee4e",
       "titre": "JOJ Dakar 2026 : l'archevêque André Gueye célèbre une messe pour les jeunes athlètes",

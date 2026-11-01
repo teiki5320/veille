@@ -1798,109 +1798,225 @@
     "1fb5d9b5bb030c213824648045c42a833318687a": "2026-11-01T11:20:01.144Z",
     "c8999197eeaafa98866845ac332b554f085002a5": "2026-11-01T11:20:01.144Z",
     "6af878c06e10dcb8584d204d975085db5c9e0eb5": "2026-11-01T11:20:01.144Z",
-    "1c5c698a9e3f41936a2d223d02900a03851d301e": "2026-11-01T11:20:01.144Z"
+    "1c5c698a9e3f41936a2d223d02900a03851d301e": "2026-11-01T11:20:01.144Z",
+    "cd2658fc90aec193d354c171d2271f3e5a9149ce": "2026-11-01T18:21:16.478Z",
+    "337dad24522a9cf9ba0ab3d2242396a471f405fb": "2026-11-01T18:21:16.478Z",
+    "0e72073b65d37fe5b265409100a4f98fc13756f0": "2026-11-01T18:21:16.478Z",
+    "7f050813d5e95fee1a8019df8b859a1ec3a5b094": "2026-11-01T18:21:16.478Z",
+    "b211e038eb3d4a80888d7b6e5f52430fdc447355": "2026-11-01T18:21:16.478Z",
+    "889ca18df6259f5361d571044729e2bab1914e47": "2026-11-01T18:21:16.478Z",
+    "73e9b251e83451d46007e90e7f34e6bf9c5be36d": "2026-11-01T18:21:16.478Z",
+    "e0a89998335bbc4d9a08d6075ca79d84044bb18b": "2026-11-01T18:21:16.478Z",
+    "d55cd7ba39495d23baa9e75a75e80b77f046c47b": "2026-11-01T18:21:16.478Z",
+    "ba43ec6570f9c9f135cef2c5ac7112201f948aa3": "2026-11-01T18:21:16.478Z",
+    "f836e6119efd3e24304f465f47d3ec860cc6fb9a": "2026-11-01T18:21:16.478Z",
+    "9c7401c9de0a9f475986c5670a65e83f3a6f49c1": "2026-11-01T18:21:16.478Z",
+    "8c16a6866f3605bd17a18642a2e624f4d0b67730": "2026-11-01T18:21:16.478Z",
+    "7cb6d407118005759b48e52874e975bf2d2bf216": "2026-11-01T18:21:16.478Z",
+    "bcfbc0681b1ed98912eec5eeedbee00d853ccc34": "2026-11-01T18:21:16.478Z",
+    "99bbd61bbe9a7e7487cc560d42ffdd41420c8dc9": "2026-11-01T18:21:16.478Z",
+    "7fc3bcc14f100145940124ce0c38c2b731ab5490": "2026-11-01T18:21:16.478Z",
+    "96ef2592b40885073edf88a50bf9d6357f3840c7": "2026-11-01T18:21:16.478Z",
+    "039d59ca94eb3ddc7875f2c06ffd13ba0d95b0cb": "2026-11-01T18:21:16.478Z",
+    "f81e3a456aa757788bf8428271e586575bc2b17e": "2026-11-01T18:21:16.478Z",
+    "e1b93725da267e72a5a7fdf00c1d4863244e7290": "2026-11-01T18:21:16.478Z",
+    "d753734727ce582e1a3f735ae123a76a7bc9803d": "2026-11-01T18:21:16.478Z",
+    "9ef609425f28ee8db57ba179268271ff39cd4a9c": "2026-11-01T18:21:16.478Z",
+    "64e008d6f2c7425b85f42b489bc0f9ec7ceb4fac": "2026-11-01T18:21:16.478Z",
+    "384a0125b6c508200f63731be00e8910e8670200": "2026-11-01T18:21:16.478Z",
+    "56b5c0967a366f1c7596a39a28e5152a160e8e69": "2026-11-01T18:21:16.478Z",
+    "a1d381f735e558b09be9c2f6607294b47529b995": "2026-11-01T18:21:16.478Z",
+    "308dcbfcc5fbcebafc3c2006cafff62127c366a8": "2026-11-01T18:21:16.478Z",
+    "a674dc3dc19651a1409003c4d6579d37e9caa7ba": "2026-11-01T18:21:16.478Z",
+    "8c513f885573075d030714433920495ebb081969": "2026-11-01T18:21:16.478Z",
+    "65140e18ffc23477c2fff13f616233f1f034aa0f": "2026-11-01T18:21:16.478Z",
+    "f8dc24c5681f72701bb32f9f2db95094dc81b51a": "2026-11-01T18:21:16.478Z",
+    "9097fee1034658d060b81eb69c590e27f9bc451d": "2026-11-01T18:21:16.478Z",
+    "941122fa91f85f0a9ddd24e6b361c273a10678a2": "2026-11-01T18:21:16.478Z",
+    "364bb4a2984455eecff713288ea60f333e83c91e": "2026-11-01T18:21:16.478Z",
+    "190900933e82bf901bf0697763ce3131e37f7981": "2026-11-01T18:21:16.478Z",
+    "1bba2f4468d8e0c63ca0c0446397236a3124f2ef": "2026-11-01T18:21:16.478Z",
+    "0cb778915f65d306cf2c71dac3d5324038106003": "2026-11-01T18:21:16.478Z",
+    "eb0f7104b0a24ed90ee50360bdc73fa5b7c4a87c": "2026-11-01T18:21:16.478Z",
+    "0c4be0c983c0e8c19613aa2afb60b9b46ee3a4e2": "2026-11-01T18:21:16.478Z",
+    "f71293917d1a9359380b6f4dd974e1448f77e1b1": "2026-11-01T18:21:16.478Z",
+    "ff0523a8f47edc5bea8287fc5da8110099b96c09": "2026-11-01T18:21:16.478Z",
+    "8c0c8b7e30e15845c6d242793237ed2f5d91fc20": "2026-11-01T18:21:16.478Z",
+    "56649367786f79297d67b2bbdb7ff4af1649d70a": "2026-11-01T18:21:16.478Z",
+    "6081eddb3c6d1289902b2750097e64c5a6f24b3f": "2026-11-01T18:21:16.478Z",
+    "c82c082186b63d1934576d3589b4fa183d5f02f5": "2026-11-01T18:21:16.478Z",
+    "aff9926ae4f5c6f1a08c688546c4a600a176bcd0": "2026-11-01T18:21:16.478Z",
+    "7e5e04793e0bdc589ab0d8b50681bddbd29bc267": "2026-11-01T18:21:16.478Z",
+    "1b81e43ea81794a555b565de8161629a03a63310": "2026-11-01T18:21:16.478Z",
+    "176e099020c447db2a7d8c4958526501321d563b": "2026-11-01T18:21:16.478Z",
+    "6eded4b4dd7848f49e7678d296c3e212a4567eda": "2026-11-01T18:21:16.478Z",
+    "a28450b8a79bd90023bc07573743f7860df7f77a": "2026-11-01T18:21:16.478Z",
+    "4115bb568a27e6667fc67b84a852335c6690a6a2": "2026-11-01T18:21:16.478Z",
+    "faa7a27c6e426a5ec02af803607ee40f978fabdd": "2026-11-01T18:21:16.478Z",
+    "7f2fbdde3036600b7fe60c84845f3bac5d04d7ee": "2026-11-01T18:21:16.478Z",
+    "0bc016618e9ac4170ca93cb22ec3c5ae0162dd5c": "2026-11-01T18:21:16.478Z",
+    "0644caea75eb32ea2968f984b99e60a9b0eed4e2": "2026-11-01T18:21:16.478Z",
+    "ea15d42884863394562a4bebb0710537b2cd82ae": "2026-11-01T18:21:16.478Z",
+    "7b2eeb9935ae91d39c85a2afaca7fd1e91e4cc72": "2026-11-01T18:21:16.478Z",
+    "86bba592385d420da5552b879f56f69fac6905b0": "2026-11-01T18:21:16.478Z",
+    "1b09e66a0e0916f0159a1291018c6f52a5b95ce1": "2026-11-01T18:21:16.478Z",
+    "5cab8cbc3e902a9b5ea7710ab160acf8c5c5bc8d": "2026-11-01T18:21:16.478Z",
+    "c9a0487b2d8731eee99da081d4c01f9417155b83": "2026-11-01T18:21:16.478Z",
+    "3df49958a8825941311c85eb507a2637b4cc4cf1": "2026-11-01T18:21:16.478Z",
+    "405dc582f5d28b63cf632e54594d6802ebf7e957": "2026-11-01T18:21:16.478Z",
+    "50a2fc394d6eb9cbeaaede8900a73f7498966dd9": "2026-11-01T18:21:16.478Z",
+    "e4db78d05f5cff9935755e5778d25655e8d75d4b": "2026-11-01T18:21:16.478Z",
+    "b1dbe0d9be598423fd973bbb1faf199c0d65079f": "2026-11-01T18:21:16.478Z",
+    "66c0bc1a568e0cae07d60d6db463440f4549c690": "2026-11-01T18:21:16.478Z",
+    "b7da984d2c2eef8177578621888d49e6cf477906": "2026-11-01T18:21:16.478Z",
+    "474c720b6134740d4e9ddba542054ab852756806": "2026-11-01T18:21:16.478Z",
+    "594fa10311c405b6aa14d4325fa4801b66192157": "2026-11-01T18:21:16.478Z",
+    "63e326b7a1a499dd415c43eaa068145a18952d76": "2026-11-01T18:21:16.478Z",
+    "dac67042465c6f9cd16cb3dd331b4c3300cfd699": "2026-11-01T18:21:16.478Z",
+    "1d800f6b2067a31c0f8e3f8f5393dd46e8f0020e": "2026-11-01T18:21:16.478Z",
+    "6e20f2fa7ad3e23f51a4ed6f128b9332a855029f": "2026-11-01T18:21:16.478Z",
+    "f4add50ca4b5b2d0e05ca15fe97cc935baa40ae1": "2026-11-01T18:21:16.478Z",
+    "b948db550e935d9958b0cbca21fcea0455e436e5": "2026-11-01T18:21:16.478Z",
+    "3b2f063cfe6b8f8022c5d022dfe6bb741aefe03c": "2026-11-01T18:21:16.478Z",
+    "9826ad545cb4f0c1111053e12f59d36d1160a210": "2026-11-01T18:21:16.478Z",
+    "b9c9a7088303ed616f64b8612f0033c82e671943": "2026-11-01T18:21:16.478Z",
+    "267b60e1f1f9ab2702b7bb403c7a962557a2e15b": "2026-11-01T18:21:16.478Z",
+    "4e52a8201478614b8305629de5eb0f1911641f3c": "2026-11-01T18:21:16.478Z",
+    "b33da2f11cf88129c0072a1133711af04038dd5e": "2026-11-01T18:21:16.478Z",
+    "929f5893f9ec328d9fdcdb8528c51956ba83bfe5": "2026-11-01T18:21:16.478Z",
+    "76516d5fb0f016e73b76130a2914ec2f8702257d": "2026-11-01T18:21:16.478Z",
+    "0c93cddae76d5a20b6dc4fba096d91febbfd32cd": "2026-11-01T18:21:16.478Z",
+    "ff6c77912d07f59a749fdcb9f45d3597ff662556": "2026-11-01T18:21:16.478Z",
+    "efb21657bef64c1da17e46168e0ad7acc5c0c68f": "2026-11-01T18:21:16.478Z",
+    "b6ed7313d16545fa5adba8ba0ac6f944f2d77aa5": "2026-11-01T18:21:16.478Z",
+    "b733217c0ea9f9bda4b97fa0869598374d7d124f": "2026-11-01T18:21:16.478Z",
+    "33e66eaff14d5094b5acc7a86af40ab9708d5d65": "2026-11-01T18:21:16.478Z",
+    "ee59635b781e4003c94efacb308453c2246dcb0d": "2026-11-01T18:21:16.478Z",
+    "6567c3f0c4497012382c69c5312f9e55acf4094c": "2026-11-01T18:21:16.478Z",
+    "49aedeec50a626367d5368db0fc33c53ae3358db": "2026-11-01T18:21:16.478Z",
+    "e7c6676fdf2c4cb5edeb2b818bf4c96c233f23e8": "2026-11-01T18:21:16.478Z",
+    "479d3b250f53655f1b321bd3301b11875b513377": "2026-11-01T18:21:16.478Z",
+    "93de5ed16d30e1da243f708a26a6cf32ec85a5b7": "2026-11-01T18:21:16.478Z",
+    "3108710955d164d590c5cbd86123a161f4b40973": "2026-11-01T18:21:16.478Z",
+    "bf76c65a166f716c4c56d5fc1aa295816689bf2f": "2026-11-01T18:21:16.478Z",
+    "825a741078eca757f5911588d143b535df52226a": "2026-11-01T18:21:16.478Z",
+    "cde41454959253979a95f0e5752a50013760b318": "2026-11-01T18:21:16.478Z",
+    "d578eb53daa06fbf0dca85846a50eaa67f786649": "2026-11-01T18:21:16.478Z",
+    "9f118ef4d64afc315d8dd66db857d7be6da1d4f8": "2026-11-01T18:21:16.478Z",
+    "5991e49af854ee283bc9b0f57319b8336c2d9a61": "2026-11-01T18:21:16.478Z",
+    "fbe95f5b72fb42bee13f7f165f129be739cc240a": "2026-11-01T18:21:16.478Z",
+    "8115d71bf9f7eab687c89512115c6efb27e4a0f3": "2026-11-01T18:21:16.478Z",
+    "133cf7d0d69090a9e80b00850616fb25bc09e631": "2026-11-01T18:21:16.478Z",
+    "a2743dd26e25bc1bcc85d1ebb8c7b830f91c6ac4": "2026-11-01T18:21:16.478Z",
+    "5287d8e12ac5e4abfca18456b75fc44d7552a35c": "2026-11-01T18:21:16.478Z",
+    "22d83d99c0a9f222cc58beec8e6df70d760852d3": "2026-11-01T18:21:16.478Z",
+    "a907cf37b4cd43788bf04d763dacc4b7ee786990": "2026-11-01T18:21:16.478Z"
   },
   "flux": {
     "https://www.afrik-foot.com/rss": {
       "nom": "Afrik-Foot",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 4
     },
     "https://africatopsports.com/feed/": {
       "nom": "Africa Top Sports",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 10
+      "articles": 9
     },
     "https://dwh.lequipe.fr/api/edito/rss?path=/Football/Afrique/": {
       "nom": "L'Équipe",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.camfoot.com/feed/": {
       "nom": "Camfoot",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 10
+      "articles": 1
     },
     "https://wiwsport.com/feed/": {
       "nom": "Wiwsport",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
       "articles": 6
     },
     "https://senego.com/rubrique/sport/feed": {
       "nom": "Senego",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
       "articles": 15
     },
     "https://www.kawowo.com/feed/": {
       "nom": "Kawowo Sports",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 7
+      "articles": 5
     },
     "https://www.rfi.fr/fr/sports/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 2
     },
     "https://dwh.lequipe.fr/api/edito/rss?path=/Football/": {
       "nom": "L'Équipe",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 42
+      "articles": 25
     },
     "https://www.footmercato.net/flux-rss": {
       "nom": "Foot Mercato",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 38
+      "articles": 32
     },
     "https://www.espn.com/espn/rss/soccer/news": {
       "nom": "ESPN FC",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 4
     },
     "https://www.bbc.com/afrique/index.xml": {
       "nom": "BBC Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
       "articles": 3
     },
     "https://www.france24.com/fr/afrique/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 3
     },
     "https://www.jeuneafrique.com/rubriques/sport/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:13:29.984Z",
+      "dernier_succes": "2026-11-01T18:13:20.532Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 3
     }
   },
   "images_recentes": [
+    {
+      "id": "337dad24522a9cf9ba0ab3d2242396a471f405fb",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lassine_Sinayoko_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "9e7bdfb48101fb9eceeee957884be76a174822bf",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tolu_Arokodare_01112025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -1976,17 +2092,12 @@
     {
       "id": "5b0db5fb5b1b2d2fa731366001f8702493bb60f4",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Esperance_Tunis_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-    },
-    {
-      "id": "021d0208e5d6156ba92b2b6168bfad3f2d943d33",
-      "origine": "carte:keurfoot:021d0208e5d6156ba92b2b6168bfad3f2d943d33"
     }
   ],
   "origines": {
     "13c6e86581517be5969d48dcc31c8efef0cd4f03": "https://upload.wikimedia.org/wikipedia/commons/5/59/Patrick_Vieira_NYCFC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "0d08e0a6c70b4faec72a2bc62337b1d9b53616cf": "https://upload.wikimedia.org/wikipedia/commons/5/52/HakimiAchraf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "cfdce348015776c3fdfbad872b44730a1074f4bc": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bouaddi_asselosc_2425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "7425babc81de32d37f34e40cdc31d1cc87d0960f": "https://upload.wikimedia.org/wikipedia/commons/5/59/FAR_Rabat_v_TP_Mazembe_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "d8748aac9e22be6c73ae94925791a9c4f688ef6d": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Les_FAR_de_Rabat_en_t%C3%AAte_du_Botola_%288170068288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "b8b05a1289992b843ff44406506830b2e98c2816": "carte:keurfoot:b8b05a1289992b843ff44406506830b2e98c2816",
     "da53bff8ac59c3300e38e210aac991bbbbe1f4a2": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2042,6 +2153,7 @@
     "ac4ae80253438889cc65aa758d96e251d535ec3b": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bryan_Mbeumo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "d51f1b490b5392d95b01c0623eaa38a36151e62e": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ismael_Saibari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "9e7bdfb48101fb9eceeee957884be76a174822bf": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tolu_Arokodare_01112025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "d80b8117c7c5bc09001e53486941f8ccd4377294": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bamba_Dieng_France_v_Senegal_16_June_2026-242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "d80b8117c7c5bc09001e53486941f8ccd4377294": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bamba_Dieng_France_v_Senegal_16_June_2026-242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "337dad24522a9cf9ba0ab3d2242396a471f405fb": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lassine_Sinayoko_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 }

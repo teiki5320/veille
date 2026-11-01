@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "7617e5ad25f112c5a5a294a51d9e21576c4645a9",
+  "slug": "cactus-de-noel-en-novembre-lumiere-et-obscurite-decident-de-la-7617e5",
+  "titre": "Cactus de Noël : en novembre, lumière et obscurité décident de la floraison",
+  "chapo": "En novembre, le cactus de Noël forme ses boutons floraux. Le site américain Gardening Know How détaille quatre gestes simples pour éviter qu'il ne les perde avant les fêtes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Schlumbergera, plante hybride connue sous le nom de cactus de Noël, vient des forêts tropicales humides de la côte brésilienne. Dans une maison chauffée, très loin de ce milieu, il peut mal fleurir, voire laisser tomber tous ses boutons.",
+        "Ceux-ci apparaissent comme de petits points colorés au bout des tiges : rouges, roses, violets, ou vert très pâle pour les variétés à fleurs blanches. Il vaut la peine de les guetter régulièrement."
+      ]
+    },
+    {
+      "intertitre": "La lumière comme signal",
+      "paragraphes": [
+        "La floraison dépend beaucoup de la lumière. Beaucoup de jardiniers alternent clarté et obscurité pour déclencher les boutons au bon moment. Une plante éclairée chaque soir par les lampes de la maison, ou qui a trop chaud et trop d'eau, risque de ne pas recevoir ce signal.",
+        "Si aucun bouton n'est visible à la mi-novembre, l'article conseille d'installer la plante dans une pièce peu utilisée, où l'on n'allume pas le soir. Le chauffage est baissé pour que l'air descende la nuit vers 10 à 13 °C. L'arrosage reste rare, seulement quand les cinq à sept premiers centimètres de terreau sont secs : un peu de sécheresse aide à lancer la floraison."
+      ]
+    },
+    {
+      "intertitre": "Après l'apparition des boutons",
+      "paragraphes": [
+        "Dès que les boutons se montrent, le cactus doit rejoindre un endroit lumineux, sans soleil direct, entre 18 et 21 °C environ. L'arrosage devient plus régulier, pour garder un terreau à peine humide. Contre l'air sec du chauffage, une soucoupe garnie de graviers et d'eau, sur laquelle le pot repose sans tremper, augmente l'humidité autour de la plante."
+      ]
+    },
+    {
+      "intertitre": "Ne plus déplacer le pot",
+      "paragraphes": [
+        "Dernière règle : ne plus bouger la plante, même de quelques centimètres. Dans la nature, les boutons se tournent vers la source de lumière ; si elle change, ils se tordent et tombent. Si l'emplacement choisi manque de clarté, l'autrice suggère une lampe de croissance LED à intensité réglable.",
+        "Il faut compter quatre à six semaines entre les premiers boutons et l'ouverture des fleurs. Chaque fleur tient jusqu'à neuf jours, et la floraison peut ainsi s'étaler sur au moins un mois."
+      ]
+    }
+  ],
+  "mots": 365,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "source_nom": "Gardening Know How",
+  "source_url": "https://www.gardeningknowhow.com/ornamental/christmas-cactus/november-christmas-cactus-care",
+  "publie_le": "2026-11-01T12:25:00.000Z",
+  "redige_le": "2026-11-01T18:21:18.174Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/7617e5ad25f112c5a5a294a51d9e21576c4645a9.webp",
+    "source": "wikimedia",
+    "credit": "Agnes Monkelbaan",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Schlumbergera_(actm)_01.jpg",
+    "alt": "Un cactus de Noël (Schlumbergera)",
+    "mots_cles": [
+      "Schlumbergera"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

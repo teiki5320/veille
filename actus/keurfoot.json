@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-01T11:20:01.144Z",
+  "genere_le": "2026-11-01T18:21:16.478Z",
   "actus": [
+    {
+      "id": "337dad24522a9cf9ba0ab3d2242396a471f405fb",
+      "titre": "Ligue 1 : doublé et passe décisive pour Lassine Sinayoko, le Paris FC bat Monaco (3-1)",
+      "resume": "L'attaquant malien a marqué deux fois avant la pause puis offert le troisième but à Pablo Pagis, dimanche au stade Jean-Bouin. Avec huit réalisations, il est désormais seul en tête des buteurs du championnat, et le Paris FC remonte au quatrième rang.",
+      "theme": "foot",
+      "pays": [
+        "ML",
+        "FR"
+      ],
+      "competition": "Ligue 1",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a7403464712749290392-paris-fc-le-festival-de-lassine-sinayoko-contre-monaco",
+      "autres_sources": [
+        "https://www.footmercato.net/a7257737626114490173-ligue-1-lol-soffre-angers-et-monte-sur-le-podium-le-paris-fc-dun-grand-sinayoko-domine-monaco"
+      ],
+      "publie_le": "2026-11-01T18:10:16.000Z",
+      "collecte_le": "2026-11-01T18:21:16.478Z",
+      "langue": "fr",
+      "slug": "ligue-1-double-et-passe-decisive-pour-lassine-sinayoko-le-paris-fc-bat-337dad",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/337dad24522a9cf9ba0ab3d2242396a471f405fb.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/337dad24522a9cf9ba0ab3d2242396a471f405fb.webp",
+        "source": "wikimedia",
+        "credit": "SonoGrazy",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lassine_Sinayoko_(cropped).jpg",
+        "alt": "L'attaquant malien Lassine Sinayoko",
+        "mots_cles": [
+          "Lassine Sinayoko"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "9e7bdfb48101fb9eceeee957884be76a174822bf",
       "titre": "Ajax : le Nigérian Tolu Arokodare offre la victoire face à l'AZ, une première depuis 2022",
@@ -2038,42 +2073,6 @@
       },
       "slug": "coupe-de-la-caf-as-far-rabat-qualifiee-carton-plein-pour-le-maroc-d8748a",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d8748aac9e22be6c73ae94925791a9c4f688ef6d.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "7425babc81de32d37f34e40cdc31d1cc87d0960f",
-      "titre": "TP Mazembe éliminé de la Ligue des champions CAF, le MAS Fès qualifié",
-      "resume": "Le second tour préliminaire a rendu son verdict ce week-end. Le club congolais a chuté à Radès, et aucun club ivoirien ne s'est qualifié, alors que le champion du Maroc a validé son billet. Les 16 équipes de la phase de groupes sont désormais connues, en attendant le tirage au sort.",
-      "theme": "foot",
-      "pays": [
-        "CD",
-        "MA",
-        "CI"
-      ],
-      "competition": "Ligue des champions CAF",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/ligue-des-champions-caf-le-tp-mazembe-passe-a-la-trappe-le-champion-du-maroc-qualifie-la-cote-divoire-fait-chou-blanc",
-      "autres_sources": [
-        "https://www.afrik-foot.com/ligue-des-champions-caf-les-chapeaux-probables-et-la-date-du-tirage-au-sort-de-la-phase-de-groupes"
-      ],
-      "publie_le": "2026-10-25T20:21:29.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/7425babc81de32d37f34e40cdc31d1cc87d0960f.webp",
-        "source": "wikimedia",
-        "credit": "Reda benkhadra",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:FAR_Rabat_v_TP_Mazembe_10.jpg",
-        "alt": "Un stade de football lors d'un match de club africain",
-        "mots_cles": [
-          "TP Mazembe"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "tp-mazembe-elimine-de-la-ligue-des-champions-caf-le-mas-fes-qualifie-7425ba",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7425babc81de32d37f34e40cdc31d1cc87d0960f.json",
       "lecture_min": 1
     }
   ]

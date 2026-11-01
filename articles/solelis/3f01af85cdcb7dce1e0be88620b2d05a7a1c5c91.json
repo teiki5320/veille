@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91",
+  "slug": "restauration-rapide-le-franchise-kfc-palois-pronoia-passe-en-procedure-3f01af",
+  "titre": "Restauration rapide : le franchisé KFC palois ProNoïa passe en procédure de sauvegarde",
+  "chapo": "Rattrapé par la dette de son développement, le groupe palois ProNoïa, l'un des plus gros franchisés de l'enseigne KFC dans le pays, est sous la protection de la justice commerciale depuis fin septembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La décision a été prise par la juridiction commerciale de Bordeaux. Elle concerne la holding et toutes ses filiales, qui exploitent une quarantaine de restaurants de poulet frit, notamment à Pau, Lescar et Bayonne, mais aussi à Paris, gare du Nord et au Forum des Halles. Le groupe emploie environ 900 personnes.",
+        "Les suites éventuelles pour l'emploi ne sont pas connues à ce stade. Interrogé, ProNoïa renvoie vers KFC France, qui évoque une démarche « proactive » de son franchisé pour restructurer l'activité et assure que les restaurants restent ouverts."
+      ]
+    },
+    {
+      "intertitre": "Une croissance financée par la dette",
+      "paragraphes": [
+        "Le groupe est né en 2012, avec la reprise du restaurant de Lescar. Il s'est ensuite développé dans les Landes et en Bigorre, puis en 2018 en plein centre de Pau.",
+        "En 2023, ProNoïa a obtenu 85 millions d'euros, surtout auprès de banques, pour passer de 26 à près de 60 restaurants d'ici 2025. Une quinzaine ont ouvert, beaucoup en Île-de-France, la région qui pèse le plus dans les pertes : la filiale d'Île-de-France a perdu 4,7 millions lors de l'exercice achevé en mars 2026.",
+        "Encore rentable en 2021-2022, l'ensemble affichait une perte de 7,2 millions lors de l'exercice terminé fin mars 2025, avec un chiffre d'affaires de 83,9 millions. Sa dette financière atteignait alors 60,7 millions d'euros."
+      ]
+    },
+    {
+      "intertitre": "Ce que permet la sauvegarde",
+      "paragraphes": [
+        "Cette procédure est réservée aux entreprises qui ne sont pas encore en cessation de paiements. Elle gèle le remboursement des dettes antérieures pendant une période d'observation, le temps de bâtir un plan qui peut étaler le passif sur dix ans au plus. Le dirigeant garde la main sur la gestion. Si le plan échoue, la procédure peut se transformer en redressement, voire en liquidation judiciaire."
+      ]
+    },
+    {
+      "intertitre": "Un marché plus disputé",
+      "paragraphes": [
+        "Le contexte reste favorable au poulet, dont la consommation a augmenté de 5,6 % l'an dernier dans l'Hexagone, d'après l'interprofession Anvol, grâce notamment à la restauration. Mais la concurrence s'est durcie avec l'arrivée d'autres chaînes, comme Popeyes ou Tasty Crousty."
+      ]
+    }
+  ],
+  "mots": 361,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:credit-bancaire"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/croissance-effrenee-ou-boulimie-l-un-des-principaux-franchises-de-kfc-ne-a-pau-place-en-procedure-de-sauvegarde-31335459.php",
+  "publie_le": "2026-11-01T17:05:23.000Z",
+  "redige_le": "2026-11-01T18:21:22.710Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91.webp",
+    "source": "wikimedia",
+    "credit": "Velvet",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Roubaix_KFC_bd_gambetta.jpg",
+    "alt": "Un restaurant de l'enseigne KFC",
+    "mots_cles": [
+      "KFC restaurant France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

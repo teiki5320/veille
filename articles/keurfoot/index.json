@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-01T11:20:06.240Z",
+  "genere_le": "2026-11-01T18:21:18.164Z",
   "articles": [
+    {
+      "id": "337dad24522a9cf9ba0ab3d2242396a471f405fb",
+      "slug": "ligue-1-double-et-passe-decisive-pour-lassine-sinayoko-le-paris-fc-bat-337dad",
+      "titre": "Ligue 1 : doublé et passe décisive pour Lassine Sinayoko, le Paris FC bat Monaco (3-1)",
+      "publie_le": "2026-11-01T18:10:16.000Z",
+      "redige_le": "2026-11-01T18:21:16.478Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/337dad24522a9cf9ba0ab3d2242396a471f405fb.json"
+    },
     {
       "id": "9e7bdfb48101fb9eceeee957884be76a174822bf",
       "slug": "ajax-le-nigerian-tolu-arokodare-offre-la-victoire-face-az-une-premiere-9e7bdf",

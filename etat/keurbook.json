@@ -408,81 +408,99 @@
     "727b5a2b8354dbf2a3db9e5091494ee0d64d5b4e": "2026-11-01T11:19:59.233Z",
     "d422e47ae857311d0d0d5383f3b50f441b5a60bb": "2026-11-01T11:19:59.233Z",
     "24064f85a7f96a67f6a8e3822279b131af557e8e": "2026-11-01T11:19:59.233Z",
-    "677cc2b8a1396a74aa63e0bbc419d2943dbaee8b": "2026-11-01T11:19:59.233Z"
+    "677cc2b8a1396a74aa63e0bbc419d2943dbaee8b": "2026-11-01T11:19:59.233Z",
+    "4b487b69e3a422a8c6c8212ff7b6ce60b48c3d42": "2026-11-01T18:21:09.702Z",
+    "f17799a9765856aa3f9cb62f75c58740ca4b9862": "2026-11-01T18:21:09.702Z",
+    "f0134d997ed391aa646c9e4c4192c697ef992ff1": "2026-11-01T18:21:09.702Z",
+    "6081eddb3c6d1289902b2750097e64c5a6f24b3f": "2026-11-01T18:21:09.702Z",
+    "a000cc45187d91224ec0860e6d53447759a18a5f": "2026-11-01T18:21:09.702Z",
+    "d4f7b79834b636eb392a9a39f3c618462830deb3": "2026-11-01T18:21:09.702Z",
+    "d392547c993e6524fbeef43d913d65b4fe96905d": "2026-11-01T18:21:09.702Z",
+    "e0231c3483f18d80cc78e2c353973b01b966b4ec": "2026-11-01T18:21:09.702Z",
+    "0803a9f88c92fb4c79ddc6870e3fabd9fac33899": "2026-11-01T18:21:09.702Z",
+    "109373afd970e07ca7e7fbcb160b70df2ce0e403": "2026-11-01T18:21:09.702Z",
+    "417e1bff671dc38816bfee9bf102aea149eec988": "2026-11-01T18:21:09.702Z",
+    "b6ed7313d16545fa5adba8ba0ac6f944f2d77aa5": "2026-11-01T18:21:09.702Z",
+    "b546c3327f4680f77d7d561440788c53954dcb00": "2026-11-01T18:21:09.702Z",
+    "a907cf37b4cd43788bf04d763dacc4b7ee786990": "2026-11-01T18:21:09.702Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 3
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 0
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 0
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
       "articles": 8
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
       "articles": 1
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-01T11:12:59.136Z",
+      "dernier_succes": "2026-11-01T18:12:45.266Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     }
   },
   "images_recentes": [
+    {
+      "id": "d392547c993e6524fbeef43d913d65b4fe96905d",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/f/fb/L%27exil_d%27Albouri%2C_texte_de_Cheik_Aliou_Ndao_-_btv1b106020559_%2822_of_31%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "a579becc345dae7b8b969be1cefb202b72f95d2d",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -544,6 +562,7 @@
     "2febdbf6f757f883607c0529877cce0b90730f7e": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Boniface_Mongo-Mboussa-IMG_0837-square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "9e1bce3680d006763adee84b7c8de0c5971faae8": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Boubacar_Diop_IMG_2389.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226": "carte:keurbook:c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
-    "a579becc345dae7b8b969be1cefb202b72f95d2d": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "a579becc345dae7b8b969be1cefb202b72f95d2d": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "d392547c993e6524fbeef43d913d65b4fe96905d": "https://upload.wikimedia.org/wikipedia/commons/f/fb/L%27exil_d%27Albouri%2C_texte_de_Cheik_Aliou_Ndao_-_btv1b106020559_%2822_of_31%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 }

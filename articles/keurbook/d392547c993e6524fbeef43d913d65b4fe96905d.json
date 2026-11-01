@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "d392547c993e6524fbeef43d913d65b4fe96905d",
+  "slug": "exil-albouri-la-tragedie-de-cheik-aliou-ndao-relue-comme-une-epopee-d39254",
+  "titre": "« L'Exil d'Albouri » : la tragédie de Cheik Aliou Ndao relue comme une épopée",
+  "chapo": "SenePlus consacre une longue chronique à « L'Exil d'Albouri », pièce historique du Sénégalais Cheik Aliou Ndao, présentée comme un modèle de théâtre épique africain.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Publiée le 1er novembre dans une série d'articles dédiée au patrimoine littéraire du continent, cette analyse se penche sur un classique du répertoire sénégalais. L'édition citée est celle des Nouvelles éditions africaines, à Dakar, en 1985. La pièce y est réunie avec trois autres textes de théâtre de l'auteur : « Le Fils de l'Almamy », « La Case de l'homme » et « La Décision ».",
+        "Le chroniqueur commence par un rappel sur les origines du théâtre, apparu dans la Grèce antique, avant d'entrer dans l'œuvre."
+      ]
+    },
+    {
+      "intertitre": "Un roi face à la conquête coloniale",
+      "paragraphes": [
+        "L'intrigue s'appuie sur l'histoire d'Alboury Ndiaye, souverain du Djolof à la fin du XIXe siècle. Au début, la cour fête le prince Laobé Penda pour sa vaillance. Mais la joie retombe vite : les Français veulent mettre la main sur le royaume.",
+        "Le roi doit trancher entre une guerre meurtrière et le départ. Laobé Penda réclame la bataille, puis finit par s'entendre avec le gouverneur français, un geste que les proches du souverain ressentent comme une trahison. Alboury refuse de devenir un roi soumis et prend la route de l'exil. Son peuple le suit."
+      ]
+    },
+    {
+      "intertitre": "La faim, la captivité et la mort",
+      "paragraphes": [
+        "Le voyage est rude : manque de nourriture, périls, avenir incertain. Bouna, le fils du roi, est capturé puis envoyé à Saint-Louis, dans l'établissement réservé aux enfants otages. Alboury poursuit la lutte armée et tombe au combat, loin de sa terre. Les siens se dispersent ensuite jusqu'à Kano ou Médine."
+      ]
+    },
+    {
+      "intertitre": "Une écriture saluée",
+      "paragraphes": [
+        "Pour l'auteur de la chronique, l'œuvre est une tragédie qui exploite toutes les ressources de la scène : coups de théâtre, échanges entre personnages tantôt réalistes, tantôt lyriques, décors qui changent pour suivre l'épopée. Le griot Samba conduit le récit et fait entendre la tradition orale jusqu'au dénouement.",
+        "Dans son prologue, Cheik Aliou Ndao prévient lui-même que le théâtre historique ne remplace pas le travail des historiens : il veut forger des mythes capables d'entraîner un peuple. La chronique voit en Alboury une figure de dignité et de refus de toute domination."
+      ]
+    }
+  ],
+  "mots": 365,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/lexil-dalbouri-de-cheik-aliou-ndao-ou-lart-poetique-du-theatre-epique",
+  "publie_le": "2026-11-01T14:10:24.000Z",
+  "redige_le": "2026-11-01T18:21:09.702Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/d392547c993e6524fbeef43d913d65b4fe96905d.webp",
+    "source": "wikimedia",
+    "credit": "Pic, Roger (1920-2001). Photographe",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:L%27exil_d%27Albouri,_texte_de_Cheik_Aliou_Ndao_-_btv1b106020559_(22_of_31).jpg",
+    "alt": "L'écrivain sénégalais Cheik Aliou Ndao",
+    "mots_cles": [
+      "Cheik Aliou Ndao"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

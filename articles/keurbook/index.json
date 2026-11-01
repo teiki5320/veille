@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-01T11:20:01.131Z",
+  "genere_le": "2026-11-01T18:21:14.437Z",
   "articles": [
+    {
+      "id": "d392547c993e6524fbeef43d913d65b4fe96905d",
+      "slug": "exil-albouri-la-tragedie-de-cheik-aliou-ndao-relue-comme-une-epopee-d39254",
+      "titre": "« L'Exil d'Albouri » : la tragédie de Cheik Aliou Ndao relue comme une épopée",
+      "publie_le": "2026-11-01T14:10:24.000Z",
+      "redige_le": "2026-11-01T18:21:09.702Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/d392547c993e6524fbeef43d913d65b4fe96905d.json"
+    },
     {
       "id": "a579becc345dae7b8b969be1cefb202b72f95d2d",
       "slug": "hemley-boum-plonge-dans-les-luttes-democratiques-du-cameroun-avec-nos-a579be",

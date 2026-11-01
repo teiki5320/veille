@@ -1,8 +1,77 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-01T11:20:06.250Z",
+  "genere_le": "2026-11-01T18:21:22.710Z",
   "actus": [
+    {
+      "id": "3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91",
+      "titre": "Restauration rapide : le franchisé KFC palois ProNoïa passe en procédure de sauvegarde",
+      "resume": "Une sauvegarde a été ouverte fin septembre à Bordeaux pour ce groupe d'une quarantaine de restaurants et 900 salariés. Son expansion financée à crédit a creusé les pertes : 7,2 millions d'euros sur l'exercice achevé en mars 2025, pour une dette financière de 60,7 millions.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:credit-bancaire"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/croissance-effrenee-ou-boulimie-l-un-des-principaux-franchises-de-kfc-ne-a-pau-place-en-procedure-de-sauvegarde-31335459.php",
+      "publie_le": "2026-11-01T17:05:23.000Z",
+      "collecte_le": "2026-11-01T18:21:22.710Z",
+      "langue": "fr",
+      "slug": "restauration-rapide-le-franchise-kfc-palois-pronoia-passe-en-procedure-3f01af",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91.webp",
+        "source": "wikimedia",
+        "credit": "Velvet",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Roubaix_KFC_bd_gambetta.jpg",
+        "alt": "Un restaurant de l'enseigne KFC",
+        "mots_cles": [
+          "KFC restaurant France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "57e082cbaed32d3557b5d6e93f04646a47d3b108",
+      "titre": "Carburants : le gazole recule à la pompe, les petites stations se disent pénalisées",
+      "resume": "Depuis le 1er novembre, le gazole tiré des stocks stratégiques fait reculer les prix dans une partie des stations, de façon inégale. Le réseau Mobilians, porte-voix de stations indépendantes, reproche aux grands distributeurs d'avoir été servis en premier. Bercy réunit le secteur mardi 3 novembre.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/energie/les-prix-du-gazole-vont-ils-vraiment-baisser-dans-toutes-les-stations-le-gouvernement-va-reunir-mardi-les-distributeurs-de-carburants-a-bercy-pour-s-assurer-que-le-deblocage-des-stocks-strategiques-se-repercute-bien-a-la-pompe_AD-202611010317.html",
+      "autres_sources": [
+        "https://www.sudouest.fr/economie/energie/carburants/prix-des-carburants-la-baisse-s-amorce-dans-les-stations-service-avec-de-fortes-disparites-31336071.php",
+        "https://www.bfmtv.com/economie/entreprises/energie/on-a-des-ecarts-de-prix-qui-sont-insupportables-alors-que-le-prix-du-gazole-commence-a-baisser-a-la-pompe-les-stations-independantes-denoncent-la-priorite-accordee-aux-grands-distributeurs-dans-le-destockage-des-reserves-strategiques_AD-202611010314.html",
+        "https://www.laprovence.com/article/societe/89888128224508/prix-du-gazole-la-baisse-se-met-en-place-en-france-mais-une-certaine-disparite-persistera-selon-les-enseignes",
+        "https://www.latribune.fr/article/transports/automobile/3220240288322/carburants-apres-totalenergies-leclerc-et-cooperative-u-baissent-egalement-le-prix-du-gazole"
+      ],
+      "publie_le": "2026-11-01T15:48:42.000Z",
+      "collecte_le": "2026-11-01T18:21:22.710Z",
+      "langue": "fr",
+      "slug": "carburants-le-gazole-recule-la-pompe-les-petites-stations-se-disent-57e082",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/57e082cbaed32d3557b5d6e93f04646a47d3b108.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/57e082cbaed32d3557b5d6e93f04646a47d3b108.webp",
+        "source": "wikimedia",
+        "credit": "JLPC",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Edon_16_Station-service_en_contruction_2014.jpg",
+        "alt": "Une station-service en France",
+        "mots_cles": [
+          "Station-service en France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "52640369183533fa543f17fc2c28dc416ce81dfb",
       "titre": "Patrons de PME : près d'un sur deux se dit isolé, selon une étude de Bpifrance",

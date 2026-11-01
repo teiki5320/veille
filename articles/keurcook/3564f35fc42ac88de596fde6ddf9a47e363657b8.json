@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "3564f35fc42ac88de596fde6ddf9a47e363657b8",
+  "slug": "tunisie-testour-la-grenade-fetee-en-jus-confitures-et-melasse-pour-la-3564f3",
+  "titre": "Tunisie : à Testour, la grenade fêtée en jus, confitures et mélasse pour la 10e édition",
+  "chapo": "Pendant six jours, la ville tunisienne de Testour a célébré la grenade, fruit vedette de la région de Béja, à l'occasion de la dixième édition de sa fête annuelle, achevée le 1er novembre 2026.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ouvert le 27 octobre, le rendez-vous a réuni quelque 250 exposants autour de la grenade, de ses dérivés et des spécialités de la ville. Testour, marquée par un fort héritage arabo-andalou, profite chaque automne de la saison du fruit pour mettre son terroir en avant.",
+        "La journée de clôture, le dimanche 1er novembre, était annoncée comme le temps fort de cette édition, avec une affluence attendue en hausse au fil de la semaine."
+      ]
+    },
+    {
+      "intertitre": "Le fruit sous toutes ses formes",
+      "paragraphes": [
+        "Sur les stands, la grenade se dégustait nature ou en jus pressé devant les visiteurs. Elle se déclinait aussi en confiture, en gelée, en glace et en mélasse, appelée « dibs » en Tunisie. Certains fruits présentés portent le label AOC, une appellation d'origine contrôlée.",
+        "Transformer la grenade permet aux producteurs de la faire connaître au-delà des quelques semaines de récolte et de mieux valoriser leur travail et celui des artisans."
+      ]
+    },
+    {
+      "intertitre": "Les saveurs de Testour",
+      "paragraphes": [
+        "Le fruit n'était pas seul à l'affiche. Les visiteurs ont pu découvrir le hrous, condiment tunisien à base d'oignons et de piment, le zrir, une douceur aux graines de sésame, ou encore la bsissa, préparée avec des céréales grillées et moulues.",
+        "Les tables accueillaient aussi des fromages, des pâtisseries héritées de la tradition andalouse, plusieurs pains de la région et des galettes comme le mlawi, garnies de sucré ou de salé."
+      ]
+    },
+    {
+      "intertitre": "Musique et patrimoine",
+      "paragraphes": [
+        "Le programme mêlait cuisine et culture : concerts de malouf, la musique arabo-andalouse de Tunisie, animations et démonstrations culinaires en direct. Des balades en calèche emmenaient aussi les visiteurs dans les environs, jusque vers Slouguia.",
+        "Entre deux pauses gourmandes, beaucoup en ont profité pour voir la Grande Mosquée de la ville, connue pour son horloge dont les aiguilles tournent à l'envers, un symbole de l'identité singulière de Testour."
+      ]
+    }
+  ],
+  "mots": 330,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "TN"
+  ],
+  "source_nom": "AllAfrica",
+  "source_url": "https://fr.allafrica.com/stories/202611010042.html",
+  "publie_le": "2026-11-01T14:05:00.000Z",
+  "redige_le": "2026-11-01T18:21:14.445Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/3564f35fc42ac88de596fde6ddf9a47e363657b8.webp",
+    "source": "wikimedia",
+    "credit": "Cimoi",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Place_Testour.jpg",
+    "alt": "La ville de Testour, en Tunisie",
+    "mots_cles": [
+      "Testour"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

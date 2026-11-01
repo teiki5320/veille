@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "c065a9c5ef2dada757688d5ffbd4960907e5482d",
+  "slug": "serres-au-royaume-uni-la-fibre-de-coco-des-cultures-hors-sol-trouve-c065a9",
+  "titre": "Serres : au Royaume-Uni, la fibre de coco des cultures hors-sol trouve une seconde vie",
+  "chapo": "Que faire des substrats une fois la récolte terminée ? Dans le Kent, au Royaume-Uni, une entreprise a bâti tout un circuit pour récupérer la fibre de coco des serres et la réutiliser, raconte le magazine professionnel Greenhouse Grower.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Overland a démarré en 2010 en proposant aux serristes l'arrachage mécanisé des cultures en fin de saison, d'abord pour les tomates, les concombres et les poivrons. En se tournant vers les petits fruits, l'équipe a dû gérer de grandes quantités de sacs de culture en fibre de coco usagés.",
+        "Séparer la fibre du plastique, des racines et des restes végétaux n'avait rien de simple. L'entreprise a donc conçu ses propres machines et méthodes pour collecter, trier, traiter puis remettre ce substrat en circulation, afin que les producteurs puissent se concentrer sur leurs cultures."
+      ]
+    },
+    {
+      "intertitre": "Des récoltes comparables",
+      "paragraphes": [
+        "Un substrat ne sert pas seulement à tenir la plante. Sa structure règle l'eau et l'air dont disposent les racines, sa chimie influe sur la nutrition et son état biologique sur la santé de la culture. D'où la prudence des producteurs face au recyclage.",
+        "Avec l'organisme britannique de recherche agricole NIAB, Overland a testé la fibre recyclée sur des fraisiers, en laboratoire et en production. Bien traitée, elle donne des rendements proches de ceux d'une fibre neuve, et certains essais signalent 8 à 10 % d'eau économisée. La rétention d'eau et la porosité à l'air diffèrent toutefois, ce qui peut obliger à adapter l'irrigation."
+      ]
+    },
+    {
+      "intertitre": "La vapeur contre les maladies",
+      "paragraphes": [
+        "Le principal risque reste le passage de ravageurs et de pathogènes d'une culture à la suivante. Overland utilise un système installé dans un conteneur, fourni par Konflex, qui pasteurise la fibre à la vapeur surchauffée. Les auteurs rappellent qu'une pasteurisation n'est pas une stérilisation : son efficacité doit être vérifiée selon les organismes visés et l'usage prévu."
+      ]
+    },
+    {
+      "intertitre": "Un modèle difficile à copier partout",
+      "paragraphes": [
+        "En Amérique du Nord, où les serres utilisent tourbe, coco, écorce ou fibre de bois, l'exemple ne se transpose pas tel quel. Il faut assez de matière à collecter à une distance raisonnable, un traitement rentable et des producteurs prêts à utiliser le produit fini. Des partenariats entre serristes, fabricants de substrats et transformateurs locaux pourraient ouvrir la voie."
+      ]
+    }
+  ],
+  "mots": 366,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "GB"
+  ],
+  "tags": [
+    "legume:fraise"
+  ],
+  "source_nom": "Greenhouse Grower",
+  "source_url": "https://www.greenhousegrower.com/production/the-next-growing-media-opportunity-may-already-be-in-your-greenhouse/",
+  "publie_le": "2026-10-31T13:33:20.000Z",
+  "redige_le": "2026-11-01T18:21:18.174Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/c065a9c5ef2dada757688d5ffbd4960907e5482d.webp",
+    "source": "wikimedia",
+    "credit": "Original: Curved.kiwix Derivative work: Radomianin",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Traditional_worker_with_coconut_rope_(edited).jpg",
+    "alt": "De la fibre de coco",
+    "mots_cles": [
+      "Coir"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

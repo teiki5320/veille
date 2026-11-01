@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-01T11:19:59.233Z",
+  "genere_le": "2026-11-01T18:21:09.702Z",
   "actus": [
+    {
+      "id": "d392547c993e6524fbeef43d913d65b4fe96905d",
+      "titre": "« L'Exil d'Albouri » : la tragédie de Cheik Aliou Ndao relue comme une épopée",
+      "resume": "Une chronique de SenePlus revient sur la pièce du dramaturge sénégalais consacrée à Alboury Ndiaye, roi du Djolof qui choisit de partir plutôt que de plier devant les colons français. Elle salue une écriture poétique, portée par la parole d'un griot.",
+      "theme": "livres",
+      "pays": [
+        "SN"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/lexil-dalbouri-de-cheik-aliou-ndao-ou-lart-poetique-du-theatre-epique",
+      "publie_le": "2026-11-01T14:10:24.000Z",
+      "collecte_le": "2026-11-01T18:21:09.702Z",
+      "langue": "fr",
+      "slug": "exil-albouri-la-tragedie-de-cheik-aliou-ndao-relue-comme-une-epopee-d39254",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/d392547c993e6524fbeef43d913d65b4fe96905d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/d392547c993e6524fbeef43d913d65b4fe96905d.webp",
+        "source": "wikimedia",
+        "credit": "Pic, Roger (1920-2001). Photographe",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:L%27exil_d%27Albouri,_texte_de_Cheik_Aliou_Ndao_-_btv1b106020559_(22_of_31).jpg",
+        "alt": "L'écrivain sénégalais Cheik Aliou Ndao",
+        "mots_cles": [
+          "Cheik Aliou Ndao"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "a579becc345dae7b8b969be1cefb202b72f95d2d",
       "titre": "Hemley Boum plonge dans les luttes démocratiques du Cameroun avec « Nos vies sauvages »",
