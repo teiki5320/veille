@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-02T11:20:26.371Z",
+  "genere_le": "2026-11-02T18:21:16.951Z",
   "articles": [
+    {
+      "id": "27cdf73732867be23bfcf05c31b9457fcfb0dda9",
+      "slug": "fifpro-world-11-2026-hakimi-unique-joueur-africain-de-la-preselection-27cdf7",
+      "titre": "FIFPRO World 11 2026 : Hakimi, unique joueur africain de la présélection",
+      "publie_le": "2026-11-02T15:55:38.000Z",
+      "redige_le": "2026-11-02T18:21:15.391Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/27cdf73732867be23bfcf05c31b9457fcfb0dda9.json"
+    },
     {
       "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
       "slug": "senegal-soudan-patrick-vieira-annoncera-jeudi-sa-nouvelle-selection-779ad6",

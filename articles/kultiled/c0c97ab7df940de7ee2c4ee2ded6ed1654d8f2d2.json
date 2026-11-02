@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "c0c97ab7df940de7ee2c4ee2ded6ed1654d8f2d2",
+  "slug": "dakota-du-nord-chauffer-des-serres-avec-la-chaleur-perdue-un-centre-de-c0c97a",
+  "titre": "Dakota du Nord : chauffer des serres avec la chaleur perdue d'un centre de données",
+  "chapo": "Se servir de la chaleur rejetée par des serveurs informatiques pour faire pousser des légumes : c'est l'une des pistes étudiées à l'université d'État du Dakota du Nord, aux États-Unis.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'équipe de Xinhua Jia a mené une étude de faisabilité avec le Resource Innovation Institute et l'entreprise Applied Digital. Elle portait sur un ensemble de 200 acres de serres, placé à côté d'un grand centre de données à Harwood, dans le Dakota du Nord.",
+        "Résultat : le projet tient la route sur le plan technique. Mais la chaleur récupérée sort à basse température, ce qui complique son usage et pèse sur la rentabilité."
+      ]
+    },
+    {
+      "intertitre": "Le chauffage, frein des climats froids",
+      "paragraphes": [
+        "Dans les régions aux hivers rudes, chauffer et éclairer une serre coûte très cher, et de nombreux projets de culture en intérieur ont souffert de ces dépenses. La chaleur des centres de données, de plus en plus nombreux, pourrait couvrir une bonne part des besoins de chauffage. Le CO2 capté pourrait aussi, plus tard, servir à stimuler la croissance des plantes.",
+        "L'enjeu est de produire des légumes frais près des consommateurs, un souci renforcé par les ruptures d'approvisionnement observées pendant la pandémie de Covid-19. Les États du nord comme le Dakota dépendent encore beaucoup de légumes cultivés dans des régions lointaines."
+      ]
+    },
+    {
+      "intertitre": "LED et CO2 en chambre de culture",
+      "paragraphes": [
+        "En attendant une serre à grande échelle, l'équipe travaille dans une chambre de croissance où chaque paramètre est maîtrisé. Des LED programmables et des apports de CO2 permettent de mesurer comment l'intensité de la lumière, son spectre et la teneur en gaz carbonique agissent ensemble sur les cultures.",
+        "Les chercheurs automatisent aussi la nutrition des plantes en hydroponie. Le pH est jugé décisif : des capteurs le suivent en continu, et des caméras photographient les cultures pour repérer leurs besoins avant que des symptômes n'apparaissent. Ces essais doivent fournir des bases fiables avant tout passage à des serres commerciales, où isoler chaque facteur serait bien plus difficile."
+      ]
+    }
+  ],
+  "mots": 324,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9887569/integrating-data-center-waste-heat-and-cea-for-sustainable-food-production/",
+  "publie_le": "2026-11-02T13:04:00.000Z",
+  "redige_le": "2026-11-02T18:21:16.962Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/c0c97ab7df940de7ee2c4ee2ded6ed1654d8f2d2.webp",
+    "source": "wikimedia",
+    "credit": "Richard N Horne",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:NDSU%27s_sports_teams_are_known_as_the_North_Dakota_State_Bison.jpg",
+    "alt": "Le campus de l'université d'État du Dakota du Nord, à Fargo",
+    "mots_cles": [
+      "North Dakota State University"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

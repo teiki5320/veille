@@ -1,8 +1,140 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-02T11:20:26.372Z",
+  "genere_le": "2026-11-02T18:21:16.962Z",
   "actus": [
+    {
+      "id": "6ba1542991ff3d35ac6077cce918de6a67b7da07",
+      "titre": "Colombie-Britannique : Windset Farms agrandit ses serres éclairées de 38 acres",
+      "resume": "Le producteur canadien a lancé à Delta l'agrandissement de son site, en deux tranches de 19 acres. À terme, le campus couvrira 168 acres, dont 124 consacrés à la culture sous éclairage intensif, avec de nouveaux systèmes de lumière et de gestion du climat.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "tags": [
+        "legume:tomate",
+        "legume:poivron",
+        "legume:concombre"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9888199/38-acre-ultra-lit-greenhouse-expansion-in-delta-british-columbia-commences/",
+      "autres_sources": [
+        "https://www.freshfruitportal.com/news/2026/07/30/windset-farms-bc/"
+      ],
+      "publie_le": "2026-11-02T13:04:00.000Z",
+      "collecte_le": "2026-11-02T18:21:16.962Z",
+      "langue": "en",
+      "slug": "colombie-britannique-windset-farms-agrandit-ses-serres-eclairees-de-38-6ba154",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/6ba1542991ff3d35ac6077cce918de6a67b7da07.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/6ba1542991ff3d35ac6077cce918de6a67b7da07.webp",
+        "source": "wikimedia",
+        "credit": "European Space Agency",
+        "licence": "CC BY-SA 3.0 igo",
+        "page": "https://commons.wikimedia.org/wiki/File:Yukon_Delta.jpg",
+        "alt": "Une vue de Delta, ville de Colombie-Britannique au Canada",
+        "mots_cles": [
+          "Delta, British Columbia"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "c0c97ab7df940de7ee2c4ee2ded6ed1654d8f2d2",
+      "titre": "Dakota du Nord : chauffer des serres avec la chaleur perdue d'un centre de données",
+      "resume": "À l'université d'État du Dakota du Nord, l'équipe de Xinhua Jia étudie comment récupérer la chaleur d'un centre de données pour produire des légumes toute l'année. Une étude sur 200 acres de serres conclut que c'est faisable techniquement, mais difficile sur le plan économique.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9887569/integrating-data-center-waste-heat-and-cea-for-sustainable-food-production/",
+      "publie_le": "2026-11-02T13:04:00.000Z",
+      "collecte_le": "2026-11-02T18:21:16.962Z",
+      "langue": "en",
+      "slug": "dakota-du-nord-chauffer-des-serres-avec-la-chaleur-perdue-un-centre-de-c0c97a",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/c0c97ab7df940de7ee2c4ee2ded6ed1654d8f2d2.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/c0c97ab7df940de7ee2c4ee2ded6ed1654d8f2d2.webp",
+        "source": "wikimedia",
+        "credit": "Richard N Horne",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:NDSU%27s_sports_teams_are_known_as_the_North_Dakota_State_Bison.jpg",
+        "alt": "Le campus de l'université d'État du Dakota du Nord, à Fargo",
+        "mots_cles": [
+          "North Dakota State University"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "099cc048b31a986480d1f4c0c1dd3b4d38c696db",
+      "titre": "Micro-pousses : une première journée mondiale en ligne pour producteurs et chercheurs",
+      "resume": "Le 2 décembre 2026, le fabricant de supports de culture Jiffy organise en ligne la première « Microgreens Grower Day ». Producteurs, universitaires et spécialistes de la culture en environnement contrôlé y aborderont la production, l'automatisation, les semences et la sécurité des aliments.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "tags": [
+        "legume:micro-pousses"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9888380/bringing-the-microgreens-community-together-for-microgreens-grower-day/",
+      "publie_le": "2026-11-02T13:04:00.000Z",
+      "collecte_le": "2026-11-02T18:21:16.962Z",
+      "langue": "en",
+      "slug": "micro-pousses-une-premiere-journee-mondiale-en-ligne-pour-producteurs-099cc0",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/099cc048b31a986480d1f4c0c1dd3b4d38c696db.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/099cc048b31a986480d1f4c0c1dd3b4d38c696db.webp",
+        "source": "wikimedia",
+        "credit": "Peggy Greb",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Liping_Kou_observes_microgreens.jpg",
+        "alt": "Des micro-pousses, jeunes plantules récoltées très tôt",
+        "mots_cles": [
+          "Microgreens"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d1f58372d38502e38141f384ba4414845a67c739",
+      "titre": "Fraises d'intérieur : la justice japonaise donne tort à Oishii face à MD-Farm",
+      "resume": "Le tribunal du district de Tokyo a rejeté la demande d'Oishii Farm, qui voulait récupérer un brevet sur la culture des fraises appartenant à MD-Farm. Il a aussi jugé qu'un communiqué d'Oishii dénigrait son concurrent et condamné l'entreprise à lui verser 2,2 millions de yens.",
+      "theme": "culture-interieur",
+      "pays": [
+        "JP"
+      ],
+      "tags": [
+        "legume:fraise"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9888442/tokyo-court-rejects-oishii-farm-s-patent-claims-finds-it-disparaged-md-farm/",
+      "publie_le": "2026-11-02T12:02:00.000Z",
+      "collecte_le": "2026-11-02T18:21:16.962Z",
+      "langue": "en",
+      "slug": "fraises-interieur-la-justice-japonaise-donne-tort-oishii-face-md-farm-d1f583",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/d1f58372d38502e38141f384ba4414845a67c739.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/d1f58372d38502e38141f384ba4414845a67c739.webp",
+        "source": "wikimedia",
+        "credit": "Ivar Leidus",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_halved.jpg",
+        "alt": "Des fraises, le fruit au cœur du litige entre Oishii et MD-Farm",
+        "mots_cles": [
+          "Strawberry"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7617e5ad25f112c5a5a294a51d9e21576c4645a9",
       "titre": "Cactus de Noël : en novembre, lumière et obscurité décident de la floraison",

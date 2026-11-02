@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "31c9fea321a47a198b64ed77719eaacbe67ccf2e",
+  "slug": "maroc-tiznit-salima-naji-redonne-vie-une-kasbah-en-terre-31c9fe",
+  "titre": "Maroc : à Tiznit, Salima Naji redonne vie à une kasbah en terre",
+  "chapo": "À Tiznit, dans le sud du Maroc, l'architecte Salima Naji a fait d'une forteresse en terre un lieu vivant dédié au patrimoine de l'Anti-Atlas. Son travail vient d'être salué par deux distinctions.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Baptisé Living Heritage Center, le lieu occupe la kasbah Aghenaj, une citadelle d'environ 4 000 mètres carrés. Elle a servi de forteresse à partir de 1810, puis de prison jusqu'en 1990. C'est Abdellatif Ouhamou, alors maire de la ville, qui avait confié sa restauration à l'architecte, spécialiste de la construction en terre.",
+        "En 2026, le projet a reçu deux distinctions : le Prix Terra, puis le Grand Prix du design attribué par l'Institut du monde arabe."
+      ]
+    },
+    {
+      "intertitre": "Un musée en trois parties",
+      "paragraphes": [
+        "Salima Naji a construit le parcours autour de trois thèmes : les institutions de la région, comme les greniers communautaires ; les manières de bâtir ; enfin les personnalités qui ont marqué la ville. Elle souhaitait ouvrir une porte sur tout l'Anti-Atlas, et pas seulement sur Tiznit.",
+        "Un agadir, le grenier communautaire typique de ces montagnes, a même été rebâti en taille réelle. Les visiteurs peuvent ainsi comprendre ce système de stockage partagé, devenu rare."
+      ]
+    },
+    {
+      "intertitre": "La terre comme matière principale",
+      "paragraphes": [
+        "Lors du dépôt des permis, en 2011, les règles n'acceptaient pas encore une ossature porteuse faite de terre crue. La charpente intérieure repose donc sur du béton armé, entouré d'une enveloppe de pisé. Pour l'architecte, garder la terre était essentiel : Tiznit est classée « cité saharienne en terre » depuis 1932.",
+        "Tout ce qui a servi à bâtir vient de la palmeraie voisine. Avec des murs épais, de petites ouvertures et l'air qui circule, l'intérieur reste autour de 27 °C alors que le thermomètre monte à 45 °C à l'extérieur, sans climatisation. Des voûtes en adobe ou en pierre sèche, des plafonds de palmes et des enduits de terre, de chaux ou de tadelakt complètent l'ensemble."
+      ]
+    },
+    {
+      "intertitre": "Un lieu ouvert sur la ville",
+      "paragraphes": [
+        "La citadelle restaurée abrite aussi un jardin public et une scène en plein air, sans clôture. Dans un bâtiment neuf, un centre d'archives régional offre aux habitants la possibilité de faire numériser leurs papiers de famille.",
+        "Un café et un espace dédié aux produits locaux doivent aider à payer le fonctionnement du site. Pour Salima Naji, le patrimoine ne doit pas rester figé : il doit continuer à faire vivre la ville."
+      ]
+    }
+  ],
+  "mots": 388,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/architectures-et-design/terre-davenir",
+  "publie_le": "2026-11-02T12:03:33.000Z",
+  "redige_le": "2026-11-02T18:21:12.311Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/31c9fea321a47a198b64ed77719eaacbe67ccf2e.webp",
+    "source": "wikimedia",
+    "credit": "Theoliane",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tiznit_place.jpg",
+    "alt": "Une vue de Tiznit, ville du sud du Maroc",
+    "mots_cles": [
+      "Tiznit"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

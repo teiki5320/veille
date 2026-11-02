@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f8d3395f85ee72ce70cd39763892cb96ce5b7c9c",
+  "slug": "loyers-commerciaux-impayes-la-reforme-de-mai-2026-durcit-acces-aux-f8d339",
+  "titre": "Loyers commerciaux impayés : la réforme de mai 2026 durcit l'accès aux délais",
+  "chapo": "Pour garder son local malgré des loyers en retard, un locataire commercial doit désormais prouver qu'il a repris ses paiements. C'est l'un des effets de la loi n° 2026-403 sur la simplification de la vie économique.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La plupart des baux commerciaux contiennent une clause résolutoire : si le loyer n'est pas payé, le bail peut prendre fin automatiquement. Le Code de commerce encadre ce mécanisme. Le bailleur doit d'abord faire signifier un commandement de payer, puis attendre un mois. Ce délai minimum ne peut pas être raccourci dans le contrat.",
+        "Jusqu'ici, le juge pouvait accorder au locataire jusqu'à deux ans pour rembourser, et suspendre la clause tant que l'échéancier était respecté. Un outil utile pour une entreprise passagèrement en difficulté, mais qui pouvait aussi laisser la dette grossir."
+      ]
+    },
+    {
+      "intertitre": "Deux conditions désormais obligatoires",
+      "paragraphes": [
+        "La réforme a modifié la règle du Code de commerce qui encadre cette clause. Le juge ne peut plus accorder de délais, ni suspendre la clause, sans que deux conditions soient réunies. Le locataire doit être capable d'apurer sa dette. Il doit aussi avoir recommencé à payer la totalité du loyer en cours avant la première audience.",
+        "Ces règles valent pour les demandes présentées depuis l'entrée en vigueur du texte, le 28 mai 2026."
+      ]
+    },
+    {
+      "intertitre": "Ce que cela change pour le commerçant",
+      "paragraphes": [
+        "Mettre en avant des difficultés passagères ou une reprise espérée ne suffit plus. Le dirigeant doit arriver devant le juge avec des éléments solides : état de sa trésorerie, prévisionnel d'activité, financements obtenus ou plan de remboursement réaliste.",
+        "Côté propriétaire, il faut présenter un décompte à jour jusqu'au jour de l'audience, en faisant apparaître les éventuels nouveaux retards."
+      ]
+    },
+    {
+      "intertitre": "Des défenses qui demeurent",
+      "paragraphes": [
+        "Le locataire garde un argument si le bailleur manque lui-même à ses obligations, par exemple quand les locaux ne peuvent plus servir à l'usage prévu. La Cour de cassation l'a redit le 5 mars 2026 : saisi de cet argument, le juge est tenu de l'étudier. En revanche, une simple baisse du chiffre d'affaires ne permet pas de cesser de payer."
+      ]
+    }
+  ],
+  "mots": 336,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Village de la Justice",
+  "source_url": "https://www.village-justice.com/articles/loyers-impayes-bail-commercial-loi-mai-2026-change-elle-les-regles-jeu,59629.html",
+  "publie_le": "2026-11-02T16:00:00.000Z",
+  "redige_le": "2026-11-02T18:21:26.395Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f8d3395f85ee72ce70cd39763892cb96ce5b7c9c.webp",
+    "source": "wikimedia",
+    "credit": "Carlos Delgado",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_de_Justice_de_Paris.jpg",
+    "alt": "Le palais de justice de Paris",
+    "mots_cles": [
+      "Palais de justice de Paris"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

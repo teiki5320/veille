@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-02T11:19:01.208Z",
+  "genere_le": "2026-11-02T18:21:12.311Z",
   "actus": [
+    {
+      "id": "31c9fea321a47a198b64ed77719eaacbe67ccf2e",
+      "titre": "Maroc : à Tiznit, Salima Naji redonne vie à une kasbah en terre",
+      "resume": "L'architecte marocaine a transformé une ancienne citadelle de Tiznit, longtemps utilisée comme prison, en centre consacré au patrimoine de l'Anti-Atlas. Bâti avec les matériaux de la palmeraie voisine, le projet a été récompensé en 2026 par le Prix Terra ainsi que par le Grand Prix du design décerné par l'Institut du monde arabe.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/architectures-et-design/terre-davenir",
+      "publie_le": "2026-11-02T12:03:33.000Z",
+      "collecte_le": "2026-11-02T18:21:12.311Z",
+      "langue": "fr",
+      "slug": "maroc-tiznit-salima-naji-redonne-vie-une-kasbah-en-terre-31c9fe",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/31c9fea321a47a198b64ed77719eaacbe67ccf2e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/31c9fea321a47a198b64ed77719eaacbe67ccf2e.webp",
+        "source": "wikimedia",
+        "credit": "Theoliane",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tiznit_place.jpg",
+        "alt": "Une vue de Tiznit, ville du sud du Maroc",
+        "mots_cles": [
+          "Tiznit"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "9f98504a1cfc106959bce08438a3a7db349dec23",
       "titre": "Aya Moug transforme le papyrus du Nil en mobilier contemporain",

@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "d1f58372d38502e38141f384ba4414845a67c739",
+  "slug": "fraises-interieur-la-justice-japonaise-donne-tort-oishii-face-md-farm-d1f583",
+  "titre": "Fraises d'intérieur : la justice japonaise donne tort à Oishii face à MD-Farm",
+  "chapo": "Deux pionniers de la fraise cultivée en intérieur s'opposaient devant la justice japonaise. Le 29 octobre 2026, le tribunal de Tokyo a débouté Oishii Farm de toutes ses demandes contre MD-Farm.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Oishii, connue pour ses fraises de ferme verticale, avait lancé la procédure le 20 décembre 2024. Elle réclamait le transfert, total ou partiel, du brevet japonais n° 7551158, qui protège une méthode de floraison continue des fraisiers. Ce brevet appartient à MD-Farm, la société dirigée par Yuki Matsuda, qu'Oishii présente comme lié à sa propre création.",
+        "D'après MD-Farm, les juges n'ont pas trouvé assez d'éléments pour établir que l'invention avait été mise au point chez Oishii, ni que des informations techniques avaient été détournées."
+      ]
+    },
+    {
+      "intertitre": "Un communiqué jugé dénigrant",
+      "paragraphes": [
+        "Le tribunal a aussi suivi MD-Farm sur sa demande en retour. Un communiqué publié par Oishii sur son site a été considéré comme un dénigrement, interdit par la loi japonaise contre la concurrence déloyale. Oishii doit cesser de diffuser ces propos et verser 2,2 millions de yens, avec intérêts. MD-Farm en réclamait plus de 24 millions.",
+        "Oishii indique avoir retiré ce communiqué le 30 octobre."
+      ]
+    },
+    {
+      "intertitre": "Deux lectures du jugement",
+      "paragraphes": [
+        "Oishii parle d'une issue regrettable mais affirme que le brevet n'a rien à voir avec sa propre technique. Elle ne fera pas appel sur ses demandes. Une autre affaire, ouverte en janvier 2025 contre Yuki Matsuda pour non-respect d'un accord amiable, reste en cours ; une décision est attendue en 2027.",
+        "MD-Farm voit au contraire dans ce jugement un tournant. L'entreprise teste son système de production entièrement fermé à Nanyo, dans la préfecture de Yamagata, et prépare une nouvelle levée de fonds.",
+        "Selon MD-Farm, la technique brevetée vise à lisser les variations de récolte dues aux saisons et à la météo, en tenant compte de la physiologie du fraisier. Fondée en 2018, la société cherche aussi des partenaires industriels pour fabriquer ses équipements et construire ses sites de culture."
+      ]
+    }
+  ],
+  "mots": 317,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "JP"
+  ],
+  "tags": [
+    "legume:fraise"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9888442/tokyo-court-rejects-oishii-farm-s-patent-claims-finds-it-disparaged-md-farm/",
+  "publie_le": "2026-11-02T12:02:00.000Z",
+  "redige_le": "2026-11-02T18:21:16.962Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/d1f58372d38502e38141f384ba4414845a67c739.webp",
+    "source": "wikimedia",
+    "credit": "Ivar Leidus",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_halved.jpg",
+    "alt": "Des fraises, le fruit au cœur du litige entre Oishii et MD-Farm",
+    "mots_cles": [
+      "Strawberry"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

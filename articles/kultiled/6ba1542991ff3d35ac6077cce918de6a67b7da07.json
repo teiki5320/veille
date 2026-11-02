@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "6ba1542991ff3d35ac6077cce918de6a67b7da07",
+  "slug": "colombie-britannique-windset-farms-agrandit-ses-serres-eclairees-de-38-6ba154",
+  "titre": "Colombie-Britannique : Windset Farms agrandit ses serres éclairées de 38 acres",
+  "chapo": "Windset Farms poursuit la croissance de son site de Delta, près de Vancouver, avec 38 nouveaux acres de serres fortement éclairées.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'entreprise familiale, fondée et dirigée par John et Steven Newell, mènera ce chantier en deux phases de 19 acres. Une fois les travaux terminés, le site de Delta s'étendra sur 168 acres, dont 124 de production sous lumière artificielle intense. Avec son autre site de 168 acres à Santa Maria, en Californie, Windset possédera 336 acres de serres au Canada et aux États-Unis."
+      ]
+    },
+    {
+      "intertitre": "Lumière et climat pilotés",
+      "paragraphes": [
+        "Les nouvelles serres recevront des systèmes perfectionnés d'éclairage et de contrôle du climat. Le but est d'offrir aux plantes les meilleures conditions de croissance tout en consommant moins de ressources, pour assurer des récoltes régulières toute l'année."
+      ]
+    },
+    {
+      "intertitre": "Une première tranche déjà plantée",
+      "paragraphes": [
+        "Ce projet prolonge une première extension éclairée de 38 acres, annoncée en octobre 2025, où les plantations ont commencé à l'été 2026. Windset y produit des tomates, des concombres et des poivrons, et s'appuie sur des producteurs partenaires au Canada, aux États-Unis et au Mexique."
+      ]
+    }
+  ],
+  "mots": 175,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "tags": [
+    "legume:tomate",
+    "legume:poivron",
+    "legume:concombre"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9888199/38-acre-ultra-lit-greenhouse-expansion-in-delta-british-columbia-commences/",
+  "autres_sources": [
+    "https://www.freshfruitportal.com/news/2026/07/30/windset-farms-bc/"
+  ],
+  "publie_le": "2026-11-02T13:04:00.000Z",
+  "redige_le": "2026-11-02T18:21:16.962Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/6ba1542991ff3d35ac6077cce918de6a67b7da07.webp",
+    "source": "wikimedia",
+    "credit": "European Space Agency",
+    "licence": "CC BY-SA 3.0 igo",
+    "page": "https://commons.wikimedia.org/wiki/File:Yukon_Delta.jpg",
+    "alt": "Une vue de Delta, ville de Colombie-Britannique au Canada",
+    "mots_cles": [
+      "Delta, British Columbia"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "099cc048b31a986480d1f4c0c1dd3b4d38c696db",
+  "slug": "micro-pousses-une-premiere-journee-mondiale-en-ligne-pour-producteurs-099cc0",
+  "titre": "Micro-pousses : une première journée mondiale en ligne pour producteurs et chercheurs",
+  "chapo": "Les micro-pousses vont avoir leur journée. Le 2 décembre 2026, un rendez-vous virtuel veut rassembler une filière en plein essor mais encore très dispersée.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'événement s'intitule « Microgreens, Macro Impact ». Il est organisé par Jiffy, spécialiste des supports de culture, et se déroulera entièrement en ligne sur une journée. Il vise les producteurs de toutes tailles, les chercheurs et les entreprises qui conçoivent des solutions pour ces jeunes plantules récoltées au stade des premières feuilles.",
+        "L'idée vient de Kyle Freedman, responsable de l'activité culture en environnement contrôlé chez Jiffy. Selon lui, le savoir sur les micro-pousses existe, mais il reste éparpillé entre exploitations, universités et fournisseurs."
+      ]
+    },
+    {
+      "intertitre": "Un programme large",
+      "paragraphes": [
+        "La journée sera faite de courtes interventions et de discussions. Les thèmes annoncés vont de la production commerciale aux retours d'expérience, en passant par la recherche, l'automatisation, les semences et les substrats, la sécurité sanitaire ou l'évolution du marché.",
+        "Plusieurs intervenants ont déjà confirmé leur venue : des représentants de Koppert Cress, Sergey Dunayev (Eastside Microfarms), Brenna Chase (Johnny's Selected Seeds), Max Knight (Rooted Robotics), Francesco Di Gioia (Penn State) et Kaylee South (Virginia Tech). D'autres noms et le détail des sessions seront dévoilés à l'approche de la date."
+      ]
+    },
+    {
+      "intertitre": "Partager le savoir-faire",
+      "paragraphes": [
+        "Les organisateurs veulent privilégier les connaissances pratiques plutôt que les présentations commerciales. Le format en ligne doit épargner aux participants le coût et le temps d'un déplacement, et permettre de suivre la journée depuis l'Amérique du Nord, l'Europe ou ailleurs.",
+        "Pour Jiffy, l'intérêt croissant des producteurs, des chercheurs et des consommateurs pour les micro-pousses justifie de créer dès maintenant ce lieu d'échange.",
+        "Le public visé est large : producteurs déjà installés, porteurs de projets qui découvrent ce marché, scientifiques qui étudient ces cultures et entreprises qui mettent au point du matériel. L'organisateur, qui travaille avec de nombreux systèmes de culture, se voit surtout comme une plateforme chargée de relier des acteurs qui se croisent rarement."
+      ]
+    }
+  ],
+  "mots": 317,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [],
+  "tags": [
+    "legume:micro-pousses"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9888380/bringing-the-microgreens-community-together-for-microgreens-grower-day/",
+  "publie_le": "2026-11-02T13:04:00.000Z",
+  "redige_le": "2026-11-02T18:21:16.962Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/099cc048b31a986480d1f4c0c1dd3b4d38c696db.webp",
+    "source": "wikimedia",
+    "credit": "Peggy Greb",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Liping_Kou_observes_microgreens.jpg",
+    "alt": "Des micro-pousses, jeunes plantules récoltées très tôt",
+    "mots_cles": [
+      "Microgreens"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "27cdf73732867be23bfcf05c31b9457fcfb0dda9",
+  "slug": "fifpro-world-11-2026-hakimi-unique-joueur-africain-de-la-preselection-27cdf7",
+  "titre": "FIFPRO World 11 2026 : Hakimi, unique joueur africain de la présélection",
+  "chapo": "Achraf Hakimi est le seul représentant de l'Afrique dans la présélection du FIFPRO World 11 masculin 2026, l'équipe type de la saison choisie par les joueurs eux-mêmes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le défenseur marocain du Paris Saint-Germain figure parmi les 26 noms retenus par le syndicat mondial des footballeurs. Cette liste repose sur les votes de 19 806 professionnels du monde entier. La composition finale du onze sera dévoilée une fois le vote terminé."
+      ]
+    },
+    {
+      "intertitre": "Une liste de grands noms",
+      "paragraphes": [
+        "Hakimi partage la ligne défensive avec Virgil van Dijk, William Saliba, Dayot Upamecano ou son coéquipier parisien Nuno Mendes. Au milieu, on retrouve notamment Vitinha, autre joueur du PSG, Jude Bellingham, Pedri et Rodri.",
+        "En attaque, Kylian Mbappé et Lamine Yamal côtoient Erling Haaland, Harry Kane, Cristiano Ronaldo, Lionel Messi ou encore Khvicha Kvaratskhelia."
+      ]
+    },
+    {
+      "intertitre": "Une reconnaissance pour le capitaine du Maroc",
+      "paragraphes": [
+        "Le capitaine de la sélection marocaine voit cette nomination confirmer sa place parmi les meilleurs latéraux de la planète. Il est cette année le seul footballeur africain à apparaître dans la sélection établie par ses pairs."
+      ]
+    }
+  ],
+  "mots": 172,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA"
+  ],
+  "competition": "FIFPRO World 11",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/afrique-football/fifpro-world-11-2026-achraf-hakimi-seul-africain-parmi-les-26-nommes/",
+  "publie_le": "2026-11-02T15:55:38.000Z",
+  "redige_le": "2026-11-02T18:21:15.391Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/27cdf73732867be23bfcf05c31b9457fcfb0dda9.webp",
+    "source": "wikimedia",
+    "credit": "MFonzatti",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_2024.jpg",
+    "alt": "Achraf Hakimi, défenseur marocain du Paris Saint-Germain",
+    "mots_cles": [
+      "Achraf Hakimi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

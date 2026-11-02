@@ -1,8 +1,79 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-02T11:20:26.383Z",
+  "genere_le": "2026-11-02T18:21:26.395Z",
   "actus": [
+    {
+      "id": "f8d3395f85ee72ce70cd39763892cb96ce5b7c9c",
+      "titre": "Loyers commerciaux impayés : la réforme de mai 2026 durcit l'accès aux délais",
+      "resume": "Depuis le 28 mai 2026, un commerçant en retard de loyer n'obtient des délais du juge que s'il peut rembourser sa dette et s'il paie de nouveau tout le loyer courant avant la première audience. Un avocat détaille ce que cette réforme change pour les bailleurs et les locataires.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Village de la Justice",
+      "source_url": "https://www.village-justice.com/articles/loyers-impayes-bail-commercial-loi-mai-2026-change-elle-les-regles-jeu,59629.html",
+      "publie_le": "2026-11-02T16:00:00.000Z",
+      "collecte_le": "2026-11-02T18:21:26.395Z",
+      "langue": "fr",
+      "slug": "loyers-commerciaux-impayes-la-reforme-de-mai-2026-durcit-acces-aux-f8d339",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f8d3395f85ee72ce70cd39763892cb96ce5b7c9c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f8d3395f85ee72ce70cd39763892cb96ce5b7c9c.webp",
+        "source": "wikimedia",
+        "credit": "Carlos Delgado",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Palais_de_Justice_de_Paris.jpg",
+        "alt": "Le palais de justice de Paris",
+        "mots_cles": [
+          "Palais de justice de Paris"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "6c4de59c906a3789b5767b537fe4d66042baa98e",
+      "titre": "Paris : la justice place le BHV en redressement judiciaire, 700 emplois en jeu",
+      "resume": "Saisi par la direction comme par les élus du personnel, le tribunal parisien des activités économiques a ouvert lundi 2 novembre une procédure de redressement pour la société qui exploite le BHV Marais et le BHV Parly 2. Une période d'examen de six mois, qui peut être prolongée, s'ouvre. Le magasin reste ouvert.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-fournisseurs"
+      ],
+      "source_nom": "Franceinfo",
+      "source_url": "https://www.franceinfo.fr/economie/l-emblematique-grand-magasin-parisien-bhv-place-en-redressement-judiciaire_8264255.html",
+      "autres_sources": [
+        "https://www.ladepeche.fr/2026/11/02/le-grand-magasin-bhv-place-en-redressement-judiciaire-700-emplois-menaces-13632504.php",
+        "https://www.20minutes.fr/economie/4259757-20261102-paris-bhv-marais-place-redressement-judiciaire?at_medium=display&at_campaign=149",
+        "https://www.lemonde.fr/economie/article/2026/11/02/le-bhv-marais-a-paris-place-en-redressement-judiciaire_6805272_3234.html",
+        "https://www.sudouest.fr/ile-de-france/paris/commerce-le-grand-magasin-bhv-place-en-redressement-judiciaire-31350625.php",
+        "https://www.laprovence.com/article/faits-divers-justice/10617752975932/bhv-en-difficulte-le-grand-magasin-parisien-place-en-redressement-judiciaire",
+        "https://www.bfmtv.com/economie/entreprises/le-grand-magasin-bhv-de-paris-est-place-en-redressement-judiciaire_AD-202611020620.html"
+      ],
+      "publie_le": "2026-11-02T15:19:23.000Z",
+      "collecte_le": "2026-11-02T18:21:26.395Z",
+      "langue": "fr",
+      "slug": "paris-la-justice-place-le-bhv-en-redressement-judiciaire-700-emplois-6c4de5",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/6c4de59c906a3789b5767b537fe4d66042baa98e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/6c4de59c906a3789b5767b537fe4d66042baa98e.webp",
+        "source": "wikimedia",
+        "credit": "Eugène Alcide Ogé (1861-1936) - (Upload DePlusJean ) .",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Og%C3%A9_-_Bazar_de_l%27H%C3%B4tel_de_ville_(btv1b90130060_f1).jpg",
+        "alt": "La façade du BHV, grand magasin situé face à l'Hôtel de Ville de Paris",
+        "mots_cles": [
+          "Bazar de l'Hôtel de Ville"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "a1644762c21d3ebabeb9544e98562bfdf9dd52d7",
       "titre": "Région Sud : le patronat réclame une aide sur mesure pour les commerçants pillés",

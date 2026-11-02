@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-02T11:19:41.959Z",
+  "genere_le": "2026-11-02T18:21:15.387Z",
   "articles": [
+    {
+      "id": "31c9fea321a47a198b64ed77719eaacbe67ccf2e",
+      "slug": "maroc-tiznit-salima-naji-redonne-vie-une-kasbah-en-terre-31c9fe",
+      "titre": "Maroc : à Tiznit, Salima Naji redonne vie à une kasbah en terre",
+      "publie_le": "2026-11-02T12:03:33.000Z",
+      "redige_le": "2026-11-02T18:21:12.311Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/31c9fea321a47a198b64ed77719eaacbe67ccf2e.json"
+    },
     {
       "id": "9f98504a1cfc106959bce08438a3a7db349dec23",
       "slug": "aya-moug-transforme-le-papyrus-du-nil-en-mobilier-contemporain-9f9850",

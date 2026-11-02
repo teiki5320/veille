@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-02T11:19:41.972Z",
+  "genere_le": "2026-11-02T18:21:15.391Z",
   "actus": [
+    {
+      "id": "27cdf73732867be23bfcf05c31b9457fcfb0dda9",
+      "titre": "FIFPRO World 11 2026 : Hakimi, unique joueur africain de la présélection",
+      "resume": "Le latéral marocain du PSG fait partie des 26 footballeurs retenus pour l'équipe type mondiale de l'année, désignée par les votes de 19 806 joueurs professionnels. Aucun autre joueur du continent ne figure dans cette liste, où l'on retrouve Messi, Ronaldo, Mbappé ou Lamine Yamal.",
+      "theme": "foot",
+      "pays": [
+        "MA"
+      ],
+      "competition": "FIFPRO World 11",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/fifpro-world-11-2026-achraf-hakimi-seul-africain-parmi-les-26-nommes/",
+      "publie_le": "2026-11-02T15:55:38.000Z",
+      "collecte_le": "2026-11-02T18:21:15.391Z",
+      "langue": "fr",
+      "slug": "fifpro-world-11-2026-hakimi-unique-joueur-africain-de-la-preselection-27cdf7",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/27cdf73732867be23bfcf05c31b9457fcfb0dda9.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/27cdf73732867be23bfcf05c31b9457fcfb0dda9.webp",
+        "source": "wikimedia",
+        "credit": "MFonzatti",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_2024.jpg",
+        "alt": "Achraf Hakimi, défenseur marocain du Paris Saint-Germain",
+        "mots_cles": [
+          "Achraf Hakimi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
       "titre": "Sénégal-Soudan : Patrick Vieira annoncera jeudi sa nouvelle sélection",
@@ -2040,37 +2071,6 @@
       "slug": "senegal-patrick-vieira-toujours-invaincu-avant-la-fenetre-de-novembre-13c6e8",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/13c6e86581517be5969d48dcc31c8efef0cd4f03.json",
       "lecture_min": 2
-    },
-    {
-      "id": "695f5b791f6ce13b86e21e5c9c6e9057104bf89e",
-      "titre": "Avant Sénégal–Soudan, la pelouse du stade de Dakar en travaux",
-      "resume": "Les Lions recevront le Soudan le 12 novembre au stade Léopold-Sédar-Senghor, une rencontre comptant pour les qualifications à la CAN 2027. L'enceinte est fermée depuis plusieurs jours afin de remettre la pelouse en état.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Wiwsport",
-      "source_url": "https://wiwsport.com/2026/10/26/senegal-soudan-le-stade-leopold-sedar-senghor-ferme-pour-preparer-le-retour-des-lions/",
-      "publie_le": "2026-10-26T11:56:54.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/695f5b791f6ce13b86e21e5c9c6e9057104bf89e.webp",
-        "source": "openverse",
-        "credit": "Jeff Attaway",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/33398364@N08/5562333854",
-        "alt": "Un stade de football à Dakar",
-        "mots_cles": [
-          "dakar stadium"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "avant-senegal-soudan-la-pelouse-du-stade-de-dakar-en-travaux-695f5b",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/695f5b791f6ce13b86e21e5c9c6e9057104bf89e.json",
-      "lecture_min": 1
     }
   ]
 }

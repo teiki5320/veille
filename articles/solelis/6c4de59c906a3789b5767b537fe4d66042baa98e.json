@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "6c4de59c906a3789b5767b537fe4d66042baa98e",
+  "slug": "paris-la-justice-place-le-bhv-en-redressement-judiciaire-700-emplois-6c4de5",
+  "titre": "Paris : la justice place le BHV en redressement judiciaire, 700 emplois en jeu",
+  "chapo": "Le grand magasin de la rue de Rivoli et son site de Parly 2 entrent dans une procédure collective. La direction et les représentants des salariés la demandaient tous les deux.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Lundi 2 novembre, la justice parisienne a ouvert un redressement judiciaire pour la SEGM BHV. Cette société exploite deux magasins : le site historique face à l'Hôtel de Ville, ouvert il y a 170 ans au cœur de la capitale, et celui du centre commercial Parly 2, dans les Yvelines. Elle compte environ 700 salariés, d'après les chiffres de septembre.",
+        "Le 27 octobre, la direction avait elle-même réclamé cette protection. Elle venait de reconnaître une situation de faillite qu'elle contestait encore peu de temps avant."
+      ]
+    },
+    {
+      "intertitre": "Ce que change la procédure",
+      "paragraphes": [
+        "Le jugement déclenche une phase d'observation d'une durée de six mois, qui peut être prolongée une fois. Pendant ce temps, l'activité continue et les dettes nées avant le jugement sont gelées. À la fin, le tribunal choisit entre trois issues : un plan qui permet à l'entreprise de poursuivre, la vente à un repreneur ou la liquidation.",
+        "La direction a indiqué que le magasin restait ouvert au public."
+      ]
+    },
+    {
+      "intertitre": "Trésorerie et litige avec le propriétaire des murs",
+      "paragraphes": [
+        "Cédé en juin, avec une perte, par le groupe SGM de Frédéric Merlin à plusieurs de ses dirigeants, le BHV a présenté cet été un plan de relance. Celui-ci a buté sur un manque de liquidités, que la direction attribue à un conflit avec Brookfield, le fonds canadien qui possède le bâtiment. Brookfield rejette fermement cette lecture.",
+        "La direction s'est félicitée du jugement. Elle compte sur la protection du tribunal pour faire aboutir rapidement les discussions avec le propriétaire. Son président, Karl-Stéphane Cottendin, évoque une « période cruciale » après des mois de fêtes compromis par les soucis de trésorerie."
+      ]
+    },
+    {
+      "intertitre": "Une enseigne fragilisée",
+      "paragraphes": [
+        "Ces dernières années, le grand magasin a été accusé de ne plus régler ses fournisseurs. Son association avec Shein, le géant de la mode à petit prix, a aussi été vivement critiquée. Les élus du personnel veulent d'abord informer les salariés avant de s'exprimer."
+      ]
+    }
+  ],
+  "mots": 344,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-fournisseurs"
+  ],
+  "source_nom": "Franceinfo",
+  "source_url": "https://www.franceinfo.fr/economie/l-emblematique-grand-magasin-parisien-bhv-place-en-redressement-judiciaire_8264255.html",
+  "autres_sources": [
+    "https://www.ladepeche.fr/2026/11/02/le-grand-magasin-bhv-place-en-redressement-judiciaire-700-emplois-menaces-13632504.php",
+    "https://www.20minutes.fr/economie/4259757-20261102-paris-bhv-marais-place-redressement-judiciaire?at_medium=display&at_campaign=149",
+    "https://www.lemonde.fr/economie/article/2026/11/02/le-bhv-marais-a-paris-place-en-redressement-judiciaire_6805272_3234.html",
+    "https://www.sudouest.fr/ile-de-france/paris/commerce-le-grand-magasin-bhv-place-en-redressement-judiciaire-31350625.php",
+    "https://www.laprovence.com/article/faits-divers-justice/10617752975932/bhv-en-difficulte-le-grand-magasin-parisien-place-en-redressement-judiciaire",
+    "https://www.bfmtv.com/economie/entreprises/le-grand-magasin-bhv-de-paris-est-place-en-redressement-judiciaire_AD-202611020620.html"
+  ],
+  "publie_le": "2026-11-02T15:19:23.000Z",
+  "redige_le": "2026-11-02T18:21:26.395Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/6c4de59c906a3789b5767b537fe4d66042baa98e.webp",
+    "source": "wikimedia",
+    "credit": "Eugène Alcide Ogé (1861-1936) - (Upload DePlusJean ) .",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Og%C3%A9_-_Bazar_de_l%27H%C3%B4tel_de_ville_(btv1b90130060_f1).jpg",
+    "alt": "La façade du BHV, grand magasin situé face à l'Hôtel de Ville de Paris",
+    "mots_cles": [
+      "Bazar de l'Hôtel de Ville"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
