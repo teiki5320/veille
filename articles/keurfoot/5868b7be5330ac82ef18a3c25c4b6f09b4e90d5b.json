@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b",
+  "slug": "mondial-u17-feminin-le-nigeria-et-le-ghana-portent-afrique-en-quarts-5868b7",
+  "titre": "Mondial U17 féminin : le Nigeria et le Ghana portent l'Afrique en quarts de finale",
+  "chapo": "Deux sélections africaines sont encore en course à la Coupe du monde féminine des moins de 17 ans, disputée au Maroc : le Nigeria et le Ghana jouent les quarts de finale.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Quatre équipes du continent avaient atteint les huitièmes de finale. Il en reste deux. Les Flamingos nigérianes affronteront le Venezuela, tandis que les Black Maidens du Ghana seront opposées au Japon. Une victoire enverrait l'Afrique dans le dernier carré mondial."
+      ]
+    },
+    {
+      "intertitre": "Des parcours solides",
+      "paragraphes": [
+        "Le Nigeria a frappé fort en dominant la Corée du Nord, tenante du titre, avant d'écarter le Mexique.",
+        "Le Ghana, lui, avait perdu son premier match. Les Ghanéennes ont ensuite tenu le Brésil en échec, battu le Canada, puis éliminé l'Argentine aux tirs au but."
+      ]
+    },
+    {
+      "intertitre": "Le Maroc, hôte jusqu'en 2029",
+      "paragraphes": [
+        "Le royaume accueille ce tournoi de la FIFA chaque année entre 2025 et 2029, soit cinq éditions de suite. Une expérience utile avant la Coupe du monde 2030, que le Maroc coorganisera avec l'Espagne et le Portugal.",
+        "Pour le football féminin africain, c'est une vitrine. Reste à transformer cette visibilité en investissements durables dans la formation, les clubs et les championnats locaux."
+      ]
+    }
+  ],
+  "mots": 187,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "NG",
+    "GH",
+    "MA"
+  ],
+  "competition": "Coupe du monde féminine U17",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/11/01/nigeria-ghana-carry-africas-ambitions-into-the-quarterfinals-fifa-u-17-womens-world-cup-2026/",
+  "publie_le": "2026-11-01T19:40:36.000Z",
+  "redige_le": "2026-11-02T11:19:41.972Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b.webp",
+    "source": "wikimedia",
+    "credit": "David Jane Footballer",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:After_training_with_my_team_mates_in_the_National_Camp_Super_Falcon_in_Abuja_Nigeria.JPG",
+    "alt": "L'équipe nationale féminine de football du Nigeria",
+    "mots_cles": [
+      "Nigeria women's national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

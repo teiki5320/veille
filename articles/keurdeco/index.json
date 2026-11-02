@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-01T18:21:16.473Z",
+  "genere_le": "2026-11-02T11:19:41.959Z",
   "articles": [
+    {
+      "id": "9f98504a1cfc106959bce08438a3a7db349dec23",
+      "slug": "aya-moug-transforme-le-papyrus-du-nil-en-mobilier-contemporain-9f9850",
+      "titre": "Aya Moug transforme le papyrus du Nil en mobilier contemporain",
+      "publie_le": "2026-11-02T10:25:35.000Z",
+      "redige_le": "2026-11-02T11:19:01.208Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/9f98504a1cfc106959bce08438a3a7db349dec23.json"
+    },
     {
       "id": "d55a90b18cf0f186501d9e8954900278754a6152",
       "slug": "afrique-du-sud-tshepo-masilo-peint-les-rituels-du-foyer-dans-portraits-d55a90",

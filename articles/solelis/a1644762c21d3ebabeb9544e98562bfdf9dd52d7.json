@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "a1644762c21d3ebabeb9544e98562bfdf9dd52d7",
+  "slug": "region-sud-le-patronat-reclame-une-aide-sur-mesure-pour-les-a16447",
+  "titre": "Région Sud : le patronat réclame une aide sur mesure pour les commerçants pillés",
+  "chapo": "Après les violences de la mi-octobre, Les Entrepreneurs Sud comptent plus de 560 boutiques vandalisées dans la région. L'organisation patronale réclame un fonds proportionné aux pertes, en plus de l'aide d'urgence déjà en place.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le 29 octobre, l'organisation a réuni la presse avec quatre de ses présidents départementaux et quatre associations de commerçants marseillais. Marseille et sa métropole concentrent l'essentiel des dégâts : 527 commerces touchés, dont 331 entièrement sinistrés et 128 vidés par les pilleurs. Nice en compte 16, Toulon plus de dix et le Vaucluse cinq.",
+        "À l'échelle nationale, CCI France recensait le 27 octobre plus de 2 500 commerces dégradés."
+      ]
+    },
+    {
+      "intertitre": "Jusqu'à 35 millions d'euros de préjudice",
+      "paragraphes": [
+        "Le préjudice direct est estimé entre 28 et 35 millions d'euros pour la région. Les associations de commerçants évoquent une chute de 70 à 80 % de leur chiffre d'affaires, les clients ayant déserté les centres-villes.",
+        "Un fonds d'urgence nommé « Solidarité commerces pillés », réactivé par la Région le 23 octobre, verse déjà une somme forfaitaire de 10 000 euros à chaque boutique sinistrée. Il est financé par la Région, le conseil départemental des Bouches-du-Rhône, la métropole marseillaise et l'armateur CMA CGM, pour 12 millions d'euros au total."
+      ]
+    },
+    {
+      "intertitre": "Pas de nouveaux prêts",
+      "paragraphes": [
+        "L'organisation veut un fonds de solidarité calculé sur les pertes d'exploitation et sur la marchandise détruite, pour couvrir ce que les assureurs ne remboursent pas. Elle refuse en revanche tout nouvel emprunt, même à taux zéro, faute de visibilité sur l'activité à venir.",
+        "Autres revendications : une activité partielle financée à 100 %, même pour les magasins qui n'ont pas fermé, une aide d'urgence aux indépendants et un décalage des cotisations et des impôts à payer."
+      ]
+    },
+    {
+      "intertitre": "Une consultation jusqu'en janvier",
+      "paragraphes": [
+        "En parallèle, Les Entrepreneurs Sud déclinent localement la Grande Consultation des Entrepreneurs, ouverte jusqu'au 15 janvier. Six réunions sont prévues, d'Aix-en-Provence le 17 novembre à Avignon le 15 décembre, en passant par Manosque, Gap, Sophia Antipolis et La Garde. Les propositions chiffrées qui en sortiront seront soumises aux candidats à la présidentielle de 2027."
+      ]
+    }
+  ],
+  "mots": 336,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Journal des Entreprises",
+  "source_url": "https://www.lejournaldesentreprises.com/article/les-entrepreneurs-sud-reclament-un-fonds-de-solidarite-pour-les-commerces-touches-par-les-pillages-2148267",
+  "publie_le": "2026-11-02T11:11:15.000Z",
+  "redige_le": "2026-11-02T11:20:26.383Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/a1644762c21d3ebabeb9544e98562bfdf9dd52d7.webp",
+    "source": "wikimedia",
+    "credit": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marseille_Vieux_Port_Night.jpg",
+    "alt": "Le Vieux-Port de Marseille",
+    "mots_cles": [
+      "Vieux-Port de Marseille"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

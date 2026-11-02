@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-01T18:21:27.117Z",
+  "genere_le": "2026-11-02T11:20:31.062Z",
   "articles": [
+    {
+      "id": "a1644762c21d3ebabeb9544e98562bfdf9dd52d7",
+      "slug": "region-sud-le-patronat-reclame-une-aide-sur-mesure-pour-les-a16447",
+      "titre": "Région Sud : le patronat réclame une aide sur mesure pour les commerçants pillés",
+      "publie_le": "2026-11-02T11:11:15.000Z",
+      "redige_le": "2026-11-02T11:20:26.383Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/a1644762c21d3ebabeb9544e98562bfdf9dd52d7.json"
+    },
+    {
+      "id": "9bc9041e0b4912de18f9d02f543a3ae054c38f9d",
+      "slug": "commerces-touches-par-les-manifestations-trois-dimanches-ouverture-en-9bc904",
+      "titre": "Commerces touchés par les manifestations : trois dimanches d'ouverture en plus",
+      "publie_le": "2026-11-02T10:11:09.000Z",
+      "redige_le": "2026-11-02T11:20:26.383Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.json"
+    },
     {
       "id": "3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91",
       "slug": "restauration-rapide-le-franchise-kfc-palois-pronoia-passe-en-procedure-3f01af",

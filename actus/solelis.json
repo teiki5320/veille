@@ -1,8 +1,71 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-01T18:21:22.710Z",
+  "genere_le": "2026-11-02T11:20:26.383Z",
   "actus": [
+    {
+      "id": "a1644762c21d3ebabeb9544e98562bfdf9dd52d7",
+      "titre": "Région Sud : le patronat réclame une aide sur mesure pour les commerçants pillés",
+      "resume": "Les Entrepreneurs Sud comptent plus de 560 boutiques vandalisées dans la région après les violences de la mi-octobre. L'organisation patronale veut un fonds calculé sur les pertes réelles, en plus de l'aide d'urgence de 10 000 euros, et refuse tout nouvel emprunt.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Journal des Entreprises",
+      "source_url": "https://www.lejournaldesentreprises.com/article/les-entrepreneurs-sud-reclament-un-fonds-de-solidarite-pour-les-commerces-touches-par-les-pillages-2148267",
+      "publie_le": "2026-11-02T11:11:15.000Z",
+      "collecte_le": "2026-11-02T11:20:26.383Z",
+      "langue": "fr",
+      "slug": "region-sud-le-patronat-reclame-une-aide-sur-mesure-pour-les-a16447",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a1644762c21d3ebabeb9544e98562bfdf9dd52d7.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/a1644762c21d3ebabeb9544e98562bfdf9dd52d7.webp",
+        "source": "wikimedia",
+        "credit": "Benh LIEU SONG",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Marseille_Vieux_Port_Night.jpg",
+        "alt": "Le Vieux-Port de Marseille",
+        "mots_cles": [
+          "Vieux-Port de Marseille"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9bc9041e0b4912de18f9d02f543a3ae054c38f9d",
+      "titre": "Commerces touchés par les manifestations : trois dimanches d'ouverture en plus",
+      "resume": "Le ministre des PME et du Commerce, Serge Papin, va demander aux préfets d'autoriser trois ouvertures dominicales supplémentaires avant Noël. La mesure vise à compenser les pertes des commerçants pénalisés par les manifestations et les pillages.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/economie/mobilisation-sociale-et-violences-le-ministre-du-commerce-serge-papin-souhaite-autoriser-trois-dimanches-supplementaires-d-ouverture-des-magasins-avant-noel-31345461.php",
+      "autres_sources": [
+        "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires"
+      ],
+      "publie_le": "2026-11-02T10:11:09.000Z",
+      "collecte_le": "2026-11-02T11:20:26.383Z",
+      "langue": "fr",
+      "slug": "commerces-touches-par-les-manifestations-trois-dimanches-ouverture-en-9bc904",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.webp",
+        "source": "wikimedia",
+        "credit": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_Trade,_Crafts,_Tourism_and_Purchasing_Power,_to_the_EC_-_2025_(02).jpg",
+        "alt": "Serge Papin, ministre chargé des PME et du Commerce",
+        "mots_cles": [
+          "Serge Papin"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91",
       "titre": "Restauration rapide : le franchisé KFC palois ProNoïa passe en procédure de sauvegarde",

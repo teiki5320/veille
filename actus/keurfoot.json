@@ -1,8 +1,108 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-01T18:21:16.478Z",
+  "genere_le": "2026-11-02T11:19:41.972Z",
   "actus": [
+    {
+      "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
+      "titre": "Sénégal-Soudan : Patrick Vieira annoncera jeudi sa nouvelle sélection",
+      "resume": "Le sélectionneur des Lions communiquera jeudi 5 novembre les joueurs appelés pour la double confrontation avec le Soudan, les 12 et 16 novembre. La vente des billets pour le match de Dakar a commencé lundi.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "SD"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/patrick-vieira-devoilera-jeudi-sa-deuxieme-liste-pour-les-matchs-contre-le-soudan_2019658.html",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/02/equipe-nationale-senegal-vs-soudan-patrick-vieira-devoilera-sa-liste-ce-jeudi/",
+        "https://wiwsport.com/2026/11/02/eliminatoires-can-2027-senegal-soudan-la-billetterie-du-match-ouverte-ce-lundi/"
+      ],
+      "publie_le": "2026-11-02T10:45:16.000Z",
+      "collecte_le": "2026-11-02T11:19:41.972Z",
+      "langue": "fr",
+      "slug": "senegal-soudan-patrick-vieira-annoncera-jeudi-sa-nouvelle-selection-779ad6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/779ad6d6de0fc25808d85aef1093c5815b2ec3d0.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/779ad6d6de0fc25808d85aef1093c5815b2ec3d0.webp",
+        "source": "wikimedia",
+        "credit": "Simon Heseltine",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+        "alt": "Patrick Vieira, ancien milieu de terrain devenu sélectionneur du Sénégal",
+        "mots_cles": [
+          "Patrick Vieira"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "5c934ffe9fd30491d588f52a7128949239ba2ff7",
+      "titre": "CAN 2028 : un calendrier proposé, avec une phase finale entre juin et juillet",
+      "resume": "Un projet de calendrier, que le comité exécutif de la CAF n'a pas encore validé, place le tournoi final de la CAN 2028 entre le 7 juin et le 10 juillet 2028, avec 28 équipes. Les qualifications commenceraient en juin 2027.",
+      "theme": "foot",
+      "pays": [],
+      "competition": "CAN 2028",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/can-2028-une-premiere-date-se-dessine-pour-le-tournoi",
+      "publie_le": "2026-11-01T19:51:45.000Z",
+      "collecte_le": "2026-11-02T11:19:41.972Z",
+      "langue": "fr",
+      "slug": "can-2028-un-calendrier-propose-avec-une-phase-finale-entre-juin-et-5c934f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5c934ffe9fd30491d588f52a7128949239ba2ff7.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/5c934ffe9fd30491d588f52a7128949239ba2ff7.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec la mention « CAN 2028 »",
+        "mots_cles": [
+          "Patrice Motsepe",
+          "african football stadium",
+          "football stadium crowd"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b",
+      "titre": "Mondial U17 féminin : le Nigeria et le Ghana portent l'Afrique en quarts de finale",
+      "resume": "Au Mondial féminin des moins de 17 ans organisé au Maroc, deux sélections africaines restent en lice. Le Nigeria, vainqueur de la Corée du Nord puis du Mexique, affronte le Venezuela ; le Ghana, tombeur de l'Argentine, défie le Japon.",
+      "theme": "foot",
+      "pays": [
+        "NG",
+        "GH",
+        "MA"
+      ],
+      "competition": "Coupe du monde féminine U17",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/01/nigeria-ghana-carry-africas-ambitions-into-the-quarterfinals-fifa-u-17-womens-world-cup-2026/",
+      "publie_le": "2026-11-01T19:40:36.000Z",
+      "collecte_le": "2026-11-02T11:19:41.972Z",
+      "langue": "en",
+      "slug": "mondial-u17-feminin-le-nigeria-et-le-ghana-portent-afrique-en-quarts-5868b7",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b.webp",
+        "source": "wikimedia",
+        "credit": "David Jane Footballer",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:After_training_with_my_team_mates_in_the_National_Camp_Super_Falcon_in_Abuja_Nigeria.JPG",
+        "alt": "L'équipe nationale féminine de football du Nigeria",
+        "mots_cles": [
+          "Nigeria women's national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "337dad24522a9cf9ba0ab3d2242396a471f405fb",
       "titre": "Ligue 1 : doublé et passe décisive pour Lassine Sinayoko, le Paris FC bat Monaco (3-1)",
@@ -1970,109 +2070,6 @@
       },
       "slug": "avant-senegal-soudan-la-pelouse-du-stade-de-dakar-en-travaux-695f5b",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/695f5b791f6ce13b86e21e5c9c6e9057104bf89e.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "97c06615b7380e00f422c1ce8172ac8bdf92e4ba",
-      "titre": "CAN U20 : le Sénégal ne sera pas au Ghana",
-      "resume": "Battus en demi-finales du tournoi qualificatif de la zone UFOA A, les jeunes Lions manquent la phase finale. Les deux derniers qualifiés pour la compétition, qui se jouera au Ghana, ont été désignés dimanche.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "CAN U20",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/can-u20-le-senegal-prive-de-phase-finale-les-2-derniers-qualifies-connus",
-      "publie_le": "2026-10-25T23:02:34.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/97c06615b7380e00f422c1ce8172ac8bdf92e4ba.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « CAN U20 »",
-        "mots_cles": [
-          "senegal youth football",
-          "african youth football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "can-u20-le-senegal-ne-sera-pas-au-ghana-97c066",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/97c06615b7380e00f422c1ce8172ac8bdf92e4ba.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "da53bff8ac59c3300e38e210aac991bbbbe1f4a2",
-      "titre": "Aston Villa : Nicolas Jackson, auteur d’un doublé contre City, salué par Unai Emery",
-      "resume": "L'attaquant sénégalais a inscrit les deux buts de la victoire 2-1 face à Manchester City samedi. Il compte désormais 7 réalisations en 11 rencontres, et son entraîneur a vanté ses progrès dans la finition ainsi que son travail tactique.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Premier League",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/la-folle-renaissance-de-nicolas-jackson-a-aston-villa-donne-des-regrets-a-chelsea",
-      "autres_sources": [
-        "https://wiwsport.com/2026/10/26/unai-emery-souligne-les-progres-de-nicolas-jackson-maintenant-il-ajuste-mieux-ses-tirs-il-travaille-de-maniere-fantastique-sur-le-plan-tactique/",
-        "https://senego.com/aston-villa-unai-emery-encense-nicolas-jackson-et-son-travail-tactique-maintenant-il-ajuste-mieux-ses-tirs_2017497.html",
-        "https://wiwsport.com/2026/10/26/il-realise-un-travail-fantastique-en-angleterre-lexcellent-debut-de-saison-de-nicolas-jackson-remet-aston-villa-sur-les-bons-rails/"
-      ],
-      "publie_le": "2026-10-25T22:13:36.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/da53bff8ac59c3300e38e210aac991bbbbe1f4a2.webp",
-        "source": "wikimedia",
-        "credit": "Timmy96",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(2).jpg",
-        "alt": "Nicolas Jackson, attaquant sénégalais d'Aston Villa",
-        "mots_cles": [
-          "Nicolas Jackson"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "aston-villa-nicolas-jackson-auteur-un-double-contre-city-salue-par-da53bf",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/da53bff8ac59c3300e38e210aac991bbbbe1f4a2.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "d8748aac9e22be6c73ae94925791a9c4f688ef6d",
-      "titre": "Coupe de la CAF : l'AS FAR Rabat qualifiée, carton plein pour le Maroc",
-      "resume": "Les Militaires ont souffert mais rejoignent la phase de groupes, ce qui permet aux deux clubs marocains engagés de passer le cap. La Côte d'Ivoire n'aura aucun représentant. Quinze des seize qualifiés sont déjà connus, parmi lesquels l'USM Alger, le Raja et Al Ahly.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "CI"
-      ],
-      "competition": "Coupe de la CAF",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/coupe-caf-las-far-rabat-offre-le-2-2-au-maroc-la-cote-divoire-bredouille",
-      "autres_sources": [
-        "https://www.afrik-foot.com/coupe-de-la-caf-usma-raja-al-ahly-les-chapeaux-probables-pour-le-tirage-au-sort-de-la-phase-de-groupes"
-      ],
-      "publie_le": "2026-10-25T21:33:39.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/d8748aac9e22be6c73ae94925791a9c4f688ef6d.webp",
-        "source": "wikimedia",
-        "credit": "Magharebia",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Les_FAR_de_Rabat_en_t%C3%AAte_du_Botola_(8170068288).jpg",
-        "alt": "Un stade de football au Maroc",
-        "mots_cles": [
-          "AS FAR Rabat"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "coupe-de-la-caf-as-far-rabat-qualifiee-carton-plein-pour-le-maroc-d8748a",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d8748aac9e22be6c73ae94925791a9c4f688ef6d.json",
       "lecture_min": 1
     }
   ]

@@ -1,8 +1,40 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-01T18:21:16.470Z",
+  "genere_le": "2026-11-02T11:19:01.208Z",
   "actus": [
+    {
+      "id": "9f98504a1cfc106959bce08438a3a7db349dec23",
+      "titre": "Aya Moug transforme le papyrus du Nil en mobilier contemporain",
+      "resume": "La designeuse égyptienne Aya Moug a créé Byblos, un matériau tiré des fibres du papyrus, pour fabriquer des meubles inspirés de l'Égypte ancienne. Sa collection Ankh est exposée à Design Doha du 5 novembre 2026 au 31 janvier 2027.",
+      "theme": "deco",
+      "pays": [
+        "EG"
+      ],
+      "source_nom": "Wallpaper*",
+      "source_url": "https://www.wallpaper.com/design-interiors/aya-moug-papyrus-furniture-design-doha",
+      "publie_le": "2026-11-02T10:25:35.000Z",
+      "collecte_le": "2026-11-02T11:19:01.208Z",
+      "langue": "en",
+      "slug": "aya-moug-transforme-le-papyrus-du-nil-en-mobilier-contemporain-9f9850",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/9f98504a1cfc106959bce08438a3a7db349dec23.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurdeco/9f98504a1cfc106959bce08438a3a7db349dec23.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Déco",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Déco avec le drapeau national (Égypte) et la mention « Déco »",
+        "mots_cles": [
+          "Cyperus papyrus",
+          "papyrus plant",
+          "papyrus nile"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d55a90b18cf0f186501d9e8954900278754a6152",
       "titre": "Afrique du Sud : Tshepo Masilo peint les rituels du foyer dans « Portraits of Home »",

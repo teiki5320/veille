@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "c3ec21cbc97a628b7fd89087939d30c804466919",
+  "slug": "the-oratory-un-pretre-salesien-nigerian-prevoit-dix-films-catholiques-c3ec21",
+  "titre": "« The Oratory » : un prêtre salésien nigérian prévoit dix films catholiques",
+  "chapo": "Producteur du film nigérian « The Oratory », le père Cyril Odia prépare une deuxième œuvre tournée en Sierra Leone, espérée d'ici fin 2027. Elle s'inscrit dans un projet de dix films.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ce prêtre d'origine nigériane, membre des Salésiens de Don Bosco, s'est confié à l'agence ACI Africa le 29 octobre à Nairobi. Il était venu au Kenya prêcher une retraite paroissiale de trois jours au sanctuaire Marie-Auxiliatrice de Don Bosco Upper Hill, pour clore le mois du Rosaire, et présenter son film.",
+        "« The Oratory » raconte une histoire nigériane d'aujourd'hui, inspirée de l'attention que saint Jean Bosco portait aux jeunes en difficulté."
+      ]
+    },
+    {
+      "intertitre": "« Freetown », une mini-série en quatre épisodes",
+      "paragraphes": [
+        "Le deuxième projet porte le nom de la capitale sierra-léonaise. Le tournage sur place est terminé. Cette mini-série en quatre parties suit des filles et les obstacles qu'elles affrontent.",
+        "Le premier film avait demandé onze ans de travail avant sa sortie ; le second a pris environ un an. Un troisième scénario est en cours d'écriture. Le Kenya et la République démocratique du Congo sont envisagés pour les tournages suivants, selon les partenaires trouvés sur place."
+      ]
+    },
+    {
+      "intertitre": "Des jeunes de la rue devant la caméra",
+      "paragraphes": [
+        "Le projet, baptisé « Street Lab », va chercher des jeunes vivant dans la rue ou sans accès au monde du cinéma. Ils sont formés avant les auditions et le tournage, et certains glissent dans le récit des épisodes de leur propre vie.",
+        "Le père Odia réserve l'intelligence artificielle au montage et à la post-production. Le jeu, l'écriture et la mise en scène restent confiés à des personnes, avec l'objectif de créer des emplois."
+      ]
+    },
+    {
+      "intertitre": "Conversion et justice sociale",
+      "paragraphes": [
+        "Selon lui, deux fils relieront les dix productions : l'appel à la conversion et la justice sociale. Délégué à la jeunesse de la province salésienne d'Irlande et enseignant à l'université pontificale de Maynooth, il dit recevoir de nombreuses demandes de spectateurs qui espèrent une suite. Il appelle à de nouvelles collaborations pour montrer ces films plus largement."
+      ]
+    }
+  ],
+  "mots": 331,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "NG",
+    "SL",
+    "KE",
+    "CD"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25061/nigerian-salesian-producer-of-the-oratory-plans-10-catholic-films-eyes-2027-release-for-sierra-leone-production",
+  "autres_sources": [
+    "https://www.aciafrica.org/news/25063/catholic-film-initiative-trains-marginalized-african-youth-for-screen-roles-limits-ai-to-support-human-talent"
+  ],
+  "publie_le": "2026-11-01T19:45:00.000Z",
+  "redige_le": "2026-11-02T11:18:57.912Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/c3ec21cbc97a628b7fd89087939d30c804466919.webp",
+    "source": "wikimedia",
+    "credit": "Mweper",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mercado_Don_Bosco_(Funes).jpg",
+    "alt": "Saint Jean Bosco, prêtre italien du XIXe siècle, fondateur des Salésiens",
+    "mots_cles": [
+      "John Bosco"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

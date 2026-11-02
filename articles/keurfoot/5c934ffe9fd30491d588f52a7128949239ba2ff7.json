@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "5c934ffe9fd30491d588f52a7128949239ba2ff7",
+  "slug": "can-2028-un-calendrier-propose-avec-une-phase-finale-entre-juin-et-5c934f",
+  "titre": "CAN 2028 : un calendrier proposé, avec une phase finale entre juin et juillet",
+  "chapo": "Les dates de la prochaine Coupe d'Afrique commencent à se dessiner. Selon un projet relayé par le journaliste Micky Jnr, la phase finale de 2028 se jouerait entre le 7 juin et le 10 juillet.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ce calendrier n'est pas encore validé par la CAF, dont le comité exécutif doit se prononcer. Il découpe la compétition en trois étapes.",
+        "D'abord, un tour préliminaire organisé du 7 au 15 juin 2027. Il concernerait les douze sélections les plus mal classées du continent, opposées en matchs aller et retour. Ensuite, une phase de groupes qualificative pour 48 équipes, répartie sur deux trêves internationales : quatre journées entre le 20 septembre et le 5 octobre 2027, et les deux ultimes rencontres en novembre, du 8 au 16."
+      ]
+    },
+    {
+      "intertitre": "Une phase finale à 28 équipes",
+      "paragraphes": [
+        "Le tournoi final réunirait 28 nations, contre 24 lors des dernières éditions. Ce format serait inédit dans l'histoire de l'épreuve, créée en 1957.",
+        "Ce projet arrive peu après un autre choix important : la CAF a renoncé à espacer sa compétition phare tous les quatre ans. La Coupe d'Afrique garde donc son rythme de deux ans."
+      ]
+    },
+    {
+      "intertitre": "Le pays hôte reste à désigner",
+      "paragraphes": [
+        "Aucun organisateur n'a encore été choisi. Deux candidatures ont été officiellement déposées : celle de la Libye, qui avait accueilli l'épreuve en 1982, et celle de l'Éthiopie, hôte à trois reprises (1962, 1968 et 1976).",
+        "L'Égypte n'a pas encore formalisé son intérêt. Un projet à trois associant le Zimbabwe, le Lesotho et l'Afrique du Sud serait aussi en préparation."
+      ]
+    },
+    {
+      "intertitre": "L'ombre de la CAN 2027",
+      "paragraphes": [
+        "Ces dossiers pourraient dépendre du sort de la CAN 2027, confiée au Kenya, à l'Ouganda et à la Tanzanie. Face aux retards pris par ces trois pays, la CAF aurait consulté d'autres nations, notamment l'Égypte et l'Afrique du Sud. Son président, Patrice Motsepe, assure pourtant en public qu'aucun plan de secours n'est à l'étude."
+      ]
+    }
+  ],
+  "mots": 309,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [],
+  "competition": "CAN 2028",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/can-2028-une-premiere-date-se-dessine-pour-le-tournoi",
+  "publie_le": "2026-11-01T19:51:45.000Z",
+  "redige_le": "2026-11-02T11:19:41.972Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/keurfoot/5c934ffe9fd30491d588f52a7128949239ba2ff7.svg",
+    "source": "carte",
+    "credit": "Illustration : Keur Foot",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Keur Foot avec la mention « CAN 2028 »",
+    "mots_cles": [
+      "Patrice Motsepe",
+      "african football stadium",
+      "football stadium crowd"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

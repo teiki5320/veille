@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
+  "slug": "senegal-soudan-patrick-vieira-annoncera-jeudi-sa-nouvelle-selection-779ad6",
+  "titre": "Sénégal-Soudan : Patrick Vieira annoncera jeudi sa nouvelle sélection",
+  "chapo": "Le sélectionneur des Lions fera connaître jeudi 5 novembre les joueurs convoqués pour affronter deux fois le Soudan, dans le cadre des éliminatoires de la CAN 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Patrick Vieira présentera son groupe devant les journalistes jeudi à 10 heures, au King Fahd Palace de Dakar. Ce sera seulement sa deuxième convocation depuis qu'il dirige la sélection. En septembre, l'ancien capitaine de l'équipe de France avait fait appel à 29 joueurs."
+      ]
+    },
+    {
+      "intertitre": "Deux matchs en cinq jours",
+      "paragraphes": [
+        "Les Crocodiles du Nil seront d'abord reçus à Dakar le jeudi 12 novembre, dans l'enceinte Léopold-Sédar-Senghor. Le match retour suivra le lundi 16 novembre.",
+        "La Fédération sénégalaise de football a lancé lundi la vente des places pour la rencontre disputée à Dakar. Les supporters ne peuvent se les procurer que par une application mobile de l'opérateur Orange."
+      ]
+    },
+    {
+      "intertitre": "Une première place à conquérir",
+      "paragraphes": [
+        "Dans le groupe J, le Sénégal compte quatre points, autant que le Mozambique. Sous la direction de Vieira, les Lions ont d'abord concédé un nul (1-1) aux Mambas à Maputo, le 25 septembre, puis ont battu l'Éthiopie.",
+        "Cette double confrontation face aux Soudanais pèsera lourd dans la course à la qualification pour la phase finale."
+      ]
+    }
+  ],
+  "mots": 192,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "SD"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/patrick-vieira-devoilera-jeudi-sa-deuxieme-liste-pour-les-matchs-contre-le-soudan_2019658.html",
+  "autres_sources": [
+    "https://wiwsport.com/2026/11/02/equipe-nationale-senegal-vs-soudan-patrick-vieira-devoilera-sa-liste-ce-jeudi/",
+    "https://wiwsport.com/2026/11/02/eliminatoires-can-2027-senegal-soudan-la-billetterie-du-match-ouverte-ce-lundi/"
+  ],
+  "publie_le": "2026-11-02T10:45:16.000Z",
+  "redige_le": "2026-11-02T11:19:41.972Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/779ad6d6de0fc25808d85aef1093c5815b2ec3d0.webp",
+    "source": "wikimedia",
+    "credit": "Simon Heseltine",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+    "alt": "Patrick Vieira, ancien milieu de terrain devenu sélectionneur du Sénégal",
+    "mots_cles": [
+      "Patrick Vieira"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

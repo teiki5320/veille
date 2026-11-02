@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-01T18:21:09.691Z",
+  "genere_le": "2026-11-02T11:19:01.197Z",
   "articles": [
+    {
+      "id": "c3ec21cbc97a628b7fd89087939d30c804466919",
+      "slug": "the-oratory-un-pretre-salesien-nigerian-prevoit-dix-films-catholiques-c3ec21",
+      "titre": "« The Oratory » : un prêtre salésien nigérian prévoit dix films catholiques",
+      "publie_le": "2026-11-01T19:45:00.000Z",
+      "redige_le": "2026-11-02T11:18:57.912Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/c3ec21cbc97a628b7fd89087939d30c804466919.json"
+    },
     {
       "id": "715a1d5e00be16362bd80c35161c99679de57ee1",
       "slug": "joj-dakar-2026-leon-xiv-benit-les-jeunes-athletes-et-salue-un-signe-715a1d",

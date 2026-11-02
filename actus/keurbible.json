@@ -1,8 +1,44 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-01T18:21:01.391Z",
+  "genere_le": "2026-11-02T11:18:57.912Z",
   "actus": [
+    {
+      "id": "c3ec21cbc97a628b7fd89087939d30c804466919",
+      "titre": "« The Oratory » : un prêtre salésien nigérian prévoit dix films catholiques",
+      "resume": "Producteur du film nigérian « The Oratory », le père Cyril Odia prépare « Freetown », une mini-série tournée en Sierra Leone attendue d'ici fin 2027. Son projet prévoit dix films et forme des jeunes éloignés du cinéma pour jouer les rôles.",
+      "theme": "culture",
+      "pays": [
+        "NG",
+        "SL",
+        "KE",
+        "CD"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25061/nigerian-salesian-producer-of-the-oratory-plans-10-catholic-films-eyes-2027-release-for-sierra-leone-production",
+      "autres_sources": [
+        "https://www.aciafrica.org/news/25063/catholic-film-initiative-trains-marginalized-african-youth-for-screen-roles-limits-ai-to-support-human-talent"
+      ],
+      "publie_le": "2026-11-01T19:45:00.000Z",
+      "collecte_le": "2026-11-02T11:18:57.912Z",
+      "langue": "en",
+      "slug": "the-oratory-un-pretre-salesien-nigerian-prevoit-dix-films-catholiques-c3ec21",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/c3ec21cbc97a628b7fd89087939d30c804466919.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/c3ec21cbc97a628b7fd89087939d30c804466919.webp",
+        "source": "wikimedia",
+        "credit": "Mweper",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mercado_Don_Bosco_(Funes).jpg",
+        "alt": "Saint Jean Bosco, prêtre italien du XIXe siècle, fondateur des Salésiens",
+        "mots_cles": [
+          "John Bosco"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "715a1d5e00be16362bd80c35161c99679de57ee1",
       "titre": "JOJ Dakar 2026 : Léon XIV bénit les jeunes athlètes et salue un signe d'espoir",

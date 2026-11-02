@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "9bc9041e0b4912de18f9d02f543a3ae054c38f9d",
+  "slug": "commerces-touches-par-les-manifestations-trois-dimanches-ouverture-en-9bc904",
+  "titre": "Commerces touchés par les manifestations : trois dimanches d'ouverture en plus",
+  "chapo": "Le ministre chargé des PME et du Commerce, Serge Papin, va demander aux préfets d'autoriser trois ouvertures dominicales supplémentaires d'ici Noël, pour aider les commerçants pénalisés par les manifestations.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Invité de RTL lundi 2 novembre, le ministre a indiqué qu'il solliciterait cette semaine des arrêtés préfectoraux en ce sens. Il a aussi rappelé que les maires disposent déjà de douze dimanches par an qu'ils peuvent accorder aux magasins, et qu'ils peuvent s'en servir pour compenser les pertes récentes."
+      ]
+    },
+    {
+      "intertitre": "Des boutiques fragilisées",
+      "paragraphes": [
+        "Selon le dernier décompte de CCI France, plus de 2 500 boutiques ont subi des dégradations en marge des mobilisations contre la vie chère et des mouvements lycéens. Parmi elles, 1 161 ont été pillées, saccagées ou incendiées.",
+        "Beaucoup de commerces ont aussi dû baisser le rideau le samedi, jour de défilés, comme le 31 octobre, ce qui représente un important manque à gagner."
+      ]
+    },
+    {
+      "intertitre": "Une demande des commerçants",
+      "paragraphes": [
+        "Les commerçants réclamaient de pouvoir ouvrir le dimanche jusqu'aux fêtes. Le gouvernement leur avait donné un accord de principe le jeudi 29 octobre. L'ouverture dépendra désormais des arrêtés pris dans chaque département."
+      ]
+    }
+  ],
+  "mots": 181,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/mobilisation-sociale-et-violences-le-ministre-du-commerce-serge-papin-souhaite-autoriser-trois-dimanches-supplementaires-d-ouverture-des-magasins-avant-noel-31345461.php",
+  "autres_sources": [
+    "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires"
+  ],
+  "publie_le": "2026-11-02T10:11:09.000Z",
+  "redige_le": "2026-11-02T11:20:26.383Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.webp",
+    "source": "wikimedia",
+    "credit": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_Trade,_Crafts,_Tourism_and_Purchasing_Power,_to_the_EC_-_2025_(02).jpg",
+    "alt": "Serge Papin, ministre chargé des PME et du Commerce",
+    "mots_cles": [
+      "Serge Papin"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

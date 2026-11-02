@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-01T18:21:18.164Z",
+  "genere_le": "2026-11-02T11:20:26.371Z",
   "articles": [
+    {
+      "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
+      "slug": "senegal-soudan-patrick-vieira-annoncera-jeudi-sa-nouvelle-selection-779ad6",
+      "titre": "Sénégal-Soudan : Patrick Vieira annoncera jeudi sa nouvelle sélection",
+      "publie_le": "2026-11-02T10:45:16.000Z",
+      "redige_le": "2026-11-02T11:19:41.972Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/779ad6d6de0fc25808d85aef1093c5815b2ec3d0.json"
+    },
+    {
+      "id": "5c934ffe9fd30491d588f52a7128949239ba2ff7",
+      "slug": "can-2028-un-calendrier-propose-avec-une-phase-finale-entre-juin-et-5c934f",
+      "titre": "CAN 2028 : un calendrier proposé, avec une phase finale entre juin et juillet",
+      "publie_le": "2026-11-01T19:51:45.000Z",
+      "redige_le": "2026-11-02T11:19:41.972Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/5c934ffe9fd30491d588f52a7128949239ba2ff7.json"
+    },
+    {
+      "id": "5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b",
+      "slug": "mondial-u17-feminin-le-nigeria-et-le-ghana-portent-afrique-en-quarts-5868b7",
+      "titre": "Mondial U17 féminin : le Nigeria et le Ghana portent l'Afrique en quarts de finale",
+      "publie_le": "2026-11-01T19:40:36.000Z",
+      "redige_le": "2026-11-02T11:19:41.972Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b.json"
+    },
     {
       "id": "337dad24522a9cf9ba0ab3d2242396a471f405fb",
       "slug": "ligue-1-double-et-passe-decisive-pour-lassine-sinayoko-le-paris-fc-bat-337dad",
