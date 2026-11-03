@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-03T11:28:12.315Z",
+  "genere_le": "2026-11-03T18:17:27.871Z",
   "articles": [
+    {
+      "id": "19a63a70f60963f4c1339b174057c93c0248b294",
+      "slug": "gifi-place-en-redressement-judiciaire-six-mois-pour-trouver-une-issue-19a63a",
+      "titre": "Gifi placé en redressement judiciaire : six mois pour trouver une issue",
+      "publie_le": "2026-11-03T15:35:07.000Z",
+      "redige_le": "2026-11-03T18:17:25.351Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/19a63a70f60963f4c1339b174057c93c0248b294.json"
+    },
     {
       "id": "3c7b4e7c9c753dcea726bb82573ca5a9520fff83",
       "slug": "gironde-et-landes-un-pret-bpifrance-pour-les-petites-entreprises-3c7b4e",

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-03T11:28:04.468Z",
+  "genere_le": "2026-11-03T18:17:25.342Z",
   "articles": [
+    {
+      "id": "fa96619dac581d454fbc3b3def8e71d4566d938d",
+      "slug": "eclairage-des-serres-le-neerlandais-dli-veut-miser-sur-les-resultats-fa9661",
+      "titre": "Éclairage des serres : le néerlandais DLI veut miser sur les résultats des cultivateurs",
+      "publie_le": "2026-11-03T13:08:00.000Z",
+      "redige_le": "2026-11-03T18:17:23.823Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/fa96619dac581d454fbc3b3def8e71d4566d938d.json"
+    },
     {
       "id": "8d682791d61bf5d2ed049b0c208b968629219b39",
       "slug": "lumiere-les-plantes-additionnent-plusieurs-sources-pour-choisir-ou-8d6827",

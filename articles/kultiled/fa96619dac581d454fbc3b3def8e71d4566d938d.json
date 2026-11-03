@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "fa96619dac581d454fbc3b3def8e71d4566d938d",
+  "slug": "eclairage-des-serres-le-neerlandais-dli-veut-miser-sur-les-resultats-fa9661",
+  "titre": "Éclairage des serres : le néerlandais DLI veut miser sur les résultats des cultivateurs",
+  "chapo": "Dutch Lighting Innovations, fournisseur néerlandais de lampes LED pour l'horticulture, change de discours. L'entreprise veut parler moins de ses luminaires et davantage de ce qu'ils permettent de récolter.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La société, installée à Aalsmeer, aux Pays-Bas, a dévoilé sa nouvelle identité lors de la Canadian Greenhouse Conference, un salon consacré aux serres au Canada. Fondée en 2015, elle emploie aujourd'hui environ 200 personnes. Son directeur général, Pim van Eijk, indique que les objectifs fixés pour 2025 sont atteints et que l'équipe prépare désormais un plan pour 2030.",
+        "Depuis 2020 et l'arrivée d'une nouvelle direction, DLI s'est consacrée entièrement à la LED, jusqu'à fabriquer ses propres luminaires. Les premiers modèles installés fonctionnent depuis cinq à six ans, avec, selon l'entreprise, une perte de lumière presque nulle et très peu de pannes."
+      ]
+    },
+    {
+      "intertitre": "Le rendement plutôt que le produit",
+      "paragraphes": [
+        "Pendant des années, la forte croissance a poussé l'entreprise à produire et à vendre sans relâche. Elle veut maintenant placer le cultivateur au centre et montrer ce qui a été obtenu avec ses clients. Sur son stand canadien, les lampes ont laissé place à un décor vert et noir.",
+        "Pour le dirigeant, les grands gains d'efficacité des LED ont déjà eu lieu : chaque génération progresse encore, mais de moins en moins. L'enjeu se déplace donc vers le pilotage de la lumière. DLI annonce un nouveau système de commande pour 2027, qui doit aussi faire remonter des données sur la serre."
+      ]
+    },
+    {
+      "intertitre": "Mieux utiliser la lumière",
+      "paragraphes": [
+        "Selon Pim van Eijk, la LED est souvent mal employée faute de connaissances, et les producteurs n'atteignent pas toujours leurs objectifs. L'entreprise veut les aider à transformer une lumière toujours plus intense en récolte supplémentaire, surtout là où la surface de serres recule, comme aux Pays-Bas.",
+        "Les sélectionneurs de variétés ont aussi un rôle à jouer. Pour la tomate, des travaux menés cette année ont montré que la plante ne tire pas encore le meilleur parti de l'éclairage LED."
+      ]
+    },
+    {
+      "intertitre": "Une présence sur plusieurs continents",
+      "paragraphes": [
+        "Les lampes de DLI équipent surtout des cultures de tomates et de concombres ; l'entreprise participe aussi à des recherches sur l'aubergine. Présente en culture d'intérieur et en fermes verticales depuis plus de dix ans, elle vise l'Europe de l'Ouest et reçoit des demandes d'Amérique du Nord.",
+        "Un partenariat avec P.L. Light Systems Canada permet d'assembler les luminaires sur place, et un responsable commercial pour cette région arrivera en 2027. En Asie, un partenaire chinois l'aide à équiper des serres au Japon, en Corée du Sud et en Chine. Un premier projet a aussi été vendu au Mexique cette année."
+      ]
+    }
+  ],
+  "mots": 424,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "NL"
+  ],
+  "tags": [
+    "legume:tomate",
+    "legume:concombre",
+    "legume:aubergine"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9887762/led-supplier-ready-for-next-step-selling-light-as-a-result/",
+  "publie_le": "2026-11-03T13:08:00.000Z",
+  "redige_le": "2026-11-03T18:17:23.823Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/fa96619dac581d454fbc3b3def8e71d4566d938d.webp",
+    "source": "wikimedia",
+    "credit": "Robert Bolen via Soltech Solutions",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:White_Full-Spectrum_LED_Aspect_Grow_Light.jpg",
+    "alt": "Des lampes LED horticoles éclairant des cultures sous serre",
+    "mots_cles": [
+      "LED grow light"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

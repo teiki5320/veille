@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-03T11:27:45.016Z",
+  "genere_le": "2026-11-03T18:17:20.201Z",
   "articles": [
+    {
+      "id": "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b",
+      "slug": "darya-et-dounya-diaty-diallo-fait-dialoguer-une-trentenaire-et-ado-qu-aa913d",
+      "titre": "« Darya et Dounya » : Diaty Diallo fait dialoguer une trentenaire et l'ado qu'elle fut",
+      "publie_le": "2026-11-03T16:34:11.000Z",
+      "redige_le": "2026-11-03T18:17:17.380Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/aa913d6f6b0069b14c895a3f4784d8cc784fcf8b.json"
+    },
     {
       "id": "d392547c993e6524fbeef43d913d65b4fe96905d",
       "slug": "exil-albouri-la-tragedie-de-cheik-aliou-ndao-relue-comme-une-epopee-d39254",

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b",
+  "slug": "darya-et-dounya-diaty-diallo-fait-dialoguer-une-trentenaire-et-ado-qu-aa913d",
+  "titre": "« Darya et Dounya » : Diaty Diallo fait dialoguer une trentenaire et l'ado qu'elle fut",
+  "chapo": "La romancière Diaty Diallo revient avec « Darya et Dounya », publié au Seuil. Le livre met en scène une femme de trente ans qui converse par écrit avec l'adolescente qu'elle était.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Deuxième roman de l'autrice, venue au monde en France en 1988, « Darya et Dounya » prend la forme d'une correspondance. D'un côté, Dounya, trente ans. De l'autre, Darya, le prénom qu'elle donne à la jeune fille qu'elle a été. L'écrivaine en a parlé le 3 novembre 2026 sur l'antenne de RFI, dans une émission consacrée aux livres et à ceux qui les écrivent.",
+        "Tout part d'un déménagement. En rangeant ses cartons, Dounya retrouve des papiers et des souvenirs de ses années de jeunesse. Elle décide alors de s'adresser directement à l'adolescente d'autrefois, et un échange s'installe entre les deux âges d'une même personne."
+      ]
+    },
+    {
+      "intertitre": "Une jeunesse et une époque",
+      "paragraphes": [
+        "À travers ce face-à-face intime, le roman raconte la vie d'une jeune femme noire qui a grandi en banlieue dans les années 1990. Il dépasse pourtant le seul récit personnel : il cherche aussi à saisir l'air du temps, les repères et les doutes de toute une génération.",
+        "Le titre réunit d'ailleurs les deux prénoms, comme deux voix qui se répondent d'une page à l'autre."
+      ]
+    },
+    {
+      "intertitre": "Une autrice venue du monde associatif",
+      "paragraphes": [
+        "Avant l'écriture, Diaty Diallo a travaillé dans des associations. Elle se présente aujourd'hui comme autrice et artiste : elle lit ses textes en public, les porte sur scène et les chante. Ses écrits mêlent poésie et engagement politique.",
+        "Son premier roman est sorti en 2022, déjà au Seuil. Depuis, elle a signé de nombreux textes pour des revues et des médias, tenu des chroniques à la radio, travaillé avec des troupes de théâtre et participé à des projets d'écriture à plusieurs mains."
+      ]
+    },
+    {
+      "intertitre": "Formation et résidences",
+      "paragraphes": [
+        "Elle est titulaire de deux masters, l'un consacré aux projets culturels menés dans la rue et les lieux publics, l'autre à la création littéraire. En 2023-2024, elle a été accueillie en résidence en Seine-Saint-Denis grâce à un programme réservé aux écrivains, puis, en 2024, par la Villa Albertine, le réseau de résidences d'artistes français aux États-Unis.",
+        "Le nouveau roman paraît chez le même éditeur que le premier, les éditions du Seuil."
+      ]
+    }
+  ],
+  "mots": 368,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [],
+  "source_nom": "RFI",
+  "source_url": "https://www.rfi.fr/fr/podcasts/de-vive-s-voix/20261103-darya-et-dounya-de-diaty-diallo-portrait-d-une-trentenaire-dans-le-doute",
+  "publie_le": "2026-11-03T16:34:11.000Z",
+  "redige_le": "2026-11-03T18:17:17.380Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/aa913d6f6b0069b14c895a3f4784d8cc784fcf8b.webp",
+    "source": "wikimedia",
+    "credit": "DeuxPlusQuatre",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Diaty_Diallo.jpg",
+    "alt": "Portrait de l'autrice Diaty Diallo",
+    "mots_cles": [
+      "Diaty Diallo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

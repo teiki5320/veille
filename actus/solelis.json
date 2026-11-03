@@ -1,8 +1,45 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-03T11:28:04.490Z",
+  "genere_le": "2026-11-03T18:17:25.351Z",
   "actus": [
+    {
+      "id": "19a63a70f60963f4c1339b174057c93c0248b294",
+      "titre": "Gifi placé en redressement judiciaire : six mois pour trouver une issue",
+      "resume": "La justice commerciale toulousaine a placé Gifi en redressement judiciaire le 3 novembre. L'enseigne de bazar, qui compte environ 500 magasins et 6 000 salariés, entre dans une période d'observation de six mois. Les magasins restent ouverts.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-fournisseurs"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/economie/philippe-ginestet/gifi-il-n-y-a-pas-eu-de-mauvaise-surprise-place-en-redressement-judiciaire-le-groupe-dispose-d-au-moins-six-mois-pour-se-reinventer-31359665.php",
+      "autres_sources": [
+        "https://www.franceinfo.fr/economie/apres-le-placement-en-redressement-judiciaire-du-groupe-gifi-les-6-000-salaries-sont-inquiets_8265887.html",
+        "https://www.ladepeche.fr/2026/11/03/gifi-en-redressement-judiciaire-notre-priorite-est-de-proteger-un-maximum-de-salaries-affirme-la-direction-de-lentreprise-13633957.php"
+      ],
+      "publie_le": "2026-11-03T15:35:07.000Z",
+      "collecte_le": "2026-11-03T18:17:25.351Z",
+      "langue": "fr",
+      "slug": "gifi-place-en-redressement-judiciaire-six-mois-pour-trouver-une-issue-19a63a",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/19a63a70f60963f4c1339b174057c93c0248b294.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/19a63a70f60963f4c1339b174057c93c0248b294.webp",
+        "source": "wikimedia",
+        "credit": "Sn-wp78",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Gifi_Marly-le-Roi.jpg",
+        "alt": "Un magasin de l'enseigne Gifi",
+        "mots_cles": [
+          "Gifi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3c7b4e7c9c753dcea726bb82573ca5a9520fff83",
       "titre": "Gironde et Landes : un prêt Bpifrance pour les petites entreprises touchées par les feux",

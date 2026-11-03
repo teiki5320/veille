@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "19a63a70f60963f4c1339b174057c93c0248b294",
+  "slug": "gifi-place-en-redressement-judiciaire-six-mois-pour-trouver-une-issue-19a63a",
+  "titre": "Gifi placé en redressement judiciaire : six mois pour trouver une issue",
+  "chapo": "L'enseigne Gifi, spécialiste des produits pour la maison à petit prix, est entrée en redressement judiciaire le 3 novembre 2026. Une période d'observation de six mois commence.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La juridiction commerciale de Toulouse a accepté la demande de protection déposée par le groupe, dont le siège se trouve à Villeneuve-sur-Lot, dans le Lot-et-Garonne. Dès le 11 octobre, Gifi s'était déclaré en cessation de paiements. Les juges auraient pu prononcer une liquidation ; ils ont retenu le redressement.",
+        "La direction reste en place, épaulée par deux administrateurs judiciaires, Me Bourbouloux et Me Fajolles. Une nouvelle audience est prévue le 8 janvier 2027."
+      ]
+    },
+    {
+      "intertitre": "Des pertes lourdes",
+      "paragraphes": [
+        "Le jugement pointe une performance durablement insuffisante. Fin 2025, les pertes opérationnelles atteignaient 100 millions d'euros, loin de l'objectif de 9 millions fixé par un accord de conciliation conclu en janvier. En 2026, les progrès du premier semestre ont été effacés par un été difficile : l'excédent brut d'exploitation prévu est revu à environ -58,8 millions d'euros, avec un trou de trésorerie de 25 à 30 millions d'euros depuis octobre.",
+        "La direction met en cause le recul du discount non alimentaire et la concurrence des sites de vente en ligne. Selon France 2, des concurrents comme Action ou Temu ont aussi réduit l'attrait de l'enseigne."
+      ]
+    },
+    {
+      "intertitre": "Salariés et fournisseurs",
+      "paragraphes": [
+        "Les magasins restent ouverts pendant la fin d'année, la période la plus importante pour le commerce. Les contrats de travail ne changent pas. Les salaires d'octobre, toujours pas versés au 3 novembre, seront pris en charge par l'AGS, le régime qui garantit les salaires en cas de procédure collective.",
+        "Pour les fournisseurs, la direction promet de régler les commandes passées à partir du 3 novembre. Les factures plus anciennes sont gelées par la procédure : comme le prévoit la loi, les entreprises concernées doivent déclarer leur créance aux mandataires judiciaires, ici Me Amizet et Me Payen, dans les deux mois qui suivent la publication du jugement au Bodacc."
+      ]
+    },
+    {
+      "intertitre": "Les pistes pour la suite",
+      "paragraphes": [
+        "Le groupe, créé en 1981 par Philippe Ginestet, qui en reste l'actionnaire principal, emploie environ 6 000 personnes dans quelque 500 magasins, dont près de 600 au siège. Entre 2025 et 2026, 67 points de vente déficitaires ont fermé et 26 sont passés sous l'enseigne Grand Frais. Les six mois d'observation serviront à étudier une cession, totale ou partielle, ou l'arrivée de nouveaux investisseurs."
+      ]
+    }
+  ],
+  "mots": 388,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-fournisseurs"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/philippe-ginestet/gifi-il-n-y-a-pas-eu-de-mauvaise-surprise-place-en-redressement-judiciaire-le-groupe-dispose-d-au-moins-six-mois-pour-se-reinventer-31359665.php",
+  "autres_sources": [
+    "https://www.franceinfo.fr/economie/apres-le-placement-en-redressement-judiciaire-du-groupe-gifi-les-6-000-salaries-sont-inquiets_8265887.html",
+    "https://www.ladepeche.fr/2026/11/03/gifi-en-redressement-judiciaire-notre-priorite-est-de-proteger-un-maximum-de-salaries-affirme-la-direction-de-lentreprise-13633957.php"
+  ],
+  "publie_le": "2026-11-03T15:35:07.000Z",
+  "redige_le": "2026-11-03T18:17:25.351Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/19a63a70f60963f4c1339b174057c93c0248b294.webp",
+    "source": "wikimedia",
+    "credit": "Sn-wp78",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gifi_Marly-le-Roi.jpg",
+    "alt": "Un magasin de l'enseigne Gifi",
+    "mots_cles": [
+      "Gifi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-03T11:28:01.757Z",
+  "genere_le": "2026-11-03T18:17:23.823Z",
   "actus": [
+    {
+      "id": "fa96619dac581d454fbc3b3def8e71d4566d938d",
+      "titre": "Éclairage des serres : le néerlandais DLI veut miser sur les résultats des cultivateurs",
+      "resume": "Le fabricant néerlandais de lampes LED pour serres Dutch Lighting Innovations a présenté au Canada sa nouvelle image. Avec environ 200 salariés, il veut mettre en avant la production obtenue par ses clients et lancera en 2027 un système de pilotage de l'éclairage.",
+      "theme": "culture-interieur",
+      "pays": [
+        "NL"
+      ],
+      "tags": [
+        "legume:tomate",
+        "legume:concombre",
+        "legume:aubergine"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9887762/led-supplier-ready-for-next-step-selling-light-as-a-result/",
+      "publie_le": "2026-11-03T13:08:00.000Z",
+      "collecte_le": "2026-11-03T18:17:23.823Z",
+      "langue": "en",
+      "slug": "eclairage-des-serres-le-neerlandais-dli-veut-miser-sur-les-resultats-fa9661",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/fa96619dac581d454fbc3b3def8e71d4566d938d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/fa96619dac581d454fbc3b3def8e71d4566d938d.webp",
+        "source": "wikimedia",
+        "credit": "Robert Bolen via Soltech Solutions",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:White_Full-Spectrum_LED_Aspect_Grow_Light.jpg",
+        "alt": "Des lampes LED horticoles éclairant des cultures sous serre",
+        "mots_cles": [
+          "LED grow light"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8d682791d61bf5d2ed049b0c208b968629219b39",
       "titre": "Lumière : les plantes additionnent plusieurs sources pour choisir où pousser",

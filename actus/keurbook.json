@@ -1,8 +1,36 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-03T11:27:45.011Z",
+  "genere_le": "2026-11-03T18:17:17.380Z",
   "actus": [
+    {
+      "id": "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b",
+      "titre": "« Darya et Dounya » : Diaty Diallo fait dialoguer une trentenaire et l'ado qu'elle fut",
+      "resume": "La romancière Diaty Diallo sort au Seuil son deuxième livre. Une femme de 30 ans y échange des lettres avec l'adolescente qu'elle a été, et dresse le portrait d'une jeunesse noire de banlieue dans les années 1990.",
+      "theme": "livres",
+      "pays": [],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/podcasts/de-vive-s-voix/20261103-darya-et-dounya-de-diaty-diallo-portrait-d-une-trentenaire-dans-le-doute",
+      "publie_le": "2026-11-03T16:34:11.000Z",
+      "collecte_le": "2026-11-03T18:17:17.380Z",
+      "langue": "fr",
+      "slug": "darya-et-dounya-diaty-diallo-fait-dialoguer-une-trentenaire-et-ado-qu-aa913d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/aa913d6f6b0069b14c895a3f4784d8cc784fcf8b.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/aa913d6f6b0069b14c895a3f4784d8cc784fcf8b.webp",
+        "source": "wikimedia",
+        "credit": "DeuxPlusQuatre",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Diaty_Diallo.jpg",
+        "alt": "Portrait de l'autrice Diaty Diallo",
+        "mots_cles": [
+          "Diaty Diallo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d392547c993e6524fbeef43d913d65b4fe96905d",
       "titre": "« L'Exil d'Albouri » : la tragédie de Cheik Aliou Ndao relue comme une épopée",

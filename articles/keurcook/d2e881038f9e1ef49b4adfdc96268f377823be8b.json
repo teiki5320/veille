@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "d2e881038f9e1ef49b4adfdc96268f377823be8b",
+  "slug": "afrique-du-sud-un-boulanger-du-cap-devient-le-premier-sommelier-du-d2e881",
+  "titre": "Afrique du Sud : un boulanger du Cap devient le premier sommelier du pain d'Afrique",
+  "chapo": "Un boulanger sud-africain vient de décrocher un titre rare : celui de sommelier du pain. Ricardo Slawers l'a obtenu grâce aux mosbolletjies, une spécialité du Cap à base de moût de raisin.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ricardo Slawers, 42 ans, travaille au domaine viticole de La Motte, dans la région des vignobles du Cap. Il a reçu sa distinction de la National Bakers Academy de Weinheim, en Allemagne, une école réputée dans le monde de la boulangerie. Il est le premier en Afrique à porter officiellement ce titre.",
+        "Pour l'obtenir, il a rédigé un mémoire sur une nouvelle version des mosbolletjies d'autrefois, puis préparé un pain soumis à la dégustation du jury."
+      ]
+    },
+    {
+      "intertitre": "Un pain venu des huguenots",
+      "paragraphes": [
+        "Les mosbolletjies sont de petits pains proches de la brioche. Leur histoire remonte aux huguenots, ces protestants français installés au Cap au XVIIe siècle. La pâte associe de la farine, du jus de raisin fermenté et de l'anis ou du fenouil, ce qui leur donne un goût légèrement sucré.",
+        "Le domaine où travaille Ricardo Slawers les sert dans son restaurant. Selon son directeur, Jaap-Henk Koelewijn, seules quelques pièces sortent du four chaque jour, et les clients font la file pour en avoir."
+      ]
+    },
+    {
+      "intertitre": "Presque aucun gaspillage",
+      "paragraphes": [
+        "Le directeur met aussi en avant l'intérêt de ce pain contre le gaspillage. Le moût de raisin utilisé est presque un résidu de la fabrication du vin. Et quand le pain sèche, rien n'est perdu : on peut encore le transformer en biscotte."
+      ]
+    },
+    {
+      "intertitre": "Des années d'efforts",
+      "paragraphes": [
+        "Le boulanger raconte avoir commencé à se former à 18 ans. La dernière année de préparation a été particulièrement intense : il devait mener l'examen de front avec son travail, dans une boulangerie qui manquait de personnel.",
+        "Ce titre est souvent comparé à une étoile Michelin dans l'univers du pain. La formation allemande prépare des spécialistes capables de juger le goût et les arômes, et de connaître les grandes traditions boulangères de la planète."
+      ]
+    }
+  ],
+  "mots": 318,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "Africanews",
+  "source_url": "http://fr.africanews.com/2026/11/03/afrique-du-sud-les-pains-mosbolletjies-entrent-sur-la-scene-internationale/",
+  "publie_le": "2026-11-03T16:08:54.000Z",
+  "redige_le": "2026-11-03T18:17:20.209Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/d2e881038f9e1ef49b4adfdc96268f377823be8b.webp",
+    "source": "wikimedia",
+    "credit": "Lucinda jolly",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mosbolletjies_with_green_fig_preserve.JPG",
+    "alt": "Des mosbolletjies, pains briochés traditionnels d'Afrique du Sud",
+    "mots_cles": [
+      "Mosbolletjies"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

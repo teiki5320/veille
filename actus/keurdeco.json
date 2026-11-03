@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-03T11:27:47.290Z",
+  "genere_le": "2026-11-03T18:17:21.789Z",
   "actus": [
+    {
+      "id": "a22efc30026ff20aebe5c78decd47dacd4b92ffd",
+      "titre": "Le designer Yinka Ilori revisite le maillot extérieur de Tottenham",
+      "resume": "Le designer britannico-nigérian Yinka Ilori a signé, avec Tottenham Hotspur, une version personnalisée du maillot extérieur du club londonien. Il y a ajouté deux motifs colorés, devant et dans le dos, dessinés avec sa propre police de caractères.",
+      "theme": "deco",
+      "pays": [
+        "GB",
+        "NG"
+      ],
+      "source_nom": "Dezeen",
+      "source_url": "https://www.dezeen.com/2026/11/03/yinka-ilori-tottenham-hotspur-away-shirt/",
+      "publie_le": "2026-11-03T11:00:00.000Z",
+      "collecte_le": "2026-11-03T18:17:21.789Z",
+      "langue": "en",
+      "slug": "le-designer-yinka-ilori-revisite-le-maillot-exterieur-de-tottenham-a22efc",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/a22efc30026ff20aebe5c78decd47dacd4b92ffd.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/a22efc30026ff20aebe5c78decd47dacd4b92ffd.webp",
+        "source": "wikimedia",
+        "credit": "CraftsCouncil",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Yinka_ilori_2021_1.jpg",
+        "alt": "Le designer britannique Yinka Ilori",
+        "mots_cles": [
+          "Yinka Ilori"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "fc09eaeebc908d0d6e4e0752aa4010daf1570669",
       "titre": "Casablanca : Driss Kettani organise une villa triangulaire autour d'un escalier en spirale",

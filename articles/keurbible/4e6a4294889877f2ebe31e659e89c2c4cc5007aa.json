@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "4e6a4294889877f2ebe31e659e89c2c4cc5007aa",
+  "slug": "cote-ivoire-eglise-relance-sa-pastorale-des-migrants-et-des-gens-de-la-4e6a42",
+  "titre": "Côte d'Ivoire : l'Église relance sa pastorale des migrants et des gens de la route",
+  "chapo": "L'Église catholique de Côte d'Ivoire a lancé, le 1er novembre à Abobo, la nouvelle année de son service tourné vers les personnes en déplacement. Au programme : espérance, entraide et sécurité sur les routes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La structure concernée est une sous-commission de la conférence des évêques. Elle accompagne les gens de mer, mais aussi des migrants, des réfugiés, des touristes et de tous ceux qui voyagent. Son année pastorale 2026-2027 s'est ouverte par une messe célébrée le dimanche 1er novembre, jour de la Toussaint, à Abobo, une commune du nord d'Abidjan.",
+        "Dans son homélie, le prêtre Emmanuel Aka Amon, qui dirige la structure au niveau national, a pris les saints en exemple. Selon lui, les membres doivent, comme eux, cultiver l'espérance et montrer à ceux qu'ils accompagnent que le Seigneur reste à leurs côtés."
+      ]
+    },
+    {
+      "intertitre": "Des moyens limités",
+      "paragraphes": [
+        "Après la célébration, les membres se sont retrouvés pour une séance de travail. Ils ont fait le point sur les difficultés rencontrées et sur les pistes pour donner plus d'écho à leur mission.",
+        "Le père Amon a reconnu un manque de bras et d'argent. La sous-commission n'a pas de ressources propres et vit surtout de la solidarité. Il a donc demandé à chacun de se rendre disponible pour un service qu'il juge exigeant, souvent mené dans des conditions difficiles."
+      ]
+    },
+    {
+      "intertitre": "Priorité à la sécurité routière",
+      "paragraphes": [
+        "Parmi les chantiers de l'année figure la pastorale consacrée aux routes et aux gares. L'objectif est d'abord de la faire connaître dans les paroisses, puis d'impliquer les chrétiens dans la protection des voyageurs et des familles.",
+        "Le prêtre s'appuie sur les chiffres du Conseil national de sécurité. En juillet 2026, on comptait 1 549 accidents de la circulation ; en août, 1 657, soit une hausse d'environ 7 %. Il souhaite des campagnes de prévention plus nombreuses, en particulier dans les gares routières."
+      ]
+    },
+    {
+      "intertitre": "Le monde maritime aussi",
+      "paragraphes": [
+        "La sous-commission veut également redonner vie à l'AIGISM, une association qui rassemble des acteurs sociaux du secteur maritime et dont l'activité ralentit. Le père Amon invite les syndicats, les directions maritimes et le Port autonome d'Abidjan à se concerter pour mieux tenir compte des besoins des travailleurs de la mer.",
+        "Malgré ces contraintes, l'Église ivoirienne entend poursuivre son accompagnement des personnes en mouvement, en faisant de l'entraide un moyen de défendre leur dignité."
+      ]
+    }
+  ],
+  "mots": 380,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "CI"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/cote-d-ivoire-lancement-des-activites-de-la-pastorale.html",
+  "publie_le": "2026-11-03T11:54:00.000Z",
+  "redige_le": "2026-11-03T18:17:14.038Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/4e6a4294889877f2ebe31e659e89c2c4cc5007aa.webp",
+    "source": "wikimedia",
+    "credit": "Kod B",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Abobo_Commune_Tunnel_in_Abidjan,_C%C3%B4te_d%27Ivoire_02.jpg",
+    "alt": "Vue d'Abobo, commune d'Abidjan, en Côte d'Ivoire",
+    "mots_cles": [
+      "Abobo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

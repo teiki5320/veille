@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-03T11:27:51.779Z",
+  "genere_le": "2026-11-03T18:17:23.797Z",
   "articles": [
+    {
+      "id": "a22efc30026ff20aebe5c78decd47dacd4b92ffd",
+      "slug": "le-designer-yinka-ilori-revisite-le-maillot-exterieur-de-tottenham-a22efc",
+      "titre": "Le designer Yinka Ilori revisite le maillot extérieur de Tottenham",
+      "publie_le": "2026-11-03T11:00:00.000Z",
+      "redige_le": "2026-11-03T18:17:21.789Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/a22efc30026ff20aebe5c78decd47dacd4b92ffd.json"
+    },
     {
       "id": "fc09eaeebc908d0d6e4e0752aa4010daf1570669",
       "slug": "casablanca-driss-kettani-organise-une-villa-triangulaire-autour-un-fc09ea",

@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-03T11:27:45.028Z",
+  "genere_le": "2026-11-03T18:17:20.209Z",
   "actus": [
+    {
+      "id": "d2e881038f9e1ef49b4adfdc96268f377823be8b",
+      "titre": "Afrique du Sud : un boulanger du Cap devient le premier sommelier du pain d'Afrique",
+      "resume": "Ricardo Slawers, boulanger d'un domaine viticole du Cap, est désormais reconnu sommelier du pain par une école allemande, grâce à une recette de mosbolletjies, petits pains briochés au moût de raisin. Personne en Afrique n'avait reçu cette distinction avant lui.",
+      "theme": "cuisine",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Africanews",
+      "source_url": "http://fr.africanews.com/2026/11/03/afrique-du-sud-les-pains-mosbolletjies-entrent-sur-la-scene-internationale/",
+      "publie_le": "2026-11-03T16:08:54.000Z",
+      "collecte_le": "2026-11-03T18:17:20.209Z",
+      "langue": "fr",
+      "slug": "afrique-du-sud-un-boulanger-du-cap-devient-le-premier-sommelier-du-d2e881",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/d2e881038f9e1ef49b4adfdc96268f377823be8b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/d2e881038f9e1ef49b4adfdc96268f377823be8b.webp",
+        "source": "wikimedia",
+        "credit": "Lucinda jolly",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mosbolletjies_with_green_fig_preserve.JPG",
+        "alt": "Des mosbolletjies, pains briochés traditionnels d'Afrique du Sud",
+        "mots_cles": [
+          "Mosbolletjies"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "cdc6fd652381463bc4aa39dd26239afdd4f20188",
       "titre": "Sénégal : dans les Niayes, le bissap pousse désormais aussi en saison sèche",

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-03T11:27:47.281Z",
+  "genere_le": "2026-11-03T18:17:21.786Z",
   "articles": [
+    {
+      "id": "d2e881038f9e1ef49b4adfdc96268f377823be8b",
+      "slug": "afrique-du-sud-un-boulanger-du-cap-devient-le-premier-sommelier-du-d2e881",
+      "titre": "Afrique du Sud : un boulanger du Cap devient le premier sommelier du pain d'Afrique",
+      "publie_le": "2026-11-03T16:08:54.000Z",
+      "redige_le": "2026-11-03T18:17:20.209Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/d2e881038f9e1ef49b4adfdc96268f377823be8b.json"
+    },
     {
       "id": "cdc6fd652381463bc4aa39dd26239afdd4f20188",
       "slug": "senegal-dans-les-niayes-le-bissap-pousse-desormais-aussi-en-saison-cdc6fd",

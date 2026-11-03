@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-03T11:27:45.009Z",
+  "genere_le": "2026-11-03T18:17:17.377Z",
   "articles": [
+    {
+      "id": "4e6a4294889877f2ebe31e659e89c2c4cc5007aa",
+      "slug": "cote-ivoire-eglise-relance-sa-pastorale-des-migrants-et-des-gens-de-la-4e6a42",
+      "titre": "Côte d'Ivoire : l'Église relance sa pastorale des migrants et des gens de la route",
+      "publie_le": "2026-11-03T11:54:00.000Z",
+      "redige_le": "2026-11-03T18:17:14.038Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/4e6a4294889877f2ebe31e659e89c2c4cc5007aa.json"
+    },
     {
       "id": "f23b33cb7b9e97749e469a92912840b6aa69f933",
       "slug": "afrique-du-sud-le-nonce-cite-benedict-daswa-en-modele-de-saintete-au-f23b33",

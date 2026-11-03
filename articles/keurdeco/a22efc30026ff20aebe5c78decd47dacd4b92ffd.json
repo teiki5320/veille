@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "a22efc30026ff20aebe5c78decd47dacd4b92ffd",
+  "slug": "le-designer-yinka-ilori-revisite-le-maillot-exterieur-de-tottenham-a22efc",
+  "titre": "Le designer Yinka Ilori revisite le maillot extérieur de Tottenham",
+  "chapo": "Le designer Yinka Ilori, né à Londres de parents nigérians, a imaginé une édition spéciale du maillot extérieur de Tottenham Hotspur. Il y appose ses graphismes vifs et sa propre typographie.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le club de Premier League a présenté cette collaboration début novembre 2026. Le maillot extérieur de la saison, déjà très coloré, conserve son motif d'origine, que le club dit inspiré de destinations imaginaires. Yinka Ilori y ajoute deux graphismes, l'un sur la poitrine, l'autre dans le dos."
+      ]
+    },
+    {
+      "intertitre": "Un écusson rond sur la poitrine",
+      "paragraphes": [
+        "À l'endroit où figure d'ordinaire le logo du sponsor, le designer place un motif circulaire. Il réunit les initiales du club, THFC, une abréviation de Londres et le code postal de Tottenham, ce qui donne LDN17. Les lettres sont orange vif sur fond blanc.",
+        "Dans le dos, le dessin s'organise autour de COYS, pour « Come On You Spurs », un encouragement bien connu des supporters. Autour, des paroles de chants de tribune s'enroulent en cercles, dans le style ludique propre au créateur."
+      ]
+    },
+    {
+      "intertitre": "Une police créée pour lui",
+      "paragraphes": [
+        "Tous les textes utilisent la typographie personnelle de Yinka Ilori, dessinée en 2024 par la fonderie British Standard Type.",
+        "Le créateur a grandi dans le nord de Londres, le quartier où se trouve le stade de Tottenham. Il explique avoir voulu célébrer le sentiment d'appartenance et la capacité du football à réunir les gens, à l'image des tribunes où des milliers de voix chantent ensemble. Il dit aussi avoir voulu rendre hommage à l'histoire du club."
+      ]
+    },
+    {
+      "intertitre": "Un designer très demandé",
+      "paragraphes": [
+        "Le thème choisi par le club pour ce maillot, l'idée de ne jamais être loin de chez soi, a particulièrement parlé au designer : pour lui, le football peut donner l'impression d'être à la maison, où que l'on soit.",
+        "Yinka Ilori est connu pour ses couleurs franches et ses motifs joyeux, souvent nourris de ses racines nigérianes. Ces derniers mois, il a travaillé avec Brabantia et Veuve Clicquot, et a créé une collection de meubles et d'objets pour la maison destinée à l'enseigne britannique Dunelm."
+      ]
+    }
+  ],
+  "mots": 337,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "GB",
+    "NG"
+  ],
+  "source_nom": "Dezeen",
+  "source_url": "https://www.dezeen.com/2026/11/03/yinka-ilori-tottenham-hotspur-away-shirt/",
+  "publie_le": "2026-11-03T11:00:00.000Z",
+  "redige_le": "2026-11-03T18:17:21.789Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/a22efc30026ff20aebe5c78decd47dacd4b92ffd.webp",
+    "source": "wikimedia",
+    "credit": "CraftsCouncil",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Yinka_ilori_2021_1.jpg",
+    "alt": "Le designer britannique Yinka Ilori",
+    "mots_cles": [
+      "Yinka Ilori"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
