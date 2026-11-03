@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-02T18:21:12.306Z",
+  "genere_le": "2026-11-03T11:27:47.281Z",
   "articles": [
+    {
+      "id": "cdc6fd652381463bc4aa39dd26239afdd4f20188",
+      "slug": "senegal-dans-les-niayes-le-bissap-pousse-desormais-aussi-en-saison-cdc6fd",
+      "titre": "Sénégal : dans les Niayes, le bissap pousse désormais aussi en saison sèche",
+      "publie_le": "2026-11-03T10:49:24.000Z",
+      "redige_le": "2026-11-03T11:27:45.028Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/cdc6fd652381463bc4aa39dd26239afdd4f20188.json"
+    },
     {
       "id": "3564f35fc42ac88de596fde6ddf9a47e363657b8",
       "slug": "tunisie-testour-la-grenade-fetee-en-jus-confitures-et-melasse-pour-la-3564f3",

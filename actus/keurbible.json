@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-02T18:21:12.286Z",
+  "genere_le": "2026-11-03T11:27:39.756Z",
   "actus": [
+    {
+      "id": "f23b33cb7b9e97749e469a92912840b6aa69f933",
+      "titre": "Afrique du Sud : le nonce cite Benedict Daswa en modèle de sainteté au quotidien",
+      "resume": "Lors des vêpres de la Toussaint à Johannesburg, le représentant du pape en Afrique du Sud a invité les catholiques à s'inspirer du bienheureux Benedict Daswa. Cet enseignant du Limpopo est présenté comme un exemple de fidélité vécue en famille, à l'école, au travail et au service des siens.",
+      "theme": "culture",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25077/catholics-in-south-africa-urged-to-emulate-blessed-benedict-daswas-fidelity-to-christ-amid-lifes-challenges",
+      "publie_le": "2026-11-02T20:45:00.000Z",
+      "collecte_le": "2026-11-03T11:27:39.756Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-le-nonce-cite-benedict-daswa-en-modele-de-saintete-au-f23b33",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/f23b33cb7b9e97749e469a92912840b6aa69f933.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/f23b33cb7b9e97749e469a92912840b6aa69f933.webp",
+        "source": "openverse",
+        "credit": "A.Davey",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/40595948@N00/2790650035",
+        "alt": "Une église catholique en Afrique",
+        "mots_cles": [
+          "catholic church south africa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "8de5e98461a3ede33df521684265d2f079984d5a",
+      "titre": "Soudan du Sud : Mgr Paride Taban, bâtisseur de paix, honoré pour le jour des défunts",
+      "resume": "Mort le jour de la Toussaint 2023 à 87 ans, le premier évêque de Torit a été salué par Mgr Edward Hiiboro Kussala dans un message pour la commémoration des fidèles défunts. Il rend hommage à son courage, à son humilité et au village de la paix qu'il avait fondé à Kuron.",
+      "theme": "culture",
+      "pays": [
+        "SS"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25083/south-sudanese-catholic-bishop-who-died-on-all-saints-day-remembered-for-legacy-of-peace",
+      "publie_le": "2026-11-02T20:40:00.000Z",
+      "collecte_le": "2026-11-03T11:27:39.756Z",
+      "langue": "en",
+      "slug": "soudan-du-sud-mgr-paride-taban-batisseur-de-paix-honore-pour-le-jour-8de5e9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/8de5e98461a3ede33df521684265d2f079984d5a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/8de5e98461a3ede33df521684265d2f079984d5a.webp",
+        "source": "wikimedia",
+        "credit": "U.S. Embassy South Sudan",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Amb_Page_visits_Kuron_peace_village_with_Bishop_Taban.jpg",
+        "alt": "Mgr Paride Taban, premier évêque catholique de Torit au Soudan du Sud",
+        "mots_cles": [
+          "Paride Taban"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c3ec21cbc97a628b7fd89087939d30c804466919",
       "titre": "« The Oratory » : un prêtre salésien nigérian prévoit dix films catholiques",

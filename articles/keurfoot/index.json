@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-02T18:21:16.951Z",
+  "genere_le": "2026-11-03T11:28:01.751Z",
   "articles": [
+    {
+      "id": "957aebe86121bfb81dcffb9b2e8ab0e653d55199",
+      "slug": "ligue-1-senegalaise-teungueth-fc-remporte-entraineur-joueur-et-gardien-957aeb",
+      "titre": "Ligue 1 sénégalaise : Teungueth FC remporte entraîneur, joueur et gardien de l'année",
+      "publie_le": "2026-11-03T11:13:35.000Z",
+      "redige_le": "2026-11-03T11:27:51.796Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/957aebe86121bfb81dcffb9b2e8ab0e653d55199.json"
+    },
+    {
+      "id": "d96fa8e6347d468c546e91c5c0cbc6e82b775666",
+      "slug": "caf-awards-2026-le-cameroun-place-trois-joueuses-parmi-les-dix-d96fa8",
+      "titre": "CAF Awards 2026 : le Cameroun place trois joueuses parmi les dix candidates de l'année",
+      "publie_le": "2026-11-03T11:03:45.000Z",
+      "redige_le": "2026-11-03T11:27:51.796Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/d96fa8e6347d468c546e91c5c0cbc6e82b775666.json"
+    },
+    {
+      "id": "820105006eea426262cd8f39c1dbc4cdd7337fb9",
+      "slug": "eliminatoires-can-2027-lilian-brassier-rejoint-le-togo-pour-affronter-820105",
+      "titre": "Éliminatoires CAN 2027 : Lilian Brassier rejoint le Togo pour affronter l'Algérie",
+      "publie_le": "2026-11-03T10:16:23.000Z",
+      "redige_le": "2026-11-03T11:27:51.796Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.json"
+    },
+    {
+      "id": "7d4ab2d636c98c64938fc989086f8f49845d48d6",
+      "slug": "guinee-entourage-de-naby-keita-conteste-la-version-du-selectionneur-7d4ab2",
+      "titre": "Guinée : l'entourage de Naby Keita conteste la version du sélectionneur Paulo Duarte",
+      "publie_le": "2026-11-03T09:43:00.000Z",
+      "redige_le": "2026-11-03T11:27:51.796Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7d4ab2d636c98c64938fc989086f8f49845d48d6.json"
+    },
     {
       "id": "27cdf73732867be23bfcf05c31b9457fcfb0dda9",
       "slug": "fifpro-world-11-2026-hakimi-unique-joueur-africain-de-la-preselection-27cdf7",

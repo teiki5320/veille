@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f3c22a36090a74b3c5d2cf34cf2531b9a3026c90",
+  "slug": "tpe-optimisme-des-patrons-tombe-35-au-plus-bas-depuis-2014-f3c22a",
+  "titre": "TPE : l'optimisme des patrons tombe à 35 %, au plus bas depuis 2014",
+  "chapo": "Le moral des dirigeants de très petites entreprises s'est effondré cet automne. Le baromètre Ifop-Fiducial relève 19 points d'optimisme en moins en un trimestre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Entre le 21 septembre et le 9 octobre, l'Ifop a joint par téléphone 1 006 chefs de structures employant moins de 20 personnes, pour la 85e édition de ce baromètre trimestriel. Les structures dont le chiffre d'affaires annuel reste sous 50 000 euros n'ont pas été sondées.",
+        "Au troisième trimestre 2026, 35 % des dirigeants se disent confiants pour leur propre activité, contre 54 % trois mois plus tôt. C'est le niveau le plus faible depuis le troisième trimestre 2014. La confiance dans le climat général des affaires recule de 16 points, à 10 %."
+      ]
+    },
+    {
+      "intertitre": "Trésorerie sous tension",
+      "paragraphes": [
+        "Les difficultés financières touchent 44 % des patrons interrogés, soit une hausse de 11 points en trois mois. La hausse des prix est le premier frein au développement, citée par 84 % d'entre eux, devant le coût de l'énergie (82 %). La situation du pays, les charges sociales et les impôts, tout comme les démarches administratives, recueillent chacun 80 % des réponses.",
+        "Faute de visibilité, 77 % préfèrent attendre avant d'investir ou de recruter. Seuls 11 % ont embauché ou prévoyaient un recrutement d'ici fin septembre, tandis que 10 % ont supprimé ou envisagent de supprimer des postes."
+      ]
+    },
+    {
+      "intertitre": "Une défiance record",
+      "paragraphes": [
+        "Neuf dirigeants sur dix se méfient de la politique économique de l'exécutif, un record pour ce baromètre, en hausse de 7 points. Fiducial relie cette défiance à la flambée des carburants, à l'assombrissement des perspectives du pays et aux tensions sur la dette publique."
+      ]
+    },
+    {
+      "intertitre": "Les attentes avant 2027",
+      "paragraphes": [
+        "À l'approche de l'élection présidentielle, dont le premier tour est fixé au 18 avril 2027, les patrons de TPE attendent d'abord des propositions concernant la rémunération et le pouvoir d'achat (52 %). Ils sont 83 % à juger leurs enjeux mal compris des candidats, et autant à souhaiter un plan d'aide d'abord destiné aux TPE et PME."
+      ]
+    }
+  ],
+  "mots": 328,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Journal des Entreprises",
+  "source_url": "https://www.lejournaldesentreprises.com/article/fiducial-releve-un-recul-de-19-points-de-loptimisme-des-patrons-de-tpe-pour-leur-activite-2148288",
+  "autres_sources": [
+    "https://mesinfos.fr/75000-paris/barometre-fiducial-90-percent-des-dirigeants-de-tpe-defiants-envers-le-gouvernement-342223.html"
+  ],
+  "publie_le": "2026-11-03T08:07:21.000Z",
+  "redige_le": "2026-11-03T11:28:04.490Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f3c22a36090a74b3c5d2cf34cf2531b9a3026c90.webp",
+    "source": "wikimedia",
+    "credit": "Tomahawk Tasmania",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:TaggedCamponotus1.jpg",
+    "alt": "Le groupe Fiducial, qui publie le baromètre des TPE avec l'Ifop",
+    "mots_cles": [
+      "Fiducial"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

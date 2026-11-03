@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-02T18:21:12.304Z",
+  "genere_le": "2026-11-03T11:27:45.028Z",
   "actus": [
+    {
+      "id": "cdc6fd652381463bc4aa39dd26239afdd4f20188",
+      "titre": "Sénégal : dans les Niayes, le bissap pousse désormais aussi en saison sèche",
+      "resume": "Dans les Niayes, des agricultrices font pousser l'oseille de Guinée toute l'année. Ses feuilles vertes, cueillies quatre semaines après le semis, servent aux sauces acidulées qui accompagnent riz et fonio, tandis que le bissap rouge est très recherché pendant le ramadan.",
+      "theme": "cuisine",
+      "pays": [
+        "SN"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/agriculture-dans-les-niayes-le-bissap-une-alternative-aux-difficultes-du-maraichage",
+      "publie_le": "2026-11-03T10:49:24.000Z",
+      "collecte_le": "2026-11-03T11:27:45.028Z",
+      "langue": "fr",
+      "slug": "senegal-dans-les-niayes-le-bissap-pousse-desormais-aussi-en-saison-cdc6fd",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/cdc6fd652381463bc4aa39dd26239afdd4f20188.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/cdc6fd652381463bc4aa39dd26239afdd4f20188.webp",
+        "source": "wikimedia",
+        "credit": "Mokkie",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Roselle_(Hibiscus_sabdariffa)_2.jpg",
+        "alt": "Un plant d'oseille de Guinée (Hibiscus sabdariffa), la plante du bissap",
+        "mots_cles": [
+          "Hibiscus sabdariffa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3564f35fc42ac88de596fde6ddf9a47e363657b8",
       "titre": "Tunisie : à Testour, la grenade fêtée en jus, confitures et mélasse pour la 10e édition",

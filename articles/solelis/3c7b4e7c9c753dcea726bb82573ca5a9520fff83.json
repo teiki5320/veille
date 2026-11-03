@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "3c7b4e7c9c753dcea726bb82573ca5a9520fff83",
+  "slug": "gironde-et-landes-un-pret-bpifrance-pour-les-petites-entreprises-3c7b4e",
+  "titre": "Gironde et Landes : un prêt Bpifrance pour les petites entreprises touchées par les feux",
+  "chapo": "Les petites sociétés girondines et landaises sinistrées par les incendies de l'été peuvent demander depuis le 2 novembre un prêt dédié, porté par Bpifrance avec le soutien de la Région.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Baptisé Prêt Rebond Post-Incendies, ce financement s'adresse aux entreprises de moins de 50 salariés installées en Gironde ou dans les Landes et touchées par les feux de fin juillet. Son montant se situe entre 5 000 et 50 000 euros ; la demande se fait en ligne, sur la plateforme de Bpifrance, jusqu'au 30 juin 2027. Selon les deux partenaires, l'argent est versé sous dix jours."
+      ]
+    },
+    {
+      "intertitre": "Des conditions souples",
+      "paragraphes": [
+        "Le prêt peut couvrir les besoins d'exploitation d'une activité qui redémarre ou grandit, des investissements immatériels ou un renfort de trésorerie. Son taux est fixe et bonifié par la Région. Il se rembourse sur cinq ans, avec un an sans amortissement du capital, ou sur sept ans, avec deux ans de différé.",
+        "Aucune caution personnelle ni sûreté réelle n'est exigée. L'artisanat, le tourisme, l'agriculture et les activités saisonnières sont cités parmi les secteurs les plus exposés."
+      ]
+    },
+    {
+      "intertitre": "Qui peut en bénéficier",
+      "paragraphes": [
+        "L'entreprise doit rester viable malgré un problème de trésorerie passager dû aux incendies. Elle doit être suivie par un expert-comptable, qui joue le rôle de tiers de confiance, disposer d'un compte pro et autoriser la banque publique à consulter ses derniers relevés. Une banque ou un autre partenaire financier doit aussi apporter un montant équivalent, sur trois ans au moins, avec un accord signé après le 1er septembre 2026."
+      ]
+    },
+    {
+      "intertitre": "Un plan régional de 14 mesures",
+      "paragraphes": [
+        "Ce prêt fait partie du plan exceptionnel de la Région, dont les premières mesures ont été votées le 28 septembre à Bordeaux. Il doit mobiliser jusqu'à 127 millions d'euros pour aider entreprises et collectivités sinistrées à repartir, protéger l'emploi et mieux faire face aux risques climatiques. Bpifrance y contribue aussi par le fonds régional de garantie. Le plan prolonge Néo Terra, le programme régional consacré à la transition écologique."
+      ]
+    }
+  ],
+  "mots": 323,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:credit-bancaire"
+  ],
+  "source_nom": "Le Journal des Entreprises",
+  "source_url": "https://www.lejournaldesentreprises.com/article/bpifrance-et-la-region-nouvelle-aquitaine-ouvrent-un-pret-aux-entreprises-touchees-par-les-incendies-2148290",
+  "publie_le": "2026-11-03T08:54:56.000Z",
+  "redige_le": "2026-11-03T11:28:04.490Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/3c7b4e7c9c753dcea726bb82573ca5a9520fff83.webp",
+    "source": "wikimedia",
+    "credit": "Boubloub",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:6_Haussmann.jpg",
+    "alt": "Bpifrance, la banque publique d'investissement",
+    "mots_cles": [
+      "Bpifrance"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

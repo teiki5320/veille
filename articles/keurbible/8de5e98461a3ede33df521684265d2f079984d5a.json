@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "8de5e98461a3ede33df521684265d2f079984d5a",
+  "slug": "soudan-du-sud-mgr-paride-taban-batisseur-de-paix-honore-pour-le-jour-8de5e9",
+  "titre": "Soudan du Sud : Mgr Paride Taban, bâtisseur de paix, honoré pour le jour des défunts",
+  "chapo": "Trois ans après sa mort, Mgr Paride Taban, premier évêque de Torit, a été célébré au Soudan du Sud pour son humilité et son engagement en faveur de la paix.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans un message publié le lundi 2 novembre, jour de la commémoration des fidèles défunts, Mgr Edward Hiiboro Kussala, évêque de Tombura-Yambio, a rendu hommage à son aîné. Il voit dans son œuvre un héritage durable pour le pays et pour ceux qui viendront après.",
+        "Paride Taban est mort le 1er novembre 2023, à 87 ans. Mgr Hiiboro, qui préside la commission Justice et Paix de la conférence des évêques du Soudan et du Soudan du Sud, a souligné qu'il s'était éteint le jour où l'Église fête tous les saints."
+      ]
+    },
+    {
+      "intertitre": "Un pasteur resté auprès des siens",
+      "paragraphes": [
+        "Né à Katire en 1936, Paride Taban est ordonné prêtre en mai 1964. Il devient évêque auxiliaire de Juba en janvier 1980, puis premier évêque du diocèse de Torit en juillet 1983.",
+        "Pendant les longues années de guerre au Soudan, une partie du clergé doit se réfugier dans les pays voisins. Lui reste la plupart du temps sur place, depuis Narus, dans l'Équatoria-Oriental, et rend aussi visite aux fidèles d'autres diocèses dont les évêques ne pouvaient plus rejoindre une grande partie de leur territoire."
+      ]
+    },
+    {
+      "intertitre": "Le village de la paix de Kuron",
+      "paragraphes": [
+        "En 2000, il fonde le village de la paix de la Sainte-Trinité, à Kuron, près des frontières du Kenya et de l'Ouganda. Des habitants issus de groupes ethniques différents y vivent et y travaillent ensemble. Après avoir quitté la tête de son diocèse en 2004, il se consacre pleinement à ce projet.",
+        "Son action lui a valu plusieurs distinctions, dont le prix Sergio Vieira de Mello pour la paix, remis par l'ancien secrétaire général de l'ONU Ban Ki-moon, et le prix Hubert Walter de l'archevêque de Cantorbéry. Cette récompense saluait aussi son rôle dans la naissance du Conseil des Églises du Nouveau Soudan, qu'il fut le premier à diriger."
+      ]
+    }
+  ],
+  "mots": 326,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "SS"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25083/south-sudanese-catholic-bishop-who-died-on-all-saints-day-remembered-for-legacy-of-peace",
+  "publie_le": "2026-11-02T20:40:00.000Z",
+  "redige_le": "2026-11-03T11:27:39.756Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/8de5e98461a3ede33df521684265d2f079984d5a.webp",
+    "source": "wikimedia",
+    "credit": "U.S. Embassy South Sudan",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Amb_Page_visits_Kuron_peace_village_with_Bishop_Taban.jpg",
+    "alt": "Mgr Paride Taban, premier évêque catholique de Torit au Soudan du Sud",
+    "mots_cles": [
+      "Paride Taban"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

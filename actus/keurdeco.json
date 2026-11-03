@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-02T18:21:12.311Z",
+  "genere_le": "2026-11-03T11:27:47.290Z",
   "actus": [
+    {
+      "id": "fc09eaeebc908d0d6e4e0752aa4010daf1570669",
+      "titre": "Casablanca : Driss Kettani organise une villa triangulaire autour d'un escalier en spirale",
+      "resume": "À Casablanca, l'architecte Driss Kettani a conçu pour une artiste une villa de 550 m² sur un terrain triangulaire en pente. Un escalier en colimaçon placé au centre dessert les niveaux, tandis que granito, noyer et zellige turquoise composent une palette sobre.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/interieurs/cap-sur-la-lumiere",
+      "publie_le": "2026-11-03T10:14:52.000Z",
+      "collecte_le": "2026-11-03T11:27:47.290Z",
+      "langue": "fr",
+      "slug": "casablanca-driss-kettani-organise-une-villa-triangulaire-autour-un-fc09ea",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/fc09eaeebc908d0d6e4e0752aa4010daf1570669.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/fc09eaeebc908d0d6e4e0752aa4010daf1570669.webp",
+        "source": "wikimedia",
+        "credit": "Pere López Brosa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Urbanitzaci%C3%B3_Casablanca_-_P1040487.jpg",
+        "alt": "Une vue de la ville de Casablanca, au Maroc",
+        "mots_cles": [
+          "Casablanca"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "4bc44168b9f656361d22403ed7864f938c014b41",
+      "titre": "Le Cap : Wiid Design transpose la faune et la flore africaines en céramique",
+      "resume": "Le designer sud-africain Laurie Wiid van Heerden présente Field Notes: Nature Recast, la collection de céramique la plus ambitieuse de son studio. Reliefs animaliers, masques, vases et cosses mêlant terre, liège et verre sont exposés jusqu'au 30 novembre au Cap.",
+      "theme": "deco",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Visi",
+      "source_url": "https://visi.co.za/wiid-design-field-notes-nature-recast-ceramics/",
+      "publie_le": "2026-11-03T04:00:00.000Z",
+      "collecte_le": "2026-11-03T11:27:47.290Z",
+      "langue": "en",
+      "slug": "le-cap-wiid-design-transpose-la-faune-et-la-flore-africaines-en-4bc441",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/4bc44168b9f656361d22403ed7864f938c014b41.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/4bc44168b9f656361d22403ed7864f938c014b41.webp",
+        "source": "wikimedia",
+        "credit": "Dietmar Rabich",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Waterfront,_Kran_--_2024_--_2907.jpg",
+        "alt": "Le V&A Waterfront, quartier du port du Cap en Afrique du Sud",
+        "mots_cles": [
+          "V&A Waterfront"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "31c9fea321a47a198b64ed77719eaacbe67ccf2e",
       "titre": "Maroc : à Tiznit, Salima Naji redonne vie à une kasbah en terre",

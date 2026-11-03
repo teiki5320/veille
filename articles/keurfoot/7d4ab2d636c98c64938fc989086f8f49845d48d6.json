@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "7d4ab2d636c98c64938fc989086f8f49845d48d6",
+  "slug": "guinee-entourage-de-naby-keita-conteste-la-version-du-selectionneur-7d4ab2",
+  "titre": "Guinée : l'entourage de Naby Keita conteste la version du sélectionneur Paulo Duarte",
+  "chapo": "Le conseiller de Naby Keita accuse publiquement Paulo Duarte de ne pas dire toute la vérité sur l'absence du milieu guinéen, une nouvelle fois écarté du Syli national.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Paulo Duarte a publié sa liste pour la double confrontation face à l'Érythrée, programmée les 12 et 16 novembre et comptant pour la course à la CAN 2027. Naby Keita n'y figure pas, alors qu'il avait été préconvoqué et se disait prêt à revenir. Mohamed Bayo et Morgan Guilavogui sont eux aussi absents."
+      ]
+    },
+    {
+      "intertitre": "Le sélectionneur vise les joueurs absents",
+      "paragraphes": [
+        "Interrogé lundi en conférence de presse, le technicien portugais a expliqué qu'il comptait seulement sur les joueurs qui répondent à ses appels. Il a dit avoir sollicité certains éléments à plusieurs reprises sans réponse, et a laissé entendre, avec ironie, que ces joueurs reviendraient peut-être après son départ.",
+        "En septembre, Paulo Duarte affirmait pourtant que le milieu de Ferencváros demeurait une option possible et qu'il n'avait aucun différend avec lui."
+      ]
+    },
+    {
+      "intertitre": "La riposte du camp Keita",
+      "paragraphes": [
+        "Son conseiller, Thierno Amadou Makadji, a répondu dans les médias guinéens. Il affirme que le milieu avait bien été sélectionné et avait reçu son billet d'avion, avant que son nom ne soit rayé à la dernière minute. Il assure disposer de preuves.",
+        "Il rejette aussi l'idée d'un manque d'attachement au Syli, en rappelant que Naby Keita avait pris des risques pour jouer la CAN 2019 malgré un retour de blessure. Il reproche enfin au sélectionneur une liste où figurent, selon lui, de nombreux joueurs de deuxième division évoluant en Chine ou en Albanie."
+      ]
+    },
+    {
+      "intertitre": "Un retour qui s'éloigne",
+      "paragraphes": [
+        "L'ancien joueur de Liverpool n'a plus porté le maillot guinéen depuis l'élimination en quarts de finale de la CAN 2023 face à la RD Congo, le 2 février 2024. Son retour semblait proche. Ce nouvel échange public le rend plus incertain, chacune des deux parties défendant désormais son propre récit."
+      ]
+    }
+  ],
+  "mots": 309,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "GN"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/guinee-quil-dise-la-verite-le-clan-naby-keita-attaque-paulo-duarte",
+  "publie_le": "2026-11-03T09:43:00.000Z",
+  "redige_le": "2026-11-03T11:27:51.796Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/7d4ab2d636c98c64938fc989086f8f49845d48d6.webp",
+    "source": "wikimedia",
+    "credit": "Fédération Guinéenne Football",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:0K8A9223_(53493337827).jpg",
+    "alt": "Le milieu de terrain guinéen Naby Keita",
+    "mots_cles": [
+      "Naby Keïta"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "fc09eaeebc908d0d6e4e0752aa4010daf1570669",
+  "slug": "casablanca-driss-kettani-organise-une-villa-triangulaire-autour-un-fc09ea",
+  "titre": "Casablanca : Driss Kettani organise une villa triangulaire autour d'un escalier en spirale",
+  "chapo": "Sur une parcelle triangulaire de Casablanca, l'architecte Driss Kettani a dessiné la Villa Miro, une maison de 550 m² pour une artiste de la ville, organisée autour d'un escalier en spirale.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le terrain posait trois contraintes : sa forme en triangle, une mitoyenneté et une pente. Driss Kettani, dont l'agence est installée à Casablanca depuis 2005, a laissé ces données guider le plan. La question centrale était de passer d'un niveau à l'autre tout en séparant les pièces de réception, les espaces privés et les zones de service."
+      ]
+    },
+    {
+      "intertitre": "Un escalier comme pivot",
+      "paragraphes": [
+        "Un escalier ordinaire n'y suffisait pas. L'architecte a placé au cœur de la maison un escalier en colimaçon, habillé de noyer massif et entouré d'un claustra de bois à lattes qui filtre la lumière. Une verrière le coiffe et marque, selon lui, le passage des heures comme une horloge naturelle.",
+        "Au rez-de-chaussée, le séjour se regroupe autour d'une cheminée, près de la cuisine, tandis que la réception donne sur la terrasse. Au premier niveau, un salon familial tourné vers la mer dessert trois chambres, la suite parentale occupant la pointe du triangle."
+      ]
+    },
+    {
+      "intertitre": "Granito, zellige et piscine",
+      "paragraphes": [
+        "La piscine prend place à cette même pointe. Ce choix offre une terrasse orientée plein sud et un jardin dessiné par la paysagiste Françoise Bonnal, et de grandes baies vitrées relient visuellement l'eau au séjour.",
+        "Les sols et le bassin sont en granito poli, dans une teinte créée pour le projet. L'architecte y voit un héritage des maisons casablancaises des années 1950 et 1960. Un béton décliné du blanc au gris et un zellige turquoise réalisé sur mesure pour la façade complètent l'ensemble."
+      ]
+    },
+    {
+      "intertitre": "Une propriétaire très présente",
+      "paragraphes": [
+        "L'artiste a suivi la conception dès le départ. Sa marque se lit surtout dans le choix du mobilier et des œuvres, comme un valet en bronze signé Isabelle Stanislas. Driss Kettani dit avoir surtout accompagné ses choix, et retient de ce chantier qu'une contrainte peut devenir une source de création."
+      ]
+    }
+  ],
+  "mots": 325,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/interieurs/cap-sur-la-lumiere",
+  "publie_le": "2026-11-03T10:14:52.000Z",
+  "redige_le": "2026-11-03T11:27:47.290Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/fc09eaeebc908d0d6e4e0752aa4010daf1570669.webp",
+    "source": "wikimedia",
+    "credit": "Pere López Brosa",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Urbanitzaci%C3%B3_Casablanca_-_P1040487.jpg",
+    "alt": "Une vue de la ville de Casablanca, au Maroc",
+    "mots_cles": [
+      "Casablanca"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "8d682791d61bf5d2ed049b0c208b968629219b39",
+  "slug": "lumiere-les-plantes-additionnent-plusieurs-sources-pour-choisir-ou-8d6827",
+  "titre": "Lumière : les plantes additionnent plusieurs sources pour choisir où pousser",
+  "chapo": "Sans cerveau ni système nerveux, une plante sait intégrer la lumière qui l'atteint de plusieurs côtés. Une étude de l'université de Tel-Aviv explique comment, et révèle une forme d'illusion d'optique végétale.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les travaux, publiés dans la revue PNAS, sont signés par Aharon Kempinski, Amir Porat, Mathieu Rivière et Yasmine Meroz, de l'école des sciences végétales de l'université de Tel-Aviv. Ils portent sur le phototropisme, la capacité des plantes à orienter leur croissance vers la lumière.",
+        "Selon l'équipe, cette orientation ne dépend d'aucun centre de traitement. Les photorécepteurs, situés surtout dans la couche externe de la tige, captent chacun la lumière sur place. Ils traduisent son intensité en signal biologique, et ce n'est qu'ensuite que ces signaux s'additionnent."
+      ]
+    },
+    {
+      "intertitre": "Des tournesols sous lumière bleue",
+      "paragraphes": [
+        "Pour le vérifier, les chercheurs ont éclairé de jeunes plants de tournesol avec de la lumière bleue d'intensités variables, venant de différentes directions, et ont suivi leurs mouvements pendant plus de vingt heures. Les plantules ont d'abord reçu une seule source, puis deux sources opposées.",
+        "Elles se sont bien courbées vers la lumière la plus forte, mais pas en proportion de l'écart d'intensité. La réponse n'est pas linéaire : une lumière deux fois plus intense ne crée pas un signal deux fois plus fort. Le modèle mathématique des chercheurs a correctement prévu l'ampleur et la direction de la courbure."
+      ]
+    },
+    {
+      "intertitre": "Vers la source la plus faible",
+      "paragraphes": [
+        "Dans une deuxième expérience, deux lampes d'égale puissance ont été placées face à face, et une troisième, moins forte, à angle droit. Les deux premières se sont neutralisées, et les tournesols ont poussé vers la lampe la plus faible. Les plantes combinent donc les signaux au lieu de suivre simplement l'éclairage le plus intense."
+      ]
+    },
+    {
+      "intertitre": "Une illusion encore à mesurer",
+      "paragraphes": [
+        "Le modèle prédit qu'une plante peut situer le maximum de lumière dans une direction légèrement différente de la réalité. Ces petits écarts n'ont pas encore pu être mesurés, à cause des oscillations naturelles des plantes. Yasmine Meroz estime que ce principe pourrait concerner d'autres organismes dotés de capteurs répartis, comme les cellules ou les bactéries."
+      ]
+    }
+  ],
+  "mots": 341,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "IL"
+  ],
+  "source_nom": "Phys.org",
+  "source_url": "https://phys.org/news/2026-11-optical-illusions-affect-growth.html",
+  "publie_le": "2026-11-02T23:00:10.000Z",
+  "redige_le": "2026-11-03T11:28:01.757Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/8d682791d61bf5d2ed049b0c208b968629219b39.webp",
+    "source": "wikimedia",
+    "credit": "Hildabast",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dwarf_sunflower_seedling.jpg",
+    "alt": "De jeunes pousses de tournesol",
+    "mots_cles": [
+      "Sunflower seedling"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-02T18:21:15.387Z",
+  "genere_le": "2026-11-03T11:27:51.779Z",
   "articles": [
+    {
+      "id": "fc09eaeebc908d0d6e4e0752aa4010daf1570669",
+      "slug": "casablanca-driss-kettani-organise-une-villa-triangulaire-autour-un-fc09ea",
+      "titre": "Casablanca : Driss Kettani organise une villa triangulaire autour d'un escalier en spirale",
+      "publie_le": "2026-11-03T10:14:52.000Z",
+      "redige_le": "2026-11-03T11:27:47.290Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/fc09eaeebc908d0d6e4e0752aa4010daf1570669.json"
+    },
+    {
+      "id": "4bc44168b9f656361d22403ed7864f938c014b41",
+      "slug": "le-cap-wiid-design-transpose-la-faune-et-la-flore-africaines-en-4bc441",
+      "titre": "Le Cap : Wiid Design transpose la faune et la flore africaines en céramique",
+      "publie_le": "2026-11-03T04:00:00.000Z",
+      "redige_le": "2026-11-03T11:27:47.290Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/4bc44168b9f656361d22403ed7864f938c014b41.json"
+    },
     {
       "id": "31c9fea321a47a198b64ed77719eaacbe67ccf2e",
       "slug": "maroc-tiznit-salima-naji-redonne-vie-une-kasbah-en-terre-31c9fe",

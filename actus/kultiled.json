@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-02T18:21:16.962Z",
+  "genere_le": "2026-11-03T11:28:01.757Z",
   "actus": [
+    {
+      "id": "8d682791d61bf5d2ed049b0c208b968629219b39",
+      "titre": "Lumière : les plantes additionnent plusieurs sources pour choisir où pousser",
+      "resume": "Des chercheurs de l'université de Tel-Aviv montrent que les plantes combinent la lumière venue de plusieurs directions grâce à des capteurs répartis sur leur tige. Ce calcul local peut les faire pencher un peu à côté de la source la plus forte, une sorte d'illusion d'optique.",
+      "theme": "culture-interieur",
+      "pays": [
+        "IL"
+      ],
+      "source_nom": "Phys.org",
+      "source_url": "https://phys.org/news/2026-11-optical-illusions-affect-growth.html",
+      "publie_le": "2026-11-02T23:00:10.000Z",
+      "collecte_le": "2026-11-03T11:28:01.757Z",
+      "langue": "en",
+      "slug": "lumiere-les-plantes-additionnent-plusieurs-sources-pour-choisir-ou-8d6827",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/8d682791d61bf5d2ed049b0c208b968629219b39.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/8d682791d61bf5d2ed049b0c208b968629219b39.webp",
+        "source": "wikimedia",
+        "credit": "Hildabast",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Dwarf_sunflower_seedling.jpg",
+        "alt": "De jeunes pousses de tournesol",
+        "mots_cles": [
+          "Sunflower seedling"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "6ba1542991ff3d35ac6077cce918de6a67b7da07",
       "titre": "Colombie-Britannique : Windset Farms agrandit ses serres éclairées de 38 acres",

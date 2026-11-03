@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "df33bd13a74ede7adaaef832859b41c9eb8089d7",
+  "slug": "toulouse-gifi-en-redressement-judiciaire-enseigne-obtient-six-mois-df33bd",
+  "titre": "Toulouse : GiFi en redressement judiciaire, l'enseigne obtient six mois pour se relever",
+  "chapo": "À sa propre demande, GiFi est entré mardi 3 novembre en redressement judiciaire. Le tribunal laisse six mois à l'enseigne de discount pour démontrer qu'elle peut continuer.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La décision a été rendue par le tribunal de commerce toulousain, que l'entreprise avait saisi le 20 octobre. GiFi, dont le siège est à Villeneuve-sur-Lot, dans le Lot-et-Garonne, compte 6 000 salariés dans l'Hexagone et exploite plus de 500 magasins.",
+        "Les juges ont ouvert une phase d'observation de six mois. Une nouvelle audience aura lieu le 8 janvier 2027 : elle doit vérifier que la société a les moyens financiers de poursuivre son activité et que cette phase peut être maintenue."
+      ]
+    },
+    {
+      "intertitre": "Pas de nouveau plan social annoncé",
+      "paragraphes": [
+        "Patrick Puy, nommé à la mi-octobre à la tête du directoire, a assuré que la procédure ne provoquerait pas, à elle seule, d'effet immédiat sur l'emploi ni de nouveau PSE. Spécialiste des entreprises en difficulté, il a notamment conduit le démantèlement de Vivarte, l'ancien propriétaire de La Halle et Naf Naf.",
+        "Dans une lettre aux salariés, il avait expliqué que le marché s'était fortement dégradé pendant l'été et que la procédure visait à protéger l'entreprise."
+      ]
+    },
+    {
+      "intertitre": "Une série de difficultés depuis 2023",
+      "paragraphes": [
+        "Les ennuis de l'enseigne remontent à une migration informatique mal maîtrisée en 2023, qui a désorganisé la gestion des stocks. La concurrence d'Action, de Maxi Bazar et de plateformes comme Temu ou AliExpress a ensuite pesé sur les ventes.",
+        "C'est la troisième procédure en deux ans pour GiFi, créé en 1981 par Philippe Ginestet. Celui-ci détient toujours 60 % du capital, les 40 % restants étant entre les mains des banques créancières. En 2025, un projet de réduction de 5 % des effectifs avait été lancé puis abandonné, et une trentaine de magasins doivent être cédés au distributeur Grand Frais."
+      ]
+    },
+    {
+      "intertitre": "Ce que change le redressement",
+      "paragraphes": [
+        "Le redressement judiciaire concerne une entreprise en cessation des paiements qui peut encore être sauvée. Pendant la période d'observation, l'activité continue, les dettes antérieures sont gelées et un administrateur judiciaire aide à préparer un plan de redressement, qui peut aussi déboucher sur une cession."
+      ]
+    }
+  ],
+  "mots": 344,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-fournisseurs"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/accumulant-les-difficultes-l-enseigne-gi-fi-placee-en-redressement-judiciaire_AD-202611030331.html",
+  "autres_sources": [
+    "https://www.lemonde.fr/economie/article/2026/11/03/le-groupe-gifi-place-en-redressement-judiciaire-a-sa-demande-6-000-emplois-menaces-en-france_6805546_3234.html",
+    "https://www.ladepeche.fr/2026/11/03/gifi-place-en-redressement-judiciaire-par-le-tribunal-de-commerce-de-toulouse-une-periode-dobservation-de-six-mois-est-ouverte-13633175.php",
+    "https://www.laprovence.com/article/economie/11415407310162/gifi-en-grande-difficulte-financiere-place-en-redressement-judiciaire-par-le-tribunal-de-commerce-de-toulouse",
+    "https://www.sudouest.fr/occitanie/toulouse/en-grande-difficulte-le-groupe-gifi-place-en-redressement-judiciaire-31359027.php"
+  ],
+  "publie_le": "2026-11-03T08:17:53.000Z",
+  "redige_le": "2026-11-03T11:28:04.490Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/df33bd13a74ede7adaaef832859b41c9eb8089d7.webp",
+    "source": "wikimedia",
+    "credit": "EdDubarry",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_vrai_soldeur_-_GiFi.png",
+    "alt": "L'enseigne GiFi, chaîne française de magasins discount",
+    "mots_cles": [
+      "GiFi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

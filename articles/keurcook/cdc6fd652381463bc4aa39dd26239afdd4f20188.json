@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "cdc6fd652381463bc4aa39dd26239afdd4f20188",
+  "slug": "senegal-dans-les-niayes-le-bissap-pousse-desormais-aussi-en-saison-cdc6fd",
+  "titre": "Sénégal : dans les Niayes, le bissap pousse désormais aussi en saison sèche",
+  "chapo": "Au Sénégal, l'oseille de Guinée, le bissap, n'est plus seulement une plante de l'hivernage. Dans les Niayes, des femmes la cultivent aussi en saison sèche, pour ses feuilles comme pour ses calices.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "À Kandala Mbengue, un village de la région de Louga tout proche de Kébémer, une centaine de femmes regroupées dans le GIE Sope Serigne Fallou font pousser le bissap tout au long de l'année. Chacune travaille une petite parcelle, souvent dans la cour de la maison familiale.",
+        "La même pratique gagne d'autres villages des Niayes, cette bande côtière de cultures maraîchères qui s'étend de Dakar à Saint-Louis, comme Déni Birame Ndao, près de Bambilor, ou Diogo, non loin de Mboro."
+      ]
+    },
+    {
+      "intertitre": "Des feuilles pour les sauces, des calices pour les boissons",
+      "paragraphes": [
+        "Le bissap se consomme de deux façons. Ses feuilles vertes, au goût acidulé, entrent dans les sauces que les familles sénégalaises servent pour accompagner riz et fonio. Ses calices, rouges ou blancs selon la variété, servent à préparer des boissons.",
+        "La variété rouge, d'origine locale, est particulièrement demandée pendant le ramadan. Le bissap blanc est surtout recherché à la saison des pluies, période où il devient rare."
+      ]
+    },
+    {
+      "intertitre": "Une plante rapide et peu exigeante",
+      "paragraphes": [
+        "Les productrices mettent en avant la rapidité de la plante. Les feuilles se cueillent quatre semaines environ après le semis, et une même parcelle peut donner trois ou quatre récoltes de suite. La tomate ou l'oignon demandent souvent trois mois.",
+        "Le bissap supporte aussi un arrosage réduit en saison sèche. À Déni Birame Ndao, Abdou Seydi, qui cultive également piments et gombo, ne cueille qu'à la demande, pour livrer des feuilles bien fraîches et éviter le gaspillage."
+      ]
+    },
+    {
+      "intertitre": "Une culture d'appoint",
+      "paragraphes": [
+        "Pour d'autres, comme Khady Sylla à Thiaroye, le bissap prend le relais de la salade après février, afin de ne pas laisser la terre vide. Les productrices évoquent cependant plusieurs freins : des semences de qualité difficiles à trouver, des méthodes encore traditionnelles et peu d'équipements pour transformer la récolte."
+      ]
+    }
+  ],
+  "mots": 325,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/agriculture-dans-les-niayes-le-bissap-une-alternative-aux-difficultes-du-maraichage",
+  "publie_le": "2026-11-03T10:49:24.000Z",
+  "redige_le": "2026-11-03T11:27:45.028Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/cdc6fd652381463bc4aa39dd26239afdd4f20188.webp",
+    "source": "wikimedia",
+    "credit": "Mokkie",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Roselle_(Hibiscus_sabdariffa)_2.jpg",
+    "alt": "Un plant d'oseille de Guinée (Hibiscus sabdariffa), la plante du bissap",
+    "mots_cles": [
+      "Hibiscus sabdariffa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

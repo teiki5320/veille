@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-02T18:21:12.298Z",
+  "genere_le": "2026-11-03T11:27:45.009Z",
   "articles": [
+    {
+      "id": "f23b33cb7b9e97749e469a92912840b6aa69f933",
+      "slug": "afrique-du-sud-le-nonce-cite-benedict-daswa-en-modele-de-saintete-au-f23b33",
+      "titre": "Afrique du Sud : le nonce cite Benedict Daswa en modèle de sainteté au quotidien",
+      "publie_le": "2026-11-02T20:45:00.000Z",
+      "redige_le": "2026-11-03T11:27:39.756Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/f23b33cb7b9e97749e469a92912840b6aa69f933.json"
+    },
+    {
+      "id": "8de5e98461a3ede33df521684265d2f079984d5a",
+      "slug": "soudan-du-sud-mgr-paride-taban-batisseur-de-paix-honore-pour-le-jour-8de5e9",
+      "titre": "Soudan du Sud : Mgr Paride Taban, bâtisseur de paix, honoré pour le jour des défunts",
+      "publie_le": "2026-11-02T20:40:00.000Z",
+      "redige_le": "2026-11-03T11:27:39.756Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/8de5e98461a3ede33df521684265d2f079984d5a.json"
+    },
     {
       "id": "c3ec21cbc97a628b7fd89087939d30c804466919",
       "slug": "the-oratory-un-pretre-salesien-nigerian-prevoit-dix-films-catholiques-c3ec21",

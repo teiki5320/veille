@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-02T18:21:29.534Z",
+  "genere_le": "2026-11-03T11:28:12.315Z",
   "articles": [
+    {
+      "id": "3c7b4e7c9c753dcea726bb82573ca5a9520fff83",
+      "slug": "gironde-et-landes-un-pret-bpifrance-pour-les-petites-entreprises-3c7b4e",
+      "titre": "Gironde et Landes : un prêt Bpifrance pour les petites entreprises touchées par les feux",
+      "publie_le": "2026-11-03T08:54:56.000Z",
+      "redige_le": "2026-11-03T11:28:04.490Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/3c7b4e7c9c753dcea726bb82573ca5a9520fff83.json"
+    },
+    {
+      "id": "df33bd13a74ede7adaaef832859b41c9eb8089d7",
+      "slug": "toulouse-gifi-en-redressement-judiciaire-enseigne-obtient-six-mois-df33bd",
+      "titre": "Toulouse : GiFi en redressement judiciaire, l'enseigne obtient six mois pour se relever",
+      "publie_le": "2026-11-03T08:17:53.000Z",
+      "redige_le": "2026-11-03T11:28:04.490Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/df33bd13a74ede7adaaef832859b41c9eb8089d7.json"
+    },
+    {
+      "id": "f3c22a36090a74b3c5d2cf34cf2531b9a3026c90",
+      "slug": "tpe-optimisme-des-patrons-tombe-35-au-plus-bas-depuis-2014-f3c22a",
+      "titre": "TPE : l'optimisme des patrons tombe à 35 %, au plus bas depuis 2014",
+      "publie_le": "2026-11-03T08:07:21.000Z",
+      "redige_le": "2026-11-03T11:28:04.490Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/f3c22a36090a74b3c5d2cf34cf2531b9a3026c90.json"
+    },
     {
       "id": "f8d3395f85ee72ce70cd39763892cb96ce5b7c9c",
       "slug": "loyers-commerciaux-impayes-la-reforme-de-mai-2026-durcit-acces-aux-f8d339",

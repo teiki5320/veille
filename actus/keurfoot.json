@@ -1,8 +1,144 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-02T18:21:15.391Z",
+  "genere_le": "2026-11-03T11:27:51.796Z",
   "actus": [
+    {
+      "id": "957aebe86121bfb81dcffb9b2e8ab0e653d55199",
+      "titre": "Ligue 1 sénégalaise : Teungueth FC remporte entraîneur, joueur et gardien de l'année",
+      "resume": "La ligue professionnelle sénégalaise a récompensé trois membres du club de Rufisque au terme de l'exercice 2025-2026 : l'entraîneur Malick Daf, le défenseur Moustapha Guèye, élu joueur de l'année, et le gardien Pape Abdoulaye Dieng. Le club avait déjà décroché le titre en juin.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Ligue 1 sénégalaise",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/teungueth-fc-rafle-les-trois-trophees-individuels-avec-daf-gueye-et-dieng_2020008.html",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/03/ligue-1-malick-daf-dieng-gueye-teungueth-fc-rafle-les-distinctions-individuelles-de-la-saison/"
+      ],
+      "publie_le": "2026-11-03T11:13:35.000Z",
+      "collecte_le": "2026-11-03T11:27:51.796Z",
+      "langue": "fr",
+      "slug": "ligue-1-senegalaise-teungueth-fc-remporte-entraineur-joueur-et-gardien-957aeb",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/957aebe86121bfb81dcffb9b2e8ab0e653d55199.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/957aebe86121bfb81dcffb9b2e8ab0e653d55199.webp",
+        "source": "openverse",
+        "credit": "Jeff Attaway",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/33398364@N08/5562333854",
+        "alt": "Des joueurs lors d'un match de football en Afrique",
+        "mots_cles": [
+          "senegal football stadium"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d96fa8e6347d468c546e91c5c0cbc6e82b775666",
+      "titre": "CAF Awards 2026 : le Cameroun place trois joueuses parmi les dix candidates de l'année",
+      "resume": "La Confédération africaine de football a publié mardi la liste des dix prétendantes au trophée de meilleure joueuse africaine 2026. Les championnes d'Afrique camerounaises y sont trois, aux côtés des sœurs Chawinga, de Barbra Banda et de Thembi Kgatlana. La lauréate sera désignée le 7 décembre à Lagos.",
+      "theme": "foot",
+      "pays": [
+        "CM",
+        "MW",
+        "ZM"
+      ],
+      "competition": "CAF Awards",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/joueuse-africaine-de-lannee-3-vainqueures-de-la-can-lalgerie-le-maroc-et-4-stars-parmi-les-10-nommees",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/03/caf-awards-2026-adji-ndiaye-de-nouveau-nominee-pour-le-titre-de-gardienne-de-lannee/"
+      ],
+      "publie_le": "2026-11-03T11:03:45.000Z",
+      "collecte_le": "2026-11-03T11:27:51.796Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-le-cameroun-place-trois-joueuses-parmi-les-dix-d96fa8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d96fa8e6347d468c546e91c5c0cbc6e82b775666.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/d96fa8e6347d468c546e91c5c0cbc6e82b775666.webp",
+        "source": "wikimedia",
+        "credit": "Steffen Prößdorf",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:2023-07-07_Fussball,_Frauen,_L%C3%A4nderspiel,_Deutschland_-_Sambia_1DX_7062_by_Stepro.jpg",
+        "alt": "Une joueuse internationale africaine citée parmi les candidates au titre de joueuse africaine de l'année",
+        "mots_cles": [
+          "Barbra Banda"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "820105006eea426262cd8f39c1dbc4cdd7337fb9",
+      "titre": "Éliminatoires CAN 2027 : Lilian Brassier rejoint le Togo pour affronter l'Algérie",
+      "resume": "Patrice Neveu a dévoilé les 25 Éperviers appelés pour les deux rencontres contre l'Algérie, prévues les 14 et 17 novembre. Le défenseur de l'Eintracht Francfort Lilian Brassier fait son entrée dans le groupe, aux côtés des attaquants Kévin Denkey et Kodjo Fo-Doh Laba.",
+      "theme": "foot",
+      "pays": [
+        "TG",
+        "DZ"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/elim-can-2027-kevin-denkey-lilian-brassier-la-liste-du-togo-pour-le-double-rendez-vous-face-a-lalgerie/",
+      "autres_sources": [
+        "https://africatopsports.com/football/elim-can-2027-face-a-lalgerie-le-togo-comptera-sur-son-nouveau-roc-europeen-lilian-brassier/"
+      ],
+      "publie_le": "2026-11-03T10:16:23.000Z",
+      "collecte_le": "2026-11-03T11:27:51.796Z",
+      "langue": "fr",
+      "slug": "eliminatoires-can-2027-lilian-brassier-rejoint-le-togo-pour-affronter-820105",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.webp",
+        "source": "wikimedia",
+        "credit": "Supporterhéninois",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Valenciennes_-_Lens_(29-11-2019)_37_(cropped).jpg",
+        "alt": "Le défenseur Lilian Brassier, appelé pour la première fois avec le Togo",
+        "mots_cles": [
+          "Lilian Brassier"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7d4ab2d636c98c64938fc989086f8f49845d48d6",
+      "titre": "Guinée : l'entourage de Naby Keita conteste la version du sélectionneur Paulo Duarte",
+      "resume": "Écarté de la liste guinéenne pour les matchs contre l'Érythrée, Naby Keita voit son conseiller accuser Paulo Duarte de taire une partie des faits. Selon lui, le milieu avait été retenu et avait reçu son billet avant d'être retiré au dernier moment.",
+      "theme": "foot",
+      "pays": [
+        "GN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/guinee-quil-dise-la-verite-le-clan-naby-keita-attaque-paulo-duarte",
+      "publie_le": "2026-11-03T09:43:00.000Z",
+      "collecte_le": "2026-11-03T11:27:51.796Z",
+      "langue": "fr",
+      "slug": "guinee-entourage-de-naby-keita-conteste-la-version-du-selectionneur-7d4ab2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7d4ab2d636c98c64938fc989086f8f49845d48d6.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7d4ab2d636c98c64938fc989086f8f49845d48d6.webp",
+        "source": "wikimedia",
+        "credit": "Fédération Guinéenne Football",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:0K8A9223_(53493337827).jpg",
+        "alt": "Le milieu de terrain guinéen Naby Keita",
+        "mots_cles": [
+          "Naby Keïta"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "27cdf73732867be23bfcf05c31b9457fcfb0dda9",
       "titre": "FIFPRO World 11 2026 : Hakimi, unique joueur africain de la présélection",
@@ -1940,137 +2076,6 @@
       "slug": "cameroun-la-fecafoot-recompense-les-lions-u20-qualifies-pour-la-can-b8b05a",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/b8b05a1289992b843ff44406506830b2e98c2816.json",
       "lecture_min": 1
-    },
-    {
-      "id": "cfdce348015776c3fdfbad872b44730a1074f4bc",
-      "titre": "Trophée Kopa 2026 : où se classent Bouaddi, Maza et Yan Diomandé",
-      "resume": "Aucun des trois jeunes joueurs n'a remporté la récompense du meilleur espoir, attribuée lundi soir à Londres. Leurs positions dans le classement ont toutefois été rendues publiques en marge de la cérémonie.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "DZ",
-        "CI"
-      ],
-      "competition": "Ballon d'Or",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/trophee-kopa-2026-le-classement-de-bouaddi-maza-et-yan-diomande",
-      "publie_le": "2026-10-26T22:32:09.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/cfdce348015776c3fdfbad872b44730a1074f4bc.webp",
-        "source": "wikimedia",
-        "credit": "Paté kroute",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Bouaddi_asselosc_2425.jpg",
-        "alt": "Un jeune footballeur africain sur le terrain",
-        "mots_cles": [
-          "Ayyoub Bouaddi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "trophee-kopa-2026-ou-se-classent-bouaddi-maza-et-yan-diomande-cfdce3",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/cfdce348015776c3fdfbad872b44730a1074f4bc.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "fdb6b087a1572b2b83938d31ed74e48cf8fe3056",
-      "titre": "Éliminatoires CAN 2027 : le Botswana dévoile 26 joueurs pour affronter l'Ouganda",
-      "resume": "Le sélectionneur Thaloba Nthaga a retenu une liste provisoire avec trois gardiens, huit défenseurs, sept milieux et huit attaquants. Les deux équipes se retrouvent en novembre, avec un premier match prévu le 14 à Hoima, en Ouganda.",
-      "theme": "foot",
-      "pays": [
-        "BW",
-        "UG"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Kawowo Sports",
-      "source_url": "https://kawowo.com/2026/10/26/botswana-name-squad-for-uganda-cranes-double-header/",
-      "publie_le": "2026-10-26T19:57:07.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "en",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/fdb6b087a1572b2b83938d31ed74e48cf8fe3056.webp",
-        "source": "openverse",
-        "credit": "US Army Africa",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/36281822@N08/4045715231",
-        "alt": "Des joueurs lors d’un match de football en Afrique",
-        "mots_cles": [
-          "uganda football fans"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "eliminatoires-can-2027-le-botswana-devoile-26-joueurs-pour-affronter-fdb6b0",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/fdb6b087a1572b2b83938d31ed74e48cf8fe3056.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "0d08e0a6c70b4faec72a2bc62337b1d9b53616cf",
-      "titre": "Hakimi perd sept rangs et finit 13e au Ballon d'Or 2026",
-      "resume": "Le défenseur marocain du PSG occupe le 13e rang du classement révélé lundi à Londres. Sixième en 2025, il recule nettement, mais reste le deuxième défenseur le mieux placé de cette édition.",
-      "theme": "foot",
-      "pays": [
-        "MA"
-      ],
-      "competition": "Ballon d'Or",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/afrique-football/ballon-dor-2026-achraf-hakimi-termine-a-la-13e-place/",
-      "autres_sources": [
-        "https://www.afrik-foot.com/ballon-dor-2026-2e-meilleur-defenseur-du-classement-hakimi-est-il-a-sa-place",
-        "https://www.afrik-foot.com/achraf-hakimi-ballon-dor-classement-annee"
-      ],
-      "publie_le": "2026-10-26T19:07:46.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/0d08e0a6c70b4faec72a2bc62337b1d9b53616cf.webp",
-        "source": "wikimedia",
-        "credit": "Nawfel Ajari",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
-        "alt": "Achraf Hakimi, défenseur du Maroc et du PSG",
-        "mots_cles": [
-          "Achraf Hakimi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "hakimi-perd-sept-rangs-et-finit-13e-au-ballon-or-2026-0d08e0",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/0d08e0a6c70b4faec72a2bc62337b1d9b53616cf.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "13c6e86581517be5969d48dcc31c8efef0cd4f03",
-      "titre": "Sénégal : Patrick Vieira toujours invaincu avant la fenêtre de novembre",
-      "resume": "Depuis sa nomination à la tête des Lions, l'ancien capitaine des Bleus a dirigé trois rencontres pour deux succès et un match nul. Le Sénégal a pris 4 des 6 points possibles dans sa poule qualificative pour la CAN 2027, avant de nouvelles échéances en novembre.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/senegal-le-bilan-des-premiers-matchs-de-patrick-vieira-avant-la-fenetre-de-novembre-des-eliminatoires-de-la-can-2027_2017401.html",
-      "publie_le": "2026-10-26T12:33:00.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/13c6e86581517be5969d48dcc31c8efef0cd4f03.webp",
-        "source": "wikimedia",
-        "credit": "Simon Heseltine",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
-        "alt": "Patrick Vieira, sélectionneur du Sénégal",
-        "mots_cles": [
-          "Patrick Vieira"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "senegal-patrick-vieira-toujours-invaincu-avant-la-fenetre-de-novembre-13c6e8",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/13c6e86581517be5969d48dcc31c8efef0cd4f03.json",
-      "lecture_min": 2
     }
   ]
 }

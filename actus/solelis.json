@@ -1,8 +1,113 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-02T18:21:26.395Z",
+  "genere_le": "2026-11-03T11:28:04.490Z",
   "actus": [
+    {
+      "id": "3c7b4e7c9c753dcea726bb82573ca5a9520fff83",
+      "titre": "Gironde et Landes : un prêt Bpifrance pour les petites entreprises touchées par les feux",
+      "resume": "Bpifrance, associée à la Nouvelle-Aquitaine, propose jusqu'au 30 juin 2027 un Prêt Rebond Post-Incendies compris entre 5 000 et 50 000 euros. Il vise les sociétés girondines et landaises de moins de 50 salariés fragilisées par les feux de l'été, sans caution personnelle.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:credit-bancaire"
+      ],
+      "source_nom": "Le Journal des Entreprises",
+      "source_url": "https://www.lejournaldesentreprises.com/article/bpifrance-et-la-region-nouvelle-aquitaine-ouvrent-un-pret-aux-entreprises-touchees-par-les-incendies-2148290",
+      "publie_le": "2026-11-03T08:54:56.000Z",
+      "collecte_le": "2026-11-03T11:28:04.490Z",
+      "langue": "fr",
+      "slug": "gironde-et-landes-un-pret-bpifrance-pour-les-petites-entreprises-3c7b4e",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/3c7b4e7c9c753dcea726bb82573ca5a9520fff83.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/3c7b4e7c9c753dcea726bb82573ca5a9520fff83.webp",
+        "source": "wikimedia",
+        "credit": "Boubloub",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:6_Haussmann.jpg",
+        "alt": "Bpifrance, la banque publique d'investissement",
+        "mots_cles": [
+          "Bpifrance"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "df33bd13a74ede7adaaef832859b41c9eb8089d7",
+      "titre": "Toulouse : GiFi en redressement judiciaire, l'enseigne obtient six mois pour se relever",
+      "resume": "La justice toulousaine a ouvert mardi, à la demande de GiFi, une procédure de redressement judiciaire. L'enseigne, qui emploie 6 000 personnes en France et compte plus de 500 magasins, dispose de six mois d'observation ; une audience d'étape est fixée au 8 janvier.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-fournisseurs"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/accumulant-les-difficultes-l-enseigne-gi-fi-placee-en-redressement-judiciaire_AD-202611030331.html",
+      "autres_sources": [
+        "https://www.lemonde.fr/economie/article/2026/11/03/le-groupe-gifi-place-en-redressement-judiciaire-a-sa-demande-6-000-emplois-menaces-en-france_6805546_3234.html",
+        "https://www.ladepeche.fr/2026/11/03/gifi-place-en-redressement-judiciaire-par-le-tribunal-de-commerce-de-toulouse-une-periode-dobservation-de-six-mois-est-ouverte-13633175.php",
+        "https://www.laprovence.com/article/economie/11415407310162/gifi-en-grande-difficulte-financiere-place-en-redressement-judiciaire-par-le-tribunal-de-commerce-de-toulouse",
+        "https://www.sudouest.fr/occitanie/toulouse/en-grande-difficulte-le-groupe-gifi-place-en-redressement-judiciaire-31359027.php"
+      ],
+      "publie_le": "2026-11-03T08:17:53.000Z",
+      "collecte_le": "2026-11-03T11:28:04.490Z",
+      "langue": "fr",
+      "slug": "toulouse-gifi-en-redressement-judiciaire-enseigne-obtient-six-mois-df33bd",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/df33bd13a74ede7adaaef832859b41c9eb8089d7.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/df33bd13a74ede7adaaef832859b41c9eb8089d7.webp",
+        "source": "wikimedia",
+        "credit": "EdDubarry",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Le_vrai_soldeur_-_GiFi.png",
+        "alt": "L'enseigne GiFi, chaîne française de magasins discount",
+        "mots_cles": [
+          "GiFi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "f3c22a36090a74b3c5d2cf34cf2531b9a3026c90",
+      "titre": "TPE : l'optimisme des patrons tombe à 35 %, au plus bas depuis 2014",
+      "resume": "Selon la 85e vague du baromètre Ifop pour Fiducial, seuls 35 % des dirigeants de TPE se montrent optimistes pour leur activité au troisième trimestre, contre 54 % au précédent. Ils sont 44 % à faire état de difficultés financières, en hausse de 11 points.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Journal des Entreprises",
+      "source_url": "https://www.lejournaldesentreprises.com/article/fiducial-releve-un-recul-de-19-points-de-loptimisme-des-patrons-de-tpe-pour-leur-activite-2148288",
+      "autres_sources": [
+        "https://mesinfos.fr/75000-paris/barometre-fiducial-90-percent-des-dirigeants-de-tpe-defiants-envers-le-gouvernement-342223.html"
+      ],
+      "publie_le": "2026-11-03T08:07:21.000Z",
+      "collecte_le": "2026-11-03T11:28:04.490Z",
+      "langue": "fr",
+      "slug": "tpe-optimisme-des-patrons-tombe-35-au-plus-bas-depuis-2014-f3c22a",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f3c22a36090a74b3c5d2cf34cf2531b9a3026c90.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f3c22a36090a74b3c5d2cf34cf2531b9a3026c90.webp",
+        "source": "wikimedia",
+        "credit": "Tomahawk Tasmania",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:TaggedCamponotus1.jpg",
+        "alt": "Le groupe Fiducial, qui publie le baromètre des TPE avec l'Ifop",
+        "mots_cles": [
+          "Fiducial"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f8d3395f85ee72ce70cd39763892cb96ce5b7c9c",
       "titre": "Loyers commerciaux impayés : la réforme de mai 2026 durcit l'accès aux délais",

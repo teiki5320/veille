@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-02T18:21:26.373Z",
+  "genere_le": "2026-11-03T11:28:04.468Z",
   "articles": [
+    {
+      "id": "8d682791d61bf5d2ed049b0c208b968629219b39",
+      "slug": "lumiere-les-plantes-additionnent-plusieurs-sources-pour-choisir-ou-8d6827",
+      "titre": "Lumière : les plantes additionnent plusieurs sources pour choisir où pousser",
+      "publie_le": "2026-11-02T23:00:10.000Z",
+      "redige_le": "2026-11-03T11:28:01.757Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/8d682791d61bf5d2ed049b0c208b968629219b39.json"
+    },
     {
       "id": "099cc048b31a986480d1f4c0c1dd3b4d38c696db",
       "slug": "micro-pousses-une-premiere-journee-mondiale-en-ligne-pour-producteurs-099cc0",
