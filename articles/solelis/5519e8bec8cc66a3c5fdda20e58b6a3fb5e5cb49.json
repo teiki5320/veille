@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49",
+  "slug": "faute-inexcusable-depuis-le-1er-novembre-la-note-alourdit-pour-5519e8",
+  "titre": "Faute inexcusable : depuis le 1er novembre, la note s'alourdit pour l'employeur",
+  "chapo": "Depuis ce 1er novembre, réparer un accident du travail dû à une faute inexcusable pèse plus lourd pour l'employeur. Un document unique incomplet peut faire basculer le dossier.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "C'est l'article 90 du budget 2025 de la Sécurité sociale qui a refondu la rente versée à vie aux victimes d'accidents du travail et de maladies professionnelles. Après plusieurs reports, la mesure s'applique depuis le 1er novembre 2026.",
+        "Le point clé est la date de consolidation, le moment où le médecin estime que les séquelles n'évolueront plus. Ainsi, pour un salarié blessé en 2025 dont l'état n'est stabilisé qu'à la fin de 2026, ce sont les règles nouvelles qui jouent."
+      ]
+    },
+    {
+      "intertitre": "Une rente en deux parts",
+      "paragraphes": [
+        "La rente couvre désormais deux pertes. La part professionnelle compense les effets sur le travail : salaire, poste, carrière. La part fonctionnelle, calculée par points, répare les conséquences sur la vie personnelle, comme les douleurs ou les gestes devenus impossibles.",
+        "Si le tribunal retient une faute inexcusable, le supplément de rente versé à la victime porte sur les deux parts. La part fonctionnelle peut alors doubler. D'autres préjudices restent indemnisables à part, comme les souffrances avant consolidation ou le préjudice esthétique. La caisse primaire avance les sommes, puis se fait rembourser par l'employeur."
+      ]
+    },
+    {
+      "intertitre": "Ce que vérifie le juge",
+      "paragraphes": [
+        "Les critères ne bougent pas. Le juge cherche si l'employeur connaissait le danger, ou aurait dû le connaître, et s'il a pris les mesures pour protéger le salarié. Un accident ne prouve pas à lui seul une faute : la Cour de cassation a confirmé ce principe dans un arrêt du 29 février 2024.",
+        "La victime n'a rien à prouver dans certains cas, par exemple si le risque avait été signalé, ou si un intérimaire ou un salarié en CDD occupait un poste à risque sans formation renforcée."
+      ]
+    },
+    {
+      "intertitre": "Le document unique en première ligne",
+      "paragraphes": [
+        "Le document unique d'évaluation des risques est la première pièce examinée. Ne pas en avoir expose à 1 500 euros d'amende pénale. S'y ajoute, depuis le 27 juin 2026, une sanction administrative plafonnée à 4 000 euros pour chaque salarié. Un modèle générique jamais mis à jour, qui oublie par exemple le travail en hauteur, affaiblit aussi la défense de l'entreprise."
+      ]
+    }
+  ],
+  "mots": 366,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Journal du Net",
+  "source_url": "https://www.journaldunet.com/management/direction-generale/1557447-faute-inexcusable-avec-la-rente-duale-un-document-unique-bacle-coutera-plus-cher-a-l-employeur/",
+  "publie_le": "2026-11-04T07:00:13.000Z",
+  "redige_le": "2026-11-04T11:20:48.434Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49.webp",
+    "source": "openverse",
+    "credit": "futureatlas.com",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/87913776@N00/5455995391",
+    "alt": "Un salarié équipé de protections sur son lieu de travail",
+    "mots_cles": [
+      "workplace safety"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

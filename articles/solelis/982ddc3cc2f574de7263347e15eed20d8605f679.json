@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "982ddc3cc2f574de7263347e15eed20d8605f679",
+  "slug": "gazole-15-centimes-de-moins-en-moyenne-grace-aux-stocks-strategiques-982ddc",
+  "titre": "Gazole : 15 centimes de moins en moyenne grâce aux stocks stratégiques",
+  "chapo": "La vente à prix coûtant des réserves stratégiques de gazole commence à se voir à la pompe. La baisse atteint 15 centimes par litre en moyenne, d'après Roland Lescure, chargé de l'Économie.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Invité de BFMTV et RMC mercredi 4 novembre, le ministre a fait le point : sur 10 000 stations, 6 600 ont réduit leurs tarifs depuis le début du mois. Pour 3 000 d'entre elles, le recul dépasse 20 centimes.",
+        "Le ministre chiffre le gain à 9 euros pour un plein de 45 litres, soit près de 10 % d'économie."
+      ]
+    },
+    {
+      "intertitre": "Dix millions de barils sur trois mois",
+      "paragraphes": [
+        "Le gouvernement avait annoncé en octobre la cession aux distributeurs de dix millions de barils puisés dans les stocks stratégiques, sans marge, de novembre à janvier. Le déstockage a commencé le dimanche 1er novembre.",
+        "La mesure répond à la flambée des carburants liée à la guerre au Moyen-Orient. Le litre de gazole valait en moyenne 2,25 euros mercredi matin, selon un relevé de l'AFP sur près de 9 000 stations, contre 2,37 euros le 31 octobre.",
+        "La veille, Serge Papin, chargé du Commerce, faisait état d'une baisse de 12 centimes dans 6 000 stations."
+      ]
+    },
+    {
+      "intertitre": "Les petites stations en retard",
+      "paragraphes": [
+        "Certaines petites stations n'ont pas encore été livrées. Roland Lescure assure qu'elles disposeront des trois mois de l'opération pour répercuter la baisse.",
+        "Celles qui veulent baisser leurs prix sans attendre peuvent s'appuyer sur un prêt à taux zéro de l'État. Elles le rembourseront une fois les stocks moins chers arrivés dans leurs cuves."
+      ]
+    },
+    {
+      "intertitre": "Un enjeu pour les entreprises",
+      "paragraphes": [
+        "Pour les artisans, les transporteurs et toutes les entreprises qui roulent beaucoup, chaque centime compte sur le poste carburant. Roland Lescure appelle toutefois à la vigilance après la défaite du camp de Donald Trump aux élections de mi-mandat, qui pourrait faire évoluer la politique américaine sur les carburants dans les prochains jours."
+      ]
+    }
+  ],
+  "mots": 308,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/energie/apres-la-liberation-de-stocks-strategiques-roland-lescure-annonce-que-la-baisse-des-prix-du-gazole-depasse-les-20-centimes-dans-3-000-stations_AV-202611040354.html",
+  "autres_sources": [
+    "https://www.laprovence.com/article/france-monde/16617707170558/prix-du-carburant-la-baisse-des-prix-du-gazole-atteint-15-centimes-en-moyenne-estime-le-ministre-de-leconomie",
+    "https://www.sudouest.fr/economie/energie/carburants/prix-du-carburant-le-gazole-recule-de-15-centimes-en-moyenne-dans-plusieurs-milliers-de-stations-service-31375584.php"
+  ],
+  "publie_le": "2026-11-04T08:25:04.000Z",
+  "redige_le": "2026-11-04T11:20:48.434Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/982ddc3cc2f574de7263347e15eed20d8605f679.webp",
+    "source": "wikimedia",
+    "credit": "FreCha",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ancienne_station-service_2.jpg",
+    "alt": "Une station-service en France",
+    "mots_cles": [
+      "Station-service France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

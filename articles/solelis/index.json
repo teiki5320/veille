@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-03T18:17:27.871Z",
+  "genere_le": "2026-11-04T11:21:07.385Z",
   "articles": [
+    {
+      "id": "95f5d34e69c912e90ecab76045682f95a63575cf",
+      "slug": "zone-euro-inflation-monte-4-en-octobre-du-jamais-vu-depuis-2023-95f5d3",
+      "titre": "Zone euro : l'inflation monte à 4 % en octobre, du jamais-vu depuis 2023",
+      "publie_le": "2026-11-04T10:45:30.000Z",
+      "redige_le": "2026-11-04T11:20:48.434Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/95f5d34e69c912e90ecab76045682f95a63575cf.json"
+    },
+    {
+      "id": "e7606aa9ecf2771d74e664c854cddcab90d6b15e",
+      "slug": "cyberattaque-au-credit-mutuel-arkea-des-virements-suspendus-118-e7606a",
+      "titre": "Cyberattaque au Crédit Mutuel Arkéa : des virements suspendus, 118 millions d'euros en jeu",
+      "publie_le": "2026-11-04T10:24:45.000Z",
+      "redige_le": "2026-11-04T11:20:48.434Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/e7606aa9ecf2771d74e664c854cddcab90d6b15e.json"
+    },
+    {
+      "id": "982ddc3cc2f574de7263347e15eed20d8605f679",
+      "slug": "gazole-15-centimes-de-moins-en-moyenne-grace-aux-stocks-strategiques-982ddc",
+      "titre": "Gazole : 15 centimes de moins en moyenne grâce aux stocks stratégiques",
+      "publie_le": "2026-11-04T08:25:04.000Z",
+      "redige_le": "2026-11-04T11:20:48.434Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/982ddc3cc2f574de7263347e15eed20d8605f679.json"
+    },
+    {
+      "id": "5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49",
+      "slug": "faute-inexcusable-depuis-le-1er-novembre-la-note-alourdit-pour-5519e8",
+      "titre": "Faute inexcusable : depuis le 1er novembre, la note s'alourdit pour l'employeur",
+      "publie_le": "2026-11-04T07:00:13.000Z",
+      "redige_le": "2026-11-04T11:20:48.434Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49.json"
+    },
     {
       "id": "19a63a70f60963f4c1339b174057c93c0248b294",
       "slug": "gifi-place-en-redressement-judiciaire-six-mois-pour-trouver-une-issue-19a63a",

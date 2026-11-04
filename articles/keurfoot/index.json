@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-03T18:17:23.818Z",
+  "genere_le": "2026-11-04T11:20:48.412Z",
   "articles": [
+    {
+      "id": "cbd6af89decfa490f034bdbc6adb57992fc75cd9",
+      "slug": "caf-awards-2026-mendy-bounou-et-vozinha-parmi-les-dix-gardiens-nommes-cbd6af",
+      "titre": "CAF Awards 2026 : Mendy, Bounou et Vozinha parmi les dix gardiens nommés",
+      "publie_le": "2026-11-04T10:36:47.000Z",
+      "redige_le": "2026-11-04T11:20:43.061Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/cbd6af89decfa490f034bdbc6adb57992fc75cd9.json"
+    },
+    {
+      "id": "88d5acce09106b055c0369b486e1ae08631c8e4b",
+      "slug": "caf-awards-2026-pape-thiaw-et-lamine-ndiaye-parmi-les-dix-meilleurs-88d5ac",
+      "titre": "CAF Awards 2026 : Pape Thiaw et Lamine Ndiaye parmi les dix meilleurs entraîneurs",
+      "publie_le": "2026-11-04T09:35:56.000Z",
+      "redige_le": "2026-11-04T11:20:43.061Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/88d5acce09106b055c0369b486e1ae08631c8e4b.json"
+    },
+    {
+      "id": "81255f933558852f3797f711857a5831039b6b3c",
+      "slug": "caf-awards-2026-diomande-bouaddi-et-maza-en-tete-des-dix-jeunes-nommes-81255f",
+      "titre": "CAF Awards 2026 : Diomande, Bouaddi et Maza en tête des dix jeunes nommés",
+      "publie_le": "2026-11-04T09:15:14.000Z",
+      "redige_le": "2026-11-04T11:20:43.061Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/81255f933558852f3797f711857a5831039b6b3c.json"
+    },
     {
       "id": "957aebe86121bfb81dcffb9b2e8ab0e653d55199",
       "slug": "ligue-1-senegalaise-teungueth-fc-remporte-entraineur-joueur-et-gardien-957aeb",

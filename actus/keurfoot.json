@@ -1,8 +1,118 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-03T18:17:23.800Z",
+  "genere_le": "2026-11-04T11:20:43.061Z",
   "actus": [
+    {
+      "id": "cbd6af89decfa490f034bdbc6adb57992fc75cd9",
+      "titre": "CAF Awards 2026 : Mendy, Bounou et Vozinha parmi les dix gardiens nommés",
+      "resume": "La CAF a annoncé les dix gardiens en course pour le titre de l'année. Le Sénégalais Édouard Mendy, souvent nommé mais jamais sacré, retrouve la liste avec le Marocain Yassine Bounou et le Cap-Verdien Vozinha.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "MA",
+        "CV"
+      ],
+      "competition": "CAF Awards",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a4159464636261045863-caf-awards-2026-les-dix-nommes-pour-le-titre-de-meilleur-gardien-africain",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/04/caf-awards-2026-edouard-mendy-nomme-pour-le-trophee-de-meilleur-gardien-africain-de-lannee/"
+      ],
+      "publie_le": "2026-11-04T10:36:47.000Z",
+      "collecte_le": "2026-11-04T11:20:43.061Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-mendy-bounou-et-vozinha-parmi-les-dix-gardiens-nommes-cbd6af",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/cbd6af89decfa490f034bdbc6adb57992fc75cd9.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/cbd6af89decfa490f034bdbc6adb57992fc75cd9.webp",
+        "source": "wikimedia",
+        "credit": "Анна Мейер",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Mendy_2021.jpg",
+        "alt": "Édouard Mendy, gardien de but de l'équipe du Sénégal",
+        "mots_cles": [
+          "Édouard Mendy"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "88d5acce09106b055c0369b486e1ae08631c8e4b",
+      "titre": "CAF Awards 2026 : Pape Thiaw et Lamine Ndiaye parmi les dix meilleurs entraîneurs",
+      "resume": "La CAF a publié la liste des dix techniciens en course pour le titre d'entraîneur africain de l'année. Deux Sénégalais y figurent, Pape Thiaw et Lamine Ndiaye, aux côtés de Walid Regragui, Mohamed Ouahbi et Sébastien Desabre.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "MA"
+      ],
+      "competition": "CAF Awards",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a861374524028825871-caf-awards-2026-les-dix-nommes-pour-le-titre-de-meilleur-coach-africain",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/04/caf-awards-2026-avec-pape-thiaw-lamine-ndiaye-nomme-pour-le-titre-de-meilleur-entraineur-africain/",
+        "https://wiwsport.com/2026/11/04/caf-awards-2026-pape-thiaw-dans-la-course-au-titre-de-meilleur-entraineur-africain/"
+      ],
+      "publie_le": "2026-11-04T09:35:56.000Z",
+      "collecte_le": "2026-11-04T11:20:43.061Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-pape-thiaw-et-lamine-ndiaye-parmi-les-dix-meilleurs-88d5ac",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/88d5acce09106b055c0369b486e1ae08631c8e4b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/88d5acce09106b055c0369b486e1ae08631c8e4b.webp",
+        "source": "wikimedia",
+        "credit": "LHC88",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:ACM-Spurs_CL_2023.png",
+        "alt": "Pape Thiaw, entraîneur sénégalais de football",
+        "mots_cles": [
+          "Pape Thiaw"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "81255f933558852f3797f711857a5831039b6b3c",
+      "titre": "CAF Awards 2026 : Diomande, Bouaddi et Maza en tête des dix jeunes nommés",
+      "resume": "Dix espoirs se disputent la distinction réservée aux meilleurs talents précoces du continent. L'Ivoirien Yan Diomande, le Marocain Ayyoub Bouaddi et l'Algérien Ibrahim Maza font figure de favoris. Le Sénégalais Ibrahim Mbaye est aussi nommé.",
+      "theme": "foot",
+      "pays": [
+        "CI",
+        "MA",
+        "DZ",
+        "SN"
+      ],
+      "competition": "CAF Awards",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a7166820891012931369-caf-awards-2026-les-dix-nommes-pour-le-titre-de-meilleur-jeune-joueur-africain",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/04/ibrahim-mbaye-nomine-pour-le-titre-de-meilleur-jeune-africain/",
+        "https://www.afrik-foot.com/caf-awards-2026-bouaddi-maza-ou-diomande-qui-part-favori-chez-les-jeunes"
+      ],
+      "publie_le": "2026-11-04T09:15:14.000Z",
+      "collecte_le": "2026-11-04T11:20:43.061Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-diomande-bouaddi-et-maza-en-tete-des-dix-jeunes-nommes-81255f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/81255f933558852f3797f711857a5831039b6b3c.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/81255f933558852f3797f711857a5831039b6b3c.webp",
+        "source": "wikimedia",
+        "credit": "Ardfern",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Newcastle_United_vs_Bayer_Leverkusen,_15_August_2026_(18).jpg",
+        "alt": "Ibrahim Maza, milieu offensif international algérien",
+        "mots_cles": [
+          "Ibrahim Maza"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "957aebe86121bfb81dcffb9b2e8ab0e653d55199",
       "titre": "Ligue 1 sénégalaise : Teungueth FC remporte entraîneur, joueur et gardien de l'année",
@@ -1977,104 +2087,6 @@
       ],
       "slug": "coupe-de-la-caf-azam-et-as-far-parmi-les-qualifies-avant-le-tirage-des-9b53e0",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9b53e02dd146a4138d0ae822297b16ed7c7810f0.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "48985bf15456eb25b7f689b35f5d6c10569eb370",
-      "titre": "Süper Lig : André Onana et Trabzonspor remontent deux buts pour battre Rizespor 4-3",
-      "resume": "Trabzonspor perdait 2-0 à la mi-temps chez le Çaykur Rizespor, lundi 26 octobre, pour la 9e journée du championnat turc. L'équipe du gardien camerounais André Onana, titulaire, a finalement gagné 4-3.",
-      "theme": "foot",
-      "pays": [
-        "CM"
-      ],
-      "competition": "Süper Lig",
-      "source_nom": "Camfoot",
-      "source_url": "https://www.camfoot.com/les-lions-en-club/super-lig-onana-et-trabzonspor-renversent-rizespor-4-3,558941.html",
-      "publie_le": "2026-10-27T02:50:12.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/48985bf15456eb25b7f689b35f5d6c10569eb370.webp",
-        "source": "wikimedia",
-        "credit": "Franco237",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Onana.jpg",
-        "alt": "Le gardien de but camerounais André Onana",
-        "mots_cles": [
-          "André Onana"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "super-lig-andre-onana-et-trabzonspor-remontent-deux-buts-pour-battre-48985b",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/48985bf15456eb25b7f689b35f5d6c10569eb370.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "45fc03a8a0bfa61c0b0f1bf6ba759261673db5a0",
-      "titre": "Pape Gueye se pose en candidat au Ballon d'Or africain",
-      "resume": "Le milieu sénégalais de Villarreal a dit sur Canal+ Sport Afrique viser le Ballon d'Or africain de cette année. Il met en avant le titre continental gagné avec les Lions, son but marqué en finale et sa distinction de meilleur joueur africain de Liga. Ismaïla Sarr est l'autre Sénégalais en lice.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Ballon d'Or africain",
-      "source_nom": "Wiwsport",
-      "source_url": "https://wiwsport.com/2026/10/27/pape-gueye-le-ballon-dor-africain-fait-partie-de-mes-objectifs/",
-      "autres_sources": [
-        "https://africatopsports.com/football/ballon-dor-africain-pape-gueye-devoile-ses-ambitions/",
-        "https://senego.com/pape-gueye-revendique-sa-candidature-apres-son-titre-de-meilleur-africain-de-liga_2017669.html"
-      ],
-      "publie_le": "2026-10-27T00:39:52.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/45fc03a8a0bfa61c0b0f1bf6ba759261673db5a0.webp",
-        "source": "wikimedia",
-        "credit": "Supporterhéninois",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Lens_-_Le_Havre_AC_(01-04-2019)_44.jpg",
-        "alt": "Le milieu de terrain sénégalais Pape Gueye",
-        "mots_cles": [
-          "Pape Gueye"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "pape-gueye-se-pose-en-candidat-au-ballon-or-africain-45fc03",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/45fc03a8a0bfa61c0b0f1bf6ba759261673db5a0.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "b8b05a1289992b843ff44406506830b2e98c2816",
-      "titre": "Cameroun : la Fécafoot récompense les Lions U20 qualifiés pour la CAN",
-      "resume": "La fédération camerounaise verse une prime exceptionnelle de 20 millions de FCFA à ses moins de 20 ans. Invaincue à Yaoundé lors du tournoi qualificatif de l'Uniffac, avec dix buts marqués, l'équipe d'Yvan Kenmoe disputera la CAN 2027 au Ghana après avoir manqué les deux précédentes éditions.",
-      "theme": "foot",
-      "pays": [
-        "CM"
-      ],
-      "competition": "CAN U20",
-      "source_nom": "Camfoot",
-      "source_url": "https://www.camfoot.com/actualites/la-fecafoot-offre-une-prime-speciale-de-20-millions-de-fcfa-aux-lions-u20,558949.html",
-      "publie_le": "2026-10-26T22:46:15.000Z",
-      "collecte_le": "2026-10-27T00:07:25.846Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/b8b05a1289992b843ff44406506830b2e98c2816.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Cameroun) et la mention « CAN U20 »",
-        "mots_cles": [
-          "cameroon youth football",
-          "african youth football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "cameroun-la-fecafoot-recompense-les-lions-u20-qualifies-pour-la-can-b8b05a",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/b8b05a1289992b843ff44406506830b2e98c2816.json",
       "lecture_min": 1
     }
   ]

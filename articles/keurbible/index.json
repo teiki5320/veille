@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-03T18:17:17.377Z",
+  "genere_le": "2026-11-04T11:20:43.033Z",
   "articles": [
+    {
+      "id": "8d178abd6d8a8595aa23ee74ecb452b068feb06f",
+      "slug": "kenya-nakuru-eveque-invite-les-fideles-visiter-les-tombes-pour-prier-8d178a",
+      "titre": "Kenya : à Nakuru, l'évêque invite les fidèles à visiter les tombes pour prier les défunts",
+      "publie_le": "2026-11-03T20:50:00.000Z",
+      "redige_le": "2026-11-04T11:20:38.009Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/8d178abd6d8a8595aa23ee74ecb452b068feb06f.json"
+    },
     {
       "id": "4e6a4294889877f2ebe31e659e89c2c4cc5007aa",
       "slug": "cote-ivoire-eglise-relance-sa-pastorale-des-migrants-et-des-gens-de-la-4e6a42",

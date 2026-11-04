@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "e7606aa9ecf2771d74e664c854cddcab90d6b15e",
+  "slug": "cyberattaque-au-credit-mutuel-arkea-des-virements-suspendus-118-e7606a",
+  "titre": "Cyberattaque au Crédit Mutuel Arkéa : des virements suspendus, 118 millions d'euros en jeu",
+  "chapo": "Le groupe bancaire breton reconnaît avoir été piraté. Des fonds ont été détournés et une partie des transactions, dont certains virements, est encore gelée.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Mercredi 4 novembre, la banque Arkéa, du groupe Crédit Mutuel, a reconnu avoir été la cible d'une attaque informatique. Selon la banque, les pirates ont pu réaliser des opérations frauduleuses. Elle affirme que la situation est désormais sous contrôle.",
+        "Le groupe, dont le siège se trouve au Relecq-Kerhuon, près de Brest, rassemble les caisses du Crédit Mutuel en Bretagne et dans le Sud-Ouest, ainsi que plusieurs filiales spécialisées."
+      ]
+    },
+    {
+      "intertitre": "Un montant non confirmé par la banque",
+      "paragraphes": [
+        "Le quotidien Le Télégramme évoque un butin d'environ 118 millions d'euros (133 millions de dollars). Arkéa n'a pas validé ce chiffre et n'a rien dit de la méthode employée.",
+        "L'alerte est venue de ZachXBT, un enquêteur indépendant connu pour pister les fonds sur les blockchains. D'après lui, l'attaque s'est étalée sur plusieurs jours et l'argent a été transféré sur des places de marché de cryptomonnaies avant d'être changé en stablecoins. Il reproche à la banque d'avoir prévenu trop tard, ce qui aurait laissé blanchir au-delà de 30 millions de dollars.",
+        "La Banque de France a été informée, selon Le Télégramme. Elle n'a pas fait de commentaire."
+      ]
+    },
+    {
+      "intertitre": "Ce que cela change pour les clients",
+      "paragraphes": [
+        "Par précaution, Arkéa a mis en pause certaines transactions pour éviter de nouveaux mouvements suspects. Des services, comme une partie des virements, restaient inaccessibles mercredi. La banque promet un retour rapide, une fois les derniers contrôles terminés.",
+        "Elle assure que ses clients ne subiront aucune perte financière. Pour un dirigeant de TPE ou de PME client du réseau, il est utile de vérifier les paiements prévus ces prochains jours, notamment les salaires et les fournisseurs."
+      ]
+    },
+    {
+      "intertitre": "La France très exposée",
+      "paragraphes": [
+        "Plusieurs rapports classent la France parmi les pays les plus visés par les cyberattaques. L'affaire survient quelques jours seulement après que la plateforme Binance a elle-même été piratée. Arkéa avait dégagé 230 millions d'euros de bénéfice net au premier semestre."
+      ]
+    }
+  ],
+  "mots": 331,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/cybersecurite/credit-mutuel-arkea-la-banque-victime-d-une-cyberattaque-et-d-operations-frauduleuses-31376807.php",
+  "autres_sources": [
+    "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
+    "https://www.ladepeche.fr/2026/11/04/cyberattaque-au-credit-mutuel-arkea-133-millions-de-dollars-detournes-par-les-pirates-quelles-consequences-pour-votre-compte-en-banque-13635398.php",
+    "https://www.20minutes.fr/economie/4260262-20261104-piratage-credit-mutuel-victime-cyberattaque-permis-operations-frauduleuses?at_medium=display&at_campaign=149"
+  ],
+  "publie_le": "2026-11-04T10:24:45.000Z",
+  "redige_le": "2026-11-04T11:20:48.434Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/e7606aa9ecf2771d74e664c854cddcab90d6b15e.webp",
+    "source": "wikimedia",
+    "credit": "FJaffres",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%A9dit_Mutuel_Ark%C3%A9a_b%C3%A2timent_Mirabeau.jpg",
+    "alt": "Le siège du Crédit Mutuel Arkéa au Relecq-Kerhuon, dans le Finistère",
+    "mots_cles": [
+      "Crédit Mutuel Arkéa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

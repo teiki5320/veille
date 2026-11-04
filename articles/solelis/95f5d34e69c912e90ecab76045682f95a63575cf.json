@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "95f5d34e69c912e90ecab76045682f95a63575cf",
+  "slug": "zone-euro-inflation-monte-4-en-octobre-du-jamais-vu-depuis-2023-95f5d3",
+  "titre": "Zone euro : l'inflation monte à 4 % en octobre, du jamais-vu depuis 2023",
+  "chapo": "L'inflation a atteint 4 % en octobre dans les 21 pays de la zone euro. C'est son plus haut niveau depuis trois ans, sous l'effet de l'envolée de l'énergie.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "D'après les premiers chiffres d'Eurostat, l'office statistique de l'Union européenne, publiés mercredi 4 novembre, la hausse des prix sur un an est passée de 3,8 % en septembre à 4 % en octobre dans la zone euro.",
+        "Il faut remonter à septembre 2023 pour trouver un chiffre aussi élevé. À l'époque, les prix subissaient encore le choc de l'offensive russe lancée contre l'Ukraine en février 2022."
+      ]
+    },
+    {
+      "intertitre": "L'énergie en première ligne",
+      "paragraphes": [
+        "Le conflit au Moyen-Orient a fait grimper le pétrole. Les prix de l'énergie ont bondi de 20,8 % sur un an en octobre, après 18,9 % le mois précédent.",
+        "Les autres postes bougent beaucoup moins. Les services passent de 3,2 % à 3,3 %, et l'alimentation de 1,3 % à 1,6 %. Ce niveau d'inflation correspond à ce qu'attendaient les analystes interrogés par Bloomberg."
+      ]
+    },
+    {
+      "intertitre": "Une hausse attendue sur l'alimentation",
+      "paragraphes": [
+        "Pour Jack Allen-Reynolds, du cabinet Capital Economics, le renchérissement de l'énergie se diffuse encore très peu aux produits alimentaires. Il estime que la hausse de l'énergie pourrait ralentir un peu en novembre si les cours restent stables, mais que la facture alimentaire devrait monter plus nettement dans les mois à venir.",
+        "Pour un chef de petite entreprise, ces chiffres pèsent sur les coûts de transport, de chauffage et de matières premières, ainsi que sur les discussions salariales."
+      ]
+    },
+    {
+      "intertitre": "Loin de l'objectif de la BCE",
+      "paragraphes": [
+        "La Banque centrale européenne vise une inflation de 2 % à moyen terme. Le niveau actuel en est le double, ce qui placera ce chiffre au cœur de ses prochaines décisions sur les taux d'intérêt. Ces taux servent de référence au coût des crédits accordés aux entreprises comme aux ménages."
+      ]
+    }
+  ],
+  "mots": 301,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/international/europe/zone-euro-l-inflation-grimpe-a-4-en-octobre-nouveau-sommet-depuis-trois-ans-31376891.php",
+  "publie_le": "2026-11-04T10:45:30.000Z",
+  "redige_le": "2026-11-04T11:20:48.434Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/95f5d34e69c912e90ecab76045682f95a63575cf.webp",
+    "source": "wikimedia",
+    "credit": "Eurostat https://ec.europa.eu/eurostat/about/policies/copyright",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eurostat_Newlogo.png",
+    "alt": "Le bâtiment d'Eurostat, l'office statistique de l'Union européenne",
+    "mots_cles": [
+      "Eurostat"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

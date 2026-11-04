@@ -1,8 +1,137 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-03T18:17:25.351Z",
+  "genere_le": "2026-11-04T11:20:48.434Z",
   "actus": [
+    {
+      "id": "95f5d34e69c912e90ecab76045682f95a63575cf",
+      "titre": "Zone euro : l'inflation monte à 4 % en octobre, du jamais-vu depuis 2023",
+      "resume": "Les prix ont augmenté de 4 % sur un an en octobre dans la zone euro, contre 3,8 % en septembre, selon Eurostat. L'énergie, en hausse de 20,8 %, tire l'indice. Les prix des services et de l'alimentation progressent plus légèrement.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/international/europe/zone-euro-l-inflation-grimpe-a-4-en-octobre-nouveau-sommet-depuis-trois-ans-31376891.php",
+      "publie_le": "2026-11-04T10:45:30.000Z",
+      "collecte_le": "2026-11-04T11:20:48.434Z",
+      "langue": "fr",
+      "slug": "zone-euro-inflation-monte-4-en-octobre-du-jamais-vu-depuis-2023-95f5d3",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/95f5d34e69c912e90ecab76045682f95a63575cf.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/95f5d34e69c912e90ecab76045682f95a63575cf.webp",
+        "source": "wikimedia",
+        "credit": "Eurostat https://ec.europa.eu/eurostat/about/policies/copyright",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Eurostat_Newlogo.png",
+        "alt": "Le bâtiment d'Eurostat, l'office statistique de l'Union européenne",
+        "mots_cles": [
+          "Eurostat"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "e7606aa9ecf2771d74e664c854cddcab90d6b15e",
+      "titre": "Cyberattaque au Crédit Mutuel Arkéa : des virements suspendus, 118 millions d'euros en jeu",
+      "resume": "Le Crédit Mutuel Arkéa confirme avoir subi une attaque informatique suivie de détournements. La banque dit l'incident sous contrôle et sans perte pour ses clients, mais certaines opérations restent bloquées. Le préjudice est estimé à 118 millions d'euros.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/economie/cybersecurite/credit-mutuel-arkea-la-banque-victime-d-une-cyberattaque-et-d-operations-frauduleuses-31376807.php",
+      "autres_sources": [
+        "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
+        "https://www.ladepeche.fr/2026/11/04/cyberattaque-au-credit-mutuel-arkea-133-millions-de-dollars-detournes-par-les-pirates-quelles-consequences-pour-votre-compte-en-banque-13635398.php",
+        "https://www.20minutes.fr/economie/4260262-20261104-piratage-credit-mutuel-victime-cyberattaque-permis-operations-frauduleuses?at_medium=display&at_campaign=149"
+      ],
+      "publie_le": "2026-11-04T10:24:45.000Z",
+      "collecte_le": "2026-11-04T11:20:48.434Z",
+      "langue": "fr",
+      "slug": "cyberattaque-au-credit-mutuel-arkea-des-virements-suspendus-118-e7606a",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/e7606aa9ecf2771d74e664c854cddcab90d6b15e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/e7606aa9ecf2771d74e664c854cddcab90d6b15e.webp",
+        "source": "wikimedia",
+        "credit": "FJaffres",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cr%C3%A9dit_Mutuel_Ark%C3%A9a_b%C3%A2timent_Mirabeau.jpg",
+        "alt": "Le siège du Crédit Mutuel Arkéa au Relecq-Kerhuon, dans le Finistère",
+        "mots_cles": [
+          "Crédit Mutuel Arkéa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "982ddc3cc2f574de7263347e15eed20d8605f679",
+      "titre": "Gazole : 15 centimes de moins en moyenne grâce aux stocks stratégiques",
+      "resume": "Deux tiers des stations françaises ont réduit le prix du gazole depuis le 1er novembre, de 15 centimes en moyenne selon Roland Lescure. Dans 3 000 stations, la baisse dépasse 20 centimes. L'État vend dix millions de barils à prix coûtant jusqu'en janvier.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/energie/apres-la-liberation-de-stocks-strategiques-roland-lescure-annonce-que-la-baisse-des-prix-du-gazole-depasse-les-20-centimes-dans-3-000-stations_AV-202611040354.html",
+      "autres_sources": [
+        "https://www.laprovence.com/article/france-monde/16617707170558/prix-du-carburant-la-baisse-des-prix-du-gazole-atteint-15-centimes-en-moyenne-estime-le-ministre-de-leconomie",
+        "https://www.sudouest.fr/economie/energie/carburants/prix-du-carburant-le-gazole-recule-de-15-centimes-en-moyenne-dans-plusieurs-milliers-de-stations-service-31375584.php"
+      ],
+      "publie_le": "2026-11-04T08:25:04.000Z",
+      "collecte_le": "2026-11-04T11:20:48.434Z",
+      "langue": "fr",
+      "slug": "gazole-15-centimes-de-moins-en-moyenne-grace-aux-stocks-strategiques-982ddc",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/982ddc3cc2f574de7263347e15eed20d8605f679.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/982ddc3cc2f574de7263347e15eed20d8605f679.webp",
+        "source": "wikimedia",
+        "credit": "FreCha",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ancienne_station-service_2.jpg",
+        "alt": "Une station-service en France",
+        "mots_cles": [
+          "Station-service France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49",
+      "titre": "Faute inexcusable : depuis le 1er novembre, la note s'alourdit pour l'employeur",
+      "resume": "La réforme de la rente d'accident du travail, en vigueur depuis le 1er novembre 2026, alourdit la facture de l'employeur en cas de faute inexcusable. Le document unique d'évaluation des risques reste la première pièce que regarde le juge.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Journal du Net",
+      "source_url": "https://www.journaldunet.com/management/direction-generale/1557447-faute-inexcusable-avec-la-rente-duale-un-document-unique-bacle-coutera-plus-cher-a-l-employeur/",
+      "publie_le": "2026-11-04T07:00:13.000Z",
+      "collecte_le": "2026-11-04T11:20:48.434Z",
+      "langue": "fr",
+      "slug": "faute-inexcusable-depuis-le-1er-novembre-la-note-alourdit-pour-5519e8",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49.webp",
+        "source": "openverse",
+        "credit": "futureatlas.com",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/87913776@N00/5455995391",
+        "alt": "Un salarié équipé de protections sur son lieu de travail",
+        "mots_cles": [
+          "workplace safety"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "19a63a70f60963f4c1339b174057c93c0248b294",
       "titre": "Gifi placé en redressement judiciaire : six mois pour trouver une issue",

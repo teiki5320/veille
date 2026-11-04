@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-03T18:17:14.038Z",
+  "genere_le": "2026-11-04T11:20:38.009Z",
   "actus": [
+    {
+      "id": "8d178abd6d8a8595aa23ee74ecb452b068feb06f",
+      "titre": "Kenya : à Nakuru, l'évêque invite les fidèles à visiter les tombes pour prier les défunts",
+      "resume": "Lors d'une messe pour les prêtres et religieux défunts, le 3 novembre, Mgr Cleophas Oseso Tuka, évêque de Nakuru, a encouragé les fidèles à se rendre sur les tombes. Il y voit une leçon d'humilité et rappelle que la prière est le plus beau don fait aux morts.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25105/visit-the-grave-to-gain-wisdom-kenyan-catholic-bishops-lessons-for-all-souls-day",
+      "publie_le": "2026-11-03T20:50:00.000Z",
+      "collecte_le": "2026-11-04T11:20:38.009Z",
+      "langue": "en",
+      "slug": "kenya-nakuru-eveque-invite-les-fideles-visiter-les-tombes-pour-prier-8d178a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/8d178abd6d8a8595aa23ee74ecb452b068feb06f.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/8d178abd6d8a8595aa23ee74ecb452b068feb06f.webp",
+        "source": "wikimedia",
+        "credit": "Nairobi123 Original Works Above",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nakuru_montage.png",
+        "alt": "La ville de Nakuru, au Kenya",
+        "mots_cles": [
+          "Nakuru"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4e6a4294889877f2ebe31e659e89c2c4cc5007aa",
       "titre": "Côte d'Ivoire : l'Église relance sa pastorale des migrants et des gens de la route",
