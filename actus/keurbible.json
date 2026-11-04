@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-04T11:20:38.009Z",
+  "genere_le": "2026-11-04T18:18:28.848Z",
   "actus": [
+    {
+      "id": "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa",
+      "titre": "Ghana : les femmes catholiques du monde réunies à Accra pour défendre la dignité de chacun",
+      "resume": "L'Union mondiale des organisations féminines catholiques tient cette semaine une conférence de cinq jours à Accra. Elle y lance au Ghana une campagne de sensibilisation et propose une écoute confidentielle aux personnes victimes de violences, femmes comme hommes.",
+      "theme": "culture",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25121/catholic-womens-union-launches-ghana-campaign-against-gender-based-violence-offers-support-to-victims",
+      "publie_le": "2026-11-04T16:26:00.000Z",
+      "collecte_le": "2026-11-04T18:18:28.848Z",
+      "langue": "en",
+      "slug": "ghana-les-femmes-catholiques-du-monde-reunies-accra-pour-defendre-la-c752f1",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/c752f15942fdbe77e4ad7e0da7475b1f5963c7fa.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/c752f15942fdbe77e4ad7e0da7475b1f5963c7fa.webp",
+        "source": "wikimedia",
+        "credit": "No machine-readable author provided. Pgallert assumed (based on copyright claims).",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Holy_Spirit_Cathedral,_Accra-information.jpg",
+        "alt": "La cathédrale du Saint-Esprit à Accra, au Ghana",
+        "mots_cles": [
+          "Holy Spirit Cathedral Accra"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "49a135982501fc5a7ca02c13a80811ebf5ed2b62",
+      "titre": "Cameroun : à Sangmélima, le diocèse ouvre une école d'informatique pour les jeunes",
+      "resume": "Une antenne de l'IAI, l'école d'ingénieurs en informatique, a fait sa première rentrée à Sangmélima, dans le sud du Cameroun. Le projet est porté par l'évêque du lieu, Mgr Christophe Zoa, qui veut offrir aux jeunes de la région une formation d'ingénieur sans quitter chez eux.",
+      "theme": "culture",
+      "pays": [
+        "CM"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/cameroun-la-pastorale-au-futur-numerique.html",
+      "publie_le": "2026-11-04T14:22:00.000Z",
+      "collecte_le": "2026-11-04T18:18:28.848Z",
+      "langue": "fr",
+      "slug": "cameroun-sangmelima-le-diocese-ouvre-une-ecole-informatique-pour-les-49a135",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/49a135982501fc5a7ca02c13a80811ebf5ed2b62.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/49a135982501fc5a7ca02c13a80811ebf5ed2b62.webp",
+        "source": "wikimedia",
+        "credit": "Contributers to OpenStreetMap",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sangmelima_SU0201.png",
+        "alt": "Une vue de la ville de Sangmélima, dans le sud du Cameroun",
+        "mots_cles": [
+          "Sangmélima"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8d178abd6d8a8595aa23ee74ecb452b068feb06f",
       "titre": "Kenya : à Nakuru, l'évêque invite les fidèles à visiter les tombes pour prier les défunts",

@@ -1,8 +1,50 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-04T11:20:43.061Z",
+  "genere_le": "2026-11-04T18:18:36.489Z",
   "actus": [
+    {
+      "id": "05a44de0e3632653db1f2be279d62186cc779aeb",
+      "titre": "CAF Awards 2026 : Hakimi, Mané et Semenyo en lice pour le trophée du meilleur joueur",
+      "resume": "La CAF a publié mercredi les dix noms en course pour la récompense du meilleur joueur du continent en 2026. Le Maroc et le Sénégal placent chacun trois joueurs, dont le tenant Achraf Hakimi et Sadio Mané. Le lauréat sera connu le 7 décembre à Lagos.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "SN",
+        "CI",
+        "GH",
+        "CD",
+        "ZA"
+      ],
+      "competition": "Ballon d'Or africain",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a3840302555532362838-caf-awards-2026-les-dix-nommes-pour-le-ballon-dor-africain-avec-quelques-surprises",
+      "autres_sources": [
+        "https://www.afrik-foot.com/ballon-dor-africain-la-liste-des-10-nommes-maza-et-diomande-oublies-3-noms-font-debat",
+        "https://kawowo.com/2026/11/04/caf-reveals-shortlists-for-2026-awards/",
+        "https://senego.com/caf-awards-2026-sadio-mane-ismaila-sarr-pape-gueye-le-senegal-en-force-parmi-les-nomines_2020386.html",
+        "https://wiwsport.com/2026/11/04/caf-awards-2026-ismaila-sarr-pape-gueye-et-sadio-mane-trois-lions-aux-arguments-solides/"
+      ],
+      "publie_le": "2026-11-04T11:13:50.000Z",
+      "collecte_le": "2026-11-04T18:18:36.489Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-hakimi-mane-et-semenyo-en-lice-pour-le-trophee-du-05a44d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/05a44de0e3632653db1f2be279d62186cc779aeb.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/05a44de0e3632653db1f2be279d62186cc779aeb.webp",
+        "source": "wikimedia",
+        "credit": "Bryan Berlin",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-32.jpg",
+        "alt": "Le défenseur marocain Achraf Hakimi sous le maillot de son équipe",
+        "mots_cles": [
+          "Achraf Hakimi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "cbd6af89decfa490f034bdbc6adb57992fc75cd9",
       "titre": "CAF Awards 2026 : Mendy, Bounou et Vozinha parmi les dix gardiens nommés",
@@ -2051,42 +2093,6 @@
       },
       "slug": "ligue-des-champions-caf-scottland-fc-se-separe-de-norman-mapeza-1c5eb2",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1c5eb284cbc146f84aea23ca93f3bb7141d17441.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "9b53e02dd146a4138d0ae822297b16ed7c7810f0",
-      "titre": "Coupe de la CAF : Azam et l'AS FAR parmi les qualifiés avant le tirage des groupes",
-      "resume": "Le tirage de la phase de groupes de la Coupe de la CAF 2026-2027 a lieu mercredi. Azam, le club tanzanien de l'Ougandais Hassan Mubiru, y figure après avoir sorti ZED (Égypte), tout comme l'AS FAR de Rabat, où joue son compatriote Allan Okello.",
-      "theme": "foot",
-      "pays": [
-        "TZ",
-        "MA",
-        "UG"
-      ],
-      "competition": "Coupe de la CAF",
-      "source_nom": "Kawowo Sports",
-      "source_url": "https://kawowo.com/2026/10/27/caf-confederation-cup-mubirus-azam-okellos-as-far-headline-group-stage-draw/",
-      "publie_le": "2026-10-27T07:16:41.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "en",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/9b53e02dd146a4138d0ae822297b16ed7c7810f0.webp",
-        "source": "wikimedia",
-        "credit": "Pangalau",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:DPMM-Kota_Ranger_27_November_2022_(Players)_16.jpg",
-        "alt": "Le club tanzanien Azam FC",
-        "mots_cles": [
-          "Azam F.C."
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://www.afrik-foot.com/coupe-caf-las-far-rabat-offre-le-2-2-au-maroc-la-cote-divoire-bredouille"
-      ],
-      "slug": "coupe-de-la-caf-azam-et-as-far-parmi-les-qualifies-avant-le-tirage-des-9b53e0",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9b53e02dd146a4138d0ae822297b16ed7c7810f0.json",
       "lecture_min": 1
     }
   ]

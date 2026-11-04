@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "49a135982501fc5a7ca02c13a80811ebf5ed2b62",
+  "slug": "cameroun-sangmelima-le-diocese-ouvre-une-ecole-informatique-pour-les-49a135",
+  "titre": "Cameroun : à Sangmélima, le diocèse ouvre une école d'informatique pour les jeunes",
+  "chapo": "Au sud du Cameroun, l'Église catholique s'investit dans le numérique : une antenne de l'IAI, établissement qui forme aux métiers de l'informatique, accueille sa toute première promotion à Sangmélima, à l'initiative de l'évêque.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'année universitaire 2026-2027 a commencé avec une nouveauté à Sangmélima, chef-lieu du département du Dja-et-Lobo. L'IAI-Cameroun, établissement d'enseignement supérieur spécialisé en informatique, y a ouvert une antenne. Il prépare des ingénieurs dans deux filières : systèmes et réseaux d'une part, génie logiciel de l'autre.",
+        "Le projet est né sous l'impulsion de Mgr Christophe Zoa, évêque du diocèse, soutenu localement par une structure publique de la ville. L'évêque a présidé la cérémonie d'ouverture, puis visité les locaux avec les autorités et les partenaires."
+      ]
+    },
+    {
+      "intertitre": "Une rentrée placée sous la prière",
+      "paragraphes": [
+        "Lors de l'ouverture, Mgr Zoa a souhaité que l'année commence toujours par une prière à l'Esprit Saint, pour confier à Dieu le travail des étudiants et de leurs professeurs. Il voudrait en faire une tradition de l'établissement.",
+        "Pour lui, l'école doit aider les jeunes de la région à trouver leur place dans la vie active et à devenir des acteurs du développement. Il attend autant de rigueur technique que de qualités humaines : le sens des responsabilités, l'honnêteté et la discipline. Il a aussi remercié l'État camerounais pour son appui."
+      ]
+    },
+    {
+      "intertitre": "Les mêmes cours qu'à Yaoundé",
+      "paragraphes": [
+        "Chargé des études, l'abbé Armand Abeme voit dans cette ouverture un projet pastoral devenu concret. Il a précisé que l'antenne suit le même programme que le siège de Yaoundé, avec les mêmes enseignants et les mêmes examens. Il a invité la première promotion à se voir comme des pionniers, qui montrent la voie aux suivants.",
+        "Armand Claude Abanda, qui représente l'IAI dans le pays, a salué une initiative de l'évêque dont les effets se verront dans quelques années. Il a rassuré les étudiants sur la valeur de leur diplôme et évoqué de possibles bourses d'études en Chine."
+      ]
+    },
+    {
+      "intertitre": "L'école, une mission ancienne de l'Église",
+      "paragraphes": [
+        "Au Cameroun comme dans une grande partie de l'Afrique, l'Église catholique gère depuis longtemps des écoles, des collèges et des universités. Avec ce centre, le diocèse de Sangmélima prolonge cette tradition vers les métiers du numérique. L'ambition affichée est de former des concepteurs et des créateurs capables de répondre aux besoins concrets de leur région."
+      ]
+    }
+  ],
+  "mots": 374,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "CM"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/cameroun-la-pastorale-au-futur-numerique.html",
+  "publie_le": "2026-11-04T14:22:00.000Z",
+  "redige_le": "2026-11-04T18:18:28.848Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/49a135982501fc5a7ca02c13a80811ebf5ed2b62.webp",
+    "source": "wikimedia",
+    "credit": "Contributers to OpenStreetMap",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sangmelima_SU0201.png",
+    "alt": "Une vue de la ville de Sangmélima, dans le sud du Cameroun",
+    "mots_cles": [
+      "Sangmélima"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

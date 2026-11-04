@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa",
+  "slug": "ghana-les-femmes-catholiques-du-monde-reunies-accra-pour-defendre-la-c752f1",
+  "titre": "Ghana : les femmes catholiques du monde réunies à Accra pour défendre la dignité de chacun",
+  "chapo": "Fondée en 1910, l'Union mondiale des organisations féminines catholiques réunit ses membres à Accra jusqu'à la fin de la semaine, avec un objectif : rappeler que chaque personne a droit au respect.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Depuis le mardi 3 novembre, la capitale du Ghana accueille une conférence de l'Union mondiale des organisations féminines catholiques (UMOFC). Les débats durent cinq jours et se tiennent dans la salle de l'association nationale des enseignants du Ghana, sur le territoire de l'archidiocèse d'Accra.",
+        "Des responsables venus de Rome, des animatrices locales et le grand public y participent. À cette occasion, l'organisation lance dans le pays une campagne contre les violences et les discriminations liées au genre."
+      ]
+    },
+    {
+      "intertitre": "Une écoute discrète et personnelle",
+      "paragraphes": [
+        "La campagne s'appuie sur l'Observatoire mondial des femmes, un outil de l'UMOFC qui permet de signaler sa situation en toute confidentialité. Sœur Juliana Lamisi Akayeti, religieuse de la congrégation des Sœurs de Marie Immaculée, coordonne ce réseau au Ghana. Elle explique que chaque cas sera suivi à part, pour lever la peur de représailles dans les familles.",
+        "Pour elle, la dignité de la personne est au centre de la démarche. Si les femmes et les filles sont les premières concernées, les hommes et les garçons peuvent eux aussi demander de l'aide."
+      ]
+    },
+    {
+      "intertitre": "Des films et des échanges",
+      "paragraphes": [
+        "Le programme mêle des tables rondes avec des associations féminines ghanéennes, la Caritas, des jeunes et un collectif d'organisations non gouvernementales. Le but est de chercher ensemble des moyens concrets de faire reculer ces violences dans le pays.",
+        "Des films seront aussi projetés. Ils montrent des Kényans qui ont traversé de telles épreuves et ont réussi à reconstruire leur vie. Les organisatrices espèrent qu'ils redonneront courage à ceux qui vivent des situations semblables."
+      ]
+    },
+    {
+      "intertitre": "Un réseau présent sur tous les continents",
+      "paragraphes": [
+        "Créée il y a plus d'un siècle, l'UMOFC rassemble aujourd'hui plus de cent organisations de femmes catholiques à travers le monde. Elle veut renforcer sa présence en Afrique par l'éducation et la sensibilisation, et faire connaître au plus grand nombre les moyens de parler librement de sa situation."
+      ]
+    }
+  ],
+  "mots": 338,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25121/catholic-womens-union-launches-ghana-campaign-against-gender-based-violence-offers-support-to-victims",
+  "publie_le": "2026-11-04T16:26:00.000Z",
+  "redige_le": "2026-11-04T18:18:28.848Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/c752f15942fdbe77e4ad7e0da7475b1f5963c7fa.webp",
+    "source": "wikimedia",
+    "credit": "No machine-readable author provided. Pgallert assumed (based on copyright claims).",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Holy_Spirit_Cathedral,_Accra-information.jpg",
+    "alt": "La cathédrale du Saint-Esprit à Accra, au Ghana",
+    "mots_cles": [
+      "Holy Spirit Cathedral Accra"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

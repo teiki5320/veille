@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-04T11:20:48.412Z",
+  "genere_le": "2026-11-04T18:18:37.822Z",
   "articles": [
+    {
+      "id": "05a44de0e3632653db1f2be279d62186cc779aeb",
+      "slug": "caf-awards-2026-hakimi-mane-et-semenyo-en-lice-pour-le-trophee-du-05a44d",
+      "titre": "CAF Awards 2026 : Hakimi, Mané et Semenyo en lice pour le trophée du meilleur joueur",
+      "publie_le": "2026-11-04T11:13:50.000Z",
+      "redige_le": "2026-11-04T18:18:36.489Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/05a44de0e3632653db1f2be279d62186cc779aeb.json"
+    },
     {
       "id": "cbd6af89decfa490f034bdbc6adb57992fc75cd9",
       "slug": "caf-awards-2026-mendy-bounou-et-vozinha-parmi-les-dix-gardiens-nommes-cbd6af",

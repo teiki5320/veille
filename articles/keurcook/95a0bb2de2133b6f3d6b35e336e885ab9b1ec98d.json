@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "95a0bb2de2133b6f3d6b35e336e885ab9b1ec98d",
+  "slug": "joj-dakar-2026-une-foire-culinaire-fait-decouvrir-les-plats-de-95a0bb",
+  "titre": "JOJ Dakar 2026 : une foire culinaire fait découvrir les plats de plusieurs pays africains",
+  "chapo": "Les JOJ ne se jouent pas que sur les terrains : à Dakar, une foire culinaire invite délégations, visiteurs et habitants à goûter aux cuisines du continent.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jusqu'au 13 novembre, la capitale sénégalaise est l'hôte des JOJ 2026, lancés le 31 octobre. Pour l'occasion, la Ville et son fonds municipal de solidarité, le FODEM, ont ouvert, le lundi 2 novembre, une foire consacrée à la cuisine sur l'esplanade de l'hôtel de ville. Elle doit durer une quinzaine de jours.",
+        "Sous un vaste chapiteau blanc, les stands s'alignent sur une moquette bleue, entre bannières colorées et affiches à l'effigie d'Ayo, la mascotte des Jeux."
+      ]
+    },
+    {
+      "intertitre": "Jus de gingembre, de bouye et ataya",
+      "paragraphes": [
+        "Le Sénégal y met en avant ses boissons. Un stand propose plusieurs sortes de « waas », ces jus traditionnels préparés au citron, au gingembre ou au pain de singe, le fruit du baobab appelé bouye. On y sert aussi l'ataya, le thé à la menthe partagé en plusieurs verres.",
+        "Plus loin, deux restauratrices se sont associées pour cuisiner sur place, du petit-déjeuner au dîner. Elles notent que le public vient surtout le soir et à l'heure du déjeuner, quand les employés des bureaux voisins cherchent un repas."
+      ]
+    },
+    {
+      "intertitre": "Le Bénin à table",
+      "paragraphes": [
+        "Sur le stand du Bénin, tenu grâce à une association béninoise installée à Dakar, la carte fait voyager. On y trouve l'akassa, une pâte de maïs fermentée, et le blô, un gâteau de riz servi avec du poisson ou du poulet. L'aloko, ces bananes plantains frites, côtoie les brochettes et l'igname.",
+        "Côté boissons, l'adoyo, une boisson béninoise tirée du maïs, côtoie une crème de maïs que l'on déguste froide, accompagnée de lait et de glace pilée."
+      ]
+    },
+    {
+      "intertitre": "Trois foires dans la ville",
+      "paragraphes": [
+        "Selon un chargé de mission du maire de Dakar, la commune a voulu que les artisans, les femmes qui transforment les produits locaux et les entrepreneurs aient aussi leur place pendant les Jeux. Trois foires ont donc été montées : la foire culinaire, une foire de l'artisanat et une foire réservée aux entreprises.",
+        "Les organisateurs souhaitent y associer d'autres pays, de la Côte d'Ivoire à la Mauritanie en passant par le Burkina Faso, le Niger et le Maroc. Les exposants comptent sur les week-ends pour voir venir davantage de curieux."
+      ]
+    }
+  ],
+  "mots": 373,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "SN",
+    "BJ"
+  ],
+  "source_nom": "Le Soleil",
+  "source_url": "https://lesoleil.sn/actualites/joj-dakar-2026-la-culture-et-la-gastronomie-au-coeur-de-la-fete/",
+  "publie_le": "2026-11-04T17:31:49.000Z",
+  "redige_le": "2026-11-04T18:18:33.341Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/95a0bb2de2133b6f3d6b35e336e885ab9b1ec98d.webp",
+    "source": "wikimedia",
+    "credit": "HaguardDuNord ( talk )",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dakar_-_H%C3%B4tel_de_ville_(2).JPG",
+    "alt": "L'hôtel de ville de Dakar, au Sénégal",
+    "mots_cles": [
+      "Hôtel de ville de Dakar"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

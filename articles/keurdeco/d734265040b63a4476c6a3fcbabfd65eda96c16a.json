@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "d734265040b63a4476c6a3fcbabfd65eda96c16a",
+  "slug": "art-lagos-2026-rend-hommage-la-potiere-nigeriane-ladi-kwali-d73426",
+  "titre": "ART X Lagos 2026 rend hommage à la potière nigériane Ladi Kwali",
+  "chapo": "Pour entamer sa deuxième décennie, la foire d'art de Lagos met la terre cuite à l'honneur avec une exposition consacrée à Ladi Kwali, figure majeure de la poterie nigériane.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "ART X Lagos tient sa 11e édition du 5 au 8 novembre 2026 au Federal Palace, à Lagos. Fondée en 2016 par Tokini Peterside-Schwebig, la manifestation est devenue un rendez-vous important pour les artistes, les galeries et les acteurs culturels d'Afrique et de sa diaspora.",
+        "Le thème retenu, « Un nouveau chapitre, une nouvelle décennie », invite à regarder comment les créateurs du continent renouvellent les traditions dont ils ont hérité. La foire s'inspire des pionniers du modernisme nigérian, qui ont puisé dans les savoirs locaux pour inventer de nouvelles formes."
+      ]
+    },
+    {
+      "intertitre": "Ladi Kwali, au-delà du vase",
+      "paragraphes": [
+        "Le cœur du programme est une exposition dédiée à Ladi Dosei Kwali (1925-1984), conçue par la commissaire Jareh Das. Des céramiques et des archives prêtées par le Musée national de Lagos y sont réunies avec des pièces de collections privées.",
+        "Plutôt que de montrer la potière seule, l'exposition replace son œuvre dans son milieu. On y voit les travaux de Kande Ushafa et d'Asibi Ido, deux potières qui ont travaillé avec elle ou après elle, ainsi que des poteries traditionnelles des communautés gbari, nupe et de Bida. Le parcours interroge la frontière entre art et artisanat, et la place longtemps faite aux femmes dans l'histoire de l'art africain.",
+        "Dans le même esprit, un atelier de transmission met en relation dix jeunes créateurs avec des artistes confirmés."
+      ]
+    },
+    {
+      "intertitre": "Une pirogue, des tissus et des galeries",
+      "paragraphes": [
+        "Autre temps fort, l'installation de Ndidi Dike, présentée par la commissaire N'Goné Fall, s'organise autour de l'épave d'une pirogue retournée. Elle évoque Badagry et la mémoire de la traite transatlantique, avec des tissus suspendus et un miroir.",
+        "La section principale accueille des galeries du Nigeria, mais aussi d'Ouganda, du Ghana et du Royaume-Uni. Trois jeunes galeries nigérianes disposent d'un espace dédié."
+      ]
+    },
+    {
+      "intertitre": "Une foire ouverte sur la ville",
+      "paragraphes": [
+        "Le programme sort aussi des stands : une installation sonore et visuelle inspirée des passerelles piétonnes de Lagos, une bibliothèque participative et des projections de films. Une section réunit enfin cinq artistes africains dont les ateliers servent aussi d'écoles, de fermes ou de résidences."
+      ]
+    }
+  ],
+  "mots": 369,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "NG"
+  ],
+  "tags": [
+    "matiere:terre-cuite"
+  ],
+  "source_nom": "Art Africa",
+  "source_url": "https://artafricamagazine.org/art-x-lagos-2026-a-new-decade-of-artistic-reinvention-and-cultural-exchange/",
+  "publie_le": "2026-11-04T08:47:48.000Z",
+  "redige_le": "2026-11-04T18:18:35.278Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/d734265040b63a4476c6a3fcbabfd65eda96c16a.webp",
+    "source": "wikimedia",
+    "credit": "GualdimG",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Room_3,_Ladi_Kwali_-_Of_Soil_and_Stone,_Nigerian_Modernism,_Tate_Modern,_London_16.jpg",
+    "alt": "La potière nigériane Ladi Kwali ou l'une de ses céramiques",
+    "mots_cles": [
+      "Ladi Kwali"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

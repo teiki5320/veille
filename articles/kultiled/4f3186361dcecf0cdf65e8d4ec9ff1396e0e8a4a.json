@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a",
+  "slug": "emirats-arabes-unis-une-ferme-verticale-va-faire-pousser-des-tulipes-4f3186",
+  "titre": "Émirats arabes unis : une ferme verticale va faire pousser des tulipes en plein désert",
+  "chapo": "Cultiver des tulipes, fleur des climats frais, au milieu du désert : c'est le pari d'une entreprise installée aux Émirats arabes unis, qui mise sur l'agriculture en environnement contrôlé.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La société XSEED, créée par l'entrepreneuse Whitney Bromberg Hawkings, également à la tête de la marque de fleurs FlowerBX, prépare deux sites de production aux Émirats arabes unis. Le premier est présenté comme la première ferme verticale de tulipes des pays du Golfe. Le second, une serre intelligente, sera réservé aux roses.",
+        "Le projet est mené avec Pure Harvest, une entreprise de technologies agricoles de la région. La ferme de tulipes s'appuie sur l'intelligence artificielle et sur un pilotage fin des conditions de culture : température, humidité et lumière."
+      ]
+    },
+    {
+      "intertitre": "Des fleurs qui voyagent moins",
+      "paragraphes": [
+        "Selon XSEED, jusqu'à 90 % des fleurs haut de gamme vendues dans le Golfe arrivent de l'étranger. Elles passent par de longues chaînes logistiques réfrigérées et souvent par l'avion, ce qui pèse sur le bilan carbone.",
+        "L'entreprise veut livrer ses fleurs moins de 24 heures après la récolte, contre plus de cinq jours de trajet pour les tiges importées. Elle espère ainsi des bouquets plus frais, qui tiennent plus longtemps et génèrent moins de pertes, notamment pour les hôtels et les organisateurs d'événements."
+      ]
+    },
+    {
+      "intertitre": "Un cycle plus court, moins d'eau",
+      "paragraphes": [
+        "D'après la société, sa technologie raccourcit le cycle de culture jusqu'à 70 % et réduit la consommation d'eau de 40 %. Un argument de poids dans un pays où l'eau est rare et où les fortes chaleurs compliquent l'agriculture classique.",
+        "La culture verticale protège les plantes des aléas de la météo et permet de régler chaque paramètre. La serre à roses, elle, doit offrir des fleurs de qualité régulière toute l'année."
+      ]
+    },
+    {
+      "intertitre": "La question de l'énergie",
+      "paragraphes": [
+        "Ce modèle a aussi ses limites. L'éclairage artificiel, le refroidissement et la régulation du climat consomment beaucoup d'énergie, surtout sous un climat chaud. Les gains annoncés sur l'eau et le transport sont prometteurs, mais le bilan écologique réel dépendra de la façon dont les fermes seront alimentées et gérées."
+      ]
+    }
+  ],
+  "mots": 336,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "AE"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9889301/uae-launches-gcc-s-first-vertical-tulip-farm/",
+  "publie_le": "2026-11-04T13:00:00.000Z",
+  "redige_le": "2026-11-04T18:18:37.828Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a.webp",
+    "source": "wikimedia",
+    "credit": "John O'Neill",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tulipa_suaveolens_floriade_to_Canberra.jpg",
+    "alt": "Des tulipes en fleurs",
+    "mots_cles": [
+      "Tulipa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

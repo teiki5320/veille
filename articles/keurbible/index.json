@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-04T11:20:43.033Z",
+  "genere_le": "2026-11-04T18:18:33.326Z",
   "articles": [
+    {
+      "id": "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa",
+      "slug": "ghana-les-femmes-catholiques-du-monde-reunies-accra-pour-defendre-la-c752f1",
+      "titre": "Ghana : les femmes catholiques du monde réunies à Accra pour défendre la dignité de chacun",
+      "publie_le": "2026-11-04T16:26:00.000Z",
+      "redige_le": "2026-11-04T18:18:28.848Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/c752f15942fdbe77e4ad7e0da7475b1f5963c7fa.json"
+    },
+    {
+      "id": "49a135982501fc5a7ca02c13a80811ebf5ed2b62",
+      "slug": "cameroun-sangmelima-le-diocese-ouvre-une-ecole-informatique-pour-les-49a135",
+      "titre": "Cameroun : à Sangmélima, le diocèse ouvre une école d'informatique pour les jeunes",
+      "publie_le": "2026-11-04T14:22:00.000Z",
+      "redige_le": "2026-11-04T18:18:28.848Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/49a135982501fc5a7ca02c13a80811ebf5ed2b62.json"
+    },
     {
       "id": "8d178abd6d8a8595aa23ee74ecb452b068feb06f",
       "slug": "kenya-nakuru-eveque-invite-les-fideles-visiter-les-tombes-pour-prier-8d178a",

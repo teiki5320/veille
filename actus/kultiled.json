@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-04T11:20:48.413Z",
+  "genere_le": "2026-11-04T18:18:37.828Z",
   "actus": [
+    {
+      "id": "4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a",
+      "titre": "Émirats arabes unis : une ferme verticale va faire pousser des tulipes en plein désert",
+      "resume": "La jeune société XSEED développe aux Émirats la première ferme verticale de tulipes du Golfe, ainsi qu'une serre connectée pour les roses. L'objectif : produire sur place des fleurs aujourd'hui importées en grande majorité, avec un cycle plus court et moins d'eau.",
+      "theme": "culture-interieur",
+      "pays": [
+        "AE"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9889301/uae-launches-gcc-s-first-vertical-tulip-farm/",
+      "publie_le": "2026-11-04T13:00:00.000Z",
+      "collecte_le": "2026-11-04T18:18:37.828Z",
+      "langue": "en",
+      "slug": "emirats-arabes-unis-une-ferme-verticale-va-faire-pousser-des-tulipes-4f3186",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a.webp",
+        "source": "wikimedia",
+        "credit": "John O'Neill",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tulipa_suaveolens_floriade_to_Canberra.jpg",
+        "alt": "Des tulipes en fleurs",
+        "mots_cles": [
+          "Tulipa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "fa96619dac581d454fbc3b3def8e71d4566d938d",
       "titre": "Éclairage des serres : le néerlandais DLI veut miser sur les résultats des cultivateurs",

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-04T11:20:43.044Z",
+  "genere_le": "2026-11-04T18:18:36.482Z",
   "articles": [
+    {
+      "id": "d734265040b63a4476c6a3fcbabfd65eda96c16a",
+      "slug": "art-lagos-2026-rend-hommage-la-potiere-nigeriane-ladi-kwali-d73426",
+      "titre": "ART X Lagos 2026 rend hommage à la potière nigériane Ladi Kwali",
+      "publie_le": "2026-11-04T08:47:48.000Z",
+      "redige_le": "2026-11-04T18:18:35.278Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/d734265040b63a4476c6a3fcbabfd65eda96c16a.json"
+    },
     {
       "id": "a22efc30026ff20aebe5c78decd47dacd4b92ffd",
       "slug": "le-designer-yinka-ilori-revisite-le-maillot-exterieur-de-tottenham-a22efc",

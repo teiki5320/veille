@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-04T11:20:43.037Z",
+  "genere_le": "2026-11-04T18:18:33.341Z",
   "actus": [
+    {
+      "id": "95a0bb2de2133b6f3d6b35e336e885ab9b1ec98d",
+      "titre": "JOJ Dakar 2026 : une foire culinaire fait découvrir les plats de plusieurs pays africains",
+      "resume": "En marge des JOJ, les Jeux de la jeunesse, la Ville de Dakar a installé une foire culinaire sur l'esplanade de l'hôtel de ville. Jusqu'à la mi-novembre, des stands y présentent des jus traditionnels sénégalais, l'akassa béninoise ou encore le blô.",
+      "theme": "cuisine",
+      "pays": [
+        "SN",
+        "BJ"
+      ],
+      "source_nom": "Le Soleil",
+      "source_url": "https://lesoleil.sn/actualites/joj-dakar-2026-la-culture-et-la-gastronomie-au-coeur-de-la-fete/",
+      "publie_le": "2026-11-04T17:31:49.000Z",
+      "collecte_le": "2026-11-04T18:18:33.341Z",
+      "langue": "fr",
+      "slug": "joj-dakar-2026-une-foire-culinaire-fait-decouvrir-les-plats-de-95a0bb",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/95a0bb2de2133b6f3d6b35e336e885ab9b1ec98d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/95a0bb2de2133b6f3d6b35e336e885ab9b1ec98d.webp",
+        "source": "wikimedia",
+        "credit": "HaguardDuNord ( talk )",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Dakar_-_H%C3%B4tel_de_ville_(2).JPG",
+        "alt": "L'hôtel de ville de Dakar, au Sénégal",
+        "mots_cles": [
+          "Hôtel de ville de Dakar"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d2e881038f9e1ef49b4adfdc96268f377823be8b",
       "titre": "Afrique du Sud : un boulanger du Cap devient le premier sommelier du pain d'Afrique",
