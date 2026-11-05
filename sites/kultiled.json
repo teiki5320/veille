@@ -20,7 +20,7 @@
     { "nom": "Gerbeaud", "url": "https://www.gerbeaud.com/rss.xml", "langue": "fr" },
     { "nom": "Le Figaro", "url": "https://www.lefigaro.fr/rss/figaro_jardin.xml", "langue": "fr" },
     { "nom": "Futura", "url": "https://www.futura-sciences.com/rss/maison/actualites.xml", "langue": "fr" },
-    { "nom": "Végétable", "url": "https://www.vegetable.fr/rss", "langue": "fr" },
+    { "nom": "Végétable", "url": "https://www.vegetable.fr/feed/", "langue": "fr" },
     { "nom": "Sciences et Avenir", "url": "https://www.sciencesetavenir.fr/nature-environnement/rss.xml", "langue": "fr" },
     { "nom": "Le Monde", "url": "https://www.lemonde.fr/planete/rss_full.xml", "langue": "fr" },
     { "nom": "Terre-net", "url": "https://www.terre-net.fr/rss/", "langue": "fr" },
