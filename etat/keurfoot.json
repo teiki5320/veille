@@ -3268,7 +3268,7 @@
   "images_recentes": [
     {
       "id": "41f717fd71426f081e91936449134cb8e233274d",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Italy_vs_France_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Algeria_NT_training_2013_AFCON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "69dbd8d48e691f4f991aea0dda9ed8ffbac411ec",
@@ -3407,6 +3407,11 @@
     "69dbd8d48e691f4f991aea0dda9ed8ffbac411ec": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Patrick_Vieira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "2a7faaacf0f1caeefcf90c9318422a590c95d327": "https://upload.wikimedia.org/wikipedia/commons/2/25/Patrice_Motsepe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "3d0987c124909a5a1da245e289930dd57f8e87c5": "https://upload.wikimedia.org/wikipedia/commons/1/14/Stade_de_Reims.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "41f717fd71426f081e91936449134cb8e233274d": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Italy_vs_France_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "41f717fd71426f081e91936449134cb8e233274d": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Algeria_NT_training_2013_AFCON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "refusees": {
+    "41f717fd71426f081e91936449134cb8e233274d": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Italy_vs_France_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
   }
 }
