@@ -1199,11 +1199,11 @@
     },
     {
       "id": "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/6/63/Holy_Spirit_Cathedral%2C_Accra-information.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cathedral_Ghana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "49a135982501fc5a7ca02c13a80811ebf5ed2b62",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sangmelima_SU0201.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sangmelima_Cameroon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "8d178abd6d8a8595aa23ee74ecb452b068feb06f",
@@ -1287,9 +1287,17 @@
     "8de5e98461a3ede33df521684265d2f079984d5a": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Amb_Page_visits_Kuron_peace_village_with_Bishop_Taban.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "4e6a4294889877f2ebe31e659e89c2c4cc5007aa": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Abobo_Commune_Tunnel_in_Abidjan%2C_C%C3%B4te_d%27Ivoire_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "8d178abd6d8a8595aa23ee74ecb452b068feb06f": "https://upload.wikimedia.org/wikipedia/commons/6/67/Nakuru_montage.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "49a135982501fc5a7ca02c13a80811ebf5ed2b62": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sangmelima_SU0201.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa": "https://upload.wikimedia.org/wikipedia/commons/6/63/Holy_Spirit_Cathedral%2C_Accra-information.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "49a135982501fc5a7ca02c13a80811ebf5ed2b62": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sangmelima_Cameroon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cathedral_Ghana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "480437bd7496119b5ab81be756b10f224817f24b": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Star_Building%2C_Yaound%C3%A9%2C_Cameroon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "13c5681ec47bd09475c9a127ba6754857c63ffca": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lubango.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  "refusees": {
+    "49a135982501fc5a7ca02c13a80811ebf5ed2b62": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sangmelima_SU0201.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/63/Holy_Spirit_Cathedral%2C_Accra-information.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
   }
 }
