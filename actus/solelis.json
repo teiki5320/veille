@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-05T11:20:15.764Z",
+  "genere_le": "2026-11-05T12:01:24.024Z",
   "actus": [
     {
       "id": "5a7a4370a79ac21b876673a0a98296ea653da227",
@@ -88,12 +88,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/solelis/95f5d34e69c912e90ecab76045682f95a63575cf.webp",
         "source": "wikimedia",
-        "credit": "Eurostat https://ec.europa.eu/eurostat/about/policies/copyright",
+        "credit": "Friedrich Haag",
         "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Eurostat_Newlogo.png",
-        "alt": "Le bâtiment d'Eurostat, l'office statistique de l'Union européenne",
+        "page": "https://commons.wikimedia.org/wiki/File:One_stands_out_002_2025_01_01.jpg",
+        "alt": "Des billets en euros",
         "mots_cles": [
-          "Eurostat"
+          "Euro banknotes"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -186,13 +186,13 @@
       "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/solelis/5519e8bec8cc66a3c5fdda20e58b6a3fb5e5cb49.webp",
-        "source": "openverse",
-        "credit": "futureatlas.com",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/87913776@N00/5455995391",
-        "alt": "Un salarié équipé de protections sur son lieu de travail",
+        "source": "wikimedia",
+        "credit": "Fons Heijnsbroek",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:A_construction_worker_is_working_underground_during_the_renovation_of_Central_station_Amsterdam;_free_photo_Amsterdam_by_Fons_Heijnsbroek,_2012.jpg",
+        "alt": "Un ouvrier sur un chantier",
         "mots_cles": [
-          "workplace safety"
+          "Construction worker"
         ],
         "largeur": 1600,
         "hauteur": 900

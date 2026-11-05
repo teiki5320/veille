@@ -257,7 +257,7 @@ export function altCarte(config, r) {
   return pays ? `Illustration ${config.nom} avec le drapeau national (${pays}) et la mention « ${libelle} »` : `Illustration ${config.nom} avec la mention « ${libelle} »`;
 }
 
-async function trouverImage(config, r, recentes, journal) {
+export async function trouverImage(config, r, recentes, journal) {
   const req = r.image_requetes || {};
   const essais = [
     ...(req.wikimedia || []).map((q) => ['wikimedia', q]),
