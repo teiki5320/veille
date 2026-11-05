@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-05T12:01:24.054Z",
+  "genere_le": "2026-11-05T18:19:54.524Z",
   "articles": [
+    {
+      "id": "4530b16225364185750765338b634355e341c2bd",
+      "slug": "licenciement-economique-un-recul-des-ventes-ne-prouve-pas-lui-seul-les-4530b1",
+      "titre": "Licenciement économique : un recul des ventes ne prouve pas à lui seul les difficultés",
+      "publie_le": "2026-11-05T16:30:00.000Z",
+      "redige_le": "2026-11-05T18:19:52.051Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/4530b16225364185750765338b634355e341c2bd.json"
+    },
     {
       "id": "5a7a4370a79ac21b876673a0a98296ea653da227",
       "slug": "commerces-habillement-8-de-ventes-perdues-en-centre-ville-depuis-les-5a7a43",

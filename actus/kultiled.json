@@ -1,8 +1,112 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-05T11:20:14.560Z",
+  "genere_le": "2026-11-05T18:19:45.905Z",
   "actus": [
+    {
+      "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
+      "titre": "Serres de tomates : Bloemteknik éclaire les rangs par le côté plutôt que par le haut",
+      "resume": "Le britannique Bloemteknik propose des rampes de LED placées au-dessus des allées et tournées vers les faces des rangs de tomates et de concombres. Selon une simulation de la marque, ce montage apporte de 26 à 44 % de lumière en plus au cœur de la végétation, pour une puissance installée comparable.",
+      "theme": "culture-interieur",
+      "pays": [
+        "GB"
+      ],
+      "tags": [
+        "legume:tomate",
+        "legume:concombre"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9889922/greenhouse-lighting-has-a-blind-spot-the-vertical-dimension/",
+      "publie_le": "2026-11-05T13:55:00.000Z",
+      "collecte_le": "2026-11-05T18:19:45.905Z",
+      "langue": "en",
+      "slug": "serres-de-tomates-bloemteknik-eclaire-les-rangs-par-le-cote-plutot-que-363c7d",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/363c7d96b498fbbc9c92724a4912886b3c3f420b.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/363c7d96b498fbbc9c92724a4912886b3c3f420b.webp",
+        "source": "wikimedia",
+        "credit": "Mhmd.abdrzg",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tomato_Greenhouse_in_a_Libyan_Farm.jpg",
+        "alt": "Des plants de tomates cultivés sous serre",
+        "mots_cles": [
+          "Tomato greenhouse"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "71b71cc5f32b697d57d4fc18fe9daab83a4f9142",
+      "titre": "Oregon : une étude publique pour cultiver fraises et myrtilles sous abri",
+      "resume": "La Northwest Berry Foundation et le néerlandais Delphy vont étudier pendant deux ans et demi l'intérêt des tunnels, des serres et de la culture hors-sol pour les petits fruits de l'Oregon. Le projet reçoit 207 082 dollars d'une aide fédérale américaine gérée par l'État.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US",
+        "NL"
+      ],
+      "tags": [
+        "legume:fraise"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9889637/oregon-berry-growers-to-assess-controlled-environment-cultivation-options/",
+      "autres_sources": [
+        "https://www.verticalfarmdaily.com/article/9889797/northwest-berry-foundation-delphy-awarded-usda-specialty-crop-block-grant/"
+      ],
+      "publie_le": "2026-11-05T13:04:00.000Z",
+      "collecte_le": "2026-11-05T18:19:45.905Z",
+      "langue": "en",
+      "slug": "oregon-une-etude-publique-pour-cultiver-fraises-et-myrtilles-sous-abri-71b71c",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/71b71cc5f32b697d57d4fc18fe9daab83a4f9142.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/71b71cc5f32b697d57d4fc18fe9daab83a4f9142.webp",
+        "source": "wikimedia",
+        "credit": "Cjp24",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Strawberry_greenhouse,_Aquitaine.jpg",
+        "alt": "Des fraisiers cultivés sous abri",
+        "mots_cles": [
+          "Strawberries greenhouse"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9484ad8da6113e1bed7da81356027208efe827cc",
+      "titre": "Laitue sous serre en hiver : lumière, chaleur et arrosage à ajuster selon Biophi",
+      "resume": "Quand les nuits fraîchissent, la laitue de serre pousse plus lentement mais gagne en tenue. Punit Singh, chercheur chez le canadien Biophi, conseille de garder plus de 17 moles de lumière par mètre carré et par jour, d'éviter les écarts brusques de température et d'arroser moins.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "tags": [
+        "legume:laitue"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9889841/managing-seasonal-changes-in-greenhouse-lettuce-production/",
+      "publie_le": "2026-11-05T13:04:00.000Z",
+      "collecte_le": "2026-11-05T18:19:45.905Z",
+      "langue": "en",
+      "slug": "laitue-sous-serre-en-hiver-lumiere-chaleur-et-arrosage-ajuster-selon-9484ad",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/9484ad8da6113e1bed7da81356027208efe827cc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/9484ad8da6113e1bed7da81356027208efe827cc.webp",
+        "source": "wikimedia",
+        "credit": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I…",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lettuce_Closeup_Greenhouse_Phuktal_Zanskar_Jun24_A7CR_00442.jpg",
+        "alt": "Des laitues cultivées sous serre",
+        "mots_cles": [
+          "Lettuce greenhouse"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "05d439600b981e57220acc12786a6a50f8610cbf",
       "titre": "Finistère : une serre agrandie et automatisée pour créer de nouvelles pommes de terre",

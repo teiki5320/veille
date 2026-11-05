@@ -646,81 +646,117 @@
     "96ee1e4119fb4c09f808f22d5484bfc41da471e6": "2026-11-05T11:20:06.504Z",
     "62309ba68ca2d952636e30d46a948a487deaf5a7": "2026-11-05T11:20:06.504Z",
     "ee670e8d5c895bd03c714ff331e7fc158a3cf52a": "2026-11-05T11:20:06.504Z",
-    "97f6121e5b2440b4a5626a8de8b27a3edcf582ee": "2026-11-05T11:20:06.504Z"
+    "97f6121e5b2440b4a5626a8de8b27a3edcf582ee": "2026-11-05T11:20:06.504Z",
+    "f0f253278bf3c51ca12c0e0d2d58c224fee1cd5c": "2026-11-05T18:19:39.916Z",
+    "201ac5bfe8aab5ba63d2a7617dc2172ab11cf081": "2026-11-05T18:19:39.916Z",
+    "90a87189c582ca7650c7d5f8ab3d87c4f4ede01b": "2026-11-05T18:19:39.916Z",
+    "d6e79d643d4240a811529585e6f436a87bee6b25": "2026-11-05T18:19:39.916Z",
+    "306779ec6ea5308d4d5b0adb12401ea9484152d2": "2026-11-05T18:19:39.916Z",
+    "437c8fee03fefddf2ae8399955df11a32d1cf1fd": "2026-11-05T18:19:39.916Z",
+    "9c9fe3dd7a5ce32dac932a3523f5eb9158be00db": "2026-11-05T18:19:39.916Z",
+    "e262113bb849b604982535cfb78f7c80823841f9": "2026-11-05T18:19:39.916Z",
+    "5884d0504308a59c8c9f140f93b6c0b4b499a292": "2026-11-05T18:19:39.916Z",
+    "9115241d69035572c06f7043f836f5d80386d53a": "2026-11-05T18:19:39.916Z",
+    "4388e5e0241c14db8b8a648353b30bf2dc90a75f": "2026-11-05T18:19:39.916Z",
+    "5e69a57eef1c6b859365655d2b533f66faab1a20": "2026-11-05T18:19:39.916Z",
+    "3fda0134398c155feff9241c95a441f0be4a02ba": "2026-11-05T18:19:39.916Z",
+    "6f45d9c427bd31ea76199987b595f7cb9c1e6233": "2026-11-05T18:19:39.916Z",
+    "408b6e3d3a6528ecd90f6de200999440f10dc7f7": "2026-11-05T18:19:39.916Z",
+    "12793903d8b903fa8d2559e9f95257e2ae54eb03": "2026-11-05T18:19:39.916Z",
+    "4233b822158273e79e665d0a041e282fcaa057c6": "2026-11-05T18:19:39.916Z",
+    "59aad27a78cbc69c1e88b56a36320ea263c3a458": "2026-11-05T18:19:39.916Z",
+    "96c52cd54fd8e828d75c3ae7d8862cf98aec2590": "2026-11-05T18:19:39.916Z",
+    "3842c2550f312641d3afc163b76ea26b91f35506": "2026-11-05T18:19:39.916Z",
+    "f38fea661182a674e8ea4b988dbc95b93c396a81": "2026-11-05T18:19:39.916Z",
+    "81f30f464a9f5350c505b2069c41842314a6c4d8": "2026-11-05T18:19:39.916Z",
+    "36784eea3e712c4eeee5e65bfbde25db5cc626fd": "2026-11-05T18:19:39.916Z",
+    "6937e264d427b63134173739d2ef884b42f99aa4": "2026-11-05T18:19:39.916Z",
+    "fe4cef4294efe60739c203c0517f9a482838d30a": "2026-11-05T18:19:39.916Z",
+    "e26914bf3ed37cb7f5126ea420e9a8e344e98348": "2026-11-05T18:19:39.916Z",
+    "89f2a2928e62a5a6530cc69c7c27c686e4ccecc1": "2026-11-05T18:19:39.916Z",
+    "d4daa5b0c48f9798d8ce3b598781eafb37454bbe": "2026-11-05T18:19:39.916Z",
+    "375b43bac8cac94990871d0cf0445876e7a2ef82": "2026-11-05T18:19:39.916Z",
+    "b8f5ac6889c92361bdfa548d9a642640e0880aa5": "2026-11-05T18:19:39.916Z",
+    "2dafbe767bcfab01d38a15beab6649ae41d55e70": "2026-11-05T18:19:39.916Z",
+    "308921c772973145feff067f085c91a0a7d9f57f": "2026-11-05T18:19:39.916Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
       "articles": 6
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 4
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
       "articles": 10
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 8
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 2
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
       "articles": 1
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-05T11:12:38.820Z",
+      "dernier_succes": "2026-11-05T18:11:51.979Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 0
     }
   },
   "images_recentes": [
+    {
+      "id": "3842c2550f312641d3afc163b76ea26b91f35506",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diaty_Diallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -792,6 +828,7 @@
     "c1e26eb2822a903c8c5b13a2e5a7fccf589c5226": "carte:keurbook:c1e26eb2822a903c8c5b13a2e5a7fccf589c5226",
     "a579becc345dae7b8b969be1cefb202b72f95d2d": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "d392547c993e6524fbeef43d913d65b4fe96905d": "https://upload.wikimedia.org/wikipedia/commons/f/fb/L%27exil_d%27Albouri%2C_texte_de_Cheik_Aliou_Ndao_-_btv1b106020559_%2822_of_31%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diaty_Diallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diaty_Diallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "3842c2550f312641d3afc163b76ea26b91f35506": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 }

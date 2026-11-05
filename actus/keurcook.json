@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-05T11:20:06.509Z",
+  "genere_le": "2026-11-05T18:19:40.974Z",
   "actus": [
+    {
+      "id": "7007bd2827624a88ba4823432d0ed804e5c4cd2f",
+      "titre": "Ghana : eba, akple ou waakye, les familles gardent leurs plats de Noël",
+      "resume": "À l'approche de Noël, des familles ghanéennes racontent les plats qu'elles ne veulent pas abandonner : eba, akple, riz frit au poulet ou waakye garni. Ces repas tiennent aux habitudes familiales et aux souvenirs d'enfance, même quand il faut adapter un ingrédient.",
+      "theme": "cuisine",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/ghanaians-hold-on-to-cherished-food-traditions-as-christmas-approaches/",
+      "publie_le": "2026-11-05T17:48:03.000Z",
+      "collecte_le": "2026-11-05T18:19:40.974Z",
+      "langue": "en",
+      "slug": "ghana-eba-akple-ou-waakye-les-familles-gardent-leurs-plats-de-noel-7007bd",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/7007bd2827624a88ba4823432d0ed804e5c4cd2f.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/7007bd2827624a88ba4823432d0ed804e5c4cd2f.webp",
+        "source": "wikimedia",
+        "credit": "Edithobayaa1",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Waakye_in_Ghana.jpg",
+        "alt": "Une assiette de waakye, plat ghanéen de riz et de haricots",
+        "mots_cles": [
+          "Waakye"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "95a0bb2de2133b6f3d6b35e336e885ab9b1ec98d",
       "titre": "JOJ Dakar 2026 : une foire culinaire fait découvrir les plats de plusieurs pays africains",

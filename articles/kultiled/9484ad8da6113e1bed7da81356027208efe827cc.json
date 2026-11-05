@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "9484ad8da6113e1bed7da81356027208efe827cc",
+  "slug": "laitue-sous-serre-en-hiver-lumiere-chaleur-et-arrosage-ajuster-selon-9484ad",
+  "titre": "Laitue sous serre en hiver : lumière, chaleur et arrosage à ajuster selon Biophi",
+  "chapo": "Le passage à l'automne et à l'hiver change la donne pour la laitue cultivée sous serre. Un spécialiste du canadien Biophi détaille les réglages qui permettent de garder une production régulière.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Punit Singh, producteur chargé de la recherche chez Biophi, rappelle que la température, la lumière et l'humidité évoluent avec la saison et pèsent sur la vitesse de croissance, la consommation d'eau et la qualité des feuilles. Selon lui, tout repose sur un équilibre entre climat, éclairage, circulation de l'air et irrigation.",
+        "Quand les nuits passent sous 20 °C, la plante ralentit dans l'obscurité. Il faut alors compter un ou deux jours de plus avant la récolte qu'en été. En échange, les feuilles sont plus fermes, plus croquantes et se conservent mieux. À l'inverse, des nuits trop chaudes peuvent rendre les feuilles vitreuses."
+      ]
+    },
+    {
+      "intertitre": "La lumière, premier défi de l'hiver",
+      "paragraphes": [
+        "Le manque de soleil est la principale difficulté de la saison froide. Le chercheur fixe un repère : maintenir une quantité de lumière quotidienne supérieure à 17 moles par mètre carré. Avant le lever du jour, il conseille de soigner la température et suggère un apport de lumière bleue pour préparer les plantes à la photosynthèse.",
+        "Il voit aussi un intérêt dans les éclairages dynamiques, capables de modifier l'intensité et le spectre selon les besoins de la culture et le soleil disponible. Associés à des capteurs, ils pourraient améliorer la qualité et réduire la dépense d'énergie."
+      ]
+    },
+    {
+      "intertitre": "Air, humidité et arrosage",
+      "paragraphes": [
+        "L'écart entre le jour et la nuit doit rester stable : un changement brutal stresse la plante et freine le rendement. Il recommande de suivre la température des feuilles et des racines, pas seulement celle de l'air. Des ventilateurs verticaux brassent l'air dans la culture, limitent l'humidité sur les feuilles et réduisent le risque de nécrose de leur bord.",
+        "Les salades se plaisent entre 70 et 80 % d'humidité relative. En hiver, elles boivent moins : l'arrosage doit suivre la lumière et la température, et la conductivité de la solution nutritive peut monter vers 2,3 à 2,5 dS/m."
+      ]
+    }
+  ],
+  "mots": 337,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "tags": [
+    "legume:laitue"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9889841/managing-seasonal-changes-in-greenhouse-lettuce-production/",
+  "publie_le": "2026-11-05T13:04:00.000Z",
+  "redige_le": "2026-11-05T18:19:45.905Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/9484ad8da6113e1bed7da81356027208efe827cc.webp",
+    "source": "wikimedia",
+    "credit": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I…",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lettuce_Closeup_Greenhouse_Phuktal_Zanskar_Jun24_A7CR_00442.jpg",
+    "alt": "Des laitues cultivées sous serre",
+    "mots_cles": [
+      "Lettuce greenhouse"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

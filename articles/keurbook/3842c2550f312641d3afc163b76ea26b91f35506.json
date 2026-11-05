@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "3842c2550f312641d3afc163b76ea26b91f35506",
+  "slug": "madagascar-au-festival-mangaxmanga-le-manga-malgache-invente-une-3842c2",
+  "titre": "Madagascar : au festival MangaXmanga, le manga malgache s'invente une identité",
+  "chapo": "À Madagascar, de jeunes dessinateurs passés par les séries animées japonaises publient leurs propres mangas. Le festival MangaXmanga leur sert de vitrine, et le label Gasy BD de maison d'édition.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "MangaXmanga a réuni les amateurs de manga à Antananarivo du 31 octobre au 1er novembre 2026 pour sa huitième édition, avec des dégustations de sushis, des ateliers et la visite de l'ambassadeur du Japon, Hitoshi Tojima. Dans son discours, il a rappelé que les deux pays entretiennent des relations depuis près de cinquante ans.",
+        "Le festival a aussi vu Gasy BD souffler ses deux bougies. Créé en 2025, ce label indépendant édite des mangas signés par des auteurs malgaches. Il a été rejoint en 2026 par une autre maison, Hay Tsingory."
+      ]
+    },
+    {
+      "intertitre": "Des fumetti italiens aux dessins animés japonais",
+      "paragraphes": [
+        "Au cours des années 80 et 90, les grands noms de la bande dessinée malgache, comme Ndrematoa, Richard Rabesandratana ou Didier Randriamanantena, puisaient dans les fumetti, ces illustrés populaires italiens. La génération suivante a grandi dans les années 2000 devant les chaînes satellitaires, avec One Piece ou Naruto, puis a lu les mangas en ligne.",
+        "Une première tentative, en 2019, avait tourné court. Les éditions Tantsary avaient publié deux tomes des Corbeaux d'Ambatomanga et lancé la revue Ako, avant que des ventes faibles et le Covid-19 ne mettent fin au projet."
+      ]
+    },
+    {
+      "intertitre": "Mythes malgaches et récits de rue",
+      "paragraphes": [
+        "En 2025, Gasy BD a présenté ses premiers titres au festival : deux histoires urbaines très sanglantes de Sahy Mifaly, Ahy Irery et Rà Malagasy, deux épopées inspirées de la mythologie de l'île, Le Trône vacant de Vah et Arira de Mareck Le Faucheur, ainsi qu'Un Souffle de vie, d'Arofifa, chronique du quotidien teintée de fantastique.",
+        "Cette année, le catalogue s'élargit. On y trouve 4 amis, de Natoria, sur une bande d'enfants des rues, le deuxième tome d'Arira, une réédition du Trône vacant et La Légende d'Ambatondrazaka, du duo Ltr et Cornstar-Dezera, qui joue avec la peur des malédictions et des interdits."
+      ]
+    },
+    {
+      "intertitre": "Vers la science-fiction",
+      "paragraphes": [
+        "Le label s'ouvre aussi à d'autres genres. Ratoloha, d'Ikonantitra et Lesun, est un récit psychédélique. Lesun signe également Antropy, qui mêle intelligence artificielle et fin de l'humanité. Chimera, une histoire futuriste d'inspiration cyberpunk, a seulement été annoncée."
+      ]
+    }
+  ],
+  "mots": 367,
+  "lecture_min": 2,
+  "theme": "bd",
+  "pays": [
+    "MG"
+  ],
+  "source_nom": "ActuaBD",
+  "source_url": "https://www.actuabd.com/MangaXmanga-Quand-Madagascar-s-empare-des-codes-du-manga",
+  "publie_le": "2026-11-05T13:15:34.000Z",
+  "redige_le": "2026-11-05T18:19:39.916Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/3842c2550f312641d3afc163b76ea26b91f35506.webp",
+    "source": "wikimedia",
+    "credit": "Sascha Grabow www.saschagrabow.com",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lake_Anosy,_Central_Antananarivo,_Capital_of_Madagascar,_Photo_by_Sascha_Grabow.jpg",
+    "alt": "Une vue d'Antananarivo, la capitale de Madagascar, où se tient le festival",
+    "mots_cles": [
+      "Antananarivo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

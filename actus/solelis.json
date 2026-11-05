@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-05T12:01:24.024Z",
+  "genere_le": "2026-11-05T18:19:52.051Z",
   "actus": [
+    {
+      "id": "4530b16225364185750765338b634355e341c2bd",
+      "titre": "Licenciement économique : un recul des ventes ne prouve pas à lui seul les difficultés",
+      "resume": "Le 7 octobre 2026, la Cour de cassation a jugé qu'un chiffre d'affaires en recul sur la période minimale fixée par la loi ne justifie pas automatiquement un licenciement économique. Le juge doit aussi vérifier que la baisse est assez forte, en examinant toutes les pièces.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Village de la Justice",
+      "source_url": "https://www.village-justice.com/articles/licenciement-economique-seule-constatation-une-baisse-chiffre-affaires-suffit,59599.html",
+      "publie_le": "2026-11-05T16:30:00.000Z",
+      "collecte_le": "2026-11-05T18:19:52.051Z",
+      "langue": "fr",
+      "slug": "licenciement-economique-un-recul-des-ventes-ne-prouve-pas-lui-seul-les-4530b1",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/4530b16225364185750765338b634355e341c2bd.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/4530b16225364185750765338b634355e341c2bd.webp",
+        "source": "wikimedia",
+        "credit": "DXR",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cour_de_Cassation,_Paris_140320_1.jpg",
+        "alt": "La Cour de cassation, à Paris",
+        "mots_cles": [
+          "Cour de cassation (France)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "5a7a4370a79ac21b876673a0a98296ea653da227",
       "titre": "Commerces d'habillement : 8 % de ventes perdues en centre-ville depuis les manifestations",

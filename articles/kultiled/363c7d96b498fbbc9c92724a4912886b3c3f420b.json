@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
+  "slug": "serres-de-tomates-bloemteknik-eclaire-les-rangs-par-le-cote-plutot-que-363c7d",
+  "titre": "Serres de tomates : Bloemteknik éclaire les rangs par le côté plutôt que par le haut",
+  "chapo": "Les tomates et concombres palissés montent à plusieurs mètres, mais la lumière des serres arrive presque toujours d'en haut. Le fabricant Bloemteknik veut éclairer ces cultures sur leur hauteur.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'entreprise, installée à Cardiff au Royaume-Uni, présente un système baptisé Top Crop. Ses rampes lumineuses linéaires sont fixées au-dessus des allées, dans l'axe des rangs, et inclinées vers les murs de feuillage. La lumière atteint ainsi les feuilles et les zones de fruits de plus près, au lieu de tomber depuis de gros projecteurs suspendus loin au-dessus des têtes des plantes.",
+        "Pour James Fleet, de Bloemteknik, l'éclairage horticole a longtemps été jugé sur son rendement, mesuré en micromoles de photons par joule. Ce critère progresse désormais très peu d'une génération de lampes à l'autre."
+      ]
+    },
+    {
+      "intertitre": "Trop de lumière en haut, pas assez au milieu",
+      "paragraphes": [
+        "Le fabricant décrit un problème de répartition. Les étages supérieurs des plantes reçoivent parfois plus de lumière qu'ils ne peuvent en utiliser, tandis que les parties moyennes et basses en manquent. Une part des photons finit aussi sur les passages entre les rangs, ce qui renchérit l'installation sans profiter à la culture."
+      ]
+    },
+    {
+      "intertitre": "Les chiffres de la simulation",
+      "paragraphes": [
+        "Une modélisation réalisée avec le logiciel Relux a comparé Top Crop à une lampe LED classique de 1 400 watts placée en hauteur, sur une travée de serre de quatre rangs. Le système latéral apporte en moyenne 44 % de lumière en plus à un mètre sous le sommet des plantes, et 26 % de plus à deux mètres. L'éclairage est aussi plus homogène d'un rang à l'autre.",
+        "Avec 16 rampes par rang au lieu de 18, soit 11 % d'appareils en moins, le gain resterait de 32 % à un mètre et de 15 % à deux mètres. La puissance installée est proche dans les deux cas : 152,8 watts par mètre carré contre 151,3."
+      ]
+    },
+    {
+      "intertitre": "Un document technique pour les producteurs",
+      "paragraphes": [
+        "Ces résultats sont réunis dans un livre blanc publié par Bloemteknik. Il détaille les principes de physiologie végétale et d'ingénierie de cet éclairage vertical, les mesures de terrain et les modèles photométriques, ainsi qu'une configuration conseillée pour les cultures palissées de grande hauteur. Ces chiffres viennent du fabricant et n'ont pas encore été confirmés par des essais indépendants publiés."
+      ]
+    }
+  ],
+  "mots": 370,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "GB"
+  ],
+  "tags": [
+    "legume:tomate",
+    "legume:concombre"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9889922/greenhouse-lighting-has-a-blind-spot-the-vertical-dimension/",
+  "publie_le": "2026-11-05T13:55:00.000Z",
+  "redige_le": "2026-11-05T18:19:45.905Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/363c7d96b498fbbc9c92724a4912886b3c3f420b.webp",
+    "source": "wikimedia",
+    "credit": "Mhmd.abdrzg",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tomato_Greenhouse_in_a_Libyan_Farm.jpg",
+    "alt": "Des plants de tomates cultivés sous serre",
+    "mots_cles": [
+      "Tomato greenhouse"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

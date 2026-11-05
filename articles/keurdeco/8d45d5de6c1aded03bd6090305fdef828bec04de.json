@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "8d45d5de6c1aded03bd6090305fdef828bec04de",
+  "slug": "venise-ethiopien-tegene-kunbi-glisse-des-tissus-de-tout-le-continent-8d45d5",
+  "titre": "Venise : l'Éthiopien Tegene Kunbi glisse des tissus de tout le continent dans ses toiles",
+  "chapo": "Pour sa deuxième participation nationale à la Biennale de Venise, l'Éthiopie expose les toiles de Tegene Kunbi, qui marient couleurs saturées et étoffes venues de plusieurs pays africains.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le pavillon éthiopien, intitulé Shapes of Silence, est installé au palais Bollani, à Venise. Son commissaire est Abebaw Ayalew, assisté de Yohannes Mulat Mekonnen. Le peintre et son commissaire adjoint ont présenté leur démarche dans un long entretien accordé au magazine Art Africa.",
+        "Les tableaux de Tegene Kunbi sont monumentaux : certains mesurent quatre mètres de large. De grands aplats de couleur y côtoient des motifs géométriques, des surfaces scintillantes et des morceaux de tissu intégrés à la peinture."
+      ]
+    },
+    {
+      "intertitre": "Des étoffes chargées de souvenirs",
+      "paragraphes": [
+        "L'artiste a rassemblé ces textiles au fil de ses voyages en Afrique. Certains renvoient à la vie domestique, d'autres aux cérémonies religieuses ou au vêtement. Une partie évoque sa mère, Mulu Lema, qui travaillait les étoffes. Dans la maison de son enfance, raconte-t-il, on couvrait de tissu les objets auxquels on tenait : un geste quotidien, mais aussi une marque de soin.",
+        "Dans ses compositions, chaque matière garde son identité. Le peintre ne cherche pas à fondre ces origines en une seule, mais à les faire dialoguer par la couleur et la texture."
+      ]
+    },
+    {
+      "intertitre": "Une abstraction née à la maison",
+      "paragraphes": [
+        "Tegene Kunbi explique avoir découvert l'abstraction chez lui, dans la musique, la poésie et l'architecture, plutôt que dans les musées ou l'histoire de l'art européenne. Son commissaire adjoint cite la peinture chrétienne orthodoxe d'Éthiopie, où la taille et la place des figures dépendent de leur importance spirituelle et non des règles de la perspective.",
+        "Pour eux, ces traditions montrent que l'abstraction ne vient pas seulement de la modernité européenne."
+      ]
+    },
+    {
+      "intertitre": "Le silence comme équilibre",
+      "paragraphes": [
+        "Le titre peut surprendre devant des œuvres aussi colorées. Pour le peintre, le silence n'est pas l'absence de couleur : il naît du travail lui-même, quand les matières s'accumulent et qu'une toile trouve son point d'achèvement. Yohannes Mulat Mekonnen le décrit comme un équilibre entre des éléments contraires, à la manière des pauses qui donnent son rythme à une musique. Tous deux souhaitent laisser au visiteur la liberté de regarder les œuvres sans explication imposée."
+      ]
+    }
+  ],
+  "mots": 359,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "ET",
+    "IT"
+  ],
+  "source_nom": "Art Africa",
+  "source_url": "https://artafricamagazine.org/beyond-silence-tegene-kunbi-challenges-the-boundaries-of-african-abstraction-at-venice/",
+  "publie_le": "2026-11-05T12:44:12.000Z",
+  "redige_le": "2026-11-05T18:19:42.155Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/8d45d5de6c1aded03bd6090305fdef828bec04de.webp",
+    "source": "wikimedia",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palazzo_Dolfin_Bollani_(Venice).jpg",
+    "alt": "Le palais Bollani, à Venise",
+    "mots_cles": [
+      "Palazzo Bollani"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-05T13:18:24.674Z",
+  "genere_le": "2026-11-05T18:19:39.908Z",
   "articles": [
+    {
+      "id": "5a985785320101ff262781efe5607bfaab5c6913",
+      "slug": "vatican-le-jesuite-angolais-avelino-chico-nomme-sous-secretaire-un-5a9857",
+      "titre": "Vatican : le jésuite angolais Avelino Chico nommé sous-secrétaire d'un dicastère",
+      "publie_le": "2026-11-05T13:29:00.000Z",
+      "redige_le": "2026-11-05T18:19:37.781Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/5a985785320101ff262781efe5607bfaab5c6913.json"
+    },
     {
       "id": "13c5681ec47bd09475c9a127ba6754857c63ffca",
       "slug": "angola-pour-le-jour-des-defunts-trois-eveques-celebrent-la-messe-dans-13c568",

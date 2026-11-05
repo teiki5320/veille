@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "4530b16225364185750765338b634355e341c2bd",
+  "slug": "licenciement-economique-un-recul-des-ventes-ne-prouve-pas-lui-seul-les-4530b1",
+  "titre": "Licenciement économique : un recul des ventes ne prouve pas à lui seul les difficultés",
+  "chapo": "Respecter la durée de baisse fixée par la loi ne suffit pas pour licencier pour motif économique. La Cour de cassation demande aux juges de mesurer aussi l'ampleur réelle des difficultés.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'affaire concerne une société de gestion financière d'une trentaine de salariés. En juin 2020, elle engage une procédure de licenciement économique contre deux analystes, qui acceptent le contrat de sécurisation professionnelle. Leurs contrats prennent fin le 30 juin 2020.",
+        "L'employeur mettait en avant des recettes en repli depuis 2017, une situation aggravée par la crise du Covid-19, et un recul net au premier semestre 2020, comparé à 2019. Les deux salariés ont contesté leur départ devant les prud'hommes."
+      ]
+    },
+    {
+      "intertitre": "Ce qu'a décidé la Cour de cassation",
+      "paragraphes": [
+        "En appel, les juges parisiens ont estimé le 11 décembre 2024 que ces ruptures étaient injustifiées et ont accordé des indemnités aux salariés. Ils ont relevé une chute brutale et passagère des revenus à partir de mars 2020, suivie d'une remontée, ainsi que des signes de reprise des marchés. L'entreprise n'avait pas non plus fourni tous ses chiffres mensuels après octobre 2020.",
+        "Le pourvoi de l'employeur (n° 25-10.107) a été rejeté par la chambre sociale le 7 octobre 2026. Pour elle, même quand le recul dure le temps prévu par la loi, le juge doit contrôler, en examinant tout le dossier, qu'il est assez marqué pour justifier une rupture."
+      ]
+    },
+    {
+      "intertitre": "Les durées fixées par la loi",
+      "paragraphes": [
+        "Le Code du travail (article L1233-3) prévoit une durée minimale de baisse des commandes ou des recettes, mesurée face aux mêmes mois un an plus tôt. Elle varie avec l'effectif : un trimestre sous 11 salariés, deux trimestres de suite de 11 à 49 salariés, trois de 50 à 299, et quatre à partir de 300.",
+        "L'arrêt sépare donc deux questions. La durée de la baisse se vérifie avec ces seuils. Son importance, elle, reste à l'appréciation des juges."
+      ]
+    },
+    {
+      "intertitre": "Ce que le dirigeant doit retenir",
+      "paragraphes": [
+        "Avant un licenciement économique, une petite entreprise a intérêt à réunir des chiffres complets et suivis dans le temps, mois par mois, et à montrer pourquoi la baisse est durable et sérieuse. Un recul ponctuel, vite rattrapé, risque d'être jugé insuffisant, avec à la clé des dommages et intérêts à verser aux salariés."
+      ]
+    }
+  ],
+  "mots": 369,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Village de la Justice",
+  "source_url": "https://www.village-justice.com/articles/licenciement-economique-seule-constatation-une-baisse-chiffre-affaires-suffit,59599.html",
+  "publie_le": "2026-11-05T16:30:00.000Z",
+  "redige_le": "2026-11-05T18:19:52.051Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/4530b16225364185750765338b634355e341c2bd.webp",
+    "source": "wikimedia",
+    "credit": "DXR",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cour_de_Cassation,_Paris_140320_1.jpg",
+    "alt": "La Cour de cassation, à Paris",
+    "mots_cles": [
+      "Cour de cassation (France)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

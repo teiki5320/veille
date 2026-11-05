@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "5a985785320101ff262781efe5607bfaab5c6913",
+  "slug": "vatican-le-jesuite-angolais-avelino-chico-nomme-sous-secretaire-un-5a9857",
+  "titre": "Vatican : le jésuite angolais Avelino Chico nommé sous-secrétaire d'un dicastère",
+  "chapo": "Un prêtre angolais accède à un poste de responsabilité au Vatican. Le père Avelino Chico devient l'un des deux sous-secrétaires du dicastère chargé du développement humain intégral.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le pape Léon XIV a annoncé le 5 novembre 2026 deux nominations dans le dicastère du Développement humain intégral. Jésuite angolais, le père Avelino Chicoma Bundo Chico en devient sous-secrétaire, aux côtés de la théologienne chilienne Claudia Leal Luna.",
+        "Il occupait jusqu'ici la fonction de chef de bureau dans ce même service de la Curie romaine."
+      ]
+    },
+    {
+      "intertitre": "De Lobito à Rome",
+      "paragraphes": [
+        "Né à Lobito le 15 juillet 1979, Avelino Chico vient d'une ville portuaire de l'ouest de l'Angola, dans la région de Benguela. En 2002, il entre chez les jésuites. Il reçoit l'ordination sacerdotale le 3 août 2014 et prononce ses vœux définitifs le 1er mai 2026.",
+        "Titulaire d'un master en morale sociale obtenu en 2018, il a soutenu l'année suivante un doctorat consacré aux migrations internationales et à la coopération pour le développement."
+      ]
+    },
+    {
+      "intertitre": "Six ans au service du dicastère",
+      "paragraphes": [
+        "Il est entré au dicastère en 2020 comme coordinateur régional pour l'Afrique, jusqu'en 2022. Il a ensuite dirigé la section « Écoute et dialogue » de 2022 à 2025, avant de devenir chef de bureau.",
+        "Ce dicastère, mis en place par le pape François et entré en fonction le 1er janvier 2017, réunit plusieurs anciens conseils pontificaux. Il s'occupe notamment de la justice, de la paix, des migrants et de la sauvegarde de la création. Il est dirigé par la préfète sœur Alessandra Smerilli, avec le cardinal Fabio Baggio comme pro-préfet et Mgr Jozef Barlaš comme secrétaire."
+      ]
+    },
+    {
+      "intertitre": "Trois mots pour une mission",
+      "paragraphes": [
+        "Dans une déclaration diffusée par Vatican News, le père Chico remercie le pape et ses supérieurs pour leur confiance. Présence, engagement, témoignage : ce sont les trois mots qu'il retient pour sa nouvelle charge. Il dit la recevoir comme une tâche exigeante mais stimulante, et se sentir porté par Dieu et par ceux qui l'entourent.",
+        "Pour exprimer son état d'esprit, le jésuite angolais se réfère à l'appel du prophète Jérémie, invité à ne pas se croire trop jeune pour la mission confiée."
+      ]
+    }
+  ],
+  "mots": 350,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "AO",
+    "VA"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/vatican/news/2026-11/pape-nomme-deux-sous-secretaires-dicastere-developpement-humain.html",
+  "publie_le": "2026-11-05T13:29:00.000Z",
+  "redige_le": "2026-11-05T18:19:37.781Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/5a985785320101ff262781efe5607bfaab5c6913.webp",
+    "source": "wikimedia",
+    "credit": "Robertoago",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lobito_restinga2.jpg",
+    "alt": "Une vue de la ville de Lobito, en Angola",
+    "mots_cles": [
+      "Lobito"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

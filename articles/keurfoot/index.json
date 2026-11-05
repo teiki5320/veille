@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-05T11:20:14.556Z",
+  "genere_le": "2026-11-05T18:19:45.896Z",
   "articles": [
+    {
+      "id": "41f717fd71426f081e91936449134cb8e233274d",
+      "slug": "algerie-hemdani-appelle-26-joueurs-contre-le-togo-sans-luca-zidane-ni-41f717",
+      "titre": "Algérie : Hemdani appelle 26 joueurs contre le Togo, sans Luca Zidane ni Aït-Nouri",
+      "publie_le": "2026-11-05T14:22:18.000Z",
+      "redige_le": "2026-11-05T18:19:44.342Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/41f717fd71426f081e91936449134cb8e233274d.json"
+    },
     {
       "id": "69dbd8d48e691f4f991aea0dda9ed8ffbac411ec",
       "slug": "senegal-vieira-convoque-25-lions-contre-le-soudan-mane-et-gana-gueye-69dbd8",

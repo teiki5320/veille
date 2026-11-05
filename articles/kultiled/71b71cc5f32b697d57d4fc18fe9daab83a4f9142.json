@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "71b71cc5f32b697d57d4fc18fe9daab83a4f9142",
+  "slug": "oregon-une-etude-publique-pour-cultiver-fraises-et-myrtilles-sous-abri-71b71c",
+  "titre": "Oregon : une étude publique pour cultiver fraises et myrtilles sous abri",
+  "chapo": "Dans l'Oregon, les producteurs de petits fruits vont disposer d'une étude sur les cultures sous tunnel et sous serre, adaptée à leur climat et à leurs coûts.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La Northwest Berry Foundation (NBF) conduira, avec la société néerlandaise Delphy, un projet de recherche de deux ans et demi sur la production en environnement contrôlé. Il est financé à hauteur de 207 082 dollars par un programme du ministère américain de l'Agriculture (USDA) consacré aux cultures spécialisées, dont l'attribution est confiée au département de l'Agriculture de l'Oregon.",
+        "Ce projet fait partie des 13 dossiers retenus par l'État le 14 octobre 2026, qui se partagent près de 2,7 millions de dollars. Delphy AgAdvisory en sera le principal prestataire technique."
+      ]
+    },
+    {
+      "intertitre": "Pourquoi les producteurs s'y intéressent",
+      "paragraphes": [
+        "Météo plus changeante, main-d'œuvre difficile à trouver, exigences des acheteurs : ces contraintes poussent les producteurs à regarder les tunnels, les bâches, la culture sur substrat et les serres. Ces techniques peuvent allonger la saison, économiser l'eau, limiter les traitements et améliorer la qualité des fruits.",
+        "Mais chaque investissement dépend de la culture, des conditions locales et du coût. Julie Pond, directrice de la NBF, explique que ses adhérents veulent des réponses fondées sur les réalités de l'Oregon, culture par culture, avant d'engager leurs moyens."
+      ]
+    },
+    {
+      "intertitre": "Une méthode en plusieurs étapes",
+      "paragraphes": [
+        "L'étude concerne les producteurs de myrtilles, de framboises, de mûres et de fraises. Elle commencera par des enquêtes et des entretiens avec les cultivateurs, les fournisseurs et les acteurs de la filière.",
+        "Les chercheurs compareront ensuite des exemples étrangers aux coûts, à la main-d'œuvre, à l'eau disponible et au climat de l'Oregon. Ils s'appuieront sur les essais du centre de Delphy à Horst, aux Pays-Bas, où des cultures hors-sol de petits fruits sont testées sous serre et sous tunnel."
+      ]
+    },
+    {
+      "intertitre": "Des résultats pour toutes les tailles d'exploitation",
+      "paragraphes": [
+        "Le travail modélisera les rendements, les coûts et les risques, du simple tunnel jusqu'à la culture entièrement fermée. Il doit aussi repérer les techniques adaptées, les freins à leur adoption et les aides publiques ou privées possibles. La NBF animera les échanges avec les producteurs, tandis que Bradley Gittings, de Delphy AgAdvisory, dirigera la partie recherche et économie."
+      ]
+    }
+  ],
+  "mots": 355,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US",
+    "NL"
+  ],
+  "tags": [
+    "legume:fraise"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9889637/oregon-berry-growers-to-assess-controlled-environment-cultivation-options/",
+  "autres_sources": [
+    "https://www.verticalfarmdaily.com/article/9889797/northwest-berry-foundation-delphy-awarded-usda-specialty-crop-block-grant/"
+  ],
+  "publie_le": "2026-11-05T13:04:00.000Z",
+  "redige_le": "2026-11-05T18:19:45.905Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/71b71cc5f32b697d57d4fc18fe9daab83a4f9142.webp",
+    "source": "wikimedia",
+    "credit": "Cjp24",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Strawberry_greenhouse,_Aquitaine.jpg",
+    "alt": "Des fraisiers cultivés sous abri",
+    "mots_cles": [
+      "Strawberries greenhouse"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-05T13:19:04.644Z",
+  "genere_le": "2026-11-05T18:19:44.336Z",
   "articles": [
+    {
+      "id": "8d45d5de6c1aded03bd6090305fdef828bec04de",
+      "slug": "venise-ethiopien-tegene-kunbi-glisse-des-tissus-de-tout-le-continent-8d45d5",
+      "titre": "Venise : l'Éthiopien Tegene Kunbi glisse des tissus de tout le continent dans ses toiles",
+      "publie_le": "2026-11-05T12:44:12.000Z",
+      "redige_le": "2026-11-05T18:19:42.155Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/8d45d5de6c1aded03bd6090305fdef828bec04de.json"
+    },
     {
       "id": "5e56f9680a2e9f97df5c73a053514d69e4450701",
       "slug": "royaume-du-benin-la-suede-rend-une-quarantaine-objets-pilles-en-1897-5e56f9",

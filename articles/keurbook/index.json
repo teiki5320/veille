@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-05T11:20:06.508Z",
+  "genere_le": "2026-11-05T18:19:40.970Z",
   "articles": [
+    {
+      "id": "3842c2550f312641d3afc163b76ea26b91f35506",
+      "slug": "madagascar-au-festival-mangaxmanga-le-manga-malgache-invente-une-3842c2",
+      "titre": "Madagascar : au festival MangaXmanga, le manga malgache s'invente une identité",
+      "publie_le": "2026-11-05T13:15:34.000Z",
+      "redige_le": "2026-11-05T18:19:39.916Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/3842c2550f312641d3afc163b76ea26b91f35506.json"
+    },
     {
       "id": "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b",
       "slug": "darya-et-dounya-diaty-diallo-fait-dialoguer-une-trentenaire-et-ado-qu-aa913d",

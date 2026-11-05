@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-05T11:20:15.756Z",
+  "genere_le": "2026-11-05T18:19:52.043Z",
   "articles": [
+    {
+      "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
+      "slug": "serres-de-tomates-bloemteknik-eclaire-les-rangs-par-le-cote-plutot-que-363c7d",
+      "titre": "Serres de tomates : Bloemteknik éclaire les rangs par le côté plutôt que par le haut",
+      "publie_le": "2026-11-05T13:55:00.000Z",
+      "redige_le": "2026-11-05T18:19:45.905Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/363c7d96b498fbbc9c92724a4912886b3c3f420b.json"
+    },
+    {
+      "id": "71b71cc5f32b697d57d4fc18fe9daab83a4f9142",
+      "slug": "oregon-une-etude-publique-pour-cultiver-fraises-et-myrtilles-sous-abri-71b71c",
+      "titre": "Oregon : une étude publique pour cultiver fraises et myrtilles sous abri",
+      "publie_le": "2026-11-05T13:04:00.000Z",
+      "redige_le": "2026-11-05T18:19:45.905Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/71b71cc5f32b697d57d4fc18fe9daab83a4f9142.json"
+    },
+    {
+      "id": "9484ad8da6113e1bed7da81356027208efe827cc",
+      "slug": "laitue-sous-serre-en-hiver-lumiere-chaleur-et-arrosage-ajuster-selon-9484ad",
+      "titre": "Laitue sous serre en hiver : lumière, chaleur et arrosage à ajuster selon Biophi",
+      "publie_le": "2026-11-05T13:04:00.000Z",
+      "redige_le": "2026-11-05T18:19:45.905Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/9484ad8da6113e1bed7da81356027208efe827cc.json"
+    },
     {
       "id": "05d439600b981e57220acc12786a6a50f8610cbf",
       "slug": "finistere-une-serre-agrandie-et-automatisee-pour-creer-de-nouvelles-05d439",

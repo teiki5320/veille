@@ -1,8 +1,46 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-05T11:20:08.345Z",
+  "genere_le": "2026-11-05T18:19:44.342Z",
   "actus": [
+    {
+      "id": "41f717fd71426f081e91936449134cb8e233274d",
+      "titre": "Algérie : Hemdani appelle 26 joueurs contre le Togo, sans Luca Zidane ni Aït-Nouri",
+      "resume": "Brahim Hemdani a fait connaître jeudi les 26 Fennecs retenus pour affronter deux fois le Togo dans la course à la CAN 2027, le 14 puis le 17 novembre. Le gardien Luca Zidane, peu utilisé à Leganés, et Rayan Aït-Nouri restent à l'écart. Abde Rebbach et Mohamed Azzi sont appelés pour la première fois.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "TG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a5770335124020134689-algerie-brahim-hemdani-devoile-sa-liste-avec-une-absence-remarquee",
+      "autres_sources": [
+        "https://www.afrik-foot.com/algerie-la-liste-dhemdani-avec-2-nouveautes-sans-zidane-ni-ait-nouri",
+        "https://www.footmercato.net/a3344982617073406339-algerie-ca-se-gate-pour-luca-zidane",
+        "https://africatopsports.com/football/elim-can-2027-la-liste-de-lalgerie-pour-affronter-le-togo/",
+        "https://www.lequipe.fr/Football/Actualites/Luca-zidane-et-ilan-kebbal-absents-de-la-liste-de-l-algerie-pour-affronter-le-togo-en-qualifications-pour-la-can-2027/1741374"
+      ],
+      "publie_le": "2026-11-05T14:22:18.000Z",
+      "collecte_le": "2026-11-05T18:19:44.342Z",
+      "langue": "fr",
+      "slug": "algerie-hemdani-appelle-26-joueurs-contre-le-togo-sans-luca-zidane-ni-41f717",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/41f717fd71426f081e91936449134cb8e233274d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/41f717fd71426f081e91936449134cb8e233274d.webp",
+        "source": "wikimedia",
+        "credit": "David Ruddell",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Italy_vs_France_2006.jpg",
+        "alt": "Le gardien de but Luca Zidane",
+        "mots_cles": [
+          "Luca Zidane"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "69dbd8d48e691f4f991aea0dda9ed8ffbac411ec",
       "titre": "Sénégal : Vieira convoque 25 Lions contre le Soudan, Mané et Gana Gueye pas du voyage",
@@ -2076,37 +2114,6 @@
       },
       "slug": "trophee-yachine-edouard-mendy-de-retour-dans-le-top-10-la-neuvieme-23424f",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/23424f3409d6744dd9019151fb6981108397bc1b.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "d14a7b2acbb1487089e1fec01f5087057f08e917",
-      "titre": "Ballon d'Or féminin : Temwa Chawinga, première Africaine classée dans le top 10",
-      "resume": "La Malawite Temwa Chawinga a terminé dixième du classement 2026 du Ballon d’Or des femmes. Aucune joueuse du continent n’était encore entrée parmi les dix premières depuis la création de cette récompense en 2018, même si plusieurs Africaines avaient déjà été nommées.",
-      "theme": "foot",
-      "pays": [
-        "MW"
-      ],
-      "competition": "Ballon d'Or",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/ballon-dor-feminin-lafrique-brise-un-plafond-de-verre-et-soffre-un-nouveau-record",
-      "publie_le": "2026-10-27T08:51:00.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/d14a7b2acbb1487089e1fec01f5087057f08e917.webp",
-        "source": "wikimedia",
-        "credit": "Hameltion",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_KC_Current_(Sep_2024)_007_(cropped).jpg",
-        "alt": "La footballeuse malawite Temwa Chawinga",
-        "mots_cles": [
-          "Temwa Chawinga"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "ballon-or-feminin-temwa-chawinga-premiere-africaine-classee-dans-le-d14a7b",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d14a7b2acbb1487089e1fec01f5087057f08e917.json",
       "lecture_min": 1
     }
   ]

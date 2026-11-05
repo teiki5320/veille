@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "7007bd2827624a88ba4823432d0ed804e5c4cd2f",
+  "slug": "ghana-eba-akple-ou-waakye-les-familles-gardent-leurs-plats-de-noel-7007bd",
+  "titre": "Ghana : eba, akple ou waakye, les familles gardent leurs plats de Noël",
+  "chapo": "Au Ghana, Noël se prépare aussi en cuisine. Interrogées par une radio d'Accra, plusieurs familles décrivent les plats qui reviennent chaque année sur leur table de fête.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La station ghanéenne Joy FM consacre une série aux plats dont les familles ne veulent pas se passer pendant les fêtes de fin d'année. Le volet publié le 5 novembre 2026 donne la parole à quatre habitants.",
+        "Tous décrivent la même chose : le repas de Noël sert d'abord à réunir la famille. Les menus changent d'une maison à l'autre, mais chacun tient à ses habitudes, même quand les dépenses de fête obligent à faire quelques ajustements."
+      ]
+    },
+    {
+      "intertitre": "L'eba et l'akple au centre de la table",
+      "paragraphes": [
+        "Chez Daniel Thompson, l'eba restera au menu. Cette pâte épaisse se prépare avec du gari, une semoule de manioc, mélangé à de l'eau chaude. Pour cette année, la famille pense remplacer le gari jaune, coloré à l'huile de palme, par du gari blanc, mais il n'est pas question de renoncer au plat.",
+        "Pour Gordon Amoah, le plat principal de Noël est l'akple, une pâte de farine de maïs, souvent associée au manioc, très présente dans la cuisine éwé du sud-est du pays. Sa famille le prépare chaque année pendant les fêtes et compte bien continuer."
+      ]
+    },
+    {
+      "intertitre": "Riz frit, poulet et waakye garni",
+      "paragraphes": [
+        "Christiana Ekpe attend surtout le riz frit, servi avec du poulet et une salade. Ce trio, dit-elle, rend la fête plus mémorable pour les siens.",
+        "Grace Acheampong, elle, prépare un waakye bien garni : poulet, poisson grillé, oignons, salade, macaronis et gari. Le waakye, riz et haricots cuits ensemble, est l'un des plats les plus populaires du Ghana. Chez elle, cette assiette de Noël remonte à son enfance, ce qui la rend précieuse."
+      ]
+    },
+    {
+      "intertitre": "Des recettes chargées de souvenirs",
+      "paragraphes": [
+        "Ces témoignages montrent que le repas de fête dépasse la simple question de se nourrir. Les traditions transmises, les souvenirs d'enfance et l'organisation de chaque foyer décident de ce qui sera servi le 25 décembre. Chaque famille y garde sa part d'histoire, transmise d'une génération à l'autre."
+      ]
+    }
+  ],
+  "mots": 338,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "MyJoyOnline",
+  "source_url": "https://www.myjoyonline.com/ghanaians-hold-on-to-cherished-food-traditions-as-christmas-approaches/",
+  "publie_le": "2026-11-05T17:48:03.000Z",
+  "redige_le": "2026-11-05T18:19:40.974Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/7007bd2827624a88ba4823432d0ed804e5c4cd2f.webp",
+    "source": "wikimedia",
+    "credit": "Edithobayaa1",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Waakye_in_Ghana.jpg",
+    "alt": "Une assiette de waakye, plat ghanéen de riz et de haricots",
+    "mots_cles": [
+      "Waakye"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

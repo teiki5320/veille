@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "41f717fd71426f081e91936449134cb8e233274d",
+  "slug": "algerie-hemdani-appelle-26-joueurs-contre-le-togo-sans-luca-zidane-ni-41f717",
+  "titre": "Algérie : Hemdani appelle 26 joueurs contre le Togo, sans Luca Zidane ni Aït-Nouri",
+  "chapo": "L'entraîneur de la sélection algérienne a rendu publique jeudi une liste de 26 noms pour la double rencontre face au Togo. Ni Luca Zidane ni Rayan Aït-Nouri n'en font partie.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ce jeudi 5 novembre, Brahim Hemdani a fait connaître son groupe pour les troisième et quatrième journées des qualifications à la CAN 2027. Les Verts accueilleront le Togo le 14 novembre, avant de se rendre chez les Éperviers le 17.",
+        "Les habitués répondent présents. Ramy Bensebaïni (Dortmund), Nabil Bentaleb (Lille), Hicham Boudaoui (Nice) et Amine Gouiri (Marseille) sont du voyage, tout comme Mohamed Amoura, Ibrahim Maza, Farès Chaïbi et Rafik Belghali."
+      ]
+    },
+    {
+      "intertitre": "Zidane écarté faute de temps de jeu",
+      "paragraphes": [
+        "Titulaire dans les buts algériens pendant la Coupe du monde 2026, Luca Zidane, 28 ans, pouvait de nouveau être appelé après avoir purgé deux matches de suspension, sanction liée aux incidents de la rencontre contre le Nigeria lors de la dernière CAN. Le sélectionneur lui a préféré Oussama Benbot (USM Alger), Abdelatif Ramdane (MC Alger) et Melvin Mastil (Lausanne).",
+        "Hemdani assure avoir tranché sur un critère uniquement sportif : il voulait trois gardiens qui jouent. Depuis début octobre, Benbot et Ramdane ont enchaîné quatre rencontres complètes, Mastil trois. Le fils de Zinédine Zidane n'a disputé que deux matches avec Leganés, où Luis Carrión, nommé entraîneur le 18 octobre, l'a ensuite laissé sur le banc."
+      ]
+    },
+    {
+      "intertitre": "Aït-Nouri et Kebbal aussi absents",
+      "paragraphes": [
+        "Le latéral gauche de Manchester City manque lui aussi à l'appel. Lors du stage précédent, il avait quitté le groupe après un accrochage avec son sélectionneur. Interrogé, Hemdani a d'abord cité Jaouen Hadjam et Bensebaïni pour occuper ce couloir, puis a posé deux conditions pour être convoqué : jouer en club et respecter les règles de vie de l'équipe. Il précise que personne n'est écarté pour toujours.",
+        "Capitaine du Paris FC, le milieu offensif Ilan Kebbal n'a pas non plus trouvé de place, dans un secteur où la concurrence reste rude."
+      ]
+    },
+    {
+      "intertitre": "Deux nouveaux et plusieurs retours",
+      "paragraphes": [
+        "L'ailier Abde Rebbach, 28 ans, né à Blida et devenu un titulaire régulier du Deportivo Alavés en Liga, découvre la sélection. Même chose pour l'arrière droit Mohamed Azzi, ancien international espoir qui évolue au CSKA Moscou.",
+        "Le milieu de Lens Yacine Titraoui, absent la dernière fois sur blessure, fait son retour, tout comme l'ailier Fares Ghedjemis, en forme à Frosinone en Serie A."
+      ]
+    }
+  ],
+  "mots": 386,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "DZ",
+    "TG"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Foot Mercato",
+  "source_url": "https://www.footmercato.net/a5770335124020134689-algerie-brahim-hemdani-devoile-sa-liste-avec-une-absence-remarquee",
+  "autres_sources": [
+    "https://www.afrik-foot.com/algerie-la-liste-dhemdani-avec-2-nouveautes-sans-zidane-ni-ait-nouri",
+    "https://www.footmercato.net/a3344982617073406339-algerie-ca-se-gate-pour-luca-zidane",
+    "https://africatopsports.com/football/elim-can-2027-la-liste-de-lalgerie-pour-affronter-le-togo/",
+    "https://www.lequipe.fr/Football/Actualites/Luca-zidane-et-ilan-kebbal-absents-de-la-liste-de-l-algerie-pour-affronter-le-togo-en-qualifications-pour-la-can-2027/1741374"
+  ],
+  "publie_le": "2026-11-05T14:22:18.000Z",
+  "redige_le": "2026-11-05T18:19:44.342Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/41f717fd71426f081e91936449134cb8e233274d.webp",
+    "source": "wikimedia",
+    "credit": "David Ruddell",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Italy_vs_France_2006.jpg",
+    "alt": "Le gardien de but Luca Zidane",
+    "mots_cles": [
+      "Luca Zidane"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

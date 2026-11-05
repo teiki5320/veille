@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-05T11:20:06.504Z",
+  "genere_le": "2026-11-05T18:19:39.916Z",
   "actus": [
+    {
+      "id": "3842c2550f312641d3afc163b76ea26b91f35506",
+      "titre": "Madagascar : au festival MangaXmanga, le manga malgache s'invente une identité",
+      "resume": "La huitième édition de MangaXmanga a célébré les deux ans de Gasy BD, label qui publie des mangas d'auteurs malgaches. Mythes de l'île, récits urbains et science-fiction : une génération nourrie aux dessins animés japonais crée désormais ses propres séries, comme Arira ou Le Trône vacant.",
+      "theme": "bd",
+      "pays": [
+        "MG"
+      ],
+      "source_nom": "ActuaBD",
+      "source_url": "https://www.actuabd.com/MangaXmanga-Quand-Madagascar-s-empare-des-codes-du-manga",
+      "publie_le": "2026-11-05T13:15:34.000Z",
+      "collecte_le": "2026-11-05T18:19:39.916Z",
+      "langue": "fr",
+      "slug": "madagascar-au-festival-mangaxmanga-le-manga-malgache-invente-une-3842c2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/3842c2550f312641d3afc163b76ea26b91f35506.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/3842c2550f312641d3afc163b76ea26b91f35506.webp",
+        "source": "wikimedia",
+        "credit": "Sascha Grabow www.saschagrabow.com",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lake_Anosy,_Central_Antananarivo,_Capital_of_Madagascar,_Photo_by_Sascha_Grabow.jpg",
+        "alt": "Une vue d'Antananarivo, la capitale de Madagascar, où se tient le festival",
+        "mots_cles": [
+          "Antananarivo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b",
       "titre": "« Darya et Dounya » : Diaty Diallo fait dialoguer une trentenaire et l'ado qu'elle fut",
