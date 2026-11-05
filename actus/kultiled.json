@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-04T18:18:37.828Z",
+  "genere_le": "2026-11-05T11:20:14.560Z",
   "actus": [
+    {
+      "id": "05d439600b981e57220acc12786a6a50f8610cbf",
+      "titre": "Finistère : une serre agrandie et automatisée pour créer de nouvelles pommes de terre",
+      "resume": "À Ploudaniel, la station de sélection Bretagne Plants Innovation a inauguré mi-septembre une serre de 1 500 m², contre 1 000 auparavant. L'arrosage et la fertilisation y sont désormais automatisés, et jusqu'à 100 000 graines pourront y être semées chaque année pour obtenir des variétés plus résistantes.",
+      "theme": "culture-interieur",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Terre-net",
+      "source_url": "https://www.terre-net.fr/pommes-de-terre/article/905559/plants-de-pomme-de-terre-une-nouvelle-serre-pour-bretagne-plants-innovation",
+      "publie_le": "2026-11-05T10:00:00.000Z",
+      "collecte_le": "2026-11-05T11:20:14.560Z",
+      "langue": "fr",
+      "slug": "finistere-une-serre-agrandie-et-automatisee-pour-creer-de-nouvelles-05d439",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/05d439600b981e57220acc12786a6a50f8610cbf.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/05d439600b981e57220acc12786a6a50f8610cbf.webp",
+        "source": "wikimedia",
+        "credit": "Moreau.henri",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ploudaniel_14_La_mairie.jpg",
+        "alt": "Une vue de Ploudaniel, commune du Finistère où se trouve la station de Kerloï",
+        "mots_cles": [
+          "Ploudaniel"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a",
       "titre": "Émirats arabes unis : une ferme verticale va faire pousser des tulipes en plein désert",

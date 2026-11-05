@@ -1,8 +1,123 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-04T18:18:36.489Z",
+  "genere_le": "2026-11-05T11:20:08.345Z",
   "actus": [
+    {
+      "id": "69dbd8d48e691f4f991aea0dda9ed8ffbac411ec",
+      "titre": "Sénégal : Vieira convoque 25 Lions contre le Soudan, Mané et Gana Gueye pas du voyage",
+      "resume": "Patrick Vieira a retenu 25 joueurs pour la double rencontre face au Soudan (12 et 16 novembre), en qualifications pour la CAN 2027. Sadio Mané a préféré rester auprès des siens, Idrissa Gana Gueye n'a pas été choisi. Pathé Mboup, Clayton Diandy ainsi que Paul Mendy découvrent l'équipe A.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "SD"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/senegal-la-liste-de-vieira-sans-mane-ni-gana-gueye-avec-3-grosses-surprises",
+      "autres_sources": [
+        "https://africatopsports.com/afrique-football/senegal/elim-can-2027-toujours-sans-sadio-mane-ni-idrissa-gana-gueye-la-liste-du-senegal/",
+        "https://senego.com/lions-du-senegal-vieira-brise-le-silence-sur-les-absences-de-mane-et-didrissa_2020706.html",
+        "https://senego.com/liste-des-lions-sadio-mane-et-gana-gueye-absents-premieres-pour-pathe-mboup-clayton-diandy-et-paul-mendy_2020696.html",
+        "https://wiwsport.com/2026/11/05/equipe-nationale-patrick-vieira-devoile-une-liste-sans-idrissa-gana-gueye-sadio-mane-mais-avec-pape-demba-diop-clayton-diandy-paul-mendy-et-dion-lopy/",
+        "https://wiwsport.com/2026/11/05/patrick-vieira-sur-labsence-de-sadio-mane-et-gana-jai-des-choix-a-faire-mais-ca-ne-remet-pas-en-question-la-selection-didrissa-pour-le-futur-sadio-a-s/",
+        "https://wiwsport.com/2026/11/05/patrick-vieira-sur-la-double-confrontation-contre-le-soudan-ca-va-etre-deux-matchs-compliques-mais-lobjectif-est-que-lequipe-sameliore-defensivement-et-au-niveau/",
+        "https://senego.com/sadio-mane-reste-a-la-maison-pour-un-heureux-evenement-selon-patrick-vieira_2020708.html",
+        "https://senego.com/eliminatoires-can-2027-senegal-suivez-en-direct-la-publication-de-la-liste-de-patrick-vieira_2020688.html",
+        "https://wiwsport.com/2026/11/05/equipe-nationale-suivez-en-direct-sur-wiwsport-com-la-publication-de-la-liste-de-patrick-vieira/",
+        "https://senego.com/senegal-tidiam-gomis-pourrait-connaitre-sa-premiere-convocation-jeudi_2020682.html",
+        "https://www.afrik-foot.com/senegal-apres-manchester-city-la-liste-de-vieira-pour-tidiam-gomis",
+        "https://senego.com/dion-lopy-pourrait-retrouver-les-lions-contre-le-soudan-selon-senenews_2020649.html",
+        "https://wiwsport.com/2026/11/04/equipe-nationale-dion-lopy-tidiam-gomis-ces-deux-joueurs-qui-devraient-figurer-dans-la-liste-de-patrick-vieira/"
+      ],
+      "publie_le": "2026-11-05T10:42:59.000Z",
+      "collecte_le": "2026-11-05T11:20:08.345Z",
+      "langue": "fr",
+      "slug": "senegal-vieira-convoque-25-lions-contre-le-soudan-mane-et-gana-gueye-69dbd8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/69dbd8d48e691f4f991aea0dda9ed8ffbac411ec.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/69dbd8d48e691f4f991aea0dda9ed8ffbac411ec.webp",
+        "source": "wikimedia",
+        "credit": "julien haler",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira.jpg",
+        "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal de football",
+        "mots_cles": [
+          "Patrick Vieira"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "2a7faaacf0f1caeefcf90c9318422a590c95d327",
+      "titre": "Mondial U17 féminin : le Nigeria bat le Brésil et jouera sa première finale face au Japon",
+      "resume": "Les Flamingos du Nigeria ont dominé le Brésil 3-1 mercredi à Rabat et disputeront samedi 7 novembre la finale de la Coupe du monde U17 féminine contre le Japon. Une première pour le pays. Patrice Motsepe, président de la CAF, a salué l'exploit et assistera au match.",
+      "theme": "foot",
+      "pays": [
+        "NG",
+        "MA"
+      ],
+      "competition": "Coupe du monde U17 féminine",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football-feminin/coupe-du-monde-u17-f-le-dr-patrice-motsepe-felicite-les-flamingos-du-nigeria-pour-leur-qualification-historique-en-finale/",
+      "autres_sources": [
+        "https://panafricafootball.com/article/flamingos-to-final-u17-wwc",
+        "https://leadership.ng/beyond-brazil-lies-history-flamingos-chase-first-world-cup-final/"
+      ],
+      "publie_le": "2026-11-05T09:57:05.000Z",
+      "collecte_le": "2026-11-05T11:20:08.345Z",
+      "langue": "fr",
+      "slug": "mondial-u17-feminin-le-nigeria-bat-le-bresil-et-jouera-sa-premiere-2a7faa",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2a7faaacf0f1caeefcf90c9318422a590c95d327.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/2a7faaacf0f1caeefcf90c9318422a590c95d327.webp",
+        "source": "wikimedia",
+        "credit": "Copyright by World Economic Forum swiss-image.ch/Photo by Monika Flueckiger",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Patrice_Motsepe.jpg",
+        "alt": "L'équipe féminine des moins de 17 ans du Nigeria",
+        "mots_cles": [
+          "Patrice Motsepe"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "3d0987c124909a5a1da245e289930dd57f8e87c5",
+      "titre": "Mali : Seydou Dembélé, milieu de Reims âgé de 18 ans, appelé pour la première fois en U23",
+      "resume": "Arrivé à Reims cet été après avoir été approché par Chelsea et le FC Barcelone, Seydou Dembélé, 18 ans, figure dans la liste des U23 du Mali. Fousseni Diawara l'a retenu pour la double rencontre face au Zimbabwe, les 11 et 17 novembre.",
+      "theme": "foot",
+      "pays": [
+        "ML",
+        "ZW"
+      ],
+      "competition": "Éliminatoires CAN U23 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/mali-seydou-dembele-la-pepite-de-reims-qui-a-snobe-chelsea-et-le-barca-appelee-en-u23-pour-la-premiere-fois",
+      "publie_le": "2026-11-05T08:24:55.000Z",
+      "collecte_le": "2026-11-05T11:20:08.345Z",
+      "langue": "fr",
+      "slug": "mali-seydou-dembele-milieu-de-reims-age-de-18-ans-appele-pour-la-3d0987",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/3d0987c124909a5a1da245e289930dd57f8e87c5.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/3d0987c124909a5a1da245e289930dd57f8e87c5.webp",
+        "source": "wikimedia",
+        "credit": "Etonde51",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Stade_de_Reims.jpg",
+        "alt": "Le Stade de Reims, club de football où joue Seydou Dembélé",
+        "mots_cles": [
+          "Stade de Reims"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "05a44de0e3632653db1f2be279d62186cc779aeb",
       "titre": "CAF Awards 2026 : Hakimi, Mané et Semenyo en lice pour le trophée du meilleur joueur",
@@ -1992,107 +2107,6 @@
       },
       "slug": "ballon-or-feminin-temwa-chawinga-premiere-africaine-classee-dans-le-d14a7b",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d14a7b2acbb1487089e1fec01f5087057f08e917.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "a247f625310523054474906842d6212d403de47f",
-      "titre": "Togo : Patrice Neveu annonce une liste provisoire pour défier l'Algérie",
-      "resume": "Le Togo affronte l’Algérie lors de la double journée à venir des qualifications pour la CAN 2027. En vue de ces deux matchs, son sélectionneur Patrice Neveu a rendu publique une première liste de joueurs, encore provisoire.",
-      "theme": "foot",
-      "pays": [
-        "TG",
-        "DZ"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football/elim-can-2027-le-togo-devoile-sa-liste-provisoire-contre-lalgerie/",
-      "publie_le": "2026-10-27T08:46:30.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/a247f625310523054474906842d6212d403de47f.webp",
-        "source": "wikimedia",
-        "credit": "Menss06",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Team_%C3%A9perviers.jpg",
-        "alt": "L'équipe du Togo de football",
-        "mots_cles": [
-          "Togo national football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "togo-patrice-neveu-annonce-une-liste-provisoire-pour-defier-algerie-a247f6",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/a247f625310523054474906842d6212d403de47f.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "373cf4855f423482e124287f284339208fa49a35",
-      "titre": "Zimbabwe : Ramon Catala publie sa liste pour affronter la Guinée équatoriale",
-      "resume": "Ramon Catala, à la tête des Warriors, a annoncé une liste provisoire pour les matchs aller et retour contre la Guinée équatoriale, comptant pour les qualifications de la CAN 2027.",
-      "theme": "foot",
-      "pays": [
-        "ZW",
-        "GQ"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football/elim-can-2027-la-liste-provisoire-du-zimbabwe-est-officielle/",
-      "publie_le": "2026-10-27T08:34:43.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/373cf4855f423482e124287f284339208fa49a35.webp",
-        "source": "wikimedia",
-        "credit": "Christian Bellgardt",
-        "licence": "CC BY 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Zimbabwe_national_football_team,_2009.jpg",
-        "alt": "L'équipe du Zimbabwe de football",
-        "mots_cles": [
-          "Zimbabwe national football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://www.heraldonline.co.zw/warriors-return-to-familiar-territory/",
-        "https://africasoccer.com/?p=624544"
-      ],
-      "slug": "zimbabwe-ramon-catala-publie-sa-liste-pour-affronter-la-guinee-373cf4",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/373cf4855f423482e124287f284339208fa49a35.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "1c5eb284cbc146f84aea23ca93f3bb7141d17441",
-      "titre": "Ligue des champions CAF : Scottland FC se sépare de Norman Mapeza",
-      "resume": "Le club zimbabwéen de Scottland FC, engagé en Ligue des champions CAF, a annoncé que Norman Mapeza n’est plus son entraîneur, avec effet immédiat.",
-      "theme": "foot",
-      "pays": [
-        "ZW"
-      ],
-      "competition": "Ligue des champions CAF",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football/ligue-des-champions-caf-scottland-se-separe-de-son-entraineur/",
-      "publie_le": "2026-10-27T07:18:12.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/1c5eb284cbc146f84aea23ca93f3bb7141d17441.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Zimbabwe) et la mention « Ligue des champions CAF »",
-        "mots_cles": [
-          "Norman Mapeza",
-          "football coach",
-          "african football club"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "ligue-des-champions-caf-scottland-fc-se-separe-de-norman-mapeza-1c5eb2",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1c5eb284cbc146f84aea23ca93f3bb7141d17441.json",
       "lecture_min": 1
     }
   ]

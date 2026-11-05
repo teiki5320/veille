@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-04T18:18:28.848Z",
+  "genere_le": "2026-11-05T11:20:02.994Z",
   "actus": [
+    {
+      "id": "13c5681ec47bd09475c9a127ba6754857c63ffca",
+      "titre": "Angola : pour le jour des défunts, trois évêques célèbrent la messe dans les cimetières",
+      "resume": "Le 2 novembre, jour de la commémoration des défunts, des évêques angolais ont célébré la messe dans des cimetières de Lubango, Namibe et Benguela. Ils ont invité les fidèles à se souvenir de leurs morts et à vivre dans le service, l'accueil et le pardon.",
+      "theme": "culture",
+      "pays": [
+        "AO"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25143/hope-of-eternal-life-must-inspire-justice-service-and-inclusion-angolan-catholic-bishops-say-on-all-souls-day",
+      "publie_le": "2026-11-05T09:28:00.000Z",
+      "collecte_le": "2026-11-05T11:20:02.994Z",
+      "langue": "en",
+      "slug": "angola-pour-le-jour-des-defunts-trois-eveques-celebrent-la-messe-dans-13c568",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/13c5681ec47bd09475c9a127ba6754857c63ffca.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/13c5681ec47bd09475c9a127ba6754857c63ffca.webp",
+        "source": "wikimedia",
+        "credit": "Erik Cleves Kristensen",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lubango.jpg",
+        "alt": "Une vue de Lubango, ville du sud-ouest de l'Angola",
+        "mots_cles": [
+          "Lubango"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "480437bd7496119b5ab81be756b10f224817f24b",
+      "titre": "Cameroun : à Yaoundé, des chants gospel créés par l'IA font débat chez les musiciens",
+      "resume": "Au Cameroun, des morceaux présentés comme du gospel mais fabriqués par l'intelligence artificielle réunissent des dizaines de milliers d'auditeurs. Un blogueur de Yaoundé a lancé la discussion fin septembre et de nombreux artistes chrétiens s'interrogent sur ces chansons.",
+      "theme": "culture",
+      "pays": [
+        "CM"
+      ],
+      "source_nom": "Christianisme Aujourd'hui",
+      "source_url": "https://www.christianismeaujourdhui.info/gospel-ia-cameroun-yaounde/",
+      "publie_le": "2026-11-05T07:00:00.000Z",
+      "collecte_le": "2026-11-05T11:20:02.994Z",
+      "langue": "fr",
+      "slug": "cameroun-yaounde-des-chants-gospel-crees-par-ia-font-debat-chez-les-480437",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/480437bd7496119b5ab81be756b10f224817f24b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/480437bd7496119b5ab81be756b10f224817f24b.webp",
+        "source": "wikimedia",
+        "credit": "Ryanvanhuyssteen",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Star_Building,_Yaound%C3%A9,_Cameroon.jpg",
+        "alt": "Une vue de Yaoundé, la capitale du Cameroun",
+        "mots_cles": [
+          "Yaoundé"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa",
       "titre": "Ghana : les femmes catholiques du monde réunies à Accra pour défendre la dignité de chacun",

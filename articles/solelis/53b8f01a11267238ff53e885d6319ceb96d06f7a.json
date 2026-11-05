@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "53b8f01a11267238ff53e885d6319ceb96d06f7a",
+  "slug": "btp-aide-de-20-centimes-le-litre-de-gazole-non-routier-reconduite-53b8f0",
+  "titre": "BTP : l'aide de 20 centimes le litre de gazole non routier reconduite jusqu'à décembre",
+  "chapo": "Le coup de pouce sur le carburant des engins de chantier continue jusqu'à la fin de l'année. Les sociétés du BTP de 50 salariés au plus peuvent réclamer 20 centimes sur chaque litre de GNR.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Un décret du 3 novembre 2026 prolonge l'aide exceptionnelle destinée aux sociétés du BTP qui consomment du gazole non routier (GNR), le carburant des engins de chantier. Le site officiel Entreprendre Service Public a mis à jour sa fiche le 4 novembre.",
+        "Le dispositif avait été lancé en mai, quand les prix des carburants ont grimpé avec la guerre au Moyen-Orient. Il a ensuite été renouvelé chaque mois par décret, en juin, août, septembre et octobre."
+      ]
+    },
+    {
+      "intertitre": "Qui peut en profiter",
+      "paragraphes": [
+        "L'aide vise les sociétés du secteur comptant 50 salariés au maximum. Pour les litres facturés en mai, seules celles de moins de 20 salariés y avaient droit. Leur chiffre d'affaires sur un an ne doit pas atteindre 50 millions d'euros, ni leur bilan total 43 millions.",
+        "Autre condition : ne pas traîner de dettes fiscales impayées au-delà de 1 500 euros. Un dirigeant en retard auprès des impôts a donc intérêt à régulariser ou à négocier un plan de règlement avant de déposer son dossier."
+      ]
+    },
+    {
+      "intertitre": "Montant et calendrier",
+      "paragraphes": [
+        "La subvention atteint 20 centimes par litre acheté en octobre, novembre ou décembre 2026, avec un plafond de 4 000 euros par mois et par entreprise. La demande se fait en ligne, par formulaire, sur impots.gouv.fr.",
+        "Les dates de dépôt sont fixées mois par mois : du 2 au 30 novembre pour le carburant d'octobre, du 1er au 31 décembre pour celui de novembre, et du 4 au 31 janvier 2027 pour celui de décembre."
+      ]
+    },
+    {
+      "intertitre": "Un remboursement possible",
+      "paragraphes": [
+        "Attention aux entreprises restées rentables. Lorsque l'aide d'un mois dépasse 600 euros, elle doit être rendue en totalité si l'EBE (excédent brut d'exploitation) de l'exercice est positif et atteint au moins 98 % de celui de l'année précédente. Ce garde-fou réserve le soutien aux sociétés dont l'activité a vraiment souffert de la hausse du carburant."
+      ]
+    }
+  ],
+  "mots": 336,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Service-Public.fr",
+  "source_url": "https://entreprendre.service-public.gouv.fr/actualites/A18905?xtor=RSS-112",
+  "publie_le": "2026-11-03T23:00:00.000Z",
+  "redige_le": "2026-11-05T11:20:15.764Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/53b8f01a11267238ff53e885d6319ceb96d06f7a.webp",
+    "source": "wikimedia",
+    "credit": "Sebleouf",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Villeurbanne_-_Pelle_hydraulique_CAT_330F_sur_un_chantier_(janv_2019).jpg",
+    "alt": "Une pelle hydraulique sur un chantier",
+    "mots_cles": [
+      "Pelle hydraulique chantier"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

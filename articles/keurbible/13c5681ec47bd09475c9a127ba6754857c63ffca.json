@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "13c5681ec47bd09475c9a127ba6754857c63ffca",
+  "slug": "angola-pour-le-jour-des-defunts-trois-eveques-celebrent-la-messe-dans-13c568",
+  "titre": "Angola : pour le jour des défunts, trois évêques célèbrent la messe dans les cimetières",
+  "chapo": "En Angola, le jour des défunts s'est vécu au cimetière. Le 2 novembre, trois évêques du sud du pays y ont présidé la messe, au milieu des tombes et des familles.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Lundi 2 novembre 2026, l'Église catholique faisait mémoire de tous les fidèles défunts, au lendemain de la Toussaint. En Angola, les célébrations ont eu lieu directement dans les cimetières municipaux, selon l'agence ACI Africa. Trois diocèses du sud et de l'ouest du pays étaient concernés : l'archidiocèse de Lubango et les diocèses de Namibe et de Benguela.",
+        "Dans chacun de ces lieux, l'évêque a célébré la messe près des sépultures, devant les familles venues prier pour leurs proches disparus."
+      ]
+    },
+    {
+      "intertitre": "À Lubango, l'appel à l'humilité",
+      "paragraphes": [
+        "Au cimetière de Mitcha, à Lubango, l'archevêque Gabriel Mbilingi a présidé la célébration. Membre de la congrégation des Spiritains, il a rappelé que l'espérance de la résurrection engage à agir dès aujourd'hui pour les personnes qui souffrent.",
+        "Il a invité les fidèles à préférer la simplicité et le service à la recherche de la richesse ou de la notoriété. Selon lui, la vraie grandeur se mesure à la façon de traiter son prochain, surtout le plus pauvre."
+      ]
+    },
+    {
+      "intertitre": "À Namibe, une Église ouverte à tous",
+      "paragraphes": [
+        "Au cimetière de Moçâmedes, chef-lieu de la province de Namibe, l'évêque Dionísio Hisilenapo a insisté sur l'accueil. Il souhaite des communautés où chacun trouve sa place, quelles que soient son origine, sa culture ou sa situation sociale.",
+        "Il a aussi rappelé que faire partie d'une communauté chrétienne demande un engagement personnel et le désir de vivre ensemble."
+      ]
+    },
+    {
+      "intertitre": "À Catumbela, le respect des disparus",
+      "paragraphes": [
+        "Dans la province de Benguela, l'évêque António Francisco Jaca, membre de la Société du Verbe divin, a célébré au cimetière municipal de Catumbela. Il a présenté ce lieu comme un espace de silence et de paix, et a appelé les vivants à laisser de côté les rancunes.",
+        "Il a demandé de garder en mémoire le bien accompli par chaque défunt, malgré ses faiblesses, et de consacrer ses forces à l'amour, à l'harmonie et à la paix. Se souvenir des morts, a-t-il ajouté, aide les vivants à reconnaître leur propre fragilité."
+      ]
+    }
+  ],
+  "mots": 352,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "AO"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25143/hope-of-eternal-life-must-inspire-justice-service-and-inclusion-angolan-catholic-bishops-say-on-all-souls-day",
+  "publie_le": "2026-11-05T09:28:00.000Z",
+  "redige_le": "2026-11-05T11:20:02.994Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/13c5681ec47bd09475c9a127ba6754857c63ffca.webp",
+    "source": "wikimedia",
+    "credit": "Erik Cleves Kristensen",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lubango.jpg",
+    "alt": "Une vue de Lubango, ville du sud-ouest de l'Angola",
+    "mots_cles": [
+      "Lubango"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

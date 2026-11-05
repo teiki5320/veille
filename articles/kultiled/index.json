@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-04T18:18:40.340Z",
+  "genere_le": "2026-11-05T11:20:15.756Z",
   "articles": [
+    {
+      "id": "05d439600b981e57220acc12786a6a50f8610cbf",
+      "slug": "finistere-une-serre-agrandie-et-automatisee-pour-creer-de-nouvelles-05d439",
+      "titre": "Finistère : une serre agrandie et automatisée pour créer de nouvelles pommes de terre",
+      "publie_le": "2026-11-05T10:00:00.000Z",
+      "redige_le": "2026-11-05T11:20:14.560Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/05d439600b981e57220acc12786a6a50f8610cbf.json"
+    },
     {
       "id": "4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a",
       "slug": "emirats-arabes-unis-une-ferme-verticale-va-faire-pousser-des-tulipes-4f3186",

@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-04T18:18:35.278Z",
+  "genere_le": "2026-11-05T11:20:06.516Z",
   "actus": [
+    {
+      "id": "5e56f9680a2e9f97df5c73a053514d69e4450701",
+      "titre": "Royaume du Bénin : la Suède rend une quarantaine d'objets pillés en 1897",
+      "resume": "À Benin City, l'Oba Ewuare II a annoncé l'arrivée d'environ 40 pièces conservées en Suède, emportées lors de l'expédition britannique de 1897. Le transfert, à la fois juridique et physique, couronne une démarche engagée par le souverain il y a de longues années.",
+      "theme": "deco",
+      "pays": [
+        "NG"
+      ],
+      "source_nom": "BusinessDay",
+      "source_url": "https://businessday.ng/life-arts/article/sweden-set-to-return-over-40-artefacts-to-oba-of-benin/",
+      "autres_sources": [
+        "https://restitutionmatters.org/news-item/sweden-returns-39-artefacts-to-benin-kingdom/",
+        "https://guardian.ng/news/nigeria/sweden-to-return-39-artefacts-to-benin"
+      ],
+      "publie_le": "2026-11-04T19:28:52.000Z",
+      "collecte_le": "2026-11-05T11:20:06.516Z",
+      "langue": "en",
+      "slug": "royaume-du-benin-la-suede-rend-une-quarantaine-objets-pilles-en-1897-5e56f9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/5e56f9680a2e9f97df5c73a053514d69e4450701.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/5e56f9680a2e9f97df5c73a053514d69e4450701.webp",
+        "source": "wikimedia",
+        "credit": "Photograph by Mike Peel ( www.mikepeel.net ).",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Benin_Bronzes,_Horniman_Museum.jpg",
+        "alt": "Une œuvre du royaume du Bénin, au sud du Nigeria, ou le souverain Ewuare II",
+        "mots_cles": [
+          "Benin Bronzes"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d734265040b63a4476c6a3fcbabfd65eda96c16a",
       "titre": "ART X Lagos 2026 rend hommage à la potière nigériane Ladi Kwali",

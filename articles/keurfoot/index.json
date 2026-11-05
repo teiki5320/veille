@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-04T18:18:37.822Z",
+  "genere_le": "2026-11-05T11:20:14.556Z",
   "articles": [
+    {
+      "id": "69dbd8d48e691f4f991aea0dda9ed8ffbac411ec",
+      "slug": "senegal-vieira-convoque-25-lions-contre-le-soudan-mane-et-gana-gueye-69dbd8",
+      "titre": "Sénégal : Vieira convoque 25 Lions contre le Soudan, Mané et Gana Gueye pas du voyage",
+      "publie_le": "2026-11-05T10:42:59.000Z",
+      "redige_le": "2026-11-05T11:20:08.345Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/69dbd8d48e691f4f991aea0dda9ed8ffbac411ec.json"
+    },
+    {
+      "id": "2a7faaacf0f1caeefcf90c9318422a590c95d327",
+      "slug": "mondial-u17-feminin-le-nigeria-bat-le-bresil-et-jouera-sa-premiere-2a7faa",
+      "titre": "Mondial U17 féminin : le Nigeria bat le Brésil et jouera sa première finale face au Japon",
+      "publie_le": "2026-11-05T09:57:05.000Z",
+      "redige_le": "2026-11-05T11:20:08.345Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/2a7faaacf0f1caeefcf90c9318422a590c95d327.json"
+    },
+    {
+      "id": "3d0987c124909a5a1da245e289930dd57f8e87c5",
+      "slug": "mali-seydou-dembele-milieu-de-reims-age-de-18-ans-appele-pour-la-3d0987",
+      "titre": "Mali : Seydou Dembélé, milieu de Reims âgé de 18 ans, appelé pour la première fois en U23",
+      "publie_le": "2026-11-05T08:24:55.000Z",
+      "redige_le": "2026-11-05T11:20:08.345Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/3d0987c124909a5a1da245e289930dd57f8e87c5.json"
+    },
     {
       "id": "05a44de0e3632653db1f2be279d62186cc779aeb",
       "slug": "caf-awards-2026-hakimi-mane-et-semenyo-en-lice-pour-le-trophee-du-05a44d",

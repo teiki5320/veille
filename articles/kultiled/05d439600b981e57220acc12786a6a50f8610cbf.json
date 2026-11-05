@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "05d439600b981e57220acc12786a6a50f8610cbf",
+  "slug": "finistere-une-serre-agrandie-et-automatisee-pour-creer-de-nouvelles-05d439",
+  "titre": "Finistère : une serre agrandie et automatisée pour créer de nouvelles pommes de terre",
+  "chapo": "En Bretagne, la station où naissent de nouvelles variétés de pommes de terre a remplacé sa vieille serre par un bâtiment plus grand et plus automatisé, capable d'accueillir bien plus de semis chaque année.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Bretagne Plants Innovation, l'organisme de sélection créé par les producteurs bretons de semences de pomme de terre, a inauguré le 16 septembre les installations rénovées de sa station de Kerloï, à Ploudaniel, dans le Finistère. Environ 200 personnes ont assisté à l'événement : élus, producteurs, partenaires et salariés.",
+        "Le chantier a commencé le 15 juillet 2025. L'ancienne serre, construite dans les années 1970, a été démolie pour laisser place à une nouvelle structure. Malgré des retards, celle-ci a reçu ses premiers semis dès le mois de mars. Sa surface passe de 1 000 à 1 500 m²."
+      ]
+    },
+    {
+      "intertitre": "Plus de semis, moins de gestes manuels",
+      "paragraphes": [
+        "Chaque année, la nouvelle serre pourra recevoir jusqu'à 100 000 graines, contre 65 000 jusqu'ici. L'arrosage, l'apport d'engrais et les traitements y sont désormais pilotés de façon automatique.",
+        "Autour, le bâtiment a lui aussi été repensé. La halle où travaillent les équipes a doublé, pour atteindre 500 m². Un laboratoire accueille les tests en cuisine des hybrides jugés les plus intéressants. Près de la serre réservée aux plantes parentes, une pièce sert désormais à préparer les croisements et à contrôler la qualité du pollen. Des bureaux, une salle de réunion et un espace de vie complètent l'ensemble."
+      ]
+    },
+    {
+      "intertitre": "Des variétés plus résistantes",
+      "paragraphes": [
+        "L'investissement atteint 1,6 million d'euros, avec le soutien de la Région Bretagne et du département. Selon la station, plus de 1 500 croisements réussissent chaque année. Le but : évaluer plus d'hybrides et faire inscrire en moyenne trois variétés par an, au lieu de deux.",
+        "Les sélectionneurs s'appuient aussi sur des marqueurs moléculaires. Ces outils repèrent plus vite les plantes qui tiennent face au mildiou, au virus Y ou aux nématodes, trois menaces majeures pour la culture."
+      ]
+    },
+    {
+      "intertitre": "Le climat au cœur des travaux",
+      "paragraphes": [
+        "Selon Dominique Morvan, qui préside Bretagne-Plants, la filière doit répondre à deux défis : le changement climatique, qui exige des plants capables de garder des rendements stables, et la concurrence. Il compte sur la poursuite du partenariat noué avec l'Inrae à la fin des années 1960, ainsi que sur l'appui d'Inov3PT, structure financée par les producteurs de plants, pour accélérer la création de variétés."
+      ]
+    }
+  ],
+  "mots": 386,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Terre-net",
+  "source_url": "https://www.terre-net.fr/pommes-de-terre/article/905559/plants-de-pomme-de-terre-une-nouvelle-serre-pour-bretagne-plants-innovation",
+  "publie_le": "2026-11-05T10:00:00.000Z",
+  "redige_le": "2026-11-05T11:20:14.560Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/05d439600b981e57220acc12786a6a50f8610cbf.webp",
+    "source": "wikimedia",
+    "credit": "Moreau.henri",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ploudaniel_14_La_mairie.jpg",
+    "alt": "Une vue de Ploudaniel, commune du Finistère où se trouve la station de Kerloï",
+    "mots_cles": [
+      "Ploudaniel"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

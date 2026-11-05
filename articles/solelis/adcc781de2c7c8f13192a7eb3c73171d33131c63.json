@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "adcc781de2c7c8f13192a7eb3c73171d33131c63",
+  "slug": "toulouse-les-halles-de-la-cartoucherie-reduisent-leurs-charges-pendant-adcc78",
+  "titre": "Toulouse : les Halles de la Cartoucherie réduisent leurs charges pendant leur redressement",
+  "chapo": "Le grand lieu de restauration et de loisirs du quartier toulousain de la Cartoucherie est toujours en redressement judiciaire. Sa direction a engagé une baisse des coûts et prépare une audience décisive en décembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Début 2026, Cosmopolis, la société chargée de la gestion, de la programmation culturelle et de la communication des Halles de la Cartoucherie, à Toulouse, a été placée en redressement judiciaire. Le lieu ne manquait pourtant pas de clients : 2,2 millions de visiteurs en 2025.",
+        "Le problème venait des comptes. Les recettes consolidées ne dépassaient pas 18 millions d'euros, alors qu'il en aurait fallu environ 22 millions pour être à l'équilibre. Le déficit est apparu dix-huit mois après l'ouverture du site."
+      ]
+    },
+    {
+      "intertitre": "Coûts réduits et équipe resserrée",
+      "paragraphes": [
+        "La directrice générale, arrivée deux mois avant la décision du tribunal, détaille les mesures prises avec l'administrateur judiciaire. Les charges techniques ont baissé de 30 %. Un plan de licenciement a réorganisé Cosmopolis, qui compte désormais 14 salariés. Au total, quelque 250 personnes travaillent sur le site.",
+        "L'activité, elle, n'a pas cessé. La restauration et le sport tiennent bon, avec 1 500 à 3 000 repas servis chaque jour. Cette année, la restauration devrait rapporter de 14,5 à 15 millions d'euros."
+      ]
+    },
+    {
+      "intertitre": "Une audience le 10 décembre",
+      "paragraphes": [
+        "La période de redressement était prévue pour durer de six à dix-huit mois. L'enjeu est désormais de prouver au tribunal que la dette peut être remboursée et que des réserves peuvent être constituées pour régler tous les créanciers. Une première audience, initialement prévue plus tôt, a été décalée grâce aux documents fournis ; elle se tiendra le 10 décembre.",
+        "En parallèle, la direction prévoit en décembre une nouvelle identité visuelle et une nouvelle signalétique, un espace de jeux vidéo plus grand et davantage de place pour la culture, afin d'attirer d'autres publics. Le redressement judiciaire permet ainsi à une entreprise en déficit de continuer à travailler pendant qu'elle bâtit son plan de sortie."
+      ]
+    }
+  ],
+  "mots": 319,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/05/on-a-refondu-beaucoup-de-choses-neuf-mois-apres-leur-placement-en-redressement-judiciaire-ou-en-sont-les-halles-de-la-cartoucherie-13635441.php",
+  "publie_le": "2026-11-05T05:25:03.000Z",
+  "redige_le": "2026-11-05T11:20:15.764Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/adcc781de2c7c8f13192a7eb3c73171d33131c63.webp",
+    "source": "wikimedia",
+    "credit": "Abdoucondorcet",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Halles_de_la_Cartoucherie_02.jpg",
+    "alt": "Les Halles de la Cartoucherie, à Toulouse",
+    "mots_cles": [
+      "Halles de la Cartoucherie"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

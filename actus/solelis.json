@@ -1,8 +1,74 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-04T18:18:40.342Z",
+  "genere_le": "2026-11-05T11:20:15.764Z",
   "actus": [
+    {
+      "id": "5a7a4370a79ac21b876673a0a98296ea653da227",
+      "titre": "Commerces d'habillement : 8 % de ventes perdues en centre-ville depuis les manifestations",
+      "resume": "D'après l'Alliance du commerce, qui a diffusé une étude le 5 novembre, les boutiques de mode situées en centre-ville ont vu leur chiffre d'affaires reculer de 8 %. La fédération relie cette baisse aux dégradations commises lors des cortèges depuis le 17 octobre.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Provence",
+      "source_url": "https://www.laprovence.com/article/economie/170144081092214/moins-8-de-chiffre-d-affaires-les-centres-villes-francais-desertes-apres-les-manifestations-d-octobre",
+      "autres_sources": [
+        "https://www.banquedesterritoires.fr/commerces-degrades-les-aides-se-multiplient-lapproche-de-noel",
+        "https://fashionunited.fr/actualite/retail/magasins-degrades-lalliance-du-commerce-reclame-louverture-des-dimanches-de-fin-dannee/2026103043439"
+      ],
+      "publie_le": "2026-11-05T10:49:52.000Z",
+      "collecte_le": "2026-11-05T11:20:15.764Z",
+      "langue": "fr",
+      "slug": "commerces-habillement-8-de-ventes-perdues-en-centre-ville-depuis-les-5a7a43",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/5a7a4370a79ac21b876673a0a98296ea653da227.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/solelis/5a7a4370a79ac21b876673a0a98296ea653da227.svg",
+        "source": "carte",
+        "credit": "Illustration : Solelis",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Solelis avec la mention « Entreprises »",
+        "mots_cles": [
+          "Rue piétonne commerçante France",
+          "shopping street france",
+          "clothing store window"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "adcc781de2c7c8f13192a7eb3c73171d33131c63",
+      "titre": "Toulouse : les Halles de la Cartoucherie réduisent leurs charges pendant leur redressement",
+      "resume": "Neuf mois après le placement en redressement judiciaire de la société qui les gère, les Halles de la Cartoucherie à Toulouse ont baissé leurs frais techniques de 30 % et réduit leurs équipes. Une audience est prévue le 10 décembre pour fixer la suite.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/05/on-a-refondu-beaucoup-de-choses-neuf-mois-apres-leur-placement-en-redressement-judiciaire-ou-en-sont-les-halles-de-la-cartoucherie-13635441.php",
+      "publie_le": "2026-11-05T05:25:03.000Z",
+      "collecte_le": "2026-11-05T11:20:15.764Z",
+      "langue": "fr",
+      "slug": "toulouse-les-halles-de-la-cartoucherie-reduisent-leurs-charges-pendant-adcc78",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/adcc781de2c7c8f13192a7eb3c73171d33131c63.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/adcc781de2c7c8f13192a7eb3c73171d33131c63.webp",
+        "source": "wikimedia",
+        "credit": "Abdoucondorcet",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Halles_de_la_Cartoucherie_02.jpg",
+        "alt": "Les Halles de la Cartoucherie, à Toulouse",
+        "mots_cles": [
+          "Halles de la Cartoucherie"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "95f5d34e69c912e90ecab76045682f95a63575cf",
       "titre": "Zone euro : l'inflation monte à 4 % en octobre, du jamais-vu depuis 2023",
@@ -127,6 +193,36 @@
         "alt": "Un salarié équipé de protections sur son lieu de travail",
         "mots_cles": [
           "workplace safety"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "53b8f01a11267238ff53e885d6319ceb96d06f7a",
+      "titre": "BTP : l'aide de 20 centimes le litre de gazole non routier reconduite jusqu'à décembre",
+      "resume": "Les petites sociétés du BTP peuvent toujours obtenir une subvention sur le gazole non routier. Créé en mai face à la flambée des carburants, le dispositif couvre désormais les achats d'octobre, novembre et décembre 2026, dans la limite de 4 000 euros par mois.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Service-Public.fr",
+      "source_url": "https://entreprendre.service-public.gouv.fr/actualites/A18905?xtor=RSS-112",
+      "publie_le": "2026-11-03T23:00:00.000Z",
+      "collecte_le": "2026-11-05T11:20:15.764Z",
+      "langue": "fr",
+      "slug": "btp-aide-de-20-centimes-le-litre-de-gazole-non-routier-reconduite-53b8f0",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/53b8f01a11267238ff53e885d6319ceb96d06f7a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/53b8f01a11267238ff53e885d6319ceb96d06f7a.webp",
+        "source": "wikimedia",
+        "credit": "Sebleouf",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Villeurbanne_-_Pelle_hydraulique_CAT_330F_sur_un_chantier_(janv_2019).jpg",
+        "alt": "Une pelle hydraulique sur un chantier",
+        "mots_cles": [
+          "Pelle hydraulique chantier"
         ],
         "largeur": 1600,
         "hauteur": 900

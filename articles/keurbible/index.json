@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-04T18:18:33.326Z",
+  "genere_le": "2026-11-05T11:20:06.504Z",
   "articles": [
+    {
+      "id": "13c5681ec47bd09475c9a127ba6754857c63ffca",
+      "slug": "angola-pour-le-jour-des-defunts-trois-eveques-celebrent-la-messe-dans-13c568",
+      "titre": "Angola : pour le jour des défunts, trois évêques célèbrent la messe dans les cimetières",
+      "publie_le": "2026-11-05T09:28:00.000Z",
+      "redige_le": "2026-11-05T11:20:02.994Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/13c5681ec47bd09475c9a127ba6754857c63ffca.json"
+    },
+    {
+      "id": "480437bd7496119b5ab81be756b10f224817f24b",
+      "slug": "cameroun-yaounde-des-chants-gospel-crees-par-ia-font-debat-chez-les-480437",
+      "titre": "Cameroun : à Yaoundé, des chants gospel créés par l'IA font débat chez les musiciens",
+      "publie_le": "2026-11-05T07:00:00.000Z",
+      "redige_le": "2026-11-05T11:20:02.994Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/480437bd7496119b5ab81be756b10f224817f24b.json"
+    },
     {
       "id": "c752f15942fdbe77e4ad7e0da7475b1f5963c7fa",
       "slug": "ghana-les-femmes-catholiques-du-monde-reunies-accra-pour-defendre-la-c752f1",

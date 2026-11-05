@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "5a7a4370a79ac21b876673a0a98296ea653da227",
+  "slug": "commerces-habillement-8-de-ventes-perdues-en-centre-ville-depuis-les-5a7a43",
+  "titre": "Commerces d'habillement : 8 % de ventes perdues en centre-ville depuis les manifestations",
+  "chapo": "Les enseignes de mode installées au cœur des villes ont perdu 8 % de chiffre d'affaires, d'après l'Alliance du commerce. En cause : les casses survenues en marge des mobilisations depuis le 17 octobre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La fédération qui regroupe grands magasins, magasins populaires et chaînes d'habillement et de chaussure a publié jeudi 5 novembre une étude sur l'activité de ses adhérents. Elle y constate une baisse de 8 % des ventes pour les boutiques de vêtements situées en centre-ville.",
+        "L'organisation attribue ce recul aux dégâts et aux pillages qui ont accompagné plusieurs journées de mobilisation, à partir du samedi 17 octobre. Elle fédère quelque 16 000 magasins, qui emploient au-delà de 150 000 personnes dans le pays."
+      ]
+    },
+    {
+      "intertitre": "Un secteur déjà affaibli",
+      "paragraphes": [
+        "Le choc arrive sur un marché fragile. En septembre, l'IFM, organisme d'études du secteur, avait déjà mesuré un repli de 15 % de la valeur des ventes sur un an. Les jours de cortège, certains magasins ont vu leur activité s'effondrer jusqu'à 90 %, selon la fédération.",
+        "CCI France compte 2 488 boutiques et entreprises affectées après les journées des 17 et 24 octobre, dont 1 161 gravement abîmés. France Assureurs chiffre les dommages au-delà de 730 millions d'euros."
+      ]
+    },
+    {
+      "intertitre": "Les aides ouvertes aux commerçants",
+      "paragraphes": [
+        "Plusieurs dispositifs existent pour les gérants touchés : prêts sans intérêt de Bpifrance (50 000 euros au plus, remboursables en trois ans), décalage du paiement des cotisations et des impôts, activité partielle, et un fonds pouvant verser jusqu'à 10 000 euros aux structures employant moins de 50 personnes. Un décret du 28 octobre a aussi créé une aide exceptionnelle pour les sociétés sinistrées de moins de 250 salariés.",
+        "L'Alliance demande que ces soutiens soient accessibles quelle que soit la taille de l'entreprise, et que l'activité partielle soit prise en charge à 100 % pour les boutiques fermées par précaution, même sans dégâts."
+      ]
+    },
+    {
+      "intertitre": "Les fêtes de fin d'année en ligne de mire",
+      "paragraphes": [
+        "Novembre et décembre pèsent environ 40 % des recettes annuelles du commerce de proximité. La fédération réclame donc l'ouverture, pour les magasins volontaires, de tous les dimanches de ces deux mois, ou au moins de six dimanches, du 22 novembre au 27 décembre. Elle souhaite aussi que les cortèges évitent les grandes artères marchandes et que les mairies proposent animations et stationnement gratuit."
+      ]
+    }
+  ],
+  "mots": 378,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Provence",
+  "source_url": "https://www.laprovence.com/article/economie/170144081092214/moins-8-de-chiffre-d-affaires-les-centres-villes-francais-desertes-apres-les-manifestations-d-octobre",
+  "autres_sources": [
+    "https://www.banquedesterritoires.fr/commerces-degrades-les-aides-se-multiplient-lapproche-de-noel",
+    "https://fashionunited.fr/actualite/retail/magasins-degrades-lalliance-du-commerce-reclame-louverture-des-dimanches-de-fin-dannee/2026103043439"
+  ],
+  "publie_le": "2026-11-05T10:49:52.000Z",
+  "redige_le": "2026-11-05T11:20:15.764Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/solelis/5a7a4370a79ac21b876673a0a98296ea653da227.svg",
+    "source": "carte",
+    "credit": "Illustration : Solelis",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Solelis avec la mention « Entreprises »",
+    "mots_cles": [
+      "Rue piétonne commerçante France",
+      "shopping street france",
+      "clothing store window"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

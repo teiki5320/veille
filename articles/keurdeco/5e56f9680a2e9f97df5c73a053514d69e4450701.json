@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "5e56f9680a2e9f97df5c73a053514d69e4450701",
+  "slug": "royaume-du-benin-la-suede-rend-une-quarantaine-objets-pilles-en-1897-5e56f9",
+  "titre": "Royaume du Bénin : la Suède rend une quarantaine d'objets pillés en 1897",
+  "chapo": "Près de quarante œuvres du royaume du Bénin, au sud du Nigeria, quittent la Suède pour rejoindre le palais royal de Benin City. Elles avaient été emportées par les troupes britanniques en 1897.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'Oba Ewuare II, souverain traditionnel du Bénin, a fait cette annonce le mercredi 4 novembre 2026 dans son palais de Benin City, capitale de l'État d'Edo. Il recevait ce jour-là Mohamed Buba Marwa, général à la retraite et patron de l'agence nigériane de lutte antidrogue (NDLEA), venu en visite de courtoisie.",
+        "Selon le monarque, les pièces devaient arriver dès le lendemain. Il a précisé que le retour serait complet : la propriété juridique des objets change de mains, et ceux-ci reviennent aussi physiquement dans le royaume."
+      ]
+    },
+    {
+      "intertitre": "Une demande vieille de plusieurs décennies",
+      "paragraphes": [
+        "Ewuare II relie ce dénouement à un travail diplomatique ancien. Avant de monter sur le trône, il a été ambassadeur du Nigeria auprès des pays scandinaves. À cette époque, il avait proposé d'offrir des œuvres béninoises aux familles royales de Suède, de Norvège et du Danemark, pour faire connaître ce patrimoine et ouvrir la voie à des restitutions.",
+        "La décision suédoise avait été rendue publique en mai 2024 : l'ambassadrice Annika Hahn-Englund était alors venue annoncer au palais le retour de 39 objets détenus par un musée de son pays. Depuis un texte officiel nigérian de mars 2023, l'Oba est reconnu comme propriétaire et gardien des œuvres béninoises rapatriées."
+      ]
+    },
+    {
+      "intertitre": "Un savoir-faire de cour",
+      "paragraphes": [
+        "Les objets dits « bronzes du Bénin » sont pour l'essentiel des plaques, des têtes et des statuettes en laiton ou en bronze, coulées à la cire perdue par une guilde de fondeurs attachée au palais, à côté de pièces en ivoire et en bois. Lors de l'expédition punitive de 1897, des milliers d'entre eux ont été saisis puis dispersés dans les musées et les collections d'Europe et d'Amérique.",
+        "En visite au palais, Mohamed Buba Marwa a salué la finesse de ces œuvres, qu'il a comparées à une merveille du monde."
+      ]
+    },
+    {
+      "intertitre": "D'autres retours attendus",
+      "paragraphes": [
+        "D'autres pays ont déjà fait ce geste : l'Allemagne a rendu vingt bronzes au Nigeria en décembre 2022. Le souverain constate que le mouvement s'accélère et que de plus en plus de pièces regagnent leur lieu d'origine.",
+        "Il a promis de poursuivre la campagne lancée par ses prédécesseurs et a remercié le gouvernement fédéral, les autorités traditionnelles et tous ceux qui l'ont soutenue."
+      ]
+    }
+  ],
+  "mots": 395,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "NG"
+  ],
+  "source_nom": "BusinessDay",
+  "source_url": "https://businessday.ng/life-arts/article/sweden-set-to-return-over-40-artefacts-to-oba-of-benin/",
+  "autres_sources": [
+    "https://restitutionmatters.org/news-item/sweden-returns-39-artefacts-to-benin-kingdom/",
+    "https://guardian.ng/news/nigeria/sweden-to-return-39-artefacts-to-benin"
+  ],
+  "publie_le": "2026-11-04T19:28:52.000Z",
+  "redige_le": "2026-11-05T11:20:06.516Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/5e56f9680a2e9f97df5c73a053514d69e4450701.webp",
+    "source": "wikimedia",
+    "credit": "Photograph by Mike Peel ( www.mikepeel.net ).",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Benin_Bronzes,_Horniman_Museum.jpg",
+    "alt": "Une œuvre du royaume du Bénin, au sud du Nigeria, ou le souverain Ewuare II",
+    "mots_cles": [
+      "Benin Bronzes"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
