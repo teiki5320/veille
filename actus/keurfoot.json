@@ -1,8 +1,117 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-05T18:20:30.876Z",
+  "genere_le": "2026-11-06T11:20:32.353Z",
   "actus": [
+    {
+      "id": "204f53d7369bdb94db5c3648fc6c3fbbf7916d0d",
+      "titre": "RD Congo : 26 Léopards face à la Sierra Leone, toujours sans Paris Brunner",
+      "resume": "Sébastien Desabre a publié vendredi sa liste de 26 joueurs pour les deux matchs contre la Sierra Leone, les 12 et 17 novembre, en éliminatoires de la CAN 2027. Bakambu, Wissa et Mbemba en font partie ; le Monégasque Paris Brunner n'est pas appelé.",
+      "theme": "foot",
+      "pays": [
+        "CD",
+        "SL"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/elim-can-2027-mbemba-wissa-bakambu-decouvrez-les-26-leopards-convoques-contre-la-sierra-leone/",
+      "autres_sources": [
+        "https://www.footmercato.net/a1443449439356750785-la-liste-du-rd-congo-avec-banzuzi-mais-toujours-sans-brunner"
+      ],
+      "publie_le": "2026-11-06T10:17:39.000Z",
+      "collecte_le": "2026-11-06T11:20:32.353Z",
+      "langue": "fr",
+      "slug": "rd-congo-26-leopards-face-la-sierra-leone-toujours-sans-paris-brunner-204f53",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/204f53d7369bdb94db5c3648fc6c3fbbf7916d0d.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/204f53d7369bdb94db5c3648fc6c3fbbf7916d0d.webp",
+        "source": "wikimedia",
+        "credit": "Sdesabre",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Desabre.JPG",
+        "alt": "Sébastien Desabre, sélectionneur de la RD Congo",
+        "mots_cles": [
+          "Sébastien Desabre"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "6cdb3bc4b14b136afccfd50b6cebdc7cbd996311",
+      "titre": "Amine Gouiri offre à l'OM sa première victoire européenne de la saison à Leverkusen",
+      "resume": "L'attaquant international algérien a inscrit l'unique but du match à la 77e minute, jeudi 5 novembre, en Ligue Europa. Marseille, battu lors des trois premières journées, prend ses premiers points mais ne figure pas encore parmi les 24 premiers du classement.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "FR"
+      ],
+      "competition": "Ligue Europa",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a7832125042246191976-ligue-europa-lom-decroche-son-premier-succes-a-leverkusen-kolo-muani-porte-la-juventus",
+      "autres_sources": [
+        "https://www.footmercato.net/a7669702944867748179-om-la-reaction-a-chaud-du-heros-amine-gouiri",
+        "https://www.footmercato.net/a8363122841052968548-om-le-bijou-damine-gouiri-contre-leverkusen",
+        "https://www.lequipe.fr/Football/Actualites/Amine-gouiri-a-remis-son-costume-de-sauveur-a-leverkusen-et-s-impose-comme-le-nouvel-homme-fort-de-l-om/1741505",
+        "https://www.lequipe.fr/Football/Actualites/Avec-un-bijou-d-amine-gouiri-l-om-l-emporte-a-leverkusen-et-se-relance-en-ligue-europa/1741488",
+        "https://www.lequipe.fr/Football/Article/Les-notes-de-bayer-leverkusen-om-gouiri-enchaine-aguerd-dissuade/1741494"
+      ],
+      "publie_le": "2026-11-05T21:57:20.000Z",
+      "collecte_le": "2026-11-06T11:20:32.353Z",
+      "langue": "fr",
+      "slug": "amine-gouiri-offre-om-sa-premiere-victoire-europeenne-de-la-saison-6cdb3b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/6cdb3bc4b14b136afccfd50b6cebdc7cbd996311.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/6cdb3bc4b14b136afccfd50b6cebdc7cbd996311.webp",
+        "source": "wikimedia",
+        "credit": "Laura Jonin",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Amine_Gouiri_(2017).jpg",
+        "alt": "L'attaquant algérien Amine Gouiri",
+        "mots_cles": [
+          "Amine Gouiri"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "1569a133a048c6da1c99f96a82fcfc0114fb33dd",
+      "titre": "Sénégal : sans Mané ni Gana Guèye, Vieira appelle Clayton Diandy pour la première fois",
+      "resume": "Patrick Vieira a dévoilé jeudi son groupe pour les deux matchs face au Soudan, les 12 et 16 novembre, en éliminatoires de la CAN 2027. Sadio Mané, appelé, reste auprès des siens pour un heureux événement ; Pathé Ciss et Idrissa Gana Guèye, eux, ne sont pas retenus.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/patrick-vieira-explique-la-raison-familiale-pour-mane-et-ne-convoque-pas-gana-gueye-ni-pathe-ciss_2020890.html",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/06/equipe-nationale-clayton-diandy-cest-une-grande-fierte-pour-moi-et-ma-famille/",
+        "https://prod.beinsports.com/en-us/soccer/articles/patrick-vieira-named-senegal-head-coach-after-2026-world-cup-disappointment-2026-08-19"
+      ],
+      "publie_le": "2026-11-05T21:10:05.000Z",
+      "collecte_le": "2026-11-06T11:20:32.353Z",
+      "langue": "fr",
+      "slug": "senegal-sans-mane-ni-gana-gueye-vieira-appelle-clayton-diandy-pour-la-1569a1",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1569a133a048c6da1c99f96a82fcfc0114fb33dd.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/1569a133a048c6da1c99f96a82fcfc0114fb33dd.webp",
+        "source": "wikimedia",
+        "credit": "Steindy ( talk ) 01:25, 29 November 2009 (UTC)",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_-_Inter_Mailand_(3).jpg",
+        "alt": "Patrick Vieira, sélectionneur du Sénégal",
+        "mots_cles": [
+          "Patrick Vieira"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "41f717fd71426f081e91936449134cb8e233274d",
       "titre": "Algérie : Hemdani appelle 26 joueurs contre le Togo, sans Luca Zidane ni Aït-Nouri",
@@ -2012,109 +2121,6 @@
       "slug": "algerie-zetchi-et-ex-dirigeants-de-la-faf-condamnes-de-la-prison-ferme-e85a00",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e85a006dbeb2adeab0e36f4c9e1572aec7f3c869.json",
       "lecture_min": 2
-    },
-    {
-      "id": "01b9fa6249db00d739a35e7961b8703630ed8a1d",
-      "titre": "Cameroun : David Pagou s'explique sur les joueurs absents de sa liste",
-      "resume": "Le sélectionneur des Lions indomptables a publié sa liste pour les deux prochains matchs de qualification à la CAN 2027, les 3e et 4e journées. Certains joueurs que l’on attendait n’y figurent pas, et David Pagou a donné les raisons de ces choix.",
-      "theme": "foot",
-      "pays": [
-        "CM"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/afrique-football/cameroun/elim-can-2027-cameroun-david-pagou-explique-les-absences/",
-      "publie_le": "2026-10-27T10:27:52.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/01b9fa6249db00d739a35e7961b8703630ed8a1d.webp",
-        "source": "wikimedia",
-        "credit": "Дмитрий Садовник",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Cameroon-Chilie_(12).jpg",
-        "alt": "L'équipe du Cameroun de football",
-        "mots_cles": [
-          "Cameroon national football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "cameroun-david-pagou-explique-sur-les-joueurs-absents-de-sa-liste-01b9fa",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/01b9fa6249db00d739a35e7961b8703630ed8a1d.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "77fb7e1de2897305ddb102b50ba45a8b07c066ae",
-      "titre": "Mondial U15 : l’Algérie face à la Guinée, le Maroc contre le Cameroun en 16es",
-      "resume": "À Bakou, le premier tour du Mondial U15 a réparti les 189 équipes en six divisions. En 16es de la Ligue A, l’Algérie défie la Guinée et le Maroc le Cameroun. Deuxième de son groupe malgré quatre victoires en cinq matchs, le Sénégal rejoint les Ivoiriens au niveau B.",
-      "theme": "foot",
-      "pays": [
-        "DZ",
-        "MA",
-        "SN",
-        "CI",
-        "CM"
-      ],
-      "competition": "Coupe du monde U15",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-choc-africain-pour-lalgerie-et-le-maroc-en-16es-ce-qui-attend-le-senegal-et-la-cote-divoire-en-ligue-b",
-      "autres_sources": [
-        "https://wiwsport.com/2026/10/27/mondial-u15-deuxieme-du-groupe-k-le-senegal-reverse-au-niveau-b/"
-      ],
-      "publie_le": "2026-10-27T09:45:00.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/77fb7e1de2897305ddb102b50ba45a8b07c066ae.webp",
-        "source": "wikimedia",
-        "credit": "Diego Delso",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_138.jpg",
-        "alt": "La ville de Bakou, en Azerbaïdjan",
-        "mots_cles": [
-          "Baku"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "mondial-u15-algerie-et-maroc-affrontent-en-16es-senegal-et-ivoiriens-77fb7e",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/77fb7e1de2897305ddb102b50ba45a8b07c066ae.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "23424f3409d6744dd9019151fb6981108397bc1b",
-      "titre": "Trophée Yachine : Édouard Mendy de retour dans le top 10, à la neuvième place",
-      "resume": "Le portier international sénégalais, qui joue à Al-Ahli, a été classé neuvième du Trophée Yachine 2026, remis lundi soir au meilleur gardien de la saison pendant la soirée du Ballon d’Or. Il retrouve ainsi les dix premiers de ce classement, cinq ans après son meilleur résultat dans cette distinction.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Ballon d'Or",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/afrique-football/ballon-dor-2026-edouard-mendy-neuvieme-du-trophee-yachine/",
-      "autres_sources": [
-        "https://wiwsport.com/2026/10/27/trophee-yachine-2026-edouard-mendy-termine-a-la-9e-place/"
-      ],
-      "publie_le": "2026-10-27T09:13:44.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/23424f3409d6744dd9019151fb6981108397bc1b.webp",
-        "source": "wikimedia",
-        "credit": "Анна Мейер",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Mendy_2021.jpg",
-        "alt": "Le gardien de but sénégalais Édouard Mendy",
-        "mots_cles": [
-          "Édouard Mendy"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "trophee-yachine-edouard-mendy-de-retour-dans-le-top-10-la-neuvieme-23424f",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/23424f3409d6744dd9019151fb6981108397bc1b.json",
-      "lecture_min": 1
     }
   ]
 }

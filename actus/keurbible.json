@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-05T18:19:37.781Z",
+  "genere_le": "2026-11-06T11:20:29.808Z",
   "actus": [
+    {
+      "id": "cd30bda0f155850fd8fa9125ec6f570a12a01f9e",
+      "titre": "Un jésuite angolais nommé sous-secrétaire d'un dicastère du Vatican par Léon XIV",
+      "resume": "Le père Avelino Chicoma Bundo Chico, né à Lobito en 1979, devient sous-secrétaire du dicastère pour le service du développement humain intégral. Il y travaille depuis 2020, où il a d'abord coordonné l'action du Vatican pour l'Afrique.",
+      "theme": "culture",
+      "pays": [
+        "AO"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25145/pope-leo-xiv-names-angolan-jesuit-under-secretary-of-vatican-dicastery-for-human-development",
+      "publie_le": "2026-11-05T19:58:00.000Z",
+      "collecte_le": "2026-11-06T11:20:29.808Z",
+      "langue": "en",
+      "slug": "un-jesuite-angolais-nomme-sous-secretaire-un-dicastere-du-vatican-par-cd30bd",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/cd30bda0f155850fd8fa9125ec6f570a12a01f9e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/cd30bda0f155850fd8fa9125ec6f570a12a01f9e.webp",
+        "source": "wikimedia",
+        "credit": "Madaleno Constantino",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lobito_banner_Carnival_group.png",
+        "alt": "La ville de Lobito, en Angola",
+        "mots_cles": [
+          "Lobito"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "5a985785320101ff262781efe5607bfaab5c6913",
       "titre": "Vatican : le jésuite angolais Avelino Chico nommé sous-secrétaire d'un dicastère",

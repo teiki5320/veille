@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-05T18:19:39.908Z",
+  "genere_le": "2026-11-06T11:20:32.326Z",
   "articles": [
+    {
+      "id": "cd30bda0f155850fd8fa9125ec6f570a12a01f9e",
+      "slug": "un-jesuite-angolais-nomme-sous-secretaire-un-dicastere-du-vatican-par-cd30bd",
+      "titre": "Un jésuite angolais nommé sous-secrétaire d'un dicastère du Vatican par Léon XIV",
+      "publie_le": "2026-11-05T19:58:00.000Z",
+      "redige_le": "2026-11-06T11:20:29.808Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/cd30bda0f155850fd8fa9125ec6f570a12a01f9e.json"
+    },
     {
       "id": "5a985785320101ff262781efe5607bfaab5c6913",
       "slug": "vatican-le-jesuite-angolais-avelino-chico-nomme-sous-secretaire-un-5a9857",

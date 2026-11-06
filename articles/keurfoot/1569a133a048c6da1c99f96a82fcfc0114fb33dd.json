@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "1569a133a048c6da1c99f96a82fcfc0114fb33dd",
+  "slug": "senegal-sans-mane-ni-gana-gueye-vieira-appelle-clayton-diandy-pour-la-1569a1",
+  "titre": "Sénégal : sans Mané ni Gana Guèye, Vieira appelle Clayton Diandy pour la première fois",
+  "chapo": "Le sélectionneur du Sénégal a publié sa liste pour deux rencontres contre le Soudan en novembre. Sadio Mané manquera le rassemblement pour une raison familiale, tandis qu'un jeune attaquant formé à Guédiawaye découvre l'équipe A.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Patrick Vieira a rendu publique sa sélection le jeudi 5 novembre. Les Lions affronteront deux fois le Soudan, le 12 puis le 16 novembre, pour les éliminatoires de la Coupe d'Afrique des nations 2027.",
+        "Le nom le plus attendu, celui de Sadio Mané, ne sera pas du voyage. D'après Vieira, l'attaquant d'Al-Nassr avait bien reçu sa convocation, mais il a souhaité rester avec sa famille, qui attend bientôt un heureux événement. Le technicien français a accepté sa demande."
+      ]
+    },
+    {
+      "intertitre": "Deux milieux d'expérience écartés",
+      "paragraphes": [
+        "Deux joueurs expérimentés manquent aussi à l'appel. Idrissa Gana Guèye, 37 ans, ancien joueur d'Everton qui évolue maintenant en Arabie saoudite, à Al-Diriyah, n'apparaît pas dans le groupe. Pathé Ciss, qui joue au Rayo Vallecano en Espagne, attend toujours d'être rappelé. Pour ces deux absences, le sélectionneur n'a pas fourni de raison précise.",
+        "Ce n'est pas la première liste de Vieira sans Mané. En septembre, pour son premier rassemblement, le sélectionneur avait mis en avant un souci physique pour justifier l'absence de l'ancien joueur de Liverpool."
+      ]
+    },
+    {
+      "intertitre": "Une première pour Clayton Diandy",
+      "paragraphes": [
+        "Cette liste comporte aussi une nouveauté : Clayton Diandy, jeune attaquant sénégalais, est convoqué pour la première fois chez les A. Dans un message relayé par les Espoirs de Guédiawaye, le club qui l'a formé, il a confié sa fierté et celle de ses proches, ainsi que son émotion devant la joie de ses anciens partenaires."
+      ]
+    },
+    {
+      "intertitre": "Vieira en poste depuis août",
+      "paragraphes": [
+        "Patrick Vieira a pris les rênes de la sélection en août 2026, après la sortie du Sénégal en seizièmes de finale de la Coupe du monde. Il a remplacé Pape Thiaw. Ses premiers matchs officiels, fin septembre, l'avaient déjà opposé au Mozambique puis à l'Éthiopie dans ces mêmes éliminatoires.",
+        "La double rencontre face au Soudan doit permettre aux Lions de consolider leur position dans la course à la qualification pour la prochaine CAN."
+      ]
+    }
+  ],
+  "mots": 342,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "SN"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/patrick-vieira-explique-la-raison-familiale-pour-mane-et-ne-convoque-pas-gana-gueye-ni-pathe-ciss_2020890.html",
+  "autres_sources": [
+    "https://wiwsport.com/2026/11/06/equipe-nationale-clayton-diandy-cest-une-grande-fierte-pour-moi-et-ma-famille/",
+    "https://prod.beinsports.com/en-us/soccer/articles/patrick-vieira-named-senegal-head-coach-after-2026-world-cup-disappointment-2026-08-19"
+  ],
+  "publie_le": "2026-11-05T21:10:05.000Z",
+  "redige_le": "2026-11-06T11:20:32.353Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/1569a133a048c6da1c99f96a82fcfc0114fb33dd.webp",
+    "source": "wikimedia",
+    "credit": "Steindy ( talk ) 01:25, 29 November 2009 (UTC)",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_-_Inter_Mailand_(3).jpg",
+    "alt": "Patrick Vieira, sélectionneur du Sénégal",
+    "mots_cles": [
+      "Patrick Vieira"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

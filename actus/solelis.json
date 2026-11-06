@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-05T18:19:52.051Z",
+  "genere_le": "2026-11-06T11:20:36.480Z",
   "actus": [
+    {
+      "id": "1795e30d700fdb0357abbeaaeca5c0d5098eb413",
+      "titre": "Liquidation : la Cour de cassation écarte la clause de retrait d'un GIE",
+      "resume": "Dans un arrêt du 21 octobre 2026, la chambre commerciale juge que l'adhésion d'un commerçant au GIE de son centre commercial reste un contrat en cours protégé pendant sa liquidation. Le groupement ne pouvait pas l'exclure parce qu'il avait cessé son activité.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Village de la Justice",
+      "source_url": "https://www.village-justice.com/articles/contrat-groupement-epreuve-liquidation-judiciaire-quelle-protection-face,59880.html",
+      "publie_le": "2026-11-06T11:00:00.000Z",
+      "collecte_le": "2026-11-06T11:20:36.480Z",
+      "langue": "fr",
+      "slug": "liquidation-la-cour-de-cassation-ecarte-la-clause-de-retrait-un-gie-1795e3",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/1795e30d700fdb0357abbeaaeca5c0d5098eb413.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/1795e30d700fdb0357abbeaaeca5c0d5098eb413.webp",
+        "source": "wikimedia",
+        "credit": "DXR",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cour_de_Cassation,_Paris_2_April_2014.jpg",
+        "alt": "La Cour de cassation, à Paris",
+        "mots_cles": [
+          "Cour de cassation (France)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4530b16225364185750765338b634355e341c2bd",
       "titre": "Licenciement économique : un recul des ventes ne prouve pas à lui seul les difficultés",

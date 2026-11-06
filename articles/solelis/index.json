@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-05T18:19:54.524Z",
+  "genere_le": "2026-11-06T11:20:38.394Z",
   "articles": [
+    {
+      "id": "1795e30d700fdb0357abbeaaeca5c0d5098eb413",
+      "slug": "liquidation-la-cour-de-cassation-ecarte-la-clause-de-retrait-un-gie-1795e3",
+      "titre": "Liquidation : la Cour de cassation écarte la clause de retrait d'un GIE",
+      "publie_le": "2026-11-06T11:00:00.000Z",
+      "redige_le": "2026-11-06T11:20:36.480Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/1795e30d700fdb0357abbeaaeca5c0d5098eb413.json"
+    },
     {
       "id": "4530b16225364185750765338b634355e341c2bd",
       "slug": "licenciement-economique-un-recul-des-ventes-ne-prouve-pas-lui-seul-les-4530b1",

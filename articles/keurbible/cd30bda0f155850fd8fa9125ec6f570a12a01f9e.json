@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "cd30bda0f155850fd8fa9125ec6f570a12a01f9e",
+  "slug": "un-jesuite-angolais-nomme-sous-secretaire-un-dicastere-du-vatican-par-cd30bd",
+  "titre": "Un jésuite angolais nommé sous-secrétaire d'un dicastère du Vatican par Léon XIV",
+  "chapo": "Le pape Léon XIV a confié au père Avelino Chicoma Bundo Chico, jésuite originaire d'Angola, le poste de sous-secrétaire du dicastère pour le service du développement humain intégral. La nomination a été annoncée le jeudi 5 novembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'annonce est venue du Bureau de presse du Saint-Siège. Le prêtre angolais connaît bien la maison : il appartient à ce dicastère depuis 2020 et en était, jusqu'ici, le chef de bureau.",
+        "Il a été nommé en même temps qu'une universitaire chilienne, Claudia Leal Luna, professeure à l'Institut pontifical théologique Jean-Paul II pour les sciences du mariage et de la famille."
+      ]
+    },
+    {
+      "intertitre": "Un parcours tourné vers l'Afrique et les migrants",
+      "paragraphes": [
+        "À son arrivée au Vatican, il a d'abord coordonné le travail du dicastère pour l'Afrique, de 2020 à 2022. Il a ensuite dirigé jusqu'en 2025 la section chargée de l'écoute et du dialogue, avant de prendre la tête du bureau l'an dernier.",
+        "Lors de cette précédente nomination, la Conférence des jésuites d'Afrique et de Madagascar avait salué son engagement auprès des migrants, des réfugiés et des personnes laissées de côté par les inégalités. Elle lui avait adressé ses félicitations et l'assurance de ses prières."
+      ]
+    },
+    {
+      "intertitre": "De Lobito au Vatican",
+      "paragraphes": [
+        "Avelino Chicoma Bundo Chico est né le 15 juillet 1979 à Lobito, ville portuaire de la province de Benguela. Il est entré dans la Compagnie de Jésus en 2002, a été ordonné prêtre le 3 août 2014 et a prononcé ses vœux définitifs le 1er mai 2026.",
+        "Ses études portent sur les questions sociales : une maîtrise en morale sociale obtenue en 2018, puis, l'année suivante, un doctorat consacré aux migrations internationales contemporaines et à la coopération pour le développement."
+      ]
+    },
+    {
+      "intertitre": "Un dicastère créé en 2016",
+      "paragraphes": [
+        "Le pape François a fondé ce dicastère en août 2016, par la lettre apostolique Humanam Progressionem. Il coordonne l'action de l'Église catholique dans des domaines comme la sauvegarde de la création, la construction de la paix, la santé et l'aide humanitaire. Avec cette nomination, un prêtre africain accède à l'un de ses postes de direction."
+      ]
+    }
+  ],
+  "mots": 334,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "AO"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25145/pope-leo-xiv-names-angolan-jesuit-under-secretary-of-vatican-dicastery-for-human-development",
+  "publie_le": "2026-11-05T19:58:00.000Z",
+  "redige_le": "2026-11-06T11:20:29.808Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/cd30bda0f155850fd8fa9125ec6f570a12a01f9e.webp",
+    "source": "wikimedia",
+    "credit": "Madaleno Constantino",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lobito_banner_Carnival_group.png",
+    "alt": "La ville de Lobito, en Angola",
+    "mots_cles": [
+      "Lobito"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

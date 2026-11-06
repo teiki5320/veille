@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "6cdb3bc4b14b136afccfd50b6cebdc7cbd996311",
+  "slug": "amine-gouiri-offre-om-sa-premiere-victoire-europeenne-de-la-saison-6cdb3b",
+  "titre": "Amine Gouiri offre à l'OM sa première victoire européenne de la saison à Leverkusen",
+  "chapo": "D'une frappe enroulée en fin de rencontre, l'Algérien Amine Gouiri a permis à Marseille de s'imposer 1-0 chez le Bayer Leverkusen, jeudi soir, lors de la 4e journée de la Ligue Europa.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'Olympique de Marseille tient enfin sa soirée européenne. Jeudi 5 novembre, dans l'enceinte du Bayer Leverkusen, le club français s'est imposé 1-0, au quatrième rendez-vous de la phase régulière. Le seul but est signé Amine Gouiri, à la 77e minute.",
+        "Servi sur l'aile gauche, l'international algérien a repiqué vers le centre alors que trois Marseillais faisaient face à autant de défenseurs allemands. À une vingtaine de mètres, il a tenté sa chance d'un tir enveloppé que le gardien Mark Flekken n'a pas pu arrêter."
+      ]
+    },
+    {
+      "intertitre": "Trois défaites avant ce succès",
+      "paragraphes": [
+        "Avant ce déplacement, l'OM comptait trois revers en trois matchs dans la compétition, quand Leverkusen avait gagné ses trois premières rencontres. Bruno Genesio avait aligné une équipe proche de son onze habituel, avec une seule absence notable, celle d'Amine Harit, blessé.",
+        "Gouiri avait déjà failli marquer dès la 7e minute : lancé par Pierre-Emile Højbjerg, il avait éliminé Jared Quansah d'un petit pont avant d'être arrêté par Flekken. La meilleure occasion allemande est venue juste avant la pause, sur un tir dévié de Miguel Gutiérrez qui a heurté la transversale du gardien marseillais Jeffrey de Lange. Derrière, l'international marocain Nayef Aguerd a été vigilant."
+      ]
+    },
+    {
+      "intertitre": "Gouiri dans une bonne période",
+      "paragraphes": [
+        "Ce but confirme la forme de l'ancien Rennais. Dimanche, il avait déjà pesé lourd dans le succès marseillais face à Toulouse (2-0) en Ligue 1, où l'OM aligne quatre victoires de suite. C'est seulement le deuxième but du club dans cette Ligue Europa, après celui de Keyliane Abdallah contre Besiktas lors de la première journée.",
+        "Au micro de Canal+, le buteur a parlé du « match référence » de son équipe en Europe et d'un groupe resté concentré malgré une saison compliquée, dans lequel chacun a du temps de jeu."
+      ]
+    },
+    {
+      "intertitre": "Encore loin du top 24",
+      "paragraphes": [
+        "Avec ces trois points, Marseille ne fait pas encore partie des 24 premières équipes, les seules à poursuivre l'aventure. Les huit premiers vont directement en huitièmes de finale, les suivants jusqu'à la 24e place passent par des barrages. Il reste quatre journées à l'OM pour remonter."
+      ]
+    }
+  ],
+  "mots": 371,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "DZ",
+    "FR"
+  ],
+  "competition": "Ligue Europa",
+  "source_nom": "Foot Mercato",
+  "source_url": "https://www.footmercato.net/a7832125042246191976-ligue-europa-lom-decroche-son-premier-succes-a-leverkusen-kolo-muani-porte-la-juventus",
+  "autres_sources": [
+    "https://www.footmercato.net/a7669702944867748179-om-la-reaction-a-chaud-du-heros-amine-gouiri",
+    "https://www.footmercato.net/a8363122841052968548-om-le-bijou-damine-gouiri-contre-leverkusen",
+    "https://www.lequipe.fr/Football/Actualites/Amine-gouiri-a-remis-son-costume-de-sauveur-a-leverkusen-et-s-impose-comme-le-nouvel-homme-fort-de-l-om/1741505",
+    "https://www.lequipe.fr/Football/Actualites/Avec-un-bijou-d-amine-gouiri-l-om-l-emporte-a-leverkusen-et-se-relance-en-ligue-europa/1741488",
+    "https://www.lequipe.fr/Football/Article/Les-notes-de-bayer-leverkusen-om-gouiri-enchaine-aguerd-dissuade/1741494"
+  ],
+  "publie_le": "2026-11-05T21:57:20.000Z",
+  "redige_le": "2026-11-06T11:20:32.353Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/6cdb3bc4b14b136afccfd50b6cebdc7cbd996311.webp",
+    "source": "wikimedia",
+    "credit": "Laura Jonin",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amine_Gouiri_(2017).jpg",
+    "alt": "L'attaquant algérien Amine Gouiri",
+    "mots_cles": [
+      "Amine Gouiri"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

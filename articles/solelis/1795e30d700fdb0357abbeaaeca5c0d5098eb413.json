@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "1795e30d700fdb0357abbeaaeca5c0d5098eb413",
+  "slug": "liquidation-la-cour-de-cassation-ecarte-la-clause-de-retrait-un-gie-1795e3",
+  "titre": "Liquidation : la Cour de cassation écarte la clause de retrait d'un GIE",
+  "chapo": "Pour la Cour de cassation, l'adhésion d'un commerçant au groupement qui anime son centre commercial reste protégée quand l'entreprise est mise en liquidation. Une décision qui concerne toutes les entreprises membres d'un GIE.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'affaire part d'un restaurant installé dans une galerie marchande. Son exploitant faisait partie du groupement d'intérêt économique (GIE) chargé d'organiser et d'animer le centre. Le 26 août 2020, après l'échec de son plan de redressement, le tribunal l'a placée en liquidation judiciaire.",
+        "Le liquidateur a présenté un repreneur pour ses parts. Le GIE a refusé de l'agréer, puis de racheter lui-même ces parts, en invoquant une clause qui prévoyait le départ de tout membre ayant arrêté son activité. Le liquidateur a donc réclamé en justice que le GIE rachète les parts et lui verse 24 540 euros."
+      ]
+    },
+    {
+      "intertitre": "Un lien contractuel toujours vivant",
+      "paragraphes": [
+        "Le groupement soutenait que son acte fondateur, qui donne naissance à une personne morale, ne pouvait pas être traité comme un simple contrat en cours. Dans cet arrêt publié au Bulletin (pourvoi n° 25-16.485), daté du 21 octobre 2026, la chambre commerciale rejette ce raisonnement.",
+        "Elle relève que les commerçants du centre adhèrent d'office au GIE et paient des cotisations en échange de l'animation des lieux. Ces obligations réciproques existaient encore le jour de la liquidation : la relation était donc toujours en cours."
+      ]
+    },
+    {
+      "intertitre": "La clause de retrait mise de côté",
+      "paragraphes": [
+        "Le Code de commerce (article L641-11-1) interdit qu'une liquidation suffise, à elle seule, à mettre fin à un contrat en cours. La Cour en déduit que la clause liant la qualité de membre à la poursuite de l'activité ne pouvait pas être opposée à l'entreprise liquidée. Le refus d'agréer le repreneur obligeait alors le GIE à racheter les parts, comme le prévoyait son propre contrat.",
+        "Les juges admettent aussi que le liquidateur agisse seul : il s'agit d'obtenir une somme d'argent pour l'entreprise, ce qui fait partie de sa mission."
+      ]
+    },
+    {
+      "intertitre": "Une protection à manier avec prudence",
+      "paragraphes": [
+        "La décision prolonge une ligne ancienne. En 1993 puis en 2014, la Cour avait déjà neutralisé des clauses qui retiraient des droits à une entreprise en difficulté, ou alourdissaient ses obligations, du seul fait de la procédure. L'auteur du commentaire appelle toutefois à la nuance : une clause de retrait liée à l'arrêt de l'activité n'est pas nulle dans tous les cas, et tous les contrats de groupement ne relèvent pas de ce régime.",
+        "Pour le dirigeant dont l'entreprise appartient à un GIE, l'arrêt rappelle que ses parts restent un élément de l'actif, qui sert au paiement des créanciers."
+      ]
+    }
+  ],
+  "mots": 421,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Village de la Justice",
+  "source_url": "https://www.village-justice.com/articles/contrat-groupement-epreuve-liquidation-judiciaire-quelle-protection-face,59880.html",
+  "publie_le": "2026-11-06T11:00:00.000Z",
+  "redige_le": "2026-11-06T11:20:36.480Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/1795e30d700fdb0357abbeaaeca5c0d5098eb413.webp",
+    "source": "wikimedia",
+    "credit": "DXR",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cour_de_Cassation,_Paris_2_April_2014.jpg",
+    "alt": "La Cour de cassation, à Paris",
+    "mots_cles": [
+      "Cour de cassation (France)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

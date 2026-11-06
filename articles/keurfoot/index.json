@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-05T18:20:30.916Z",
+  "genere_le": "2026-11-06T11:20:36.464Z",
   "articles": [
+    {
+      "id": "204f53d7369bdb94db5c3648fc6c3fbbf7916d0d",
+      "slug": "rd-congo-26-leopards-face-la-sierra-leone-toujours-sans-paris-brunner-204f53",
+      "titre": "RD Congo : 26 Léopards face à la Sierra Leone, toujours sans Paris Brunner",
+      "publie_le": "2026-11-06T10:17:39.000Z",
+      "redige_le": "2026-11-06T11:20:32.353Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/204f53d7369bdb94db5c3648fc6c3fbbf7916d0d.json"
+    },
+    {
+      "id": "6cdb3bc4b14b136afccfd50b6cebdc7cbd996311",
+      "slug": "amine-gouiri-offre-om-sa-premiere-victoire-europeenne-de-la-saison-6cdb3b",
+      "titre": "Amine Gouiri offre à l'OM sa première victoire européenne de la saison à Leverkusen",
+      "publie_le": "2026-11-05T21:57:20.000Z",
+      "redige_le": "2026-11-06T11:20:32.353Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/6cdb3bc4b14b136afccfd50b6cebdc7cbd996311.json"
+    },
+    {
+      "id": "1569a133a048c6da1c99f96a82fcfc0114fb33dd",
+      "slug": "senegal-sans-mane-ni-gana-gueye-vieira-appelle-clayton-diandy-pour-la-1569a1",
+      "titre": "Sénégal : sans Mané ni Gana Guèye, Vieira appelle Clayton Diandy pour la première fois",
+      "publie_le": "2026-11-05T21:10:05.000Z",
+      "redige_le": "2026-11-06T11:20:32.353Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/1569a133a048c6da1c99f96a82fcfc0114fb33dd.json"
+    },
     {
       "id": "41f717fd71426f081e91936449134cb8e233274d",
       "slug": "algerie-hemdani-appelle-26-joueurs-contre-le-togo-sans-luca-zidane-ni-41f717",
