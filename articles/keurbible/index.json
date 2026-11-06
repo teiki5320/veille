@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-06T18:18:10.013Z",
+  "genere_le": "2026-11-06T18:18:26.641Z",
   "articles": [
+    {
+      "id": "b067aabc8624d520dbc8c62aee6225739d7c3308",
+      "slug": "addis-abeba-les-etudiants-catholiques-afrique-fetent-les-70-ans-de-pax-b067aa",
+      "titre": "Addis-Abeba : les étudiants catholiques d'Afrique fêtent les 70 ans de Pax Romana",
+      "publie_le": "2026-11-06T13:21:00.000Z",
+      "redige_le": "2026-11-06T18:18:25.408Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/b067aabc8624d520dbc8c62aee6225739d7c3308.json"
+    },
     {
       "id": "cd30bda0f155850fd8fa9125ec6f570a12a01f9e",
       "slug": "un-jesuite-angolais-nomme-sous-secretaire-un-dicastere-du-vatican-par-cd30bd",

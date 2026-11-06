@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "b067aabc8624d520dbc8c62aee6225739d7c3308",
+  "slug": "addis-abeba-les-etudiants-catholiques-afrique-fetent-les-70-ans-de-pax-b067aa",
+  "titre": "Addis-Abeba : les étudiants catholiques d'Afrique fêtent les 70 ans de Pax Romana",
+  "chapo": "Pendant une semaine, de jeunes catholiques de tout le continent se sont retrouvés à Addis-Abeba. L'assemblée de Pax Romana Afrique coïncidait avec les 70 ans de l'arrivée du mouvement en Afrique, en 1956.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La 14e assemblée panafricaine du Mouvement international des étudiants catholiques Pax Romana s'est ouverte le 24 octobre dans la capitale éthiopienne et s'est achevée le 31. Plus de 75 personnes y ont pris part sur place : responsables étudiants, aumôniers d'université, animateurs et membres du clergé, venus de plus de 25 pays. Une centaine d'autres ont suivi les travaux en ligne.",
+        "Le thème retenu invitait à bâtir une Église synodale pour une Afrique juste et résiliente, en s'appuyant sur l'apport des jeunes. Les participants ont dressé le bilan des quatre dernières années, adopté un plan stratégique pour la période 2027-2031 et élu de nouveaux coordinateurs ainsi qu'un aumônier pour l'Afrique."
+      ]
+    },
+    {
+      "intertitre": "Deux messes et un anniversaire",
+      "paragraphes": [
+        "La rencontre marquait aussi un anniversaire : le mouvement a commencé son action en Afrique en 1956, il y a 70 ans. Le cardinal Berhaneyesus Souraphiel, archevêque émérite d'Addis-Abeba, a célébré la messe d'ouverture. Dans son homélie, il a appelé les étudiants à devenir des disciples missionnaires et des responsables intègres, à l'université comme dans la vie publique.",
+        "La messe de clôture a été présidée par l'actuel archevêque de la ville, Mgr Tesfaselassie Tadesse."
+      ]
+    },
+    {
+      "intertitre": "Un ancien du mouvement devenu responsable à l'ONU",
+      "paragraphes": [
+        "Parmi les intervenants figurait le Béninois Marcel Carlos Akpovo, directeur régional des droits de l'homme des Nations unies pour l'Afrique de l'Est et australe, et ancien dirigeant de Pax Romana. Il a raconté avoir participé à une assemblée à l'université Makerere de Kampala, en Ouganda, 33 ans plus tôt, avec peu de moyens mais beaucoup de conviction. Il a encouragé les délégués à s'emparer de sujets comme l'intelligence artificielle, le climat et les droits humains.",
+        "Les délégués se sont rendus au siège de l'Union africaine, où son aumônier, le père Louison Emerick Bissila Mbila, les a invités à œuvrer pour la paix sur le continent. Ils ont aussi visité le collège technique catholique Saint-Jean-Paul-II, qui forme des jeunes à des métiers comme l'installation solaire, l'informatique, la vidéo ou la musique."
+      ]
+    },
+    {
+      "intertitre": "Les engagements pour la suite",
+      "paragraphes": [
+        "Dans leur déclaration finale, les membres de Pax Romana Afrique se sont engagés à rendre leur mouvement plus solide et autonome, et à faire en sorte que les jeunes intellectuels catholiques participent à l'avenir de l'Église en Afrique."
+      ]
+    }
+  ],
+  "mots": 403,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "ET"
+  ],
+  "source_nom": "Vatican News Africa",
+  "source_url": "https://www.vaticannews.va/en/africa/news/2026-11/catholic-students-leaders-addis-ababa-pax-romana.html",
+  "publie_le": "2026-11-06T13:21:00.000Z",
+  "redige_le": "2026-11-06T18:18:25.408Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/b067aabc8624d520dbc8c62aee6225739d7c3308.webp",
+    "source": "wikimedia",
+    "credit": "A. Davey from Where I Live Now: Pacific Northwest",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Cathedral,_Addis_Ababa_(3434312871).jpg",
+    "alt": "La cathédrale de la Sainte-Trinité à Addis-Abeba, en Éthiopie",
+    "mots_cles": [
+      "Holy Trinity Cathedral Addis Ababa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

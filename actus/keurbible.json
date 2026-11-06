@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-06T18:18:07.721Z",
+  "genere_le": "2026-11-06T18:18:25.408Z",
   "actus": [
+    {
+      "id": "b067aabc8624d520dbc8c62aee6225739d7c3308",
+      "titre": "Addis-Abeba : les étudiants catholiques d'Afrique fêtent les 70 ans de Pax Romana",
+      "resume": "Du 24 au 31 octobre, la capitale éthiopienne a accueilli la 14e assemblée panafricaine du Mouvement international des étudiants catholiques Pax Romana. Plus de 75 délégués venus de plus de 25 pays y ont fixé un plan pour 2027-2031 et marqué les 70 ans de la présence du mouvement en Afrique.",
+      "theme": "culture",
+      "pays": [
+        "ET"
+      ],
+      "source_nom": "Vatican News Africa",
+      "source_url": "https://www.vaticannews.va/en/africa/news/2026-11/catholic-students-leaders-addis-ababa-pax-romana.html",
+      "publie_le": "2026-11-06T13:21:00.000Z",
+      "collecte_le": "2026-11-06T18:18:25.408Z",
+      "langue": "en",
+      "slug": "addis-abeba-les-etudiants-catholiques-afrique-fetent-les-70-ans-de-pax-b067aa",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/b067aabc8624d520dbc8c62aee6225739d7c3308.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/b067aabc8624d520dbc8c62aee6225739d7c3308.webp",
+        "source": "wikimedia",
+        "credit": "A. Davey from Where I Live Now: Pacific Northwest",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Cathedral,_Addis_Ababa_(3434312871).jpg",
+        "alt": "La cathédrale de la Sainte-Trinité à Addis-Abeba, en Éthiopie",
+        "mots_cles": [
+          "Holy Trinity Cathedral Addis Ababa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "cd30bda0f155850fd8fa9125ec6f570a12a01f9e",
       "titre": "Un jésuite angolais nommé sous-secrétaire d'un dicastère du Vatican par Léon XIV",
