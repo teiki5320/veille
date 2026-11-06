@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-06T11:20:36.465Z",
+  "genere_le": "2026-11-06T13:26:12.513Z",
   "actus": [
     {
       "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
@@ -96,12 +96,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/kultiled/9484ad8da6113e1bed7da81356027208efe827cc.webp",
         "source": "wikimedia",
-        "credit": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I…",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Lettuce_Closeup_Greenhouse_Phuktal_Zanskar_Jun24_A7CR_00442.jpg",
-        "alt": "Des laitues cultivées sous serre",
+        "credit": "Forest and Kim Starr",
+        "licence": "CC BY 3.0 us",
+        "page": "https://commons.wikimedia.org/wiki/File:Starr-170615-0217-Lactuca_sativa-rows_in_greenhouse-Hydroponics_Town_Sand_Island-Midway_Atoll_(35551882363).jpg",
+        "alt": "Des rangs de laitues sous une serre",
         "mots_cles": [
-          "Lettuce greenhouse"
+          "Lettuce greenhouse rows"
         ],
         "largeur": 1600,
         "hauteur": 900
