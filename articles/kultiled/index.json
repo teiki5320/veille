@@ -1,7 +1,7 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-05T18:19:52.043Z",
+  "genere_le": "2026-11-06T04:24:08.897Z",
   "articles": [
     {
       "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
@@ -34,6 +34,14 @@
       "publie_le": "2026-11-05T10:00:00.000Z",
       "redige_le": "2026-11-05T11:20:14.560Z",
       "url": "https://teiki5320.github.io/veille/articles/kultiled/05d439600b981e57220acc12786a6a50f8610cbf.json"
+    },
+    {
+      "id": "41552cfe39ac63804fa33606575243e00554f247",
+      "slug": "ferme-verticale-un-fabricant-flamand-voit-une-assurance-contre-les-41552c",
+      "titre": "Ferme verticale : un fabricant flamand y voit une assurance contre les mauvaises récoltes",
+      "publie_le": "2026-11-05T00:00:00.000Z",
+      "redige_le": "2026-11-06T04:24:06.958Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/41552cfe39ac63804fa33606575243e00554f247.json"
     },
     {
       "id": "4f3186361dcecf0cdf65e8d4ec9ff1396e0e8a4a",

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "41552cfe39ac63804fa33606575243e00554f247",
+  "slug": "ferme-verticale-un-fabricant-flamand-voit-une-assurance-contre-les-41552c",
+  "titre": "Ferme verticale : un fabricant flamand y voit une assurance contre les mauvaises récoltes",
+  "chapo": "Le dirigeant d'Urban Crop Solutions, entreprise belge qui conçoit des fermes d'intérieur, tire de sa visite au SIAL de Paris une idée simple : la culture sous lumière artificielle peut servir de solution de secours quand le climat ruine une récolte.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Installée à Beveren-Leie, en Flandre-Occidentale, la société Urban Crop Solutions met au point des équipements pour cultiver des plantes dans des pièces fermées, où la lumière, la température et l'humidité sont entièrement réglées. Son directeur général, Jean-Pierre Coene, s'est rendu au SIAL Paris, grand rendez-vous mondial de l'industrie agroalimentaire, dans une délégation organisée par l'agence de développement de sa province, la POM West-Vlaanderen.",
+        "Il en revient avec plusieurs constats sur la façon dont la nourriture est fabriquée, conservée et livrée, et avec un argument nouveau pour les fermes verticales."
+      ]
+    },
+    {
+      "intertitre": "Des aliments qui voyagent loin",
+      "paragraphes": [
+        "Le premier constat concerne la conservation. Les industriels savent de mieux en mieux congeler les produits, les expédier sur de grandes distances puis les remettre dans des circuits réfrigérés. Les emballages en plastique et les boîtes de conserve restent très présents, car le coût, la durée de vie des produits et l'efficacité du transport pèsent lourd dans les choix.",
+        "Pour Jean-Pierre Coene, une partie de ces efforts pourrait être évitée en produisant certains aliments plus près de ceux qui les mangent : moins de route, moins de stockage et sans doute moins d'emballage. Le salon montrait aussi une autre tendance : transformer les restes de production, autrefois perdus, en ingrédients utiles, par exemple pour des aliments riches en protéines."
+      ]
+    },
+    {
+      "intertitre": "Payer plus cher pour ne pas s'arrêter",
+      "paragraphes": [
+        "L'idée principale porte sur la sécurité d'approvisionnement. Sécheresses, pluies extrêmes ou récoltes ratées peuvent priver une usine de ses matières premières fraîches. Le patron belge estime que le débat sur les fermes verticales se limite trop souvent au prix de revient au kilo. Il reconnaît que les légumes cultivés en intérieur coûtent souvent plus cher que ceux des champs.",
+        "Mais pour un industriel, une matière première un peu plus chère pendant quelques semaines peut revenir moins cher qu'une chaîne de production à l'arrêt, des livraisons manquées ou des clients perdus. La culture en milieu contrôlé pourrait alors fournir un surplus de production pour les cultures qui s'y prêtent, le temps que les producteurs habituels se remettent."
+      ]
+    },
+    {
+      "intertitre": "Un complément, pas un remplaçant",
+      "paragraphes": [
+        "L'entreprise insiste : elle ne veut pas que les fermes d'intérieur prennent la place de l'agriculture classique. Elle imagine plutôt un partage des rôles entre plein champ, serres et culture en intérieur, chacun là où il apporte le plus. Sa conclusion du salon : l'avenir de l'alimentation ne passera ni seulement par la mondialisation ni seulement par le local, mais par un mélange des deux."
+      ]
+    }
+  ],
+  "mots": 447,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "BE"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9889246/vertical-farming-as-insurance-against-crop-failure/",
+  "publie_le": "2026-11-05T00:00:00.000Z",
+  "redige_le": "2026-11-06T04:24:06.958Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/41552cfe39ac63804fa33606575243e00554f247.webp",
+    "source": "wikimedia",
+    "credit": "Valcenteu",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:VertiCrop.jpg",
+    "alt": "Des salades cultivées sur plusieurs étages sous un éclairage artificiel",
+    "mots_cles": [
+      "Vertical farming"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

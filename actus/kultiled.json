@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-05T18:19:45.905Z",
+  "genere_le": "2026-11-06T04:24:06.958Z",
   "actus": [
     {
       "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
@@ -132,6 +132,36 @@
         "alt": "Une vue de Ploudaniel, commune du Finistère où se trouve la station de Kerloï",
         "mots_cles": [
           "Ploudaniel"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "41552cfe39ac63804fa33606575243e00554f247",
+      "titre": "Ferme verticale : un fabricant flamand y voit une assurance contre les mauvaises récoltes",
+      "resume": "De retour du salon SIAL à Paris, le patron de la société belge Urban Crop Solutions défend la culture en intérieur comme renfort des agriculteurs quand une récolte échoue. Selon lui, il ne s'agit pas de remplacer les champs ni les serres, mais de combiner les trois modes de production.",
+      "theme": "culture-interieur",
+      "pays": [
+        "BE"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9889246/vertical-farming-as-insurance-against-crop-failure/",
+      "publie_le": "2026-11-05T00:00:00.000Z",
+      "collecte_le": "2026-11-06T04:24:06.958Z",
+      "langue": "en",
+      "slug": "ferme-verticale-un-fabricant-flamand-voit-une-assurance-contre-les-41552c",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/41552cfe39ac63804fa33606575243e00554f247.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/41552cfe39ac63804fa33606575243e00554f247.webp",
+        "source": "wikimedia",
+        "credit": "Valcenteu",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:VertiCrop.jpg",
+        "alt": "Des salades cultivées sur plusieurs étages sous un éclairage artificiel",
+        "mots_cles": [
+          "Vertical farming"
         ],
         "largeur": 1600,
         "hauteur": 900
