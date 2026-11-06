@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-06T11:20:32.353Z",
+  "genere_le": "2026-11-06T18:18:10.037Z",
   "actus": [
+    {
+      "id": "9a39ed6510e1fdd7880550b6387f749c401aaadc",
+      "titre": "Cameroun : Baleba blessé renonce à la Namibie, David Pagou rappelle Ryan Fosso",
+      "resume": "Touché aux ischio-jambiers avec Manchester United contre la Roma, Carlos Baleba manquera les deux matchs du Cameroun face à la Namibie, les 12 et 16 novembre. Le sélectionneur David Pagou le remplace par Ryan Fosso, milieu de 24 ans du Standard de Liège.",
+      "theme": "foot",
+      "pays": [
+        "CM"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/le-cameroun-a-choisi-le-remplacant-de-carlos-baleba",
+      "autres_sources": [
+        "https://www.camfoot.com/actualites/cameroun-namibie-baleba-forfait-ryan-fosso-appele-en-renfort,559877.html",
+        "https://www.lequipe.fr/Football/Actualites/Touche-contre-l-as-rome-en-ligue-des-champions-carlos-baleba-sera-absent-plusieurs-semaines-avec-manchester-united/1741671"
+      ],
+      "publie_le": "2026-11-06T12:10:16.000Z",
+      "collecte_le": "2026-11-06T18:18:10.037Z",
+      "langue": "fr",
+      "slug": "cameroun-baleba-blesse-renonce-la-namibie-david-pagou-rappelle-ryan-9a39ed",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9a39ed6510e1fdd7880550b6387f749c401aaadc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/9a39ed6510e1fdd7880550b6387f749c401aaadc.webp",
+        "source": "wikimedia",
+        "credit": "Timmy96",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Carlos_Baleba_24012026_(4).jpg",
+        "alt": "Le milieu de terrain camerounais Carlos Baleba",
+        "mots_cles": [
+          "Carlos Baleba"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "204f53d7369bdb94db5c3648fc6c3fbbf7916d0d",
       "titre": "RD Congo : 26 Léopards face à la Sierra Leone, toujours sans Paris Brunner",
@@ -2085,42 +2120,6 @@
       "slug": "senegal-vieira-devrait-enfin-diriger-les-lions-domicile-contre-le-f70431",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f704311108a072bbd4fc4b71f56dea401e51cd3e.json",
       "lecture_min": 1
-    },
-    {
-      "id": "e85a006dbeb2adeab0e36f4c9e1572aec7f3c869",
-      "titre": "Algérie : Zetchi et d'ex-dirigeants de la FAF condamnés à de la prison ferme",
-      "resume": "Le tribunal de Sidi M’Hamed, à Alger, a prononcé des peines de un à huit ans ferme contre plusieurs anciens cadres de la FAF, la fédération de football du pays. Parmi eux figurent Kheireddine Zetchi, son ex-président, détenu depuis près de deux ans dans l’attente du jugement, et Charaf-Eddine Amara.",
-      "theme": "foot",
-      "pays": [
-        "DZ"
-      ],
-      "competition": null,
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/algerie-apres-deux-ans-dattente-le-verdict-assomme-zetchi",
-      "autres_sources": [
-        "https://africatopsports.com/afrique-football/foot-algerie-plusieurs-anciens-dirigeants-de-la-federation-condamnes-a-la-prison-ferme/"
-      ],
-      "publie_le": "2026-10-27T11:09:00.000Z",
-      "collecte_le": "2026-10-27T11:15:46.123Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/e85a006dbeb2adeab0e36f4c9e1572aec7f3c869.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Football »",
-        "mots_cles": [
-          "Kheireddine Zetchi",
-          "algeria football",
-          "football stadium algeria"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "algerie-zetchi-et-ex-dirigeants-de-la-faf-condamnes-de-la-prison-ferme-e85a00",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e85a006dbeb2adeab0e36f4c9e1572aec7f3c869.json",
-      "lecture_min": 2
     }
   ]
 }

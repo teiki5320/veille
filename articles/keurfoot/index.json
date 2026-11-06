@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-06T11:20:36.464Z",
+  "genere_le": "2026-11-06T18:18:11.383Z",
   "articles": [
+    {
+      "id": "9a39ed6510e1fdd7880550b6387f749c401aaadc",
+      "slug": "cameroun-baleba-blesse-renonce-la-namibie-david-pagou-rappelle-ryan-9a39ed",
+      "titre": "Cameroun : Baleba blessé renonce à la Namibie, David Pagou rappelle Ryan Fosso",
+      "publie_le": "2026-11-06T12:10:16.000Z",
+      "redige_le": "2026-11-06T18:18:10.037Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/9a39ed6510e1fdd7880550b6387f749c401aaadc.json"
+    },
     {
       "id": "204f53d7369bdb94db5c3648fc6c3fbbf7916d0d",
       "slug": "rd-congo-26-leopards-face-la-sierra-leone-toujours-sans-paris-brunner-204f53",

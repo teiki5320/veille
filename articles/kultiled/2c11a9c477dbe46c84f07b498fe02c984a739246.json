@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "2c11a9c477dbe46c84f07b498fe02c984a739246",
+  "slug": "pays-bas-wageningen-veut-piloter-les-serres-selon-les-besoins-reels-2c11a9",
+  "titre": "Pays-Bas : Wageningen veut piloter les serres selon les besoins réels des plantes",
+  "chapo": "Plutôt que de mesurer l'air de la serre, des chercheurs néerlandais veulent écouter la plante elle-même. Leur projet GreenControl vise une forte baisse de la facture énergétique des cultures sous abri.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'université et centre de recherche de Wageningen (WUR), aux Pays-Bas, mène pendant cinq ans un projet baptisé GreenControl. Elle travaille avec les universités techniques de Delft, d'Eindhoven et de Twente, ainsi qu'avec des constructeurs de serres, des fabricants de technologies, des producteurs et des sélectionneurs.",
+        "L'idée est de partir de la plante, et non plus du climat de la serre. Les partenaires cherchent la meilleure façon d'utiliser capteurs, caméras et algorithmes pour savoir ce dont une culture a besoin à chaque instant."
+      ]
+    },
+    {
+      "intertitre": "Un seul capteur pour toute la serre",
+      "paragraphes": [
+        "Aujourd'hui, les producteurs ajustent sans cesse la température, l'humidité et l'éclairage. Mais, selon Leo Marcelis, professeur d'horticulture à Wageningen, le climat est souvent mesuré en un seul point, alors qu'il varie d'un bout à l'autre de la serre. Pour éviter qu'un coin devienne trop froid ou trop humide, avec un risque de moisissure, on garde une marge de sécurité qui coûte de l'énergie.",
+        "Connaître l'activité réelle de la plante permettrait de régler plus finement le chauffage, l'aération et la lumière, sans nuire à la récolte."
+      ]
+    },
+    {
+      "intertitre": "Photosynthèse, transpiration et caméras thermiques",
+      "paragraphes": [
+        "Les outils testés existent déjà pour la plupart : capteurs de photosynthèse, de transpiration et de mouvement de l'air, caméras thermiques et caméras qui suivent la croissance. Le travail consiste à les combiner au mieux, à choisir où les placer et combien de plantes suivre par hectare. Il faut aussi qu'ils restent fiables dans une atmosphère chaude et humide, où ils peuvent se salir ou se décaler.",
+        "Les essais portent sur la tomate et la laitue, mais les résultats pourraient servir à la fraise, au concombre, au poivron ou aux fleurs coupées."
+      ]
+    },
+    {
+      "intertitre": "Moins d'énergie, puis l'automatisation",
+      "paragraphes": [
+        "Le projet vise 25 % d'énergie consommée en moins et 35 % de dépenses énergétiques en moins, en profitant aussi des moments où l'électricité est moins chère, par temps ensoleillé ou venteux. Les chercheurs veulent enfin que le système explique ses conseils aux producteurs, pour gagner leur confiance avant d'envisager un pilotage entièrement automatique."
+      ]
+    }
+  ],
+  "mots": 360,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "NL"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9889721/wur-growing-crops-based-on-what-plants-need/",
+  "publie_le": "2026-11-06T13:06:00.000Z",
+  "redige_le": "2026-11-06T18:18:11.387Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/2c11a9c477dbe46c84f07b498fe02c984a739246.webp",
+    "source": "wikimedia",
+    "credit": "Choinowski",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Orion_Wageningen_University.jpg",
+    "alt": "Un bâtiment ou une serre de l'université de Wageningen, aux Pays-Bas",
+    "mots_cles": [
+      "Wageningen University and Research"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

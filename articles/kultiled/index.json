@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-06T13:26:12.545Z",
+  "genere_le": "2026-11-06T18:18:13.402Z",
   "articles": [
+    {
+      "id": "2c11a9c477dbe46c84f07b498fe02c984a739246",
+      "slug": "pays-bas-wageningen-veut-piloter-les-serres-selon-les-besoins-reels-2c11a9",
+      "titre": "Pays-Bas : Wageningen veut piloter les serres selon les besoins réels des plantes",
+      "publie_le": "2026-11-06T13:06:00.000Z",
+      "redige_le": "2026-11-06T18:18:11.387Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/2c11a9c477dbe46c84f07b498fe02c984a739246.json"
+    },
     {
       "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
       "slug": "serres-de-tomates-bloemteknik-eclaire-les-rangs-par-le-cote-plutot-que-363c7d",

@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-06T13:26:12.513Z",
+  "genere_le": "2026-11-06T18:18:11.387Z",
   "actus": [
+    {
+      "id": "2c11a9c477dbe46c84f07b498fe02c984a739246",
+      "titre": "Pays-Bas : Wageningen veut piloter les serres selon les besoins réels des plantes",
+      "resume": "Avec le projet GreenControl, l'université de Wageningen et trois universités techniques néerlandaises testent capteurs et caméras pour mesurer l'activité des plantes. Le but : régler chaleur, humidité et lumière au plus juste, et réduire de 25 % l'énergie consommée en serre.",
+      "theme": "culture-interieur",
+      "pays": [
+        "NL"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9889721/wur-growing-crops-based-on-what-plants-need/",
+      "publie_le": "2026-11-06T13:06:00.000Z",
+      "collecte_le": "2026-11-06T18:18:11.387Z",
+      "langue": "en",
+      "slug": "pays-bas-wageningen-veut-piloter-les-serres-selon-les-besoins-reels-2c11a9",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/2c11a9c477dbe46c84f07b498fe02c984a739246.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/2c11a9c477dbe46c84f07b498fe02c984a739246.webp",
+        "source": "wikimedia",
+        "credit": "Choinowski",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Orion_Wageningen_University.jpg",
+        "alt": "Un bâtiment ou une serre de l'université de Wageningen, aux Pays-Bas",
+        "mots_cles": [
+          "Wageningen University and Research"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "363c7d96b498fbbc9c92724a4912886b3c3f420b",
       "titre": "Serres de tomates : Bloemteknik éclaire les rangs par le côté plutôt que par le haut",
