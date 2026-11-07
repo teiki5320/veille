@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-06T18:18:26.641Z",
+  "genere_le": "2026-11-07T11:20:53.507Z",
   "articles": [
+    {
+      "id": "965551d917c20287680ea86b47588667f22c8217",
+      "slug": "kenya-six-nouveaux-pretres-ordonnes-eldoret-appeles-humilite-et-au-965551",
+      "titre": "Kenya : six nouveaux prêtres ordonnés à Eldoret, appelés à l'humilité et au service",
+      "publie_le": "2026-11-06T13:40:00.000Z",
+      "redige_le": "2026-11-07T11:20:49.087Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/965551d917c20287680ea86b47588667f22c8217.json"
+    },
+    {
+      "id": "09838797505e46b60393cc524030f6c1b77e6434",
+      "slug": "nigeria-le-grand-seminaire-saint-thomas-aquin-de-makurdi-fete-ses-40-098387",
+      "titre": "Nigeria : le grand séminaire Saint-Thomas-d'Aquin de Makurdi fête ses 40 ans",
+      "publie_le": "2026-11-06T13:39:00.000Z",
+      "redige_le": "2026-11-07T11:20:49.087Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/09838797505e46b60393cc524030f6c1b77e6434.json"
+    },
     {
       "id": "b067aabc8624d520dbc8c62aee6225739d7c3308",
       "slug": "addis-abeba-les-etudiants-catholiques-afrique-fetent-les-70-ans-de-pax-b067aa",

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-06T18:18:26.659Z",
+  "genere_le": "2026-11-07T11:21:02.266Z",
   "articles": [
+    {
+      "id": "26d665075dee5624c9e449a4c5cae8831e78e400",
+      "slug": "detroit-ancienne-ferme-verticale-planted-detroit-cherche-un-repreneur-26d665",
+      "titre": "Détroit : l'ancienne ferme verticale Planted Detroit cherche un repreneur",
+      "publie_le": "2026-11-06T16:30:12.000Z",
+      "redige_le": "2026-11-07T11:21:00.414Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/26d665075dee5624c9e449a4c5cae8831e78e400.json"
+    },
     {
       "id": "2c11a9c477dbe46c84f07b498fe02c984a739246",
       "slug": "pays-bas-wageningen-veut-piloter-les-serres-selon-les-besoins-reels-2c11a9",

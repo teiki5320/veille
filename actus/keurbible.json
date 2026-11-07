@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-06T18:18:25.408Z",
+  "genere_le": "2026-11-07T11:20:49.087Z",
   "actus": [
+    {
+      "id": "965551d917c20287680ea86b47588667f22c8217",
+      "titre": "Kenya : six nouveaux prêtres ordonnés à Eldoret, appelés à l'humilité et au service",
+      "resume": "Six diacres ont été ordonnés prêtres le 6 novembre en la cathédrale du Sacré-Cœur d'Eldoret, au Kenya. Dans son homélie, Mgr John Kiplimo Lelei, évêque de Kapsabet, les a mis en garde contre trois tentations : le confort, le pouvoir et la possession.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25181/newly-ordained-priests-in-kenya-told-to-steer-against-pleasure-power-and-possession",
+      "publie_le": "2026-11-06T13:40:00.000Z",
+      "collecte_le": "2026-11-07T11:20:49.087Z",
+      "langue": "en",
+      "slug": "kenya-six-nouveaux-pretres-ordonnes-eldoret-appeles-humilite-et-au-965551",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/965551d917c20287680ea86b47588667f22c8217.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/965551d917c20287680ea86b47588667f22c8217.webp",
+        "source": "wikimedia",
+        "credit": "Shadychiri",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Eldoret_Facing_West_from_Mups_Plaza.jpg",
+        "alt": "La ville d'Eldoret, dans l'ouest du Kenya",
+        "mots_cles": [
+          "Eldoret"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "09838797505e46b60393cc524030f6c1b77e6434",
+      "titre": "Nigeria : le grand séminaire Saint-Thomas-d'Aquin de Makurdi fête ses 40 ans",
+      "resume": "Le grand séminaire Saint-Thomas-d'Aquin de Makurdi, au Nigeria, a célébré le 5 novembre ses quarante ans de formation des futurs prêtres. L'archevêque d'Abuja, Mgr Ignatius Kaigama, a salué son essor et sa place dans l'Église et dans la société.",
+      "theme": "culture",
+      "pays": [
+        "NG"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25179/nigeria-based-st-thomas-aquinas-major-seminary-hailed-for-bearing-evident-spiritual-and-pastoral-fruits",
+      "publie_le": "2026-11-06T13:39:00.000Z",
+      "collecte_le": "2026-11-07T11:20:49.087Z",
+      "langue": "en",
+      "slug": "nigeria-le-grand-seminaire-saint-thomas-aquin-de-makurdi-fete-ses-40-098387",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/09838797505e46b60393cc524030f6c1b77e6434.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/09838797505e46b60393cc524030f6c1b77e6434.webp",
+        "source": "wikimedia",
+        "credit": "HarunaSylvester",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_river_view_of_Sheraton_Hotels_Makurdi.jpg",
+        "alt": "La ville de Makurdi, dans l'État de Benue, au Nigeria",
+        "mots_cles": [
+          "Makurdi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "b067aabc8624d520dbc8c62aee6225739d7c3308",
       "titre": "Addis-Abeba : les étudiants catholiques d'Afrique fêtent les 70 ans de Pax Romana",

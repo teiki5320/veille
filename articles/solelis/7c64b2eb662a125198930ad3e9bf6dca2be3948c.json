@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "7c64b2eb662a125198930ad3e9bf6dca2be3948c",
+  "slug": "ia-les-artisans-et-les-tpe-adoptent-pour-alleger-devis-et-paperasse-7c64b2",
+  "titre": "IA : les artisans et les TPE l'adoptent pour alléger devis et paperasse",
+  "chapo": "L'intelligence artificielle gagne les petites entreprises françaises, artisans compris. Elle ne remplace pas le geste du métier, mais allège une partie des tâches de bureau.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "D'après le baromètre France Num le plus récent, publié à la fin du mois de septembre 2026, quatre TPE et PME sur dix ont désormais recours à l'IA. La hausse atteint 14 points sur un an, rapporte le quotidien Sud Ouest. Les écarts restent forts d'une activité à l'autre : dans la construction, le taux plafonnait à 15 % en 2025.",
+        "France Num est le dispositif de l'État qui accompagne la transformation numérique des petites entreprises."
+      ]
+    },
+    {
+      "intertitre": "Une appli pour la rénovation énergétique",
+      "paragraphes": [
+        "Conçue avec la Capeb, qui représente les artisans du secteur, et disponible depuis juin 2025, l'application IArtisans s'adresse d'abord à ceux qui isolent, installent du chauffage ou posent des menuiseries dans le cadre de travaux d'économies d'énergie. Dans ce domaine, les règles bougent souvent, entre MaPrimeRénov', les certificats d'économies d'énergie et des taux de TVA qui changent selon les travaux.",
+        "L'artisan y pose sa question, par écrit ou à voix haute. L'outil répond à partir d'une base réglementaire tenue à jour. Il peut aussi contrôler un devis ou un dossier de financement avant l'envoi, et estimer les aides possibles pour un chantier."
+      ]
+    },
+    {
+      "intertitre": "Devis, comptes rendus, courriers",
+      "paragraphes": [
+        "Les usages plus généraux se multiplient. Un plombier peut transformer ses notes de visite en compte rendu propre. Un électricien peut faire reformuler une lettre destinée à un client ou résumer une notice technique. Un menuisier peut préparer une première présentation de son entreprise à partir de photos de ses chantiers.",
+        "La rédaction des devis, qui prend beaucoup de temps, est un autre terrain d'usage. Les outils ne manquent pas : assistants tels que Copilot, Gemini ou ChatGPT, outils de graphisme, transcription automatique ou fonctions ajoutées aux logiciels métiers."
+      ]
+    },
+    {
+      "intertitre": "Toujours vérifier",
+      "paragraphes": [
+        "L'IA reste une aide et non une garantie. Une réponse peut être fausse, un calcul faux ou une règle mal comprise. Dans le bâtiment, où une erreur peut coûter cher sur le plan technique, financier ou juridique, le contrôle par l'artisan reste indispensable. Pour le dirigeant de TPE, l'enjeu est de gagner du temps sur l'administratif tout en gardant la main sur les décisions."
+      ]
+    }
+  ],
+  "mots": 368,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/charente-maritime/la-rochelle/economie-l-ia-ce-nouvel-assistant-qui-peut-aussi-changer-le-quotidien-des-artisans-30752509.php",
+  "publie_le": "2026-11-07T06:30:00.000Z",
+  "redige_le": "2026-11-07T11:21:02.270Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/7c64b2eb662a125198930ad3e9bf6dca2be3948c.webp",
+    "source": "openverse",
+    "credit": "Jeremy Levine Design",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/25186605@N04/2888119010",
+    "alt": "Un professionnel travaille sur un ordinateur",
+    "mots_cles": [
+      "craftsman laptop"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

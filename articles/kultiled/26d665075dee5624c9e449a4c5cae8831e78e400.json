@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "26d665075dee5624c9e449a4c5cae8831e78e400",
+  "slug": "detroit-ancienne-ferme-verticale-planted-detroit-cherche-un-repreneur-26d665",
+  "titre": "Détroit : l'ancienne ferme verticale Planted Detroit cherche un repreneur",
+  "chapo": "Aux États-Unis, l'une des plus grandes fermes verticales du Michigan, Planted Detroit, met fin à son activité. Ses propriétaires cherchent un repreneur pour l'ensemble du site.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Selon la société SecondBloom Auctions, citée par le média spécialisé CEAg World, le campus est proposé selon une procédure d'offres sous pli cacheté. Les candidats ont jusqu'au 16 novembre 2026 pour se manifester, et le choix du gagnant est attendu vers le 20 novembre.",
+        "La ferme a démarré en 2018 à Détroit, puis s'est agrandie au fil des années. Ses propriétaires cessent l'exploitation en 2026."
+      ]
+    },
+    {
+      "intertitre": "Une ferme prête à produire",
+      "paragraphes": [
+        "Le lot comprend deux bâtiments industriels rénovés d'environ 3 500 m² au total, sur un terrain d'un peu plus de 0,6 hectare, dans une zone industrielle de l'est de la ville. La surface de culture atteint environ 2 600 m².",
+        "Le site dispose de deux systèmes de rayonnages automatisés mis au point par l'entreprise, de 98 étagères de culture mobiles du fabricant Pipp Horticulture, d'une pépinière, d'une unité de transformation alimentaire, de chambres froides, d'un pilotage du climat et de groupes électrogènes de secours. Il détient aussi une certification de bonnes pratiques agricoles reconnue par le ministère américain de l'Agriculture."
+      ]
+    },
+    {
+      "intertitre": "Des investissements importants",
+      "paragraphes": [
+        "D'après les documents de l'annonce, près de 16,9 millions de dollars d'équipements ont été ajoutés au campus entre 2019 et 2023. Pour un repreneur, l'intérêt est d'éviter les longues années de conception et de chantier qu'exige une grande ferme verticale.",
+        "L'annonce vise des producteurs sous serre ou en ferme verticale, des industriels de l'alimentation, des exploitants d'entrepôts frigorifiques et des investisseurs en immobilier industriel. Le site convient à la production de légumes-feuilles ou d'autres cultures spécialisées."
+      ]
+    },
+    {
+      "intertitre": "Un secteur sous pression",
+      "paragraphes": [
+        "Cette mise en vente arrive dans une période difficile pour les fermes verticales américaines. AeroFarms s'est placée sous la protection de la loi sur les faillites en 2023, et Bowery Farming a fermé fin 2024. Le coût de l'énergie, en particulier pour l'éclairage LED des cultures, figure parmi les difficultés souvent citées dans ce secteur."
+      ]
+    }
+  ],
+  "mots": 334,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "CEAg World",
+  "source_url": "https://www.ceagworld.com/vertical-farming/former-planted-detroit-vertical-farm-campus-hits-market-through-sealed-bid-sale/",
+  "publie_le": "2026-11-06T16:30:12.000Z",
+  "redige_le": "2026-11-07T11:21:00.414Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/26d665075dee5624c9e449a4c5cae8831e78e400.webp",
+    "source": "wikimedia",
+    "credit": "ifarm.fi",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:IFarm.fi_Vertical_farm_Finland.jpg",
+    "alt": "Des cultures en ferme verticale sous éclairage artificiel",
+    "mots_cles": [
+      "Vertical farming"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "31dfe6b08a50d28c942a1009aec36a2bf0eb3015",
+  "slug": "can-2027-sans-stade-chez-lui-le-niger-defie-deux-fois-le-maroc-en-31dfe6",
+  "titre": "CAN 2027 : sans stade chez lui, le Niger défie deux fois le Maroc en novembre",
+  "chapo": "Le Niger rencontre le Maroc à deux reprises ce mois-ci, pour les troisième et quatrième journées des éliminatoires de la CAN 2027. Les deux matches se dérouleront chez l'adversaire.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Faute d'enceinte homologuée à Niamey, le Mena affrontera les Marocains loin de ses bases, à Casablanca puis à Rabat, deux villes distantes d'environ 90 kilomètres. Son sélectionneur, l'Algérien Nabil Neghiz, a livré ses intentions au site Afrik-Foot, à quelques jours de ces matches. Il devait dévoiler sa liste ce samedi 7 novembre.",
+        "Il voit un avantage pratique à disputer les deux rencontres dans le même pays : des trajets plus courts, plus de temps pour récupérer et pour travailler. En septembre, son groupe avait dû enchaîner une victoire contre le Lesotho (2-1), jouée à Accra, au Ghana, puis un revers au Gabon, à Franceville (2-0)."
+      ]
+    },
+    {
+      "intertitre": "Cinq ans sans match à Niamey",
+      "paragraphes": [
+        "La sélection nigérienne n'a plus joué devant son public depuis novembre 2021 et un succès contre Djibouti (7-2), lors des éliminatoires du Mondial 2022. Le stade Général-Seyni-Kountché est en travaux, et un projet de nouveau stade, à l'étude, pourrait aboutir en 2028. En attendant, le Niger reçoit sur terrain neutre.",
+        "Il a déjà vécu cette situation face au Maroc lors de la course au Mondial 2026 : en 2025, il avait perdu à Oujda (1-2) puis à Rabat (0-5)."
+      ]
+    },
+    {
+      "intertitre": "Un point comme objectif",
+      "paragraphes": [
+        "Nabil Neghiz présente le Maroc comme la meilleure équipe du continent, arrivée en quarts de finale du dernier Mondial, avec des joueurs comme Achraf Hakimi, Brahim Diaz ou Ismael Saibari, qui évoluent au PSG, au Real Madrid et au Bayern. Il range le Maroc et le Gabon parmi les favoris du groupe.",
+        "Son ambition est d'arracher au moins un point aux Marocains avant les deux dernières journées, prévues en mars. Absent des phases finales de la CAN depuis 2013, le Niger a pourtant déjà signé des exploits loin de chez lui : en 2024 au Ghana (2-1), puis en 2025 en Tanzanie et en Zambie, sur le même score de 1-0."
+      ]
+    },
+    {
+      "intertitre": "Un effectif dispersé",
+      "paragraphes": [
+        "Plusieurs internationaux nigériens jouent dans des championnats relevés, comme Rahim Alhassane à Bologne et Konnan N'Dri à Lecce, en Italie, ou Oumar Sako au Rostov, en Russie. D'autres évoluent au Niger ou dans des ligues plus modestes, du Liban à l'Albanie en passant par le Luxembourg. Le sélectionneur compte sur la fierté et l'engagement de ses joueurs pour réduire l'écart."
+      ]
+    }
+  ],
+  "mots": 397,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "NE",
+    "MA"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/maroc-face-a-la-meilleure-equipe-dafrique-le-selectionneur-algerien-du-niger-nabil-neghiz-se-donne-un-objectif-chiffre",
+  "publie_le": "2026-11-07T08:18:00.000Z",
+  "redige_le": "2026-11-07T11:20:55.382Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/31dfe6b08a50d28c942a1009aec36a2bf0eb3015.webp",
+    "source": "wikimedia",
+    "credit": "DRONE PROD-CINE MAROC",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohammed_V_stadium.jpg",
+    "alt": "Le stade Mohammed-V de Casablanca, au Maroc",
+    "mots_cles": [
+      "Stade Mohammed V Casablanca"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

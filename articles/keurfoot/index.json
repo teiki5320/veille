@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-06T18:18:26.656Z",
+  "genere_le": "2026-11-07T11:21:00.412Z",
   "articles": [
+    {
+      "id": "e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f",
+      "slug": "eliminatoires-can-2027-les-lions-du-senegal-se-preparent-de-nouveau-e5d4eb",
+      "titre": "Éliminatoires CAN 2027 : les Lions du Sénégal se préparent de nouveau à Dakar",
+      "publie_le": "2026-11-07T09:07:48.000Z",
+      "redige_le": "2026-11-07T11:20:55.382Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f.json"
+    },
+    {
+      "id": "31dfe6b08a50d28c942a1009aec36a2bf0eb3015",
+      "slug": "can-2027-sans-stade-chez-lui-le-niger-defie-deux-fois-le-maroc-en-31dfe6",
+      "titre": "CAN 2027 : sans stade chez lui, le Niger défie deux fois le Maroc en novembre",
+      "publie_le": "2026-11-07T08:18:00.000Z",
+      "redige_le": "2026-11-07T11:20:55.382Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/31dfe6b08a50d28c942a1009aec36a2bf0eb3015.json"
+    },
+    {
+      "id": "999777ad60f8dd2acf49751edd6325eeacb06284",
+      "slug": "can-2027-claude-le-roy-vise-au-moins-quatre-points-face-aux-comores-999777",
+      "titre": "CAN 2027 : Claude Le Roy vise au moins quatre points face aux Comores avec le Congo",
+      "publie_le": "2026-11-07T07:41:54.000Z",
+      "redige_le": "2026-11-07T11:20:55.382Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/999777ad60f8dd2acf49751edd6325eeacb06284.json"
+    },
     {
       "id": "9a39ed6510e1fdd7880550b6387f749c401aaadc",
       "slug": "cameroun-baleba-blesse-renonce-la-namibie-david-pagou-rappelle-ryan-9a39ed",

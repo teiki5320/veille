@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "f54fa3b5e1385817b17839cf3ff4b4f5649ff69a",
+  "slug": "londres-le-design-museum-montre-la-diversite-du-design-noir-f54fa3",
+  "titre": "À Londres, le Design Museum montre la diversité du design noir contemporain",
+  "chapo": "À Londres, le Design Museum consacre une exposition au design noir d'aujourd'hui, avec une idée simple : il n'existe pas une seule façon de le définir.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Intitulée « The Nue Black Aesthetic », l'exposition rassemble plus de cent pièces signées par seize créateurs. Elle couvre le mobilier, l'architecture et la mode. La commissaire invitée est Charlene Prempeh, aux côtés de Tiya Dahyabhai, commissaire associée du musée, selon le magazine Wallpaper*.",
+        "Le mot « Nue » renvoie à la nuance. Beaucoup des designers exposés appartiennent à des communautés de la diaspora et puisent dans des traditions familiales différentes. Le parcours pose des questions de mémoire : quelles contributions restent connues, comment les savoirs passent d'une génération à l'autre, et qui a pu raconter sa propre histoire."
+      ]
+    },
+    {
+      "intertitre": "Un héritage intellectuel",
+      "paragraphes": [
+        "L'exposition s'appuie sur les débats autour d'une esthétique noire apparus dans les années 1960, puis repris dans les années 1980. Elle met en avant l'essai de l'écrivain américain Larry Neal sur le Black Arts Movement, publié en 1968, et replace les pratiques actuelles dans une réflexion sur l'identité culturelle."
+      ]
+    },
+    {
+      "intertitre": "De Lagos à la Jamaïque",
+      "paragraphes": [
+        "L'architecte nigériane Tosin Oshinowo présente « Lantern House », une maison de Lagos qui illustre son approche de l'afrominimalisme : un travail sur la façon dont la lumière entre dans les pièces et sur le bien-être de ceux qui y vivent.",
+        "Le designer britannique d'origine ghanéenne Giles Tettey Nartey revisite le balafon, xylophone d'Afrique de l'Ouest dont le son est amplifié par des calebasses. Mac Collins s'inspire quant à lui de ses racines jamaïcaines avec une table de dominos créée pour Harewood House, un domaine anglais lié à l'histoire de l'esclavage."
+      ]
+    },
+    {
+      "intertitre": "Matières et savoir-faire",
+      "paragraphes": [
+        "Installé à Lagos, Nifemi Marcus-Bello part du cuivre récupéré sur les marchés de ferraille de la ville. Avec des commerçants et des artisans locaux, il en tire des sculptures utilitaires qui interrogent l'accès aux ressources du continent.",
+        "D'autres créateurs complètent le parcours : Andu Masebo, Samuel Ross et Ini Archibong pour les objets, Taiba Akhuetie pour ses pièces tressées, Phoebe Collings-James pour la céramique. La mode est représentée notamment par Foday Dumbuya, Bianca Saunders et Rachel Scott."
+      ]
+    }
+  ],
+  "mots": 353,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "GB",
+    "NG",
+    "GH"
+  ],
+  "source_nom": "Wallpaper*",
+  "source_url": "https://www.wallpaper.com/design-interiors/design-events/nue-black-aesthetic-design-museum",
+  "publie_le": "2026-11-07T09:00:00.000Z",
+  "redige_le": "2026-11-07T11:20:53.521Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/f54fa3b5e1385817b17839cf3ff4b4f5649ff69a.webp",
+    "source": "wikimedia",
+    "credit": "Anthony O'Neil",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Design_Museum_(2)_(geograph_5246509).jpg",
+    "alt": "Le Design Museum, à Londres",
+    "mots_cles": [
+      "Design Museum London"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

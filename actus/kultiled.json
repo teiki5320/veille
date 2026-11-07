@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-06T18:18:26.657Z",
+  "genere_le": "2026-11-07T11:21:00.414Z",
   "actus": [
+    {
+      "id": "26d665075dee5624c9e449a4c5cae8831e78e400",
+      "titre": "Détroit : l'ancienne ferme verticale Planted Detroit cherche un repreneur",
+      "resume": "Le campus de Planted Detroit, l'une des plus grandes fermes verticales du Michigan, est proposé à la reprise par offres sous pli. Le site, qui arrête son activité cette année, compte environ 2 600 m² de surface de culture équipée. Les offres sont attendues jusqu'au 16 novembre.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "source_nom": "CEAg World",
+      "source_url": "https://www.ceagworld.com/vertical-farming/former-planted-detroit-vertical-farm-campus-hits-market-through-sealed-bid-sale/",
+      "publie_le": "2026-11-06T16:30:12.000Z",
+      "collecte_le": "2026-11-07T11:21:00.414Z",
+      "langue": "en",
+      "slug": "detroit-ancienne-ferme-verticale-planted-detroit-cherche-un-repreneur-26d665",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/26d665075dee5624c9e449a4c5cae8831e78e400.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/26d665075dee5624c9e449a4c5cae8831e78e400.webp",
+        "source": "wikimedia",
+        "credit": "ifarm.fi",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:IFarm.fi_Vertical_farm_Finland.jpg",
+        "alt": "Des cultures en ferme verticale sous éclairage artificiel",
+        "mots_cles": [
+          "Vertical farming"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "2c11a9c477dbe46c84f07b498fe02c984a739246",
       "titre": "Pays-Bas : Wageningen veut piloter les serres selon les besoins réels des plantes",

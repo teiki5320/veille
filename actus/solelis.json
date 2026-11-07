@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-06T18:18:26.660Z",
+  "genere_le": "2026-11-07T11:21:02.270Z",
   "actus": [
+    {
+      "id": "7c64b2eb662a125198930ad3e9bf6dca2be3948c",
+      "titre": "IA : les artisans et les TPE l'adoptent pour alléger devis et paperasse",
+      "resume": "Selon le baromètre France Num de septembre 2026, 40 % des TPE et PME françaises utilisent des outils d'intelligence artificielle, soit 14 points de plus en un an. Les artisans s'en servent surtout pour les devis, les courriers et l'administratif, par exemple avec l'application IArtisans lancée avec la Capeb.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/charente-maritime/la-rochelle/economie-l-ia-ce-nouvel-assistant-qui-peut-aussi-changer-le-quotidien-des-artisans-30752509.php",
+      "publie_le": "2026-11-07T06:30:00.000Z",
+      "collecte_le": "2026-11-07T11:21:02.270Z",
+      "langue": "fr",
+      "slug": "ia-les-artisans-et-les-tpe-adoptent-pour-alleger-devis-et-paperasse-7c64b2",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/7c64b2eb662a125198930ad3e9bf6dca2be3948c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/7c64b2eb662a125198930ad3e9bf6dca2be3948c.webp",
+        "source": "openverse",
+        "credit": "Jeremy Levine Design",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/25186605@N04/2888119010",
+        "alt": "Un professionnel travaille sur un ordinateur",
+        "mots_cles": [
+          "craftsman laptop"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1795e30d700fdb0357abbeaaeca5c0d5098eb413",
       "titre": "Liquidation : la Cour de cassation écarte la clause de retrait d'un GIE",

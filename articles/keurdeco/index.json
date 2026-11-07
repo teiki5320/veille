@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-06T18:18:26.649Z",
+  "genere_le": "2026-11-07T11:20:55.373Z",
   "articles": [
+    {
+      "id": "f54fa3b5e1385817b17839cf3ff4b4f5649ff69a",
+      "slug": "londres-le-design-museum-montre-la-diversite-du-design-noir-f54fa3",
+      "titre": "À Londres, le Design Museum montre la diversité du design noir contemporain",
+      "publie_le": "2026-11-07T09:00:00.000Z",
+      "redige_le": "2026-11-07T11:20:53.521Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/f54fa3b5e1385817b17839cf3ff4b4f5649ff69a.json"
+    },
     {
       "id": "8d45d5de6c1aded03bd6090305fdef828bec04de",
       "slug": "venise-ethiopien-tegene-kunbi-glisse-des-tissus-de-tout-le-continent-8d45d5",

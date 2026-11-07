@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-06T18:18:26.664Z",
+  "genere_le": "2026-11-07T11:21:07.763Z",
   "articles": [
+    {
+      "id": "7c64b2eb662a125198930ad3e9bf6dca2be3948c",
+      "slug": "ia-les-artisans-et-les-tpe-adoptent-pour-alleger-devis-et-paperasse-7c64b2",
+      "titre": "IA : les artisans et les TPE l'adoptent pour alléger devis et paperasse",
+      "publie_le": "2026-11-07T06:30:00.000Z",
+      "redige_le": "2026-11-07T11:21:02.270Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/7c64b2eb662a125198930ad3e9bf6dca2be3948c.json"
+    },
     {
       "id": "1795e30d700fdb0357abbeaaeca5c0d5098eb413",
       "slug": "liquidation-la-cour-de-cassation-ecarte-la-clause-de-retrait-un-gie-1795e3",
