@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-07T11:20:53.512Z",
+  "genere_le": "2026-11-07T18:16:26.945Z",
   "articles": [
+    {
+      "id": "bf4d10d821b824220ce9e3cb505c75652ce619e6",
+      "slug": "dakar-la-34e-journee-de-ecrivain-africain-met-la-paix-au-coeur-des-bf4d10",
+      "titre": "Dakar : la 34e Journée de l'écrivain africain met la paix au cœur des échanges",
+      "publie_le": "2026-11-07T12:08:43.000Z",
+      "redige_le": "2026-11-07T18:16:25.011Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/bf4d10d821b824220ce9e3cb505c75652ce619e6.json"
+    },
     {
       "id": "3842c2550f312641d3afc163b76ea26b91f35506",
       "slug": "madagascar-au-festival-mangaxmanga-le-manga-malgache-invente-une-3842c2",

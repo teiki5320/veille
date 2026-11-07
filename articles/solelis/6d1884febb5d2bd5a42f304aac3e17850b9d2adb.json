@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "6d1884febb5d2bd5a42f304aac3e17850b9d2adb",
+  "slug": "secheresse-en-ariege-aide-urgence-aux-exploitations-agricoles-portee-1-6d1884",
+  "titre": "Sécheresse en Ariège : l'aide d'urgence aux exploitations agricoles portée à 1,27 M€",
+  "chapo": "En Ariège, l'aide d'urgence destinée aux fermes fragilisées par la canicule et la sécheresse franchit maintenant la barre de 1,27 million d'euros. Des dizaines d'agriculteurs éligibles n'ont toutefois pas encore déposé de dossier.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Hervé Brabant, préfet de l'Ariège, a décroché une enveloppe complémentaire de 381 562 euros. Elle relève du plan CASI, le dispositif d'urgence lié à la canicule, à la sécheresse et aux incendies. Avec cette rallonge, la réserve de réarmement agricole du département s'élève à 1 273 226 euros.",
+        "Cette somme s'ajoute à une première dotation de 668 748 euros, déjà complétée par 222 916 euros. Le représentant de l'État avait signalé aux autorités nationales la situation particulière du territoire pour obtenir ces crédits. Selon la préfecture, l'argent doit soulager la trésorerie des fermes les plus touchées par ces épisodes historiques de chaleur et de manque d'eau, quel que soit leur type de production."
+      ]
+    },
+    {
+      "intertitre": "Des dossiers encore en attente",
+      "paragraphes": [
+        "Les services départementaux des territoires ont contacté 184 professionnels remplissant les conditions, afin de les aider à constituer leur demande. Au total, 288 demandes figurent sur la plateforme en ligne et 126 ont déjà été examinées. Les premiers versements ont commencé.",
+        "Mais 47 agriculteurs joints par l'administration n'ont rien transmis à ce jour. Avec la Chambre d'agriculture, un rappel leur est envoyé, et ils disposent d'un délai supplémentaire pour déposer sur Démarches Numériques."
+      ]
+    },
+    {
+      "intertitre": "D'autres aides mobilisées",
+      "paragraphes": [
+        "Le fonds d'urgence s'accompagne d'autres mesures. Les finances publiques du département ont validé un allègement de la taxe foncière sur le non-bâti : 50 % pour les prairies dans tout le département, 55 % sur les terres arables semées en cultures d'été, et jusqu'à 70 % sur les coteaux secs, les secteurs les plus sinistrés.",
+        "Les exploitants peuvent aussi compter sur des soutiens pour le gazole non routier et les engrais, ainsi que sur les indemnités de l'assurance récolte. Les avances de la PAC sont versées depuis la mi-octobre : le 28 octobre, 1 799 dossiers avaient donné lieu à 45,5 millions d'euros de paiements en Ariège."
+      ]
+    },
+    {
+      "intertitre": "Une profession sous pression",
+      "paragraphes": [
+        "Pour le préfet, les difficultés du monde agricole se cumulent depuis plusieurs années. L'administration affirme rester mobilisée pour accélérer l'examen et le paiement des dossiers, alors que la sécheresse continue de peser sur les comptes des exploitations."
+      ]
+    }
+  ],
+  "mots": 375,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/07/soutenir-les-exploitations-les-plus-fragilisees-une-nouvelle-enveloppe-debloquee-pour-les-agriculteurs-ariegeois-13632032.php",
+  "publie_le": "2026-11-07T16:27:02.000Z",
+  "redige_le": "2026-11-07T18:16:28.737Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/6d1884febb5d2bd5a42f304aac3e17850b9d2adb.webp",
+    "source": "wikimedia",
+    "credit": "Tschubby",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:D%C3%A9partement_Ari%C3%A8ge_Arrondissement_Kantone_2025.png",
+    "alt": "Un paysage du département de l'Ariège, dans le sud de la France",
+    "mots_cles": [
+      "Ariège (département)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

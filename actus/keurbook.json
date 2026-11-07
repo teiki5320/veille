@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-07T11:20:53.508Z",
+  "genere_le": "2026-11-07T18:16:25.011Z",
   "actus": [
+    {
+      "id": "bf4d10d821b824220ce9e3cb505c75652ce619e6",
+      "titre": "Dakar : la 34e Journée de l'écrivain africain met la paix au cœur des échanges",
+      "resume": "Du 7 au 11 novembre, l'AES, qui regroupe les écrivains du Sénégal, célèbre la 34e Journée de l'écrivain africain avec quinze pays invités. Le Congo et l'auteur Armed Saint Silvère Dongou parrainent cette édition consacrée à la paix.",
+      "theme": "culture",
+      "pays": [
+        "SN",
+        "CG"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/34e-edition-de-la-journee-internationale-de-lecrivain-africain-sous-le-signe-de-la-paix",
+      "publie_le": "2026-11-07T12:08:43.000Z",
+      "collecte_le": "2026-11-07T18:16:25.011Z",
+      "langue": "fr",
+      "slug": "dakar-la-34e-journee-de-ecrivain-africain-met-la-paix-au-coeur-des-bf4d10",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/bf4d10d821b824220ce9e3cb505c75652ce619e6.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/bf4d10d821b824220ce9e3cb505c75652ce619e6.webp",
+        "source": "wikimedia",
+        "credit": "Rally Dakar 2006 9.jpg : Dakar organization derivative work: Lošmi ( talk )",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Rally_Dakar_2006_9-2.jpg",
+        "alt": "Une vue de la ville de Dakar, au Sénégal",
+        "mots_cles": [
+          "Dakar"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3842c2550f312641d3afc163b76ea26b91f35506",
       "titre": "Madagascar : au festival MangaXmanga, le manga malgache s'invente une identité",

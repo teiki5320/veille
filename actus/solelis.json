@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-07T11:22:01.573Z",
+  "genere_le": "2026-11-07T18:16:28.737Z",
   "actus": [
+    {
+      "id": "6d1884febb5d2bd5a42f304aac3e17850b9d2adb",
+      "titre": "Sécheresse en Ariège : l'aide d'urgence aux exploitations agricoles portée à 1,27 M€",
+      "resume": "Le préfet de l'Ariège a obtenu 381 562 euros de plus pour soutenir la trésorerie des fermes touchées par la canicule et la sécheresse, ce qui porte le fonds à 1 273 226 euros. Sur 288 dossiers déposés, 126 sont instruits ; 47 exploitants éligibles n'ont pas encore fait leur demande.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/07/soutenir-les-exploitations-les-plus-fragilisees-une-nouvelle-enveloppe-debloquee-pour-les-agriculteurs-ariegeois-13632032.php",
+      "publie_le": "2026-11-07T16:27:02.000Z",
+      "collecte_le": "2026-11-07T18:16:28.737Z",
+      "langue": "fr",
+      "slug": "secheresse-en-ariege-aide-urgence-aux-exploitations-agricoles-portee-1-6d1884",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/6d1884febb5d2bd5a42f304aac3e17850b9d2adb.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/6d1884febb5d2bd5a42f304aac3e17850b9d2adb.webp",
+        "source": "wikimedia",
+        "credit": "Tschubby",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:D%C3%A9partement_Ari%C3%A8ge_Arrondissement_Kantone_2025.png",
+        "alt": "Un paysage du département de l'Ariège, dans le sud de la France",
+        "mots_cles": [
+          "Ariège (département)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7c64b2eb662a125198930ad3e9bf6dca2be3948c",
       "titre": "IA : les artisans et les TPE l'adoptent pour alléger devis et paperasse",

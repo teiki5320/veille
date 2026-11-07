@@ -1,34 +1,5 @@
 {
   "deja_vus": {
-    "f0be55eb6245141a7841c7e0ebb2588fbc2db2f2": "2026-10-28T11:26:26.140Z",
-    "74c0034f6e179f7daef6ec3b2e381783c58f8438": "2026-10-28T11:26:26.140Z",
-    "11a62a51ce9fc7bff54e74fdd136072658b0b66d": "2026-10-28T11:26:26.140Z",
-    "9d788d99c982b936d6e048d2dc78d2ca70bd6a95": "2026-10-28T11:26:26.140Z",
-    "d93d8e86612c94f1dc894f9de4081813ccc77cf6": "2026-10-28T11:26:26.140Z",
-    "a0e07c0a62ca5bc4ea1fa264d6e9eca991d8844e": "2026-10-28T11:26:26.140Z",
-    "ef299fd3c71580c3c0688fd16d4196881fe54ed9": "2026-10-28T11:26:26.140Z",
-    "82b8acffe244f22d6533313f3ffcbd7416e93ba5": "2026-10-28T11:26:26.140Z",
-    "80cf5b8ba9a01998f16114419c0abbc74b2b7a08": "2026-10-28T11:26:26.140Z",
-    "58e2a3b715877b5cdeb62ef466ef3749182137aa": "2026-10-28T11:26:26.140Z",
-    "31bc82d3a21b2837561fa5286d5f4486f17c164b": "2026-10-28T11:26:26.140Z",
-    "36081319f70913d91fde52fbb0764dfa67d9619f": "2026-10-28T11:26:26.140Z",
-    "28dfb6ebae792b383edddfa023d5181bdd34a84e": "2026-10-28T11:26:26.140Z",
-    "bd9fb235f3232fe0176adbbfe766df8e4555bb76": "2026-10-28T11:26:26.140Z",
-    "e3dd441b12280b7afe6df1ad3557bf98ff9ddbcc": "2026-10-28T11:26:26.140Z",
-    "81a86c82546c52e75447e275d608281982d17d4b": "2026-10-28T11:26:26.140Z",
-    "3184a631b71bc538ada14db853a84d92b585f3f8": "2026-10-28T11:26:26.140Z",
-    "4d27a752dd7d784acdc0cebf398f04588957f504": "2026-10-28T11:26:26.140Z",
-    "1e1c0cc3e3cf459ff9e44c0d65da82427d13dc9d": "2026-10-28T11:26:26.140Z",
-    "1bbbcdf6a3d356ee3c28dc830a18932972d99499": "2026-10-28T11:26:26.140Z",
-    "a1b9479850a3405b40064fd0cde899a01074725b": "2026-10-28T11:26:26.140Z",
-    "2c23f23f85fad6146c846381b56afc1039349276": "2026-10-28T11:26:26.140Z",
-    "cea3ff2cd07b037d5d5a922afe5a3387101226b7": "2026-10-28T11:26:26.140Z",
-    "8c4a9ab4337da8c29c94ccb4fb0cd341bc48a9c3": "2026-10-28T11:26:26.140Z",
-    "302620c52c2a6c71829cf7118d5361a553383547": "2026-10-28T11:26:26.140Z",
-    "2f3c2df0950613beba0f815d68bb3871f4cb38ef": "2026-10-28T11:26:26.140Z",
-    "cec07fa114ee4ec02cbcbcd699efc71763b05a81": "2026-10-28T11:26:26.140Z",
-    "b85a8880c85935c482d5ed924955dfda061b77c6": "2026-10-28T11:26:26.140Z",
-    "798e2025c8275be1ff845edf9b6e37c9a3f43b81": "2026-10-28T11:26:26.140Z",
     "ec0ca72b2acf3858acc9e440314b4b2b039ebfc6": "2026-10-28T18:21:44.241Z",
     "0af1535b27264c30238768ed989d4e6d83ff4f0a": "2026-10-28T18:21:44.241Z",
     "fbacf09c0bab976253ab4903a1a72d81b779e927": "2026-10-28T18:21:44.241Z",
@@ -597,81 +568,102 @@
     "c0e13d36fb49177b972319d3122dc8dde29ed25f": "2026-11-07T11:20:53.508Z",
     "1296a50ddaac45fbd2f32fa5a80816842ff7911f": "2026-11-07T11:20:53.508Z",
     "f9c68ec41305bfda919741918210acedce5038f2": "2026-11-07T11:20:53.508Z",
-    "713fc5a1b1213171834fef5479f9ac32b9b032a1": "2026-11-07T11:20:53.508Z"
+    "713fc5a1b1213171834fef5479f9ac32b9b032a1": "2026-11-07T11:20:53.508Z",
+    "91715b126c18f25a2186e763e2479c1c93dd0246": "2026-11-07T18:16:25.011Z",
+    "9ae6be0adb9917601af546b5701d6fdb910a3e59": "2026-11-07T18:16:25.011Z",
+    "c1496bb0bdc05c941997d882e33cfbd8f7372f82": "2026-11-07T18:16:25.011Z",
+    "84d057d325cb4de049d3de35f343b78ed891d92f": "2026-11-07T18:16:25.011Z",
+    "deb67f2325431a6ad1f583d2a45427be39dcd1d4": "2026-11-07T18:16:25.011Z",
+    "b363fe23e6dacab6c5029189d65b66947eff15b5": "2026-11-07T18:16:25.011Z",
+    "9b44b227d8b204b7b6414f5a21323af422308846": "2026-11-07T18:16:25.011Z",
+    "ba6a6aa426756ee8cfa243ce18713f4d36a696ed": "2026-11-07T18:16:25.011Z",
+    "e1d6005660b1d08b8ddc6d57e74b273c998c4fc9": "2026-11-07T18:16:25.011Z",
+    "e850ec0f99740bca35770a4a33f94b165ba98378": "2026-11-07T18:16:25.011Z",
+    "5766e296eb6bd0ef4d37f5d7bb0aa282a235a5f1": "2026-11-07T18:16:25.011Z",
+    "486baca5bca88316bd57db10481b7b3c8b5e3160": "2026-11-07T18:16:25.011Z",
+    "2f1d3f0b7bf1f2dd7b35d8223784df96704fcda8": "2026-11-07T18:16:25.011Z",
+    "bf4d10d821b824220ce9e3cb505c75652ce619e6": "2026-11-07T18:16:25.011Z",
+    "ef8998cbaf0cf0b10ec3a21a6d6cf8a92b7a637d": "2026-11-07T18:16:25.011Z",
+    "26db2142b7a1b4de3de3f4d5f917a3830c71d252": "2026-11-07T18:16:25.011Z",
+    "cb3cde98fb69d641be5a619e4e2d32cbcbebf459": "2026-11-07T18:16:25.011Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
       "nom": "Africultures",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 1
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 1
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 10
+      "articles": 9
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-07T11:12:41.962Z",
+      "dernier_succes": "2026-11-07T18:12:37.008Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     }
   },
   "images_recentes": [
+    {
+      "id": "bf4d10d821b824220ce9e3cb505c75652ce619e6",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rally_Dakar_2006_9-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "3842c2550f312641d3afc163b76ea26b91f35506",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -748,6 +740,7 @@
     "a579becc345dae7b8b969be1cefb202b72f95d2d": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hemley_Boum_-_Salon_du_livre_de_Paris_-_24_mars_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "d392547c993e6524fbeef43d913d65b4fe96905d": "https://upload.wikimedia.org/wikipedia/commons/f/fb/L%27exil_d%27Albouri%2C_texte_de_Cheik_Aliou_Ndao_-_btv1b106020559_%2822_of_31%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diaty_Diallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "3842c2550f312641d3afc163b76ea26b91f35506": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "3842c2550f312641d3afc163b76ea26b91f35506": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "bf4d10d821b824220ce9e3cb505c75652ce619e6": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rally_Dakar_2006_9-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   }
 }

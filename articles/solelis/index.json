@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-07T11:22:01.607Z",
+  "genere_le": "2026-11-07T18:16:31.957Z",
   "articles": [
+    {
+      "id": "6d1884febb5d2bd5a42f304aac3e17850b9d2adb",
+      "slug": "secheresse-en-ariege-aide-urgence-aux-exploitations-agricoles-portee-1-6d1884",
+      "titre": "Sécheresse en Ariège : l'aide d'urgence aux exploitations agricoles portée à 1,27 M€",
+      "publie_le": "2026-11-07T16:27:02.000Z",
+      "redige_le": "2026-11-07T18:16:28.737Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/6d1884febb5d2bd5a42f304aac3e17850b9d2adb.json"
+    },
     {
       "id": "7c64b2eb662a125198930ad3e9bf6dca2be3948c",
       "slug": "ia-les-artisans-et-les-tpe-adoptent-pour-alleger-devis-et-paperasse-7c64b2",

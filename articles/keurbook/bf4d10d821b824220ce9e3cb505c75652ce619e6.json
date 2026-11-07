@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "bf4d10d821b824220ce9e3cb505c75652ce619e6",
+  "slug": "dakar-la-34e-journee-de-ecrivain-africain-met-la-paix-au-coeur-des-bf4d10",
+  "titre": "Dakar : la 34e Journée de l'écrivain africain met la paix au cœur des échanges",
+  "chapo": "À Dakar, l'AES ouvre ce samedi 7 novembre la 34e Journée de l'écrivain africain. Quatre jours de rencontres sont prévus, avec la paix pour fil conducteur.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'association qui fédère les auteurs sénégalais, l'AES, organise jusqu'au mardi 11 novembre cette édition consacrée aux plumes du continent. Quinze pays sont invités à se joindre aux échanges. Le parrainage revient au Congo et à l'un de ses écrivains reconnus, Armed Saint Silvère Dongou.",
+        "La cérémonie d'ouverture a lieu au Point E, dans un hôtel du quartier, le Fleur de Lys. Les activités se poursuivent ensuite à Keur Birago. L'association annonce un programme fourni sur l'ensemble des quatre jours."
+      ]
+    },
+    {
+      "intertitre": "La paix comme message",
+      "paragraphes": [
+        "Le thème a été présenté la veille, devant la presse, au siège de l'AES. Son vice-président, Seydou Sow, y a rappelé que l'écrivain s'adresse d'abord à l'être humain. Il a décrit un monde secoué par les guerres et par la violence, dont l'Afrique n'est pas épargnée.",
+        "Selon lui, beaucoup d'Africains sont encore victimes de mauvais traitements. Face à ce constat, les auteurs entendent mettre leur talent au service de la prise de conscience, et peser pour faire évoluer la situation."
+      ]
+    },
+    {
+      "intertitre": "Une ouverture internationale",
+      "paragraphes": [
+        "La venue de délégations étrangères répond à une ambition de l'AES : donner plus d'ampleur internationale à ce rendez-vous, auquel tous les pays africains sont associés. Les invités doivent partager avec leurs collègues du Sénégal des temps de réflexion commune.",
+        "Les organisateurs insistent sur le rôle social de l'écrivain : à leurs yeux, ceux qui écrivent portent une voix capable de servir la paix et de préserver l'équilibre de la société."
+      ]
+    },
+    {
+      "intertitre": "Une date fixe chaque année",
+      "paragraphes": [
+        "La Journée de l'écrivain africain est célébrée tous les 7 novembre. Elle a été instituée au début des années 1990 par l'Organisation de l'unité africaine, l'ancêtre de l'Union africaine, pour mettre en valeur la littérature du continent et ceux qui la font vivre."
+      ]
+    }
+  ],
+  "mots": 311,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "SN",
+    "CG"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/34e-edition-de-la-journee-internationale-de-lecrivain-africain-sous-le-signe-de-la-paix",
+  "publie_le": "2026-11-07T12:08:43.000Z",
+  "redige_le": "2026-11-07T18:16:25.011Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/bf4d10d821b824220ce9e3cb505c75652ce619e6.webp",
+    "source": "wikimedia",
+    "credit": "Rally Dakar 2006 9.jpg : Dakar organization derivative work: Lošmi ( talk )",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Rally_Dakar_2006_9-2.jpg",
+    "alt": "Une vue de la ville de Dakar, au Sénégal",
+    "mots_cles": [
+      "Dakar"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

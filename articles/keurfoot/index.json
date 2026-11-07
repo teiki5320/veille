@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-07T11:21:00.412Z",
+  "genere_le": "2026-11-07T18:16:28.711Z",
   "articles": [
+    {
+      "id": "2fe41306bdffe427f7d4a71e085d72f13855fe6e",
+      "slug": "senegal-blesse-au-mollet-mamadou-sarr-declare-forfait-contre-le-soudan-2fe413",
+      "titre": "Sénégal : blessé au mollet, Mamadou Sarr déclare forfait contre le Soudan",
+      "publie_le": "2026-11-07T16:49:23.000Z",
+      "redige_le": "2026-11-07T18:16:26.966Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/2fe41306bdffe427f7d4a71e085d72f13855fe6e.json"
+    },
     {
       "id": "e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f",
       "slug": "eliminatoires-can-2027-les-lions-du-senegal-se-preparent-de-nouveau-e5d4eb",

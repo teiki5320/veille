@@ -1,8 +1,44 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-07T11:20:55.382Z",
+  "genere_le": "2026-11-07T18:16:26.966Z",
   "actus": [
+    {
+      "id": "2fe41306bdffe427f7d4a71e085d72f13855fe6e",
+      "titre": "Sénégal : blessé au mollet, Mamadou Sarr déclare forfait contre le Soudan",
+      "resume": "Retenu par Patrick Vieira, le défenseur, qui joue à la Real Sociedad, ne disputera pas les deux rencontres des Lions face au Soudan. Les examens passés en Espagne ont révélé une lésion du soléaire gauche, sans durée d'absence annoncée.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/equipe-nationale-mamadou-sarr-forfait-pour-les-deux-matchs-contre-le-soudan_2021461.html",
+      "autres_sources": [
+        "https://senego.com/mamadou-sarr-forfait-avec-les-lions-pour-les-deux-matchs-contre-le-soudan_2021422.html",
+        "https://wiwsport.com/2026/11/07/equipe-nationale-blesse-avec-la-real-sociedad-mamadou-sarr-forfait-pour-le-rassemblement-des-lions/",
+        "https://wiwsport.com/2026/11/07/pellegrino-matarazzo-rassure-mamadou-sarr-apres-sa-blessure-des-quil-sera-de-nouveau-pret-il-redeviendra-un-element-tres-important/"
+      ],
+      "publie_le": "2026-11-07T16:49:23.000Z",
+      "collecte_le": "2026-11-07T18:16:26.966Z",
+      "langue": "fr",
+      "slug": "senegal-blesse-au-mollet-mamadou-sarr-declare-forfait-contre-le-soudan-2fe413",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2fe41306bdffe427f7d4a71e085d72f13855fe6e.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/2fe41306bdffe427f7d4a71e085d72f13855fe6e.webp",
+        "source": "wikimedia",
+        "credit": "Jeanpierrekepseu",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:C%C3%A9l%C3%A9bration_S%C3%A9n%C3%A9gal_(11).jpg",
+        "alt": "Le défenseur sénégalais Mamadou Sarr",
+        "mots_cles": [
+          "Mamadou Sarr footballer"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f",
       "titre": "Éliminatoires CAN 2027 : les Lions du Sénégal se préparent de nouveau à Dakar",
@@ -2089,39 +2125,6 @@
       },
       "slug": "arabie-saoudite-al-faisaly-et-abdoulaye-seck-imposent-1-0-abha-446bf4",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/446bf49cbaeced9cff3d5d9092e7a028ded24c5c.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "6f3c28e0a8a87bf0d90b358a8219075ac235f90e",
-      "titre": "C1 africaine : les Soudanais d'Al Hilal Omdurman de nouveau qualifiés pour les poules",
-      "resume": "On connaît depuis le week-end les seize clubs du tour principal de la plus grande compétition interclubs d'Afrique. Al Hilal Omdurman, venu du Soudan, figure parmi eux : un habitué de ce stade, qui attend toujours son premier sacre continental.",
-      "theme": "foot",
-      "pays": [
-        "SD"
-      ],
-      "competition": "Ligue des champions CAF",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/caf/ligue-des-champions-caf/ligue-des-champions-caf-al-hilal-omdurman-une-regularite-qui-peine-a-simposer/",
-      "publie_le": "2026-10-27T14:20:30.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/6f3c28e0a8a87bf0d90b358a8219075ac235f90e.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Soudan) et la mention « Ligue des champions CAF »",
-        "mots_cles": [
-          "Al-Hilal Club (Omdurman)",
-          "african football stadium",
-          "football fans africa"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "c1-africaine-les-soudanais-al-hilal-omdurman-de-nouveau-qualifies-pour-6f3c28",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/6f3c28e0a8a87bf0d90b358a8219075ac235f90e.json",
       "lecture_min": 1
     }
   ]
