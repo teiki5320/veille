@@ -3140,7 +3140,7 @@
   "images_recentes": [
     {
       "id": "2fe41306bdffe427f7d4a71e085d72f13855fe6e",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/4/41/C%C3%A9l%C3%A9bration_S%C3%A9n%C3%A9gal_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/e/e7/C%C3%A9l%C3%A9bration_S%C3%A9n%C3%A9gal_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f",
@@ -3279,11 +3279,15 @@
     "31dfe6b08a50d28c942a1009aec36a2bf0eb3015": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mohammed_V_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f": "https://live.staticflickr.com/5281/5316580750_4717a02409_b.jpg",
     "999777ad60f8dd2acf49751edd6325eeacb06284": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "2fe41306bdffe427f7d4a71e085d72f13855fe6e": "https://upload.wikimedia.org/wikipedia/commons/4/41/C%C3%A9l%C3%A9bration_S%C3%A9n%C3%A9gal_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "2fe41306bdffe427f7d4a71e085d72f13855fe6e": "https://upload.wikimedia.org/wikipedia/commons/e/e7/C%C3%A9l%C3%A9bration_S%C3%A9n%C3%A9gal_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [
       "https://upload.wikimedia.org/wikipedia/commons/e/e7/Italy_vs_France_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "2fe41306bdffe427f7d4a71e085d72f13855fe6e": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/C%C3%A9l%C3%A9bration_S%C3%A9n%C3%A9gal_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/FC_Semenivka_v_Senegal_under-21_football_team_%282016-05-20%29_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }

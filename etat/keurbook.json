@@ -662,7 +662,7 @@
   "images_recentes": [
     {
       "id": "bf4d10d821b824220ce9e3cb505c75652ce619e6",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rally_Dakar_2006_9-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://live.staticflickr.com/4077/4775120660_9cf582295c_b.jpg"
     },
     {
       "id": "3842c2550f312641d3afc163b76ea26b91f35506",
@@ -741,6 +741,11 @@
     "d392547c993e6524fbeef43d913d65b4fe96905d": "https://upload.wikimedia.org/wikipedia/commons/f/fb/L%27exil_d%27Albouri%2C_texte_de_Cheik_Aliou_Ndao_-_btv1b106020559_%2822_of_31%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "aa913d6f6b0069b14c895a3f4784d8cc784fcf8b": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Diaty_Diallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "3842c2550f312641d3afc163b76ea26b91f35506": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lake_Anosy%2C_Central_Antananarivo%2C_Capital_of_Madagascar%2C_Photo_by_Sascha_Grabow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "bf4d10d821b824220ce9e3cb505c75652ce619e6": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rally_Dakar_2006_9-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "bf4d10d821b824220ce9e3cb505c75652ce619e6": "https://live.staticflickr.com/4077/4775120660_9cf582295c_b.jpg"
+  },
+  "refusees": {
+    "bf4d10d821b824220ce9e3cb505c75652ce619e6": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a7/Rally_Dakar_2006_9-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
   }
 }
