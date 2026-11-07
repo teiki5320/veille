@@ -26,7 +26,6 @@
     { "nom": "BFM Business", "url": "https://www.bfmtv.com/rss/economie/entreprises/", "langue": "fr" },
     { "nom": "Franceinfo", "url": "https://www.francetvinfo.fr/economie/entreprises.rss", "langue": "fr" },
     { "nom": "La Tribune", "url": "https://www.latribune.fr/feed.xml", "langue": "fr" },
-    { "nom": "L'Usine Nouvelle", "url": "https://www.usinenouvelle.com/rss/", "langue": "fr" },
     { "nom": "Sud Ouest", "url": "https://www.sudouest.fr/economie/rss.xml", "langue": "fr" },
     { "nom": "20 Minutes", "url": "https://www.20minutes.fr/feeds/rss-economie.xml", "langue": "fr" },
     { "nom": "Village de la Justice", "url": "https://www.village-justice.com/articles/backend.php", "langue": "fr" },
