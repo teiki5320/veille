@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-07T11:21:02.270Z",
+  "genere_le": "2026-11-07T11:22:01.573Z",
   "actus": [
     {
       "id": "7c64b2eb662a125198930ad3e9bf6dca2be3948c",
@@ -22,12 +22,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/solelis/7c64b2eb662a125198930ad3e9bf6dca2be3948c.webp",
         "source": "openverse",
-        "credit": "Jeremy Levine Design",
+        "credit": "anantal",
         "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/25186605@N04/2888119010",
-        "alt": "Un professionnel travaille sur un ordinateur",
+        "page": "https://www.flickr.com/photos/33088287@N00/16916258456",
+        "alt": "Un poste de travail avec un ordinateur",
         "mots_cles": [
-          "craftsman laptop"
+          "office desk computer"
         ],
         "largeur": 1600,
         "hauteur": 900
