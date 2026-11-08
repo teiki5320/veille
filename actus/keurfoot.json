@@ -1,8 +1,145 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-07T18:17:27.467Z",
+  "genere_le": "2026-11-08T11:20:00.151Z",
   "actus": [
+    {
+      "id": "5919fcd77c4a9c2f84e99bc9d29b7f297b29c083",
+      "titre": "Le Nigeria championne du monde U17, une première pour le football féminin africain",
+      "resume": "En finale à Rabat, samedi, les Flamingos ont dominé le Japon 2-1. Jamais une équipe africaine n'avait remporté un Mondial féminin, quelle que soit la catégorie d'âge. Oluebube Umejiaku a été élue meilleure joueuse du tournoi.",
+      "theme": "foot",
+      "pays": [
+        "NG",
+        "JP"
+      ],
+      "competition": "Coupe du monde féminine U17",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-feminine-u17-lafrique-decroche-un-sacre-historique-au-maroc",
+      "publie_le": "2026-11-08T10:12:20.000Z",
+      "collecte_le": "2026-11-08T11:20:00.151Z",
+      "langue": "fr",
+      "slug": "le-nigeria-championne-du-monde-u17-une-premiere-pour-le-football-5919fc",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5919fcd77c4a9c2f84e99bc9d29b7f297b29c083.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/5919fcd77c4a9c2f84e99bc9d29b7f297b29c083.webp",
+        "source": "wikimedia",
+        "credit": "David Jane Footballer",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:After_training_with_my_team_mates_in_the_National_Camp_Super_Falcon_in_Abuja_Nigeria.JPG",
+        "alt": "Des joueuses de l'équipe du Nigeria de football féminin",
+        "mots_cles": [
+          "Nigeria women's national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751",
+      "titre": "CAF Awards 2026 : le Maroc a le plus de nommés, devant l'Égypte et le Sénégal",
+      "resume": "La CAF a dévoilé cette semaine les nommés de ses prix 2026, dont le Ballon d'Or africain. Le Maroc en totalise 16, l'Égypte 9, le Sénégal 8, l'Algérie 7 et la Côte d'Ivoire 5. Les lauréats seront connus le 7 décembre à Lagos.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "EG",
+        "SN",
+        "DZ",
+        "CI"
+      ],
+      "competition": "Ballon d'Or africain",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/ballon-dor-africain-2026-maroc-senegal-algerie-cote-divoire-qui-a-le-plus-de-nommes-aux-caf-awards",
+      "publie_le": "2026-11-07T22:50:12.000Z",
+      "collecte_le": "2026-11-08T11:20:00.151Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-le-maroc-le-plus-de-nommes-devant-egypte-et-le-senegal-2d7e3e",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751.webp",
+        "source": "wikimedia",
+        "credit": "Nawfel Ajari",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
+        "alt": "Achraf Hakimi, défenseur de l'équipe du Maroc",
+        "mots_cles": [
+          "Achraf Hakimi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "41cf9252dd268da413d2c491b4abd3c6fa9ab857",
+      "titre": "Égypte : Hossam Hassan n'est plus sélectionneur, Ali Maher prend sa place",
+      "resume": "La Fédération égyptienne a mis fin samedi aux fonctions d'Hossam Hassan, après des mois de polémiques liées à sa vie privée. Ali Maher lui succède aussitôt et affrontera le Malawi à deux reprises en novembre, en éliminatoires de la CAN 2027.",
+      "theme": "foot",
+      "pays": [
+        "EG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/egypte-hossam-hassan-vire-du-poste-de-selectionneur-a-cause-de-ses-problemes-conjugaux",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/08/egypte-hossam-hassan-limoge-de-son-poste-de-selectionneur/",
+        "https://africatopsports.com/football/egypte-le-selectionneur-hossam-hassan-limoge-officiel/"
+      ],
+      "publie_le": "2026-11-07T20:44:01.000Z",
+      "collecte_le": "2026-11-08T11:20:00.151Z",
+      "langue": "fr",
+      "slug": "egypte-hossam-hassan-est-plus-selectionneur-ali-maher-prend-sa-place-41cf92",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/41cf9252dd268da413d2c491b4abd3c6fa9ab857.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/41cf9252dd268da413d2c491b4abd3c6fa9ab857.webp",
+        "source": "wikimedia",
+        "credit": "Hossam el-Hamalawy",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hassan_el-Banna%27s_Son,_Ahmad_Seif_al-Islam.jpg",
+        "alt": "Hossam Hassan, ancien attaquant et sélectionneur de l'équipe d'Égypte",
+        "mots_cles": [
+          "Hossam Hassan"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7ac3e0f0c1005892f076745253c4db6c3e7c9758",
+      "titre": "Sénégal : Mamadou Sarr blessé, Patrick Vieira doit remplacer un défenseur",
+      "resume": "Touché au mollet gauche, le défenseur de la Real Sociedad manquera les deux matchs des Lions contre le Soudan, prévus le 12 puis le 16 novembre. Selon la presse sénégalaise, Massiré Sylla, de l'Union Saint-Gilloise, serait appelé pour la première fois.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/senegal-patrick-vieira-deja-confronte-a-un-forfait-dans-sa-liste",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/07/info-wiwsports-massire-sylla-convoque-par-patrick-vieira-apres-le-forfait-de-mamadou-sarr/",
+        "https://senego.com/mamadou-sarr-forfait-massire-sylla-pourrait-rejoindre-les-lions-selon-wiwsport_2021520.html"
+      ],
+      "publie_le": "2026-11-07T18:58:25.000Z",
+      "collecte_le": "2026-11-08T11:20:00.151Z",
+      "langue": "fr",
+      "slug": "senegal-mamadou-sarr-blesse-patrick-vieira-doit-remplacer-un-defenseur-7ac3e0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7ac3e0f0c1005892f076745253c4db6c3e7c9758.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7ac3e0f0c1005892f076745253c4db6c3e7c9758.webp",
+        "source": "wikimedia",
+        "credit": "Simon Heseltine",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+        "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal",
+        "mots_cles": [
+          "Patrick Vieira"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "2fe41306bdffe427f7d4a71e085d72f13855fe6e",
       "titre": "Sénégal : blessé au mollet, Mamadou Sarr déclare forfait contre le Soudan",
@@ -1990,141 +2127,6 @@
       ],
       "slug": "toulouse-rafik-messali-gravement-blesse-probablement-absent-jusqu-en-919025",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9190255f85fea072930d4cfa7a71a10e61b46ab3.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "eff05f6cce33fcf8d481c5f6a90a6d0522299a54",
-      "titre": "Mamelodi Sundowns sorti dès le 2e tour préliminaire de la Ligue des champions CAF",
-      "resume": "Le club sud-africain Mamelodi Sundowns ne jouera pas la phase de groupes de la Ligue des champions africaine cette saison. Il a été éliminé au deuxième tour préliminaire, une absence de taille pour la compétition.",
-      "theme": "foot",
-      "pays": [
-        "ZA"
-      ],
-      "competition": "Ligue des champions CAF",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football/ligue-des-champions-caf-mamelodi-sundowns-le-grand-absent-de-la-saison/",
-      "publie_le": "2026-10-27T16:17:56.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/eff05f6cce33fcf8d481c5f6a90a6d0522299a54.webp",
-        "source": "wikimedia",
-        "credit": "Carlo Bruil Fotografie",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Go_Ahead_Eagles_-_Mamelodi_Sundowns_FC_-_53066145739.jpg",
-        "alt": "Le club de football sud-africain Mamelodi Sundowns",
-        "mots_cles": [
-          "Mamelodi Sundowns F.C."
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://www.cafonline.com/caf-champions-league/news/angola-s-wiliete-dethrones-holders-mamelodi-sundowns-in-totalenergies-caf-champions-league-biggest-shock/",
-        "https://briefly.co.za/sports/football/256963-mamelodi-sundowns-crash-caf-champions-league-wiliete-sc-shock/"
-      ],
-      "slug": "mamelodi-sundowns-sorti-des-le-2e-tour-preliminaire-de-la-ligue-des-eff05f",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/eff05f6cce33fcf8d481c5f6a90a6d0522299a54.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "58fc607e6b292363b5f8d49324e7dc1c70fef6a9",
-      "titre": "Serie A : l'Algérien Rafik Belghali s'impose comme une révélation au Torino",
-      "resume": "Arrivé au Torino sans faire de bruit, le latéral algérien Rafik Belghali enchaîne les bonnes performances. Il est désormais cité parmi les belles surprises du début de saison en Italie.",
-      "theme": "foot",
-      "pays": [
-        "DZ",
-        "IT"
-      ],
-      "competition": "Serie A",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a5334343792104998872-torino-litalie-est-en-train-de-tomber-amoureuse-de-rafik-belghali",
-      "publie_le": "2026-10-27T16:07:08.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/58fc607e6b292363b5f8d49324e7dc1c70fef6a9.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Serie A »",
-        "mots_cles": [
-          "Rafik Belghali",
-          "torino football",
-          "serie a football"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "serie-algerien-rafik-belghali-impose-comme-une-revelation-au-torino-58fc60",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/58fc607e6b292363b5f8d49324e7dc1c70fef6a9.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "1e486a8459319d621082d29798e1bf4ad1805576",
-      "titre": "Sénégal : Pape Guèye s'explique sur sa sortie rapide contre les Belges au Mondial",
-      "resume": "Le milieu des Lions Pape Guèye est revenu sur sa Coupe du monde compliquée et sur son remplacement dès le début du match perdu contre la Belgique. Il reconnaît avoir réagi à chaud, sous l'effet de la déception.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Coupe du monde 2026",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/apres-son-mondial-difficile-pape-gueye-revient-sur-sa-sortie-contre-la-belgique_2017905.html",
-      "publie_le": "2026-10-27T15:33:19.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/1e486a8459319d621082d29798e1bf4ad1805576.webp",
-        "source": "wikimedia",
-        "credit": "Bryan Berlin",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Pape_Gueye_France_v_Senegal_16_June_2026-359.jpg",
-        "alt": "Pape Guèye, milieu de terrain international sénégalais",
-        "mots_cles": [
-          "Pape Gueye"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "senegal-pape-gueye-explique-sur-sa-sortie-rapide-contre-les-belges-au-1e486a",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1e486a8459319d621082d29798e1bf4ad1805576.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "446bf49cbaeced9cff3d5d9092e7a028ded24c5c",
-      "titre": "Arabie saoudite : Al-Faisaly et Abdoulaye Seck s'imposent 1-0 à Abha",
-      "resume": "Al-Faisaly, le club du défenseur sénégalais Abdoulaye Seck, a gagné 1-0 sur le terrain d'Abha mardi, lors d'un match en retard de la 8e journée. C'est seulement le deuxième succès de l'équipe en championnat, un résultat important dans la course au maintien.",
-      "theme": "foot",
-      "pays": [
-        "SN",
-        "SA"
-      ],
-      "competition": "Saudi Pro League",
-      "source_nom": "Wiwsport",
-      "source_url": "https://wiwsport.com/2026/10/27/saudi-pro-league-al-faisaly-dabdoulaye-seck-soffre-une-victoire-precieuse-face-a-abha-0-1/",
-      "autres_sources": [
-        "https://senego.com/al-faisaly-dabdoulaye-seck-bat-abha-0-1-et-relance-sa-lutte-pour-le-maintien_2017882.html"
-      ],
-      "publie_le": "2026-10-27T14:52:28.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/446bf49cbaeced9cff3d5d9092e7a028ded24c5c.webp",
-        "source": "wikimedia",
-        "credit": "feguifoot",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Abdoulaye_Seck.jpg",
-        "alt": "Abdoulaye Seck, défenseur international sénégalais",
-        "mots_cles": [
-          "Abdoulaye Seck"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "arabie-saoudite-al-faisaly-et-abdoulaye-seck-imposent-1-0-abha-446bf4",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/446bf49cbaeced9cff3d5d9092e7a028ded24c5c.json",
       "lecture_min": 1
     }
   ]

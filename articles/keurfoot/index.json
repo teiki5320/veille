@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-07T18:17:27.501Z",
+  "genere_le": "2026-11-08T11:20:05.998Z",
   "articles": [
+    {
+      "id": "5919fcd77c4a9c2f84e99bc9d29b7f297b29c083",
+      "slug": "le-nigeria-championne-du-monde-u17-une-premiere-pour-le-football-5919fc",
+      "titre": "Le Nigeria championne du monde U17, une première pour le football féminin africain",
+      "publie_le": "2026-11-08T10:12:20.000Z",
+      "redige_le": "2026-11-08T11:20:00.151Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/5919fcd77c4a9c2f84e99bc9d29b7f297b29c083.json"
+    },
+    {
+      "id": "2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751",
+      "slug": "caf-awards-2026-le-maroc-le-plus-de-nommes-devant-egypte-et-le-senegal-2d7e3e",
+      "titre": "CAF Awards 2026 : le Maroc a le plus de nommés, devant l'Égypte et le Sénégal",
+      "publie_le": "2026-11-07T22:50:12.000Z",
+      "redige_le": "2026-11-08T11:20:00.151Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751.json"
+    },
+    {
+      "id": "41cf9252dd268da413d2c491b4abd3c6fa9ab857",
+      "slug": "egypte-hossam-hassan-est-plus-selectionneur-ali-maher-prend-sa-place-41cf92",
+      "titre": "Égypte : Hossam Hassan n'est plus sélectionneur, Ali Maher prend sa place",
+      "publie_le": "2026-11-07T20:44:01.000Z",
+      "redige_le": "2026-11-08T11:20:00.151Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/41cf9252dd268da413d2c491b4abd3c6fa9ab857.json"
+    },
+    {
+      "id": "7ac3e0f0c1005892f076745253c4db6c3e7c9758",
+      "slug": "senegal-mamadou-sarr-blesse-patrick-vieira-doit-remplacer-un-defenseur-7ac3e0",
+      "titre": "Sénégal : Mamadou Sarr blessé, Patrick Vieira doit remplacer un défenseur",
+      "publie_le": "2026-11-07T18:58:25.000Z",
+      "redige_le": "2026-11-08T11:20:00.151Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7ac3e0f0c1005892f076745253c4db6c3e7c9758.json"
+    },
     {
       "id": "2fe41306bdffe427f7d4a71e085d72f13855fe6e",
       "slug": "senegal-blesse-au-mollet-mamadou-sarr-declare-forfait-contre-le-soudan-2fe413",

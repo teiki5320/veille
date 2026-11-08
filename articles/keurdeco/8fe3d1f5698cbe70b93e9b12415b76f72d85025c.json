@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "8fe3d1f5698cbe70b93e9b12415b76f72d85025c",
+  "slug": "sierra-leone-freetown-un-memorial-de-verre-et-de-lumiere-signe-8fe3d1",
+  "titre": "Sierra Leone : à Freetown, un mémorial de verre et de lumière signé Oshinówò Studio",
+  "chapo": "Le mémorial de Freetown, en Sierra Leone, s'offre une extension contemporaine en verre. Conçue par Oshinówò Studio, elle honore pour la première fois par leur nom les porteurs du Carrier Corps.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le monument d'origine, dessiné par l'architecte britannique Edwin Lutyens en 1931, rend hommage aux soldats tombés pendant la Première Guerre mondiale. Il vient d'être restauré et complété par une nouvelle structure, présentée au public ce week-end.",
+        "Le projet a été confié à Oshinówò Studio, l'agence fondée par l'architecte nigériane Tosin Oshinówò, retenue à l'issue d'un concours. Plus de 900 membres du Sierra Leone Carrier Corps, les porteurs chargés du transport du matériel, y sont désormais nommés un par un."
+      ]
+    },
+    {
+      "intertitre": "Un prisme de verre et de lumière",
+      "paragraphes": [
+        "La nouvelle pièce prend la forme d'un prisme en verre structurel haut de 8,4 mètres. Ses quatre ailettes de verre, qui pèsent ensemble 4 tonnes, diffusent une lueur colorée et se prolongent par un faisceau dirigé vers le ciel, visible dans un rayon de 5 kilomètres.",
+        "Le mémorial se trouve dans la cour du ministère des Finances, un lieu dont l'accès est contrôlé. La lumière permet au monument de rayonner au-delà de ce périmètre, sur toute la ville. Le faisceau sera allumé lors de dates marquantes de l'année, pour évoquer aussi d'autres drames de l'histoire du pays."
+      ]
+    },
+    {
+      "intertitre": "Un chantier techniquement délicat",
+      "paragraphes": [
+        "La structure de Lutyens n'avait pas été conçue pour porter un tel poids. L'équipe a donc mis au point un système de renfort qui préserve la maçonnerie d'origine, que l'architecte compare avec humour à un soin dentaire.",
+        "Ingénieurs, spécialistes du verre et du laser et entreprises de construction venus du Nigeria, des Pays-Bas, d'Espagne, de Sierra Leone et du Royaume-Uni ont travaillé ensemble. Des tailleurs de pierre et des spécialistes du bronze ont, eux, restauré l'ancien monument."
+      ]
+    },
+    {
+      "intertitre": "Une épitaphe en krio et en anglais",
+      "paragraphes": [
+        "Un texte des poètes Nii Ayikwei Parkes et Julianknxx, écrit en krio et en anglais, est gravé sur le pavillon. Pour la Commonwealth War Graves Commission, commanditaire de l'œuvre, il s'agit de réparer un oubli de l'histoire : honorer de la même façon tous ceux qui sont morts pour le Commonwealth pendant la Première Guerre mondiale."
+      ]
+    }
+  ],
+  "mots": 358,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "SL",
+    "NG"
+  ],
+  "source_nom": "Wallpaper*",
+  "source_url": "https://www.wallpaper.com/architecture/freetown-memorial-oshinowo-studio-sierra-leone",
+  "publie_le": "2026-11-07T19:30:00.000Z",
+  "redige_le": "2026-11-08T11:19:58.911Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/8fe3d1f5698cbe70b93e9b12415b76f72d85025c.webp",
+    "source": "wikimedia",
+    "credit": "Adrian Turner",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:MV_Karadeniz_Powership_Do%C4%9Fan_Bey,_Freetown,_Sierra_Leone.jpg",
+    "alt": "Une vue de Freetown, capitale de la Sierra Leone",
+    "mots_cles": [
+      "Freetown"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

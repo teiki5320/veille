@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "af51abaeff31565c4f9aed180d9e3abad9a2e6de",
+  "slug": "cumul-emploi-retraite-des-regles-nettement-plus-strictes-des-le-1er-af51ab",
+  "titre": "Cumul emploi-retraite : des règles nettement plus strictes dès le 1er janvier 2027",
+  "chapo": "Travailler tout en percevant sa retraite deviendra bien moins intéressant pour les nouveaux retraités à partir de 2027. Deux décrets parus cette semaine fixent les nouvelles règles.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Reprendre une activité après avoir liquidé sa pension reste permis, que ce soit comme salarié ou comme indépendant. Mais les conditions se resserrent fortement pour celles et ceux qui partiront à la retraite à compter du 1er janvier 2027.",
+        "Deux textes réglementaires, publiés cette semaine, précisent ce nouveau cadre. Le changement vise les nouveaux retraités."
+      ]
+    },
+    {
+      "intertitre": "Avant l'âge légal : plus de cumul possible",
+      "paragraphes": [
+        "Une personne qui part avant l'âge légal, par exemple parce qu'elle a commencé à travailler jeune, ne pourra plus additionner les deux revenus. Tous les revenus tirés de son nouveau travail seront déduits de sa pension l'année d'après, euro pour euro.",
+        "Reprendre un travail ne lui permettra donc plus d'améliorer ses ressources, souligne Marilyn Vilardebo, du cabinet Origami & Co, interrogée par Franceinfo."
+      ]
+    },
+    {
+      "intertitre": "De l'âge légal à 67 ans : un plafond de 7 000 euros",
+      "paragraphes": [
+        "Partir pile à l'âge légal offre un régime moins sévère. Jusqu'à 67 ans, la pension reste versée en entier, à une condition : respecter un plafond annuel de 7 000 euros brut, pour les revenus tirés du travail.",
+        "Au-delà de ce seuil, la retraite baisse de la moitié du dépassement. Exemple : avec 15 000 euros brut gagnés dans l'année, le surplus atteint 8 000 euros, et la pension de l'année suivante perd 4 000 euros."
+      ]
+    },
+    {
+      "intertitre": "Salariés et indépendants concernés",
+      "paragraphes": [
+        "La règle vaut pour toute activité reprise, sous contrat de travail ou à son compte. Les dirigeants de TPE et les travailleurs indépendants qui comptaient garder une activité après leur départ doivent donc tenir compte de ces seuils dans leur calendrier. Le choix de la date de départ, avant ou à l'âge légal, change en effet fortement ce qu'il sera possible de gagner en plus de la pension."
+      ]
+    }
+  ],
+  "mots": 314,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Franceinfo",
+  "source_url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/cumuler-une-pension-de-retraite-et-un-salaire-les-regles-seront-moins-favorables-a-partir-du-1er-janvier_8232067.html",
+  "publie_le": "2026-11-08T08:00:04.000Z",
+  "redige_le": "2026-11-08T11:20:06.013Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/af51abaeff31565c4f9aed180d9e3abad9a2e6de.webp",
+    "source": "wikimedia",
+    "credit": "Cnav",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:L%E2%80%99Assurance_retraite_Caisse_nationale.png",
+    "alt": "Un bâtiment de l'Assurance retraite",
+    "mots_cles": [
+      "Caisse nationale d'assurance vieillesse"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

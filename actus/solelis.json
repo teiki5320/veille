@@ -1,8 +1,72 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-07T18:17:16.714Z",
+  "genere_le": "2026-11-08T11:20:06.013Z",
   "actus": [
+    {
+      "id": "af51abaeff31565c4f9aed180d9e3abad9a2e6de",
+      "titre": "Cumul emploi-retraite : des règles nettement plus strictes dès le 1er janvier 2027",
+      "resume": "Deux décrets publiés cette semaine durcissent les conditions pour travailler tout en touchant sa pension. Avant l'âge légal, chaque euro gagné sera retiré de la retraite ; entre l'âge légal et 67 ans, les revenus au-delà de 7 000 euros brut annuels réduiront la pension.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Franceinfo",
+      "source_url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/cumuler-une-pension-de-retraite-et-un-salaire-les-regles-seront-moins-favorables-a-partir-du-1er-janvier_8232067.html",
+      "publie_le": "2026-11-08T08:00:04.000Z",
+      "collecte_le": "2026-11-08T11:20:06.013Z",
+      "langue": "fr",
+      "slug": "cumul-emploi-retraite-des-regles-nettement-plus-strictes-des-le-1er-af51ab",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/af51abaeff31565c4f9aed180d9e3abad9a2e6de.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/af51abaeff31565c4f9aed180d9e3abad9a2e6de.webp",
+        "source": "wikimedia",
+        "credit": "Cnav",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:L%E2%80%99Assurance_retraite_Caisse_nationale.png",
+        "alt": "Un bâtiment de l'Assurance retraite",
+        "mots_cles": [
+          "Caisse nationale d'assurance vieillesse"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9150591f96a030cb9ac69c3f71d2cca3dc18ce08",
+      "titre": "Smic : le ministre du Travail écarte une forte hausse avant la conférence sociale",
+      "resume": "Jean-Pierre Farandou refuse une revalorisation du salaire minimum qui, selon lui, fragiliserait des entreprises. Une hausse pourrait toutefois s'appliquer dès le 1er décembre si patronat et syndicats s'entendent vite lors de la conférence sociale de lundi à Matignon.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/economie/achat/smic-une-hausse-excessive-menacerait-certaines-entreprises-et-nuirait-a-l-emploi-previent-le-ministre-du-travail-jean-pierre-farandou-31439305.php",
+      "autres_sources": [
+        "https://www.20minutes.fr/societe/4261245-20261108-preserver-emploi-ministre-travail-refuse-hausse-excessive-smic?at_medium=display&at_campaign=149",
+        "https://www.bfmtv.com/economie/entreprises/video-colere-sociale-le-syndicat-des-independants-et-des-tpe-n-est-pas-contre-une-augmentation-des-salaires-mais-demande-une-compensation_VN-202611080138.html"
+      ],
+      "publie_le": "2026-11-08T07:24:19.000Z",
+      "collecte_le": "2026-11-08T11:20:06.013Z",
+      "langue": "fr",
+      "slug": "smic-le-ministre-du-travail-ecarte-une-forte-hausse-avant-la-915059",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/9150591f96a030cb9ac69c3f71d2cca3dc18ce08.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/9150591f96a030cb9ac69c3f71d2cca3dc18ce08.webp",
+        "source": "wikimedia",
+        "credit": "Maxime Huriez",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:SNCF_Jean-Pierre_Farandou_(cropped).jpg",
+        "alt": "Jean-Pierre Farandou, ministre du Travail",
+        "mots_cles": [
+          "Jean-Pierre Farandou"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "6d1884febb5d2bd5a42f304aac3e17850b9d2adb",
       "titre": "Sécheresse en Ariège : l'aide d'urgence aux exploitations agricoles portée à 1,27 M€",

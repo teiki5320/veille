@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "41cf9252dd268da413d2c491b4abd3c6fa9ab857",
+  "slug": "egypte-hossam-hassan-est-plus-selectionneur-ali-maher-prend-sa-place-41cf92",
+  "titre": "Égypte : Hossam Hassan n'est plus sélectionneur, Ali Maher prend sa place",
+  "chapo": "La Fédération égyptienne a mis fin samedi 7 novembre aux fonctions d'Hossam Hassan à la tête des Pharaons. Ali Maher prend sa suite sans attendre, à quelques jours de deux matchs contre le Malawi.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La décision a été prise lors d'une réunion du comité exécutif de la fédération (EFA), le samedi 7 novembre. Hossam Hassan, 60 ans, quitte son poste avec tout son encadrement technique et administratif. Le stage de la sélection commence le lundi 9 novembre, soit deux jours plus tard.",
+        "Dans son communiqué, l'instance évoque des événements récents et leurs effets sur l'image et la stabilité de l'équipe nationale. Elle précise que la séparation respecte les clauses prévues au contrat."
+      ]
+    },
+    {
+      "intertitre": "Une fin liée à des polémiques privées",
+      "paragraphes": [
+        "Depuis plusieurs mois, l'ancien attaquant était au centre de disputes publiques avec ses ex-épouses, largement reprises dans les émissions de télévision et de radio comme en ligne. L'autorité égyptienne de régulation des médias lui avait ensuite interdit d'apparaître en public, pour atteinte aux règles sur la vie privée.",
+        "Cette interdiction compliquait sa mission : il devait présenter très bientôt la liste des joueurs retenus. Selon la presse, plusieurs anciennes gloires du football égyptien avaient aussi critiqué certaines de ses prises de parole."
+      ]
+    },
+    {
+      "intertitre": "Un nom majeur du football égyptien",
+      "paragraphes": [
+        "Hossam Hassan a gagné la Coupe d'Afrique des nations à trois reprises, en 1986, 1998 et 2006. Comme sélectionneur, il a conduit l'Égypte jusqu'aux huitièmes de finale du Mondial 2026, où l'Argentine l'a éliminée, puis dans le dernier carré de la CAN, où le Sénégal l'a battue.",
+        "Il figure d'ailleurs parmi les nommés au titre d'entraîneur de l'année aux CAF Awards 2026."
+      ]
+    },
+    {
+      "intertitre": "Ali Maher attendu face au Malawi",
+      "paragraphes": [
+        "Son successeur, Ali Maher, prend ses fonctions immédiatement. Il dirigera les Pharaons face au Malawi le 13 novembre à domicile, puis le 17 à l'extérieur, pour les 3e et 4e journées des éliminatoires de la CAN 2027.",
+        "L'Égypte mène le groupe B avec quatre points, après un nul sans but face à l'Angola et une large victoire 5-0 contre le Soudan du Sud. La liste des joueurs convoqués doit être publiée dans les prochaines heures."
+      ]
+    }
+  ],
+  "mots": 350,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "EG"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/egypte-hossam-hassan-vire-du-poste-de-selectionneur-a-cause-de-ses-problemes-conjugaux",
+  "autres_sources": [
+    "https://wiwsport.com/2026/11/08/egypte-hossam-hassan-limoge-de-son-poste-de-selectionneur/",
+    "https://africatopsports.com/football/egypte-le-selectionneur-hossam-hassan-limoge-officiel/"
+  ],
+  "publie_le": "2026-11-07T20:44:01.000Z",
+  "redige_le": "2026-11-08T11:20:00.151Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/41cf9252dd268da413d2c491b4abd3c6fa9ab857.webp",
+    "source": "wikimedia",
+    "credit": "Hossam el-Hamalawy",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hassan_el-Banna%27s_Son,_Ahmad_Seif_al-Islam.jpg",
+    "alt": "Hossam Hassan, ancien attaquant et sélectionneur de l'équipe d'Égypte",
+    "mots_cles": [
+      "Hossam Hassan"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

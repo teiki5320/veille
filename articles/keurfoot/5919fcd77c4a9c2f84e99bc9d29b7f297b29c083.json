@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "5919fcd77c4a9c2f84e99bc9d29b7f297b29c083",
+  "slug": "le-nigeria-championne-du-monde-u17-une-premiere-pour-le-football-5919fc",
+  "titre": "Le Nigeria championne du monde U17, une première pour le football féminin africain",
+  "chapo": "Le Nigeria a remporté samedi 7 novembre à Rabat la Coupe du monde féminine des moins de 17 ans, grâce à sa victoire 2-1 contre le Japon. C'est le premier titre mondial d'une sélection féminine africaine.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La finale s'est jouée au Maroc, pays hôte de la compétition. Awawu Bashiru a donné l'avantage aux Nigérianes à la 39e minute, sur une frappe de loin que la gardienne japonaise Kou Kadowaki n'a pas réussi à capter.",
+        "Juste après la pause, Oluebube Umejiaku a doublé la mise d'un lob. Le Japon a réduit l'écart par Fuki Ito dans les dix dernières minutes, mais les joueuses entraînées par Akeem Busari ont tenu bon jusqu'au bout."
+      ]
+    },
+    {
+      "intertitre": "Un départ raté, puis une montée en puissance",
+      "paragraphes": [
+        "Le tournoi avait pourtant mal commencé pour les Flamingos, battues 2-0 par la Pologne lors de leur premier match. Elles ont ensuite battu 3-1 la championne sortante, la Corée du Nord, en phase de groupes, avant de sortir le Brésil en demi-finale, encore par 3-1.",
+        "En face, le Japon disputait sa quatrième finale dans cette catégorie, après un titre obtenu en 2014."
+      ]
+    },
+    {
+      "intertitre": "Umejiaku, joueuse du tournoi",
+      "paragraphes": [
+        "Désignée meilleure joueuse de la compétition, Oluebube Umejiaku a pesé sur chacun des sept matchs de son équipe : elle a marqué, donné une passe décisive ou obtenu un penalty à chaque sortie. Son but en finale a mis le Nigeria à l'abri.",
+        "Ce sacre met en lumière une nouvelle génération de footballeuses nigérianes, appelée à porter plus haut le football féminin du continent."
+      ]
+    },
+    {
+      "intertitre": "Une longue attente prend fin",
+      "paragraphes": [
+        "L'Afrique avait déjà frôlé un titre mondial chez les femmes. Les Falconets, l'équipe nigériane des moins de 20 ans, avaient perdu deux finales, en 2010 et en 2014, chaque fois contre l'Allemagne. Chez les moins de 17 ans, le meilleur résultat du Nigeria restait jusque-là une troisième place, en 2022.",
+        "Le pays devient aussi le premier d'Afrique à avoir été sacré au niveau mondial chez les moins de 17 ans à la fois chez les garçons et chez les filles. Les garçons ont gagné cinq fois leur Mondial : en 1985 puis en 1993, 2007, 2013 et 2015."
+      ]
+    }
+  ],
+  "mots": 352,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "NG",
+    "JP"
+  ],
+  "competition": "Coupe du monde féminine U17",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-feminine-u17-lafrique-decroche-un-sacre-historique-au-maroc",
+  "publie_le": "2026-11-08T10:12:20.000Z",
+  "redige_le": "2026-11-08T11:20:00.151Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/5919fcd77c4a9c2f84e99bc9d29b7f297b29c083.webp",
+    "source": "wikimedia",
+    "credit": "David Jane Footballer",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:After_training_with_my_team_mates_in_the_National_Camp_Super_Falcon_in_Abuja_Nigeria.JPG",
+    "alt": "Des joueuses de l'équipe du Nigeria de football féminin",
+    "mots_cles": [
+      "Nigeria women's national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

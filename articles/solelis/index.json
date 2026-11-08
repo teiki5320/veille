@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-07T18:17:16.748Z",
+  "genere_le": "2026-11-08T11:20:08.984Z",
   "articles": [
+    {
+      "id": "af51abaeff31565c4f9aed180d9e3abad9a2e6de",
+      "slug": "cumul-emploi-retraite-des-regles-nettement-plus-strictes-des-le-1er-af51ab",
+      "titre": "Cumul emploi-retraite : des règles nettement plus strictes dès le 1er janvier 2027",
+      "publie_le": "2026-11-08T08:00:04.000Z",
+      "redige_le": "2026-11-08T11:20:06.013Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/af51abaeff31565c4f9aed180d9e3abad9a2e6de.json"
+    },
+    {
+      "id": "9150591f96a030cb9ac69c3f71d2cca3dc18ce08",
+      "slug": "smic-le-ministre-du-travail-ecarte-une-forte-hausse-avant-la-915059",
+      "titre": "Smic : le ministre du Travail écarte une forte hausse avant la conférence sociale",
+      "publie_le": "2026-11-08T07:24:19.000Z",
+      "redige_le": "2026-11-08T11:20:06.013Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/9150591f96a030cb9ac69c3f71d2cca3dc18ce08.json"
+    },
     {
       "id": "6d1884febb5d2bd5a42f304aac3e17850b9d2adb",
       "slug": "secheresse-en-ariege-aide-urgence-aux-exploitations-agricoles-portee-1-6d1884",

@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-07T18:16:24.991Z",
+  "genere_le": "2026-11-08T11:19:51.923Z",
   "actus": [
+    {
+      "id": "0fa8bd52be99a4279907a97ac964bc75baae696a",
+      "titre": "Afrique du Sud : les évêques rendent hommage au cardinal Napier, fêté pour cinq jubilés",
+      "resume": "Le diocèse de Kokstad célèbre ce dimanche 8 novembre une messe d'action de grâce pour le cardinal Wilfrid Fox Napier. Elle marque ses 85 ans, 65 ans de vie religieuse franciscaine, 56 ans de sacerdoce, 45 ans d'épiscopat et 25 ans de cardinalat.",
+      "theme": "culture",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25209/south-africas-catholic-bishops-honour-cardinal-napiers-courage-simplicity-ahead-of-fivefold-jubilee",
+      "publie_le": "2026-11-07T20:55:00.000Z",
+      "collecte_le": "2026-11-08T11:19:51.923Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-les-eveques-rendent-hommage-au-cardinal-napier-fete-0fa8bd",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/0fa8bd52be99a4279907a97ac964bc75baae696a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/0fa8bd52be99a4279907a97ac964bc75baae696a.webp",
+        "source": "openverse",
+        "credit": "blizzy63",
+        "licence": "Domaine public (PDM)",
+        "page": "https://www.flickr.com/photos/45379817@N08/16872511340",
+        "alt": "L'intérieur d'une église catholique",
+        "mots_cles": [
+          "catholic cathedral interior"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "68978cb7ac73791da33a9be7e4a4ea24bc1841c4",
+      "titre": "Mozambique : l'Église catholique publie un nouveau guide pour la catéchèse",
+      "resume": "Présenté le 7 novembre à Maputo, le nouveau directoire national de la catéchèse remplace celui de 1996. Il insiste sur la formation des catéchistes et sur le rôle des familles dans la transmission de la foi.",
+      "theme": "culture",
+      "pays": [
+        "MZ"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25215/mozambiques-new-catechetical-directory-calls-for-better-formation-of-catechists",
+      "publie_le": "2026-11-07T13:59:00.000Z",
+      "collecte_le": "2026-11-08T11:19:51.923Z",
+      "langue": "en",
+      "slug": "mozambique-eglise-catholique-publie-un-nouveau-guide-pour-la-catechese-68978c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/68978cb7ac73791da33a9be7e4a4ea24bc1841c4.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/68978cb7ac73791da33a9be7e4a4ea24bc1841c4.webp",
+        "source": "wikimedia",
+        "credit": "Alexander Leisser",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cathedral_of_maputo_05.jpg",
+        "alt": "La cathédrale Notre-Dame-de-l'Immaculée-Conception de Maputo",
+        "mots_cles": [
+          "Cathedral of Our Lady of the Immaculate Conception, Maputo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "965551d917c20287680ea86b47588667f22c8217",
       "titre": "Kenya : six nouveaux prêtres ordonnés à Eldoret, appelés à l'humilité et au service",

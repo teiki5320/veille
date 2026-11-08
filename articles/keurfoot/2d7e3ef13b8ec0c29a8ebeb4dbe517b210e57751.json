@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751",
+  "slug": "caf-awards-2026-le-maroc-le-plus-de-nommes-devant-egypte-et-le-senegal-2d7e3e",
+  "titre": "CAF Awards 2026 : le Maroc a le plus de nommés, devant l'Égypte et le Sénégal",
+  "chapo": "Les listes des CAF Awards 2026 sont connues. Cinq pays réunissent 45 des 70 nominations, avec le Maroc nettement en tête.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La Confédération africaine de football a publié mercredi 4 novembre les nommés de ses récompenses annuelles. Sept catégories sont concernées : joueur de l'année, souvent appelé Ballon d'Or africain, gardien, joueur interclubs, entraîneur, jeune joueur, sélection et club de l'année.",
+        "Le Maroc, l'Égypte, le Sénégal, l'Algérie puis la Côte d'Ivoire se partagent à eux cinq environ deux tiers des places."
+      ]
+    },
+    {
+      "intertitre": "Le Maroc loin devant",
+      "paragraphes": [
+        "Avec 16 nominations, le Maroc domine. Pour le titre de joueur de l'année, il place Achraf Hakimi, Brahim Diaz et Ismael Saibari. Yassine Bounou et Ahmed Reda Tagnaouti figurent chez les gardiens, Walid Regragui et Mohamed Ouahbi chez les entraîneurs.",
+        "Trois clubs marocains sont en lice, l'AS FAR, l'OC Safi et la RS Berkane, et la sélection nationale est elle aussi citée."
+      ]
+    },
+    {
+      "intertitre": "L'Égypte et le Sénégal suivent",
+      "paragraphes": [
+        "L'Égypte compte neuf nommés, dont les gardiens Mostafa Shobeir et El-Mahdi Soliman, Trezeguet chez les joueurs interclubs et le Zamalek parmi les clubs. Hossam Hassan, démis samedi de son poste de sélectionneur, figure dans la liste des entraîneurs.",
+        "Le Sénégal arrive troisième avec huit nommés. Sadio Mané, Ismaïla Sarr et Pape Gueye visent le Ballon d'Or africain, tandis qu'Édouard Mendy est cité parmi les gardiens. Pape Thiaw et Lamine N'Diaye sont cités chez les entraîneurs, Ibrahim Mbaye chez les jeunes, et les Lions parmi les sélections."
+      ]
+    },
+    {
+      "intertitre": "Algériens et Ivoiriens complètent le top 5",
+      "paragraphes": [
+        "L'Algérie place sept noms, dont le jeune Ibrahim Maza, le gardien Oussama Benbot et deux clubs, l'USM Alger et le CR Belouizdad. La Côte d'Ivoire en compte cinq, avec Amad Diallo pour le Ballon d'Or africain et Yahia Fofana chez les gardiens.",
+        "Les vainqueurs seront désignés le 7 décembre lors d'une cérémonie organisée à Lagos, au Nigeria."
+      ]
+    }
+  ],
+  "mots": 302,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "EG",
+    "SN",
+    "DZ",
+    "CI"
+  ],
+  "competition": "Ballon d'Or africain",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/ballon-dor-africain-2026-maroc-senegal-algerie-cote-divoire-qui-a-le-plus-de-nommes-aux-caf-awards",
+  "publie_le": "2026-11-07T22:50:12.000Z",
+  "redige_le": "2026-11-08T11:20:00.151Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751.webp",
+    "source": "wikimedia",
+    "credit": "Nawfel Ajari",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
+    "alt": "Achraf Hakimi, défenseur de l'équipe du Maroc",
+    "mots_cles": [
+      "Achraf Hakimi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

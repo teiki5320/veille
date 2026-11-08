@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-07T18:16:25.007Z",
+  "genere_le": "2026-11-08T11:19:58.882Z",
   "articles": [
+    {
+      "id": "0fa8bd52be99a4279907a97ac964bc75baae696a",
+      "slug": "afrique-du-sud-les-eveques-rendent-hommage-au-cardinal-napier-fete-0fa8bd",
+      "titre": "Afrique du Sud : les évêques rendent hommage au cardinal Napier, fêté pour cinq jubilés",
+      "publie_le": "2026-11-07T20:55:00.000Z",
+      "redige_le": "2026-11-08T11:19:51.923Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/0fa8bd52be99a4279907a97ac964bc75baae696a.json"
+    },
+    {
+      "id": "68978cb7ac73791da33a9be7e4a4ea24bc1841c4",
+      "slug": "mozambique-eglise-catholique-publie-un-nouveau-guide-pour-la-catechese-68978c",
+      "titre": "Mozambique : l'Église catholique publie un nouveau guide pour la catéchèse",
+      "publie_le": "2026-11-07T13:59:00.000Z",
+      "redige_le": "2026-11-08T11:19:51.923Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/68978cb7ac73791da33a9be7e4a4ea24bc1841c4.json"
+    },
     {
       "id": "965551d917c20287680ea86b47588667f22c8217",
       "slug": "kenya-six-nouveaux-pretres-ordonnes-eldoret-appeles-humilite-et-au-965551",

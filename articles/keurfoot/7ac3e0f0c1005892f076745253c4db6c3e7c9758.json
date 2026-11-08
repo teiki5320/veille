@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "7ac3e0f0c1005892f076745253c4db6c3e7c9758",
+  "slug": "senegal-mamadou-sarr-blesse-patrick-vieira-doit-remplacer-un-defenseur-7ac3e0",
+  "titre": "Sénégal : Mamadou Sarr blessé, Patrick Vieira doit remplacer un défenseur",
+  "chapo": "Le Sénégal perd Mamadou Sarr pour sa double confrontation avec le Soudan en éliminatoires de la CAN 2027. Le défenseur central de 21 ans souffre d'une lésion musculaire.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La Real Sociedad a publié samedi 7 novembre le bilan médical de son joueur. Les examens montrent une blessure au muscle soléaire de la jambe gauche. Le club espagnol n'a pas donné de durée d'absence, mais Mamadou Sarr devrait rester éloigné des terrains au moins deux à trois semaines.",
+        "Le défenseur, prêté par Chelsea, avait quitté la pelouse à la mi-temps du match de Ligue Europa contre l'Olympique lyonnais, le soir même où Patrick Vieira dévoilait sa liste de 25 joueurs. Son entraîneur, Pellegrino Matarazzo, a indiqué qu'il ne reviendrait pas avant la fin de la trêve internationale."
+      ]
+    },
+    {
+      "intertitre": "Massiré Sylla pressenti",
+      "paragraphes": [
+        "Pour le remplacer, le sélectionneur aurait choisi Massiré Sylla, 21 ans, qui joue en Belgique à l'Union Saint-Gilloise, d'après le site Wiwsport. La Fédération sénégalaise de football n'avait pas encore confirmé ce choix samedi.",
+        "Si elle se confirme, cette convocation serait la première du joueur en équipe A, après un bon début de saison dans le championnat belge."
+      ]
+    },
+    {
+      "intertitre": "Une autre inquiétude en défense",
+      "paragraphes": [
+        "Un deuxième défenseur pourrait manquer à l'appel. Krépin Diatta, 27 ans, qui évolue arrière droit, a dû quitter le terrain blessé samedi avec Watford, en deuxième division anglaise.",
+        "Mamadou Sarr, neuf sélections, n'était pas un titulaire indiscutable sous Patrick Vieira. Il avait suivi du banc les matchs face au Mozambique (1-1) et à l'Éthiopie (0-1), avant de jouer l'intégralité du match amical contre les Comores."
+      ]
+    },
+    {
+      "intertitre": "Deux matchs importants",
+      "paragraphes": [
+        "Les Lions de la Teranga sont deuxièmes du groupe J, à égalité de points avec le Mozambique mais derrière lui à la différence de buts. Deux succès contre les Soudanais rapprocheraient nettement le Sénégal de la phase finale de la CAN 2027. Ces rencontres comptent pour les 3e et 4e journées de la campagne qualificative."
+      ]
+    }
+  ],
+  "mots": 315,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/senegal-patrick-vieira-deja-confronte-a-un-forfait-dans-sa-liste",
+  "autres_sources": [
+    "https://wiwsport.com/2026/11/07/info-wiwsports-massire-sylla-convoque-par-patrick-vieira-apres-le-forfait-de-mamadou-sarr/",
+    "https://senego.com/mamadou-sarr-forfait-massire-sylla-pourrait-rejoindre-les-lions-selon-wiwsport_2021520.html"
+  ],
+  "publie_le": "2026-11-07T18:58:25.000Z",
+  "redige_le": "2026-11-08T11:20:00.151Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/7ac3e0f0c1005892f076745253c4db6c3e7c9758.webp",
+    "source": "wikimedia",
+    "credit": "Simon Heseltine",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
+    "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal",
+    "mots_cles": [
+      "Patrick Vieira"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

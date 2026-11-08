@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-07T18:16:26.955Z",
+  "genere_le": "2026-11-08T11:19:58.911Z",
   "actus": [
+    {
+      "id": "8fe3d1f5698cbe70b93e9b12415b76f72d85025c",
+      "titre": "Sierra Leone : à Freetown, un mémorial de verre et de lumière signé Oshinówò Studio",
+      "resume": "L'agence de l'architecte Tosin Oshinówò a ajouté un prisme de verre illuminé au monument de Freetown dessiné par Edwin Lutyens en 1931. Les noms de plus de 900 porteurs sierra-léonais morts pendant la Première Guerre mondiale y sont gravés pour la première fois.",
+      "theme": "deco",
+      "pays": [
+        "SL",
+        "NG"
+      ],
+      "source_nom": "Wallpaper*",
+      "source_url": "https://www.wallpaper.com/architecture/freetown-memorial-oshinowo-studio-sierra-leone",
+      "publie_le": "2026-11-07T19:30:00.000Z",
+      "collecte_le": "2026-11-08T11:19:58.911Z",
+      "langue": "en",
+      "slug": "sierra-leone-freetown-un-memorial-de-verre-et-de-lumiere-signe-8fe3d1",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/8fe3d1f5698cbe70b93e9b12415b76f72d85025c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/8fe3d1f5698cbe70b93e9b12415b76f72d85025c.webp",
+        "source": "wikimedia",
+        "credit": "Adrian Turner",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:MV_Karadeniz_Powership_Do%C4%9Fan_Bey,_Freetown,_Sierra_Leone.jpg",
+        "alt": "Une vue de Freetown, capitale de la Sierra Leone",
+        "mots_cles": [
+          "Freetown"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f54fa3b5e1385817b17839cf3ff4b4f5649ff69a",
       "titre": "À Londres, le Design Museum montre la diversité du design noir contemporain",

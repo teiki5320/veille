@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "9150591f96a030cb9ac69c3f71d2cca3dc18ce08",
+  "slug": "smic-le-ministre-du-travail-ecarte-une-forte-hausse-avant-la-915059",
+  "titre": "Smic : le ministre du Travail écarte une forte hausse avant la conférence sociale",
+  "chapo": "À la veille de la conférence sociale du lundi 9 novembre, le ministre du Travail pose une limite : pas de hausse du Smic qu'il jugerait dangereuse pour l'emploi. Un coup de pouce reste possible dès décembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jean-Pierre Farandou s'est exprimé dans un entretien à La Tribune Dimanche. Il assure qu'il ne proposera aucune mesure susceptible de coûter des emplois et estime qu'une augmentation trop forte mettrait en difficulté des entreprises déjà fragiles.",
+        "Le Premier ministre, Sébastien Lecornu, réunit lundi à Matignon les organisations patronales et syndicales pour parler de salaires et de pouvoir d'achat, après plusieurs journées de mobilisation sociale."
+      ]
+    },
+    {
+      "intertitre": "Les chiffres sur la table",
+      "paragraphes": [
+        "Le Smic mensuel net s'élève aujourd'hui à 1 477,93 euros. Le ministre a déjà dit souhaiter qu'il passe au-dessus de 1 500 euros, sans fixer de montant. Il chiffre en revanche l'effet d'un Smic porté à 1 700 euros net : plus de 230 000 emplois perdus, selon lui.",
+        "Les syndicats demandent davantage. La CFDT réclame 100 euros net supplémentaires, la CGT une hausse de 10 %, soit environ 150 euros par mois."
+      ]
+    },
+    {
+      "intertitre": "Le coût du travail au cœur du débat pour les TPE",
+      "paragraphes": [
+        "Pour les petites entreprises, la question porte d'abord sur le coût d'une hausse. Le SDI, qui représente indépendants et TPE, se dit ouvert à une augmentation des salaires, à condition d'obtenir une compensation.",
+        "Le ministre rappelle de son côté qu'une revalorisation ne ferait pas disparaître la prime d'activité. Pour un salarié célibataire au Smic, cette aide d'environ 230 euros porte le revenu disponible autour de 1 700 euros net par mois."
+      ]
+    },
+    {
+      "intertitre": "Un calendrier serré",
+      "paragraphes": [
+        "Selon Jean-Pierre Farandou, si un accord est trouvé vite, une hausse pourrait s'appliquer à partir du 1er décembre. Le gouvernement doit aussi présenter des pistes pour relancer les négociations annuelles obligatoires, dans les entreprises comme dans les branches professionnelles."
+      ]
+    }
+  ],
+  "mots": 303,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/achat/smic-une-hausse-excessive-menacerait-certaines-entreprises-et-nuirait-a-l-emploi-previent-le-ministre-du-travail-jean-pierre-farandou-31439305.php",
+  "autres_sources": [
+    "https://www.20minutes.fr/societe/4261245-20261108-preserver-emploi-ministre-travail-refuse-hausse-excessive-smic?at_medium=display&at_campaign=149",
+    "https://www.bfmtv.com/economie/entreprises/video-colere-sociale-le-syndicat-des-independants-et-des-tpe-n-est-pas-contre-une-augmentation-des-salaires-mais-demande-une-compensation_VN-202611080138.html"
+  ],
+  "publie_le": "2026-11-08T07:24:19.000Z",
+  "redige_le": "2026-11-08T11:20:06.013Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/9150591f96a030cb9ac69c3f71d2cca3dc18ce08.webp",
+    "source": "wikimedia",
+    "credit": "Maxime Huriez",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:SNCF_Jean-Pierre_Farandou_(cropped).jpg",
+    "alt": "Jean-Pierre Farandou, ministre du Travail",
+    "mots_cles": [
+      "Jean-Pierre Farandou"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
