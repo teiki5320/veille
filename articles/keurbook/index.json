@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-08T11:19:58.891Z",
+  "genere_le": "2026-11-08T18:17:15.940Z",
   "articles": [
+    {
+      "id": "06f08b4f2b89eafeea67ff37d30d7892cfd706a1",
+      "slug": "filles-de-mexico-le-roman-latino-americain-de-sami-tchak-remis-en-06f08b",
+      "titre": "« Filles de Mexico » : le roman latino-américain de Sami Tchak remis en lumière",
+      "publie_le": "2026-11-08T16:25:13.000Z",
+      "redige_le": "2026-11-08T18:17:12.338Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/06f08b4f2b89eafeea67ff37d30d7892cfd706a1.json"
+    },
     {
       "id": "bf4d10d821b824220ce9e3cb505c75652ce619e6",
       "slug": "dakar-la-34e-journee-de-ecrivain-africain-met-la-paix-au-coeur-des-bf4d10",

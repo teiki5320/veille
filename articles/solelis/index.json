@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-08T11:21:19.207Z",
+  "genere_le": "2026-11-08T18:17:44.580Z",
   "articles": [
+    {
+      "id": "128a79357a732a9be3ff9684050ec4da56e7c20c",
+      "slug": "la-rochelle-deux-dimanches-ouverts-pour-compenser-les-pertes-des-128a79",
+      "titre": "La Rochelle : deux dimanches ouverts pour compenser les pertes des commerçants",
+      "publie_le": "2026-11-08T18:00:00.000Z",
+      "redige_le": "2026-11-08T18:17:15.991Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/128a79357a732a9be3ff9684050ec4da56e7c20c.json"
+    },
+    {
+      "id": "c41bb5910562c076ddf202ea4c2631e73ed4e348",
+      "slug": "nouvelle-aquitaine-neuf-entreprises-achetent-ensemble-leur-electricite-c41bb5",
+      "titre": "Nouvelle-Aquitaine : neuf entreprises achètent ensemble leur électricité solaire",
+      "publie_le": "2026-11-08T13:00:03.000Z",
+      "redige_le": "2026-11-08T18:17:15.991Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/c41bb5910562c076ddf202ea4c2631e73ed4e348.json"
+    },
     {
       "id": "af51abaeff31565c4f9aed180d9e3abad9a2e6de",
       "slug": "cumul-emploi-retraite-des-regles-nettement-plus-strictes-des-le-1er-af51ab",

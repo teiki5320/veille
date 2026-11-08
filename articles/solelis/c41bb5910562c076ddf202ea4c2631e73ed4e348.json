@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "c41bb5910562c076ddf202ea4c2631e73ed4e348",
+  "slug": "nouvelle-aquitaine-neuf-entreprises-achetent-ensemble-leur-electricite-c41bb5",
+  "titre": "Nouvelle-Aquitaine : neuf entreprises achètent ensemble leur électricité solaire",
+  "chapo": "Neuf entreprises de Nouvelle-Aquitaine ont signé un contrat commun d'achat d'électricité sur quinze ans avec une centrale solaire du Lot-et-Garonne. Un moyen de se mettre à l'abri des flambées de prix.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le dispositif fonctionne depuis le 1er août 2026. Une partie du courant consommé par ces neuf sociétés provient d'une centrale photovoltaïque implantée à Clave, sur la commune lot-et-garonnaise de Durance. Le tarif a été arrêté au départ pour toute la durée du contrat, soit quinze ans, mais son montant n'a pas été rendu public.",
+        "Ce type d'accord porte un nom anglais, Power Purchase Agreement, abrégé en PPA. C'est un contrat de long terme passé directement entre un producteur d'énergie et ses clients. Ici, plusieurs acheteurs se sont associés, ce qui en fait une première dans le pays, selon Le Monde."
+      ]
+    },
+    {
+      "intertitre": "Une idée née de la crise de 2022",
+      "paragraphes": [
+        "Le projet remonte à 2022. La guerre lancée par Moscou contre Kiev avait alors fait bondir les factures des industriels. Dirigeant du laboratoire vétérinaire Ceva Santé Animale, Marc Prikazsky raconte avoir payé le mégawattheure plus de 1 000 euros, contre 180 euros auparavant. Une hausse qui, selon lui, mettait en jeu l'existence même des entreprises.",
+        "Avec une dizaine d'autres patrons, il a voulu regrouper les achats. Il a fallu une année entière pour rallier tout le monde. Jusque-là, ces contrats longs restaient réservés aux très grands groupes, dont la solidité financière rassure les producteurs."
+      ]
+    },
+    {
+      "intertitre": "La Région en intermédiaire",
+      "paragraphes": [
+        "La Région Nouvelle-Aquitaine a soutenu la démarche. Elle a ouvert une consultation, sous forme d'appel à manifestation d'intérêt, afin de mettre en relation les sociétés volontaires et un fournisseur. Le choix s'est porté sur Valeco, entreprise de Montpellier spécialiste des énergies renouvelables et filiale de l'allemand EnBW, qui veut étendre son activité dans la région."
+      ]
+    },
+    {
+      "intertitre": "Une piste pour d'autres entreprises",
+      "paragraphes": [
+        "Le projet a été porté par des membres du club régional qui rassemble les entreprises de taille intermédiaire (ETI). Le délégué général de ce réseau, Grégoire Le Taillandier, assure que les dirigeants engagés sont satisfaits, alors que les prix de l'électricité sur le marché au comptant s'envolent.",
+        "Pour un chef d'entreprise, l'énergie reste l'une des dépenses les plus difficiles à prévoir. Le regroupement d'acheteurs ouvre une voie vers des contrats longs, d'ordinaire hors de portée des structures plus modestes. Le Monde y voit un modèle susceptible d'être repris ailleurs."
+      ]
+    }
+  ],
+  "mots": 386,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/economie/article/2026/11/08/en-nouvelle-aquitaine-une-premiere-dans-l-achat-groupe-d-energie_6808429_3234.html",
+  "publie_le": "2026-11-08T13:00:03.000Z",
+  "redige_le": "2026-11-08T18:17:15.991Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/solelis/c41bb5910562c076ddf202ea4c2631e73ed4e348.svg",
+    "source": "carte",
+    "credit": "Illustration : Solelis",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Solelis avec la mention « Entreprises »",
+    "mots_cles": [
+      "Centrale solaire photovoltaïque France",
+      "solar farm panels",
+      "solar power plant"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "128a79357a732a9be3ff9684050ec4da56e7c20c",
+  "slug": "la-rochelle-deux-dimanches-ouverts-pour-compenser-les-pertes-des-128a79",
+  "titre": "La Rochelle : deux dimanches ouverts pour compenser les pertes des commerçants",
+  "chapo": "À La Rochelle, les commerçants pourront ouvrir avec leurs employés le dimanche 15 et le dimanche 22 novembre. La préfecture accorde cette dérogation pour rattraper le chiffre d'affaires perdu pendant les manifestations.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La préfecture de Charente-Maritime a signé le 5 novembre un arrêté exceptionnel. Il autorise les commerces de détail rochelais qui le veulent à employer tout ou partie de leur personnel le dimanche 15 et le dimanche 22 novembre. Pour les boutiques qui ne peuvent pas recevoir de clients sans vendeurs, cela revient à un feu vert pour ouvrir.",
+        "La dérogation a été sollicitée par les organisations du commerce, à l'échelon national comme local. La mairie et les chambres consulaires ont donné leur accord."
+      ]
+    },
+    {
+      "intertitre": "Une clientèle moins nombreuse",
+      "paragraphes": [
+        "Depuis le samedi 17 octobre, les manifestations s'enchaînent dans les rues de la ville. Les commerçants voient moins de clients franchir leur porte et enregistrent un manque à gagner. Ces deux dimanches doivent leur permettre de récupérer une partie des ventes perdues.",
+        "La mesure ne vaut que pour la commune de La Rochelle. Le pôle commercial voisin de Beaulieu, situé sur la commune de Puilboreau, en est exclu, alors qu'elle voit elle aussi ses clients se raréfier le samedi."
+      ]
+    },
+    {
+      "intertitre": "Une ouverture qui a un coût",
+      "paragraphes": [
+        "Tous les commerces ne pourront pas en profiter. La loi impose de payer double les heures faites ce jour-là et d'offrir en échange une journée de repos. Or rien ne garantit que les recettes suivront, à un moment où le pouvoir d'achat des ménages recule. Beaucoup de commerçants ont aussi déjà prévu d'ouvrir lors des derniers dimanches de l'année, jugés plus porteurs.",
+        "Les commerces situés en zone touristique, eux, n'ont besoin d'aucune autorisation : ils peuvent ouvrir le dimanche quand ils le souhaitent."
+      ]
+    },
+    {
+      "intertitre": "Jusqu'à sept dimanches avant les fêtes",
+      "paragraphes": [
+        "Ces deux dates s'ajoutent à une autre dérogation, votée fin 2025 pour les 28 communes de l'agglomération rochelaise. Elle couvre le 29 novembre et les quatre dimanches de décembre : les 6, 13, 20 et 27. Les commerçants de La Rochelle pourront donc ouvrir jusqu'à sept dimanches d'ici à la fin de l'année.",
+        "En droit, le repos du dimanche reste la règle pour les salariés. Le Code du travail permet toutefois au maire d'accorder chaque année jusqu'à douze dimanches d'ouverture aux commerces de détail."
+      ]
+    }
+  ],
+  "mots": 377,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/charente-maritime/la-rochelle/mobilisation-sociale-a-la-rochelle-l-ouverture-des-commerces-est-autorisee-les-dimanches-15-et-22-novembre-pour-soutenir-l-economie-locale-31443424.php",
+  "publie_le": "2026-11-08T18:00:00.000Z",
+  "redige_le": "2026-11-08T18:17:15.991Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/128a79357a732a9be3ff9684050ec4da56e7c20c.webp",
+    "source": "wikimedia",
+    "credit": "Nicolas Chalmandrier . Upload, stitch and restoration by Jebulon",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Plan_La_Rochelle_et_environs,_1773,_Nicolas_Chalmandrier,_BNF_Gallica.jpg",
+    "alt": "Vue de la ville de La Rochelle, en Charente-Maritime",
+    "mots_cles": [
+      "La Rochelle"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
