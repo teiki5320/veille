@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-08T11:20:06.013Z",
+  "genere_le": "2026-11-08T11:21:19.168Z",
   "actus": [
     {
       "id": "af51abaeff31565c4f9aed180d9e3abad9a2e6de",
@@ -21,13 +21,13 @@
       "lecture_min": 1,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/solelis/af51abaeff31565c4f9aed180d9e3abad9a2e6de.webp",
-        "source": "wikimedia",
-        "credit": "Cnav",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:L%E2%80%99Assurance_retraite_Caisse_nationale.png",
-        "alt": "Un bâtiment de l'Assurance retraite",
+        "source": "openverse",
+        "credit": "Images_of_Money",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/59937401@N07/5474825330",
+        "alt": "Une calculatrice et de l'argent",
         "mots_cles": [
-          "Caisse nationale d'assurance vieillesse"
+          "calculator coins"
         ],
         "largeur": 1600,
         "hauteur": 900

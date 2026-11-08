@@ -868,7 +868,7 @@
   "images_recentes": [
     {
       "id": "8fe3d1f5698cbe70b93e9b12415b76f72d85025c",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/6/62/MV_Karadeniz_Powership_Do%C4%9Fan_Bey%2C_Freetown%2C_Sierra_Leone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Freetown-aerialview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "f54fa3b5e1385817b17839cf3ff4b4f5649ff69a",
@@ -967,12 +967,17 @@
     "5e56f9680a2e9f97df5c73a053514d69e4450701": "https://upload.wikimedia.org/wikipedia/commons/4/42/Benin_Bronzes%2C_Horniman_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "8d45d5de6c1aded03bd6090305fdef828bec04de": "https://upload.wikimedia.org/wikipedia/commons/7/75/Palazzo_Dolfin_Bollani_%28Venice%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "f54fa3b5e1385817b17839cf3ff4b4f5649ff69a": "https://upload.wikimedia.org/wikipedia/commons/2/29/Design_Museum_%282%29_%28geograph_5246509%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "8fe3d1f5698cbe70b93e9b12415b76f72d85025c": "https://upload.wikimedia.org/wikipedia/commons/6/62/MV_Karadeniz_Powership_Do%C4%9Fan_Bey%2C_Freetown%2C_Sierra_Leone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "8fe3d1f5698cbe70b93e9b12415b76f72d85025c": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Freetown-aerialview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "d734265040b63a4476c6a3fcbabfd65eda96c16a": [
       "https://upload.wikimedia.org/wikipedia/commons/3/35/Room_3%2C_Ladi_Kwali_-_Of_Soil_and_Stone%2C_Nigerian_Modernism%2C_Tate_Modern%2C_London_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/6/67/Room_3%2C_Ladi_Kwali_-_Of_Soil_and_Stone%2C_Nigerian_Modernism%2C_Tate_Modern%2C_London_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "8fe3d1f5698cbe70b93e9b12415b76f72d85025c": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/62/MV_Karadeniz_Powership_Do%C4%9Fan_Bey%2C_Freetown%2C_Sierra_Leone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://live.staticflickr.com/2615/3972656743_3893b52dff_b.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/Civil_War_Memorial%2C_Monument_Square%2C_Concord_MA.jpg"
     ]
   }
 }
