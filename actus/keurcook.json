@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-09T11:23:01.454Z",
+  "genere_le": "2026-11-09T18:21:32.057Z",
   "actus": [
+    {
+      "id": "ee76717a2fbf38a774d770686a74b81dc5882870",
+      "titre": "Ghana : la jeune Akosua remporte la cinquième saison de Big Chef Junior",
+      "resume": "Au terme d'une finale disputée le 8 novembre, Akosua a été sacrée gagnante de Big Chef Junior, le concours de cuisine pour enfants de la chaîne ghanéenne Joy Prime. Les quatre finalistes devaient chacune préparer une version du riz frit.",
+      "theme": "cuisine",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/akosua-wins-big-chef-junior-season-5-takes-home-gh%e2%82%b520000/",
+      "publie_le": "2026-11-09T17:08:05.000Z",
+      "collecte_le": "2026-11-09T18:21:32.057Z",
+      "langue": "en",
+      "slug": "ghana-la-jeune-akosua-remporte-la-cinquieme-saison-de-big-chef-junior-ee7671",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/ee76717a2fbf38a774d770686a74b81dc5882870.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/ee76717a2fbf38a774d770686a74b81dc5882870.webp",
+        "source": "wikimedia",
+        "credit": "Segun Famisa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Jollof_rice_with_vegetable.jpg",
+        "alt": "Un plat de riz jollof, spécialité d'Afrique de l'Ouest",
+        "mots_cles": [
+          "Jollof rice"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0ef6083c8dd9e7425477d2d2bf10b14f8f0683df",
       "titre": "Île Maurice : à Grand-Baie, un pêcheur sert sa propre pêche dans son restaurant",

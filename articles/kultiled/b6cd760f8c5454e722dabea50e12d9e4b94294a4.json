@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "b6cd760f8c5454e722dabea50e12d9e4b94294a4",
+  "slug": "inde-citygreens-conseille-aux-nouveaux-cultivateurs-de-passer-b6cd76",
+  "titre": "Inde : CityGreens conseille aux nouveaux cultivateurs de passer directement à l'aéroponie",
+  "chapo": "Une semaine de gagnée sur la récolte des salades : c'est le résultat annoncé par CityGreens après son troisième essai d'aéroponie en Inde. Son agronome en chef en tire un conseil net pour les débutants.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "CityGreens a publié les résultats d'un essai mené dans son parc AgriTech, en Inde. C'est le troisième test de ce genre, et le premier que l'entreprise juge assez solide pour un usage commercial. Son agronome en chef, Ravi, détaille tout le cycle de culture dans une vidéo. Il compte 35 ans d'expérience en agriculture, dont 12 en hydroponie.",
+        "En aéroponie, les racines pendent dans l'air et reçoivent une brume chargée de nutriments. Dans les systèmes à base d'eau, l'oxygène dissous limite la respiration des racines ; ici, ce frein disparaît. Des racines blanches signalent une plante en forme, un brunissement trahit un manque d'oxygène."
+      ]
+    },
+    {
+      "intertitre": "Plus de récoltes avec le même matériel",
+      "paragraphes": [
+        "En hydroponie classique, il faut compter 45 à 50 jours entre le semis et la récolte des légumes-feuilles. Avec l'aéroponie, la récolte arrive cinq à sept jours plus tôt.",
+        "Les plantes n'occupent le système que 20 à 25 jours, contre environ 35 en NFT, la culture sur fine pellicule nutritive. Le reste du temps, elles grandissent dans une pépinière à part. On enchaîne donc davantage de cycles par an. CityGreens évalue le gain de revenus entre 11 et 25 %, sans coût fixe supplémentaire."
+      ]
+    },
+    {
+      "intertitre": "La méthode pas à pas",
+      "paragraphes": [
+        "Les graines sont semées par trois ou quatre dans chaque trou, puis couvertes d'un plastique noir pendant trois jours. Dès la levée, elles passent à la lumière. Après 15 jours de pépinière, les jeunes plants rejoignent des pots ajourés garnis de billes d'argile. On récolte vers le 40e jour, en une seule coupe ou en plusieurs, à 2 cm au-dessus du collet.",
+        "Quand la germination déçoit, Ravi accuse souvent le sodium et les sels de la fibre de coco vendue dans le commerce. Il conseille de la rincer et de la stabiliser autour de 100 ppm de matières dissoutes, en mesurant plutôt qu'en devinant.",
+        "Le seul vrai danger, selon lui, est le bouchage des brumisateurs : les nutriments doivent être parfaitement dissous et la solution filtrée, faute de quoi une récolte entière peut être perdue. D'où son conseil : commencer directement par l'aéroponie plutôt que par le NFT ou la culture en eau profonde."
+      ]
+    }
+  ],
+  "mots": 389,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "IN"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9890325/citygreens-chief-agronomist-says-new-growers-should-skip-nft-and-go-straight-to-aeroponics/",
+  "publie_le": "2026-11-09T12:42:00.000Z",
+  "redige_le": "2026-11-09T18:21:35.306Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/b6cd760f8c5454e722dabea50e12d9e4b94294a4.webp",
+    "source": "wikimedia",
+    "credit": "https://www.flickr.com/people/69061470@N05",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Aeroponics_at_the_Satariya_Settlement.jpg",
+    "alt": "Des plantes cultivées hors sol, racines à l'air, en aéroponie",
+    "mots_cles": [
+      "Aeroponics"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

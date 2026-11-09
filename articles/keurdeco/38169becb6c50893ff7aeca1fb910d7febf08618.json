@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "38169becb6c50893ff7aeca1fb910d7febf08618",
+  "slug": "le-cap-la-norval-foundation-accueille-dix-installations-lumineuses-sud-38169b",
+  "titre": "Le Cap : la Norval Foundation accueille dix installations lumineuses sud-africaines",
+  "chapo": "Après une première édition réussie en avril, LUMENOCITY revient au Cap avec The Art of Light. Pendant huit soirs, dix installations lumineuses créées en Afrique du Sud investissent le jardin de sculptures de la Norval Foundation.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le parcours ouvre le 20 novembre et se poursuit jusqu'au 29, avec une pause les 23 et 24 novembre. Il se tient à Tokai, au sud du Cap, où la Norval Foundation, centre d'art ouvert en 2018, dispose d'un vaste jardin de sculptures.",
+        "Toutes les œuvres ont été conçues et fabriquées dans le pays, par des artistes, des designers et des spécialistes de la technologie. Elles ont été repensées pour dialoguer avec les arbres, l'eau et les grands espaces du site."
+      ]
+    },
+    {
+      "intertitre": "Des pièces très variées",
+      "paragraphes": [
+        "Les étudiants de la Cape Town Creative Academy présentent Coral Garden, un écosystème lumineux qui évoque les fonds marins. Ils l'ont réalisé grâce au programme de transmission de savoir-faire de LUMENOCITY. Alan Bradburn suspend un anneau de lumière au-dessus d'une eau immobile, tandis que Wayne Visual intègre les arbres à son œuvre par des jeux de couleurs et de rythme.",
+        "Reece Brice imagine des champignons illuminés qui suggèrent un avenir moins pollué. Le studio Fabric, installé au Cap, aligne des nénuphars lumineux et des fontaines qui bougent ensemble. Showtex invite à entrer dans un volume à douze faces fait de tissu et de lumière, et Waterdixon propose deux portes éclairées qui ouvrent chacune un chemin différent."
+      ]
+    },
+    {
+      "intertitre": "Un rendez-vous qui grandit",
+      "paragraphes": [
+        "La pièce phare reste Beam of Hope, une haute colonne de lumière conçue par Gareth Hadden, le fondateur de LUMENOCITY. Elle éclairera le ciel de Tokai dès le 18 novembre, deux jours avant l'ouverture, en guise d'avant-goût.",
+        "En avril, la première édition, installée au Company's Garden, en plein centre du Cap, avait réuni 24 installations sud-africaines et attiré 17 000 visiteurs. Une sélection de ces œuvres est reprise pour cette nouvelle étape.",
+        "La visite se fait librement, en plein air, et dure entre une heure et une heure et demie. L'événement est ouvert aux familles."
+      ]
+    }
+  ],
+  "mots": 336,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "10and5",
+  "source_url": "https://10and5.com/the-art-of-light-coming-to-norval-foundation/",
+  "publie_le": "2026-11-09T14:25:01.000Z",
+  "redige_le": "2026-11-09T18:21:33.400Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/38169becb6c50893ff7aeca1fb910d7febf08618.webp",
+    "source": "wikimedia",
+    "credit": "Allyjm",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Norval_Foundation_from_the_Sculpture_Garden.jpg",
+    "alt": "La Norval Foundation, centre d'art situé au Cap",
+    "mots_cles": [
+      "Norval Foundation"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

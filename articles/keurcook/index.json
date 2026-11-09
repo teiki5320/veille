@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-09T11:23:03.304Z",
+  "genere_le": "2026-11-09T18:21:33.396Z",
   "articles": [
+    {
+      "id": "ee76717a2fbf38a774d770686a74b81dc5882870",
+      "slug": "ghana-la-jeune-akosua-remporte-la-cinquieme-saison-de-big-chef-junior-ee7671",
+      "titre": "Ghana : la jeune Akosua remporte la cinquième saison de Big Chef Junior",
+      "publie_le": "2026-11-09T17:08:05.000Z",
+      "redige_le": "2026-11-09T18:21:32.057Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/ee76717a2fbf38a774d770686a74b81dc5882870.json"
+    },
     {
       "id": "0ef6083c8dd9e7425477d2d2bf10b14f8f0683df",
       "slug": "ile-maurice-grand-baie-un-pecheur-sert-sa-propre-peche-dans-son-0ef608",

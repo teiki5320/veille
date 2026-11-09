@@ -1,8 +1,101 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-09T11:23:10.071Z",
+  "genere_le": "2026-11-09T18:21:35.306Z",
   "actus": [
+    {
+      "id": "ccaa89ca200740626f2af78fe86bbf40e1632c3a",
+      "titre": "Airponix et Dyson Farming testent des plants de pomme de terre cultivés dans le brouillard",
+      "resume": "La jeune pousse britannique Airponix et Dyson Farming Research lancent une étude de deux ans financée par l'État. Objectif : savoir si l'Angleterre peut produire elle-même, en intérieur et grâce à une variante de l'aéroponie, ses plants de pomme de terre de génération zéro.",
+      "theme": "culture-interieur",
+      "pays": [
+        "GB"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9889741/airponix-dyson-farming-test-indoor-fog-system-to-close-uk-s-seed-potato-gap/",
+      "publie_le": "2026-11-09T12:42:00.000Z",
+      "collecte_le": "2026-11-09T18:21:35.306Z",
+      "langue": "en",
+      "slug": "airponix-et-dyson-farming-testent-des-plants-de-pomme-de-terre-ccaa89",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/ccaa89ca200740626f2af78fe86bbf40e1632c3a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/ccaa89ca200740626f2af78fe86bbf40e1632c3a.webp",
+        "source": "wikimedia",
+        "credit": "Gaurav Dhwaj Khadka",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Seed_Potatoes.jpg",
+        "alt": "Des pommes de terre destinées à la plantation",
+        "mots_cles": [
+          "Seed potatoes"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "c82bf94fa43c916bb8f0eb430a0b7c41cbd141d8",
+      "titre": "Canada : la ferme verticale Vision Greens a mis quatorze mois à mettre au point sa laitue",
+      "resume": "Lors d'un congrès sur les serres au Canada, le patron de Vision Greens, une experte japonaise et un chercheur de l'université Laval ont fait le point sur les fermes verticales : coûts de départ élevés, marges minces, mais des pistes, comme jouer sur les cycles d'éclairage.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "tags": [
+        "legume:laitue"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9890262/vertical-farming-offers-some-fertile-ground-for-canadian-growers/",
+      "publie_le": "2026-11-09T12:42:00.000Z",
+      "collecte_le": "2026-11-09T18:21:35.306Z",
+      "langue": "en",
+      "slug": "canada-la-ferme-verticale-vision-greens-mis-quatorze-mois-mettre-au-c82bf9",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/c82bf94fa43c916bb8f0eb430a0b7c41cbd141d8.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/c82bf94fa43c916bb8f0eb430a0b7c41cbd141d8.webp",
+        "source": "wikimedia",
+        "credit": "Quant8",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Vertikale_Landwirtschaft_in_einem_Supermarkt.jpg",
+        "alt": "Des cultures disposées en étages dans une ferme verticale",
+        "mots_cles": [
+          "Vertical farming"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "b6cd760f8c5454e722dabea50e12d9e4b94294a4",
+      "titre": "Inde : CityGreens conseille aux nouveaux cultivateurs de passer directement à l'aéroponie",
+      "resume": "Après un troisième essai jugé fiable, la société CityGreens estime que l'aéroponie fait gagner jusqu'à une semaine sur les légumes-feuilles par rapport à l'hydroponie classique. Son agronome en chef recommande aux débutants de commencer par cette technique.",
+      "theme": "culture-interieur",
+      "pays": [
+        "IN"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9890325/citygreens-chief-agronomist-says-new-growers-should-skip-nft-and-go-straight-to-aeroponics/",
+      "publie_le": "2026-11-09T12:42:00.000Z",
+      "collecte_le": "2026-11-09T18:21:35.306Z",
+      "langue": "en",
+      "slug": "inde-citygreens-conseille-aux-nouveaux-cultivateurs-de-passer-b6cd76",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/b6cd760f8c5454e722dabea50e12d9e4b94294a4.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/b6cd760f8c5454e722dabea50e12d9e4b94294a4.webp",
+        "source": "wikimedia",
+        "credit": "https://www.flickr.com/people/69061470@N05",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_Aeroponics_at_the_Satariya_Settlement.jpg",
+        "alt": "Des plantes cultivées hors sol, racines à l'air, en aéroponie",
+        "mots_cles": [
+          "Aeroponics"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "26d665075dee5624c9e449a4c5cae8831e78e400",
       "titre": "Détroit : l'ancienne ferme verticale Planted Detroit cherche un repreneur",

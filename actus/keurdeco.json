@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-09T11:24:54.352Z",
+  "genere_le": "2026-11-09T18:21:33.400Z",
   "actus": [
+    {
+      "id": "38169becb6c50893ff7aeca1fb910d7febf08618",
+      "titre": "Le Cap : la Norval Foundation accueille dix installations lumineuses sud-africaines",
+      "resume": "Du 20 au 29 novembre, le parcours The Art of Light de LUMENOCITY prend place dans le jardin de sculptures de la Norval Foundation, au Cap. Dix œuvres de lumière, imaginées par des artistes et designers sud-africains, y sont adaptées aux arbres et aux bassins.",
+      "theme": "deco",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "10and5",
+      "source_url": "https://10and5.com/the-art-of-light-coming-to-norval-foundation/",
+      "publie_le": "2026-11-09T14:25:01.000Z",
+      "collecte_le": "2026-11-09T18:21:33.400Z",
+      "langue": "en",
+      "slug": "le-cap-la-norval-foundation-accueille-dix-installations-lumineuses-sud-38169b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/38169becb6c50893ff7aeca1fb910d7febf08618.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/38169becb6c50893ff7aeca1fb910d7febf08618.webp",
+        "source": "wikimedia",
+        "credit": "Allyjm",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:View_of_Norval_Foundation_from_the_Sculpture_Garden.jpg",
+        "alt": "La Norval Foundation, centre d'art situé au Cap",
+        "mots_cles": [
+          "Norval Foundation"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ae1116ebbefa451f9760782b17ea868d0f586adc",
       "titre": "Afrique du Sud : la marque de mobilier Daily devient Dwela et lance la collection Bawa",

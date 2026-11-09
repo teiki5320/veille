@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "c82bf94fa43c916bb8f0eb430a0b7c41cbd141d8",
+  "slug": "canada-la-ferme-verticale-vision-greens-mis-quatorze-mois-mettre-au-c82bf9",
+  "titre": "Canada : la ferme verticale Vision Greens a mis quatorze mois à mettre au point sa laitue",
+  "chapo": "Quatorze mois pour une laitue : c'est le temps qu'il a fallu à Vision Greens pour obtenir un produit dont elle soit fière. L'exemple a nourri un débat sur l'avenir des fermes verticales au Canada.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Lenny Louis dirige Vision Greens, une entreprise de ferme verticale née à Welland, en Ontario. Il a pris la parole le mois dernier à la Canadian Greenhouse Conference, organisée à Niagara Falls, avec Eri Hayashi, de la Japan Plant Factory Association, et Steeve Pepin, chercheur à l'université Laval.",
+        "La laitue fait pourtant partie des cultures rapides. Mais l'entreprise a retravaillé son produit pendant plus d'un an avant d'en être satisfaite. Pour son dirigeant, une ferme comme la sienne ne réglera pas seule la question de la sécurité alimentaire du pays, mais elle représente un premier pas."
+      ]
+    },
+    {
+      "intertitre": "Des coûts encore lourds",
+      "paragraphes": [
+        "Les intervenants s'accordent sur les freins : un démarrage coûteux, une mise au point longue et des marges réduites, qui compliquent la rentabilité. Selon Lenny Louis, les clients refusent de payer beaucoup plus cher un produit aussi courant que la salade.",
+        "Vision Greens a misé sur un message simple, la fraîcheur maximale, et sur des liens étroits avec les épiceries, pour que ses salades y soient bien conservées.",
+        "Eri Hayashi cite d'autres limites : une gestion de la production parfois insuffisante et trop peu d'espèces cultivées. Elle plaide pour diversifier les cultures et apprendre à produire ce dont on a besoin, pas seulement ce que l'on sait faire pousser. Au Japon, rappelle-t-elle, certaines usines à plantes ont échoué et d'autres réussissent, à condition d'être bien conçues."
+      ]
+    },
+    {
+      "intertitre": "Jouer sur la lumière",
+      "paragraphes": [
+        "Les fermes verticales gardent des atouts : des mesures précises et permanentes, et une production qui ne s'interrompt pas.",
+        "Pour alléger la facture, Steeve Pepin a comparé plusieurs rythmes d'éclairage. D'après ses travaux, découper la journée en quatre cycles de lumière peut augmenter la production et améliorer l'usage de l'énergie. Cela permet aussi d'allumer les lampes aux heures où l'électricité coûte le moins."
+      ]
+    }
+  ],
+  "mots": 328,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "tags": [
+    "legume:laitue"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9890262/vertical-farming-offers-some-fertile-ground-for-canadian-growers/",
+  "publie_le": "2026-11-09T12:42:00.000Z",
+  "redige_le": "2026-11-09T18:21:35.306Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/c82bf94fa43c916bb8f0eb430a0b7c41cbd141d8.webp",
+    "source": "wikimedia",
+    "credit": "Quant8",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vertikale_Landwirtschaft_in_einem_Supermarkt.jpg",
+    "alt": "Des cultures disposées en étages dans une ferme verticale",
+    "mots_cles": [
+      "Vertical farming"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

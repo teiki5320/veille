@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-09T11:23:01.445Z",
+  "genere_le": "2026-11-09T18:21:29.062Z",
   "actus": [
+    {
+      "id": "1ab5120121b0eff87d476768854ec4aff3ab3120",
+      "titre": "James Baldwin : une biographie de plus de 700 pages paraît en français au Seuil",
+      "resume": "Le Seuil publie en français la biographie de James Baldwin écrite par Nicholas Boggs, professeur à l'université Columbia. Le livre suit l'écrivain afro-américain de son enfance à Harlem jusqu'à Saint-Paul-de-Vence, où il a vécu ses dernières années.",
+      "theme": "livres",
+      "pays": [
+        "US",
+        "FR"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/livres/article/2026/11/09/une-genereuse-biographie-de-james-baldwin-retrace-le-parcours-de-l-ecrivain-afro-americain-d-enthousiasmes-en-emportements_6808686_3260.html",
+      "publie_le": "2026-11-09T18:00:13.000Z",
+      "collecte_le": "2026-11-09T18:21:29.062Z",
+      "langue": "fr",
+      "slug": "james-baldwin-une-biographie-de-plus-de-700-pages-parait-en-francais-1ab512",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/1ab5120121b0eff87d476768854ec4aff3ab3120.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/1ab5120121b0eff87d476768854ec4aff3ab3120.webp",
+        "source": "wikimedia",
+        "credit": "Allan warren",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:James_Baldwin_37_Allan_Warren_(cropped).jpg",
+        "alt": "Portrait de l'écrivain américain James Baldwin",
+        "mots_cles": [
+          "James Baldwin"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "06f08b4f2b89eafeea67ff37d30d7892cfd706a1",
       "titre": "« Filles de Mexico » : le roman latino-américain de Sami Tchak remis en lumière",

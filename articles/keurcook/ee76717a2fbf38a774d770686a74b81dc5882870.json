@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "ee76717a2fbf38a774d770686a74b81dc5882870",
+  "slug": "ghana-la-jeune-akosua-remporte-la-cinquieme-saison-de-big-chef-junior-ee7671",
+  "titre": "Ghana : la jeune Akosua remporte la cinquième saison de Big Chef Junior",
+  "chapo": "Akosua est la nouvelle championne de Big Chef Junior, le concours culinaire pour enfants diffusé par la chaîne ghanéenne Joy Prime. Elle s'est imposée dimanche 8 novembre au terme d'une finale à quatre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La finale s'est tenue sur le parking de la radio Joy FM, devant les familles et les fans de l'émission. Face à Akosua se trouvaient trois autres jeunes cuisinières : Afia, Sethlyne et Clara.",
+        "L'épreuve tournait autour d'un seul plat, le riz frit, décliné en quatre versions tirées au sort. Akosua a hérité des crevettes, Afia du poulet, Clara du porc et Sethlyne du bœuf. Chacune avait 45 minutes et devait cuisiner seule, sans le moindre coup de main, pour montrer tout ce qu'elle avait appris."
+      ]
+    },
+    {
+      "intertitre": "Le jury et le public à parts égales",
+      "paragraphes": [
+        "Deux chefs, Chef Michael et Chef Gigi, ont goûté et noté les assiettes. Leur note pesait pour moitié dans le classement, l'autre moitié venant des votes du public.",
+        "Akosua l'emporte et reçoit 20 000 cédis. Afia, deuxième, repart avec 10 000 cédis, et Sethlyne, troisième, avec 8 000. Clara se classe quatrième. Les quatre finalistes ont aussi reçu des lots des partenaires de l'émission.",
+        "Pendant que les candidates s'activaient aux fourneaux, le public a eu droit à des spectacles de danse et à un passage de l'humoriste ghanéen Funny Face."
+      ]
+    },
+    {
+      "intertitre": "Une saison riche en plats ghanéens",
+      "paragraphes": [
+        "La saison avait commencé avec douze enfants. Semaine après semaine, ils ont cuisiné des recettes du pays, comme le jollof, le gari foto, l'ampesi, l'omo tuo ou la « healing soup », mais aussi des plats d'ailleurs, du petit-déjeuner anglais aux spaghettis. Le jollof, riz cuit dans une sauce tomate épicée, compte parmi les plats les plus populaires d'Afrique de l'Ouest.",
+        "Akosua avait déjà obtenu le titre de « Star Chef » en cours de compétition. Afia s'était fait remarquer en le décrochant trois fois de suite. Animée par Michelle Agyekum, l'émission veut aider les enfants à gagner en confiance et à découvrir le plaisir de cuisiner, en équipe comme seuls."
+      ]
+    }
+  ],
+  "mots": 334,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "MyJoyOnline",
+  "source_url": "https://www.myjoyonline.com/akosua-wins-big-chef-junior-season-5-takes-home-gh%e2%82%b520000/",
+  "publie_le": "2026-11-09T17:08:05.000Z",
+  "redige_le": "2026-11-09T18:21:32.057Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/ee76717a2fbf38a774d770686a74b81dc5882870.webp",
+    "source": "wikimedia",
+    "credit": "Segun Famisa",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jollof_rice_with_vegetable.jpg",
+    "alt": "Un plat de riz jollof, spécialité d'Afrique de l'Ouest",
+    "mots_cles": [
+      "Jollof rice"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

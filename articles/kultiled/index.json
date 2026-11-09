@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-09T11:23:10.076Z",
+  "genere_le": "2026-11-09T18:21:41.679Z",
   "articles": [
+    {
+      "id": "b6cd760f8c5454e722dabea50e12d9e4b94294a4",
+      "slug": "inde-citygreens-conseille-aux-nouveaux-cultivateurs-de-passer-b6cd76",
+      "titre": "Inde : CityGreens conseille aux nouveaux cultivateurs de passer directement à l'aéroponie",
+      "publie_le": "2026-11-09T12:42:00.000Z",
+      "redige_le": "2026-11-09T18:21:35.306Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/b6cd760f8c5454e722dabea50e12d9e4b94294a4.json"
+    },
+    {
+      "id": "c82bf94fa43c916bb8f0eb430a0b7c41cbd141d8",
+      "slug": "canada-la-ferme-verticale-vision-greens-mis-quatorze-mois-mettre-au-c82bf9",
+      "titre": "Canada : la ferme verticale Vision Greens a mis quatorze mois à mettre au point sa laitue",
+      "publie_le": "2026-11-09T12:42:00.000Z",
+      "redige_le": "2026-11-09T18:21:35.306Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/c82bf94fa43c916bb8f0eb430a0b7c41cbd141d8.json"
+    },
+    {
+      "id": "ccaa89ca200740626f2af78fe86bbf40e1632c3a",
+      "slug": "airponix-et-dyson-farming-testent-des-plants-de-pomme-de-terre-ccaa89",
+      "titre": "Airponix et Dyson Farming testent des plants de pomme de terre cultivés dans le brouillard",
+      "publie_le": "2026-11-09T12:42:00.000Z",
+      "redige_le": "2026-11-09T18:21:35.306Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/ccaa89ca200740626f2af78fe86bbf40e1632c3a.json"
+    },
     {
       "id": "26d665075dee5624c9e449a4c5cae8831e78e400",
       "slug": "detroit-ancienne-ferme-verticale-planted-detroit-cherche-un-repreneur-26d665",

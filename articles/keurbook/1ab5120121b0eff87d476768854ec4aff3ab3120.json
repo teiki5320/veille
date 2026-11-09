@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "1ab5120121b0eff87d476768854ec4aff3ab3120",
+  "slug": "james-baldwin-une-biographie-de-plus-de-700-pages-parait-en-francais-1ab512",
+  "titre": "James Baldwin : une biographie de plus de 700 pages paraît en français au Seuil",
+  "chapo": "Traduite de l'anglais, la biographie de James Baldwin signée Nicholas Boggs arrive en librairie au Seuil. Plus de 700 pages pour suivre l'une des grandes voix de la littérature noire américaine, qui a longtemps vécu en France.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "En français, l'ouvrage associe au nom de l'écrivain deux mots, l'amour et la révolution, qui résument son parcours. Son auteur, Nicholas Boggs, enseigne à l'université Columbia, à New York. La traduction est l'œuvre de Souad Degachi et Maxime Shelledy. L'ouvrage compte 752 pages et contient un cahier de photographies.",
+        "Le Monde, qui en a publié la critique, salue un travail généreux. Le récit embrasse toute la vie de l'écrivain, né à Harlem en 1924 et mort en France en 1987, en suivant ses passions comme ses colères."
+      ]
+    },
+    {
+      "intertitre": "De Harlem à Paris",
+      "paragraphes": [
+        "Baldwin grandit à Harlem avec huit frères et sœurs. Son père est pasteur. Dans les années 1940, il fréquente Greenwich Village, à New York, où il subit les contrôles de police et un racisme d'une grande violence.",
+        "Fin 1948, il s'installe à Paris. L'année suivante, à 25 ans, il est arrêté pour une affaire de draps d'hôtel, avant d'être blanchi par la justice. Cet épisode le plonge dans une profonde détresse. Il l'a raconté plus tard dans l'un de ses essais, réunis en français chez Gallimard."
+      ]
+    },
+    {
+      "intertitre": "Un écrivain engagé",
+      "paragraphes": [
+        "Romancier et essayiste, Baldwin s'est aussi battu pour les droits civiques aux États-Unis. Son premier roman, paru en 1953 et traduit aujourd'hui sous le titre « La Conversion », puise dans son enfance et dans l'église de son père. Viendront ensuite, entre autres, « La Chambre de Giovanni » en 1956 et l'essai « La prochaine fois, le feu » en 1963.",
+        "Dans les années 1970 et 1980, il vit à Saint-Paul-de-Vence, dans les Alpes-Maritimes. C'est là qu'il meurt, le 1er décembre 1987.",
+        "Cette biographie prolonge les nombreux hommages rendus en 2024, année du centenaire de sa naissance, des deux côtés de l'Atlantique."
+      ]
+    }
+  ],
+  "mots": 320,
+  "lecture_min": 1,
+  "theme": "livres",
+  "pays": [
+    "US",
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/livres/article/2026/11/09/une-genereuse-biographie-de-james-baldwin-retrace-le-parcours-de-l-ecrivain-afro-americain-d-enthousiasmes-en-emportements_6808686_3260.html",
+  "publie_le": "2026-11-09T18:00:13.000Z",
+  "redige_le": "2026-11-09T18:21:29.062Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/1ab5120121b0eff87d476768854ec4aff3ab3120.webp",
+    "source": "wikimedia",
+    "credit": "Allan warren",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:James_Baldwin_37_Allan_Warren_(cropped).jpg",
+    "alt": "Portrait de l'écrivain américain James Baldwin",
+    "mots_cles": [
+      "James Baldwin"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

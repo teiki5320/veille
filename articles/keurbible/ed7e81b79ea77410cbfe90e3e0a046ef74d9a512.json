@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "ed7e81b79ea77410cbfe90e3e0a046ef74d9a512",
+  "slug": "soudan-du-sud-un-livre-retrace-quarante-ans-de-mission-catholique-ed7e81",
+  "titre": "Soudan du Sud : un livre retrace quarante ans de mission catholique auprès des déplacés",
+  "chapo": "Un livre de 361 pages paru en 2026 retrace l'action des missionnaires de Saint-Patrick au Soudan du Sud entre 1983 et 2022. Son auteur, Ydo Jacobs, y décrit une foi vécue au plus près des familles chassées par la guerre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le titre anglais de l'ouvrage, « Moving with the People », résume son propos : avancer avec les gens. Ydo Jacobs, missionnaire laïc néerlandais, y raconte comment la Société missionnaire de Saint-Patrick, que l'on appelle aussi les pères de Kiltegan, a accompagné les communautés du sud du Soudan pendant près de quarante ans. C'est la congrégation elle-même qui publie le livre.",
+        "Tout commence en 1983. Six prêtres irlandais s'installent alors aux côtés de Mgr Paride Taban, qui dirige le diocèse de Torit jusqu'en 2004. D'autres prêtres les rejoignent ensuite, venus du Kenya, du Malawi et du Nigeria, avec des religieuses et des laïcs. L'agence catholique ACI Africa a présenté l'ouvrage le 9 novembre."
+      ]
+    },
+    {
+      "intertitre": "Une paroisse bâtie avec les déplacés",
+      "paragraphes": [
+        "L'un des récits se déroule à New Kush, un camp situé derrière les monts Didinga, que les habitants de la région nomment Himaan. Fin 1995, Mgr Taban y envoie le père Tim Galvin et trois religieuses des Sœurs du Sacré-Cœur de Jésus : Doreen Oyella, Florence Owacha et Pasquina Iromo.",
+        "L'équipe construit elle-même son logement, une église, une école et un dispensaire, avec du bambou, des branches, de la boue et de l'herbe à éléphant. Sœur Florence, infirmière née en Ouganda, tient le dispensaire. Les deux autres sœurs, enseignantes, accueillent presque tous les enfants d'un camp qui compte jusqu'à 6 000 personnes de plusieurs peuples. Elles cultivent aussi des arachides et des légumes.",
+        "La vie reste rude : sol pauvre, eau rare, savon et vêtements introuvables. La paroisse s'occupe aussi des prisonniers retenus sur place. En 2000, de nouvelles violences obligent les habitants et l'équipe à quitter New Kush pour de bon."
+      ]
+    },
+    {
+      "intertitre": "Un message d'espérance",
+      "paragraphes": [
+        "Pour l'auteur, ces missionnaires ne pesaient presque rien face aux chefs armés. Ils ont en revanche misé sur la charité et la compassion, au plus près des gens. Ydo Jacobs insiste sur leur fragilité : des femmes et des hommes ordinaires, avec leurs peurs, comme chacun de nous.",
+        "Il connaît bien la région. Arrivé en 1984 comme conseiller de SudanAid, le service de développement de l'Église catholique dans le sud du pays, il y a travaillé 35 ans, entre secours d'urgence et reconstruction, au Soudan, en Ouganda et au Kenya.",
+        "Il espère que ces histoires aideront les lecteurs à ne pas se replier sur eux-mêmes et à agir pour la paix et la réconciliation. Le Soudan du Sud est devenu indépendant en 2011."
+      ]
+    }
+  ],
+  "mots": 437,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "SS"
+  ],
+  "tags": [
+    "rubrique:livres-et-coloriages"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25225/beyond-the-battlefield-new-book-tells-how-catholic-missionaries-kept-hope-alive-in-southern-sudan",
+  "publie_le": "2026-11-09T14:16:00.000Z",
+  "redige_le": "2026-11-09T18:21:16.604Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/ed7e81b79ea77410cbfe90e3e0a046ef74d9a512.webp",
+    "source": "wikimedia",
+    "credit": "Emmanuel lobijo",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:AFRICA_WOMAN.JPG",
+    "alt": "Mgr Paride Taban, évêque catholique sud-soudanais",
+    "mots_cles": [
+      "Torit"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

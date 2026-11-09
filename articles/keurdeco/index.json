@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-09T11:24:54.380Z",
+  "genere_le": "2026-11-09T18:21:35.277Z",
   "articles": [
+    {
+      "id": "38169becb6c50893ff7aeca1fb910d7febf08618",
+      "slug": "le-cap-la-norval-foundation-accueille-dix-installations-lumineuses-sud-38169b",
+      "titre": "Le Cap : la Norval Foundation accueille dix installations lumineuses sud-africaines",
+      "publie_le": "2026-11-09T14:25:01.000Z",
+      "redige_le": "2026-11-09T18:21:33.400Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/38169becb6c50893ff7aeca1fb910d7febf08618.json"
+    },
     {
       "id": "ae1116ebbefa451f9760782b17ea868d0f586adc",
       "slug": "afrique-du-sud-la-marque-de-mobilier-daily-devient-dwela-et-lance-la-ae1116",
