@@ -224,6 +224,20 @@ async function recadrer(base, w, h, largeur, hauteur, zone, haut) {
   return base.clone().resize(W, H).extract({ left, top, width: largeur, height: hauteur });
 }
 
+// WebP de 500 Ko au plus (photos très détaillées : feuillage, foule) : qualité 80, puis 72, 64, 56, puis léger flou.
+export const POIDS_MAX_IMAGE = 500 * 1024;
+export async function ecrireWebp(pipeline, fichier, { max = POIDS_MAX_IMAGE } = {}) {
+  let buf;
+  for (const quality of [80, 72, 64, 56]) {
+    buf = await pipeline.clone().webp({ quality }).toBuffer();
+    if (buf.length <= max) break;
+  }
+  // Toujours trop lourde (ex. rooibos en fleurs, 697 Ko) : un très léger flou enlève le grain que WebP code mal.
+  if (buf.length > max) buf = await pipeline.clone().blur(0.7).webp({ quality: 72 }).toBuffer();
+  fs.writeFileSync(fichier, buf);
+  return buf.length;
+}
+
 // haut : position verticale imposée (0 = tout en haut, 1 = tout en bas), pour corriger à la main
 // avec scripts/recadre.mjs. Sinon : cadrage sur les visages détectés.
 export async function enregistrerPhoto(buffer, site, id, haut) {
@@ -234,8 +248,8 @@ export async function enregistrerPhoto(buffer, site, id, haut) {
   const zone = zoneSujet(detecterSujets(data));
   const portrait = info.height > info.width * 1.05;
   const h = haut ?? (!zone && portrait ? HAUT_PORTRAIT : null);
-  await (await recadrer(base, info.width, info.height, 1600, 900, zone, h)).webp({ quality: 80 }).toFile(path.join(dossier, `${id}.webp`));
-  await (await recadrer(base, info.width, info.height, 600, 600, zone, h)).webp({ quality: 80 }).toFile(path.join(dossier, `${id}-carre.webp`));
+  await ecrireWebp(await recadrer(base, info.width, info.height, 1600, 900, zone, h), path.join(dossier, `${id}.webp`));
+  await ecrireWebp(await recadrer(base, info.width, info.height, 600, 600, zone, h), path.join(dossier, `${id}-carre.webp`));
   return { zone };
 }
 
