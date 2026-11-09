@@ -2,7 +2,7 @@
 import assert from 'node:assert/strict';
 import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl, sites, ICONES } from './lib.mjs';
 import { fenetre, zoneSujet, enregistrerPhoto, ecrireIndexArticles, propre, validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
-import { slugDe, controleArticle, motsArticle } from './lib.mjs';
+import { slugDe, controleArticle, motsArticle, similariteActus, doublonsProbables } from './lib.mjs';
 import { extraireTexte } from './sources.mjs';
 import { collecterSite, lireFlux } from './collecte.mjs';
 import path from 'node:path';
@@ -256,10 +256,35 @@ await test('Article : longueur contrôlée (300 mots, ou 150 si la source est mi
   const court = articleDe(2);
   assert.ok(motsArticle(court) < 300 && motsArticle(court) >= 150, `${motsArticle(court)} mots`);
   assert.ok(controleArticle(court, [], 600).some((r) => r.startsWith('trop court')));
-  assert.deepEqual(controleArticle(court, [], 100), []);
+  assert.deepEqual(controleArticle(court, [], 100, { sourceMince: true }), [], 'source mince déclarée après recherche : 150 mots suffisent');
   assert.deepEqual(controleArticle(articleDe(4), [], 600), []);
   assert.ok(controleArticle(articleDe(6), [], 600).some((r) => r.startsWith('trop long')));
   assert.deepEqual(controleArticle(null, [], 600), ['article manquant']);
+});
+await test('Source mince : 150 mots seulement si le rédacteur le demande après avoir cherché ailleurs', () => {
+  const court = articleDe(2);
+  assert.ok(controleArticle(court, [], 232).some((r) => r.startsWith('source mince (232 mots) : cherche')), 'pas de recherche → rejet');
+  assert.ok(controleArticle(court, [], 232, { autresSources: ['https://x.org/a'] }).some((r) => r.includes('ajoute leur texte')), 'autres_sources citées mais texte pas ajouté → rejet');
+  assert.ok(controleArticle(court, [], 0, { sourceMince: true }).some((r) => r.startsWith('source non lue')), 'source vide → jamais l’exception');
+  assert.deepEqual(controleArticle(articleDe(4), [], 232), [], '300 mots ou plus : rien à redire');
+});
+await test('Doublon : la même nouvelle déjà en ligne est rejetée, sauf suite déclarée', () => {
+  const enLigne = [
+    { id: 'a'.repeat(40), titre: 'Vatican : le jésuite angolais Avelino Chico nommé sous-secrétaire d’un dicastère', resume: 'Le père Avelino Chico devient l’un des deux sous-secrétaires du dicastère pour le développement humain intégral.', publie_le: '2026-11-05T13:29:00.000Z' },
+    { id: 'c'.repeat(40), titre: 'Gospel : une chorale de Douala fête ses trente ans', resume: 'La chorale a donné un concert à la cathédrale.', publie_le: '2026-11-05T10:00:00.000Z' },
+  ];
+  const r = { id: 'b'.repeat(40), titre: 'Un jésuite angolais nommé sous-secrétaire d’un dicastère du Vatican par Léon XIV', resume: 'Le pape Léon XIV a confié au père Avelino Chico, jésuite angolais, un poste de sous-secrétaire.' };
+  const proches = doublonsProbables(r, enLigne, { date: '2026-11-05T19:58:00.000Z' });
+  assert.equal(proches.length, 1);
+  assert.equal(proches[0].id, 'a'.repeat(40));
+  assert.equal(doublonsProbables(r, enLigne, { date: '2026-11-20T10:00:00.000Z' }).length, 0, 'hors fenêtre de 5 jours');
+  assert.ok(similariteActus(r, enLigne[1]) < 0.2);
+  const cand = [{ id: 'b'.repeat(40), titre_original: 'Pope names Angolan Jesuit', description: 'ACI Africa', date: '2026-11-05T19:58:00.000Z' }];
+  const publiees = new Map(enLigne.map((a) => [a.id, a]));
+  const lot = verifierLot([{ ...r, article: articleDe(4) }], cand, { publiees });
+  assert.ok(lot.rejets[0]?.raisons.some((x) => x.startsWith('doublon probable')), JSON.stringify(lot.rejets));
+  const suite = verifierLot([{ ...r, suite_de: 'a'.repeat(40), article: articleDe(4) }], cand, { publiees });
+  assert.equal(suite.ok.length, 1, 'suite déclarée → acceptée');
 });
 await test('Article : une suite de 6 mots reprise de la source est rejetée', () => {
   const a = articleDe(4);

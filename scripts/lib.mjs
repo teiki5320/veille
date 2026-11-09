@@ -155,7 +155,12 @@ export function slugDe(titre, id) {
 }
 
 // Défauts d'un article : longueur, forme, suites de 6 mots reprises de la source.
-export function controleArticle(article, origines, motsSource) {
+// motsSource : mots de tmp/sources/<site>/<id>.txt (source principale + textes ajoutés avec --ajoute).
+// L'exception « source mince » (150 mots au lieu de 300) n'est accordée que si le rédacteur
+// l'a demandée (source_mince: true) après avoir cherché la même info ailleurs : avant le 09/11,
+// elle était automatique dès que la source faisait moins de 250 mots (ou n'avait pas été lue),
+// et 15 articles de Keur Foot sont sortis entre 172 et 240 mots.
+export function controleArticle(article, origines, motsSource, { autresSources = [], sourceMince = false } = {}) {
   const raisons = [];
   if (!article || typeof article !== 'object') return ['article manquant'];
   if (!article.chapo || String(article.chapo).length < 40) raisons.push('chapô manquant ou trop court (40 caractères au moins)');
@@ -164,11 +169,51 @@ export function controleArticle(article, origines, motsSource) {
   if (blocs.length < 2) raisons.push('au moins 2 blocs (intertitre + paragraphes)');
   if (blocs.some((b) => !Array.isArray(b.paragraphes) || !b.paragraphes.length)) raisons.push('chaque bloc a au moins un paragraphe');
   const n = motsArticle(article);
-  const min = motsSource >= SOURCE_MINCE ? ARTICLE_MIN : ARTICLE_MIN_SOURCE_MINCE;
-  if (n < min) raisons.push(`trop court : ${n} mots (${min} au moins${min === ARTICLE_MIN ? '' : ', source mince'})`);
+  const mince = motsSource < SOURCE_MINCE;
+  if (!motsSource) raisons.push('source non lue (tmp/sources vide) : lance node scripts/sources.mjs <site> <id>, ou ajoute le texte d’un autre média avec --ajoute <adresse>');
+  else if (mince && n < ARTICLE_MIN && !sourceMince) {
+    raisons.push(
+      autresSources.length
+        ? `source mince (${motsSource} mots) alors que des autres_sources sont citées : ajoute leur texte avec node scripts/sources.mjs <site> <id> --ajoute <adresse>, puis écris 300 mots ; si tout reste mince, mets "source_mince": true`
+        : `source mince (${motsSource} mots) : cherche la même info chez un autre média sérieux, ajoute son texte (node scripts/sources.mjs <site> <id> --ajoute <adresse>) et son adresse dans autres_sources, puis écris 300 mots ; seulement si rien n’existe, mets "source_mince": true (150 mots au moins)`,
+    );
+  }
+  const min = mince && sourceMince ? ARTICLE_MIN_SOURCE_MINCE : ARTICLE_MIN;
+  if (n < min && !(mince && !sourceMince && motsSource)) raisons.push(`trop court : ${n} mots (${min} au moins${min === ARTICLE_MIN ? '' : ', source mince'})`);
   if (n > ARTICLE_MAX) raisons.push(`trop long : ${n} mots (${ARTICLE_MAX} au plus)`);
   for (const t of textesArticle(article)) for (const s of suitesCopiees(t, origines)) raisons.push(`article : « ${s} »`);
   return raisons;
+}
+
+// ---------- Doublons avec les actus déjà en ligne ----------
+// Deux passages (12 h et 19 h) voyaient la même nouvelle chez deux médias et la publiaient deux fois
+// (Keur Bible : Avelino Chico, Vatican News puis ACI Africa ; Keur Foot : liste de Vieira, forfait de Mamadou Sarr…).
+const MOTS_COURANTS_DOUBLON = new Set('avec dans pour sont plus leur cette entre apres avant mais comme tout tous deux trois fait faire lors sera aussi depuis encore leurs selon contre quand dont elle elles nous vous'.split(' '));
+const NOMS_TROP_COURANTS = new Set(['le', 'la', 'les', 'un', 'une', 'des', 'du', 'de', 'au', 'aux', 'en', 'et', 'il', 'elle', 'ils', 'ce', 'cette', 'son', 'sa', 'ses', 'pour', 'avec', 'dans', 'sur', 'apres', 'avant', 'selon', 'mais', 'lors', 'ligue', 'coupe', 'senegal', 'france', 'afrique', 'can', 'caf', 'maroc', 'nigeria']);
+const nomsPropres = (t) => new Set((String(t).match(/\b\p{Lu}[\p{L}'’-]{2,}/gu) || []).map((w) => sansAccents(w.toLowerCase())).filter((w) => !NOMS_TROP_COURANTS.has(w)));
+const motsPleins = (t) => new Set(mots(t).filter((w) => w.length >= 4 && !MOTS_COURANTS_DOUBLON.has(w)));
+const jaccard = (x, y) => {
+  let n = 0;
+  for (const w of x) if (y.has(w)) n++;
+  return n / (x.size + y.size - n || 1);
+};
+export const SEUIL_DOUBLON = 0.34;
+export const JOURS_DOUBLON = 5;
+// Proximité de deux actus (titre + résumé ou chapô) : noms propres communs (poids 0,5) + mots pleins communs.
+export function similariteActus(a, b) {
+  const ta = `${a.titre || ''} ${a.resume || a.article?.chapo || ''}`;
+  const tb = `${b.titre || ''} ${b.resume || b.article?.chapo || ''}`;
+  return jaccard(nomsPropres(ta), nomsPropres(tb)) * 0.5 + jaccard(motsPleins(ta), motsPleins(tb));
+}
+// Actus déjà en ligne (publiées dans les JOURS_DOUBLON jours autour) qui ressemblent trop à r.
+export function doublonsProbables(r, enLigne, { date = null } = {}) {
+  const t = Date.parse(date || new Date().toISOString());
+  return enLigne
+    .filter((a) => a.id !== r.id && Math.abs(Date.parse(a.publie_le || a.collecte_le) - t) <= JOURS_DOUBLON * 86400000)
+    .map((a) => ({ a, score: similariteActus(r, a) }))
+    .filter((x) => x.score >= SEUIL_DOUBLON)
+    .sort((x, y) => y.score - x.score)
+    .map(({ a, score }) => ({ id: a.id, titre: a.titre, publie_le: a.publie_le, score: Math.round(score * 100) / 100 }));
 }
 
 // ---------- Anti-répétition des images ----------

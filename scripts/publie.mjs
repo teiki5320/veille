@@ -16,7 +16,7 @@ import {
   RACINE, BASE_URL, MAX_ACTUS, MAX_PAR_PASSAGE, MAX_PAR_JOUR, jourParis, FENETRE_RECENTES, LIBELLES_THEMES,
   sites, lireJson, ecrireJson, lireEtat, ecrireEtat, controleAntiCopie, imageDejaVue,
   carteSvg, telecharger, mots, texteSeul, couper, heureParis, normaliserUrl,
-  controleArticle, motsArticle, lectureMin, slugDe,
+  controleArticle, motsArticle, lectureMin, slugDe, doublonsProbables,
 } from './lib.mjs';
 
 // ---------- Validation ----------
@@ -305,7 +305,8 @@ export function verifierLot(redaction, candidats, { site = null, publiees = new 
     if (publiees.has(r.id)) {
       // Déjà en ligne (même si l'id est encore dans les candidats) : seul l'article peut être ajouté.
       // Complément : article d'une actu déjà publiée (titre et résumé ne changent pas).
-      const raisons = controleArticle(r.article, [source], nbMots(source));
+      const autresSources = [...(publiees.get(r.id).autres_sources || []), ...(r.autres_sources || [])];
+      const raisons = site ? controleArticle(r.article, [source], nbMots(source), { autresSources, sourceMince: r.source_mince === true }) : [];
       if (raisons.length) rejets.push({ id: r.id, titre: publiees.get(r.id).titre, raisons, mots_source: nbMots(source) });
       else ok.push({ ...r, complement: true });
       continue;
@@ -315,7 +316,17 @@ export function verifierLot(redaction, candidats, { site = null, publiees = new 
       continue;
     }
     const origines = [principal, ...(r.autres_ids || []).map((i) => parId.get(i)).filter(Boolean)].flatMap((c) => [c.titre_original, c.description]);
-    const raisons = [...controleAntiCopie(r, origines), ...(site ? controleArticle(r.article, [...origines, source], nbMots(source)) : [])];
+    const raisons = [
+      ...controleAntiCopie(r, origines),
+      ...(site ? controleArticle(r.article, [...origines, source], nbMots(source), { autresSources: r.autres_sources || [], sourceMince: r.source_mince === true }) : []),
+    ];
+    // Même nouvelle déjà en ligne (autre passage, autre média) ou déjà gardée dans ce lot ?
+    const proches = doublonsProbables(r, [...publiees.values(), ...ok.map((o) => ({ ...o, publie_le: parId.get(o.id)?.date }))], { date: principal.date });
+    const suite = proches.filter((p) => p.id !== r.suite_de);
+    if (suite.length) {
+      const p = suite[0];
+      raisons.push(`doublon probable de « ${p.titre} » (${p.id}, ${String(p.publie_le || '').slice(0, 10)}, proximité ${p.score}) : si c’est la même nouvelle, abandonne-la (ou mets son id dans autres_ids de l’autre) ; seulement si c’est une vraie suite avec un fait nouveau, ajoute "suite_de": "${p.id}"`);
+    }
     if (raisons.length) rejets.push({ id: r.id, titre: r.titre, resume: r.resume, raisons, titre_original: principal.titre_original, description_origine: principal.description, mots_source: nbMots(source) });
     else ok.push(r);
   }

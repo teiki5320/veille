@@ -23,5 +23,5 @@ Décisions : `Studio/docs/veille/decisions-v1.md` (dépôt teiki5320/Studio).
 - `etat/<site>.json` : déjà-vus, erreurs de flux, images récentes (anti-répétition).
 - `banque/<site>/` : banque d'images perso (vide pour l'instant ; `index.json` = `[{ fichier, credit, licence, page, mots_cles }]`).
 - `scripts/change-photo.mjs` : changer la photo d'une actu déjà publiée (photo hors sujet, logo coupé), avec les mêmes règles (image libre, crédit, licence) ; la photo refusée ne revient plus pour cette actu (`etat/<site>.json` → `refusees`). Lancer avec `--sans-git`, regarder l'aperçu `tmp/apercu-<site>-<id>.png`, relancer si besoin, puis commit et push.
-- `scripts/collecte.mjs` (étape 1), `scripts/sources.mjs` (texte des articles sources, pour rédiger et pour l'anti-copie), `scripts/publie.mjs` (étape 3), `scripts/test.mjs` (tests : `npm test`).
+- `scripts/collecte.mjs` (étape 1), `scripts/sources.mjs` (texte des articles sources, pour rédiger et pour l'anti-copie ; `--ajoute <adresse>` pour une source mince), `scripts/publie.mjs` (étape 3 : longueur, anti-copie, doublons avec les actus en ligne), `scripts/reprend-article.mjs` (reprendre l'article d'une actu déjà en ligne, mêmes contrôles), `scripts/test.mjs` (tests : `npm test`).
 - `tmp/` : fichiers de travail d'un passage, jamais commités.

@@ -33,10 +33,12 @@ Pour **chaque site** de `sites/*.json` :
    - **Keur Bible** : seulement la culture chrétienne en Afrique et dans la diaspora (fêtes et pèlerinages, gospel, art sacré et patrimoine, livres et films, figures chrétiennes africaines, communautés en France), pour toutes les Églises ; **jamais de politique, de scandale, de polémique entre Églises ni de persécutions** ; ton respectueux, jamais prosélyte.
    - Il est normal de n'avoir qu'une ou deux actus (voire aucune) pour Keur Cook, Keur Déco, Kultiled et Keur Bible : ne garde jamais un article hors sujet pour faire du volume.
 3. **Fusionne les doublons** : la même info vue dans plusieurs flux = une seule actu. Le candidat le plus complet est l'`id` principal ; les autres vont dans `autres_ids`.
+   **Et compare avec ce qui est déjà en ligne** : lis les titres de `actus/<site>.json` des 5 derniers jours (le passage de 12 h a pu publier la même nouvelle vue chez un autre média). Même événement = pas de nouvelle actu. Une vraie suite (fait nouveau : verdict, résultat, chiffre officiel) est permise : ajoute alors `"suite_de": "<id de l'actu en ligne>"`. Le script rejette tout « doublon probable » sans `suite_de` (ex. du 05/11 : Avelino Chico publié deux fois sur Keur Bible, d'après Vatican News puis ACI Africa).
 4. Garde **4 actus au plus par site et par jour** (les deux passages comptés ensemble ; regarde dans `actus/<site>.json` combien ont un `collecte_le` d'aujourd'hui et ne rédige que ce qu'il reste). Choisis **les plus pertinentes et les plus « buzz »** : celles dont tout le monde parle (reprises par plusieurs flux = beaucoup d'`autres_ids`), les grands noms, les grands événements, les records et les premières. Classe-les de la plus forte à la moins forte. Le script de publication coupe de toute façon au-delà de 4 par jour.
 5. **Lis les sources des actus gardées** (aucune IA) : `node scripts/sources.mjs <site> <id> <id>…` (ids des candidats principaux). Le texte va dans `tmp/sources/<site>/<id>.txt` et le nombre de mots s'affiche.
-   - Si une source fait **moins de 250 mots** (page bloquée, vidéo, brève) : ouvre-la avec WebFetch ; sinon cherche la **même info chez un autre média sérieux** (WebSearch), lis-le avec WebFetch, **ajoute son texte à la fin** de `tmp/sources/<site>/<id>.txt` et son adresse dans `autres_sources` de l'actu.
-   - Si, malgré ça, tu n'as pas de quoi écrire 150 mots vrais : **n'en fais pas une actu** (prends-en une autre).
+   - Si une source fait **moins de 250 mots** (page bloquée, vidéo, brève) : cherche la **même info chez un autre média sérieux** (WebSearch), puis ajoute son texte avec `node scripts/sources.mjs <site> <id> --ajoute <adresse>` (si la page ne se lit pas ainsi, colle à la fin de `tmp/sources/<site>/<id>.txt` le texte lu avec WebFetch) et mets l'adresse dans `autres_sources`. Avec ce texte en plus, l'article fait **300 mots** comme les autres.
+   - Seulement si **aucun** autre média n'en parle : `"source_mince": true` dans l'actu, et 150 mots au moins. Le script refuse un article de moins de 300 mots sans ce champ, et refuse ce champ si `tmp/sources` est vide (source jamais lue).
+   - Si tu n'as pas de quoi écrire 150 mots vrais : **n'en fais pas une actu** (prends-en une autre).
 6. Écris `tmp/redaction-<site>.json` — **toujours**, même vide (`{"site":"<site>","actus":[]}`) s'il n'y a rien à garder :
 
 ```json
@@ -56,6 +58,8 @@ Pour **chaque site** de `sites/*.json` :
       "image_alt": "…",
       "image_alt_large": "…",
       "autres_sources": [],
+      "suite_de": null,
+      "source_mince": false,
       "article": {
         "chapo": "…",
         "blocs": [
@@ -80,7 +84,7 @@ Règles de rédaction :
 - `image_requetes`, du plus précis au plus large : pour Wikimedia, le **nom exact** de la personne, du lieu ou du club cité ; pour Openverse, 2 à 4 mots-clés **en anglais**, génériques (`african football stadium`, `bookstore books`…).
 - `image_alt` : description factuelle de ce qu'on verra sur la photo **Wikimedia** (la personne, le lieu ou le club exact), 160 caractères au plus. Reste prudent : la photo trouvée peut montrer une autre vue du sujet (une racine plutôt qu'une gousse, un bouton plutôt qu'un pot) ; décris le sujet, pas un détail que tu supposes.
 - `article` : **l'article complet**, affiché sur sa propre page du site (`/actus/<adresse>/`). Règles :
-  - **300 à 450 mots** (contrôlé : 300 à 480) ; **150 mots au moins** seulement si la source fait moins de 250 mots.
+  - **300 à 450 mots** (contrôlé : 300 à 480), chapô et intertitres compris ; **150 mots au moins** seulement avec `"source_mince": true` (voir le point 5 : aucun autre média trouvé).
   - `chapo` : 1 ou 2 phrases d'attaque (40 à 320 caractères) qui disent l'essentiel.
   - `blocs` : 3 ou 4 blocs. Le 1er sans intertitre (les faits : qui, quoi, où, quand). Puis des intertitres courts et informatifs (pas de questions racoleuses) : le contexte, les chiffres ou les réactions, ce qui va se passer ensuite. 1 à 3 paragraphes par bloc.
   - **Rien d'inventé** : seulement ce que disent `tmp/sources/<site>/<id>.txt`, le titre et la description du candidat, et des faits de contexte **sûrs et vérifiables** (dates, palmarès, rôle d'une institution). Pas de citation entre guillemets sauf si elle est mot pour mot dans la source, et alors 15 mots au plus et attribuée.
@@ -97,7 +101,7 @@ Règles de rédaction :
 node scripts/publie.mjs --verifier
 ```
 
-S'il y a des rejets, lis `tmp/rejets-<site>.json` (suites de 6 mots reprises, article trop court ou trop long), **réécris une seule fois** ces actus dans `tmp/redaction-<site>.json`, puis publie :
+S'il y a des rejets, lis `tmp/rejets-<site>.json` (suites de 6 mots reprises, article trop court ou trop long, source mince sans recherche, doublon probable d'une actu en ligne), **réécris une seule fois** ces actus (un doublon de la même nouvelle : retire-le de la rédaction) dans `tmp/redaction-<site>.json`, puis publie :
 
 ```sh
 node scripts/publie.mjs
@@ -122,6 +126,16 @@ node scripts/recadre.mjs <site> <id> <haut>    # haut : 0 = garder le haut de la
 ```
 
 Pour une photo Openverse, ajoute l'adresse de l'original (page Flickr → `og:image`). Refais la planche jusqu'à ce que ce soit bon, puis `git add images && git commit -m "Veille : recadrage des photos" && git pull --rebase && git push`.
+
+### Corriger un article déjà en ligne
+
+Article trop court, fait faux : ne touche jamais `actus/*.json` à la main. Écris `tmp/reprise-<site>.json` (`[{ "id": "…", "article": { "chapo": "…", "blocs": [...] }, "autres_sources": [] }]`), ajoute d'abord le texte des médias lus en plus (`node scripts/sources.mjs <site> <id> --ajoute <adresse>`), puis :
+
+```sh
+node scripts/reprend-article.mjs <site> tmp/reprise-<site>.json
+```
+
+Mêmes contrôles que la publication (300 à 480 mots, anti-copie sur tout le texte des sources, schéma) ; il recalcule `mots` et `lecture_min` et refait l'index. Puis `git add articles actus && git commit … && git pull --rebase && git push`. On ne supprime jamais une actu en ligne (sa page existe sur le site) : un doublon déjà publié se signale à Jean.
 
 ## 5. Alerte dans le Studio de Jean (seulement en cas de problème)
 

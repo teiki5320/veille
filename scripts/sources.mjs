@@ -4,6 +4,9 @@
 // Usage :
 //   node scripts/sources.mjs <site> <id> [<id>…]   → candidats choisis (tmp/candidats-<site>.json)
 //   node scripts/sources.mjs <site> --publiees      → actus déjà en ligne sans article
+//   node scripts/sources.mjs <site> <id> --ajoute <adresse> [<adresse>…]
+//       → ajoute à la fin de tmp/sources/<site>/<id>.txt le texte d'un autre média (source mince) ;
+//         l'adresse va aussi dans autres_sources de la rédaction. Le contrôle anti-copie porte aussi sur ce texte.
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -27,7 +30,29 @@ export async function lireSource(url) {
 
 async function principal() {
   const [site, ...reste] = process.argv.slice(2);
-  if (!site) throw new Error('usage : node scripts/sources.mjs <site> <id>… | --publiees');
+  if (!site) throw new Error('usage : node scripts/sources.mjs <site> <id>… | --publiees | <id> --ajoute <adresse>…');
+  if (reste.includes('--ajoute')) {
+    const id = reste[0];
+    const adresses = reste.slice(reste.indexOf('--ajoute') + 1);
+    if (!/^[0-9a-f]{40}$/.test(id) || !adresses.length) throw new Error('usage : node scripts/sources.mjs <site> <id> --ajoute <adresse>…');
+    const fichier = path.join(RACINE, 'tmp', 'sources', site, `${id}.txt`);
+    fs.mkdirSync(path.dirname(fichier), { recursive: true });
+    let texte = fs.existsSync(fichier) ? fs.readFileSync(fichier, 'utf8') : '';
+    for (const u of adresses) {
+      try {
+        const t = await lireSource(u);
+        const n = t.split(/\s+/).filter(Boolean).length;
+        if (n) texte += (texte ? '\n\n' : '') + `[${u}]\n` + t;
+        console.log(`   ${u} : ${n} mots ajoutés`);
+      } catch (e) {
+        console.log(`   ${u} : ${e.message} (rien ajouté : colle le texte lu avec WebFetch à la fin du fichier)`);
+      }
+    }
+    fs.writeFileSync(fichier, texte);
+    const n = texte.split(/\s+/).filter(Boolean).length;
+    console.log(`${id} : ${n} mots en tout${n < 250 ? ' (encore mince : une autre source, ou "source_mince": true si rien n’existe)' : ' → article de 300 à 450 mots'}`);
+    return;
+  }
   let cibles;
   if (reste.includes('--publiees')) {
     const doc = lireJson(path.join(RACINE, 'actus', `${site}.json`), { actus: [] });
@@ -51,7 +76,7 @@ async function principal() {
     }
     fs.writeFileSync(path.join(dossier, `${c.id}.txt`), texte);
     const n = texte.split(/\s+/).filter(Boolean).length;
-    console.log(`${c.id} : ${n} mots${n < 250 ? ' (source mince : article de 150 mots au moins, sans rien inventer)' : ''}`);
+    console.log(`${c.id} : ${n} mots${n < 250 ? ' (source mince : cherche la même info chez un autre média et ajoute son texte avec --ajoute <adresse> ; 150 mots et "source_mince": true seulement si rien n’existe)' : ''}`);
   }
 }
 
