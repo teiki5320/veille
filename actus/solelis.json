@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-08T18:18:41.200Z",
+  "genere_le": "2026-11-09T09:27:44.873Z",
   "actus": [
     {
       "id": "128a79357a732a9be3ff9684050ec4da56e7c20c",
@@ -532,13 +532,13 @@
       "lecture_min": 1,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/solelis/3c7b4e7c9c753dcea726bb82573ca5a9520fff83.webp",
-        "source": "wikimedia",
-        "credit": "Boubloub",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:6_Haussmann.jpg",
-        "alt": "Bpifrance, la banque publique d'investissement",
+        "source": "openverse",
+        "credit": "SteveR-",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/98621709@N00/864103506",
+        "alt": "Feu de forêt en France",
         "mots_cles": [
-          "Bpifrance"
+          "forest fire Landes France"
         ],
         "largeur": 1600,
         "hauteur": 900
