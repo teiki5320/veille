@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-09T11:23:04.467Z",
+  "genere_le": "2026-11-09T11:25:06.182Z",
   "actus": [
     {
       "id": "83d097c17a2ef2480db3b8af2e494f280ba65777",
@@ -26,12 +26,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/83d097c17a2ef2480db3b8af2e494f280ba65777.webp",
         "source": "wikimedia",
-        "credit": "Timmy96",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(2).jpg",
+        "credit": "Bryan Berlin",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_France_v_Senegal_16_June_2026-463.jpg",
         "alt": "Nicolas Jackson, attaquant international sénégalais",
         "mots_cles": [
-          "Nicolas Jackson"
+          "Nicolas Jackson Senegal"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -95,12 +95,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/98d3f36bf1e42b2dc5724f0776a9967a3169ea62.webp",
         "source": "wikimedia",
-        "credit": "Aziouez",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:USM_Alger,_2014-02-15.jpg",
-        "alt": "Le club de football algérien USM Alger",
+        "credit": "R4vi from London, UK",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pretoria_Skyline.jpg",
+        "alt": "Le stade Loftus Versfeld ou la ville de Pretoria, en Afrique du Sud",
         "mots_cles": [
-          "USM Alger"
+          "Pretoria skyline"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -126,12 +126,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/2fc3a4ad7b8e212950e8a20b04d792a62fd3d967.webp",
         "source": "wikimedia",
-        "credit": "Florstein ( Telegram: WikiPhoto.Space )",
+        "credit": "Original: Arne Müseler; Derivative work: Blackcat",
         "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Petrovskiy_football_stadium_in_SPB.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sunderland_Stadium_of_Light_aerial.jpg",
         "alt": "Le Stadium of Light, stade du club anglais de Sunderland",
         "mots_cles": [
-          "Stadium of Light"
+          "Stadium of Light Sunderland"
         ],
         "largeur": 1600,
         "hauteur": 900

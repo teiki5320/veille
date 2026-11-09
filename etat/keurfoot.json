@@ -3008,7 +3008,7 @@
   "images_recentes": [
     {
       "id": "83d097c17a2ef2480db3b8af2e494f280ba65777",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nicolas_Jackson_France_v_Senegal_16_June_2026-463.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "0f874f628c2801b1746da2e89dd6c45f1da25129",
@@ -3016,11 +3016,11 @@
     },
     {
       "id": "98d3f36bf1e42b2dc5724f0776a9967a3169ea62",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/5/51/USM_Alger%2C_2014-02-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pretoria_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "2fc3a4ad7b8e212950e8a20b04d792a62fd3d967",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/0/05/Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sunderland_Stadium_of_Light_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "5919fcd77c4a9c2f84e99bc9d29b7f297b29c083",
@@ -3144,10 +3144,10 @@
     "41cf9252dd268da413d2c491b4abd3c6fa9ab857": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cairo_International_Stadium.jpg",
     "7ac3e0f0c1005892f076745253c4db6c3e7c9758": "https://upload.wikimedia.org/wikipedia/commons/5/59/Patrick_Vieira_NYCFC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751": "https://upload.wikimedia.org/wikipedia/commons/5/52/HakimiAchraf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "98d3f36bf1e42b2dc5724f0776a9967a3169ea62": "https://upload.wikimedia.org/wikipedia/commons/5/51/USM_Alger%2C_2014-02-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "98d3f36bf1e42b2dc5724f0776a9967a3169ea62": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pretoria_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "0f874f628c2801b1746da2e89dd6c45f1da25129": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cairo_stadium_Egypt_vs_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "2fc3a4ad7b8e212950e8a20b04d792a62fd3d967": "https://upload.wikimedia.org/wikipedia/commons/0/05/Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "83d097c17a2ef2480db3b8af2e494f280ba65777": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "2fc3a4ad7b8e212950e8a20b04d792a62fd3d967": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sunderland_Stadium_of_Light_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "83d097c17a2ef2480db3b8af2e494f280ba65777": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nicolas_Jackson_France_v_Senegal_16_June_2026-463.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [
@@ -3160,6 +3160,17 @@
     "41cf9252dd268da413d2c491b4abd3c6fa9ab857": [
       "https://upload.wikimedia.org/wikipedia/commons/4/44/Hassan_el-Banna%27s_Son%2C_Ahmad_Seif_al-Islam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://live.staticflickr.com/2663/4105510682_0d08ed9bc2_b.jpg"
+    ],
+    "2fc3a4ad7b8e212950e8a20b04d792a62fd3d967": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "83d097c17a2ef2480db3b8af2e494f280ba65777": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f1/Fulham_v_Chelsea_20042025_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "98d3f36bf1e42b2dc5724f0776a9967a3169ea62": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/USM_Alger%2C_2014-02-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Loftus_Versfeld_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
