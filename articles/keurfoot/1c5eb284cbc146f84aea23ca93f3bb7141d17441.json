@@ -4,29 +4,37 @@
   "id": "1c5eb284cbc146f84aea23ca93f3bb7141d17441",
   "slug": "ligue-des-champions-caf-scottland-fc-se-separe-de-norman-mapeza-1c5eb2",
   "titre": "Ligue des champions CAF : Scottland FC se sépare de Norman Mapeza",
-  "chapo": "Sorti dès les tours préliminaires de la Ligue des champions africaine, le Scottland FC a mis fin à sa collaboration avec Norman Mapeza. Le départ prend effet tout de suite.",
+  "chapo": "Sorti de la Ligue des champions africaine avant la phase de groupes, le Scottland FC, champion du Zimbabwe en titre, a mis fin tout de suite à sa collaboration avec l'entraîneur Norman Mapeza.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Le club zimbabwéen a annoncé que son entraîneur principal quittait ses fonctions. Cette séparation intervient après l'échec de l'équipe dans les tours préliminaires de la compétition continentale : Scottland ne sera pas parmi les seize clubs encore en course après les tours préliminaires."
+        "Le club basé à Mabvuku, près de Harare, a officialisé fin octobre 2026 le départ de son technicien, deux jours après son élimination continentale. Peter Ndlovu, jusque-là manager de l'équipe, assure l'intérim pendant que la direction cherche un successeur durable."
       ]
     },
     {
-      "intertitre": "Un bon parcours en championnat",
+      "intertitre": "Une qualification envolée en Angola",
       "paragraphes": [
-        "Le bilan national de Mapeza était pourtant solide. Le club est actuellement deuxième du championnat du Zimbabwe. Les dirigeants vont maintenant chercher un successeur capable de tenir ce rythme jusqu'à la fin de la saison.",
-        "Scottland est aussi un réservoir pour la sélection : huit de ses joueurs, dont Knowledge Musona, figurent sur la liste provisoire des Warriors pour les matchs de novembre contre la Guinée équatoriale."
+        "Scottland semblait pourtant bien placé au deuxième tour préliminaire. Vainqueur 2-0 de Petro de Luanda à l'aller, au stade national des sports de Harare, il s'est écroulé au retour en Angola, battu 3-0. L'équipe est sortie sur un score cumulé de 3-2.",
+        "Le président du club, Scott Sakupwanya, avait fait de cette compétition une priorité et beaucoup investi dans l'effectif. Pour sa première participation, le club n'a pas atteint ses objectifs. Il avait aussi déjà quitté la Chibuku Super Cup."
       ]
     },
     {
-      "intertitre": "Un technicien bien connu au Zimbabwe",
+      "intertitre": "Un titre national menacé",
       "paragraphes": [
-        "Ancien international, Norman Mapeza a longtemps entraîné le FC Platinum, qu'il a quitté une première fois en 2019 avant d'y revenir fin 2020. Il a aussi dirigé la sélection nationale à plusieurs reprises, notamment comme intérimaire en 2021. Le nom de son remplaçant à Scottland n'a pas encore été communiqué."
+        "En championnat, Scottland est deuxième, huit points derrière le leader Hardrock, avec deux matchs en retard. Même en les gagnant, il resterait à deux longueurs. Il ne reste que quatre rencontres à disputer.",
+        "Dans son communiqué, le club remercie Mapeza pour son travail et promet de rester uni et compétitif jusqu'au bout de la saison. Ndlovu, titulaire d'une licence CAF A, dirigera son premier match face aux CAPS United, au stade Rufaro."
+      ]
+    },
+    {
+      "intertitre": "Mapeza, un technicien connu",
+      "paragraphes": [
+        "Ancien sélectionneur des Warriors, Norman Mapeza avait été nommé fin novembre 2025. Il succédait à Tonderai Ndiraya, qui venait d'offrir au club son premier titre de champion, et arrivait du FC Platinum, qu'il venait de quitter.",
+        "Son adjoint de longue date, Daniel Veremu, devrait partir avec lui. Pour épauler Ndlovu, l'ancien entraîneur de Yadah, Thomas Ruzive, fait partie des noms étudiés. À plus long terme, les anciens sélectionneurs du Zimbabwe Baltemar Brito et Michael Nees sont cités. Le club suit aussi le Roumain Aristica Cioaba, lié au Dynamos jusqu'en 2027."
       ]
     }
   ],
-  "mots": 201,
+  "mots": 328,
   "lecture_min": 1,
   "theme": "foot",
   "pays": [
@@ -35,8 +43,13 @@
   "competition": "Ligue des champions CAF",
   "source_nom": "Africa Top Sports",
   "source_url": "https://africatopsports.com/football/ligue-des-champions-caf-scottland-se-separe-de-son-entraineur/",
+  "autres_sources": [
+    "https://africasoccer.com/?p=644698",
+    "https://www.heraldonline.co.zw/scottland-battle-to-fill-mapeza-void/",
+    "https://nehandaradio.com/2025/11/27/champions-scottland-appoint-norman-mapeza-to-replace-tonderai-ndiraya"
+  ],
   "publie_le": "2026-10-27T07:18:12.000Z",
-  "redige_le": "2026-10-28T00:35:23.767Z",
+  "redige_le": "2026-11-09T19:08:09.579Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/cartes/keurfoot/1c5eb284cbc146f84aea23ca93f3bb7141d17441.svg",
     "source": "carte",

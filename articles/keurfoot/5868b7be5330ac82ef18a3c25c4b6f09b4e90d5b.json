@@ -4,30 +4,37 @@
   "id": "5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b",
   "slug": "mondial-u17-feminin-le-nigeria-et-le-ghana-portent-afrique-en-quarts-5868b7",
   "titre": "Mondial U17 féminin : le Nigeria et le Ghana portent l'Afrique en quarts de finale",
-  "chapo": "Deux sélections africaines sont encore en course à la Coupe du monde féminine des moins de 17 ans, disputée au Maroc : le Nigeria et le Ghana jouent les quarts de finale.",
+  "chapo": "Le Nigeria et le Ghana sont les deux dernières sélections africaines en lice à la Coupe du monde féminine des moins de 17 ans, organisée au Maroc. Elles disputent les quarts de finale.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Quatre équipes du continent avaient atteint les huitièmes de finale. Il en reste deux. Les Flamingos nigérianes affronteront le Venezuela, tandis que les Black Maidens du Ghana seront opposées au Japon. Une victoire enverrait l'Afrique dans le dernier carré mondial."
+        "Quatre équipes du continent avaient atteint les huitièmes de finale. Il n'en reste que deux. Les quarts sont programmés le dimanche 1er novembre au complexe Mohammed VI de Rabat. Les Flamingos du Nigeria y défient le Venezuela, les Black Maidens du Ghana le Japon. Une victoire enverrait l'Afrique dans le dernier carré."
       ]
     },
     {
-      "intertitre": "Des parcours solides",
+      "intertitre": "Deux parcours différents",
       "paragraphes": [
-        "Le Nigeria a frappé fort en dominant la Corée du Nord, tenante du titre, avant d'écarter le Mexique.",
-        "Le Ghana, lui, avait perdu son premier match. Les Ghanéennes ont ensuite tenu le Brésil en échec, battu le Canada, puis éliminé l'Argentine aux tirs au but."
+        "Le Nigeria s'est distingué en battant la Corée du Nord, tenante du titre, avant d'écarter le Mexique en huitièmes.",
+        "Le Ghana a connu un départ plus compliqué, avec une défaite lors de son premier match. Les Ghanéennes ont ensuite tenu le Brésil en échec et dominé le Canada. En huitièmes, elles ont sorti l'Argentine aux tirs au but, après un score de 1-1."
       ]
     },
     {
-      "intertitre": "Le Maroc, hôte jusqu'en 2029",
+      "intertitre": "Le pays hôte éliminé",
       "paragraphes": [
-        "Le royaume accueille ce tournoi de la FIFA chaque année entre 2025 et 2029, soit cinq éditions de suite. Une expérience utile avant la Coupe du monde 2030, que le Maroc coorganisera avec l'Espagne et le Portugal.",
-        "Pour le football féminin africain, c'est une vitrine. Reste à transformer cette visibilité en investissements durables dans la formation, les clubs et les championnats locaux."
+        "Le Maroc n'a pas franchi les huitièmes : la Corée du Nord l'a battu 6-0. Parmi les autres qualifiés pour les quarts figurent le Venezuela, vainqueur de l'Allemagne 1-0, et le Brésil, qui a écarté la Pologne aux tirs au but (8-7) après un match nul 3-3. La Chine a elle aussi passé ce tour aux dépens de la France, également aux tirs au but.",
+        "Commencée le 17 octobre, la compétition se poursuit avec les demi-finales le mercredi 4 novembre. La finale aura lieu le samedi 7 novembre au stade Prince Moulay El Hassan."
+      ]
+    },
+    {
+      "intertitre": "Cinq éditions au Maroc",
+      "paragraphes": [
+        "Le royaume accueille ce tournoi de la FIFA chaque année entre 2025 et 2029. Cette série lui apporte de l'expérience avant la Coupe du monde 2030, qu'il coorganisera avec l'Espagne et le Portugal. Les équipes y disposent de terrains de qualité, d'hébergements sur place et d'installations de médecine du sport.",
+        "Pour les jeunes joueuses africaines, la compétition offre une vitrine internationale."
       ]
     }
   ],
-  "mots": 187,
+  "mots": 314,
   "lecture_min": 1,
   "theme": "foot",
   "pays": [
@@ -38,8 +45,12 @@
   "competition": "Coupe du monde féminine U17",
   "source_nom": "Kawowo Sports",
   "source_url": "https://kawowo.com/2026/11/01/nigeria-ghana-carry-africas-ambitions-into-the-quarterfinals-fifa-u-17-womens-world-cup-2026/",
+  "autres_sources": [
+    "https://beninwebtv.bj/en/u17-womens-world-cup-four-nations-qualify-for-quarter-finals/",
+    "https://www.soccergraph.com/2026/10/fifa-u17-womens-world-cup-knockout-schedule-results.html"
+  ],
   "publie_le": "2026-11-01T19:40:36.000Z",
-  "redige_le": "2026-11-02T11:19:41.972Z",
+  "redige_le": "2026-11-09T19:08:09.671Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b.webp",
     "source": "wikimedia",

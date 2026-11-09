@@ -4,29 +4,36 @@
   "id": "2e309e2b0bbd96df165be769512ec79ad2beaec4",
   "slug": "commerces-touches-par-les-manifestations-des-ouvertures-le-dimanche-2e309e",
   "titre": "Commerces touchés par les manifestations : des ouvertures le dimanche jusqu'à Noël",
-  "chapo": "Le gouvernement veut aider les commerçants pénalisés par les manifestations du samedi. Maires et préfets seront encouragés à autoriser des ouvertures exceptionnelles le dimanche d'ici aux fêtes.",
+  "chapo": "Le gouvernement se dit prêt à faciliter des ouvertures exceptionnelles le dimanche jusqu'aux fêtes, afin d'aider les boutiques pénalisées par les manifestations du samedi.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "L'annonce a été faite jeudi 29 octobre par Maud Bregeon, porte-parole du gouvernement, sur BFMTV et RMC. L'objectif est de permettre aux boutiques qui ont perdu du chiffre d'affaires pendant les cortèges du samedi de compenser une partie de ces pertes avant Noël. Selon elle, la mesure répond à une demande venue des commerçants."
+        "Jeudi 29 octobre, sur BFMTV et RMC, Maud Bregeon, qui parle au nom du gouvernement, a indiqué que l'exécutif inciterait maires et préfets à accorder ces dérogations d'ici Noël. Le but : permettre aux commerçants de récupérer une partie des ventes perdues lors des cortèges. Elle a présenté la mesure comme une réponse à une demande de la profession.",
+        "Le même jour, l'Alliance du Commerce a fait savoir qu'elle avait écrit au Premier ministre, à Jean-Pierre Farandou, à Serge Papin et à tous les préfets pour soutenir cette demande."
       ]
     },
     {
-      "intertitre": "Un accord de principe du ministre du Travail",
+      "intertitre": "Les conditions du ministre du Travail",
       "paragraphes": [
-        "Jean-Pierre Farandou, ministre du Travail, a lui aussi soutenu cette idée le même jour sur France Inter. Il souhaite toutefois vérifier au préalable que les magasins visés par des dégradations ou des pillages ont pu être réparés et sont en mesure de rouvrir dans de bonnes conditions.",
-        "Il a aussi précisé que ces dimanches travaillés reposeraient uniquement sur des salariés volontaires, par solidarité avec des professions durement touchées."
+        "Sur France Inter, Jean-Pierre Farandou a parlé d'un accord presque acquis. Il veut cependant s'assurer d'abord que les magasins saccagés ou pillés ont pu être remis en état et peuvent rouvrir correctement. Il a aussi insisté sur un point : seuls des salariés volontaires travailleraient ces dimanches."
       ]
     },
     {
-      "intertitre": "Une fin d'année redoutée",
+      "intertitre": "Des pertes lourdes avant la saison clé",
       "paragraphes": [
-        "Nombre de commerçants redoutent que les clients se fassent plus rares avant les fêtes, une période décisive pour leurs ventes. En temps normal, le Code du travail permet déjà au maire d'accorder jusqu'à douze dimanches d'ouverture par an aux commerces de détail, après avis du conseil municipal."
+        "Les violences des samedis 17 et 24 octobre ont frappé de nombreux centres-villes. Selon CCI France, les commerces de centre-ville perdent environ 80 % de leur chiffre d'affaires les jours de manifestation. Or novembre et décembre pèsent 40 % des ventes annuelles des commerces de proximité.",
+        "Pour les plus petites entreprises, l'État a déjà prévu une aide directe pouvant atteindre 10 000 euros, réservée aux structures de moins de 50 salariés et de moins de 10 millions d'euros de chiffre d'affaires. Bpifrance propose aussi un prêt à taux zéro jusqu'à 50 000 euros pour les entreprises individuelles, TPE et PME de plus d'un an."
+      ]
+    },
+    {
+      "intertitre": "Une mesure contestée par FO",
+      "paragraphes": [
+        "Le syndicat Force ouvrière a dénoncé cette annonce, qu'il juge défavorable au repos dominical des salariés. Il estime aussi que les petits commerces risquent d'être désavantagés, faute de personnel et de moyens pour ouvrir tous les jours de la semaine."
       ]
     }
   ],
-  "mots": 208,
+  "mots": 322,
   "lecture_min": 1,
   "theme": "entreprises",
   "pays": [
@@ -34,8 +41,13 @@
   ],
   "source_nom": "20 Minutes",
   "source_url": "https://www.20minutes.fr/economie/4258521-20261029-manifestations-gouvernement-veut-faciliter-ouverture-dimanche-jusqu-noel-rattraper-manque-gagner?at_medium=display&at_campaign=149",
+  "autres_sources": [
+    "https://www.moneyvox.fr/votre-argent/actualites/111022/commerces-le-gouvernement-veut-faciliter-ouverture-le-dimanche-jusqua-noel",
+    "https://www.sudradio.fr/societe/commerces-pilles-vers-des-ouvertures-dominicales-jusqua-noel-pour-compenser",
+    "https://www.linfodurable.fr/plus-de-2500-commerces-touches-par-les-violences-dont-un-millier-fortement-degrades-selon-cci"
+  ],
   "publie_le": "2026-10-29T12:11:51.000Z",
-  "redige_le": "2026-10-29T18:22:46.213Z",
+  "redige_le": "2026-11-09T19:08:10.101Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/cartes/solelis/2e309e2b0bbd96df165be769512ec79ad2beaec4.svg",
     "source": "carte",

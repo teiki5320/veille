@@ -431,14 +431,15 @@
       "source_nom": "HortiDaily",
       "source_url": "https://www.hortidaily.com/article/9888199/38-acre-ultra-lit-greenhouse-expansion-in-delta-british-columbia-commences/",
       "autres_sources": [
-        "https://www.freshfruitportal.com/news/2026/07/30/windset-farms-bc/"
+        "https://www.freshfruitportal.com/news/2026/07/30/windset-farms-bc/",
+        "https://www.hortidaily.com/article/9775872/british-columbia-greenhouse-facility-expands/"
       ],
       "publie_le": "2026-11-02T13:04:00.000Z",
       "collecte_le": "2026-11-02T18:21:16.962Z",
       "langue": "en",
       "slug": "colombie-britannique-windset-farms-agrandit-ses-serres-eclairees-de-38-6ba154",
       "article_url": "https://teiki5320.github.io/veille/articles/kultiled/6ba1542991ff3d35ac6077cce918de6a67b7da07.json",
-      "lecture_min": 1,
+      "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/kultiled/6ba1542991ff3d35ac6077cce918de6a67b7da07.webp",
         "source": "wikimedia",

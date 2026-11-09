@@ -4,29 +4,37 @@
   "id": "27cdf73732867be23bfcf05c31b9457fcfb0dda9",
   "slug": "fifpro-world-11-2026-hakimi-unique-joueur-africain-de-la-preselection-27cdf7",
   "titre": "FIFPRO World 11 2026 : Hakimi, unique joueur africain de la présélection",
-  "chapo": "Achraf Hakimi est le seul représentant de l'Afrique dans la présélection du FIFPRO World 11 masculin 2026, l'équipe type de la saison choisie par les joueurs eux-mêmes.",
+  "chapo": "Achraf Hakimi est le seul Africain retenu dans la présélection de 26 noms du FIFPRO World 11 masculin 2026, l'équipe type de la saison désignée par les footballeurs eux-mêmes.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Le défenseur marocain du Paris Saint-Germain figure parmi les 26 noms retenus par le syndicat mondial des footballeurs. Cette liste repose sur les votes de 19 806 professionnels du monde entier. La composition finale du onze sera dévoilée une fois le vote terminé."
+        "Le syndicat mondial des joueurs a publié la liste le lundi 2 novembre. Le latéral droit marocain du Paris Saint-Germain figure parmi les huit défenseurs nommés. Au total, 19 806 professionnels issus de 73 pays ont pris part au vote."
       ]
     },
     {
-      "intertitre": "Une liste de grands noms",
+      "intertitre": "Un vote réservé aux joueurs",
       "paragraphes": [
-        "Hakimi partage la ligne défensive avec Virgil van Dijk, William Saliba, Dayot Upamecano ou son coéquipier parisien Nuno Mendes. Au milieu, on retrouve notamment Vitinha, autre joueur du PSG, Jude Bellingham, Pedri et Rodri.",
-        "En attaque, Kylian Mbappé et Lamine Yamal côtoient Erling Haaland, Harry Kane, Cristiano Ronaldo, Lionel Messi ou encore Khvicha Kvaratskhelia."
+        "Aucun jury ni vote du public n'intervient : seuls les footballeurs choisissent. Les performances prises en compte vont du 4 août 2025 au 19 juillet 2026, Coupe du monde comprise.",
+        "Le onze final réunira le gardien le plus cité, trois défenseurs, trois milieux et trois attaquants. La dernière place reviendra au joueur de champ le mieux placé parmi les autres. L'équipe sera dévoilée le lundi 9 novembre."
       ]
     },
     {
-      "intertitre": "Une reconnaissance pour le capitaine du Maroc",
+      "intertitre": "Une concurrence relevée",
       "paragraphes": [
-        "Le capitaine de la sélection marocaine voit cette nomination confirmer sa place parmi les meilleurs latéraux de la planète. Il est cette année le seul footballeur africain à apparaître dans la sélection établie par ses pairs."
+        "En défense, Hakimi côtoie Virgil van Dijk, William Saliba, Dayot Upamecano, Pau Cubarsí, Marc Cucurella, Gabriel Magalhães et son coéquipier parisien Nuno Mendes. Les gardiens en lice sont David Raya, Thibaut Courtois et Emiliano Martínez.",
+        "Au milieu figurent Vitinha, autre joueur du PSG, Jude Bellingham, Pedri, Rodri, Declan Rice, Bruno Fernandes et Enzo Fernández. Devant, Kylian Mbappé, Lamine Yamal, Erling Haaland, Harry Kane, Lionel Messi, Cristiano Ronaldo, Michael Olise et Khvicha Kvaratskhelia complètent la liste.",
+        "Le club parisien place quatre joueurs dans cette présélection : Hakimi, Nuno Mendes, Vitinha et Kvaratskhelia. Arsenal en compte autant, avec Raya, Gabriel Magalhães, Saliba et Rice."
+      ]
+    },
+    {
+      "intertitre": "Seul représentant du continent",
+      "paragraphes": [
+        "Le capitaine du Maroc reçoit ainsi une nouvelle marque de reconnaissance de la part de ses pairs. Aucun autre joueur africain n'apparaît cette année parmi les 26 noms retenus. Il faudra attendre le 9 novembre pour savoir s'il intègre le onze final. Parmi ses concurrents figurent encore Lionel Messi et Cristiano Ronaldo, de nouveau présents dans la liste des 26 cette année."
       ]
     }
   ],
-  "mots": 172,
+  "mots": 312,
   "lecture_min": 1,
   "theme": "foot",
   "pays": [
@@ -35,8 +43,12 @@
   "competition": "FIFPRO World 11",
   "source_nom": "Africa Top Sports",
   "source_url": "https://africatopsports.com/afrique-football/fifpro-world-11-2026-achraf-hakimi-seul-africain-parmi-les-26-nommes/",
+  "autres_sources": [
+    "https://africasoccer.com/?p=649034",
+    "https://www.liverpoolfc.com/news/virgil-van-dijk-shortlisted-2026-fifpro-mens-world-11"
+  ],
   "publie_le": "2026-11-02T15:55:38.000Z",
-  "redige_le": "2026-11-02T18:21:15.391Z",
+  "redige_le": "2026-11-09T19:08:09.623Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/27cdf73732867be23bfcf05c31b9457fcfb0dda9.webp",
     "source": "wikimedia",

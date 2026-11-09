@@ -4,30 +4,38 @@
   "id": "23424f3409d6744dd9019151fb6981108397bc1b",
   "slug": "trophee-yachine-edouard-mendy-de-retour-dans-le-top-10-la-neuvieme-23424f",
   "titre": "Trophée Yachine : Édouard Mendy de retour dans le top 10, à la neuvième place",
-  "chapo": "Édouard Mendy a terminé neuvième du Trophée Yachine, édition 2026, qui récompense chaque année le gardien le plus performant. Le portier d'Al-Ahli retrouve les dix premiers, après trois éditions sans y figurer.",
+  "chapo": "Édouard Mendy termine neuvième au classement du Trophée Yachine 2026, réservé aux gardiens. Le portier sénégalais retrouve les dix premiers après trois éditions sans y apparaître.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Le classement a été dévoilé lundi soir à Londres, lors de la soirée du Ballon d'Or. L'Espagnol Unai Simón s'est imposé ; David Raya et Thibaut Courtois complètent le podium.",
-        "Mendy se place juste derrière le Marocain Yassine Bounou, huitième, et devant le Suisse Gregor Kobel, dixième."
+        "Les résultats ont été annoncés le 26 octobre, pendant la soirée de remise du Ballon d'Or. L'Espagnol Unai Simón, gardien de l'Athletic Bilbao, succède à Gianluigi Donnarumma. Il devance David Raya, Espagnol lui aussi et gardien d'Arsenal, puis Thibaut Courtois, le Belge du Real Madrid.",
+        "Mendy, qui joue à Al-Ahli, en Arabie saoudite, se place juste derrière le Marocain Yassine Bounou, huitième, et devant le Suisse Gregor Kobel, dixième."
       ]
     },
     {
-      "intertitre": "Retour parmi les meilleurs",
+      "intertitre": "Trois Africains dans le top 10",
       "paragraphes": [
-        "Le portier de 34 ans connaît bien ce classement. Il avait fini deuxième en 2021, sa meilleure place, puis quatrième en 2022. Il n'avait plus été retenu lors des éditions 2023, 2024 et 2025."
+        "Le Cap-Verdien Vozinha, 40 ans, est le gardien africain le mieux classé, à la sixième place. Le portier de Colo-Colo s'est illustré avec le Cap-Vert lors de la Coupe du monde. Bounou, lui, perd trois rangs par rapport à l'an dernier, où il était cinquième.",
+        "Le gardien d'Al-Hilal a reçu la première place des jurés de l'Égypte, de la Tunisie et du Maroc. Vozinha a été désigné meilleur gardien par les votants du Nigeria et de la Zambie."
       ]
     },
     {
-      "intertitre": "Une saison riche en titres",
+      "intertitre": "Des votes contrastés",
       "paragraphes": [
-        "Cette neuvième place récompense une année 2025-2026 très chargée. Avec Al-Ahli, en Arabie saoudite, il a remporté la Ligue des champions asiatique. Avec le Sénégal, il a soulevé la Coupe d'Afrique des nations.",
-        "Ce retour confirme qu'à son âge, le gardien des Lions reste l'un des plus réguliers de sa génération aux yeux du jury."
+        "Seuls les jurés de quatre pays ont mentionné Mendy sur leur bulletin : le Sénégal, le Gabon, l'Algérie et la Corée du Sud. Le votant sénégalais l'a classé troisième, après Unai Simón et le Russe Matveï Safonov. Le Gabon et l'Algérie l'ont mis à la deuxième place.",
+        "Le juré sud-coréen a, lui, retenu deux Africains dans son trio de tête : Unai Simón devant Vozinha et Mendy."
+      ]
+    },
+    {
+      "intertitre": "Un retour après trois absences",
+      "paragraphes": [
+        "À 34 ans, Mendy connaît bien ce trophée. Deuxième en 2021, sa meilleure performance, puis quatrième en 2022, il n'apparaissait plus dans le classement en 2023, 2024 et 2025.",
+        "Sa saison a été marquée par le titre continental d'Al-Ahli en Asie et par la victoire du Sénégal à la Coupe d'Afrique des nations. Cette neuvième place le replace parmi les gardiens retenus par le jury."
       ]
     }
   ],
-  "mots": 177,
+  "mots": 319,
   "lecture_min": 1,
   "theme": "foot",
   "pays": [
@@ -37,10 +45,12 @@
   "source_nom": "Africa Top Sports",
   "source_url": "https://africatopsports.com/afrique-football/ballon-dor-2026-edouard-mendy-neuvieme-du-trophee-yachine/",
   "autres_sources": [
-    "https://wiwsport.com/2026/10/27/trophee-yachine-2026-edouard-mendy-termine-a-la-9e-place/"
+    "https://wiwsport.com/2026/10/27/trophee-yachine-2026-edouard-mendy-termine-a-la-9e-place/",
+    "https://www.afrik-foot.com/trophee-yachine-2026-lalgerie-snobe-bounou-vozinha-premier-deux-fois-le-senegal-derriere-edouard-mendy",
+    "https://beninwebtv.bj/trophee-yachine-2026-vozinha-sixieme-devant-bounou-et-mendy/"
   ],
   "publie_le": "2026-10-27T09:13:44.000Z",
-  "redige_le": "2026-10-28T00:38:05.073Z",
+  "redige_le": "2026-11-09T19:08:09.611Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/23424f3409d6744dd9019151fb6981108397bc1b.webp",
     "source": "wikimedia",

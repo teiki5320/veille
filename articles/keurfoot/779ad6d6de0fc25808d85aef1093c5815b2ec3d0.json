@@ -4,30 +4,38 @@
   "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
   "slug": "senegal-soudan-patrick-vieira-annoncera-jeudi-sa-nouvelle-selection-779ad6",
   "titre": "Sénégal-Soudan : Patrick Vieira annoncera jeudi sa nouvelle sélection",
-  "chapo": "Le sélectionneur des Lions fera connaître jeudi 5 novembre les joueurs convoqués pour affronter deux fois le Soudan, dans le cadre des éliminatoires de la CAN 2027.",
+  "chapo": "Patrick Vieira fera connaître jeudi 5 novembre les Lions retenus pour affronter deux fois le Soudan, pour les qualifications de la CAN 2027.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Patrick Vieira présentera son groupe devant les journalistes jeudi à 10 heures, au King Fahd Palace de Dakar. Ce sera seulement sa deuxième convocation depuis qu'il dirige la sélection. En septembre, l'ancien capitaine de l'équipe de France avait fait appel à 29 joueurs."
+        "Le sélectionneur du Sénégal présentera ses choix aux journalistes jeudi à 10 heures au King Fahd Palace, un hôtel de Dakar. Ce sera seulement sa deuxième convocation depuis sa prise de fonction. En septembre, l'ancien capitaine de l'équipe de France avait fait appel à 29 joueurs."
       ]
     },
     {
       "intertitre": "Deux matchs en cinq jours",
       "paragraphes": [
         "Les Crocodiles du Nil seront d'abord reçus à Dakar le jeudi 12 novembre, dans l'enceinte Léopold-Sédar-Senghor. Le match retour suivra le lundi 16 novembre.",
-        "La Fédération sénégalaise de football a lancé lundi la vente des places pour la rencontre disputée à Dakar. Les supporters ne peuvent se les procurer que par une application mobile de l'opérateur Orange."
+        "La Fédération sénégalaise de football a lancé lundi la vente des places pour la rencontre de Dakar. Les supporters ne peuvent les acheter que par une application mobile de l'opérateur Orange."
+      ]
+    },
+    {
+      "intertitre": "Un début de mandat sans défaite",
+      "paragraphes": [
+        "Nommé en août, après la Coupe du monde 2026, Vieira reste invaincu en trois matchs. Le 25 septembre à Maputo, Nicolas Jackson avait ouvert le score, mais le Mozambique avait arraché le nul (1-1).",
+        "Le 29 septembre, en Éthiopie, c'est Ibrahim Mbaye qui avait offert aux Lions leur premier succès à Bahir Dar (1-0), sur une passe de Jackson. La fenêtre internationale s'était conclue par une victoire amicale 1-0 contre les Comores, le 4 octobre.",
+        "Le jeu n'a toutefois pas encore convaincu. Le manque d'efficacité devant le but reste le principal chantier, et le poste de gardien est à stabiliser depuis qu'Édouard Mendy a mis fin à sa carrière en sélection. Sadio Mané et Krépin Diatta, qui ne figuraient pas dans la liste de septembre, pourraient faire leur retour."
       ]
     },
     {
       "intertitre": "Une première place à conquérir",
       "paragraphes": [
-        "Dans le groupe J, le Sénégal compte quatre points, autant que le Mozambique. Sous la direction de Vieira, les Lions ont d'abord concédé un nul (1-1) aux Mambas à Maputo, le 25 septembre, puis ont battu l'Éthiopie.",
-        "Cette double confrontation face aux Soudanais pèsera lourd dans la course à la qualification pour la phase finale."
+        "Dans le groupe J, le Sénégal compte quatre points, autant que le Mozambique, qui a battu le Soudan 4-1. Seuls les deux premiers de la poule iront à la phase finale, que se partageront le Kenya, l'Ouganda et la Tanzanie.",
+        "Cette double confrontation face aux Soudanais pèsera lourd dans la course à la qualification."
       ]
     }
   ],
-  "mots": 192,
+  "mots": 323,
   "lecture_min": 1,
   "theme": "foot",
   "pays": [
@@ -39,10 +47,12 @@
   "source_url": "https://senego.com/patrick-vieira-devoilera-jeudi-sa-deuxieme-liste-pour-les-matchs-contre-le-soudan_2019658.html",
   "autres_sources": [
     "https://wiwsport.com/2026/11/02/equipe-nationale-senegal-vs-soudan-patrick-vieira-devoilera-sa-liste-ce-jeudi/",
-    "https://wiwsport.com/2026/11/02/eliminatoires-can-2027-senegal-soudan-la-billetterie-du-match-ouverte-ce-lundi/"
+    "https://wiwsport.com/2026/11/02/eliminatoires-can-2027-senegal-soudan-la-billetterie-du-match-ouverte-ce-lundi/",
+    "https://senego.com/senegal-le-bilan-des-premiers-matchs-de-patrick-vieira-avant-la-fenetre-de-novembre-des-eliminatoires-de-la-can-2027_2017401.html",
+    "https://foot-africa.com/actualites/qualif-can-2027-le-senegal-simpose-difficilement-en-thiopie-1-0-1370114/"
   ],
   "publie_le": "2026-11-02T10:45:16.000Z",
-  "redige_le": "2026-11-02T11:19:41.972Z",
+  "redige_le": "2026-11-09T19:08:09.820Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/779ad6d6de0fc25808d85aef1093c5815b2ec3d0.webp",
     "source": "wikimedia",

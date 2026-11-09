@@ -4,31 +4,34 @@
   "id": "695f5b791f6ce13b86e21e5c9c6e9057104bf89e",
   "slug": "avant-senegal-soudan-la-pelouse-du-stade-de-dakar-en-travaux-695f5b",
   "titre": "Avant Sénégal–Soudan, la pelouse du stade de Dakar en travaux",
-  "chapo": "Le stade Léopold-Sédar-Senghor n'accueille plus de match depuis le 18 octobre : sa pelouse est en travaux. Il doit accueillir Sénégal–Soudan le 12 novembre, en qualifications pour la CAN 2027.",
+  "chapo": "Fermé aux matchs depuis le 18 octobre, le stade Léopold-Sédar-Senghor soigne sa pelouse. L'enceinte de Dakar doit recevoir Sénégal–Soudan le 12 novembre, en qualifications pour la CAN 2027.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Les travaux ont commencé juste après le dernier match disputé dans l'enceinte dakaroise : une rencontre de Ligue des champions africaine entre Teungueth FC et la Colombe Sportive du Sud, club camerounais.",
-        "Les Lions de Patrick Vieira y recevront le Soudan pour la 3e journée de leur groupe qualificatif."
+        "La dernière rencontre jouée à Senghor remonte au 18 octobre. Ce jour-là, Teungueth FC y recevait le club camerounais de la Colombe Sportive du Dja, en Ligue des champions africaine. Depuis, plus aucun match n'a lieu dans l'enceinte dakaroise.",
+        "L'idée est de ne rien programmer avant la venue du Soudan, pour laisser au gazon le temps de repousser. Les Lions de Patrick Vieira y disputeront la 3e journée de leur groupe qualificatif."
       ]
     },
     {
-      "intertitre": "Pourquoi Senghor plutôt que Diamniadio",
+      "intertitre": "Diamniadio pris par les JOJ",
       "paragraphes": [
-        "Le choix du stade s'explique par le calendrier. L'autre grande enceinte du pays, à Diamniadio, sert de cadre aux Jeux olympiques de la jeunesse, organisés à Dakar entre le 31 octobre et le 13 novembre. Il n'est donc pas disponible pour les Lions.",
-        "Lors de la fenêtre de septembre, la question s'était déjà posée. Diamniadio était alors occupé par les préparatifs des JOJ, et la pelouse de Senghor était en mauvais état. Le Sénégal avait joué au Mozambique (1-1) et en Éthiopie."
+        "La Fédération sénégalaise de football s'est tournée vers Senghor par nécessité. Le stade Abdoulaye-Wade de Diamniadio, l'autre grande enceinte du pays, sert de cadre aux JOJ, que Dakar organise du 31 octobre au 13 novembre.",
+        "La question s'était déjà posée en septembre. Diamniadio servait alors aux préparatifs des JOJ, et la pelouse de Senghor était en mauvais état. Le Sénégal avait donc joué ses deux premiers matchs de qualification à l'extérieur.",
+        "À l'époque, le ministère des Sports affirmait que le terrain suivait depuis le 24 août un plan d'entretien renforcé, encadré par des techniciens et contrôlé chaque jour."
       ]
     },
     {
-      "intertitre": "Le retour des Lions à Dakar",
+      "intertitre": "Une première à Dakar pour Vieira",
       "paragraphes": [
-        "Ce match marquera le retour de la sélection devant le public dakarois, dans un stade historique de la capitale. Le Sénégal est deuxième de son groupe avec 4 points, à égalité avec le Mozambique. La pelouse devra être prête dans un peu plus de deux semaines."
+        "La réception du Soudan sera le premier match de Patrick Vieira devant le public dakarois depuis sa nomination. Pour ses débuts, le 25 septembre à Maputo, ses joueurs avaient été tenus en échec 1-1 par le Mozambique. Quatre jours plus tard, ils avaient gagné 1-0 en Éthiopie, à Bahir Dar, grâce à Ibrahim Mbaye.",
+        "Après deux journées, le Sénégal pointe au 2e rang de sa poule, avec quatre unités comme le Mozambique. Le Soudan, lui, a été battu 4-1 par les Mambas. Seuls les deux premiers de la poule décrocheront leur billet pour la phase finale.",
+        "Les équipes d'entretien disposent d'un peu plus de deux semaines pour remettre la pelouse en état. L'enceinte, inaugurée en 1985, a rouvert après une rénovation de près de trois ans, lancée en août 2022 et achevée en avril 2025. Sa capacité est désormais de 54 000 places."
       ]
     }
   ],
-  "mots": 218,
-  "lecture_min": 1,
+  "mots": 352,
+  "lecture_min": 2,
   "theme": "foot",
   "pays": [
     "SN"
@@ -36,8 +39,12 @@
   "competition": "Éliminatoires CAN 2027",
   "source_nom": "Wiwsport",
   "source_url": "https://wiwsport.com/2026/10/26/senegal-soudan-le-stade-leopold-sedar-senghor-ferme-pour-preparer-le-retour-des-lions/",
+  "autres_sources": [
+    "https://beninwebtv.bj/can-2027-senegal-soudan-prevu-au-stade-leopold-sedar-senghor/",
+    "https://foot-africa.com/actualites/qualif-can-2027-le-senegal-simpose-difficilement-en-thiopie-1-0-1370114/"
+  ],
   "publie_le": "2026-10-26T11:56:54.000Z",
-  "redige_le": "2026-10-28T00:35:23.767Z",
+  "redige_le": "2026-11-09T19:08:09.768Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/695f5b791f6ce13b86e21e5c9c6e9057104bf89e.webp",
     "source": "openverse",

@@ -4,30 +4,39 @@
   "id": "820105006eea426262cd8f39c1dbc4cdd7337fb9",
   "slug": "eliminatoires-can-2027-lilian-brassier-rejoint-le-togo-pour-affronter-820105",
   "titre": "Éliminatoires CAN 2027 : Lilian Brassier rejoint le Togo pour affronter l'Algérie",
-  "chapo": "Le sélectionneur du Togo, Patrice Neveu, a arrêté sa liste pour le double duel contre l'Algérie. Lilian Brassier y fait son apparition.",
+  "chapo": "Le sélectionneur du Togo, Patrice Neveu, a arrêté sa liste pour le double duel contre l'Algérie. Lilian Brassier, joueur de l'Eintracht Francfort, y figure pour la première fois.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Les Éperviers joueront d'abord en Algérie le 14 novembre, puis recevront les Fennecs trois jours plus tard à Lomé, dans l'enceinte de Kégué. Ces deux matchs comptent pour les qualifications de la prochaine CAN. Le technicien français a retenu 25 joueurs."
+        "Les Éperviers joueront d'abord en Algérie, à Tizi Ouzou, le 14 novembre. Ils recevront ensuite les Fennecs le 17 novembre dans l'enceinte de Kégué, à Lomé. Ces deux matchs entrent dans le cadre des qualifications de la CAN 2027. Le technicien français a retenu 25 joueurs.",
+        "Neveu avait d'abord publié une préliste de 31 noms, sur laquelle Brassier apparaissait déjà. Sa présence dans le groupe définitif a été confirmée le 3 novembre."
       ]
     },
     {
       "intertitre": "Brassier, la nouveauté",
       "paragraphes": [
-        "Sollicité depuis longtemps par la fédération togolaise, Lilian Brassier a accepté de défendre les couleurs du Togo. Âgé de 27 ans, le défenseur de l'Eintracht Francfort, passé par Brest et né à Cannes, figurait déjà dans la préliste de 31 noms. Sa présence a été confirmée le 3 novembre."
+        "Né en France, de père guadeloupéen et de mère togolaise, le défenseur de 27 ans a opté pour le pays de sa mère après plusieurs mois de réflexion. Neveu dit l'avoir sollicité dès son arrivée à la tête de la sélection.",
+        "Formé à Rennes, le gaucher s'est révélé à Brest. Il a ensuite connu une saison 2024-2025 plus délicate à l'Olympique de Marseille, avant de retrouver son niveau à Rennes. Recruté l'été dernier par Francfort, il y est titulaire en Bundesliga."
       ]
     },
     {
       "intertitre": "Les cadres reconduits",
       "paragraphes": [
-        "Pour le reste, Patrice Neveu mise sur la continuité. Kévin Denkey et Kodjo Fo-Doh Laba mènent une attaque où l'on trouve aussi Thibault Klidje, Charles Abi, Mansour Ouro-Tagba et Komi Arnaud Komlavi. Dans les buts, Steven Mensah, Malcolm Barcola et Achirafou Yaya sont appelés.",
-        "Au milieu, le sélectionneur compte notamment sur Dakonam Djene, Kodjo Aziangbe et Samsindin Ouro. En défense, Brassier côtoiera Kennedy Boateng, Loïc Bessile et Henri Koudossou."
+        "Pour le reste, Neveu mise sur la continuité. Kévin Denkey et Kodjo Fo-Doh Laba mènent une attaque où l'on trouve aussi Thibault Klidje, Charles Abi, Mansour Ouro-Tagba et Komi Arnaud Komlavi. Dans les buts, Steven Mensah, Malcolm Barcola et Achirafou Yaya sont appelés.",
+        "Au milieu, le sélectionneur compte notamment sur Dakonam Djene, Kodjo Aziangbe, Karim Dermane et Samsindin Ouro. En défense, Brassier côtoiera Kennedy Boateng, Loïc Bessile et Henri Koudossou."
+      ]
+    },
+    {
+      "intertitre": "Un groupe déjà sous pression",
+      "paragraphes": [
+        "Lors des deux premières journées, le Togo a battu le Burundi puis s'est incliné face à la Zambie. Avec trois points en deux matchs, il ne peut guère se permettre de faux pas. L'Algérie part favorite de cette double confrontation.",
+        "Les Éperviers n'ont plus participé à une phase finale de CAN depuis 2017. Leur meilleur souvenir récent reste le quart de finale atteint en 2013, avec la génération d'Emmanuel Adebayor."
       ]
     }
   ],
-  "mots": 187,
-  "lecture_min": 1,
+  "mots": 332,
+  "lecture_min": 2,
   "theme": "foot",
   "pays": [
     "TG",
@@ -37,10 +46,12 @@
   "source_nom": "Africa Top Sports",
   "source_url": "https://africatopsports.com/football/elim-can-2027-kevin-denkey-lilian-brassier-la-liste-du-togo-pour-le-double-rendez-vous-face-a-lalgerie/",
   "autres_sources": [
-    "https://africatopsports.com/football/elim-can-2027-face-a-lalgerie-le-togo-comptera-sur-son-nouveau-roc-europeen-lilian-brassier/"
+    "https://africatopsports.com/football/elim-can-2027-face-a-lalgerie-le-togo-comptera-sur-son-nouveau-roc-europeen-lilian-brassier/",
+    "https://www.afrik-foot.com/algerie-le-togo-devoile-sa-liste-avec-la-surprise-lilian-brassier",
+    "https://www.republicoftogo.com/toutes-les-rubriques/sport/togo-algerie-lilian-brassier-la-surprise-de-patrice-neveu"
   ],
   "publie_le": "2026-11-03T10:16:23.000Z",
-  "redige_le": "2026-11-03T11:27:51.796Z",
+  "redige_le": "2026-11-09T19:08:09.842Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.webp",
     "source": "wikimedia",

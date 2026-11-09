@@ -4,32 +4,38 @@
   "id": "01b9fa6249db00d739a35e7961b8703630ed8a1d",
   "slug": "cameroun-david-pagou-explique-sur-les-joueurs-absents-de-sa-liste-01b9fa",
   "titre": "Cameroun : David Pagou s'explique sur les joueurs absents de sa liste",
-  "chapo": "David Pagou a dévoilé sa liste pour la double confrontation contre la Namibie, en éliminatoires de la CAN 2027. André Onana, Yvan Dibango et Christian Kofane n'y figurent pas, et le sélectionneur a justifié ces absences.",
+  "chapo": "Le sélectionneur du Cameroun, David Pagou, a justifié l'absence d'André Onana, d'Yvan Dibango et de Christian Kofane dans son groupe pour les deux matchs contre la Namibie.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Le Cameroun affrontera deux fois la Namibie lors des 3e et 4e journées des qualifications. Pour ces deux matchs, plusieurs joueurs attendus ont été laissés de côté par le sélectionneur des Lions indomptables."
+        "David Pagou a publié le lundi 26 octobre une liste de 28 Lions indomptables. Ils affronteront deux fois la Namibie, le 12 puis le 16 novembre, lors des 3e et 4e journées des qualifications à la CAN 2027. Plusieurs noms attendus manquent, et le technicien a donné ses raisons."
       ]
     },
     {
       "intertitre": "Onana toujours écarté",
       "paragraphes": [
-        "Le cas le plus commenté est celui d'André Onana. Le gardien, passé par l'Inter Milan et Manchester United, enchaîne pourtant les bons matchs avec Trabzonspor. Pagou estime que le pays a toujours produit d'excellents gardiens et se dit content des options retenues à ce poste.",
-        "Onana avait déjà été laissé de côté lors de la première liste de Pagou, en décembre 2025, juste avant la CAN au Maroc. Cette nouvelle absence éloigne encore un peu plus son retour en sélection."
+        "Le dossier le plus sensible reste celui d'André Onana. L'ancien gardien de l'Inter Milan et de Manchester United brille ces dernières semaines avec Trabzonspor, en Turquie. Pagou ne change pas d'avis pour autant : selon lui, le pays a toujours eu de grands portiers, et il se dit satisfait de ceux qu'il a choisis.",
+        "Onana avait déjà été écarté de la première liste de Pagou, en décembre 2025, à la veille de la CAN jouée au Maroc. Cette fois, les gardiens retenus sont Simon Ngapandouetnbu (Montpellier), Blondy Nna Noukeu (Boulogne), Émile Lako Wendeu (Marumo Gallants) et Édouard Sombang A Menang (Colombe Sportive du Dja)."
       ]
     },
     {
-      "intertitre": "Dibango et Kofane aussi absents",
+      "intertitre": "Dibango concurrencé, Kofane blessé",
       "paragraphes": [
-        "Le défenseur Yvan Dibango, qui dispute la Ligue des champions avec le LASK, est lui aussi victime de la concurrence. Le sélectionneur dit bien le connaître et suivre ses matchs, mais préfère pour l'instant d'autres profils. Il n'exclut pas de l'appeler plus tard.",
-        "Quant à Christian Kofane, il ne serait pas encore au sommet de sa forme physique.",
-        "Le Cameroun avait débuté sa campagne en battant les Comores 3-1 en septembre, dans un groupe G qui comprend aussi le Congo et la Namibie."
+        "Le défenseur Yvan Dibango, qui joue la Ligue des champions cette saison avec le LASK, en Autriche, pâtit de la forte concurrence dans son secteur. Pagou assure bien le connaître et regarder ses matchs, mais il observe d'autres profils pour l'instant. Il n'exclut pas de l'appeler plus tard.",
+        "Christian Kofane, lui, est blessé. L'attaquant du Bayer Leverkusen n'a pas encore retrouvé l'entraînement, et une nouvelle IRM doit faire le point sur sa blessure. Plusieurs semaines de soins sont encore nécessaires, selon les informations données après un échange entre le joueur et son sélectionneur."
+      ]
+    },
+    {
+      "intertitre": "Ebosse de retour, Nana appelé",
+      "paragraphes": [
+        "La liste compte aussi des retours. Enzo Ebosse, défenseur de l'Udinese, n'avait plus été appelé depuis le Mondial disputé au Qatar en 2022. Carlos Baleba, absent lors du précédent rassemblement, revient lui aussi.",
+        "Ivan Nana, 19 ans, découvre l'équipe A. Capitaine des sélections de jeunes, il vient de gagner le tournoi de l'UNIFFAC avec les moins de 20 ans. Bryan Mbeumo, Darlin Yongwa, Danny Namaso ou Arthur Avom sont également du voyage."
       ]
     }
   ],
-  "mots": 240,
-  "lecture_min": 1,
+  "mots": 357,
+  "lecture_min": 2,
   "theme": "foot",
   "pays": [
     "CM"
@@ -37,8 +43,13 @@
   "competition": "Éliminatoires CAN 2027",
   "source_nom": "Africa Top Sports",
   "source_url": "https://africatopsports.com/afrique-football/cameroun/elim-can-2027-cameroun-david-pagou-explique-les-absences/",
+  "autres_sources": [
+    "https://foot-africa.com/actualites/cameroun-christian-kofane-absent-de-la-liste-de-david-pagou-1399364/",
+    "https://foot-africa.com/actualites/cameroun-david-pagou-devoile-sa-liste-pour-la-treve-internationale-1399352/",
+    "https://www.timeslive.co.za/sport/soccer/2025-12-02-cameroon-leave-onana-out-of-afcon-squad-name-pagou-as-coach/"
+  ],
   "publie_le": "2026-10-27T10:27:52.000Z",
-  "redige_le": "2026-10-28T00:38:05.073Z",
+  "redige_le": "2026-11-09T19:08:09.536Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/01b9fa6249db00d739a35e7961b8703630ed8a1d.webp",
     "source": "wikimedia",

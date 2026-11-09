@@ -4,19 +4,26 @@
   "id": "d80b8117c7c5bc09001e53486941f8ccd4377294",
   "slug": "serbie-de-retour-dans-le-onze-bamba-dieng-marque-trois-fois-pour-d80b81",
   "titre": "Serbie : de retour dans le onze, Bamba Dieng marque trois fois pour l'Étoile Rouge",
-  "chapo": "Remis titulaire par l'Étoile Rouge de Belgrade, l'attaquant sénégalais Bamba Dieng a signé un triplé samedi lors d'un succès 4-2 face au FK Macva Sabac.",
+  "chapo": "De retour dans le onze de départ, l'attaquant sénégalais Bamba Dieng a signé un triplé samedi lors du succès 4-2 de son club serbe, l'Étoile Rouge, à Šabac.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Samedi 31 octobre, en championnat de Serbie, l'attaquant sénégalais a de nouveau été aligné d'entrée après deux rencontres débutées sur le banc. Il a répondu sur le terrain avec trois buts, marqués à la 16e, à la 29e puis à la 84e minute, dans la victoire 4-2 de son équipe contre le FK Macva Sabac."
+        "Samedi 31 octobre, lors de la 14e journée de la Superliga serbe, l'Étoile Rouge s'est imposée 4-2 sur le terrain du FK Mačva Šabac. Bamba Dieng, resté sur le banc au coup d'envoi des deux rencontres précédentes, a marqué à la 16e, à la 29e et à la 84e minute."
       ]
     },
     {
-      "intertitre": "Quatre buts cette saison",
+      "intertitre": "Un match à rebondissements",
       "paragraphes": [
-        "Avec ce triplé, le Sénégalais porte son total à quatre réalisations depuis le début de l'exercice. Il avait déjà marqué le 11 octobre, lors d'une victoire 3-0 du club de Belgrade.",
-        "L'Étoile Rouge écrase la Mozzart Bet Superliga : elle compte 40 points, onze de plus que Vojvodina, deuxième."
+        "Le Sénégalais a ouvert la marque en suivant un premier essai de Vladimir Lučić, que le gardien avait détourné. Il a doublé la mise sur un service de Timi Max Elšnik.",
+        "Les visiteurs ont pourtant laissé filer cette avance de deux buts. Mačva a d'abord réduit l'écart avant la mi-temps, puis égalisé après la pause. À six minutes du terme, le Sénégalais a de nouveau donné l'avance à son équipe, servi par Kim. Elšnik a fixé le score final deux minutes plus tard. Avec ses trois buts, l'attaquant sénégalais a été le principal artisan de la victoire de son équipe."
+      ]
+    },
+    {
+      "intertitre": "Cinq buts en championnat",
+      "paragraphes": [
+        "C'est son premier triplé sous ses nouvelles couleurs, avec deux buts inscrits en moins d'une demi-heure. Il totalise maintenant cinq réalisations en sept rencontres de championnat. Il avait notamment marqué le 11 octobre, lors d'une victoire 3-0.",
+        "Championne de Serbie en titre, l'Étoile Rouge domine la Mozzart Bet Superliga avec 40 points, onze de plus que Vojvodina, deuxième. Le club doit ensuite recevoir Inter Escaldes en Ligue Conférence."
       ]
     },
     {
@@ -27,8 +34,8 @@
       ]
     }
   ],
-  "mots": 212,
-  "lecture_min": 1,
+  "mots": 333,
+  "lecture_min": 2,
   "theme": "foot",
   "pays": [
     "SN"
@@ -37,10 +44,12 @@
   "source_nom": "Senego",
   "source_url": "https://senego.com/apres-deux-matchs-sur-le-banc-bamba-dieng-signe-un-triple-face-a-macva-sabac_2019309.html",
   "autres_sources": [
-    "https://wiwsport.com/2026/10/31/mozzart-bet-superliga-bamba-dieng-signe-un-triple-avec-letoile-rouge-de-belgrade/"
+    "https://wiwsport.com/2026/10/31/mozzart-bet-superliga-bamba-dieng-signe-un-triple-avec-letoile-rouge-de-belgrade/",
+    "https://foot-africa.com/actualites/bamba-dieng-porte-ltoile-rouge-vers-la-victoire-avec-un-triple-1405892/",
+    "https://beninwebtv.bj/serbie-bamba-dieng-inscrit-un-triple-contre-macva/"
   ],
   "publie_le": "2026-11-01T00:02:24.000Z",
-  "redige_le": "2026-11-01T11:20:01.144Z",
+  "redige_le": "2026-11-09T19:08:09.885Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.webp",
     "source": "wikimedia",

@@ -9,7 +9,7 @@
     {
       "intertitre": null,
       "paragraphes": [
-        "Le site d'information sénégalais SenePlus a mis en ligne dimanche une critique détaillée de Filles de Mexico, roman de l'écrivain togolais Sami Tchak. Le livre n'est pas une nouveauté : il a paru en 2009 chez APIC, un éditeur installé à Alger, dans sa collection Résonances. Le texte rejoint une longue série de chroniques consacrées aux grandes œuvres des lettres africaines, de Cheikh Hamidou Kane à Fatou Diome.",
+        "Le site d'information sénégalais SenePlus a mis en ligne dimanche une critique détaillée de Filles de Mexico, roman de l'écrivain togolais Sami Tchak. Le livre n'est pas une nouveauté : sorti en 2008 au Mercure de France, à Paris, il a été repris en 2009 par l'éditeur algérois APIC, dans sa collection Résonances. Le texte rejoint une longue série de chroniques consacrées aux grandes œuvres des lettres africaines, de Cheikh Hamidou Kane à Fatou Diome.",
         "Le récit démarre sans préparation, en plein cœur de la capitale du Mexique. On y suit Djibril Nawo, un écrivain français né au Togo. Le Colegio de México l'a fait venir pour qu'il y prononce plusieurs conférences. Il débarque de La Havane, où il vient de passer sept mois à boucler une enquête de sociologue."
       ]
     },
@@ -35,7 +35,7 @@
       ]
     }
   ],
-  "mots": 418,
+  "mots": 425,
   "lecture_min": 2,
   "theme": "livres",
   "pays": [
@@ -47,7 +47,7 @@
   "source_nom": "SenePlus",
   "source_url": "https://www.seneplus.com/article/filles-de-mexico-de-sami-tchak-ou-la-creation-magique-du-romanesque",
   "publie_le": "2026-11-08T16:25:13.000Z",
-  "redige_le": "2026-11-08T18:17:12.338Z",
+  "redige_le": "2026-11-09T19:08:26.295Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurbook/06f08b4f2b89eafeea67ff37d30d7892cfd706a1.webp",
     "source": "wikimedia",

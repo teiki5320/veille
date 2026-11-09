@@ -288,14 +288,16 @@
       "autres_sources": [
         "https://senego.com/mamadou-sarr-forfait-avec-les-lions-pour-les-deux-matchs-contre-le-soudan_2021422.html",
         "https://wiwsport.com/2026/11/07/equipe-nationale-blesse-avec-la-real-sociedad-mamadou-sarr-forfait-pour-le-rassemblement-des-lions/",
-        "https://wiwsport.com/2026/11/07/pellegrino-matarazzo-rassure-mamadou-sarr-apres-sa-blessure-des-quil-sera-de-nouveau-pret-il-redeviendra-un-element-tres-important/"
+        "https://wiwsport.com/2026/11/07/pellegrino-matarazzo-rassure-mamadou-sarr-apres-sa-blessure-des-quil-sera-de-nouveau-pret-il-redeviendra-un-element-tres-important/",
+        "https://foot-africa.com/actualites/mamadou-sarr-est-route-pour-la-real-sociedad-1331632/",
+        "https://africasoccer.com/mamadou-sarr-commits-to-senegal-over-france/"
       ],
       "publie_le": "2026-11-07T16:49:23.000Z",
       "collecte_le": "2026-11-07T18:16:26.966Z",
       "langue": "fr",
       "slug": "senegal-blesse-au-mollet-mamadou-sarr-declare-forfait-contre-le-soudan-2fe413",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2fe41306bdffe427f7d4a71e085d72f13855fe6e.json",
-      "lecture_min": 1,
+      "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/2fe41306bdffe427f7d4a71e085d72f13855fe6e.webp",
         "source": "wikimedia",
@@ -456,7 +458,8 @@
       "source_nom": "Africa Top Sports",
       "source_url": "https://africatopsports.com/afrique-football/elim-can-2027-mbemba-wissa-bakambu-decouvrez-les-26-leopards-convoques-contre-la-sierra-leone/",
       "autres_sources": [
-        "https://www.footmercato.net/a1443449439356750785-la-liste-du-rd-congo-avec-banzuzi-mais-toujours-sans-brunner"
+        "https://www.footmercato.net/a1443449439356750785-la-liste-du-rd-congo-avec-banzuzi-mais-toujours-sans-brunner",
+        "https://foot-africa.com/actualites/rdc-sebastien-desabre-devoile-sa-liste-face-a-la-sierra-leone-officiel-1411391/"
       ],
       "publie_le": "2026-11-06T10:17:39.000Z",
       "collecte_le": "2026-11-06T11:20:32.353Z",
@@ -940,14 +943,16 @@
       "source_nom": "Africa Top Sports",
       "source_url": "https://africatopsports.com/football/elim-can-2027-kevin-denkey-lilian-brassier-la-liste-du-togo-pour-le-double-rendez-vous-face-a-lalgerie/",
       "autres_sources": [
-        "https://africatopsports.com/football/elim-can-2027-face-a-lalgerie-le-togo-comptera-sur-son-nouveau-roc-europeen-lilian-brassier/"
+        "https://africatopsports.com/football/elim-can-2027-face-a-lalgerie-le-togo-comptera-sur-son-nouveau-roc-europeen-lilian-brassier/",
+        "https://www.afrik-foot.com/algerie-le-togo-devoile-sa-liste-avec-la-surprise-lilian-brassier",
+        "https://www.republicoftogo.com/toutes-les-rubriques/sport/togo-algerie-lilian-brassier-la-surprise-de-patrice-neveu"
       ],
       "publie_le": "2026-11-03T10:16:23.000Z",
       "collecte_le": "2026-11-03T11:27:51.796Z",
       "langue": "fr",
       "slug": "eliminatoires-can-2027-lilian-brassier-rejoint-le-togo-pour-affronter-820105",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.json",
-      "lecture_min": 1,
+      "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.webp",
         "source": "wikimedia",
@@ -1022,7 +1027,11 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://africasoccer.com/?p=649034",
+        "https://www.liverpoolfc.com/news/virgil-van-dijk-shortlisted-2026-fifpro-mens-world-11"
+      ]
     },
     {
       "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
@@ -1038,7 +1047,9 @@
       "source_url": "https://senego.com/patrick-vieira-devoilera-jeudi-sa-deuxieme-liste-pour-les-matchs-contre-le-soudan_2019658.html",
       "autres_sources": [
         "https://wiwsport.com/2026/11/02/equipe-nationale-senegal-vs-soudan-patrick-vieira-devoilera-sa-liste-ce-jeudi/",
-        "https://wiwsport.com/2026/11/02/eliminatoires-can-2027-senegal-soudan-la-billetterie-du-match-ouverte-ce-lundi/"
+        "https://wiwsport.com/2026/11/02/eliminatoires-can-2027-senegal-soudan-la-billetterie-du-match-ouverte-ce-lundi/",
+        "https://senego.com/senegal-le-bilan-des-premiers-matchs-de-patrick-vieira-avant-la-fenetre-de-novembre-des-eliminatoires-de-la-can-2027_2017401.html",
+        "https://foot-africa.com/actualites/qualif-can-2027-le-senegal-simpose-difficilement-en-thiopie-1-0-1370114/"
       ],
       "publie_le": "2026-11-02T10:45:16.000Z",
       "collecte_le": "2026-11-02T11:19:41.972Z",
@@ -1122,7 +1133,11 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://beninwebtv.bj/en/u17-womens-world-cup-four-nations-qualify-for-quarter-finals/",
+        "https://www.soccergraph.com/2026/10/fifa-u17-womens-world-cup-knockout-schedule-results.html"
+      ]
     },
     {
       "id": "337dad24522a9cf9ba0ab3d2242396a471f405fb",
@@ -1205,14 +1220,16 @@
       "source_nom": "Senego",
       "source_url": "https://senego.com/apres-deux-matchs-sur-le-banc-bamba-dieng-signe-un-triple-face-a-macva-sabac_2019309.html",
       "autres_sources": [
-        "https://wiwsport.com/2026/10/31/mozzart-bet-superliga-bamba-dieng-signe-un-triple-avec-letoile-rouge-de-belgrade/"
+        "https://wiwsport.com/2026/10/31/mozzart-bet-superliga-bamba-dieng-signe-un-triple-avec-letoile-rouge-de-belgrade/",
+        "https://foot-africa.com/actualites/bamba-dieng-porte-ltoile-rouge-vers-la-victoire-avec-un-triple-1405892/",
+        "https://beninwebtv.bj/serbie-bamba-dieng-inscrit-un-triple-contre-macva/"
       ],
       "publie_le": "2026-11-01T00:02:24.000Z",
       "collecte_le": "2026-11-01T11:20:01.144Z",
       "langue": "fr",
       "slug": "serbie-de-retour-dans-le-onze-bamba-dieng-marque-trois-fois-pour-d80b81",
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.json",
-      "lecture_min": 1,
+      "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.webp",
         "source": "wikimedia",
@@ -2005,7 +2022,8 @@
       "source_nom": "Wiwsport",
       "source_url": "https://wiwsport.com/2026/10/28/mondial-u15-le-senegal-domine-la-georgie-4-1-et-file-en-huitiemes-de-finale-de-la-division-b/",
       "autres_sources": [
-        "https://africatopsports.com/football/mondial-u15-la-rdc-ecrase-lile-maurice-et-file-en-8es-de-finale/"
+        "https://africatopsports.com/football/mondial-u15-la-rdc-ecrase-lile-maurice-et-file-en-8es-de-finale/",
+        "https://beninwebtv.bj/mondial-u15-diallo-porte-le-senegal-en-huitiemes-de-la-division-b/"
       ],
       "publie_le": "2026-10-28T09:45:42.000Z",
       "collecte_le": "2026-10-28T11:28:07.557Z",

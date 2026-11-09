@@ -797,14 +797,16 @@
       "source_nom": "Sud Ouest",
       "source_url": "https://www.sudouest.fr/economie/mobilisation-sociale-et-violences-le-ministre-du-commerce-serge-papin-souhaite-autoriser-trois-dimanches-supplementaires-d-ouverture-des-magasins-avant-noel-31345461.php",
       "autres_sources": [
-        "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires"
+        "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires",
+        "https://www.maire-info.com/2026/violences-urbaines/commerces-touches-par-les-violences-gouvernement-demande-aux-prefets-faciliter-les-ouvertures-dominicales-art26-31247",
+        "https://lexpress-franchise.com/actualites/trois-dimanches-ouverture-magasins-noel-2026/"
       ],
       "publie_le": "2026-11-02T10:11:09.000Z",
       "collecte_le": "2026-11-02T11:20:26.383Z",
       "langue": "fr",
       "slug": "commerces-touches-par-les-manifestations-trois-dimanches-ouverture-en-9bc904",
       "article_url": "https://teiki5320.github.io/veille/articles/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.json",
-      "lecture_min": 1,
+      "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.webp",
         "source": "wikimedia",
@@ -1177,7 +1179,12 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.moneyvox.fr/votre-argent/actualites/111022/commerces-le-gouvernement-veut-faciliter-ouverture-le-dimanche-jusqua-noel",
+        "https://www.sudradio.fr/societe/commerces-pilles-vers-des-ouvertures-dominicales-jusqua-noel-pour-compenser",
+        "https://www.linfodurable.fr/plus-de-2500-commerces-touches-par-les-violences-dont-un-millier-fortement-degrades-selon-cci"
+      ]
     },
     {
       "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",

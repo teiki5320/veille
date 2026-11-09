@@ -4,30 +4,38 @@
   "id": "9bc9041e0b4912de18f9d02f543a3ae054c38f9d",
   "slug": "commerces-touches-par-les-manifestations-trois-dimanches-ouverture-en-9bc904",
   "titre": "Commerces touchés par les manifestations : trois dimanches d'ouverture en plus",
-  "chapo": "Le ministre chargé des PME et du Commerce, Serge Papin, va demander aux préfets d'autoriser trois ouvertures dominicales supplémentaires d'ici Noël, pour aider les commerçants pénalisés par les manifestations.",
+  "chapo": "Serge Papin, ministre chargé des PME et du Commerce, a précisé le 2 novembre l'aide promise aux commerçants : les préfets pourront autoriser trois dimanches d'ouverture de plus avant Noël.",
   "blocs": [
     {
       "intertitre": null,
       "paragraphes": [
-        "Invité de RTL lundi 2 novembre, le ministre a indiqué qu'il solliciterait cette semaine des arrêtés préfectoraux en ce sens. Il a aussi rappelé que les maires disposent déjà de douze dimanches par an qu'ils peuvent accorder aux magasins, et qu'ils peuvent s'en servir pour compenser les pertes récentes."
+        "Invité de RTL lundi 2 novembre, le ministre a annoncé qu'il solliciterait au cours de la semaine des arrêtés préfectoraux allant dans ce sens. Il n'exclut pas d'aller plus loin, au cas par cas et département par département, après discussion avec les syndicats et les organisations patronales.",
+        "Il a aussi rappelé que les maires disposent déjà de douze dimanches par an. Ils peuvent s'en servir pour compenser les pertes liées aux violences."
       ]
     },
     {
-      "intertitre": "Des boutiques fragilisées",
+      "intertitre": "Une instruction de quatre ministres",
       "paragraphes": [
-        "Selon le dernier décompte de CCI France, plus de 2 500 boutiques ont subi des dégradations en marge des mobilisations contre la vie chère et des mouvements lycéens. Parmi elles, 1 161 ont été pillées, saccagées ou incendiées.",
-        "Beaucoup de commerces ont aussi dû baisser le rideau le samedi, jour de défilés, comme le 31 octobre, ce qui représente un important manque à gagner."
+        "Selon le cabinet de Serge Papin, le texte est cosigné par Roland Lescure (Économie), Jean-Pierre Farandou (Travail) et David Amiel (Comptes publics). Il devait partir vers tous les préfets en début de semaine.",
+        "Les préfets pourront accorder ces trois dimanches sans consulter les partenaires sociaux. Pour en ajouter d'autres, ils devront réunir les représentants locaux des employeurs, des salariés et des commerçants. Les zones perturbées par les manifestations seront prioritaires. Le type de magasins concernés sera fixé par chaque arrêté préfectoral."
       ]
     },
     {
-      "intertitre": "Une demande des commerçants",
+      "intertitre": "Un bilan qui s'alourdit",
       "paragraphes": [
-        "Les commerçants réclamaient de pouvoir ouvrir le dimanche jusqu'aux fêtes. Le gouvernement leur avait donné un accord de principe le jeudi 29 octobre. L'ouverture dépendra désormais des arrêtés pris dans chaque département."
+        "Le décompte de CCI France s'établit à 2 488 boutiques atteintes lors de la journée du 17 octobre. Il faut y ajouter 50 cas le 24 octobre, puis 27 le 31. Au total, 1 161 magasins ont subi un pillage, un saccage ou un incendie. Le réseau ajoute que plus de 6 000 points de vente sont empêchés de fonctionner, avec des ventes en recul de 60 à 80 % chaque samedi de défilé.",
+        "Le réseau consulaire a salué l'annonce. Il réclame toutefois l'ouverture possible de tous les dimanches de novembre et de décembre."
+      ]
+    },
+    {
+      "intertitre": "Opposition de la CGT",
+      "paragraphes": [
+        "Sur France 2, Sophie Binet, secrétaire générale de la CGT, s'est opposée à des dimanches travaillés en plus. Elle souligne que ce secteur emploie surtout des femmes, déjà soumises à des horaires décalés. L'accord de principe du gouvernement remontait au jeudi 29 octobre ; tout dépend désormais des arrêtés pris dans chaque département."
       ]
     }
   ],
-  "mots": 181,
-  "lecture_min": 1,
+  "mots": 343,
+  "lecture_min": 2,
   "theme": "entreprises",
   "pays": [
     "FR"
@@ -35,10 +43,12 @@
   "source_nom": "Sud Ouest",
   "source_url": "https://www.sudouest.fr/economie/mobilisation-sociale-et-violences-le-ministre-du-commerce-serge-papin-souhaite-autoriser-trois-dimanches-supplementaires-d-ouverture-des-magasins-avant-noel-31345461.php",
   "autres_sources": [
-    "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires"
+    "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires",
+    "https://www.maire-info.com/2026/violences-urbaines/commerces-touches-par-les-violences-gouvernement-demande-aux-prefets-faciliter-les-ouvertures-dominicales-art26-31247",
+    "https://lexpress-franchise.com/actualites/trois-dimanches-ouverture-magasins-noel-2026/"
   ],
   "publie_le": "2026-11-02T10:11:09.000Z",
-  "redige_le": "2026-11-02T11:20:26.383Z",
+  "redige_le": "2026-11-09T19:08:10.151Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.webp",
     "source": "wikimedia",
