@@ -506,7 +506,7 @@ async function principal() {
     }
   }
   if (verifierSeul) {
-    for (const b of bilan) console.log(`${b.nom} : ${b.verifie} actus contrôlées, ${b.rejets} rejetées par l'anti-copie${b.rejets ? ` → réécris-les dans tmp/redaction-${b.site}.json (voir tmp/rejets-${b.site}.json)` : ''}`);
+    for (const b of bilan) console.log(`${b.nom} : ${b.verifie} actus contrôlées, ${b.rejets} rejetées (anti-copie, longueur, source mince ou doublon)${b.rejets ? ` → réécris-les dans tmp/redaction-${b.site}.json (voir tmp/rejets-${b.site}.json)` : ''}`);
     return;
   }
   ecrireJson(path.join(RACINE, 'tmp', 'publie-bilan.json'), { le: new Date().toISOString(), sites: bilan });
