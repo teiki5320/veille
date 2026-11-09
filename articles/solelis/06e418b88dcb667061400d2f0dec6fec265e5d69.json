@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "06e418b88dcb667061400d2f0dec6fec265e5d69",
+  "slug": "smic-une-hausse-anticipee-au-1er-decembre-les-petites-entreprises-06e418",
+  "titre": "Smic : une hausse anticipée au 1er décembre, les petites entreprises inquiètes",
+  "chapo": "Le salaire minimum net pourrait dépasser 1 500 euros mensuels dès le 1er décembre. L'annonce devait tomber lundi 9 novembre, après la rencontre organisée à Matignon avec les partenaires sociaux.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "D'après BFMTV, l'exécutif est prêt à avancer la revalorisation du Smic, normalement prévue au 1er janvier. Le montant net mensuel passerait au-dessus de 1 500 euros, contre 1 477 euros à l'heure actuelle, soit environ 23 euros de plus. Le Premier ministre Sébastien Lecornu reçoit lundi les syndicats et le patronat, sur fond de forte inflation et de colère sociale.",
+        "Pour un salarié à temps plein, le Smic brut est aujourd'hui de 1 867 euros, après une hausse de 2,4 % au 1er juin. La loi impose une revalorisation chaque 1er janvier, et une autre en cours d'année dès que les prix progressent d'au moins 2 %. Une hausse anticipée avait déjà été décidée fin 2024, sous le gouvernement de Michel Barnier."
+      ]
+    },
+    {
+      "intertitre": "Ce que l'État attend des employeurs",
+      "paragraphes": [
+        "Le gouvernement demande aux entreprises des engagements sur les salaires : relance des négociations annuelles et discussions rapides dans les branches dont les minima restent sous le Smic. En échange, il envisage de rouvrir le robinet des allègements de charges pour les employeurs, ou bien de récupérer une partie des économies faites sur la prime d'activité."
+      ]
+    },
+    {
+      "intertitre": "L'inquiétude des petits patrons",
+      "paragraphes": [
+        "À la tête de l'U2P, qui fédère artisans, commerçants et professions libérales, Michel Picon juge la hausse plutôt faible du point de vue des salariés. Mais il souligne que le Smic aura progressé d'environ 5 % sur l'année, un niveau supérieur au taux de marge de beaucoup de petites entreprises.",
+        "L'U2P accepterait le passage à 1 500 euros nets à une condition : que l'État allège la charge des employeurs, alors que les allègements généraux de cotisations sont gelés. Elle rejette en revanche les demandes des syndicats, qui réclament entre 100 et 150 euros mensuels supplémentaires. Selon son président, les appliquer ferait disparaître des milliers d'entreprises.",
+        "Pour les dirigeants de TPE et de PME, la date du 1er décembre compte : une hausse en fin d'année pèse sur la trésorerie au moment des fêtes et des échéances de fin d'exercice."
+      ]
+    }
+  ],
+  "mots": 358,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/08/le-smic-va-beneficier-dune-revalorisation-anticipee-au-1er-decembre-pour-depasser-le-seuil-des-1-500-euros-nets-par-mois-13642898.php",
+  "autres_sources": [
+    "https://www.bfmtv.com/economie/entreprises/le-patron-des-petites-entreprises-estime-qu-elles-ne-pourront-pas-supporter-un-smic-a-1-500-euros-sauf-si-l-etat-revient-sur-le-gel-des-allegements-de-cotisations_AV-202611090292.html",
+    "https://www.sudouest.fr/france/colere-sociale-le-smic-va-t-il-passer-la-barre-des-1-500-euros-ce-lundi-31452883.php",
+    "https://www.lemonde.fr/politique/article/2026/11/09/conference-sociale-sebastien-lecornu-tiraille-entre-hausse-des-salaires-et-preservation-de-l-emploi_6808625_823448.html",
+    "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-sebastien-lecornu-recoit-les-partenaires-sociaux-a-matignon_6808627_823448.html",
+    "https://www.sudouest.fr/economie/social/direct-conference-sociale-hausse-du-smic-rencontre-avec-les-lyceens-et-etudiants-lundi-sous-haute-tension-pour-lecornu-suivez-toutes-les-infos-de-ce-lundi-9-novembre-31453646.php",
+    "https://www.lemonde.fr/economie/article/2026/11/09/sans-croissance-les-entreprises-francaises-peineront-a-augmenter-les-salaires-auxquels-elles-consacrent-deja-une-large-part-de-leur-richesse_6808603_3234.html",
+    "https://www.franceinfo.fr/economie/emploi/si-vous-augmentez-le-smic-c-est-oblige-de-maintenir-le-differentiel-des-autres-salaires-explique-le-president-des-entrepreneurs-paris-ile-de-france_8273768.html"
+  ],
+  "publie_le": "2026-11-08T19:28:43.000Z",
+  "redige_le": "2026-11-09T11:23:10.086Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/06e418b88dcb667061400d2f0dec6fec265e5d69.webp",
+    "source": "wikimedia",
+    "credit": "ScareCriterion12",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Matignon_2017.jpg",
+    "alt": "L'hôtel Matignon, résidence du Premier ministre à Paris",
+    "mots_cles": [
+      "Hôtel Matignon"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

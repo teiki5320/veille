@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-08T18:17:12.309Z",
+  "genere_le": "2026-11-09T11:22:56.211Z",
   "actus": [
+    {
+      "id": "13bf2faa61c98d645d4fc8b800559f08140d3aa7",
+      "titre": "Guinée-Bissau : Mgr Víctor Luís Quematcha nommé évêque de Bissau",
+      "resume": "Le pape Léon XIV a accepté la démission de Mgr José Lampra Cá, évêque de Bissau depuis 2021, pour raisons de santé. Il nomme à sa place Mgr Víctor Luís Quematcha, capucin et jusqu'ici évêque de Bafatá. Son installation est prévue le 15 novembre.",
+      "theme": "culture",
+      "pays": [
+        "GW"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25217/pope-leo-xiv-accepts-resignation-of-62-year-old-bishop-in-guinea-bissau",
+      "publie_le": "2026-11-08T20:26:00.000Z",
+      "collecte_le": "2026-11-09T11:22:56.211Z",
+      "langue": "en",
+      "slug": "guinee-bissau-mgr-victor-luis-quematcha-nomme-eveque-de-bissau-13bf2f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/13bf2faa61c98d645d4fc8b800559f08140d3aa7.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/13bf2faa61c98d645d4fc8b800559f08140d3aa7.webp",
+        "source": "wikimedia",
+        "credit": "JNM",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kathedrale_von_Bissau.png",
+        "alt": "La cathédrale de Bissau, en Guinée-Bissau",
+        "mots_cles": [
+          "Bissau Cathedral"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0fa8bd52be99a4279907a97ac964bc75baae696a",
       "titre": "Afrique du Sud : les évêques rendent hommage au cardinal Napier, fêté pour cinq jubilés",

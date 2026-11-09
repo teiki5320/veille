@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5",
+  "slug": "plesio-ex-casino-repousse-encore-ses-resultats-en-pleine-renegociation-17069f",
+  "titre": "Plesio, ex-Casino, repousse encore ses résultats en pleine renégociation de sa dette",
+  "chapo": "Nouveau report pour Plesio. Le distributeur, qui s'appelait Casino jusqu'en octobre, publiera son activité trimestrielle mardi 10 novembre et non lundi, sans expliquer pourquoi.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Propriétaire entre autres de Monoprix, Franprix, Naturalia, Spar, Vival, Cdiscount et des magasins Casino, le groupe a annoncé ce changement par communiqué. Les chiffres seront dévoilés avant l'ouverture de la Bourse. Ils étaient d'abord attendus le vendredi 6 novembre, avant un premier décalage.",
+        "Aucune raison n'a été donnée pour ce nouveau changement de calendrier, le deuxième en quelques jours. Il intervient alors que les discussions sur la dette du groupe n'ont toujours pas abouti."
+      ]
+    },
+    {
+      "intertitre": "Bras de fer avec les créanciers",
+      "paragraphes": [
+        "Depuis un an, l'actionnaire principal, le milliardaire tchèque Daniel Kretinsky, qui a pris le contrôle de l'entreprise en 2024 après des années difficiles marquées par les pertes et une dette trop lourde, s'oppose aux créanciers sur une nouvelle restructuration financière. Une échéance de 1,4 milliard d'euros tombe en mars 2027, et Plesio tente d'en réduire le montant. En septembre, la direction assurait que les échanges continuaient pour trouver une issue acceptée par tous.",
+        "Le groupe avait déjà agi de la même façon en février, en reportant à fin mars la présentation de ses comptes 2025, en raison des négociations sur sa structure financière."
+      ]
+    },
+    {
+      "intertitre": "Un groupe recentré sur la proximité",
+      "paragraphes": [
+        "La précédente restructuration, il y a deux ans, s'était soldée par 2 200 licenciements, la cession des supermarchés et des hypermarchés, et le départ du PDG historique Jean-Charles Naouri. Le nouveau nom, adopté en octobre, devait marquer ce recentrage sur les commerces de quartier.",
+        "Dirigé par Philippe Palazzi, le groupe compte près de 6 500 magasins et 25 000 salariés. Au premier semestre, ses comptes ont fait apparaître une perte nette d'environ 205 millions d'euros, malgré une rentabilité opérationnelle en amélioration.",
+        "Pour les nombreux fournisseurs et franchisés liés à ces enseignes, l'issue des négociations sur la dette reste un point à suivre de près."
+      ]
+    }
+  ],
+  "mots": 317,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/en-pleines-negociations-pour-restructurer-sa-dette-plesio-ex-casino-decale-a-nouveau-la-publication-de-ses-resultats-trimestriels_AD-202611090303.html",
+  "publie_le": "2026-11-09T07:54:09.000Z",
+  "redige_le": "2026-11-09T11:23:10.086Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/17069fcaa78a4f2e050cb82a81c74cd4109a8ee5.webp",
+    "source": "wikimedia",
+    "credit": "François-Loïc Pichard",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Franprix,_zone_de_caisses.jpg",
+    "alt": "Un magasin d'une enseigne du groupe, Monoprix ou Franprix",
+    "mots_cles": [
+      "Franprix"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-08T18:17:15.955Z",
+  "genere_le": "2026-11-09T11:23:04.457Z",
   "articles": [
+    {
+      "id": "ae1116ebbefa451f9760782b17ea868d0f586adc",
+      "slug": "afrique-du-sud-la-marque-de-mobilier-daily-devient-dwela-et-lance-la-ae1116",
+      "titre": "Afrique du Sud : la marque de mobilier Daily devient Dwela et lance la collection Bawa",
+      "publie_le": "2026-11-09T04:00:00.000Z",
+      "redige_le": "2026-11-09T11:23:03.309Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/ae1116ebbefa451f9760782b17ea868d0f586adc.json"
+    },
     {
       "id": "8fe3d1f5698cbe70b93e9b12415b76f72d85025c",
       "slug": "sierra-leone-freetown-un-memorial-de-verre-et-de-lumiere-signe-8fe3d1",

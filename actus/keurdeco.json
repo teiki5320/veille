@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-08T18:17:15.949Z",
+  "genere_le": "2026-11-09T11:23:03.309Z",
   "actus": [
+    {
+      "id": "ae1116ebbefa451f9760782b17ea868d0f586adc",
+      "titre": "Afrique du Sud : la marque de mobilier Daily devient Dwela et lance la collection Bawa",
+      "resume": "En Afrique du Sud, la jeune marque de meubles Daily, créée par Joey Khuvutlu, prend le nom de Dwela. Avec Stephen Wilson, cofondateur de Houtlander, il présente la collection Bawa, inspirée des sièges cérémoniels des chefs africains et fabriquée en contreplaqué d'okoumé.",
+      "theme": "deco",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Visi",
+      "source_url": "https://visi.co.za/dwela-bawa-collection-south-africa/",
+      "publie_le": "2026-11-09T04:00:00.000Z",
+      "collecte_le": "2026-11-09T11:23:03.309Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-la-marque-de-mobilier-daily-devient-dwela-et-lance-la-ae1116",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/ae1116ebbefa451f9760782b17ea868d0f586adc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/ae1116ebbefa451f9760782b17ea868d0f586adc.webp",
+        "source": "wikimedia",
+        "credit": "Ann Porteus from Tasmania, Australia",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Chokwe_chair_0667a_9_chokwe_chair_(2140183891).jpg",
+        "alt": "Un siège traditionnel de chef d'Afrique centrale, en bois",
+        "mots_cles": [
+          "Chokwe chair"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8fe3d1f5698cbe70b93e9b12415b76f72d85025c",
       "titre": "Sierra Leone : à Freetown, un mémorial de verre et de lumière signé Oshinówò Studio",

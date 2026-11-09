@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "13bf2faa61c98d645d4fc8b800559f08140d3aa7",
+  "slug": "guinee-bissau-mgr-victor-luis-quematcha-nomme-eveque-de-bissau-13bf2f",
+  "titre": "Guinée-Bissau : Mgr Víctor Luís Quematcha nommé évêque de Bissau",
+  "chapo": "Changement à la tête du diocèse de Bissau : Léon XIV a accepté la démission de Mgr José Lampra Cá, 62 ans, et a choisi Mgr Víctor Luís Quematcha pour lui succéder.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La nouvelle a été rendue publique le 7 novembre par le Bureau de presse du Saint-Siège. Le même jour, le vicaire général du diocèse l'a annoncée à la presse à la cathédrale Notre-Dame-de-la-Candelária, à Bissau, en lisant un communiqué de la nonciature apostolique basée à Dakar.",
+        "D'après ce texte, des soucis de santé récents ont conduit Mgr Lampra Cá à se retirer, afin de laisser un autre pasteur guider le diocèse. Les évêques catholiques remettent en principe leur démission à 75 ans, mais ils peuvent le faire plus tôt pour une raison de santé ou un autre motif grave.",
+        "Né en janvier 1964 et ordonné prêtre en 1997, Mgr Lampra Cá dirigeait le diocèse depuis décembre 2021. Il y avait succédé à Mgr José Câmnate na Bissign, premier évêque originaire du pays."
+      ]
+    },
+    {
+      "intertitre": "Le parcours du nouvel évêque",
+      "paragraphes": [
+        "Mgr Quematcha est né en avril 1967 à Cúmura, sur le territoire du diocèse de Bissau. Frère mineur capucin, il a été ordonné prêtre en mai 1998 à Nhoma. Diplômé en théologie morale de l'Académie alphonsienne de Rome, il a enseigné cette discipline au grand séminaire interdiocésain de Bissau.",
+        "Il a aussi été recteur du petit séminaire Saint-Kizito, curé de la cathédrale de Bissau et directeur de l'hôpital de Cúmura, qui soigne les malades de la lèpre. Il avait auparavant servi au noviciat capucin de Dapaong, au Togo. Depuis mars 2025, il était l'évêque de Bafatá."
+      ]
+    },
+    {
+      "intertitre": "Installation le 15 novembre",
+      "paragraphes": [
+        "La messe de prise de possession canonique aura lieu le 15 novembre dans la cathédrale de Bissau. Jusqu'à la nomination d'un nouvel évêque à Bafatá, Mgr Quematcha continuera de gouverner ce diocèse comme administrateur apostolique.",
+        "Le nonce apostolique au Sénégal, Mgr Waldemar Sommertag, a remercié Mgr Lampra Cá pour son engagement et son zèle pastoral. Il a invité les prêtres, les religieux et l'ensemble des fidèles à accueillir leur nouveau pasteur dans la prière et la confiance."
+      ]
+    }
+  ],
+  "mots": 346,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "GW"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25217/pope-leo-xiv-accepts-resignation-of-62-year-old-bishop-in-guinea-bissau",
+  "publie_le": "2026-11-08T20:26:00.000Z",
+  "redige_le": "2026-11-09T11:22:56.211Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/13bf2faa61c98d645d4fc8b800559f08140d3aa7.webp",
+    "source": "wikimedia",
+    "credit": "JNM",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kathedrale_von_Bissau.png",
+    "alt": "La cathédrale de Bissau, en Guinée-Bissau",
+    "mots_cles": [
+      "Bissau Cathedral"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

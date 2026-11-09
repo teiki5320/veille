@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-08T18:17:15.977Z",
+  "genere_le": "2026-11-09T11:23:10.070Z",
   "articles": [
+    {
+      "id": "83d097c17a2ef2480db3b8af2e494f280ba65777",
+      "slug": "premier-league-nicolas-jackson-buteur-old-trafford-aston-villa-83d097",
+      "titre": "Premier League : Nicolas Jackson buteur à Old Trafford, Aston Villa accroché 4-4",
+      "publie_le": "2026-11-09T07:39:55.000Z",
+      "redige_le": "2026-11-09T11:23:04.467Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/83d097c17a2ef2480db3b8af2e494f280ba65777.json"
+    },
+    {
+      "id": "0f874f628c2801b1746da2e89dd6c45f1da25129",
+      "slug": "egypte-pour-sa-premiere-liste-ali-maher-se-passe-emam-ashour-0f874f",
+      "titre": "Égypte : pour sa première liste, Ali Maher se passe d'Emam Ashour",
+      "publie_le": "2026-11-09T04:21:52.000Z",
+      "redige_le": "2026-11-09T11:23:04.467Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/0f874f628c2801b1746da2e89dd6c45f1da25129.json"
+    },
+    {
+      "id": "98d3f36bf1e42b2dc5724f0776a9967a3169ea62",
+      "slug": "supercoupe-de-la-caf-usm-alger-bat-le-mamelodi-sundowns-3-1-pretoria-98d3f3",
+      "titre": "Supercoupe de la CAF : l'USM Alger bat le Mamelodi Sundowns 3-1 à Pretoria",
+      "publie_le": "2026-11-09T04:07:14.000Z",
+      "redige_le": "2026-11-09T11:23:04.467Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/98d3f36bf1e42b2dc5724f0776a9967a3169ea62.json"
+    },
+    {
+      "id": "2fc3a4ad7b8e212950e8a20b04d792a62fd3d967",
+      "slug": "premier-league-le-congolais-jules-ahoka-homme-du-match-de-sunderland-2fc3a4",
+      "titre": "Premier League : le Congolais Jules Ahoka, homme du match de Sunderland contre Chelsea",
+      "publie_le": "2026-11-08T23:33:40.000Z",
+      "redige_le": "2026-11-09T11:23:04.467Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/2fc3a4ad7b8e212950e8a20b04d792a62fd3d967.json"
+    },
     {
       "id": "5919fcd77c4a9c2f84e99bc9d29b7f297b29c083",
       "slug": "le-nigeria-championne-du-monde-u17-une-premiere-pour-le-football-5919fc",

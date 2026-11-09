@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "ae1116ebbefa451f9760782b17ea868d0f586adc",
+  "slug": "afrique-du-sud-la-marque-de-mobilier-daily-devient-dwela-et-lance-la-ae1116",
+  "titre": "Afrique du Sud : la marque de mobilier Daily devient Dwela et lance la collection Bawa",
+  "chapo": "La marque sud-africaine de meubles Daily change de nom et devient Dwela. Son fondateur, Joey Khuvutlu, s'associe au designer Stephen Wilson pour signer la collection Bawa et ouvrir un showroom à Parkhurst.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Joey Khuvutlu a travaillé une vingtaine d'années dans la publicité, à créer des marques et à diriger des agences, avant de fonder Daily en 2023. Stephen Wilson, lui, vient de l'artisanat : papier fait main, encadrement, puis menuiserie. Il a cofondé avec Phillip Hollander la marque Houtlander, l'une des plus estimées du pays, puis créé Always Welcome, un collectif qui présente des marques de design du continent.",
+        "C'est Phillip Hollander, croisé par Joey Khuvutlu à la Cape Town Furniture Week, qui a fait se rencontrer les deux hommes. Le fondateur de Daily cherchait alors un partenaire expert du travail du bois et de la fabrication."
+      ]
+    },
+    {
+      "intertitre": "Des sièges de chefs revisités",
+      "paragraphes": [
+        "Tout est parti d'une chaise de salle à manger. Son modèle : les sièges cérémoniels des chefs traditionnels africains, où de simples éléments de bois sont assemblés pour obtenir des formes à la fois fortes et confortables, sans passer par la sculpture.",
+        "Le duo a appliqué ce principe au contreplaqué d'okoumé, son matériau de base. Une technique de panneaux fendus transforme des plaques plates en assises agréables. L'idée se décline désormais en chaise d'appoint, en banc et en tables. Les deux créateurs résument leur démarche par deux adjectifs : africaine et moderniste."
+      ]
+    },
+    {
+      "intertitre": "Un nom pour tous les habitants",
+      "paragraphes": [
+        "Le nouveau nom évoque le mot anglais dweller, l'habitant d'un lieu, qu'il vive en appartement en ville ou dans une maison. Pour Joey Khuvutlu, Dwela n'est pas une rupture mais une version plus mûre du style de Daily, fait de formes arrondies et de pieds évasés qui rappellent la base d'un tambour.",
+        "Il dit puiser dans les meubles bas, doux et souvent faits main de son enfance, tout en revendiquant l'influence du modernisme. Le résultat se veut chaleureux et familier, notamment pour un public africain qui y reconnaît des références."
+      ]
+    },
+    {
+      "intertitre": "Un showroom et bientôt un second lieu",
+      "paragraphes": [
+        "Née sur internet, la marque dispose maintenant d'un showroom permanent à Parkhurst, pour que chacun puisse voir et toucher les meubles. Un deuxième espace doit ouvrir avant la fin de 2026."
+      ]
+    }
+  ],
+  "mots": 368,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "Visi",
+  "source_url": "https://visi.co.za/dwela-bawa-collection-south-africa/",
+  "publie_le": "2026-11-09T04:00:00.000Z",
+  "redige_le": "2026-11-09T11:23:03.309Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/ae1116ebbefa451f9760782b17ea868d0f586adc.webp",
+    "source": "wikimedia",
+    "credit": "Ann Porteus from Tasmania, Australia",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Chokwe_chair_0667a_9_chokwe_chair_(2140183891).jpg",
+    "alt": "Un siège traditionnel de chef d'Afrique centrale, en bois",
+    "mots_cles": [
+      "Chokwe chair"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

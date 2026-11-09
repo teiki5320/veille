@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-08T18:17:15.948Z",
+  "genere_le": "2026-11-09T11:23:03.304Z",
   "articles": [
+    {
+      "id": "0ef6083c8dd9e7425477d2d2bf10b14f8f0683df",
+      "slug": "ile-maurice-grand-baie-un-pecheur-sert-sa-propre-peche-dans-son-0ef608",
+      "titre": "Île Maurice : à Grand-Baie, un pêcheur sert sa propre pêche dans son restaurant",
+      "publie_le": "2026-11-09T10:28:57.000Z",
+      "redige_le": "2026-11-09T11:23:01.454Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/0ef6083c8dd9e7425477d2d2bf10b14f8f0683df.json"
+    },
     {
       "id": "7007bd2827624a88ba4823432d0ed804e5c4cd2f",
       "slug": "ghana-eba-akple-ou-waakye-les-familles-gardent-leurs-plats-de-noel-7007bd",

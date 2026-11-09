@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "0ef6083c8dd9e7425477d2d2bf10b14f8f0683df",
+  "slug": "ile-maurice-grand-baie-un-pecheur-sert-sa-propre-peche-dans-son-0ef608",
+  "titre": "Île Maurice : à Grand-Baie, un pêcheur sert sa propre pêche dans son restaurant",
+  "chapo": "Pêcheur depuis 45 ans à Grand-Baie, dans le nord de l'île Maurice, Jaydeo Coonee a ouvert avec ses enfants un restaurant, Lakaaz Lamer, pour servir le poisson rapporté par ses bateaux.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Son histoire, racontée par le quotidien mauricien L'Express, commence dans la pauvreté. Enfant, il vit avec les siens dans une maison en paille. Encore écolier, il découvre la pêche avec des camarades, attiré par la mer toute proche. Ce loisir partagé devient peu à peu son gagne-pain, avec une petite pirogue pour seul outil.",
+        "Les débuts sont rudes. Sortir en mer exige une bonne résistance physique, et l'argent gagné varie beaucoup d'une semaine à l'autre. Mais le jeune pêcheur tient bon."
+      ]
+    },
+    {
+      "intertitre": "Du lagon au large",
+      "paragraphes": [
+        "Avec d'autres pêcheurs, il décide de voir plus grand. Comme beaucoup de bateaux se partagent déjà le lagon, ils construisent ensemble une embarcation plus grande pour aller travailler loin des côtes. Les prises deviennent plus belles. Le poisson part vers les restaurants du coin, et des habitants viennent aussi le chercher sur place, au point de débarquement des bateaux.",
+        "Un deuxième bateau rejoint le premier, puis d'autres suivent au fil des années. Jaydeo Coonee en compte aujourd'hui quatre, et ses enfants travaillent à ses côtés."
+      ]
+    },
+    {
+      "intertitre": "Lakaaz Lamer, la maison de la mer",
+      "paragraphes": [
+        "C'est avec eux qu'est née l'idée d'un restaurant, pour servir sans intermédiaire les prises de la famille. Le nom, Lakaaz Lamer, signifie « la maison de la mer » en créole mauricien : un clin d'œil au métier qui les fait vivre.",
+        "Le pêcheur insiste sur la discipline et sur l'amour du travail bien fait. Il a toujours économisé afin de tenir les jours où la météo empêche de prendre la mer."
+      ]
+    },
+    {
+      "intertitre": "Un naufrage jamais oublié",
+      "paragraphes": [
+        "Son parcours a aussi connu une grande frayeur : un jour, son bateau s'est retourné puis a coulé. Les garde-côtes ont été alertés et un hélicoptère a survolé la zone avant que l'équipage ne soit secouru. Cet accident ne l'a pas éloigné de la mer. Il comprend toutefois que peu de jeunes veuillent aujourd'hui choisir un métier aussi dur et aussi risqué."
+      ]
+    }
+  ],
+  "mots": 346,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "MU"
+  ],
+  "source_nom": "AllAfrica",
+  "source_url": "https://fr.allafrica.com/stories/202611090213.html",
+  "publie_le": "2026-11-09T10:28:57.000Z",
+  "redige_le": "2026-11-09T11:23:01.454Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/0ef6083c8dd9e7425477d2d2bf10b14f8f0683df.webp",
+    "source": "wikimedia",
+    "credit": "mwanasimba from La Réunion",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Grand_Baie_(2990325541).jpg",
+    "alt": "La baie de Grand-Baie, dans le nord de l'île Maurice",
+    "mots_cles": [
+      "Grand Baie"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

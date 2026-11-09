@@ -1,8 +1,142 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-08T18:17:15.957Z",
+  "genere_le": "2026-11-09T11:23:04.467Z",
   "actus": [
+    {
+      "id": "83d097c17a2ef2480db3b8af2e494f280ba65777",
+      "titre": "Premier League : Nicolas Jackson buteur à Old Trafford, Aston Villa accroché 4-4",
+      "resume": "L'attaquant sénégalais Nicolas Jackson a marqué dès la 4e minute et délivré une passe décisive lors du nul 4-4 d'Aston Villa chez Manchester United, dimanche. Avec six buts en championnat, il se hisse parmi les trois meilleurs buteurs de Premier League.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Premier League",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/11/09/premier-league-buteur-face-a-manchester-united-nicolas-jackson-integre-le-top-3-des-meilleurs-buteurs/",
+      "autres_sources": [
+        "https://lesoleil.sn/actualites/sports/football-la-tempete-jackson-deferle-sur-la-premier-league/"
+      ],
+      "publie_le": "2026-11-09T07:39:55.000Z",
+      "collecte_le": "2026-11-09T11:23:04.467Z",
+      "langue": "fr",
+      "slug": "premier-league-nicolas-jackson-buteur-old-trafford-aston-villa-83d097",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/83d097c17a2ef2480db3b8af2e494f280ba65777.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/83d097c17a2ef2480db3b8af2e494f280ba65777.webp",
+        "source": "wikimedia",
+        "credit": "Timmy96",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(2).jpg",
+        "alt": "Nicolas Jackson, attaquant international sénégalais",
+        "mots_cles": [
+          "Nicolas Jackson"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "0f874f628c2801b1746da2e89dd6c45f1da25129",
+      "titre": "Égypte : pour sa première liste, Ali Maher se passe d'Emam Ashour",
+      "resume": "Nouveau sélectionneur des Pharaons, Ali Maher a convoqué 26 joueurs pour affronter deux fois le Malawi, les 13 et 17 novembre, en éliminatoires de la CAN 2027. Mohamed Salah et Omar Marmoush en font partie, mais pas le milieu d'Al Ahly Emam Ashour.",
+      "theme": "foot",
+      "pays": [
+        "EG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/09/new-egypt-head-coach-maher-drops-emam-ashour/",
+      "autres_sources": [
+        "https://www.rfi.fr/fr/afrique-foot/20261108-%C3%A9liminatoires-can-2027-la-premi%C3%A8re-liste-d-ali-maher-avec-l-%C3%A9gypte"
+      ],
+      "publie_le": "2026-11-09T04:21:52.000Z",
+      "collecte_le": "2026-11-09T11:23:04.467Z",
+      "langue": "en",
+      "slug": "egypte-pour-sa-premiere-liste-ali-maher-se-passe-emam-ashour-0f874f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/0f874f628c2801b1746da2e89dd6c45f1da25129.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/0f874f628c2801b1746da2e89dd6c45f1da25129.webp",
+        "source": "wikimedia",
+        "credit": "Crosskimo",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cairo_stadium_Egypt_vs_Senegal.jpg",
+        "alt": "Le stade international du Caire, en Égypte",
+        "mots_cles": [
+          "Cairo International Stadium"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "98d3f36bf1e42b2dc5724f0776a9967a3169ea62",
+      "titre": "Supercoupe de la CAF : l'USM Alger bat le Mamelodi Sundowns 3-1 à Pretoria",
+      "resume": "L'USM Alger a dominé le Mamelodi Sundowns 3-1 dimanche à Pretoria en Supercoupe de la CAF. Draoui, Redouani et Khaldi ont marqué pour le club algérien, qui gagne ce trophée pour la deuxième fois après 2023.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "ZA"
+      ],
+      "competition": "Supercoupe de la CAF",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/09/onyangos-sundowns-fall-to-usm-alger-in-caf-super-cup/",
+      "autres_sources": [
+        "https://www.rfi.fr/fr/afrique-foot/20261108-supercoupe-de-la-caf-l-usm-alger-remporte-le-troph%C3%A9e-pour-la-deuxi%C3%A8me-fois-de-son-histoire-en-battant-le-mamelodi-sundowns"
+      ],
+      "publie_le": "2026-11-09T04:07:14.000Z",
+      "collecte_le": "2026-11-09T11:23:04.467Z",
+      "langue": "en",
+      "slug": "supercoupe-de-la-caf-usm-alger-bat-le-mamelodi-sundowns-3-1-pretoria-98d3f3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/98d3f36bf1e42b2dc5724f0776a9967a3169ea62.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/98d3f36bf1e42b2dc5724f0776a9967a3169ea62.webp",
+        "source": "wikimedia",
+        "credit": "Aziouez",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:USM_Alger,_2014-02-15.jpg",
+        "alt": "Le club de football algérien USM Alger",
+        "mots_cles": [
+          "USM Alger"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "2fc3a4ad7b8e212950e8a20b04d792a62fd3d967",
+      "titre": "Premier League : le Congolais Jules Ahoka, homme du match de Sunderland contre Chelsea",
+      "resume": "Entré dès la 4e minute à la place de Granit Xhaka, blessé, le milieu congolais Jules Ahoka a été élu meilleur joueur de la victoire 1-0 de Sunderland sur Chelsea, dimanche. À 20 ans, il évoluait encore en deuxième division en RDC il y a un an.",
+      "theme": "foot",
+      "pays": [
+        "CD"
+      ],
+      "competition": "Premier League",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/jules-ahoka-la-folle-ascension-de-limprobable-heros-congolais-de-sunderland-contre-chelsea",
+      "publie_le": "2026-11-08T23:33:40.000Z",
+      "collecte_le": "2026-11-09T11:23:04.467Z",
+      "langue": "fr",
+      "slug": "premier-league-le-congolais-jules-ahoka-homme-du-match-de-sunderland-2fc3a4",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2fc3a4ad7b8e212950e8a20b04d792a62fd3d967.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/2fc3a4ad7b8e212950e8a20b04d792a62fd3d967.webp",
+        "source": "wikimedia",
+        "credit": "Florstein ( Telegram: WikiPhoto.Space )",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Petrovskiy_football_stadium_in_SPB.jpg",
+        "alt": "Le Stadium of Light, stade du club anglais de Sunderland",
+        "mots_cles": [
+          "Stadium of Light"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "5919fcd77c4a9c2f84e99bc9d29b7f297b29c083",
       "titre": "Le Nigeria championne du monde U17, une première pour le football féminin africain",
@@ -1994,140 +2128,6 @@
         "largeur": 1600,
         "hauteur": 900
       }
-    },
-    {
-      "id": "a55e72af8849b04f80a1b30e35ccad2950cbfdd6",
-      "titre": "Ballon d'Or africain 2026 : Pape Gueye assume viser le trophée",
-      "resume": "Interrogé par Canal+ Sport Afrique, le milieu sénégalais de Villarreal Pape Gueye affirme que le Ballon d'Or africain faisait partie de ses objectifs de la saison. Le trophée sera remis le 7 décembre à Lagos, quelques jours après le verdict du TAS sur la dernière finale de CAN.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Ballon d'Or africain",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/ballon-dor-africain-jai-fait-pas-mal-de-bonnes-choses-un-senegalais-fait-acte-de-candidature",
-      "publie_le": "2026-10-27T18:38:42.000Z",
-      "collecte_le": "2026-10-28T11:28:07.557Z",
-      "langue": "fr",
-      "slug": "ballon-or-africain-2026-pape-gueye-assume-viser-le-trophee-a55e72",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/a55e72af8849b04f80a1b30e35ccad2950cbfdd6.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/a55e72af8849b04f80a1b30e35ccad2950cbfdd6.webp",
-        "source": "wikimedia",
-        "credit": "Supporterhéninois",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Lens_-_Le_Havre_AC_(01-04-2019)_44.jpg",
-        "alt": "Le milieu de terrain sénégalais Pape Gueye",
-        "mots_cles": [
-          "Pape Gueye"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "7bb83389f2cb9bade1df1270fc7e201d595b469f",
-      "titre": "Vozinha, gardien du Cap-Vert, invité à la soirée du Ballon d'Or après son Mondial",
-      "resume": "Révélé par son parcours inattendu à la Coupe du monde 2026, le gardien cap-verdien Vozinha a assisté lundi soir à Londres à la cérémonie du Ballon d'Or. ESPN y voit un beau symbole pour tous ceux qui aiment ce sport sans en être les vedettes.",
-      "theme": "foot",
-      "pays": [
-        "CV"
-      ],
-      "competition": "Ballon d'Or",
-      "source_nom": "ESPN FC",
-      "source_url": "https://www.espn.com/soccer/story/_/id/50297310/vozinha-ballon-dor-world-cup-cape-verde-goalkeeper-dreamer",
-      "publie_le": "2026-10-27T18:23:49.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "en",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/7bb83389f2cb9bade1df1270fc7e201d595b469f.webp",
-        "source": "wikimedia",
-        "credit": "Nha Terra Nha Cretcheu",
-        "licence": "CC BY 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Vozinha_Cape_Verde_Goalkeeper.jpg",
-        "alt": "Vozinha, gardien de but de l'équipe du Cap-Vert",
-        "mots_cles": [
-          "Vozinha"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "vozinha-gardien-du-cap-vert-invite-la-soiree-du-ballon-or-apres-son-7bb833",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7bb83389f2cb9bade1df1270fc7e201d595b469f.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "e1ae240089eb21db47b2e148fab3ed50c4338d0a",
-      "titre": "C1 africaine : première qualification historique de Wiliete SC pour les poules",
-      "resume": "Le club angolais Wiliete SC jouera pour la première fois le tour principal de la plus grande compétition interclubs du continent. Il a obtenu sa place en sortant un champion national lors des tours préliminaires.",
-      "theme": "foot",
-      "pays": [
-        "AO"
-      ],
-      "competition": "Ligue des champions CAF",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/caf/ligue-des-champions-caf/ligue-des-champions-caf-wiliete-sc-linvite-surprise/",
-      "publie_le": "2026-10-27T16:37:44.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/e1ae240089eb21db47b2e148fab3ed50c4338d0a.webp",
-        "source": "wikimedia",
-        "credit": "L.Willms",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Estadio-11Nov-Luanda_03_linke-Seite-Bogen_LWS-2011-08-NC_0991.jpg",
-        "alt": "Le stade du 11-Novembre, à Luanda, en Angola",
-        "mots_cles": [
-          "Estádio 11 de Novembro"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://www.cafonline.com/caf-champions-league/news/angola-s-wiliete-dethrones-holders-mamelodi-sundowns-in-totalenergies-caf-champions-league-biggest-shock/",
-        "https://briefly.co.za/sports/football/256963-mamelodi-sundowns-crash-caf-champions-league-wiliete-sc-shock/"
-      ],
-      "slug": "c1-africaine-premiere-qualification-historique-de-wiliete-sc-pour-les-e1ae24",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e1ae240089eb21db47b2e148fab3ed50c4338d0a.json",
-      "lecture_min": 1
-    },
-    {
-      "id": "9190255f85fea072930d4cfa7a71a10e61b46ab3",
-      "titre": "Toulouse : Rafik Messali, gravement blessé, probablement absent jusqu'en 2027",
-      "resume": "Sorti blessé contre Troyes, le défenseur algéro-français du Toulouse FC Rafik Messali souffre d'une déchirure de grade 3, confirmée par les examens. Sa fin d'année 2026 est fortement compromise.",
-      "theme": "foot",
-      "pays": [
-        "DZ",
-        "FR"
-      ],
-      "competition": "Ligue 1",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football/toulouse-fin-dannee-2026-compromise-pour-rafik-messali/",
-      "publie_le": "2026-10-27T16:34:35.000Z",
-      "collecte_le": "2026-10-27T18:15:29.371Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/9190255f85fea072930d4cfa7a71a10e61b46ab3.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Ligue 1 »",
-        "mots_cles": [
-          "Rafik Messali",
-          "toulouse football",
-          "football injury"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://africasoccer.com/toulouse-suffer-another-setback-as-algerian-defender-rafik-messali-faces-weeks-out-with-ankle-injury/"
-      ],
-      "slug": "toulouse-rafik-messali-gravement-blesse-probablement-absent-jusqu-en-919025",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9190255f85fea072930d4cfa7a71a10e61b46ab3.json",
-      "lecture_min": 1
     }
   ]
 }

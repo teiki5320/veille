@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-08T18:17:15.942Z",
+  "genere_le": "2026-11-09T11:23:01.454Z",
   "actus": [
+    {
+      "id": "0ef6083c8dd9e7425477d2d2bf10b14f8f0683df",
+      "titre": "Île Maurice : à Grand-Baie, un pêcheur sert sa propre pêche dans son restaurant",
+      "resume": "À Grand-Baie, Jaydeo Coonee a passé 45 ans en mer. Parti d'une simple pirogue, ce pêcheur mauricien dispose désormais de quatre embarcations et a lancé avec ses enfants le restaurant Lakaaz Lamer, où la famille sert le fruit de sa propre pêche.",
+      "theme": "cuisine",
+      "pays": [
+        "MU"
+      ],
+      "source_nom": "AllAfrica",
+      "source_url": "https://fr.allafrica.com/stories/202611090213.html",
+      "publie_le": "2026-11-09T10:28:57.000Z",
+      "collecte_le": "2026-11-09T11:23:01.454Z",
+      "langue": "fr",
+      "slug": "ile-maurice-grand-baie-un-pecheur-sert-sa-propre-peche-dans-son-0ef608",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/0ef6083c8dd9e7425477d2d2bf10b14f8f0683df.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/0ef6083c8dd9e7425477d2d2bf10b14f8f0683df.webp",
+        "source": "wikimedia",
+        "credit": "mwanasimba from La Réunion",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Grand_Baie_(2990325541).jpg",
+        "alt": "La baie de Grand-Baie, dans le nord de l'île Maurice",
+        "mots_cles": [
+          "Grand Baie"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7007bd2827624a88ba4823432d0ed804e5c4cd2f",
       "titre": "Ghana : eba, akple ou waakye, les familles gardent leurs plats de Noël",

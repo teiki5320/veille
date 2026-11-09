@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-09T09:27:44.927Z",
+  "genere_le": "2026-11-09T11:23:13.480Z",
   "articles": [
+    {
+      "id": "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5",
+      "slug": "plesio-ex-casino-repousse-encore-ses-resultats-en-pleine-renegociation-17069f",
+      "titre": "Plesio, ex-Casino, repousse encore ses résultats en pleine renégociation de sa dette",
+      "publie_le": "2026-11-09T07:54:09.000Z",
+      "redige_le": "2026-11-09T11:23:10.086Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/17069fcaa78a4f2e050cb82a81c74cd4109a8ee5.json"
+    },
+    {
+      "id": "06e418b88dcb667061400d2f0dec6fec265e5d69",
+      "slug": "smic-une-hausse-anticipee-au-1er-decembre-les-petites-entreprises-06e418",
+      "titre": "Smic : une hausse anticipée au 1er décembre, les petites entreprises inquiètes",
+      "publie_le": "2026-11-08T19:28:43.000Z",
+      "redige_le": "2026-11-09T11:23:10.086Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/06e418b88dcb667061400d2f0dec6fec265e5d69.json"
+    },
     {
       "id": "128a79357a732a9be3ff9684050ec4da56e7c20c",
       "slug": "la-rochelle-deux-dimanches-ouverts-pour-compenser-les-pertes-des-128a79",

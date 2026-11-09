@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-08T18:17:12.328Z",
+  "genere_le": "2026-11-09T11:23:01.444Z",
   "articles": [
+    {
+      "id": "13bf2faa61c98d645d4fc8b800559f08140d3aa7",
+      "slug": "guinee-bissau-mgr-victor-luis-quematcha-nomme-eveque-de-bissau-13bf2f",
+      "titre": "Guinée-Bissau : Mgr Víctor Luís Quematcha nommé évêque de Bissau",
+      "publie_le": "2026-11-08T20:26:00.000Z",
+      "redige_le": "2026-11-09T11:22:56.211Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/13bf2faa61c98d645d4fc8b800559f08140d3aa7.json"
+    },
     {
       "id": "0fa8bd52be99a4279907a97ac964bc75baae696a",
       "slug": "afrique-du-sud-les-eveques-rendent-hommage-au-cardinal-napier-fete-0fa8bd",

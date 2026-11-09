@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "0f874f628c2801b1746da2e89dd6c45f1da25129",
+  "slug": "egypte-pour-sa-premiere-liste-ali-maher-se-passe-emam-ashour-0f874f",
+  "titre": "Égypte : pour sa première liste, Ali Maher se passe d'Emam Ashour",
+  "chapo": "Ali Maher a publié dimanche 8 novembre sa première sélection depuis son arrivée à la place d'Hossam Hassan. Le milieu d'Al Ahly Emam Ashour n'y figure pas.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Âgé de 52 ans, le nouveau sélectionneur de l'Égypte entraînait jusque-là Ceramica Cleopatra. Il a retenu 26 joueurs pour la double confrontation contre le Malawi, programmée les 13 et 17 novembre. Ces deux matchs comptent pour les éliminatoires de la Coupe d'Afrique des nations 2027.",
+        "Emam Ashour est l'absent le plus remarqué. Le joueur d'Al Ahly n'a pas non plus participé aux quatre dernières rencontres de son club, parmi lesquelles les matchs de Coupe de la Confédération contre les Ougandais de Kitara."
+      ]
+    },
+    {
+      "intertitre": "Des retours et un nouveau venu",
+      "paragraphes": [
+        "Ali Maher a rappelé plusieurs joueurs mis de côté depuis longtemps. Le gardien Mohamed El Shenawy, présent au Mondial avec les Pharaons, revient après avoir manqué le stage de septembre. Mahmoud Hamdi, surnommé El Wensh, absent depuis 2025, et Nasser Maher, plus appelé depuis 2024, retrouvent aussi le groupe, tout comme Mohamed Shehata et Mahmoud Marei.",
+        "Le seul joueur sans aucune sélection est l'attaquant Mahmoud Mamdouh. Il est récompensé pour son début de saison avec Modern Sport FC : huit buts en huit journées, ce qui fait de lui le meilleur buteur du championnat égyptien."
+      ]
+    },
+    {
+      "intertitre": "Salah et Marmoush toujours là",
+      "paragraphes": [
+        "Neuf joueurs de la liste évoluent à l'étranger. Le capitaine Mohamed Salah, aujourd'hui à Trabzonspor, est bien présent, comme Omar Marmoush (Tottenham) et le jeune Hamza Abdelkarim, du FC Barcelone. Mohamed Abdelmonem (Nice), Haissem Hassan (Celtic) et Ibrahim Adel (Nordsjælland) complètent ce contingent avec, entre autres, Hossam Abdelmeguid (Ludogorets)."
+      ]
+    },
+    {
+      "intertitre": "En tête du groupe B",
+      "paragraphes": [
+        "L'Égypte aborde ces deux matchs à la première place du groupe B, avec quatre points. Elle a démarré par un nul 0-0 contre l'Angola, avant de s'imposer 5-0 face au Soudan du Sud. La phase finale de la CAN 2027 se jouera du 19 juin au 17 juillet 2027, au Kenya, en Tanzanie et en Ouganda."
+      ]
+    }
+  ],
+  "mots": 325,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "EG"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/11/09/new-egypt-head-coach-maher-drops-emam-ashour/",
+  "autres_sources": [
+    "https://www.rfi.fr/fr/afrique-foot/20261108-%C3%A9liminatoires-can-2027-la-premi%C3%A8re-liste-d-ali-maher-avec-l-%C3%A9gypte"
+  ],
+  "publie_le": "2026-11-09T04:21:52.000Z",
+  "redige_le": "2026-11-09T11:23:04.467Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/0f874f628c2801b1746da2e89dd6c45f1da25129.webp",
+    "source": "wikimedia",
+    "credit": "Crosskimo",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cairo_stadium_Egypt_vs_Senegal.jpg",
+    "alt": "Le stade international du Caire, en Égypte",
+    "mots_cles": [
+      "Cairo International Stadium"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

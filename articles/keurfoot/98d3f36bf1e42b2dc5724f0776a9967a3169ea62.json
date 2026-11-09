@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "98d3f36bf1e42b2dc5724f0776a9967a3169ea62",
+  "slug": "supercoupe-de-la-caf-usm-alger-bat-le-mamelodi-sundowns-3-1-pretoria-98d3f3",
+  "titre": "Supercoupe de la CAF : l'USM Alger bat le Mamelodi Sundowns 3-1 à Pretoria",
+  "chapo": "L'USM Alger a remporté dimanche 8 novembre la Supercoupe de la CAF en dominant 3-1 le Mamelodi Sundowns chez lui, en Afrique du Sud. Le club algérien soulève ce trophée pour la deuxième fois, trois ans après son premier succès.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le match avait lieu au Loftus Versfeld, l'enceinte de Pretoria. Il mettait aux prises, comme chaque année à la reprise, le vainqueur de la Ligue des champions africaine, Mamelodi Sundowns, et celui de la Coupe CAF de la Confédération, l'USM Alger. Les Algériens, peu cités parmi les favoris, ont pourtant ouvert la marque très vite.",
+        "À la 4e minute, Zakaria Draoui a poussé au fond le ballon après un débordement réussi d'Ahmed Khaldi. Les Sud-Africains sont revenus à 1-1 à la 25e minute sur un penalty d'Iqraam Rayners, sifflé pour une main jugée discutable. Juste avant la mi-temps, Saâdi Redouani a repris dans le but un ballon qui venait de heurter la barre sur corner (37e)."
+      ]
+    },
+    {
+      "intertitre": "Khaldi creuse l'écart",
+      "paragraphes": [
+        "En seconde période, Ahmed Khaldi a inscrit le troisième but à la 55e minute, d'un tir enroulé du gauche dans la lucarne du gardien Ronwen Williams. L'équipe entraînée par Lamine N'Diaye a ensuite fermé les espaces et n'a plus été vraiment inquiétée. Ce succès rapporte au club 500 000 dollars."
+      ]
+    },
+    {
+      "intertitre": "Une saison compliquée pour Sundowns",
+      "paragraphes": [
+        "Pour le club de Pretoria, dirigé par Miguel Cardoso, cette défaite prolonge une mauvaise passe. Sacré en Ligue des champions 2025-2026 contre les Marocains de l'AS FAR, il a été éliminé dès les tours de qualification de l'édition suivante par les Angolais de Wiliete SC. Il ne défendra donc pas son titre en phase de groupes.",
+        "De son côté, l'USM Alger avait gagné la Coupe CAF de la Confédération la saison dernière en battant Zamalek aux tirs au but. Le club, actuellement sixième du championnat d'Algérie, tient là son premier trophée de l'exercice."
+      ]
+    },
+    {
+      "intertitre": "La Confédération domine la Supercoupe",
+      "paragraphes": [
+        "Ce résultat confirme une tendance : quatre des cinq dernières Supercoupes sont revenues au lauréat de la Coupe CAF de la Confédération. Sur cette période, seul le club égyptien des Pyramids a gagné le trophée en tant que champion d'Afrique."
+      ]
+    }
+  ],
+  "mots": 352,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "DZ",
+    "ZA"
+  ],
+  "competition": "Supercoupe de la CAF",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/11/09/onyangos-sundowns-fall-to-usm-alger-in-caf-super-cup/",
+  "autres_sources": [
+    "https://www.rfi.fr/fr/afrique-foot/20261108-supercoupe-de-la-caf-l-usm-alger-remporte-le-troph%C3%A9e-pour-la-deuxi%C3%A8me-fois-de-son-histoire-en-battant-le-mamelodi-sundowns"
+  ],
+  "publie_le": "2026-11-09T04:07:14.000Z",
+  "redige_le": "2026-11-09T11:23:04.467Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/98d3f36bf1e42b2dc5724f0776a9967a3169ea62.webp",
+    "source": "wikimedia",
+    "credit": "Aziouez",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:USM_Alger,_2014-02-15.jpg",
+    "alt": "Le club de football algérien USM Alger",
+    "mots_cles": [
+      "USM Alger"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,77 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-09T09:27:44.873Z",
+  "genere_le": "2026-11-09T11:23:10.086Z",
   "actus": [
+    {
+      "id": "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5",
+      "titre": "Plesio, ex-Casino, repousse encore ses résultats en pleine renégociation de sa dette",
+      "resume": "Le groupe Plesio, nouveau nom de Casino (Monoprix, Franprix), décale une deuxième fois la publication de son activité du troisième trimestre, désormais prévue mardi 10 novembre. Un accord sur sa dette, dont 1,4 milliard d'euros à rembourser en mars 2027, se fait toujours attendre.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/en-pleines-negociations-pour-restructurer-sa-dette-plesio-ex-casino-decale-a-nouveau-la-publication-de-ses-resultats-trimestriels_AD-202611090303.html",
+      "publie_le": "2026-11-09T07:54:09.000Z",
+      "collecte_le": "2026-11-09T11:23:10.086Z",
+      "langue": "fr",
+      "slug": "plesio-ex-casino-repousse-encore-ses-resultats-en-pleine-renegociation-17069f",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/17069fcaa78a4f2e050cb82a81c74cd4109a8ee5.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/17069fcaa78a4f2e050cb82a81c74cd4109a8ee5.webp",
+        "source": "wikimedia",
+        "credit": "François-Loïc Pichard",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Franprix,_zone_de_caisses.jpg",
+        "alt": "Un magasin d'une enseigne du groupe, Monoprix ou Franprix",
+        "mots_cles": [
+          "Franprix"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "06e418b88dcb667061400d2f0dec6fec265e5d69",
+      "titre": "Smic : une hausse anticipée au 1er décembre, les petites entreprises inquiètes",
+      "resume": "Selon BFMTV, le gouvernement accepterait de relever le Smic dès le 1er décembre, à plus de 1 500 euros nets mensuels contre 1 477 aujourd'hui. Le président de l'U2P, qui représente artisans et commerçants, prévient que beaucoup de petites entreprises ne pourront pas suivre sans geste sur les cotisations.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/08/le-smic-va-beneficier-dune-revalorisation-anticipee-au-1er-decembre-pour-depasser-le-seuil-des-1-500-euros-nets-par-mois-13642898.php",
+      "autres_sources": [
+        "https://www.bfmtv.com/economie/entreprises/le-patron-des-petites-entreprises-estime-qu-elles-ne-pourront-pas-supporter-un-smic-a-1-500-euros-sauf-si-l-etat-revient-sur-le-gel-des-allegements-de-cotisations_AV-202611090292.html",
+        "https://www.sudouest.fr/france/colere-sociale-le-smic-va-t-il-passer-la-barre-des-1-500-euros-ce-lundi-31452883.php",
+        "https://www.lemonde.fr/politique/article/2026/11/09/conference-sociale-sebastien-lecornu-tiraille-entre-hausse-des-salaires-et-preservation-de-l-emploi_6808625_823448.html",
+        "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-sebastien-lecornu-recoit-les-partenaires-sociaux-a-matignon_6808627_823448.html",
+        "https://www.sudouest.fr/economie/social/direct-conference-sociale-hausse-du-smic-rencontre-avec-les-lyceens-et-etudiants-lundi-sous-haute-tension-pour-lecornu-suivez-toutes-les-infos-de-ce-lundi-9-novembre-31453646.php",
+        "https://www.lemonde.fr/economie/article/2026/11/09/sans-croissance-les-entreprises-francaises-peineront-a-augmenter-les-salaires-auxquels-elles-consacrent-deja-une-large-part-de-leur-richesse_6808603_3234.html",
+        "https://www.franceinfo.fr/economie/emploi/si-vous-augmentez-le-smic-c-est-oblige-de-maintenir-le-differentiel-des-autres-salaires-explique-le-president-des-entrepreneurs-paris-ile-de-france_8273768.html"
+      ],
+      "publie_le": "2026-11-08T19:28:43.000Z",
+      "collecte_le": "2026-11-09T11:23:10.086Z",
+      "langue": "fr",
+      "slug": "smic-une-hausse-anticipee-au-1er-decembre-les-petites-entreprises-06e418",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/06e418b88dcb667061400d2f0dec6fec265e5d69.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/06e418b88dcb667061400d2f0dec6fec265e5d69.webp",
+        "source": "wikimedia",
+        "credit": "ScareCriterion12",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Matignon_2017.jpg",
+        "alt": "L'hôtel Matignon, résidence du Premier ministre à Paris",
+        "mots_cles": [
+          "Hôtel Matignon"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "128a79357a732a9be3ff9684050ec4da56e7c20c",
       "titre": "La Rochelle : deux dimanches ouverts pour compenser les pertes des commerçants",
