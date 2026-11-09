@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-09T18:21:29.062Z",
+  "genere_le": "2026-11-09T18:23:04.300Z",
   "actus": [
     {
       "id": "1ab5120121b0eff87d476768854ec4aff3ab3120",
@@ -25,7 +25,7 @@
         "source": "wikimedia",
         "credit": "Allan warren",
         "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:James_Baldwin_37_Allan_Warren_(cropped).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:James_Baldwin_37_Allan_Warren.jpg",
         "alt": "Portrait de l'écrivain américain James Baldwin",
         "mots_cles": [
           "James Baldwin"

@@ -1367,7 +1367,7 @@
   "images_recentes": [
     {
       "id": "ed7e81b79ea77410cbfe90e3e0a046ef74d9a512",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/9/97/AFRICA_WOMAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://live.staticflickr.com/8576/16442286310_2dee5dde9e_b.jpg"
     },
     {
       "id": "13bf2faa61c98d645d4fc8b800559f08140d3aa7",
@@ -1475,7 +1475,7 @@
     "0fa8bd52be99a4279907a97ac964bc75baae696a": "https://live.staticflickr.com/7692/16872511340_ec8f78bc2c_b.jpg",
     "68978cb7ac73791da33a9be7e4a4ea24bc1841c4": "https://upload.wikimedia.org/wikipedia/commons/7/79/Cathedral_of_maputo_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "13bf2faa61c98d645d4fc8b800559f08140d3aa7": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kathedrale_von_Bissau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "ed7e81b79ea77410cbfe90e3e0a046ef74d9a512": "https://upload.wikimedia.org/wikipedia/commons/9/97/AFRICA_WOMAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "ed7e81b79ea77410cbfe90e3e0a046ef74d9a512": "https://live.staticflickr.com/8576/16442286310_2dee5dde9e_b.jpg"
   },
   "refusees": {
     "49a135982501fc5a7ca02c13a80811ebf5ed2b62": [
@@ -1486,6 +1486,9 @@
     ],
     "cd30bda0f155850fd8fa9125ec6f570a12a01f9e": [
       "https://upload.wikimedia.org/wikipedia/commons/8/87/Lobito_banner_Carnival_group.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "ed7e81b79ea77410cbfe90e3e0a046ef74d9a512": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/97/AFRICA_WOMAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
