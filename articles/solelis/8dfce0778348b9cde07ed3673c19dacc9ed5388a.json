@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "8dfce0778348b9cde07ed3673c19dacc9ed5388a",
+  "slug": "smoby-reorganise-ses-sites-13-postes-en-moins-et-un-siege-transfere-8dfce0",
+  "titre": "Smoby réorganise ses sites : 13 postes en moins et un siège transféré à Arinthod",
+  "chapo": "Le fabricant de jouets Smoby veut réduire ses effectifs de 13 postes et quitter deux implantations, dont son berceau de Lavans-lès-Saint-Claude. Le projet a été présenté aux élus du personnel le 6 novembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'entreprise, propriété de l'allemand Simba Dickie depuis 2008, a exposé son projet dans un texte diffusé par l'AFP. Deux sites fermeraient : Lavans-lès-Saint-Claude, berceau jurassien de la marque et siège actuel, et Massy, dans l'Essonne. L'effectif total passerait de 300 à 287 personnes.",
+        "Ce chiffre est un solde : le plan mêle postes supprimés et postes créés, dont la répartition n'a pas été rendue publique. Les modalités doivent encore être discutées avec les syndicats."
+      ]
+    },
+    {
+      "intertitre": "Un siège déplacé de trente kilomètres",
+      "paragraphes": [
+        "Le siège partirait à Arinthod, une trentaine de kilomètres plus loin, où Smoby fabrique déjà. Selon la radio ICI Besançon, environ 130 salariés changeraient ainsi de lieu de travail. Les personnes concernées se verraient proposer, selon leur poste, un emploi à Moirans ou à Arinthod, dans le Jura, ou dans l'Ain, à Saint-Maurice-de-Beynost, où un showroom doit ouvrir.",
+        "Philippe Passot, maire de la commune, se dit « seul et trahi ». Il veut éviter qu'une friche s'installe à l'entrée de sa commune."
+      ]
+    },
+    {
+      "intertitre": "Des ventes en recul",
+      "paragraphes": [
+        "Pour justifier ce plan, la direction cite une baisse marquée de son chiffre d'affaires, liée selon elle au recul des naissances, à l'essor du marché de l'occasion et à une concurrence plus vive, alors que produire et distribuer coûte plus cher. En octobre, son directeur général, Alexis Delorme, tablait sur environ 110 millions d'euros de ventes en 2026, contre 120 millions l'année précédente.",
+        "Le marché français dans son ensemble se porte mieux : d'après le panéliste Circana, le chiffre d'affaires du jouet en France a grimpé de 7,1 % l'an dernier et frôle désormais 4,7 milliards d'euros. Le nombre de naissances, lui, a reculé de 2,3 % en 2025 selon l'Insee."
+      ]
+    },
+    {
+      "intertitre": "La fabrication française maintenue",
+      "paragraphes": [
+        "Smoby affirme vouloir continuer à produire en France. Environ les trois quarts de ses jouets sortent aujourd'hui de ses usines jurassiennes. Aucun calendrier de fermeture n'a encore été communiqué."
+      ]
+    }
+  ],
+  "mots": 343,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/industrie/jouets-le-fabricant-smoby-annonce-un-plan-social-et-la-fermeture-de-deux-sites-dont-son-siege-dans-le-jura-31458186.php",
+  "autres_sources": [
+    "https://www.ici.fr/bourgogne-franche-comte/jura-39/lavans-les-saint-claude/le-geant-du-jouet-smoby-ferme-son-siege-social-de-lavans-les-saint-claude-dans-le-jura-le-maire-se-dit-seul-et-trahi-6716318",
+    "https://www.economiematin.fr/smoby-fermeture-deux-sites-marche-jouet-2026"
+  ],
+  "publie_le": "2026-11-09T15:18:09.000Z",
+  "redige_le": "2026-11-10T04:25:10.870Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/8dfce0778348b9cde07ed3673c19dacc9ed5388a.webp",
+    "source": "wikimedia",
+    "credit": "Sebleouf",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lavans-l%C3%A8s-Saint-Claude_-_Si%C3%A8ge_social_Smoby_(juil_2018).jpg",
+    "alt": "Le village d'Arinthod, dans le Jura",
+    "mots_cles": [
+      "Smoby"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

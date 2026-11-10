@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-09T18:21:41.686Z",
+  "genere_le": "2026-11-10T04:25:10.870Z",
   "actus": [
+    {
+      "id": "8dfce0778348b9cde07ed3673c19dacc9ed5388a",
+      "titre": "Smoby réorganise ses sites : 13 postes en moins et un siège transféré à Arinthod",
+      "resume": "Le fabricant de jouets jurassien, filiale de l'allemand Simba Dickie, prévoit de fermer ses implantations de Lavans-lès-Saint-Claude et de Massy. Ses effectifs passeraient de 300 à 287 personnes, sur fond de ventes en baisse.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/economie/industrie/jouets-le-fabricant-smoby-annonce-un-plan-social-et-la-fermeture-de-deux-sites-dont-son-siege-dans-le-jura-31458186.php",
+      "autres_sources": [
+        "https://www.ici.fr/bourgogne-franche-comte/jura-39/lavans-les-saint-claude/le-geant-du-jouet-smoby-ferme-son-siege-social-de-lavans-les-saint-claude-dans-le-jura-le-maire-se-dit-seul-et-trahi-6716318",
+        "https://www.economiematin.fr/smoby-fermeture-deux-sites-marche-jouet-2026"
+      ],
+      "publie_le": "2026-11-09T15:18:09.000Z",
+      "collecte_le": "2026-11-10T04:25:10.870Z",
+      "langue": "fr",
+      "slug": "smoby-reorganise-ses-sites-13-postes-en-moins-et-un-siege-transfere-8dfce0",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/8dfce0778348b9cde07ed3673c19dacc9ed5388a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/8dfce0778348b9cde07ed3673c19dacc9ed5388a.webp",
+        "source": "wikimedia",
+        "credit": "Sebleouf",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lavans-l%C3%A8s-Saint-Claude_-_Si%C3%A8ge_social_Smoby_(juil_2018).jpg",
+        "alt": "Le village d'Arinthod, dans le Jura",
+        "mots_cles": [
+          "Smoby"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5",
       "titre": "Plesio, ex-Casino, repousse encore ses résultats en pleine renégociation de sa dette",

@@ -1964,6 +1964,10 @@
   },
   "images_recentes": [
     {
+      "id": "8dfce0778348b9cde07ed3673c19dacc9ed5388a",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lavans-l%C3%A8s-Saint-Claude_-_Si%C3%A8ge_social_Smoby_%28juil_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
       "id": "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Franprix%2C_zone_de_caisses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
@@ -2038,10 +2042,6 @@
     {
       "id": "3c7b4e7c9c753dcea726bb82573ca5a9520fff83",
       "origine": "https://live.staticflickr.com/1102/864103506_9173d2d455_b.jpg"
-    },
-    {
-      "id": "df33bd13a74ede7adaaef832859b41c9eb8089d7",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Le_vrai_soldeur_-_GiFi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     }
   ],
   "origines": {
@@ -2090,7 +2090,8 @@
     "128a79357a732a9be3ff9684050ec4da56e7c20c": "https://upload.wikimedia.org/wikipedia/commons/b/b4/La_rochelle%2C_Le_vieux_port.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "c41bb5910562c076ddf202ea4c2631e73ed4e348": "carte:solelis:c41bb5910562c076ddf202ea4c2631e73ed4e348",
     "06e418b88dcb667061400d2f0dec6fec265e5d69": "https://upload.wikimedia.org/wikipedia/commons/3/36/H%C3%B4tel_de_Matignon_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Franprix%2C_zone_de_caisses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Franprix%2C_zone_de_caisses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "8dfce0778348b9cde07ed3673c19dacc9ed5388a": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lavans-l%C3%A8s-Saint-Claude_-_Si%C3%A8ge_social_Smoby_%28juil_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "95f5d34e69c912e90ecab76045682f95a63575cf": [

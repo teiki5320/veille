@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-09T19:08:10.165Z",
+  "genere_le": "2026-11-10T04:25:14.308Z",
   "articles": [
+    {
+      "id": "8dfce0778348b9cde07ed3673c19dacc9ed5388a",
+      "slug": "smoby-reorganise-ses-sites-13-postes-en-moins-et-un-siege-transfere-8dfce0",
+      "titre": "Smoby réorganise ses sites : 13 postes en moins et un siège transféré à Arinthod",
+      "publie_le": "2026-11-09T15:18:09.000Z",
+      "redige_le": "2026-11-10T04:25:10.870Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/8dfce0778348b9cde07ed3673c19dacc9ed5388a.json"
+    },
     {
       "id": "17069fcaa78a4f2e050cb82a81c74cd4109a8ee5",
       "slug": "plesio-ex-casino-repousse-encore-ses-resultats-en-pleine-renegociation-17069f",
