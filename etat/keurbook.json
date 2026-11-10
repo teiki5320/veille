@@ -646,7 +646,7 @@
   "images_recentes": [
     {
       "id": "840c98ef5f5ecf58c93efb5aa4063945bf1ff883",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Photo_of_Mauritian_Writer_Ananda_Devi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/6/64/Photo_of_Mauritian_Writer_Ananda_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "1ab5120121b0eff87d476768854ec4aff3ab3120",
@@ -740,7 +740,7 @@
     "bf4d10d821b824220ce9e3cb505c75652ce619e6": "https://live.staticflickr.com/4077/4775120660_9cf582295c_b.jpg",
     "06f08b4f2b89eafeea67ff37d30d7892cfd706a1": "https://upload.wikimedia.org/wikipedia/commons/9/97/Salon_du_livre_de_Paris_2011_-_Sami_Tchak_-_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "1ab5120121b0eff87d476768854ec4aff3ab3120": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_Baldwin_37_Allan_Warren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "840c98ef5f5ecf58c93efb5aa4063945bf1ff883": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Photo_of_Mauritian_Writer_Ananda_Devi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "840c98ef5f5ecf58c93efb5aa4063945bf1ff883": "https://upload.wikimedia.org/wikipedia/commons/6/64/Photo_of_Mauritian_Writer_Ananda_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "bf4d10d821b824220ce9e3cb505c75652ce619e6": [
@@ -748,6 +748,9 @@
     ],
     "1ab5120121b0eff87d476768854ec4aff3ab3120": [
       "https://upload.wikimedia.org/wikipedia/commons/f/f3/James_Baldwin_37_Allan_Warren_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "840c98ef5f5ecf58c93efb5aa4063945bf1ff883": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/Photo_of_Mauritian_Writer_Ananda_Devi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }

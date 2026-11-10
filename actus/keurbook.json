@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-10T18:17:46.284Z",
+  "genere_le": "2026-11-10T18:19:01.379Z",
   "actus": [
     {
       "id": "840c98ef5f5ecf58c93efb5aa4063945bf1ff883",
@@ -31,7 +31,7 @@
         "source": "wikimedia",
         "credit": "Center for the Study of Europe Boston University",
         "licence": "CC BY-SA 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Photo_of_Mauritian_Writer_Ananda_Devi_(cropped).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Photo_of_Mauritian_Writer_Ananda_Devi.jpg",
         "alt": "Portrait de l'écrivaine mauricienne Ananda Devi",
         "mots_cles": [
           "Ananda Devi"
