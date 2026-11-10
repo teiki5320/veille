@@ -737,7 +737,7 @@
   "images_recentes": [
     {
       "id": "0fcec28d7932163a65e918efc7069b282477888b",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/9/96/COWLSO_PRE-EVENT_PRESS_CONFERENCE_-_Oct_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Victoria_Island_Lagos_Nigeria_15006436297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "38169becb6c50893ff7aeca1fb910d7febf08618",
@@ -839,7 +839,7 @@
     "8fe3d1f5698cbe70b93e9b12415b76f72d85025c": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Freetown-aerialview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "ae1116ebbefa451f9760782b17ea868d0f586adc": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Plywood_chair%2C_1963%2C_V%26A_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "38169becb6c50893ff7aeca1fb910d7febf08618": "https://upload.wikimedia.org/wikipedia/commons/5/56/View_of_Norval_Foundation_from_the_Sculpture_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "0fcec28d7932163a65e918efc7069b282477888b": "https://upload.wikimedia.org/wikipedia/commons/9/96/COWLSO_PRE-EVENT_PRESS_CONFERENCE_-_Oct_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "0fcec28d7932163a65e918efc7069b282477888b": "https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Victoria_Island_Lagos_Nigeria_15006436297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "d734265040b63a4476c6a3fcbabfd65eda96c16a": [
@@ -854,6 +854,9 @@
     "ae1116ebbefa451f9760782b17ea868d0f586adc": [
       "https://upload.wikimedia.org/wikipedia/commons/b/bf/Chokwe_chair_0667a_9_chokwe_chair_%282140183891%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/9/97/Chokwe_chair_0667a_7_chokwe_chair_%282140970974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "0fcec28d7932163a65e918efc7069b282477888b": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/COWLSO_PRE-EVENT_PRESS_CONFERENCE_-_Oct_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
