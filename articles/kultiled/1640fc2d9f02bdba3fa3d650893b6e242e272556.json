@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "1640fc2d9f02bdba3fa3d650893b6e242e272556",
+  "slug": "canada-le-budget-2026-garde-750-millions-de-dollars-pour-serres-et-1640fc",
+  "titre": "Canada : le budget 2026 garde 750 millions de dollars pour serres et fermes verticales",
+  "chapo": "Le gouvernement canadien veut produire davantage de nourriture sur son sol. Son budget 2026 réaffirme un soutien massif à la culture sous abri, des serres aux fermes verticales.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Premier ministre Mark Carney a présenté son premier budget fédéral, placé sous le signe de la souveraineté économique. Avec le ministre des Finances François-Philippe Champagne, il met l'accent sur la production alimentaire nationale, la main-d'œuvre agricole et l'investissement dans la technologie.",
+        "Pour les producteurs sous serre, l'essentiel se trouve dans la stratégie nationale de sécurité alimentaire, lancée en juin. Elle prévoit 3,2 milliards de dollars canadiens sur dix ans, et le budget en précise le contenu."
+      ]
+    },
+    {
+      "intertitre": "750 millions pour la culture en environnement contrôlé",
+      "paragraphes": [
+        "Le texte rappelle un engagement déjà annoncé : 750 millions de dollars pour produire des fruits et des légumes canadiens toute l'année dans des espaces fermés. Sont visés les serres, les fermes verticales et les autres lieux de culture clos. Les appels à projets sont ouverts et des dossiers sont déjà à l'étude.",
+        "Deux autres enveloppes concernent le secteur. Un fonds de 150 millions doit aider les petites et moyennes entreprises à moderniser leur matériel pour cultiver, produire et transformer davantage. Un second, de 100 millions, soutiendra l'agrandissement des capacités de transformation."
+      ]
+    },
+    {
+      "intertitre": "Main-d'œuvre, recherche et formalités",
+      "paragraphes": [
+        "La main-d'œuvre est un autre sujet suivi de près par les producteurs. Le budget consacre 151,5 millions sur cinq ans à la réforme du programme des travailleurs étrangers temporaires, pour mieux coller aux besoins de chaque région et accélérer les dossiers.",
+        "Côté innovation, 930 millions élargissent le programme de crédits pour la recherche et le développement expérimental. Le volet technologies propres du programme d'aide à la recherche industrielle du Conseil national de recherches est renouvelé pour 298 millions. Ottawa promet aussi d'homologuer plus vite semences, engrais et produits vétérinaires."
+      ]
+    },
+    {
+      "intertitre": "La suite pour les producteurs",
+      "paragraphes": [
+        "Reste à voir comment ces montants se traduiront en programmes concrets et en critères d'accès. Les groupements de serristes, eux, voient un fort potentiel dans ce nouveau financement de la culture sous abri."
+      ]
+    }
+  ],
+  "mots": 336,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "source_nom": "Greenhouse Canada",
+  "source_url": "https://www.greenhousecanada.com/budget-2026-puts-focus-on-growing-at-home/",
+  "publie_le": "2026-11-09T19:52:38.000Z",
+  "redige_le": "2026-11-10T11:17:08.850Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/1640fc2d9f02bdba3fa3d650893b6e242e272556.webp",
+    "source": "wikimedia",
+    "credit": "Ken Lund from Reno, Nevada, USA",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Leamington,_Ontario_(21782912051).jpg",
+    "alt": "Des serres de culture maraîchère dans la région de Leamington, en Ontario",
+    "mots_cles": [
+      "Greenhouses in Leamington, Ontario"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

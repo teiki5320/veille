@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-10T04:25:26.492Z",
+  "genere_le": "2026-11-10T11:17:12.455Z",
   "actus": [
+    {
+      "id": "f86b2f487c7e1396bac12384cb493404b581918c",
+      "titre": "Charente-Maritime : passés par la sauvegarde, deux patrons pressent leurs pairs d'agir tôt",
+      "resume": "À Saintes, l'organisation patronale Les Entrepreneurs de Charente-Maritime a réuni le 5 novembre des chefs d'entreprise et des représentants de l'État. Deux dirigeants sortis d'une procédure de sauvegarde ont raconté leur parcours et insisté : ne pas attendre, ne pas rester seul.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/charente-maritime/saintes/il-ne-faut-pas-attendre-deux-chefs-d-entreprise-de-saintonge-face-a-la-procedure-de-sauvegarde-31454163.php",
+      "publie_le": "2026-11-10T06:30:00.000Z",
+      "collecte_le": "2026-11-10T11:17:12.455Z",
+      "langue": "fr",
+      "slug": "charente-maritime-passes-par-la-sauvegarde-deux-patrons-pressent-leurs-f86b2f",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f86b2f487c7e1396bac12384cb493404b581918c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f86b2f487c7e1396bac12384cb493404b581918c.webp",
+        "source": "wikimedia",
+        "credit": "Jebulon",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Deambulatory_north_Saint-Eutropius_romanesque_Basilica_Saintes_Charente-Maritime.jpg",
+        "alt": "Une vue de la ville de Saintes, en Charente-Maritime",
+        "mots_cles": [
+          "Saintes, Charente-Maritime"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "78e815fa56d0584a418860926fb710b35717169d",
+      "titre": "Duralex : après un cinquième redressement, le repreneur mise sur le haut de gamme",
+      "resume": "Moins d'un mois après avoir repris la verrerie du Loiret, Cédric Meston a détaillé son plan de relance. Priorité affichée : cesser de vendre à perte, monter en gamme et réduire la facture d'énergie. 155 emplois sur environ 220 ont été conservés.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/l-objectif-est-de-ne-pas-vendre-a-perte-le-nouveau-repreneur-de-duralex-veut-produire-de-maniere-rentable-pour-stabiliser-la-verrerie-en-redressement-pour-la-cinquieme-fois-en-20-ans_AD-202611090807.html",
+      "publie_le": "2026-11-09T18:11:38.000Z",
+      "collecte_le": "2026-11-10T11:17:12.455Z",
+      "langue": "fr",
+      "slug": "duralex-apres-un-cinquieme-redressement-le-repreneur-mise-sur-le-haut-78e815",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/78e815fa56d0584a418860926fb710b35717169d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/78e815fa56d0584a418860926fb710b35717169d.webp",
+        "source": "wikimedia",
+        "credit": "Jacek Halicki",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:2023_Fili%C5%BCanki_do_herbaty.jpg",
+        "alt": "Des verres de la marque Duralex, fabriqués à La Chapelle-Saint-Mesmin, dans le Loiret",
+        "mots_cles": [
+          "Duralex"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "a537bab811bcad65b9d0196388f0219b3d7da9fe",
       "titre": "BHV : le grand magasin ferme un après-midi, faute de contrat d'assurance",

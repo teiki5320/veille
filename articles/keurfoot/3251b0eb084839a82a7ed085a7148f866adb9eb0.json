@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "3251b0eb084839a82a7ed085a7148f866adb9eb0",
+  "slug": "coupe-de-la-caf-le-tas-rejette-appel-du-hafia-fc-as-douanes-reste-3251b0",
+  "titre": "Coupe de la CAF : le TAS rejette l'appel du Hafia FC, l'AS Douanes reste qualifiée",
+  "chapo": "Le Tribunal arbitral du sport a tranché un litige né en Coupe de la CAF : l'appel du Hafia FC est rejeté et l'AS Douanes de Nouakchott garde sa qualification.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le TAS, installé à Lausanne, a validé la position adoptée par la commission de la CAF chargée des clubs, dans une décision datée du 14 septembre. Cette commission avait reconnu le cas de force majeure avancé par le club mauritanien.",
+        "L'AS Douanes est donc bien qualifiée pour l'ultime tour qualificatif de la C2 africaine, la Coupe de la Confédération, au détriment du club guinéen."
+      ]
+    },
+    {
+      "intertitre": "Un match retour qui n'avait pas eu lieu",
+      "paragraphes": [
+        "Tout part du premier tour. À l'aller, à Nouakchott, les deux équipes s'étaient séparées sur un score de 2-2. Le retour était prévu le 11 septembre à Conakry, mais les Mauritaniens ne s'étaient pas déplacés, alors que les officiels étaient sur place et que la réunion technique avait eu lieu.",
+        "Le Hafia voulait être déclaré vainqueur sur tapis vert. Mais l'instance continentale a préféré accepter les justifications de l'AS Douanes et faire rejouer la rencontre. Disputée le 19 septembre, elle a tourné à l'avantage des Mauritaniens (1-0), qualifiés grâce à un total de 3-2.",
+        "Le 8 octobre, le club de Conakry s'est tourné vers le tribunal suisse. Celui-ci avait alors suspendu le tour suivant en attendant de juger le fond."
+      ]
+    },
+    {
+      "intertitre": "Le CR Belouizdad doit refaire le voyage",
+      "paragraphes": [
+        "Cette suspension avait pénalisé le CR Belouizdad. Le club algérien avait déjà fait le déplacement en Mauritanie le mois dernier, mais il avait été informé, à la veille de la rencontre, du gel de la double confrontation. Joueurs et encadrement étaient rentrés à Alger sans jouer.",
+        "Le CRB devra donc repartir à Nouakchott pour tenter d'atteindre les poules. L'instance africaine n'a pas encore communiqué les nouvelles dates, et le club algérien a pris un sérieux retard par rapport au programme initial."
+      ]
+    },
+    {
+      "intertitre": "Sénégal-Maroc toujours en suspens",
+      "paragraphes": [
+        "Le dossier le plus suivi reste celui de l'ultime match de la CAN 2025. La fédération sénégalaise s'oppose au verdict de l'instance d'appel de la CAF, laquelle a changé sa victoire 1-0 après prolongation en défaite 3-0 par forfait, après une sortie temporaire des Lions pour protester contre un penalty.",
+        "L'appel sénégalais a été déposé le 25 mars. L'audience, le 8 octobre, s'est tenue à huis clos. Le tribunal a promis sa sentence d'ici fin novembre."
+      ]
+    }
+  ],
+  "mots": 390,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "MR",
+    "GN",
+    "DZ"
+  ],
+  "competition": "Coupe de la CAF",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/en-attendant-senegal-maroc-le-tas-annonce-sa-decision-pour-lautre-dossier-caf",
+  "publie_le": "2026-11-10T10:13:38.000Z",
+  "redige_le": "2026-11-10T11:17:02.251Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/3251b0eb084839a82a7ed085a7148f866adb9eb0.webp",
+    "source": "wikimedia",
+    "credit": "Jeff Attaway from Abuja, Nigeria",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Over_conakry_(3326330162).jpg",
+    "alt": "Le Hafia FC, club de football de Conakry, en Guinée",
+    "mots_cles": [
+      "Stade du 28 Septembre"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

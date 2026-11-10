@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-09T18:21:35.306Z",
+  "genere_le": "2026-11-10T11:17:08.850Z",
   "actus": [
+    {
+      "id": "1640fc2d9f02bdba3fa3d650893b6e242e272556",
+      "titre": "Canada : le budget 2026 garde 750 millions de dollars pour serres et fermes verticales",
+      "resume": "Le premier budget fédéral de Mark Carney détaille une stratégie de sécurité alimentaire de 3,2 milliards de dollars sur dix ans. Elle comprend 750 millions pour produire fruits et légumes toute l'année en environnement contrôlé, ainsi qu'un fonds pour moderniser les équipements des PME.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "source_nom": "Greenhouse Canada",
+      "source_url": "https://www.greenhousecanada.com/budget-2026-puts-focus-on-growing-at-home/",
+      "publie_le": "2026-11-09T19:52:38.000Z",
+      "collecte_le": "2026-11-10T11:17:08.850Z",
+      "langue": "en",
+      "slug": "canada-le-budget-2026-garde-750-millions-de-dollars-pour-serres-et-1640fc",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/1640fc2d9f02bdba3fa3d650893b6e242e272556.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/1640fc2d9f02bdba3fa3d650893b6e242e272556.webp",
+        "source": "wikimedia",
+        "credit": "Ken Lund from Reno, Nevada, USA",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Leamington,_Ontario_(21782912051).jpg",
+        "alt": "Des serres de culture maraîchère dans la région de Leamington, en Ontario",
+        "mots_cles": [
+          "Greenhouses in Leamington, Ontario"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "617acb0561858dc1938fd15b12d045b040f1ee73",
+      "titre": "Chaleur et lumière : des chercheurs trouvent un réglage de l'étirement des plantes",
+      "resume": "Une équipe de l'université d'État de l'Iowa a montré qu'un récepteur, Feronia, agit sur le phytochrome B, la protéine qui capte la lumière et la température. En modifiant deux sites de cette protéine, les plantes s'allongent plus ou moins sous une chaleur modérée.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "source_nom": "Phys.org",
+      "source_url": "https://phys.org/news/2026-11-dial-response.html",
+      "publie_le": "2026-11-09T18:40:08.000Z",
+      "collecte_le": "2026-11-10T11:17:08.850Z",
+      "langue": "en",
+      "slug": "chaleur-et-lumiere-des-chercheurs-trouvent-un-reglage-de-etirement-des-617acb",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/617acb0561858dc1938fd15b12d045b040f1ee73.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/617acb0561858dc1938fd15b12d045b040f1ee73.webp",
+        "source": "wikimedia",
+        "credit": "Heiti Paves",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:M%C3%BC%C3%BCrlooga_(Arabidopsis_thaliana)_lehekarv_(trihhoom)_311_0804.JPG",
+        "alt": "Des plants d'Arabidopsis thaliana, petite plante à fleurs blanches utilisée en recherche",
+        "mots_cles": [
+          "Arabidopsis thaliana"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ccaa89ca200740626f2af78fe86bbf40e1632c3a",
       "titre": "Airponix et Dyson Farming testent des plants de pomme de terre cultivés dans le brouillard",

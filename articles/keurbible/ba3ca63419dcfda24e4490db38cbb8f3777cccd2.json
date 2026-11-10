@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "ba3ca63419dcfda24e4490db38cbb8f3777cccd2",
+  "slug": "ghana-les-eveques-reunis-konongo-preparent-les-150-ans-de-eglise-ba3ca6",
+  "titre": "Ghana : les évêques réunis à Konongo préparent les 150 ans de l'Église catholique",
+  "chapo": "Au Ghana, la conférence des évêques catholiques a ouvert le 8 novembre son assemblée annuelle avec un objectif central : préparer le cent-cinquantenaire de l'Église dans le pays, attendu en 2030.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La session se tient du 8 au 14 novembre dans le diocèse de Konongo-Mampong, au centre du pays. Son thème associe trois mots, communion, participation et mission, à la préparation de ce grand anniversaire. La messe d'ouverture a été célébrée dimanche à la cathédrale Saint-Paul du diocèse.",
+        "Dans son homélie, Mgr Matthew Kwasi Gyamfi, qui préside la conférence épiscopale, a invité chaque fidèle à se sentir concerné par le jubilé. Il a posé une question simple à l'assemblée : que peut faire chacun pour que la fête réussisse ? Pour lui, la préparation ne doit pas reposer seulement sur les évêques et les responsables."
+      ]
+    },
+    {
+      "intertitre": "Une mission partie d'Elmina en 1880",
+      "paragraphes": [
+        "Le compte des 150 ans commence en mai 1880. Cette année-là, deux prêtres de la Société des missions africaines, les pères Auguste Moreau et Eugène Murat, débarquent à Elmina, sur la côte de ce qui s'appelait alors la Gold Coast. Leur arrivée marque le début d'une présence catholique durable.",
+        "Le catholicisme n'était pourtant pas inconnu dans la région. Des missionnaires portugais l'avaient déjà apporté au XVe siècle, sans que cette première implantation ne se maintienne. À partir d'Elmina, l'Église s'est ensuite étendue à tout le territoire, avec des paroisses, des écoles et des centres de soins."
+      ]
+    },
+    {
+      "intertitre": "Une Église devenue autonome",
+      "paragraphes": [
+        "Au fil des décennies, la direction est passée des missionnaires venus d'Europe à un clergé et à des évêques ghanéens. Le pays compte aujourd'hui vingt circonscriptions ecclésiastiques : quatre archidiocèses métropolitains et seize diocèses.",
+        "Mgr Gyamfi a souligné un autre signe de maturité. L'Église du Ghana, qui dépendait autrefois des aides financières venues de Rome, prend désormais en charge elle-même ses frais de fonctionnement administratif."
+      ]
+    },
+    {
+      "intertitre": "Une semaine de bilan et de projets",
+      "paragraphes": [
+        "Pendant cette semaine de travail, les évêques font le point sur le chemin parcouru et réfléchissent aux orientations de la mission pour les années à venir. Le jubilé de 2030 doit servir de fil conducteur à ces discussions, avec la volonté d'y associer les paroisses, les familles et les mouvements de fidèles de tout le pays."
+      ]
+    }
+  ],
+  "mots": 369,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25235/catholic-church-in-ghana-intensifies-preparations-for-150th-anniversary-ahead-of-2026-plenary-assembly",
+  "publie_le": "2026-11-09T19:55:00.000Z",
+  "redige_le": "2026-11-10T11:16:53.495Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/ba3ca63419dcfda24e4490db38cbb8f3777cccd2.webp",
+    "source": "wikimedia",
+    "credit": "Damien Halleux Radermecker",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Elmina_Castle_-_Ghana.jpg",
+    "alt": "Le château d'Elmina, sur la côte du Ghana, ville où les missionnaires catholiques se sont installés en 1880.",
+    "mots_cles": [
+      "Elmina Castle"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

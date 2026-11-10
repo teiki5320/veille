@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-09T18:21:35.277Z",
+  "genere_le": "2026-11-10T11:17:02.238Z",
   "articles": [
+    {
+      "id": "0fcec28d7932163a65e918efc7069b282477888b",
+      "slug": "lagos-casa-mouda-un-nouveau-lieu-entierement-consacre-au-design-0fcec2",
+      "titre": "Lagos : Casa Mouda, un nouveau lieu entièrement consacré au design africain contemporain",
+      "publie_le": "2026-11-09T19:35:00.000Z",
+      "redige_le": "2026-11-10T11:16:59.319Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/0fcec28d7932163a65e918efc7069b282477888b.json"
+    },
     {
       "id": "38169becb6c50893ff7aeca1fb910d7febf08618",
       "slug": "le-cap-la-norval-foundation-accueille-dix-installations-lumineuses-sud-38169b",

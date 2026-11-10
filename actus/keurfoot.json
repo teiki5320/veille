@@ -1,8 +1,140 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-09T18:21:35.280Z",
+  "genere_le": "2026-11-10T11:17:02.251Z",
   "actus": [
+    {
+      "id": "3251b0eb084839a82a7ed085a7148f866adb9eb0",
+      "titre": "Coupe de la CAF : le TAS rejette l'appel du Hafia FC, l'AS Douanes reste qualifiée",
+      "resume": "Le Tribunal arbitral du sport a débouté le club guinéen, qui réclamait une victoire après le forfait de l'AS Douanes de Mauritanie en septembre. Le club mauritanien affrontera le CR Belouizdad au dernier tour préliminaire. Le jugement sur l'ultime match continental entre Sénégalais et Marocains est toujours espéré pour fin novembre.",
+      "theme": "foot",
+      "pays": [
+        "MR",
+        "GN",
+        "DZ"
+      ],
+      "competition": "Coupe de la CAF",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/en-attendant-senegal-maroc-le-tas-annonce-sa-decision-pour-lautre-dossier-caf",
+      "publie_le": "2026-11-10T10:13:38.000Z",
+      "collecte_le": "2026-11-10T11:17:02.251Z",
+      "langue": "fr",
+      "slug": "coupe-de-la-caf-le-tas-rejette-appel-du-hafia-fc-as-douanes-reste-3251b0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/3251b0eb084839a82a7ed085a7148f866adb9eb0.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/3251b0eb084839a82a7ed085a7148f866adb9eb0.webp",
+        "source": "wikimedia",
+        "credit": "Jeff Attaway from Abuja, Nigeria",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Over_conakry_(3326330162).jpg",
+        "alt": "Le Hafia FC, club de football de Conakry, en Guinée",
+        "mots_cles": [
+          "Stade du 28 Septembre"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "24dfb8bc21c08560ea4a3e3c6afe844238dbc392",
+      "titre": "CAF Awards 2026 : la cérémonie aura lieu le 2 décembre au Nigeria, cinq jours plus tôt",
+      "resume": "La Confédération africaine de football a annoncé mardi que sa cérémonie annuelle aura lieu le mercredi 2 décembre au National Theatre de Lagos, et non plus le 7. Dix-huit trophées seront remis, dont celui de joueur africain de l'année, que le Marocain Achraf Hakimi défend face à trois Sénégalais.",
+      "theme": "foot",
+      "pays": [
+        "NG",
+        "SN",
+        "MA"
+      ],
+      "competition": "CAF Awards",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/11/10/caf-awards-2026-la-ceremonie-finalement-avancee-au-2-decembre-a-lagos/",
+      "publie_le": "2026-11-10T09:32:40.000Z",
+      "collecte_le": "2026-11-10T11:17:02.251Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-la-ceremonie-aura-lieu-le-2-decembre-au-nigeria-cinq-24dfb8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/24dfb8bc21c08560ea4a3e3c6afe844238dbc392.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/24dfb8bc21c08560ea4a3e3c6afe844238dbc392.webp",
+        "source": "wikimedia",
+        "credit": "Maersk Line",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_National_Arts_Theatre_in_Lagos_(7099736099).jpg",
+        "alt": "Le National Theatre de Lagos, au Nigeria",
+        "mots_cles": [
+          "National Theatre Lagos"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "87cc68d8dd6b4117bd5838b7c4a876f8fd99819e",
+      "titre": "FIFPRO : Achraf Hakimi, premier Africain retenu trois fois dans l'équipe type mondiale",
+      "resume": "Le latéral marocain du PSG figure dans le onze masculin de l'année dévoilé lundi par le syndicat mondial des joueurs. Déjà choisi en 2022 et 2025, il devient le premier Africain à y apparaître à trois reprises, devant Samuel Eto'o, cité deux fois.",
+      "theme": "foot",
+      "pays": [
+        "MA"
+      ],
+      "competition": null,
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/fifpro-un-record-africain-pour-hakimi-dans-le-onze-de-lannee",
+      "publie_le": "2026-11-09T21:48:55.000Z",
+      "collecte_le": "2026-11-10T11:17:02.251Z",
+      "langue": "fr",
+      "slug": "fifpro-achraf-hakimi-premier-africain-retenu-trois-fois-dans-equipe-87cc68",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/87cc68d8dd6b4117bd5838b7c4a876f8fd99819e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/87cc68d8dd6b4117bd5838b7c4a876f8fd99819e.webp",
+        "source": "wikimedia",
+        "credit": "MFonzatti",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_2024.jpg",
+        "alt": "Achraf Hakimi, défenseur international marocain",
+        "mots_cles": [
+          "Achraf Hakimi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7c5b8921bb8b27a71eceb8145259c09576383c26",
+      "titre": "Sénégal : Krépin Diatta blessé et forfait, Arouna Sangante appelé contre le Soudan",
+      "resume": "Touché lors d'un match de Watford le 8 novembre, Krépin Diatta doit renoncer aux deux rencontres du Sénégal face au Soudan, les 12 et 16 novembre. Patrick Vieira le remplace par Arouna Sangante, défenseur du FC Séville âgé de 24 ans.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/senegal-patrick-vieira-fait-appel-a-un-renfort-de-liga",
+      "autres_sources": [
+        "https://senego.com/arouna-sangante-remplace-krepin-diatta-chez-les-lions-pour-les-eliminatoires-de-la-can-2027_2022120.html",
+        "https://wiwsport.com/2026/11/10/joj2026-exploit-historique-krepin-diatta-blesse-arouna-sangante-rappele/"
+      ],
+      "publie_le": "2026-11-09T19:43:11.000Z",
+      "collecte_le": "2026-11-10T11:17:02.251Z",
+      "langue": "fr",
+      "slug": "senegal-krepin-diatta-blesse-et-forfait-arouna-sangante-appele-contre-7c5b89",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7c5b8921bb8b27a71eceb8145259c09576383c26.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7c5b8921bb8b27a71eceb8145259c09576383c26.webp",
+        "source": "wikimedia",
+        "credit": "DAKARACTU TV HD",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kr%C3%A9pin_Diatta_S%C3%A9n%C3%A9gal.png",
+        "alt": "Krépin Diatta, international sénégalais",
+        "mots_cles": [
+          "Krépin Diatta"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "83d097c17a2ef2480db3b8af2e494f280ba65777",
       "titre": "Premier League : Nicolas Jackson buteur à Old Trafford, Aston Villa accroché 4-4",
@@ -2004,144 +2136,6 @@
         "alt": "Le logo ou un stade lié au football guinéen",
         "mots_cles": [
           "Fédération guinéenne de football"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "a11602538d8819b7dcb2dc0bb5895531ec1f84a3",
-      "titre": "Mondial U15 : le Sénégal et la RDC s'imposent 4-1 et filent en huitièmes",
-      "resume": "Au Mondial U15 de Bakou, le Sénégal a battu la Géorgie 4-1, porté par Abdoulaye Diallo, auteur de trois buts, et rejoint les huitièmes de la Division B. La RDC s'est elle aussi qualifiée en Ligue D en dominant l'Île Maurice sur le même score.",
-      "theme": "foot",
-      "pays": [
-        "SN",
-        "CD"
-      ],
-      "competition": "Coupe du monde U15",
-      "source_nom": "Wiwsport",
-      "source_url": "https://wiwsport.com/2026/10/28/mondial-u15-le-senegal-domine-la-georgie-4-1-et-file-en-huitiemes-de-finale-de-la-division-b/",
-      "autres_sources": [
-        "https://africatopsports.com/football/mondial-u15-la-rdc-ecrase-lile-maurice-et-file-en-8es-de-finale/",
-        "https://beninwebtv.bj/mondial-u15-diallo-porte-le-senegal-en-huitiemes-de-la-division-b/"
-      ],
-      "publie_le": "2026-10-28T09:45:42.000Z",
-      "collecte_le": "2026-10-28T11:28:07.557Z",
-      "langue": "fr",
-      "slug": "mondial-u15-le-senegal-et-la-rdc-imposent-4-1-et-filent-en-huitiemes-a11602",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/a11602538d8819b7dcb2dc0bb5895531ec1f84a3.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/a11602538d8819b7dcb2dc0bb5895531ec1f84a3.webp",
-        "source": "wikimedia",
-        "credit": "AlixSaz",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Baku_bay,_Azerbaijan.jpg",
-        "alt": "La ville de Bakou, en Azerbaïdjan",
-        "mots_cles": [
-          "Baku"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "277c61a0ae62bb4a7900bf02ff06cb4fca112141",
-      "titre": "CAN 2025 : avant le verdict du TAS, Mustapha Hadji défend le sacre du Maroc",
-      "resume": "L'ancien international marocain Mustapha Hadji estime que le Maroc a obtenu la CAN 2025 conformément au règlement, après la sortie temporaire des Sénégalais en finale. Il critique aussi l'arbitre Jean-Jacques Ndala. Le Tribunal arbitral du sport doit trancher vers la fin novembre.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "SN"
-      ],
-      "competition": "CAN",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/maroc-senegal-ils-savent-ce-qui-sest-passe-la-sortie-explosive-de-hadji-avant-le-verdict-du-tas",
-      "publie_le": "2026-10-28T08:51:00.000Z",
-      "collecte_le": "2026-10-28T11:28:07.557Z",
-      "langue": "fr",
-      "slug": "can-2025-avant-le-verdict-du-tas-mustapha-hadji-defend-le-sacre-du-277c61",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/277c61a0ae62bb4a7900bf02ff06cb4fca112141.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/277c61a0ae62bb4a7900bf02ff06cb4fca112141.webp",
-        "source": "wikimedia",
-        "credit": "Doha Stadium Plus Qatar",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Mustapha_Hadji.jpg",
-        "alt": "L'ancien footballeur marocain Mustapha Hadji",
-        "mots_cles": [
-          "Mustapha Hadji"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "e104c94b04c5583a4ced3ae819ef1f59984b241e",
-      "titre": "Ouganda : Khalid Aucho, pourtant retraité, rappelé pour ses adieux face au Botswana",
-      "resume": "Retiré de la sélection ougandaise depuis le 12 octobre, Khalid Aucho figure dans le groupe de 30 joueurs de Paul Put pour la double confrontation contre le Botswana. Le sélectionneur veut offrir à l'ancien capitaine, 77 sélections, un hommage organisé le 14 novembre à Hoima.",
-      "theme": "foot",
-      "pays": [
-        "UG"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Kawowo Sports",
-      "source_url": "https://kawowo.com/2026/10/28/why-paul-put-summoned-retired-khalid-aucho-to-uganda-cranes-squad/",
-      "autres_sources": [
-        "https://africatopsports.com/football/elim-can-2027-louganda-prepare-un-hommage-a-khalid-aucho/",
-        "https://kawowo.com/2026/10/28/uganda-cranes-head-coach-confirms-30-man-squad-for-botswana-double-head-afcon-2027-qualifiers/"
-      ],
-      "publie_le": "2026-10-28T08:19:38.000Z",
-      "collecte_le": "2026-10-28T11:28:07.557Z",
-      "langue": "en",
-      "slug": "ouganda-khalid-aucho-pourtant-retraite-rappele-pour-ses-adieux-face-au-e104c9",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e104c94b04c5583a4ced3ae819ef1f59984b241e.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/e104c94b04c5583a4ced3ae819ef1f59984b241e.webp",
-        "source": "wikimedia",
-        "credit": "Fédération Guinéenne Football",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Khalid_Aucho.jpg",
-        "alt": "Le milieu de terrain ougandais Khalid Aucho",
-        "mots_cles": [
-          "Khalid Aucho"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "b52a6bb27c51e315367f3f44d953c9c3f7795e04",
-      "titre": "Waël Mohya, 17 ans, révélation de Gladbach courtisée par le Bayern et le Maroc",
-      "resume": "Le milieu offensif germano-marocain Waël Mohya, 17 ans, s'impose à Mönchengladbach avec trois buts en huit matchs. Le club veut prolonger son contrat, qui court jusqu'en 2028, alors que le Bayern, Dortmund, Leverkusen et Leipzig le suivent. Le Maroc tente aussi de le convaincre.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "DE"
-      ],
-      "competition": "Bundesliga",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a3335516362927596926-wael-mohya-le-phenomene-de-17-ans-qui-rend-deja-fou-lallemagne",
-      "autres_sources": [
-        "https://africatopsports.com/football-europe/borussia-monchengladbach-une-prolongation-de-wael-mohya-a-letude/"
-      ],
-      "publie_le": "2026-10-27T19:02:06.000Z",
-      "collecte_le": "2026-10-28T11:28:07.557Z",
-      "langue": "fr",
-      "slug": "wael-mohya-17-ans-revelation-de-gladbach-courtisee-par-le-bayern-et-le-b52a6b",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/b52a6bb27c51e315367f3f44d953c9c3f7795e04.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/b52a6bb27c51e315367f3f44d953c9c3f7795e04.webp",
-        "source": "wikimedia",
-        "credit": "Sascha Brück",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Borussia_Park_M%C3%B6nchengladbach.jpg",
-        "alt": "Le stade ou les couleurs du Borussia Mönchengladbach",
-        "mots_cles": [
-          "Borussia-Park"
         ],
         "largeur": 1600,
         "hauteur": 900

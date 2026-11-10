@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-09T19:08:26.186Z",
+  "genere_le": "2026-11-10T11:17:08.843Z",
   "articles": [
+    {
+      "id": "3251b0eb084839a82a7ed085a7148f866adb9eb0",
+      "slug": "coupe-de-la-caf-le-tas-rejette-appel-du-hafia-fc-as-douanes-reste-3251b0",
+      "titre": "Coupe de la CAF : le TAS rejette l'appel du Hafia FC, l'AS Douanes reste qualifiée",
+      "publie_le": "2026-11-10T10:13:38.000Z",
+      "redige_le": "2026-11-10T11:17:02.251Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/3251b0eb084839a82a7ed085a7148f866adb9eb0.json"
+    },
+    {
+      "id": "24dfb8bc21c08560ea4a3e3c6afe844238dbc392",
+      "slug": "caf-awards-2026-la-ceremonie-aura-lieu-le-2-decembre-au-nigeria-cinq-24dfb8",
+      "titre": "CAF Awards 2026 : la cérémonie aura lieu le 2 décembre au Nigeria, cinq jours plus tôt",
+      "publie_le": "2026-11-10T09:32:40.000Z",
+      "redige_le": "2026-11-10T11:17:02.251Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/24dfb8bc21c08560ea4a3e3c6afe844238dbc392.json"
+    },
+    {
+      "id": "87cc68d8dd6b4117bd5838b7c4a876f8fd99819e",
+      "slug": "fifpro-achraf-hakimi-premier-africain-retenu-trois-fois-dans-equipe-87cc68",
+      "titre": "FIFPRO : Achraf Hakimi, premier Africain retenu trois fois dans l'équipe type mondiale",
+      "publie_le": "2026-11-09T21:48:55.000Z",
+      "redige_le": "2026-11-10T11:17:02.251Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/87cc68d8dd6b4117bd5838b7c4a876f8fd99819e.json"
+    },
+    {
+      "id": "7c5b8921bb8b27a71eceb8145259c09576383c26",
+      "slug": "senegal-krepin-diatta-blesse-et-forfait-arouna-sangante-appele-contre-7c5b89",
+      "titre": "Sénégal : Krépin Diatta blessé et forfait, Arouna Sangante appelé contre le Soudan",
+      "publie_le": "2026-11-09T19:43:11.000Z",
+      "redige_le": "2026-11-10T11:17:02.251Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7c5b8921bb8b27a71eceb8145259c09576383c26.json"
+    },
     {
       "id": "83d097c17a2ef2480db3b8af2e494f280ba65777",
       "slug": "premier-league-nicolas-jackson-buteur-old-trafford-aston-villa-83d097",

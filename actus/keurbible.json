@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-09T18:22:40.775Z",
+  "genere_le": "2026-11-10T11:16:53.495Z",
   "actus": [
+    {
+      "id": "57a9f91dbdea3aefa0d275172c13adfdc23548c2",
+      "titre": "Eswatini : les Sœurs missionnaires de Marie Auxiliatrice fêtent 25 ans de présence",
+      "resume": "Installée à Malkerns depuis 2001, la congrégation des Sœurs missionnaires de Marie Auxiliatrice célèbre ses noces d'argent en Eswatini. Sa supérieure générale, sœur Christine Mynsong, voit dans la jeunesse africaine une force pour l'avenir de l'Église.",
+      "theme": "culture",
+      "pays": [
+        "SZ"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25233/the-future-of-the-church-is-in-africa-missionary-sister-hopeful-as-congregation-marks-25-years-in-eswatini",
+      "publie_le": "2026-11-09T20:43:00.000Z",
+      "collecte_le": "2026-11-10T11:16:53.495Z",
+      "langue": "en",
+      "slug": "eswatini-les-soeurs-missionnaires-de-marie-auxiliatrice-fetent-25-ans-57a9f9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/57a9f91dbdea3aefa0d275172c13adfdc23548c2.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/57a9f91dbdea3aefa0d275172c13adfdc23548c2.webp",
+        "source": "wikimedia",
+        "credit": "PIERRE ANDRE LECLERCQ",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Malkerns_,_fabrique_de_cierges.jpg",
+        "alt": "Un paysage de la région de Malkerns, en Eswatini, où les sœurs ont fondé leur mission en 2001.",
+        "mots_cles": [
+          "Malkerns"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "ba3ca63419dcfda24e4490db38cbb8f3777cccd2",
+      "titre": "Ghana : les évêques réunis à Konongo préparent les 150 ans de l'Église catholique",
+      "resume": "Réunis en assemblée plénière jusqu'au 14 novembre dans le diocèse de Konongo-Mampong, les évêques du Ghana consacrent leurs travaux au jubilé de l'Église catholique du pays. L'anniversaire, prévu en 2030, rappellera l'arrivée de deux missionnaires à Elmina en mai 1880.",
+      "theme": "culture",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25235/catholic-church-in-ghana-intensifies-preparations-for-150th-anniversary-ahead-of-2026-plenary-assembly",
+      "publie_le": "2026-11-09T19:55:00.000Z",
+      "collecte_le": "2026-11-10T11:16:53.495Z",
+      "langue": "en",
+      "slug": "ghana-les-eveques-reunis-konongo-preparent-les-150-ans-de-eglise-ba3ca6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/ba3ca63419dcfda24e4490db38cbb8f3777cccd2.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/ba3ca63419dcfda24e4490db38cbb8f3777cccd2.webp",
+        "source": "wikimedia",
+        "credit": "Damien Halleux Radermecker",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Elmina_Castle_-_Ghana.jpg",
+        "alt": "Le château d'Elmina, sur la côte du Ghana, ville où les missionnaires catholiques se sont installés en 1880.",
+        "mots_cles": [
+          "Elmina Castle"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ed7e81b79ea77410cbfe90e3e0a046ef74d9a512",
       "titre": "Soudan du Sud : un livre retrace quarante ans de mission catholique auprès des déplacés",
@@ -31,6 +91,36 @@
         "alt": "Une église ou une communauté chrétienne en Afrique de l'Est",
         "mots_cles": [
           "african church"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "f26be93539074ef83abffaaa5c3f6e8f79eb89d5",
+      "titre": "Ouganda : à Namugongo, le pèlerinage de Mbarara met les jeunes à l'honneur",
+      "resume": "Le 8 novembre, des pèlerins de cinq diocèses de l'ouest de l'Ouganda se sont rassemblés au sanctuaire des martyrs de Namugongo. L'archevêque de Mbarara, Mgr Lambert Bainomugisha, a invité les jeunes à s'inspirer de ces figures de la foi ougandaise.",
+      "theme": "culture",
+      "pays": [
+        "UG"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25229/youths-urged-to-emulate-ugandan-martyrs-cautioned-against-trading-christian-values-for-temporary-pleasures",
+      "publie_le": "2026-11-09T13:40:00.000Z",
+      "collecte_le": "2026-11-10T11:16:53.495Z",
+      "langue": "en",
+      "slug": "ouganda-namugongo-le-pelerinage-de-mbarara-met-les-jeunes-honneur-f26be9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/f26be93539074ef83abffaaa5c3f6e8f79eb89d5.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/f26be93539074ef83abffaaa5c3f6e8f79eb89d5.webp",
+        "source": "wikimedia",
+        "credit": "Lebu Ayiga",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Basillica_of_the_Uganda_Martyrs,_Namugongo_07.jpg",
+        "alt": "La basilique des Martyrs de l'Ouganda à Namugongo, près de Kampala, lieu de pèlerinage.",
+        "mots_cles": [
+          "Uganda Martyrs Basilica Namugongo"
         ],
         "largeur": 1600,
         "hauteur": 900

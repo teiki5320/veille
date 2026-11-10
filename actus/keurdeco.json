@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-09T18:21:33.400Z",
+  "genere_le": "2026-11-10T11:16:59.319Z",
   "actus": [
+    {
+      "id": "0fcec28d7932163a65e918efc7069b282477888b",
+      "titre": "Lagos : Casa Mouda, un nouveau lieu entièrement consacré au design africain contemporain",
+      "resume": "À Lagos, la galeriste Caline Chagoury-Moudaber ouvre Casa Mouda, un studio réparti sur deux sites pour montrer et produire du design africain. Sa première exposition, « The Design Institute », réunit mobilier, luminaires et vannerie de créateurs du continent et de la diaspora.",
+      "theme": "deco",
+      "pays": [
+        "NG"
+      ],
+      "tags": [
+        "matiere:raphia-paniers"
+      ],
+      "source_nom": "Wallpaper*",
+      "source_url": "https://www.wallpaper.com/design-interiors/casa-mouda-lagos",
+      "publie_le": "2026-11-09T19:35:00.000Z",
+      "collecte_le": "2026-11-10T11:16:59.319Z",
+      "langue": "en",
+      "slug": "lagos-casa-mouda-un-nouveau-lieu-entierement-consacre-au-design-0fcec2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/0fcec28d7932163a65e918efc7069b282477888b.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/0fcec28d7932163a65e918efc7069b282477888b.webp",
+        "source": "wikimedia",
+        "credit": "Marvelous udoruisi",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:COWLSO_PRE-EVENT_PRESS_CONFERENCE_-_Oct_2025.jpg",
+        "alt": "Vue de Lagos, au Nigeria, du côté de l'Eko Hotel et du front de mer d'Eko Atlantic.",
+        "mots_cles": [
+          "Eko Hotel and Suites"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "38169becb6c50893ff7aeca1fb910d7febf08618",
       "titre": "Le Cap : la Norval Foundation accueille dix installations lumineuses sud-africaines",

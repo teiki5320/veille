@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-10T04:25:27.974Z",
+  "genere_le": "2026-11-10T11:17:15.998Z",
   "articles": [
+    {
+      "id": "f86b2f487c7e1396bac12384cb493404b581918c",
+      "slug": "charente-maritime-passes-par-la-sauvegarde-deux-patrons-pressent-leurs-f86b2f",
+      "titre": "Charente-Maritime : passés par la sauvegarde, deux patrons pressent leurs pairs d'agir tôt",
+      "publie_le": "2026-11-10T06:30:00.000Z",
+      "redige_le": "2026-11-10T11:17:12.455Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/f86b2f487c7e1396bac12384cb493404b581918c.json"
+    },
+    {
+      "id": "78e815fa56d0584a418860926fb710b35717169d",
+      "slug": "duralex-apres-un-cinquieme-redressement-le-repreneur-mise-sur-le-haut-78e815",
+      "titre": "Duralex : après un cinquième redressement, le repreneur mise sur le haut de gamme",
+      "publie_le": "2026-11-09T18:11:38.000Z",
+      "redige_le": "2026-11-10T11:17:12.455Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/78e815fa56d0584a418860926fb710b35717169d.json"
+    },
     {
       "id": "a537bab811bcad65b9d0196388f0219b3d7da9fe",
       "slug": "bhv-le-grand-magasin-ferme-un-apres-midi-faute-de-contrat-assurance-a537ba",

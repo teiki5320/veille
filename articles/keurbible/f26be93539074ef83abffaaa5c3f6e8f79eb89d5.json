@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "f26be93539074ef83abffaaa5c3f6e8f79eb89d5",
+  "slug": "ouganda-namugongo-le-pelerinage-de-mbarara-met-les-jeunes-honneur-f26be9",
+  "titre": "Ouganda : à Namugongo, le pèlerinage de Mbarara met les jeunes à l'honneur",
+  "chapo": "Le sanctuaire des martyrs de Namugongo, près de Kampala, a accueilli dimanche 8 novembre le pèlerinage annuel de la province ecclésiastique de Mbarara, placé sous le thème « Soyez mes témoins ».",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les fidèles venaient de l'archidiocèse de Mbarara et des diocèses de Hoima, Kasese, Fort Portal et Kabale, tous situés dans l'ouest du pays. Ce rendez-vous est organisé chaque année par l'association de la province ecclésiastique de Mbarara.",
+        "La messe a été présidée par Mgr Lambert Bainomugisha, archevêque de Mbarara depuis juin 2020. Son homélie s'adressait d'abord aux jeunes, nombreux parmi les pèlerins."
+      ]
+    },
+    {
+      "intertitre": "Des figures majeures de la foi africaine",
+      "paragraphes": [
+        "Les martyrs de l'Ouganda sont de jeunes chrétiens, catholiques et anglicans, mis à mort entre 1885 et 1887 dans le royaume du Buganda. Les vingt-deux martyrs catholiques ont été canonisés par le pape Paul VI en 1964. Namugongo, où beaucoup d'entre eux sont morts, est devenu le plus grand lieu de pèlerinage du pays.",
+        "Chaque 3 juin, jour de leur fête, des foules venues d'Ouganda et des pays voisins y convergent, souvent après plusieurs jours de marche. Le sanctuaire reçoit aussi, tout au long de l'année, des pèlerinages de diocèses et de paroisses comme celui de Mbarara."
+      ]
+    },
+    {
+      "intertitre": "Un appel à la cohérence",
+      "paragraphes": [
+        "L'archevêque a présenté ces martyrs comme des modèles de fidélité, des jeunes qui ont fait passer leurs convictions avant leur confort. Il a demandé aux jeunes de garder leurs valeurs face aux pressions de l'argent, de la popularité ou du groupe, et de se tenir à l'écart de l'alcool et de la drogue.",
+        "Pour lui, le témoignage ne concerne pas seulement les prêtres, les religieux ou les catéchistes. Il se vit à l'école, au travail, en famille et jusque sur les réseaux sociaux, par l'honnêteté, la justice et l'attention aux plus pauvres."
+      ]
+    },
+    {
+      "intertitre": "Un engagement à rapporter chez soi",
+      "paragraphes": [
+        "Mgr Bainomugisha a conclu en invitant les pèlerins à faire de cette journée un temps de renouveau. Il leur a demandé de repartir de Namugongo avec une seule résolution : vivre leur foi de la même façon à la maison, au travail et dans la vie publique."
+      ]
+    }
+  ],
+  "mots": 348,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "UG"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25229/youths-urged-to-emulate-ugandan-martyrs-cautioned-against-trading-christian-values-for-temporary-pleasures",
+  "publie_le": "2026-11-09T13:40:00.000Z",
+  "redige_le": "2026-11-10T11:16:53.495Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/f26be93539074ef83abffaaa5c3f6e8f79eb89d5.webp",
+    "source": "wikimedia",
+    "credit": "Lebu Ayiga",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Basillica_of_the_Uganda_Martyrs,_Namugongo_07.jpg",
+    "alt": "La basilique des Martyrs de l'Ouganda à Namugongo, près de Kampala, lieu de pèlerinage.",
+    "mots_cles": [
+      "Uganda Martyrs Basilica Namugongo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

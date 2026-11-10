@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "0fcec28d7932163a65e918efc7069b282477888b",
+  "slug": "lagos-casa-mouda-un-nouveau-lieu-entierement-consacre-au-design-0fcec2",
+  "titre": "Lagos : Casa Mouda, un nouveau lieu entièrement consacré au design africain contemporain",
+  "chapo": "Lagos compte un nouveau lieu dédié au design africain : Casa Mouda, fondé par la galeriste Caline Chagoury-Moudaber, veut à la fois exposer les créateurs du continent et les aider à fabriquer sur place.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Casa Mouda se partage entre deux adresses de la capitale économique du Nigeria. AiMe Gallery s'installe dans l'Eko Hotel, un bâtiment emblématique de la ville. AiMe Concept, sur la marina d'Eko Atlantic, doit servir de lieu de rencontre, de laboratoire et d'espace pour des installations en plein air.",
+        "Sa fondatrice n'est pas une inconnue du monde de l'art. En 2013, elle a créé Art 21, galerie d'art contemporain qui a exposé notamment Olu Amoda et Yusuff Aina. Elle explique avoir commencé à réfléchir dès 2018 à ce dont les designers avaient besoin, et tenir à développer Lagos plutôt qu'à ouvrir ailleurs."
+      ]
+    },
+    {
+      "intertitre": "Une exposition inaugurale très collective",
+      "paragraphes": [
+        "La première exposition s'intitule « The Design Institute ». On y voit les créations de l'Ivoirien Jean Servais Somian, de l'Américaine Germaine Barnes, dont deux chaises sont taillées dans l'iroko, un bois local, et de la Marocaine Hajar Daide, qui signe aussi l'identité visuelle du lieu. S'y ajoutent les luminaires sculptés de Marie-Paule Tano, des étagères du collectif parisien Hall Haus, des objets en verre de Bubu Ogisi et les paniers tressés du Ghanéen Baba Tree.",
+        "Les pièces sont présentées sous forme de petites scènes d'intérieur, pour que chaque visiteur puisse imaginer un ensemble chez lui. Elles tourneront au fil des mois, l'accrochage restant volontairement ouvert."
+      ]
+    },
+    {
+      "intertitre": "Des architectes et designers nigérians aux commandes",
+      "paragraphes": [
+        "L'architecture de la galerie a été confiée à Papa Omotayo, de l'agence MOE+AA. L'aménagement d'AiMe Concept est l'œuvre du designer Nifemi Marcus-Bello et de Gemma Sfeir. Un café, baptisé KoFi, occupe les deux sites : ses murs sont recouverts de sable, en écho au bord de mer, et une ambiance sonore conçue avec le compositeur Malloy James évoque la métropole.",
+        "Pour la fondatrice, le nom de l'exposition renvoie à un problème connu du secteur : la difficulté de produire sur le continent. Elle a donc associé à son projet l'usine de meubles UFI, dirigée par son mari, Antoine Moudaber. Jean Servais Somian, qui cherchait depuis des années un atelier pour fabriquer ses pièces, a pu y travailler, comme d'autres créateurs de l'exposition."
+      ]
+    }
+  ],
+  "mots": 375,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "NG"
+  ],
+  "tags": [
+    "matiere:raphia-paniers"
+  ],
+  "source_nom": "Wallpaper*",
+  "source_url": "https://www.wallpaper.com/design-interiors/casa-mouda-lagos",
+  "publie_le": "2026-11-09T19:35:00.000Z",
+  "redige_le": "2026-11-10T11:16:59.319Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/0fcec28d7932163a65e918efc7069b282477888b.webp",
+    "source": "wikimedia",
+    "credit": "Marvelous udoruisi",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:COWLSO_PRE-EVENT_PRESS_CONFERENCE_-_Oct_2025.jpg",
+    "alt": "Vue de Lagos, au Nigeria, du côté de l'Eko Hotel et du front de mer d'Eko Atlantic.",
+    "mots_cles": [
+      "Eko Hotel and Suites"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f86b2f487c7e1396bac12384cb493404b581918c",
+  "slug": "charente-maritime-passes-par-la-sauvegarde-deux-patrons-pressent-leurs-f86b2f",
+  "titre": "Charente-Maritime : passés par la sauvegarde, deux patrons pressent leurs pairs d'agir tôt",
+  "chapo": "À Saintes, deux chefs d'entreprise ont décrit sans fard leur passage par une procédure de sauvegarde. Leur conseil aux dirigeants en difficulté : se tourner vers le tribunal avant qu'il ne soit trop tard.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le jeudi 5 novembre au soir, l'organisation d'employeurs Les Entrepreneurs de Charente-Maritime, qui a succédé à la CPME du département, organisait une réunion de sensibilisation au siège de l'agglomération de Saintes. Devant d'autres patrons et des représentants des institutions, deux dirigeants ont témoigné de leur plan de sauvegarde.",
+        "Le premier, fondateur d'une entreprise de menuiserie, a vu son activité stoppée net par la crise de 2008. Le second dirige un fabricant de glaces dont le dossier a été la toute première sauvegarde prononcée à Saintes par la juridiction commerciale, à la fin des années 2000."
+      ]
+    },
+    {
+      "intertitre": "La solitude du dirigeant",
+      "paragraphes": [
+        "Le menuisier a raconté s'être battu pour ses salariés, ses clients et ses fournisseurs. Il a décrit le sentiment d'être mis à l'écart par le monde économique, les portes qui se ferment, l'isolement, jusqu'à des idées noires. Le tribunal a été, selon lui, une seconde chance. Son entreprise a finalement été transmise à ses collaborateurs.",
+        "Le fabricant de glaces, dont la société a retrouvé la prospérité, insiste sur le moment choisi pour demander la procédure. Il en a tiré une règle de gestion : garder une trésorerie équivalente à la moitié de son chiffre d'affaires. Il souligne aussi la difficulté de frapper à la porte de tous les organismes quand l'urgence reste de trouver des clients."
+      ]
+    },
+    {
+      "intertitre": "Ce que permet la sauvegarde",
+      "paragraphes": [
+        "La sauvegarde est demandée par le dirigeant lui-même, avant la cessation des paiements. Elle gèle les dettes antérieures pendant une période d'observation, puis débouche sur un plan d'apurement qui peut s'étaler jusqu'à dix ans. Plus elle est ouverte tôt, plus les chances de redressement sont grandes."
+      ]
+    },
+    {
+      "intertitre": "Un message commun",
+      "paragraphes": [
+        "La soirée s'est conclue avec le président du syndicat patronal, le procureur et le préfet. Tous ont porté la même consigne : un chef d'entreprise en difficulté ne doit pas rester seul face à ses dettes."
+      ]
+    }
+  ],
+  "mots": 339,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/charente-maritime/saintes/il-ne-faut-pas-attendre-deux-chefs-d-entreprise-de-saintonge-face-a-la-procedure-de-sauvegarde-31454163.php",
+  "publie_le": "2026-11-10T06:30:00.000Z",
+  "redige_le": "2026-11-10T11:17:12.455Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f86b2f487c7e1396bac12384cb493404b581918c.webp",
+    "source": "wikimedia",
+    "credit": "Jebulon",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Deambulatory_north_Saint-Eutropius_romanesque_Basilica_Saintes_Charente-Maritime.jpg",
+    "alt": "Une vue de la ville de Saintes, en Charente-Maritime",
+    "mots_cles": [
+      "Saintes, Charente-Maritime"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

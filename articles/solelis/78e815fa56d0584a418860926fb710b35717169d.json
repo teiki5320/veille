@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "78e815fa56d0584a418860926fb710b35717169d",
+  "slug": "duralex-apres-un-cinquieme-redressement-le-repreneur-mise-sur-le-haut-78e815",
+  "titre": "Duralex : après un cinquième redressement, le repreneur mise sur le haut de gamme",
+  "chapo": "Reprise à la mi-octobre, la célèbre verrerie Duralex détaille son plan pour sortir de l'ornière. Le repreneur veut d'abord une production rentable, puis une usine moins gourmande en énergie.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Lundi 9 novembre, l'équipe dirigeante a tenu une conférence de presse dans l'usine de La Chapelle-Saint-Mesmin, près d'Orléans. Cédric Meston, 32 ans, a repris l'entreprise moins d'un mois plus tôt par sa holding Tomé, associée à NJJ Capital, la société d'investissement de Xavier Niel.",
+        "Le dirigeant résume sa priorité : fabriquer avec profit et stabiliser la verrerie. Il cite la vente à perte parmi les causes des dernières difficultés de l'entreprise. Cédric Meston est connu pour avoir cofondé HappyVore, une marque d'alternatives végétales à la viande. En 2025, il avait aussi racheté la filiale française de Tupperware."
+      ]
+    },
+    {
+      "intertitre": "Une entreprise abonnée aux procédures",
+      "paragraphes": [
+        "Duralex a été placée en redressement judiciaire au début du mois de juin. C'était la cinquième fois en une vingtaine d'années. La reprise a permis de garder 155 emplois sur environ 220.",
+        "Le redressement judiciaire s'ouvre quand une entreprise ne peut plus payer ses dettes exigibles avec ses fonds disponibles. Il gèle les poursuites des créanciers et peut se terminer par un plan de continuation ou, comme ici, par la cession à un repreneur choisi par le tribunal."
+      ]
+    },
+    {
+      "intertitre": "Monter en gamme et réduire l'énergie",
+      "paragraphes": [
+        "Une quinzaine de nouveautés ont été dévoilées avant le salon du Made in France, prévu à Paris du 12 au 15 novembre. Il s'agit surtout d'anciens modèles relancés : des saladiers des années 1980 en bleu et en rose, ou des verres jusqu'ici vendus uniquement transparents. Le repreneur parle d'articles à plus forte valeur ajoutée.",
+        "Tomé s'engage à investir au moins deux millions d'euros par an. Les équipes travaillent déjà sur les machines pour limiter la casse et les rebuts. La facture énergétique représente actuellement presque un cinquième des ventes."
+      ]
+    },
+    {
+      "intertitre": "Objectif 2029 pour l'électrification",
+      "paragraphes": [
+        "Pour alléger cette charge, la direction veut faire tourner un four alimenté à l'électricité à l'horizon 2029. Elle ambitionne de décarboner le site. Le repreneur affiche l'ambition d'un verre au bilan environnemental exemplaire."
+      ]
+    }
+  ],
+  "mots": 342,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/l-objectif-est-de-ne-pas-vendre-a-perte-le-nouveau-repreneur-de-duralex-veut-produire-de-maniere-rentable-pour-stabiliser-la-verrerie-en-redressement-pour-la-cinquieme-fois-en-20-ans_AD-202611090807.html",
+  "publie_le": "2026-11-09T18:11:38.000Z",
+  "redige_le": "2026-11-10T11:17:12.455Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/78e815fa56d0584a418860926fb710b35717169d.webp",
+    "source": "wikimedia",
+    "credit": "Jacek Halicki",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2023_Fili%C5%BCanki_do_herbaty.jpg",
+    "alt": "Des verres de la marque Duralex, fabriqués à La Chapelle-Saint-Mesmin, dans le Loiret",
+    "mots_cles": [
+      "Duralex"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

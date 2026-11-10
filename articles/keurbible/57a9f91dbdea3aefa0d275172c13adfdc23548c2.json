@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "57a9f91dbdea3aefa0d275172c13adfdc23548c2",
+  "slug": "eswatini-les-soeurs-missionnaires-de-marie-auxiliatrice-fetent-25-ans-57a9f9",
+  "titre": "Eswatini : les Sœurs missionnaires de Marie Auxiliatrice fêtent 25 ans de présence",
+  "chapo": "Arrivées en Eswatini en 2001, les Sœurs missionnaires de Marie Auxiliatrice marquent cette année leur jubilé d'argent. Leur supérieure générale en a profité pour dire sa confiance dans les jeunes du continent.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La congrégation a ouvert sa mission à Malkerns, dans l'ouest du royaume, il y a vingt-cinq ans. Pour marquer l'anniversaire, sa supérieure générale, sœur Christine Mynsong, a accordé un entretien au père Vaclav Klement, supérieur provincial des salésiens de Don Bosco en Afrique du Sud.",
+        "Elle s'y dit heureuse du travail accompli, tout en estimant qu'il reste beaucoup à faire pour la population, notamment dans la formation chrétienne, l'éducation et le développement social."
+      ]
+    },
+    {
+      "intertitre": "Une congrégation née en Inde",
+      "paragraphes": [
+        "Fondées en 1942 dans le nord-est de l'Inde, les sœurs appartiennent à la grande famille salésienne. Elles sont aujourd'hui environ 2 000, religieuses et candidates comprises, réparties dans 22 pays, et comptent 120 novices.",
+        "En Afrique, trente religieuses sont présentes en Eswatini, au Lesotho, en Afrique du Sud, en Éthiopie, au Soudan du Sud, au Kenya et au Mozambique. Une délégation africaine a été créée cette année. La congrégation vient aussi d'accueillir sa première membre née sur le continent, originaire du Lesotho.",
+        "Leur mission mêle catéchèse, enseignement, soins et action sociale. Sœur Christine Mynsong raconte que sa propre vocation est née en voyant, enfant, les religieuses vivre plusieurs jours dans les villages, auprès des familles, des malades et des plus pauvres."
+      ]
+    },
+    {
+      "intertitre": "Un message pour les jeunes d'Afrique australe",
+      "paragraphes": [
+        "La supérieure générale juge que l'avenir de l'Église se joue en Afrique, grâce à la vitalité de sa jeunesse. Elle reconnaît les difficultés que rencontrent beaucoup de jeunes : études retardées, chômage, familles fragilisées. Elle les encourage à ne pas perdre espoir et à mettre leurs talents au service de leur communauté et de leur pays.",
+        "Parmi les défis de la congrégation, elle cite l'adaptation aux langues et aux cultures locales et l'encouragement des vocations nées sur place."
+      ]
+    },
+    {
+      "intertitre": "Des idées pour les prochaines journées missionnaires",
+      "paragraphes": [
+        "Lors de l'entretien, elle a proposé plusieurs thèmes pour les futures journées missionnaires salésiennes, autour de la paix, de la formation professionnelle des jeunes et du soin de la planète en Afrique australe."
+      ]
+    }
+  ],
+  "mots": 356,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "SZ"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25233/the-future-of-the-church-is-in-africa-missionary-sister-hopeful-as-congregation-marks-25-years-in-eswatini",
+  "publie_le": "2026-11-09T20:43:00.000Z",
+  "redige_le": "2026-11-10T11:16:53.495Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/57a9f91dbdea3aefa0d275172c13adfdc23548c2.webp",
+    "source": "wikimedia",
+    "credit": "PIERRE ANDRE LECLERCQ",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Malkerns_,_fabrique_de_cierges.jpg",
+    "alt": "Un paysage de la région de Malkerns, en Eswatini, où les sœurs ont fondé leur mission en 2001.",
+    "mots_cles": [
+      "Malkerns"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

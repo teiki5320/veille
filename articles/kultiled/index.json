@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-09T19:08:33.205Z",
+  "genere_le": "2026-11-10T11:17:12.449Z",
   "articles": [
+    {
+      "id": "1640fc2d9f02bdba3fa3d650893b6e242e272556",
+      "slug": "canada-le-budget-2026-garde-750-millions-de-dollars-pour-serres-et-1640fc",
+      "titre": "Canada : le budget 2026 garde 750 millions de dollars pour serres et fermes verticales",
+      "publie_le": "2026-11-09T19:52:38.000Z",
+      "redige_le": "2026-11-10T11:17:08.850Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/1640fc2d9f02bdba3fa3d650893b6e242e272556.json"
+    },
+    {
+      "id": "617acb0561858dc1938fd15b12d045b040f1ee73",
+      "slug": "chaleur-et-lumiere-des-chercheurs-trouvent-un-reglage-de-etirement-des-617acb",
+      "titre": "Chaleur et lumière : des chercheurs trouvent un réglage de l'étirement des plantes",
+      "publie_le": "2026-11-09T18:40:08.000Z",
+      "redige_le": "2026-11-10T11:17:08.850Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/617acb0561858dc1938fd15b12d045b040f1ee73.json"
+    },
     {
       "id": "b6cd760f8c5454e722dabea50e12d9e4b94294a4",
       "slug": "inde-citygreens-conseille-aux-nouveaux-cultivateurs-de-passer-b6cd76",

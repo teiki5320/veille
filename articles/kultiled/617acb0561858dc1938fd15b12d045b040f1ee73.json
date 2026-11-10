@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "617acb0561858dc1938fd15b12d045b040f1ee73",
+  "slug": "chaleur-et-lumiere-des-chercheurs-trouvent-un-reglage-de-etirement-des-617acb",
+  "titre": "Chaleur et lumière : des chercheurs trouvent un réglage de l'étirement des plantes",
+  "chapo": "Quand il fait un peu trop chaud, beaucoup de plantes s'étirent, au prix de leur rendement. Une étude américaine décrit un mécanisme qui pourrait servir à doser cette réaction.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Des généticiens de l'université d'État de l'Iowa, aux États-Unis, ont publié leurs travaux dans la revue PNAS, les comptes rendus de l'Académie américaine des sciences. Menée par Hongqing Guo, professeure adjointe, l'équipe a travaillé avec trois chercheurs de l'université de Californie à Riverside.",
+        "Leur sujet : la thermomorphogenèse. C'est l'ensemble des changements de forme qu'une plante adopte lorsque la température devient stressante sans être mortelle. Les tiges et les pétioles s'allongent, ce qui aère le feuillage. La plante résiste mieux, mais une culture qui s'étire produit souvent moins."
+      ]
+    },
+    {
+      "intertitre": "Un capteur de lumière qui sert aussi de thermomètre",
+      "paragraphes": [
+        "Au cœur du mécanisme se trouve le phytochrome B. Cette protéine, étudiée depuis des décennies, réagit à la fois à la lumière et à la chaleur. Bien éclairée et à bonne température, elle est active et freine l'allongement. Si le milieu reste trop sombre ou trop chaud, elle se désactive et la plante commence à s'étirer.",
+        "Le laboratoire de Hongqing Guo étudie un autre acteur, Feronia, un récepteur placé dans la membrane des cellules. Des plants d'Arabidopsis privés de Feronia réagissaient moins à la chaleur, ce qui a mis les chercheurs sur la piste d'un lien entre les deux protéines."
+      ]
+    },
+    {
+      "intertitre": "Deux sites modifiés, deux comportements",
+      "paragraphes": [
+        "Les analyses ont désigné deux acides aminés du phytochrome B sur lesquels Feronia agirait. Par édition du génome, l'équipe a créé deux lignées : l'une où ces sites ne peuvent plus être modifiés, l'autre qui imite une modification permanente.",
+        "À environ 27 °C, juste au-dessus de la zone de confort de la plante, la seconde lignée a poussé plus haut que les plants ordinaires. La première a montré la réaction la plus faible. Pour la chercheuse, l'idée est de régler l'intensité de la réponse, comme un variateur, sans la supprimer."
+      ]
+    },
+    {
+      "intertitre": "Prochaine étape : une plante cultivée",
+      "paragraphes": [
+        "L'équipe voudrait refaire l'expérience sur une espèce de culture et savoir si Feronia perçoit lui-même la température. Pour la culture sous lumière artificielle, où chaleur et éclairage se pilotent finement, ce couple de protéines est une piste de plus pour comprendre pourquoi les plants filent."
+      ]
+    }
+  ],
+  "mots": 372,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "Phys.org",
+  "source_url": "https://phys.org/news/2026-11-dial-response.html",
+  "publie_le": "2026-11-09T18:40:08.000Z",
+  "redige_le": "2026-11-10T11:17:08.850Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/617acb0561858dc1938fd15b12d045b040f1ee73.webp",
+    "source": "wikimedia",
+    "credit": "Heiti Paves",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BC%C3%BCrlooga_(Arabidopsis_thaliana)_lehekarv_(trihhoom)_311_0804.JPG",
+    "alt": "Des plants d'Arabidopsis thaliana, petite plante à fleurs blanches utilisée en recherche",
+    "mots_cles": [
+      "Arabidopsis thaliana"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
