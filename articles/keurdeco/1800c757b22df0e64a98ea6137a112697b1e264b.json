@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "1800c757b22df0e64a98ea6137a112697b1e264b",
+  "slug": "casablanca-le-ceramiste-younes-khourassani-fait-danser-la-lumiere-dans-1800c7",
+  "titre": "Casablanca : le céramiste Younes Khourassani fait danser la lumière dans « Satori »",
+  "chapo": "Avec « Satori », l'artiste casablancais Younes Khourassani revient à la terre. Ses céramiques murales et ses grandes sculptures jouent avec l'ombre, la couleur et l'espace.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'exposition se tient à Casablanca, à La Galerie 38, qui avait déjà accueilli en 2022 sa série « Lumière sacrée ». Cette fois, l'artiste laisse de côté l'art optique pur et les jeux de couleur pour se consacrer à la céramique, qu'il aborde comme une architecture.",
+        "Les pièces exposées sont de deux sortes : des fresques qui couvrent les murs et des sculptures de grande taille qui occupent la salle. Les formes ondulent, les volumes changent d'échelle, et chaque œuvre semble bouger selon la place de celui qui regarde."
+      ]
+    },
+    {
+      "intertitre": "Du dessin numérique au four",
+      "paragraphes": [
+        "Derrière ces surfaces fluides, la fabrication est longue. Chaque pièce passe par une modélisation en trois dimensions, puis par le moulage, la cuisson, l'émaillage et l'assemblage. L'artiste travaille avec des fours conçus spécialement pour ses formats.",
+        "Les couleurs restent simples : du jaune, du rouge et du bleu, déclinés en nuances, tantôt mats, tantôt brillants. Sur les fresques, leur rythme fait penser à une partition.",
+        "Pour Younes Khourassani, la céramique n'a rien d'un simple objet de décoration ni d'un regard nostalgique vers le passé. Il la voit comme un moyen d'expression actuel, capable de s'inscrire dans les bâtiments et dans la ville."
+      ]
+    },
+    {
+      "intertitre": "Un héritier de l'École de Casablanca",
+      "paragraphes": [
+        "Né en 1976 à Casablanca, l'artiste a étudié aux Beaux-Arts de la ville, où il a eu pour professeur Mohamed Hamidi. Il s'inscrit dans la lignée de l'École de Casablanca, ce mouvement qui voulait remettre à l'honneur l'artisanat et faire entrer l'art dans les lieux de vie.",
+        "Ses débuts l'ont mené vers les métaux, le textile et le détournement d'objets, avant un passage à l'abstraction géométrique à partir de 2020. Ses œuvres ont voyagé de Londres à Abu Dhabi, en passant par Amsterdam, Paris et Le Cap, et ont été montrées au siège de l'Unesco dès 2009.",
+        "Plusieurs de ses pièces appartiennent aux collections du musée Mohammed-VI de Rabat, consacré à l'art moderne et contemporain, ainsi qu'à celles du musée de Bank Al-Maghrib. En 2024, la maison Coty Paris l'a retenu pour une résidence d'artiste en France."
+      ]
+    }
+  ],
+  "mots": 365,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/archives/exposition-younes-khourassani-quand-la-ceramique-devient-lumiere",
+  "publie_le": "2026-11-10T13:32:05.000Z",
+  "redige_le": "2026-11-10T18:17:47.926Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/1800c757b22df0e64a98ea6137a112697b1e264b.webp",
+    "source": "wikimedia",
+    "credit": "Youneskhourrassani",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Siapm.jpg",
+    "alt": "Œuvre ou portrait de l'artiste marocain Younes Khourassani",
+    "mots_cles": [
+      "Younes Khourassani"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

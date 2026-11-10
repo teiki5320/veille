@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "8011fe53f348689cd6666e86a02733b1c69bb6e0",
+  "slug": "ethiopie-soeur-medhin-tesfay-recoit-la-medaille-lorenz-werthmann-de-8011fe",
+  "titre": "Éthiopie : sœur Medhin Tesfay reçoit la médaille Lorenz Werthmann de Caritas Allemagne",
+  "chapo": "Une religieuse éthiopienne vient d'être honorée en Allemagne pour son action auprès des plus pauvres du Tigré. Sœur Medhin Tesfay a reçu la médaille Lorenz Werthmann, liée à Caritas Allemagne.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La conférence des évêques catholiques d'Éthiopie a annoncé la nouvelle le lundi 9 novembre 2026. Sœur Medhin Tesfay, membre de la congrégation des Filles de la Charité du Précieux-Sang, dirige le bureau de coordination des projets de sa communauté à Adigrat, dans le nord du pays. La distinction lui a été remise en Allemagne.",
+        "Le jury a voulu saluer son engagement humanitaire, mais aussi sa manière de conduire des programmes d'aide et de développement. Les évêques soulignent son souci de rendre aux personnes vulnérables leur dignité et l'envie d'avancer."
+      ]
+    },
+    {
+      "intertitre": "Vingt ans au service du Tigré",
+      "paragraphes": [
+        "Depuis plus de deux décennies, la religieuse travaille dans la région du Tigré avec d'autres sœurs, des salariés et des bénévoles. Caritas Internationalis la considère comme une partenaire locale essentielle pour les projets menés sur place.",
+        "Son équipe aide les familles à retrouver des moyens de vivre, remet en état des puits et reconstruit des écoles. À Mekele, un centre accueille enfants et jeunes : on y trouve un toit, des repas, des soins, un accompagnement psychologique et des cours.",
+        "Même pendant la guerre qui a frappé la région de 2020 à 2022, les religieuses ont continué à porter assistance, malgré les dangers. Depuis 2005, le partenariat entre la congrégation et Caritas Allemagne a permis neuf grands programmes, qui ont touché plus de 145 000 personnes."
+      ]
+    },
+    {
+      "intertitre": "Une médaille au nom du fondateur de Caritas",
+      "paragraphes": [
+        "La médaille porte le nom du père Lorenz Werthmann, prêtre allemand qui a fondé en 1897 l'association Caritas d'Allemagne. Elle honore des personnes qui se sont distinguées par leur charité chrétienne, leur engagement social et leur aide aux plus fragiles.",
+        "En Éthiopie, l'Église catholique a accueilli la nouvelle avec fierté. Le père Ketema Asfaw, secrétaire général de la conférence épiscopale, et Bekele Moges, directeur de Caritas Éthiopie, ont adressé leurs félicitations à la religieuse. Pour le père Ketema, ce prix reconnaît à la fois le dévouement personnel de sœur Medhin et la mission de service de toute l'Église."
+      ]
+    }
+  ],
+  "mots": 357,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "ET"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25245/catholic-sister-feted-for-dedicated-service-to-communities-affected-by-poverty-conflict-and-displacement-in-ethiopia",
+  "publie_le": "2026-11-10T15:45:00.000Z",
+  "redige_le": "2026-11-10T18:17:43.716Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/8011fe53f348689cd6666e86a02733b1c69bb6e0.webp",
+    "source": "wikimedia",
+    "credit": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Adigrat_01.jpg",
+    "alt": "Vue de la ville d'Adigrat, dans le nord de l'Éthiopie",
+    "mots_cles": [
+      "Adigrat"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

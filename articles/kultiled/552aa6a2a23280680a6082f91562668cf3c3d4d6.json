@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "552aa6a2a23280680a6082f91562668cf3c3d4d6",
+  "slug": "nigeria-smart-israel-prime-100-000-dollars-pour-ses-fermes-552aa6",
+  "titre": "Nigeria : Smart Israel primé 100 000 dollars pour ses fermes hydroponiques solaires",
+  "chapo": "Un entrepreneur nigérian vient de recevoir 100 000 dollars pour développer la culture de légumes sans terre. Smart Israel remporte le grand prix 2026 des Global Citizen Waislitz Awards.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Smart Israel a fondé Smartel Agri Tech, une jeune entreprise qui conçoit des installations hydroponiques fonctionnant à l'énergie solaire. Les plantes y poussent sans sol : leurs racines reçoivent directement l'eau et les nutriments dont elles ont besoin. Un outil d'intelligence artificielle aide à conduire les cultures.",
+        "Ces installations visent les zones où la terre cultivable manque ou se dégrade : régions frappées par le changement climatique, populations déplacées, communautés en rivalité pour les ressources. D'après Global Citizen, plus de 3 000 systèmes ont déjà été mis en place, au profit de milliers d'agriculteurs et de familles."
+      ]
+    },
+    {
+      "intertitre": "Un prix pour changer d'échelle",
+      "paragraphes": [
+        "Les Global Citizen Waislitz Awards, remis par la fondation Waislitz et l'organisation Global Citizen, en sont à leur douzième édition. Ils distribuent chaque année 300 000 dollars, en trois prix de 100 000 dollars, à des personnes qui luttent contre l'extrême pauvreté. Les lauréats reçoivent aussi un appui pour élargir leur réseau.",
+        "Smartel compte utiliser cette somme pour atteindre 5 000 foyers de plus et pour multiplier ses pôles de culture partagés entre habitants."
+      ]
+    },
+    {
+      "intertitre": "Une idée née de son enfance",
+      "paragraphes": [
+        "Smart Israel a grandi dans la Middle Belt, la ceinture centrale du Nigeria. Il y a vu la faim gagner du terrain, sous l'effet des conflits pour les ressources, des déplacements de population et des aléas du climat. Ce constat l'a poussé à chercher un moyen de produire des légumes sans dépendre de terres fertiles.",
+        "Le jeune entrepreneur a étudié le génie logiciel et l'apprentissage automatique à l'African Leadership University, au Rwanda. Son entreprise a intégré en juin 2025 l'accélérateur Google for Startups dédié à l'Afrique. En 2023, il avait déjà reçu le Diana Award, qui distingue de jeunes personnes engagées dans l'action sociale ou humanitaire."
+      ]
+    }
+  ],
+  "mots": 317,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "NG"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9890303/nigerian-entrepreneur-wins-100-000-for-hydroponic-growing-system/",
+  "autres_sources": [
+    "https://www.wearetech.africa/en/fils-uk/tech-stars/israel-smart-develops-hydroponic-farming-for-climate-resilient-agriculture",
+    "https://www.globalcitizen.org/en/content/meet-the-winners-of-the-2026-global-citizen-waisli/"
+  ],
+  "publie_le": "2026-11-10T14:23:00.000Z",
+  "redige_le": "2026-11-10T18:17:49.182Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/552aa6a2a23280680a6082f91562668cf3c3d4d6.webp",
+    "source": "wikimedia",
+    "credit": "NASA",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_onions,_NASA_--_17_June_2004.jpg",
+    "alt": "Des légumes cultivés en hydroponie, sans terre",
+    "mots_cles": [
+      "Hydroponics"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

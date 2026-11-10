@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-10T11:18:16.577Z",
+  "genere_le": "2026-11-10T18:17:47.926Z",
   "actus": [
+    {
+      "id": "1800c757b22df0e64a98ea6137a112697b1e264b",
+      "titre": "Casablanca : le céramiste Younes Khourassani fait danser la lumière dans « Satori »",
+      "resume": "L'artiste marocain Younes Khourassani présente « Satori », une exposition de fresques murales et de sculptures monumentales en céramique. Formé à Casablanca, il marie gestes artisanaux, modélisation 3D et émaux colorés.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/archives/exposition-younes-khourassani-quand-la-ceramique-devient-lumiere",
+      "publie_le": "2026-11-10T13:32:05.000Z",
+      "collecte_le": "2026-11-10T18:17:47.926Z",
+      "langue": "fr",
+      "slug": "casablanca-le-ceramiste-younes-khourassani-fait-danser-la-lumiere-dans-1800c7",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/1800c757b22df0e64a98ea6137a112697b1e264b.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/1800c757b22df0e64a98ea6137a112697b1e264b.webp",
+        "source": "wikimedia",
+        "credit": "Youneskhourrassani",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Siapm.jpg",
+        "alt": "Œuvre ou portrait de l'artiste marocain Younes Khourassani",
+        "mots_cles": [
+          "Younes Khourassani"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0fcec28d7932163a65e918efc7069b282477888b",
       "titre": "Lagos : Casa Mouda, un nouveau lieu entièrement consacré au design africain contemporain",

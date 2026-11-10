@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-10T11:17:12.449Z",
+  "genere_le": "2026-11-10T18:17:53.790Z",
   "articles": [
+    {
+      "id": "552aa6a2a23280680a6082f91562668cf3c3d4d6",
+      "slug": "nigeria-smart-israel-prime-100-000-dollars-pour-ses-fermes-552aa6",
+      "titre": "Nigeria : Smart Israel primé 100 000 dollars pour ses fermes hydroponiques solaires",
+      "publie_le": "2026-11-10T14:23:00.000Z",
+      "redige_le": "2026-11-10T18:17:49.182Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/552aa6a2a23280680a6082f91562668cf3c3d4d6.json"
+    },
+    {
+      "id": "5de90a1f9ba6bef17026c35504b8cf02849e66d1",
+      "slug": "laitue-roquette-epinard-un-eclairage-juste-avant-la-recolte-augmente-5de90a",
+      "titre": "Laitue, roquette, épinard : un éclairage juste avant la récolte augmente le rendement",
+      "publie_le": "2026-11-10T13:06:00.000Z",
+      "redige_le": "2026-11-10T18:17:49.182Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/5de90a1f9ba6bef17026c35504b8cf02849e66d1.json"
+    },
     {
       "id": "1640fc2d9f02bdba3fa3d650893b6e242e272556",
       "slug": "canada-le-budget-2026-garde-750-millions-de-dollars-pour-serres-et-1640fc",

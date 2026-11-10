@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "840c98ef5f5ecf58c93efb5aa4063945bf1ff883",
+  "slug": "ananda-devi-remporte-le-prix-jean-giono-2026-avec-sa-grande-fresque-840c98",
+  "titre": "Ananda Devi remporte le prix Jean Giono 2026 avec sa grande fresque mauricienne",
+  "chapo": "L'écrivaine mauricienne Ananda Devi a reçu le prix Jean Giono de cette année, le mardi 10 novembre. Le jury distingue sa saga « Chronique d'un royaume perdu », sortie en août chez Grasset.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "C'est l'aboutissement d'un parcours entamé à la rentrée. Le livre figurait dès le 4 septembre dans la première liste du prix, qui comptait seize titres, aux côtés notamment de ceux de Rachida Brakni et de Lilia Hassaine. Il faisait aussi partie des premiers titres retenus pour le Goncourt.",
+        "Fondé en 1990, ce prix récompense chaque année un texte de langue française qui fait la part belle à l'imagination. Le lauréat reçoit 10 000 euros."
+      ]
+    },
+    {
+      "intertitre": "Un village de Maurice sur quatre générations",
+      "paragraphes": [
+        "Le roman se déroule au Bouchon, un village imaginaire de la côte mauricienne resté longtemps isolé. Tout commence à la fin de l'esclavage : cinq jeunes, nés du même homme sur une plantation de canne à sucre, les uns d'une famille blanche, les autres d'une femme esclave, sont chassés et fondent leur propre communauté.",
+        "Leurs descendants y vivent sur quatre générations. Dans ce lieu à part, les vivants côtoient les morts et le merveilleux s'invite au quotidien : un enfant grandit au milieu des oiseaux, une femme revient à la vie sous les traits d'une déesse. Le narrateur, un garçon réservé, devient peu à peu la mémoire du village."
+      ]
+    },
+    {
+      "intertitre": "Quarante ans de maturation",
+      "paragraphes": [
+        "L'autrice a porté ce projet pendant près de quarante ans. Elle en avait trouvé la matière lors de ses recherches de doctorat en anthropologie. Ananda Devi explique avoir voulu inventer un mythe fondateur pour son île, loin des récits qui célèbrent des origines pures.",
+        "Le livre, long de 464 pages, a reçu un accueil critique largement favorable. Plusieurs lecteurs le rapprochent de « Cent ans de solitude » de Gabriel García Márquez, quand d'autres regrettent un usage parfois appuyé du surnaturel.",
+        "Originaire de Trois-Boutiques, au sud de Maurice, Ananda Devi est l'une des grandes voix de la littérature de l'océan Indien. Ce nouveau prix s'ajoute à une œuvre déjà souvent récompensée."
+      ]
+    }
+  ],
+  "mots": 338,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "MU"
+  ],
+  "tags": [
+    "auteur:ananda-devi"
+  ],
+  "source_nom": "Livres Hebdo",
+  "source_url": "http://www.livreshebdo.fr/article/ananda-devi-laureate-du-prix-jean-giono-2026",
+  "autres_sources": [
+    "https://www.afrik.com/prix-jean-giono-2026-trois-romancieres-liees-a-l-afrique-dans-la-premiere-selection",
+    "https://www.bibliosurf.com/Chronique-d-un-royaume-perdu.html"
+  ],
+  "publie_le": "2026-11-10T10:34:20.000Z",
+  "redige_le": "2026-11-10T18:17:46.284Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/840c98ef5f5ecf58c93efb5aa4063945bf1ff883.webp",
+    "source": "wikimedia",
+    "credit": "Center for the Study of Europe Boston University",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Photo_of_Mauritian_Writer_Ananda_Devi_(cropped).jpg",
+    "alt": "Portrait de l'écrivaine mauricienne Ananda Devi",
+    "mots_cles": [
+      "Ananda Devi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

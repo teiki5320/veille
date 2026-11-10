@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-10T11:18:16.611Z",
+  "genere_le": "2026-11-10T18:17:49.157Z",
   "articles": [
+    {
+      "id": "1800c757b22df0e64a98ea6137a112697b1e264b",
+      "slug": "casablanca-le-ceramiste-younes-khourassani-fait-danser-la-lumiere-dans-1800c7",
+      "titre": "Casablanca : le céramiste Younes Khourassani fait danser la lumière dans « Satori »",
+      "publie_le": "2026-11-10T13:32:05.000Z",
+      "redige_le": "2026-11-10T18:17:47.926Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/1800c757b22df0e64a98ea6137a112697b1e264b.json"
+    },
     {
       "id": "0fcec28d7932163a65e918efc7069b282477888b",
       "slug": "lagos-casa-mouda-un-nouveau-lieu-entierement-consacre-au-design-0fcec2",

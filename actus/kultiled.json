@@ -1,8 +1,75 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-10T11:17:08.850Z",
+  "genere_le": "2026-11-10T18:17:49.182Z",
   "actus": [
+    {
+      "id": "552aa6a2a23280680a6082f91562668cf3c3d4d6",
+      "titre": "Nigeria : Smart Israel primé 100 000 dollars pour ses fermes hydroponiques solaires",
+      "resume": "Le Nigérian Smart Israel, fondateur de Smartel Agri Tech, a reçu le grand prix Global Citizen Waislitz 2026, doté de 100 000 dollars. Son entreprise installe des systèmes de culture sans sol, alimentés au solaire et pilotés par intelligence artificielle.",
+      "theme": "culture-interieur",
+      "pays": [
+        "NG"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9890303/nigerian-entrepreneur-wins-100-000-for-hydroponic-growing-system/",
+      "autres_sources": [
+        "https://www.wearetech.africa/en/fils-uk/tech-stars/israel-smart-develops-hydroponic-farming-for-climate-resilient-agriculture",
+        "https://www.globalcitizen.org/en/content/meet-the-winners-of-the-2026-global-citizen-waisli/"
+      ],
+      "publie_le": "2026-11-10T14:23:00.000Z",
+      "collecte_le": "2026-11-10T18:17:49.182Z",
+      "langue": "en",
+      "slug": "nigeria-smart-israel-prime-100-000-dollars-pour-ses-fermes-552aa6",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/552aa6a2a23280680a6082f91562668cf3c3d4d6.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/552aa6a2a23280680a6082f91562668cf3c3d4d6.webp",
+        "source": "wikimedia",
+        "credit": "NASA",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_onions,_NASA_--_17_June_2004.jpg",
+        "alt": "Des légumes cultivés en hydroponie, sans terre",
+        "mots_cles": [
+          "Hydroponics"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "5de90a1f9ba6bef17026c35504b8cf02849e66d1",
+      "titre": "Laitue, roquette, épinard : un éclairage juste avant la récolte augmente le rendement",
+      "resume": "Une équipe de chercheurs a testé un éclairage supplémentaire, appliqué un à sept jours avant la récolte, sur quatre légumes-feuilles cultivés en serre hydroponique. Plus la lumière était forte et longue, plus la masse fraîche augmentait ; la roquette se conservait aussi mieux.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "tags": [
+        "legume:laitue",
+        "legume:roquette",
+        "legume:epinard"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9890759/the-link-between-pre-harvest-lighting-and-leafy-green-quality/",
+      "publie_le": "2026-11-10T13:06:00.000Z",
+      "collecte_le": "2026-11-10T18:17:49.182Z",
+      "langue": "en",
+      "slug": "laitue-roquette-epinard-un-eclairage-juste-avant-la-recolte-augmente-5de90a",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/5de90a1f9ba6bef17026c35504b8cf02849e66d1.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/5de90a1f9ba6bef17026c35504b8cf02849e66d1.webp",
+        "source": "wikimedia",
+        "credit": "Rémih",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_lettuce_@_Plaine_des_Cafres_02.jpg",
+        "alt": "Des laitues cultivées en hydroponie",
+        "mots_cles": [
+          "Hydroponic lettuce"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1640fc2d9f02bdba3fa3d650893b6e242e272556",
       "titre": "Canada : le budget 2026 garde 750 millions de dollars pour serres et fermes verticales",

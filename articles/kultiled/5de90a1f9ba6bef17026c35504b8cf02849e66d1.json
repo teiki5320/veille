@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "5de90a1f9ba6bef17026c35504b8cf02849e66d1",
+  "slug": "laitue-roquette-epinard-un-eclairage-juste-avant-la-recolte-augmente-5de90a",
+  "titre": "Laitue, roquette, épinard : un éclairage juste avant la récolte augmente le rendement",
+  "chapo": "Ajouter de la lumière quelques jours avant la récolte peut rendre les légumes-feuilles plus lourds. C'est ce que montre une étude publiée en 2026 dans la revue HortScience.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les auteurs, Jacob Friedrich, Sarah Armstrong, W. Owen et Kellie Walters, se sont penchés sur l'éclairage de fin de production. Le principe : renforcer la lumière pendant une courte période juste avant de récolter, pour améliorer la qualité des plantes. Encore faut-il savoir comment s'y prendre pour chaque espèce.",
+        "Quatre légumes ont été testés en serre hydroponique : une laitue beurre rouge de la gamme Salanova, la roquette 'Astro', l'épinard 'Space' et une moutarde d'Éthiopie, la variété 'Amara'."
+      ]
+    },
+    {
+      "intertitre": "Le protocole",
+      "paragraphes": [
+        "Toutes les plantes ont poussé dans les mêmes conditions, avec seize heures de lumière par jour. Leur dose quotidienne de lumière tournait autour de 8,6 moles par mètre carré pour la laitue et la roquette, et de 9,4 pour l'épinard et la moutarde.",
+        "Sept jours, trois jours ou un jour avant la récolte, les chercheurs ont ajouté une lumière blanche à large spectre à plusieurs intensités : environ 100, 200, 400 ou 600 micromoles par mètre carré et par seconde. Un autre lot a reçu une lumière rouge et bleue d'environ 200 micromoles. Des plantes témoins n'ont eu aucun éclairage en plus."
+      ]
+    },
+    {
+      "intertitre": "Ce qu'il faut retenir",
+      "paragraphes": [
+        "Chez les quatre espèces, la masse fraîche progresse dans l'ensemble avec l'intensité et la durée de cet éclairage final. Le meilleur résultat a été obtenu avec environ 600 micromoles appliquées pendant les sept derniers jours.",
+        "L'efficacité du photosystème II, un indicateur du bon fonctionnement de la photosynthèse, a réagi différemment selon les espèces. Elle baissait souvent quand la lumière était renforcée un ou trois jours avant la récolte, puis se rétablissait avec trois ou sept jours d'éclairage plus fort.",
+        "Côté aspect, une semaine après la récolte, la laitue, l'épinard et la moutarde ne montraient presque pas de différence. La roquette, elle, restait plus belle quand la lumière blanche avait été donnée plus longtemps. Pour les auteurs, ces résultats aident à régler l'intensité, la couleur et la durée de l'éclairage afin de mieux faire pousser et mieux conserver ces légumes."
+      ]
+    }
+  ],
+  "mots": 353,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "tags": [
+    "legume:laitue",
+    "legume:roquette",
+    "legume:epinard"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9890759/the-link-between-pre-harvest-lighting-and-leafy-green-quality/",
+  "publie_le": "2026-11-10T13:06:00.000Z",
+  "redige_le": "2026-11-10T18:17:49.182Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/5de90a1f9ba6bef17026c35504b8cf02849e66d1.webp",
+    "source": "wikimedia",
+    "credit": "Rémih",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_lettuce_@_Plaine_des_Cafres_02.jpg",
+    "alt": "Des laitues cultivées en hydroponie",
+    "mots_cles": [
+      "Hydroponic lettuce"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-10T11:16:53.495Z",
+  "genere_le": "2026-11-10T18:17:43.716Z",
   "actus": [
+    {
+      "id": "8011fe53f348689cd6666e86a02733b1c69bb6e0",
+      "titre": "Éthiopie : sœur Medhin Tesfay reçoit la médaille Lorenz Werthmann de Caritas Allemagne",
+      "resume": "Religieuse éthiopienne des Filles de la Charité du Précieux-Sang, sœur Medhin Tesfay a été distinguée en Allemagne par la médaille Lorenz Werthmann. Le prix salue plus de vingt ans d'aide aux familles pauvres et déplacées du Tigré.",
+      "theme": "culture",
+      "pays": [
+        "ET"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25245/catholic-sister-feted-for-dedicated-service-to-communities-affected-by-poverty-conflict-and-displacement-in-ethiopia",
+      "publie_le": "2026-11-10T15:45:00.000Z",
+      "collecte_le": "2026-11-10T18:17:43.716Z",
+      "langue": "en",
+      "slug": "ethiopie-soeur-medhin-tesfay-recoit-la-medaille-lorenz-werthmann-de-8011fe",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/8011fe53f348689cd6666e86a02733b1c69bb6e0.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/8011fe53f348689cd6666e86a02733b1c69bb6e0.webp",
+        "source": "wikimedia",
+        "credit": "Bernard Gagnon",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Adigrat_01.jpg",
+        "alt": "Vue de la ville d'Adigrat, dans le nord de l'Éthiopie",
+        "mots_cles": [
+          "Adigrat"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "57a9f91dbdea3aefa0d275172c13adfdc23548c2",
       "titre": "Eswatini : les Sœurs missionnaires de Marie Auxiliatrice fêtent 25 ans de présence",
