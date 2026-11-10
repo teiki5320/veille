@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "a537bab811bcad65b9d0196388f0219b3d7da9fe",
+  "slug": "bhv-le-grand-magasin-ferme-un-apres-midi-faute-de-contrat-assurance-a537ba",
+  "titre": "BHV : le grand magasin ferme un après-midi, faute de contrat d'assurance",
+  "chapo": "Le BHV Marais a dû fermer brusquement lundi 9 novembre en fin d'après-midi. Sa direction explique qu'un contrat d'assurance n'a pas suivi l'entreprise dans la procédure collective ouverte une semaine plus tôt.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Lundi, vers 16 heures, le grand magasin de la rue de Rivoli a cessé d'accueillir ses clients. Son voisin de Parly 2, dans les Yvelines, devait faire de même dans la soirée. Peu avant 18 heures, une journaliste de l'Agence France-Presse a trouvé les portes closes, l'intérieur plongé dans le noir et aucun panneau pour prévenir le public.",
+        "Dans un message adressé aux salariés et relayé par l'AFP, Karl-Stéphane Cottendin, qui préside l'enseigne, justifie cette fermeture par la prudence : l'une des polices d'assurance du groupe n'a pas pu être reprise dans le cadre de la procédure. Il annonce un nouveau contrat, en cours de signature, censé s'appliquer dès mardi."
+      ]
+    },
+    {
+      "intertitre": "Une décision prise avec les administrateurs",
+      "paragraphes": [
+        "La direction affirme avoir arrêté ce choix en accord avec les administrateurs judiciaires désignés par le tribunal. Elle parle d'une simple régularisation, qui ne menace pas la poursuite de l'activité, et promet de donner mardi l'heure de réouverture.",
+        "Les représentants du personnel ne partagent pas cet optimisme. L'intersyndicale évoque auprès de l'AFP des primes d'assurance restées impayées, dit craindre que le magasin ne rouvre pas et met aussi en doute la conformité du bâtiment."
+      ]
+    },
+    {
+      "intertitre": "Des élus parisiens sur place",
+      "paragraphes": [
+        "Prévenus par les employés, Emmanuel Grégoire, maire de Paris, Ariel Weil, maire de Paris Centre, et Nicolas Bonnet Oulaldj, adjoint à l'emploi à l'Hôtel de Ville, se sont rendus devant le bâtiment. Ce dernier dit avoir appris vers 15 h 30, par les élus du personnel, la consigne de fermeture donnée par la direction."
+      ]
+    },
+    {
+      "intertitre": "Une enseigne fragilisée depuis plus d'un an",
+      "paragraphes": [
+        "Le BHV traverse des difficultés depuis de longs mois. Le lundi 2 novembre, la juridiction économique parisienne (tribunal des activités économiques) a constaté sa cessation de paiements et l'a placé en redressement judiciaire.",
+        "Cette procédure permet à une entreprise qui ne peut plus régler ses dettes de continuer à fonctionner pendant une période d'observation, sous le contrôle d'administrateurs nommés par la justice. L'épisode de lundi montre que la continuité des contrats, dont les assurances, fait partie des points sensibles de cette période."
+      ]
+    }
+  ],
+  "mots": 370,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/economie/article/2026/11/09/le-bhv-marais-en-redressement-judiciaire-contraint-de-fermer-ses-portes-lundi-soir_6808684_3234.html",
+  "autres_sources": [
+    "https://www.20minutes.fr/economie/4261757-20261109-paris-probleme-assurance-bhv-marais-contraint-fermer-portes-16-heures-lundi?at_medium=display&at_campaign=149"
+  ],
+  "publie_le": "2026-11-09T17:59:38.000Z",
+  "redige_le": "2026-11-10T04:25:26.492Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/a537bab811bcad65b9d0196388f0219b3d7da9fe.webp",
+    "source": "wikimedia",
+    "credit": "Chabe01",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bazar_H%C3%B4tel_Ville_-_Paris_IV_(FR75)_-_2020-09-30_-_3.jpg",
+    "alt": "Le Bazar de l'Hôtel de Ville, grand magasin du centre de Paris",
+    "mots_cles": [
+      "BHV Marais"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

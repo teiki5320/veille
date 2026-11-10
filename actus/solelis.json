@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-10T04:25:10.870Z",
+  "genere_le": "2026-11-10T04:25:26.492Z",
   "actus": [
+    {
+      "id": "a537bab811bcad65b9d0196388f0219b3d7da9fe",
+      "titre": "BHV : le grand magasin ferme un après-midi, faute de contrat d'assurance",
+      "resume": "Une semaine après son passage en redressement judiciaire, le BHV Marais a fermé lundi 9 novembre vers 16 heures, comme son magasin de Parly 2. Son président parle d'un problème d'assurance réglé dès mardi ; les syndicats restent inquiets.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/economie/article/2026/11/09/le-bhv-marais-en-redressement-judiciaire-contraint-de-fermer-ses-portes-lundi-soir_6808684_3234.html",
+      "autres_sources": [
+        "https://www.20minutes.fr/economie/4261757-20261109-paris-probleme-assurance-bhv-marais-contraint-fermer-portes-16-heures-lundi?at_medium=display&at_campaign=149"
+      ],
+      "publie_le": "2026-11-09T17:59:38.000Z",
+      "collecte_le": "2026-11-10T04:25:26.492Z",
+      "langue": "fr",
+      "slug": "bhv-le-grand-magasin-ferme-un-apres-midi-faute-de-contrat-assurance-a537ba",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a537bab811bcad65b9d0196388f0219b3d7da9fe.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/a537bab811bcad65b9d0196388f0219b3d7da9fe.webp",
+        "source": "wikimedia",
+        "credit": "Chabe01",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bazar_H%C3%B4tel_Ville_-_Paris_IV_(FR75)_-_2020-09-30_-_3.jpg",
+        "alt": "Le Bazar de l'Hôtel de Ville, grand magasin du centre de Paris",
+        "mots_cles": [
+          "BHV Marais"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8dfce0778348b9cde07ed3673c19dacc9ed5388a",
       "titre": "Smoby réorganise ses sites : 13 postes en moins et un siège transféré à Arinthod",

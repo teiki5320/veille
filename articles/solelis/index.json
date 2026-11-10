@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-10T04:25:14.308Z",
+  "genere_le": "2026-11-10T04:25:27.974Z",
   "articles": [
+    {
+      "id": "a537bab811bcad65b9d0196388f0219b3d7da9fe",
+      "slug": "bhv-le-grand-magasin-ferme-un-apres-midi-faute-de-contrat-assurance-a537ba",
+      "titre": "BHV : le grand magasin ferme un après-midi, faute de contrat d'assurance",
+      "publie_le": "2026-11-09T17:59:38.000Z",
+      "redige_le": "2026-11-10T04:25:26.492Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/a537bab811bcad65b9d0196388f0219b3d7da9fe.json"
+    },
     {
       "id": "8dfce0778348b9cde07ed3673c19dacc9ed5388a",
       "slug": "smoby-reorganise-ses-sites-13-postes-en-moins-et-un-siege-transfere-8dfce0",
