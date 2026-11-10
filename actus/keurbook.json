@@ -19,7 +19,7 @@
       "langue": "fr",
       "slug": "james-baldwin-une-biographie-de-plus-de-700-pages-parait-en-francais-1ab512",
       "article_url": "https://teiki5320.github.io/veille/articles/keurbook/1ab5120121b0eff87d476768854ec4aff3ab3120.json",
-      "lecture_min": 1,
+      "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbook/1ab5120121b0eff87d476768854ec4aff3ab3120.webp",
         "source": "wikimedia",
@@ -32,7 +32,10 @@
         ],
         "largeur": 1600,
         "hauteur": 900
-      }
+      },
+      "autres_sources": [
+        "https://www.stonybrook.edu/english/people/Boggs.html"
+      ]
     },
     {
       "id": "06f08b4f2b89eafeea67ff37d30d7892cfd706a1",

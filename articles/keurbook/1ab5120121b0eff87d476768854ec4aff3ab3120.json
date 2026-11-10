@@ -9,7 +9,7 @@
     {
       "intertitre": null,
       "paragraphes": [
-        "En français, l'ouvrage associe au nom de l'écrivain deux mots, l'amour et la révolution, qui résument son parcours. Son auteur, Nicholas Boggs, enseigne à l'université Columbia, à New York. La traduction est l'œuvre de Souad Degachi et Maxime Shelledy. L'ouvrage compte 752 pages et contient un cahier de photographies.",
+        "En français, l'ouvrage associe au nom de l'écrivain deux mots, l'amour et la révolution, qui résument son parcours. Son auteur, Nicholas Boggs, a fait son doctorat à l'université Columbia et enseigne aujourd'hui à l'université Stony Brook, dans l'État de New York. La traduction est l'œuvre de Souad Degachi et Maxime Shelledy. L'ouvrage compte 752 pages et contient un cahier de photographies.",
         "Le Monde, qui en a publié la critique, salue un travail généreux. Le récit embrasse toute la vie de l'écrivain, né à Harlem en 1924 et mort en France en 1987, en suivant ses passions comme ses colères."
       ]
     },
@@ -29,8 +29,8 @@
       ]
     }
   ],
-  "mots": 320,
-  "lecture_min": 1,
+  "mots": 332,
+  "lecture_min": 2,
   "theme": "livres",
   "pays": [
     "US",
@@ -38,8 +38,11 @@
   ],
   "source_nom": "Le Monde",
   "source_url": "https://www.lemonde.fr/livres/article/2026/11/09/une-genereuse-biographie-de-james-baldwin-retrace-le-parcours-de-l-ecrivain-afro-americain-d-enthousiasmes-en-emportements_6808686_3260.html",
+  "autres_sources": [
+    "https://www.stonybrook.edu/english/people/Boggs.html"
+  ],
   "publie_le": "2026-11-09T18:00:13.000Z",
-  "redige_le": "2026-11-09T18:21:29.062Z",
+  "redige_le": "2026-11-10T04:21:43.777Z",
   "image": {
     "url": "https://teiki5320.github.io/veille/images/keurbook/1ab5120121b0eff87d476768854ec4aff3ab3120.webp",
     "source": "wikimedia",
