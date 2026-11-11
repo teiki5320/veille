@@ -23,7 +23,6 @@
     { "nom": "Le Journal des Arts", "url": "https://www.lejournaldesarts.fr/rss.xml", "langue": "fr" },
     { "nom": "Le Monde", "url": "https://www.lemonde.fr/arts/rss_full.xml", "langue": "fr" },
     { "nom": "Le Monde", "url": "https://www.lemonde.fr/afrique/rss_full.xml", "langue": "fr" },
-    { "nom": "Africultures", "url": "https://africultures.com/feed/", "langue": "fr" },
     { "nom": "RFI", "url": "https://www.rfi.fr/fr/culture/rss", "langue": "fr" },
     { "nom": "France 24", "url": "https://www.france24.com/fr/culture/rss", "langue": "fr" },
     { "nom": "Dezeen", "url": "https://www.dezeen.com/feed/", "langue": "en" },

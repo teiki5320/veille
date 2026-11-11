@@ -29,7 +29,6 @@
     { "nom": "Christianisme Aujourd'hui", "url": "https://www.christianismeaujourdhui.info/feed/", "langue": "fr" },
     { "nom": "Christianity Today", "url": "https://www.christianitytoday.com/feed/", "langue": "en" },
     { "nom": "Orthodoxie.com", "url": "https://orthodoxie.com/feed/", "langue": "fr" },
-    { "nom": "Africultures", "url": "https://africultures.com/feed/", "langue": "fr" },
     { "nom": "RFI", "url": "https://www.rfi.fr/fr/afrique/rss", "langue": "fr" },
     { "nom": "Le Monde", "url": "https://www.lemonde.fr/afrique/rss_full.xml", "langue": "fr" }
   ]

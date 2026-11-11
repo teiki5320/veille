@@ -9,7 +9,6 @@
   "pays_prioritaires": ["SN", "CI", "CM", "CD", "CG", "ML", "GN", "BJ", "TG", "BF", "GA", "HT", "NG", "KE", "GH", "ZA", "MG"],
   "entites_url": "https://keurbook.com/veille/entites.json",
   "flux": [
-    { "nom": "Africultures", "url": "https://africultures.com/feed/", "langue": "fr" },
     { "nom": "Jeune Afrique", "url": "https://www.jeuneafrique.com/rubriques/culture/feed/", "langue": "fr" },
     { "nom": "RFI", "url": "https://www.rfi.fr/fr/culture/rss", "langue": "fr" },
     { "nom": "France 24", "url": "https://www.france24.com/fr/culture/rss", "langue": "fr" },
