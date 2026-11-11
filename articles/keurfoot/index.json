@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-11T11:18:17.488Z",
+  "genere_le": "2026-11-11T18:16:26.217Z",
   "articles": [
+    {
+      "id": "4a75644da099bab551155aa6e3e4e62ef44246c5",
+      "slug": "premier-league-nicolas-jackson-elu-joueur-octobre-par-les-supporters-4a7564",
+      "titre": "Premier League : Nicolas Jackson élu joueur d'octobre par les supporters",
+      "publie_le": "2026-11-11T12:09:06.000Z",
+      "redige_le": "2026-11-11T18:16:23.197Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/4a75644da099bab551155aa6e3e4e62ef44246c5.json"
+    },
     {
       "id": "135fc1c0c42619976f6be0e13d1f1a1041356468",
       "slug": "eli-junior-kroupi-appele-chez-les-bleus-la-cote-ivoire-voit-eloigner-135fc1",

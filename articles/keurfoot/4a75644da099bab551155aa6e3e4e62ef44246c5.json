@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "4a75644da099bab551155aa6e3e4e62ef44246c5",
+  "slug": "premier-league-nicolas-jackson-elu-joueur-octobre-par-les-supporters-4a7564",
+  "titre": "Premier League : Nicolas Jackson élu joueur d'octobre par les supporters",
+  "chapo": "Nicolas Jackson a été désigné meilleur joueur du mois d'octobre en Premier League par les supporters. L'avant-centre sénégalais d'Aston Villa confirme ainsi son bon début de saison en Angleterre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le trophée lui a été attribué à l'issue d'un vote ouvert aux fans du championnat anglais. Cette distinction mensuelle est organisée avec la PFA, le syndicat des footballeurs professionnels en Angleterre, et porte le nom d'un sponsor de location de voitures.",
+        "D'après le site sénégalais Senego, l'international a trouvé le chemin des filets à six reprises sur ses neuf derniers matchs. Cette régularité qui fait de lui l'un des attaquants les plus en vue du moment outre-Manche."
+      ]
+    },
+    {
+      "intertitre": "Une montée en puissance depuis septembre",
+      "paragraphes": [
+        "Le Sénégalais avait débloqué son compteur en Premier League sous le maillot d'Aston Villa à la mi-septembre. Il a ensuite enchaîné les matchs décisifs, au point de figurer début novembre parmi les candidats au titre, après quatre buts inscrits sur le seul mois d'octobre.",
+        "Mobile, à l'aise dans la surface, il s'est rendu indispensable dans l'animation offensive de son équipe. Le fait que la récompense vienne des supporters lui donne une valeur particulière : c'est le public anglais qui a choisi de saluer ses performances."
+      ]
+    },
+    {
+      "intertitre": "Une bonne nouvelle pour les Lions",
+      "paragraphes": [
+        "Ce prix tombe au moment où Jackson retrouve la sélection. Le Sénégal de Patrick Vieira reçoit le Soudan ce jeudi 12 novembre au stade Léopold-Sédar-Senghor de Dakar, pour la troisième journée des éliminatoires de la CAN 2027.",
+        "Le sélectionneur a insisté cette semaine sur le besoin de plus d'agressivité et d'efficacité offensive. Un attaquant en pleine confiance est donc un atout de poids pour ce rendez-vous.",
+        "Au pays, cette distinction est accueillie avec fierté : elle montre qu'un joueur sénégalais peut briller au plus haut niveau dans l'un des championnats les plus suivis au monde. Elle s'ajoute à son but marqué récemment sur la pelouse d'Old Trafford, lors du nul spectaculaire d'Aston Villa face à Manchester United."
+      ]
+    }
+  ],
+  "mots": 320,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "GB"
+  ],
+  "competition": "Premier League",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/premier-league-nicolas-jackson-sacre-joueur-du-mois-doctobre_2022728.html",
+  "autres_sources": [
+    "https://wiwsport.com/2026/11/11/joj2026-deux-medailles-supplementaires-pour-le-senegal-can-des-sourds-2026-nicolas-jackson-mvp/"
+  ],
+  "publie_le": "2026-11-11T12:09:06.000Z",
+  "redige_le": "2026-11-11T18:16:23.197Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/4a75644da099bab551155aa6e3e4e62ef44246c5.webp",
+    "source": "wikimedia",
+    "credit": "Timmy96",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fulham_v_Chelsea_20042025_(8).jpg",
+    "alt": "Nicolas Jackson, attaquant international sénégalais",
+    "mots_cles": [
+      "Nicolas Jackson footballer"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

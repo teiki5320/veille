@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-11T11:18:12.344Z",
+  "genere_le": "2026-11-11T18:16:21.693Z",
   "articles": [
+    {
+      "id": "5246558dc8321fb52d388fc5b9b04e3fc626d573",
+      "slug": "lesotho-les-eveques-veulent-mieux-accompagner-les-couples-et-les-524655",
+      "titre": "Lesotho : les évêques veulent mieux accompagner les couples et les familles",
+      "publie_le": "2026-11-11T13:41:00.000Z",
+      "redige_le": "2026-11-11T18:16:19.938Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/5246558dc8321fb52d388fc5b9b04e3fc626d573.json"
+    },
     {
       "id": "8011fe53f348689cd6666e86a02733b1c69bb6e0",
       "slug": "ethiopie-soeur-medhin-tesfay-recoit-la-medaille-lorenz-werthmann-de-8011fe",

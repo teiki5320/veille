@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "7319fab4085146358198ba94fdd8657f7e81e62b",
+  "slug": "marrakech-es-saadi-un-spa-repense-autour-un-eucalyptus-centenaire-7319fa",
+  "titre": "Marrakech : à l'Es Saadi, un spa repensé autour d'un eucalyptus centenaire",
+  "chapo": "À Marrakech, le spa du Palace Es Saadi rouvre ses portes après un été de chantier. Son architecte a construit le nouveau lieu autour d'un arbre plus que centenaire, en jouant avec les savoir-faire marocains.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le magazine Maisons du Maroc a visité le lieu rénové, au milieu des jardins du domaine hôtelier marrakchi. Le spa occupe près de 3 000 m², terrasse comprise. Aziz Lamghari, l'architecte du projet, a tenu à préserver le grand eucalyptus planté au centre, qui reste visible depuis la salle de repos.",
+        "Pour Caroline Bauchet-Bouhlal, qui codirige le domaine, le bien-être fait partie de l'histoire de la maison depuis ses fondateurs."
+      ]
+    },
+    {
+      "intertitre": "Un accueil ouvert",
+      "paragraphes": [
+        "Le premier changement se voit dès l'entrée. L'ancien hall, divisé en petites pièces, a été entièrement décloisonné. Chaque visiteur y fait d'abord le point avec un thérapeute, puis choisit son soin. Des créateurs marocains y sont aussi mis en avant.",
+        "L'idée est d'en faire un lieu de rendez-vous à Marrakech, où l'on vient découvrir les nouveautés du bien-être autant que se faire masser."
+      ]
+    },
+    {
+      "intertitre": "Marbre, zelliges et fontaine de Fès",
+      "paragraphes": [
+        "Au rez-de-chaussée, le parcours thermal se déroule librement entre colonnes de marbre, bassin circulaire et murs de zelliges, ces mosaïques de terre cuite émaillée typiques du Maroc. On passe d'une étuve sèche au bain turc, puis à un bain aromatique et à de petits hammams.",
+        "Le circuit s'achève devant une fontaine remplie de glace, dont le dessin s'inspire des fontaines de Fès, ville réputée pour son artisanat de la céramique et du bois.",
+        "À l'étage, l'ambiance se fait plus intime, avec des cabines consacrées aux massages."
+      ]
+    },
+    {
+      "intertitre": "Des objets d'artisans",
+      "paragraphes": [
+        "Le décor fait aussi place à des pièces signées. Un valet de chambre en bronze a été dessiné par l'architecte d'intérieur Isabelle Stanislas et fabriqué dans une ferronnerie d'art fondée il y a plus d'un siècle, les Ateliers Bataillard. Des photographies de voyage de Jérôme Petit habillent un mur.",
+        "Comme le résume l'équipe du palace, les clients qui reviennent après des décennies retrouvent le même arbre, au centre d'un lieu transformé."
+      ]
+    }
+  ],
+  "mots": 337,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/lifestyle-et-travel/sous-leucalyptus-au-palace-es-saadi-marrakech",
+  "publie_le": "2026-11-11T12:49:23.000Z",
+  "redige_le": "2026-11-11T18:16:21.707Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/7319fab4085146358198ba94fdd8657f7e81e62b.webp",
+    "source": "wikimedia",
+    "credit": "santiago lopez-pastor from España",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marrakech_-_Flickr_-_santiagolopezpastor.jpg",
+    "alt": "Le palace Es Saadi à Marrakech ou un décor de zelliges marocains",
+    "mots_cles": [
+      "Es Saadi Marrakech"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "7f2938896a63d23ef04121be48bf5df30ce78413",
+  "slug": "minnesota-une-ferme-interieure-de-13-6-millions-de-dollars-pour-les-7f2938",
+  "titre": "Minnesota : une ferme intérieure de 13,6 millions de dollars pour les micro-pousses",
+  "chapo": "Une nouvelle ferme d'intérieur sort de terre à Mankato, dans le Minnesota. Verdánt Organics veut y cultiver micro-pousses et champignons côte à côte, douze mois sur douze.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La première pierre a été posée mardi dans l'est de la ville, devant une centaine de personnes, élus et responsables de l'entreprise. Le projet représente un investissement de 13,6 millions de dollars. Le bâtiment, plus vaste qu'un terrain de football américain, accueillera aussi le siège de la société."
+      ]
+    },
+    {
+      "intertitre": "Deux cultures qui s'entraident",
+      "paragraphes": [
+        "Le principe repose sur l'association des micro-pousses et des champignons de cuisine. Selon son patron, Mike Borman, les deux productions se complètent. L'entreprise appelle son procédé agriculture de précision en intérieur à boucle fermée.",
+        "D'après la société, chaque culture profite à l'autre, ce qui réduit les intrants et les déchets, sans produits chimiques et avec beaucoup moins d'eau qu'un champ classique. Le détail de la méthode reste secret."
+      ]
+    },
+    {
+      "intertitre": "D'autres fermes en projet",
+      "paragraphes": [
+        "Verdánt Organics présente ce site comme le premier d'un réseau. Elle espère ouvrir plusieurs fermes d'intérieur pour approvisionner toutes les régions des États-Unis."
+      ]
+    }
+  ],
+  "mots": 174,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:micro-pousses"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9891730/us-13-6-million-indoor-farm-breaks-ground-in-minnesota/",
+  "publie_le": "2026-11-11T14:31:00.000Z",
+  "redige_le": "2026-11-11T18:16:26.219Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/7f2938896a63d23ef04121be48bf5df30ce78413.webp",
+    "source": "wikimedia",
+    "credit": "Quintin Soloviev",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mankato,_Minnesota_downtown.jpg",
+    "alt": "La ville de Mankato, dans le Minnesota, aux États-Unis",
+    "mots_cles": [
+      "Mankato, Minnesota"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

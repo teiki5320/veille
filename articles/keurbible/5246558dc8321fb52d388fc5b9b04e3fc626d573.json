@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "5246558dc8321fb52d388fc5b9b04e3fc626d573",
+  "slug": "lesotho-les-eveques-veulent-mieux-accompagner-les-couples-et-les-524655",
+  "titre": "Lesotho : les évêques veulent mieux accompagner les couples et les familles",
+  "chapo": "L'Église catholique du Lesotho revoit sa manière d'accompagner les couples. Le responsable de l'épiscopat annonce un programme pastoral adapté à chaque foyer.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Évêque du diocèse de Qacha's Nek, Mgr Joseph Mopeli Sephamola préside l'épiscopat du Lesotho. Il a présenté cette réflexion à Vatican News. Elle s'inscrit dans le dixième anniversaire d'Amoris Laetitia, l'exhortation du pape François sur l'amour dans la famille, publiée en 2016.",
+        "Cet anniversaire a récemment été marqué à Rome en présence de responsables d'épiscopats venus de tous les continents. Pour l'évêque, ces échanges tombent au bon moment pour son pays, petit royaume montagneux enclavé dans l'Afrique du Sud, qui fête en 2026 les 60 ans de son indépendance."
+      ]
+    },
+    {
+      "intertitre": "Des familles éprouvées par l'éloignement",
+      "paragraphes": [
+        "Le prélat décrit des réalités bien connues des paroisses. Beaucoup de jeunes mariés doivent vivre loin l'un de l'autre à cause du travail. Les enfants grandissent alors chez leurs grands-parents, une responsabilité lourde pour des aînés parfois fragiles.",
+        "L'Église observe aussi que de plus en plus de couples vivent ensemble sans se marier, ou célèbrent d'abord l'union coutumière avant de demander, des années plus tard, la bénédiction religieuse. Les séparations augmentent, y compris parmi des catholiques mariés à l'église.",
+        "L'évêque évoque enfin les fidèles divorcés puis remariés, très engagés dans leur communauté, mais qui ne peuvent pas communier en raison de leur situation."
+      ]
+    },
+    {
+      "intertitre": "Un bureau de la famille relancé",
+      "paragraphes": [
+        "Pour répondre à ces défis, le secrétariat de l'Église locale veut redonner vie à son bureau consacré à la famille, avant d'élargir l'initiative à chacun des quatre diocèses. La préparation des fiancés au mariage doit aussi être renforcée.",
+        "Mgr Sephamola plaide pour une pastorale plus synodale, c'est-à-dire construite en écoutant les couples et ce qu'ils vivent avant de les accompagner. Il rappelle que des foyers solides font une société solide, et qu'ils sont aussi le terreau des futures vocations de prêtres et de religieux."
+      ]
+    }
+  ],
+  "mots": 309,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "LS"
+  ],
+  "tags": [
+    "occasion:mariage"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/lesotho-l-episcopat-repense-son-approche-pastorale-du-mariage.html",
+  "publie_le": "2026-11-11T13:41:00.000Z",
+  "redige_le": "2026-11-11T18:16:19.938Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/5246558dc8321fb52d388fc5b9b04e3fc626d573.webp",
+    "source": "wikimedia",
+    "credit": "Utilisateur:Bel Adone",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Qacha%27s_Nek01.jpg",
+    "alt": "Un paysage ou une église du Lesotho, en Afrique australe",
+    "mots_cles": [
+      "Qacha's Nek"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

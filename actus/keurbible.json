@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-11T11:18:12.329Z",
+  "genere_le": "2026-11-11T18:16:19.938Z",
   "actus": [
+    {
+      "id": "5246558dc8321fb52d388fc5b9b04e3fc626d573",
+      "titre": "Lesotho : les évêques veulent mieux accompagner les couples et les familles",
+      "resume": "Au Lesotho, la conférence épiscopale prépare un nouveau programme pour soutenir les couples, dix ans après le texte Amoris Laetitia du pape François. Son président, Mgr Joseph Mopeli Sephamola, veut une Église plus attentive au vécu des familles et une meilleure préparation au mariage.",
+      "theme": "culture",
+      "pays": [
+        "LS"
+      ],
+      "tags": [
+        "occasion:mariage"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/lesotho-l-episcopat-repense-son-approche-pastorale-du-mariage.html",
+      "publie_le": "2026-11-11T13:41:00.000Z",
+      "collecte_le": "2026-11-11T18:16:19.938Z",
+      "langue": "fr",
+      "slug": "lesotho-les-eveques-veulent-mieux-accompagner-les-couples-et-les-524655",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/5246558dc8321fb52d388fc5b9b04e3fc626d573.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/5246558dc8321fb52d388fc5b9b04e3fc626d573.webp",
+        "source": "wikimedia",
+        "credit": "Utilisateur:Bel Adone",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Qacha%27s_Nek01.jpg",
+        "alt": "Un paysage ou une église du Lesotho, en Afrique australe",
+        "mots_cles": [
+          "Qacha's Nek"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8011fe53f348689cd6666e86a02733b1c69bb6e0",
       "titre": "Éthiopie : sœur Medhin Tesfay reçoit la médaille Lorenz Werthmann de Caritas Allemagne",

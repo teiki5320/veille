@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-11T11:18:17.489Z",
+  "genere_le": "2026-11-11T18:16:26.219Z",
   "actus": [
+    {
+      "id": "7f2938896a63d23ef04121be48bf5df30ce78413",
+      "titre": "Minnesota : une ferme intérieure de 13,6 millions de dollars pour les micro-pousses",
+      "resume": "À Mankato, aux États-Unis, l'entreprise Verdánt Organics a lancé le chantier d'une ferme d'intérieur de 13,6 millions de dollars. Elle y produira toute l'année des micro-pousses et des champignons comestibles, cultivés ensemble dans un système en circuit fermé.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:micro-pousses"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9891730/us-13-6-million-indoor-farm-breaks-ground-in-minnesota/",
+      "publie_le": "2026-11-11T14:31:00.000Z",
+      "collecte_le": "2026-11-11T18:16:26.219Z",
+      "langue": "en",
+      "slug": "minnesota-une-ferme-interieure-de-13-6-millions-de-dollars-pour-les-7f2938",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/7f2938896a63d23ef04121be48bf5df30ce78413.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/7f2938896a63d23ef04121be48bf5df30ce78413.webp",
+        "source": "wikimedia",
+        "credit": "Quintin Soloviev",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mankato,_Minnesota_downtown.jpg",
+        "alt": "La ville de Mankato, dans le Minnesota, aux États-Unis",
+        "mots_cles": [
+          "Mankato, Minnesota"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "552aa6a2a23280680a6082f91562668cf3c3d4d6",
       "titre": "Nigeria : Smart Israel primé 100 000 dollars pour ses fermes hydroponiques solaires",

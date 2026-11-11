@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-11T11:18:14.360Z",
+  "genere_le": "2026-11-11T18:16:23.197Z",
   "actus": [
+    {
+      "id": "4a75644da099bab551155aa6e3e4e62ef44246c5",
+      "titre": "Premier League : Nicolas Jackson élu joueur d'octobre par les supporters",
+      "resume": "L'attaquant sénégalais d'Aston Villa a remporté le vote des fans de Premier League pour le mois d'octobre. Il est récompensé pour son efficacité devant le but, avec six réalisations en neuf matchs, juste avant de rejoindre les Lions pour affronter le Soudan.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "GB"
+      ],
+      "competition": "Premier League",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/premier-league-nicolas-jackson-sacre-joueur-du-mois-doctobre_2022728.html",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/11/joj2026-deux-medailles-supplementaires-pour-le-senegal-can-des-sourds-2026-nicolas-jackson-mvp/"
+      ],
+      "publie_le": "2026-11-11T12:09:06.000Z",
+      "collecte_le": "2026-11-11T18:16:23.197Z",
+      "langue": "fr",
+      "slug": "premier-league-nicolas-jackson-elu-joueur-octobre-par-les-supporters-4a7564",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/4a75644da099bab551155aa6e3e4e62ef44246c5.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/4a75644da099bab551155aa6e3e4e62ef44246c5.webp",
+        "source": "wikimedia",
+        "credit": "Timmy96",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Fulham_v_Chelsea_20042025_(8).jpg",
+        "alt": "Nicolas Jackson, attaquant international sénégalais",
+        "mots_cles": [
+          "Nicolas Jackson footballer"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "135fc1c0c42619976f6be0e13d1f1a1041356468",
       "titre": "Éli Junior Kroupi appelé chez les Bleus : la Côte d'Ivoire voit s'éloigner un espoir",
@@ -2099,44 +2134,6 @@
           "Al Ahly SC",
           "african football supporters",
           "football stadium night"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b",
-      "titre": "CAN 2032 : une mission de la CAF inspecte les stades et hôpitaux du Sénégal",
-      "resume": "Des inspecteurs de la CAF visitent cette semaine les équipements sénégalais, du stade Léopold-Sédar-Senghor à l'enceinte Abdoulaye-Wade, à Diamniadio, ainsi que des hôpitaux, le TER et l'autoroute à péage. Le Sénégal brigue l'accueil de la CAN 2032.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "CAN 2032",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/candidature-a-la-can-2032-stades-hopitaux-transports-la-caf-evalue-les-infrastructures-du-senegal_2018204.html",
-      "autres_sources": [
-        "https://africatopsports.com/afrique-football/can-2032-la-caf-evalue-les-infrastructures-du-senegal/",
-        "https://wiwsport.com/2026/10/28/can-2032-une-mission-dinspection-de-la-caf-en-visite-au-senegal/"
-      ],
-      "publie_le": "2026-10-28T11:17:21.000Z",
-      "collecte_le": "2026-10-28T18:21:44.281Z",
-      "langue": "fr",
-      "slug": "can-2032-une-mission-de-la-caf-inspecte-les-stades-et-hopitaux-du-bf3ab9",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/bf3ab9d80677dbbdc7ffd42bf0bebc1c8768a59b.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « CAN 2032 »",
-        "mots_cles": [
-          "Stade Abdoulaye Wade",
-          "Stade Léopold Sédar Senghor",
-          "dakar stadium",
-          "senegal football"
         ],
         "largeur": 1600,
         "hauteur": 900

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-11T11:18:14.344Z",
+  "genere_le": "2026-11-11T18:16:23.190Z",
   "articles": [
+    {
+      "id": "7319fab4085146358198ba94fdd8657f7e81e62b",
+      "slug": "marrakech-es-saadi-un-spa-repense-autour-un-eucalyptus-centenaire-7319fa",
+      "titre": "Marrakech : à l'Es Saadi, un spa repensé autour d'un eucalyptus centenaire",
+      "publie_le": "2026-11-11T12:49:23.000Z",
+      "redige_le": "2026-11-11T18:16:21.707Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/7319fab4085146358198ba94fdd8657f7e81e62b.json"
+    },
     {
       "id": "02a5ef4c5e4cc06d680f8b3cf5a4392fc45615b9",
       "slug": "dubai-la-sud-africaine-sumayya-vally-transforme-une-villa-en-fondation-02a5ef",

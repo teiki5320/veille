@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-11T11:18:12.359Z",
+  "genere_le": "2026-11-11T18:16:21.707Z",
   "actus": [
+    {
+      "id": "7319fab4085146358198ba94fdd8657f7e81e62b",
+      "titre": "Marrakech : à l'Es Saadi, un spa repensé autour d'un eucalyptus centenaire",
+      "resume": "À Marrakech, le spa de l'hôtel Es Saadi a rouvert après des travaux. L'architecte Aziz Lamghari a gardé au centre un eucalyptus de plus de cent ans et mis en valeur le marbre, les zelliges et une fontaine inspirée de celles de Fès.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/lifestyle-et-travel/sous-leucalyptus-au-palace-es-saadi-marrakech",
+      "publie_le": "2026-11-11T12:49:23.000Z",
+      "collecte_le": "2026-11-11T18:16:21.707Z",
+      "langue": "fr",
+      "slug": "marrakech-es-saadi-un-spa-repense-autour-un-eucalyptus-centenaire-7319fa",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/7319fab4085146358198ba94fdd8657f7e81e62b.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/7319fab4085146358198ba94fdd8657f7e81e62b.webp",
+        "source": "wikimedia",
+        "credit": "santiago lopez-pastor from España",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Marrakech_-_Flickr_-_santiagolopezpastor.jpg",
+        "alt": "Le palace Es Saadi à Marrakech ou un décor de zelliges marocains",
+        "mots_cles": [
+          "Es Saadi Marrakech"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "02a5ef4c5e4cc06d680f8b3cf5a4392fc45615b9",
       "titre": "Dubaï : la Sud-Africaine Sumayya Vally transforme une villa en fondation d'art",
