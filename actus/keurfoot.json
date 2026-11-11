@@ -1,8 +1,79 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-10T18:17:49.158Z",
+  "genere_le": "2026-11-11T11:18:14.360Z",
   "actus": [
+    {
+      "id": "135fc1c0c42619976f6be0e13d1f1a1041356468",
+      "titre": "Éli Junior Kroupi appelé chez les Bleus : la Côte d'Ivoire voit s'éloigner un espoir",
+      "resume": "L'attaquant de Bournemouth, 20 ans, dont le père est ivoirien, reçoit sa première convocation en équipe de France A pour remplacer Marcus Thuram, blessé. Le joueur avait déjà dit viser les Bleus, une mauvaise nouvelle pour les Éléphants qui pouvaient encore le sélectionner.",
+      "theme": "foot",
+      "pays": [
+        "CI",
+        "FR"
+      ],
+      "competition": "Ligue des nations",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/cote-divoire-eli-junior-kroupi-se-rapproche-des-bleus-un-espoir-seloigne-pour-les-elephants/",
+      "autres_sources": [
+        "https://www.footmercato.net/a8114919434780120469-equipe-de-france-le-trafic-londonien-retarde-larrivee-deli-junior-kroupi-a-clairefontaine",
+        "https://www.footmercato.net/a5181727402673009133-arsenal-revient-a-lattaque-pour-vinicius-jr-la-presse-semballe-pour-eli-junior-kroupi",
+        "https://www.lequipe.fr/Football/Article/La-premiere-selection-d-eli-junior-kroupi-en-equipe-de-france-suite-logique-d-une-ascension-qui-suscite-des-convoitises/1742885"
+      ],
+      "publie_le": "2026-11-11T10:30:36.000Z",
+      "collecte_le": "2026-11-11T11:18:14.360Z",
+      "langue": "fr",
+      "slug": "eli-junior-kroupi-appele-chez-les-bleus-la-cote-ivoire-voit-eloigner-135fc1",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/135fc1c0c42619976f6be0e13d1f1a1041356468.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/135fc1c0c42619976f6be0e13d1f1a1041356468.webp",
+        "source": "wikimedia",
+        "credit": "Timmy96",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Eli_Junior_Kroupi_and_Peter_Bankes_27122025_(1).jpg",
+        "alt": "L'attaquant Éli Junior Kroupi sous le maillot de son club",
+        "mots_cles": [
+          "Eli Junior Kroupi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d3f660b9bd97fe53583bb9109dc680549409abfe",
+      "titre": "Sénégal : Malang Sarr revient sur son Mondial manqué et sur son lien avec Vieira",
+      "resume": "Dans un entretien à Dsports, le défenseur de Neom SC reconnaît avoir mal vécu son absence de la dernière Coupe du monde, avant de tourner la page. Il présente son choix du Sénégal comme une affaire de cœur et raconte sa relation ancienne avec le sélectionneur Patrick Vieira.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/senegal-mondial-manque-choix-du-senegal-relation-avec-vieira-malang-sarr-se-confie_2022686.html",
+      "autres_sources": [
+        "https://senego.com/jai-beaucoup-travaille-jetais-decu-malang-sarr-revient-sur-sa-non-selection_2022685.html"
+      ],
+      "publie_le": "2026-11-11T10:17:50.000Z",
+      "collecte_le": "2026-11-11T11:18:14.360Z",
+      "langue": "fr",
+      "slug": "senegal-malang-sarr-revient-sur-son-mondial-manque-et-sur-son-lien-d3f660",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d3f660b9bd97fe53583bb9109dc680549409abfe.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/d3f660b9bd97fe53583bb9109dc680549409abfe.webp",
+        "source": "wikimedia",
+        "credit": "Voltmetro",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:2021-12-08_-_FC_Zenit_Saint_Petersburg_v_Chelsea_F.C._-_Photo_018.jpg",
+        "alt": "Le défenseur sénégalais Malang Sarr",
+        "mots_cles": [
+          "Malang Sarr"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3251b0eb084839a82a7ed085a7148f866adb9eb0",
       "titre": "Coupe de la CAF : le TAS rejette l'appel du Hafia FC, l'AS Douanes reste qualifiée",
@@ -2066,76 +2137,6 @@
           "Stade Léopold Sédar Senghor",
           "dakar stadium",
           "senegal football"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "f829964fb8846632c9fa7770b5fee799b87b117c",
-      "titre": "Algérie : buteur contre Al-Hilal, Bounedjah absent de la liste élargie d'Hemdani",
-      "resume": "Baghdad Bounedjah a marqué mardi lors de la victoire 3-1 d'Al-Shamal sur Al-Hilal en Ligue des champions asiatique. Son nom ne figure pourtant pas dans la liste élargie du sélectionneur Brahim Hemdani pour la double confrontation contre le Togo en novembre, selon la presse algérienne.",
-      "theme": "foot",
-      "pays": [
-        "DZ",
-        "TG"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/algerie-brillant-en-c1-asiatique-bounedjah-recoit-une-mauvaise-nouvelle-dhemdani",
-      "autres_sources": [
-        "https://africatopsports.com/afrique-football/elim-can-2027-brahim-hemdani-etudie-plusieurs-nouveaux-profils-avant-le-double-choc-face-au-togo/",
-        "https://wiwsport.com/2026/10/27/afc-champions-league-al-shamal-de-youssouf-sabaly-surprend-al-hilal-de-kalidou-koulibaly/"
-      ],
-      "publie_le": "2026-10-28T09:53:22.000Z",
-      "collecte_le": "2026-10-28T11:28:07.557Z",
-      "langue": "fr",
-      "slug": "algerie-buteur-contre-al-hilal-bounedjah-absent-de-la-liste-elargie-f82996",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f829964fb8846632c9fa7770b5fee799b87b117c.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/f829964fb8846632c9fa7770b5fee799b87b117c.webp",
-        "source": "wikimedia",
-        "credit": "Magharebia",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Algeria_NT_training_2013_AFCON.jpg",
-        "alt": "L'attaquant algérien Baghdad Bounedjah",
-        "mots_cles": [
-          "Algeria national football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "35ca2faf5359bafd2e8525dc964531da314c755a",
-      "titre": "Football guinéen : à 34 ans, Mamady Doumbouya élu à la tête de la Feguifoot",
-      "resume": "Mamady Doumbouya a été élu le 27 octobre président de la Fédération guinéenne de football avec 21 voix, devant Antonio Souaré et Ibrahima Kalil Kaba. À 34 ans, il est le plus jeune dirigeant qu'ait connu l'instance, qui sortait de quatre mois de transition.",
-      "theme": "foot",
-      "pays": [
-        "GN"
-      ],
-      "competition": null,
-      "source_nom": "Wiwsport",
-      "source_url": "https://wiwsport.com/2026/10/28/guinee-mamady-doumbouya-elu-nouveau-president-de-la-federation/",
-      "autres_sources": [
-        "https://www.rfi.fr/fr/afrique-foot/20261027-mamady-doumbouya-34-ans-devient-le-plus-jeune-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-guin%C3%A9enne-de-football"
-      ],
-      "publie_le": "2026-10-28T09:48:06.000Z",
-      "collecte_le": "2026-10-28T11:28:07.557Z",
-      "langue": "fr",
-      "slug": "football-guineen-34-ans-mamady-doumbouya-elu-la-tete-de-la-feguifoot-35ca2f",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/35ca2faf5359bafd2e8525dc964531da314c755a.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/35ca2faf5359bafd2e8525dc964531da314c755a.webp",
-        "source": "wikimedia",
-        "credit": "Fédération Guinéenne Football",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:2U4A8197.jpg",
-        "alt": "Le logo ou un stade lié au football guinéen",
-        "mots_cles": [
-          "Fédération guinéenne de football"
         ],
         "largeur": 1600,
         "hauteur": 900

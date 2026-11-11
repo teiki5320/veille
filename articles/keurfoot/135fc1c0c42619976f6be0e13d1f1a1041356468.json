@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "135fc1c0c42619976f6be0e13d1f1a1041356468",
+  "slug": "eli-junior-kroupi-appele-chez-les-bleus-la-cote-ivoire-voit-eloigner-135fc1",
+  "titre": "Éli Junior Kroupi appelé chez les Bleus : la Côte d'Ivoire voit s'éloigner un espoir",
+  "chapo": "Zinédine Zidane a fait appel mardi 10 novembre à Éli Junior Kroupi, 20 ans, pour pallier le forfait de Marcus Thuram. Une première chez les A qui réduit les chances de la Côte d'Ivoire de voir un jour l'attaquant porter le maillot orange.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le joueur de Bournemouth rejoint l'équipe de France pour les deux matchs de Ligue des nations prévus contre l'Italie, à San Siro, puis contre la Turquie. Il prend la place de Marcus Thuram : l'avant-centre de l'Inter Milan s'est plaint de l'arrière de la cuisse droite face à Côme, et les soins n'ont pas suffi. Le staff médical l'a donc renvoyé dans son club.",
+        "Attendu lundi soir à Clairefontaine, Kroupi n'est finalement arrivé que mardi matin. L'encadrement des Bleus a expliqué ce retard par de gros embouteillages à Londres, juste avant le départ du groupe vers Milan."
+      ]
+    },
+    {
+      "intertitre": "Un choix déjà annoncé",
+      "paragraphes": [
+        "Le jeune attaquant pouvait aussi jouer pour la Côte d'Ivoire, pays d'origine de son père, Eli Kroupi, lui-même ancien footballeur. Mais il a fait toutes ses classes dans les sélections de jeunes françaises. Il y a quelques semaines, il avait confié à la chaîne DAZN que l'équipe de France restait son but et qu'il ne s'imaginait pas ailleurs.",
+        "Son père avait de son côté indiqué qu'il laissait son fils décider seul. Les Éléphants, champions d'Afrique en 2024, gardaient pourtant un œil sur ce profil offensif."
+      ]
+    },
+    {
+      "intertitre": "Une porte encore entrouverte",
+      "paragraphes": [
+        "Une convocation ne suffit pas à lier un joueur à une sélection : seule une entrée en jeu lors d'un match officiel compte pour la FIFA. Si Kroupi foule la pelouse contre l'Italie ou la Turquie, la Côte d'Ivoire perdra définitivement cette piste.",
+        "Zidane doit déjà composer avec plusieurs absences dans ce rassemblement : il a aussi remplacé Pierre Kalulu par Saël Kumbedi, venu des Espoirs. Reste à savoir si le nouveau venu aura du temps de jeu dans ces deux rencontres."
+      ]
+    }
+  ],
+  "mots": 315,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "CI",
+    "FR"
+  ],
+  "competition": "Ligue des nations",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/afrique-football/cote-divoire-eli-junior-kroupi-se-rapproche-des-bleus-un-espoir-seloigne-pour-les-elephants/",
+  "autres_sources": [
+    "https://www.footmercato.net/a8114919434780120469-equipe-de-france-le-trafic-londonien-retarde-larrivee-deli-junior-kroupi-a-clairefontaine",
+    "https://www.footmercato.net/a5181727402673009133-arsenal-revient-a-lattaque-pour-vinicius-jr-la-presse-semballe-pour-eli-junior-kroupi",
+    "https://www.lequipe.fr/Football/Article/La-premiere-selection-d-eli-junior-kroupi-en-equipe-de-france-suite-logique-d-une-ascension-qui-suscite-des-convoitises/1742885"
+  ],
+  "publie_le": "2026-11-11T10:30:36.000Z",
+  "redige_le": "2026-11-11T11:18:14.360Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/135fc1c0c42619976f6be0e13d1f1a1041356468.webp",
+    "source": "wikimedia",
+    "credit": "Timmy96",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eli_Junior_Kroupi_and_Peter_Bankes_27122025_(1).jpg",
+    "alt": "L'attaquant Éli Junior Kroupi sous le maillot de son club",
+    "mots_cles": [
+      "Eli Junior Kroupi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

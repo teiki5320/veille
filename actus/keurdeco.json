@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-10T18:17:47.926Z",
+  "genere_le": "2026-11-11T11:18:12.359Z",
   "actus": [
+    {
+      "id": "02a5ef4c5e4cc06d680f8b3cf5a4392fc45615b9",
+      "titre": "Dubaï : la Sud-Africaine Sumayya Vally transforme une villa en fondation d'art",
+      "resume": "L'architecte sud-africaine, fondatrice du studio Counterspace, a été choisie pour dessiner le futur siège de la fondation Elie Khouri à Jumeirah. Elle garde la mémoire d'une maison existante pour en faire un lieu public de galeries, d'ateliers et de jardins, prévu pour 2028.",
+      "theme": "deco",
+      "pays": [
+        "ZA",
+        "AE"
+      ],
+      "source_nom": "Dezeen",
+      "source_url": "https://www.dezeen.com/2026/11/11/sumayya-vally-dubai-elie-khouri-art-foundation/",
+      "autres_sources": [
+        "https://www.wallpaper.com/architecture/sumayya-vally-elie-khouri-art-foundation-announcement-uae",
+        "https://www.designboom.com/architecture/sumayya-vally-counterspace-elie-khouri-art-foundation-ekaf-dubai/"
+      ],
+      "publie_le": "2026-11-11T09:00:00.000Z",
+      "collecte_le": "2026-11-11T11:18:12.359Z",
+      "langue": "en",
+      "slug": "dubai-la-sud-africaine-sumayya-vally-transforme-une-villa-en-fondation-02a5ef",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/02a5ef4c5e4cc06d680f8b3cf5a4392fc45615b9.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/02a5ef4c5e4cc06d680f8b3cf5a4392fc45615b9.webp",
+        "source": "wikimedia",
+        "credit": "Images George Rex",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Serpentine_Pavilion_2021_III.jpg",
+        "alt": "L'architecte sud-africaine Sumayya Vally ou l'une de ses réalisations",
+        "mots_cles": [
+          "Sumayya Vally"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1800c757b22df0e64a98ea6137a112697b1e264b",
       "titre": "Casablanca : le céramiste Younes Khourassani fait danser la lumière dans « Satori »",
