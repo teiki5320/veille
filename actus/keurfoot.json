@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-11T18:16:23.197Z",
+  "genere_le": "2026-11-11T18:17:06.681Z",
   "actus": [
     {
       "id": "4a75644da099bab551155aa6e3e4e62ef44246c5",
@@ -29,10 +29,10 @@
         "source": "wikimedia",
         "credit": "Timmy96",
         "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Fulham_v_Chelsea_20042025_(8).jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(1).jpg",
         "alt": "Nicolas Jackson, attaquant international sénégalais",
         "mots_cles": [
-          "Nicolas Jackson footballer"
+          "Nicolas Jackson"
         ],
         "largeur": 1600,
         "hauteur": 900
