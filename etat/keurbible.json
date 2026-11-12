@@ -1552,7 +1552,7 @@
   "images_recentes": [
     {
       "id": "45934e7360bc0e3d18d071ae6c71326ae154c9e7",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/1/1b/IMGP7495-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://live.staticflickr.com/1658/24205461734_14af6b90c2_b.jpg"
     },
     {
       "id": "5246558dc8321fb52d388fc5b9b04e3fc626d573",
@@ -1666,7 +1666,7 @@
     "f26be93539074ef83abffaaa5c3f6e8f79eb89d5": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_Basillica_of_the_Uganda_Martyrs%2C_Namugongo_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "8011fe53f348689cd6666e86a02733b1c69bb6e0": "https://upload.wikimedia.org/wikipedia/commons/2/20/Adigrat_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "5246558dc8321fb52d388fc5b9b04e3fc626d573": "https://upload.wikimedia.org/wikipedia/commons/0/09/Qacha%27s_Nek01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "45934e7360bc0e3d18d071ae6c71326ae154c9e7": "https://upload.wikimedia.org/wikipedia/commons/1/1b/IMGP7495-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "45934e7360bc0e3d18d071ae6c71326ae154c9e7": "https://live.staticflickr.com/1658/24205461734_14af6b90c2_b.jpg"
   },
   "refusees": {
     "49a135982501fc5a7ca02c13a80811ebf5ed2b62": [
@@ -1680,6 +1680,11 @@
     ],
     "ed7e81b79ea77410cbfe90e3e0a046ef74d9a512": [
       "https://upload.wikimedia.org/wikipedia/commons/9/97/AFRICA_WOMAN.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "45934e7360bc0e3d18d071ae6c71326ae154c9e7": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1b/IMGP7495-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d1/Winged_angel%2C_fresco_at_a_Medieval_church%2C_Old_Dongola_site%2C_Sudan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dongola_Throne_Hall_east-west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }

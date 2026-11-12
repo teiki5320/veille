@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-12T11:18:17.657Z",
+  "genere_le": "2026-11-12T11:19:11.027Z",
   "actus": [
     {
       "id": "6058bf941a3b651c135faeaff078809e6d2ab969",
@@ -25,14 +25,15 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/6058bf941a3b651c135faeaff078809e6d2ab969.json",
       "lecture_min": 2,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/6058bf941a3b651c135faeaff078809e6d2ab969.webp",
-        "source": "wikimedia",
-        "credit": "У джерелі не вказаний автор",
-        "licence": "CC BY 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:FC_Semenivka_v_Senegal_under-21_football_team_(2016-05-20)_17.jpg",
-        "alt": "Des jeunes joueurs de la sélection du Sénégal des moins de 17 ans",
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/6058bf941a3b651c135faeaff078809e6d2ab969.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « Coupe du monde U17 »",
         "mots_cles": [
-          "Senegal national under-17 football team"
+          "Lamine Sané",
+          "senegal youth football"
         ],
         "largeur": 1600,
         "hauteur": 900
