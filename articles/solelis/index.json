@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-12T11:18:23.442Z",
+  "genere_le": "2026-11-12T18:19:59.730Z",
   "articles": [
+    {
+      "id": "e419c91748e7cf2b7499c009727d836858aec3d6",
+      "slug": "charges-patronales-le-senat-repousse-au-1er-avril-2027-la-baisse-des-e419c9",
+      "titre": "Charges patronales : le Sénat repousse au 1er avril 2027 la baisse des allègements",
+      "publie_le": "2026-11-12T14:28:11.000Z",
+      "redige_le": "2026-11-12T18:19:56.671Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/e419c91748e7cf2b7499c009727d836858aec3d6.json"
+    },
+    {
+      "id": "e4b0a7196b717249a4a726baae1e9a85258ec150",
+      "slug": "fibre-excellence-usine-de-saint-gaudens-liquidee-environ-300-emplois-e4b0a7",
+      "titre": "Fibre Excellence : l'usine de Saint-Gaudens liquidée, environ 300 emplois supprimés",
+      "publie_le": "2026-11-12T13:14:20.000Z",
+      "redige_le": "2026-11-12T18:19:56.671Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/e4b0a7196b717249a4a726baae1e9a85258ec150.json"
+    },
     {
       "id": "44babda0b8df685ff61c6aa80029ddb5ddd1a1a8",
       "slug": "pme-sept-patrons-sur-dix-prets-reporter-ou-annuler-leurs-44babd",

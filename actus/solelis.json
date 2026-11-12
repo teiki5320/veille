@@ -1,8 +1,71 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-12T11:18:22.102Z",
+  "genere_le": "2026-11-12T18:19:56.671Z",
   "actus": [
+    {
+      "id": "e419c91748e7cf2b7499c009727d836858aec3d6",
+      "titre": "Charges patronales : le Sénat repousse au 1er avril 2027 la baisse des allègements",
+      "resume": "Lors de l'examen du budget de la Sécurité sociale, le Sénat a voté jeudi, malgré l'opposition du gouvernement, le décalage au 1er avril 2027 d'une mesure qui réduisait les allègements de cotisations patronales. Les entreprises gagnent trois mois de répit, mais la Sécu perdrait 900 millions d'euros d'économies.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/il-alourdit-le-deficit-de-900-millions-d-euros-contre-l-avis-du-gouvernement-le-senat-reporte-de-trois-mois-une-hausse-des-charges-patronales_AV-202611120622.html",
+      "publie_le": "2026-11-12T14:28:11.000Z",
+      "collecte_le": "2026-11-12T18:19:56.671Z",
+      "langue": "fr",
+      "slug": "charges-patronales-le-senat-repousse-au-1er-avril-2027-la-baisse-des-e419c9",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/e419c91748e7cf2b7499c009727d836858aec3d6.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/e419c91748e7cf2b7499c009727d836858aec3d6.webp",
+        "source": "wikimedia",
+        "credit": "DXR",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_South_View_140116_1.jpg",
+        "alt": "Le palais du Luxembourg, siège du Sénat, à Paris",
+        "mots_cles": [
+          "Palais du Luxembourg"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "e4b0a7196b717249a4a726baae1e9a85258ec150",
+      "titre": "Fibre Excellence : l'usine de Saint-Gaudens liquidée, environ 300 emplois supprimés",
+      "resume": "Sans repreneur, l'usine de pâte à papier Fibre Excellence de Saint-Gaudens (Haute-Garonne) a été liquidée jeudi 12 novembre par la justice toulousaine. Environ 300 salariés seront licenciés. Un projet de relance du papetier portugais Ghost, soutenu par la Région Occitanie, demande encore plusieurs mois de travail.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/economie/4262390-20261112-haute-garonne-usine-pate-papiers-fibre-excellence-bel-bien-liquidee-300-salaries-carreau?at_medium=display&at_campaign=149",
+      "autres_sources": [
+        "https://www.ladepeche.fr/2026/11/12/fibre-excellence-placee-en-liquidation-judiciaire-un-espoir-demeure-un-projet-industriel-serieux-est-en-cours-de-construction-assure-la-presidente-de-13648935.php"
+      ],
+      "publie_le": "2026-11-12T13:14:20.000Z",
+      "collecte_le": "2026-11-12T18:19:56.671Z",
+      "langue": "fr",
+      "slug": "fibre-excellence-usine-de-saint-gaudens-liquidee-environ-300-emplois-e4b0a7",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/e4b0a7196b717249a4a726baae1e9a85258ec150.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/e4b0a7196b717249a4a726baae1e9a85258ec150.webp",
+        "source": "wikimedia",
+        "credit": "Didier Descouens",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Coll%C3%A9giale_Saint-Pierre_et_Saint-Gaudens.jpg",
+        "alt": "Vue de la ville de Saint-Gaudens, en Haute-Garonne",
+        "mots_cles": [
+          "Saint-Gaudens"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "44babda0b8df685ff61c6aa80029ddb5ddd1a1a8",
       "titre": "PME : sept patrons sur dix prêts à reporter ou annuler leurs investissements",

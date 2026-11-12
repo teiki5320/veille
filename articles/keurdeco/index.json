@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-12T11:18:17.639Z",
+  "genere_le": "2026-11-12T18:19:50.449Z",
   "articles": [
+    {
+      "id": "5602125462d53b2134b14b3056f4a2839d1ac6ed",
+      "slug": "le-cap-neri-hu-signe-un-hotel-edition-en-briques-habille-artisanat-560212",
+      "titre": "Le Cap : Neri&Hu signe un hôtel Edition en briques, habillé d'artisanat africain",
+      "publie_le": "2026-11-12T14:00:43.000Z",
+      "redige_le": "2026-11-12T18:19:48.802Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/5602125462d53b2134b14b3056f4a2839d1ac6ed.json"
+    },
     {
       "id": "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a",
       "slug": "ouganda-big-dessine-une-ville-durable-pour-les-refugies-de-bidi-bidi-57c2aa",

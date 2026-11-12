@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "e419c91748e7cf2b7499c009727d836858aec3d6",
+  "slug": "charges-patronales-le-senat-repousse-au-1er-avril-2027-la-baisse-des-e419c9",
+  "titre": "Charges patronales : le Sénat repousse au 1er avril 2027 la baisse des allègements",
+  "chapo": "Les sénateurs ont décalé de trois mois une mesure du budget de la Sécurité sociale qui devait alourdir le coût du travail dès janvier. Le gouvernement y était opposé.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jeudi 12 novembre, le Sénat a examiné en séance le budget de la Sécurité sociale pour 2027 (PLFSS). Malgré l'opposition du gouvernement, les sénateurs ont repoussé au 1er avril 2027 une mesure d'économies sur les cotisations patronales, prévue pour le 1er janvier.",
+        "Le texte initial voulait intégrer les primes dites de partage de la valeur, la participation et l'intéressement dans la base servant à calculer les allègements. Conséquence : des réductions de cotisations plus faibles, donc un coût du travail plus élevé pour les employeurs."
+      ]
+    },
+    {
+      "intertitre": "Laisser place à la négociation",
+      "paragraphes": [
+        "Le rapporteur général, le centriste Olivier Henno, dit vouloir tenir compte de la conférence sociale réunie le 9 novembre à Matignon. Le gouvernement de Sébastien Lecornu y a ouvert avec les syndicats et le patronat trois mois de discussions, jusqu'au 31 mars 2027, pour revoir les allègements généraux.",
+        "Ces allègements, que certains accusent d'enfermer les salaires près du Smic, coûtent 75 milliards d'euros à la Sécurité sociale, a rappelé Olivier Henno."
+      ]
+    },
+    {
+      "intertitre": "900 millions d'euros en moins",
+      "paragraphes": [
+        "Le gouvernement comptait économiser 3,7 milliards d'euros sur une année pleine. Avec ce décalage, le gain fondrait de 900 millions d'euros en 2027, si la version finale du texte garde la mesure votée au Sénat.",
+        "Les sénateurs ont aussi voté un amendement contre le gel décidé par décret en milieu d'année. Depuis la hausse du Smic du 1er juin, les allègements sont calculés sur le Smic du 1er janvier 2026, ce qui renchérit le coût du travail. Désormais, le calcul se ferait chaque année sur le Smic du 1er janvier de l'année d'avant : en 2028, celui du 1er janvier 2027."
+      ]
+    },
+    {
+      "intertitre": "Ce que cela change pour les employeurs",
+      "paragraphes": [
+        "Pour les entreprises, notamment les TPE et PME qui emploient beaucoup de salariés payés près du Smic, ce vote offre trois mois de répit avant une hausse de leurs cotisations. Jean-Pierre Farandou, chargé du Travail, souhaitait que l'exécutif conserve le contrôle de ce mécanisme. Le texte doit encore poursuivre son parcours au Parlement."
+      ]
+    }
+  ],
+  "mots": 356,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/il-alourdit-le-deficit-de-900-millions-d-euros-contre-l-avis-du-gouvernement-le-senat-reporte-de-trois-mois-une-hausse-des-charges-patronales_AV-202611120622.html",
+  "publie_le": "2026-11-12T14:28:11.000Z",
+  "redige_le": "2026-11-12T18:19:56.671Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/e419c91748e7cf2b7499c009727d836858aec3d6.webp",
+    "source": "wikimedia",
+    "credit": "DXR",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_South_View_140116_1.jpg",
+    "alt": "Le palais du Luxembourg, siège du Sénat, à Paris",
+    "mots_cles": [
+      "Palais du Luxembourg"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

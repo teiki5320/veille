@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "e6eccf4f27276ddf056b3ca208f35ad538633ea6",
+  "slug": "georgie-des-led-de-serre-qui-allument-selon-les-besoins-reels-des-e6eccf",
+  "titre": "Géorgie : des LED de serre qui s'allument selon les besoins réels des plantes",
+  "chapo": "Des chercheurs américains mettent au point un système qui règle l'éclairage d'appoint des serres d'après la photosynthèse mesurée en direct sur les plantes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'équipe est dirigée par Rhuanito Ferrarezi, professeur d'horticulture à l'université de Géorgie (UGA), aux États-Unis. Avec le chercheur Matt Housley et la doctorante Nintya Avriantari, il teste des LED qui s'adaptent seules aux besoins des cultures. Le projet est financé par l'Institut national de l'alimentation et de l'agriculture (NIFA), rattaché au ministère américain de l'Agriculture.",
+        "Le point de départ est simple : dans beaucoup de serres, les lampes d'appoint restent allumées en plein soleil. Elles obéissent à une minuterie ou à un programme fixe, sans tenir compte de la lumière naturelle que reçoivent les feuilles."
+      ]
+    },
+    {
+      "intertitre": "La plante devient le capteur",
+      "paragraphes": [
+        "Quand une feuille reçoit plus de lumière qu'elle ne peut en utiliser, elle évacue le surplus sous forme de chaleur ou d'une faible lueur : la fluorescence de la chlorophylle. L'équipe mesure ce signal avec un fluorimètre du commerce, branché sur un enregistreur de données et un automate.",
+        "Le but est de viser un niveau de photosynthèse constant. Si la lumière passe sous un seuil, les LED montent en puissance ; si la plante est saturée, elles baissent. Il ne s'agit pas de faire pousser plus vite, mais d'obtenir la même récolte avec moins de courant."
+      ]
+    },
+    {
+      "intertitre": "Des premiers essais réussis",
+      "paragraphes": [
+        "En chambre de culture, les tests ont bien fonctionné sur plusieurs espèces, dont la laitue, d'abord sur une journée puis sur un cycle complet. Les rendements sont restés stables, avec une consommation réduite. L'enjeu est de taille : l'électricité représente de 30 à 50 % du budget des exploitations en environnement contrôlé.",
+        "L'idée remonte à plus de dix ans, à un cours sur la photosynthèse donné à l'UGA."
+      ]
+    },
+    {
+      "intertitre": "Le défi de la vraie serre",
+      "paragraphes": [
+        "En serre, tout se complique. Le soleil varie sans arrêt avec les nuages et les ombres, tout comme l'humidité, la température et le déficit de pression de vapeur. La couverture, en verre, en plastique ou en polycarbonate, compte aussi. L'équipe doit encore maîtriser les pics de consommation au moment où les lampes puissantes s'allument.",
+        "Les essais vont s'étendre aux concombres, aux tomates et aux plantes d'ornement, puis à de plus grandes installations, avec des modèles d'apprentissage automatique pour affiner les réglages."
+      ]
+    }
+  ],
+  "mots": 378,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:laitue",
+    "legume:tomate",
+    "legume:concombre"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9890283/uga-researchers-use-plant-signals-to-make-indoor-lighting-more-efficient/",
+  "autres_sources": [
+    "https://fieldreport.caes.uga.edu/news/smart-greenhouse-led-lighting-research/"
+  ],
+  "publie_le": "2026-11-12T14:37:00.000Z",
+  "redige_le": "2026-11-12T18:19:50.477Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/e6eccf4f27276ddf056b3ca208f35ad538633ea6.webp",
+    "source": "wikimedia",
+    "credit": "USFWS",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Chattahoochee_Forest_NFH_University_of_Georgia_Mountain_Research_and_Education_Center_16_November_2021.png",
+    "alt": "Le campus de l'université de Géorgie, aux États-Unis",
+    "mots_cles": [
+      "University of Georgia"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,32 +1,5 @@
 {
   "deja_vus": {
-    "afa6c238f18802ad9ecd520eedb0bacc29a163fb": "2026-11-02T11:19:01.197Z",
-    "1e86acd342866fe5e0f44a293dbd2230b33396d9": "2026-11-02T11:19:01.197Z",
-    "89fbcaa71816349147bb51e844b65c7ea9a94776": "2026-11-02T11:19:01.197Z",
-    "103d1a1c297ef33432704e22eb25e88e9722a37b": "2026-11-02T11:19:01.197Z",
-    "dde742c83ceba9a0c0436729087074be8dfb2171": "2026-11-02T11:19:01.197Z",
-    "d41f6373ca85886a1f725974a32c9401186cb448": "2026-11-02T11:19:01.197Z",
-    "3a2670d69fd5c5a9f855d2981147975b67698241": "2026-11-02T11:19:01.197Z",
-    "17dad7365046077abce00bd73eee59e0179a0531": "2026-11-02T11:19:01.197Z",
-    "d32ca57c1b97e99d593ef2fd271d00a6992f7e2c": "2026-11-02T11:19:01.197Z",
-    "2445f4151819dedbba9503c2a397e785301625da": "2026-11-02T11:19:01.197Z",
-    "292f951fa9ea1551fa7925f7f986dde26d325b72": "2026-11-02T11:19:01.197Z",
-    "f51d664a3f1413c199ea5c2cba31e304f36171a0": "2026-11-02T11:19:01.197Z",
-    "af42417595b010275cca27bafefe1a16f0deb0cf": "2026-11-02T11:19:01.197Z",
-    "cf07ef39d7aab5b1ee1e0db13737703cbd2b5f42": "2026-11-02T11:19:01.197Z",
-    "39552607e5682a22c12342d48a2158d707ec9323": "2026-11-02T11:19:01.197Z",
-    "8011f30150632edbcfd93d7a0a38caf18d7dfcb6": "2026-11-02T11:19:01.197Z",
-    "4c15e8a1858ca0b46083b9eed65b35b53dab1f3d": "2026-11-02T11:19:01.197Z",
-    "a9f2b462b73177754e349226588f303279fc09a7": "2026-11-02T11:19:01.197Z",
-    "36e20a158a7eed57d1fc0b75788d65124c69a327": "2026-11-02T11:19:01.197Z",
-    "df3673501a6c434cd1758089ba3aa685eb96f503": "2026-11-02T11:19:01.197Z",
-    "ffee3df29486a1815e520eda8d9cf0e93fb7d19f": "2026-11-02T11:19:01.197Z",
-    "1cb2e02b233c597b10d1431bd6568ade20f8a44d": "2026-11-02T11:19:01.197Z",
-    "22b3996617446cc41860becb20d4481930ef8485": "2026-11-02T11:19:01.197Z",
-    "b7d97904d25bf3a4bf66f9a59cb8616f5c7cfd33": "2026-11-02T11:19:01.197Z",
-    "067cd757e7b248050e87305de0d5d42dc46062f2": "2026-11-02T11:19:01.197Z",
-    "1b25d0e87a830e4cb6df3c5e74ada5e06bd13475": "2026-11-02T11:19:01.197Z",
-    "fe4c3e0c591b3c037edabd83ac86fa69318d6d3f": "2026-11-02T11:19:01.197Z",
     "74cde88534f7cdddfd9280e76749206412ed8615": "2026-11-02T18:21:12.300Z",
     "92dfe50a0322746dde10d73d7a9f2a173ddf2332": "2026-11-02T18:21:12.300Z",
     "05cfbdf1a8f02c03914c95b38b1ee84635d9182e": "2026-11-02T18:21:12.300Z",
@@ -604,7 +577,40 @@
     "9447467b35efb4605fea26cbecf663d409fb65e0": "2026-11-12T11:18:14.368Z",
     "7f73cd8efc7582fc9e1953a0e0518eb7e2b4b5ca": "2026-11-12T11:18:14.368Z",
     "208cc0c510b51d1d849ac0fcbf238080a5a2c857": "2026-11-12T11:18:14.368Z",
-    "479c966fb08f46835f1ff654101e2b89ae564283": "2026-11-12T11:18:14.368Z"
+    "479c966fb08f46835f1ff654101e2b89ae564283": "2026-11-12T11:18:14.368Z",
+    "4df324092898a4ec6ab230ab3da3628712a0f055": "2026-11-12T18:19:45.696Z",
+    "842c0cc212cba3807f0887403e834539631b1454": "2026-11-12T18:19:45.696Z",
+    "44ae7dfe7537d9e2bde89a08ef4081fc1a0d6f55": "2026-11-12T18:19:45.696Z",
+    "87e60b648abcb60a62036a773dcf35c2baba3cc2": "2026-11-12T18:19:45.696Z",
+    "8c5eb781c9ce831b82915dc8c4d60723fc8c02c0": "2026-11-12T18:19:45.696Z",
+    "01aa8f43190e32d9b24b93ed539cdeafc3dfbb69": "2026-11-12T18:19:45.696Z",
+    "8c5378c84696243e5858f490038c785318149064": "2026-11-12T18:19:45.696Z",
+    "cdf71ca07f521ac62821365cf2727600985e53c5": "2026-11-12T18:19:45.696Z",
+    "6ed4c314c99d851fc8dd319ba4a773330de63039": "2026-11-12T18:19:45.696Z",
+    "4340342da1adda64a388bde0a1f3dff803ae54e8": "2026-11-12T18:19:45.696Z",
+    "d47242f6b218a5e243aecb1bbfc3c3b85ee3d6dc": "2026-11-12T18:19:45.696Z",
+    "61290abf2f6518eba2a31b68ddbaa3a8aef1fab7": "2026-11-12T18:19:45.696Z",
+    "614703f03503037b5aa85a2650a0bb5439ee793b": "2026-11-12T18:19:45.696Z",
+    "2b902121458463d7a9f5fcd8bde7a95c5e2cdc47": "2026-11-12T18:19:45.696Z",
+    "58c21d9768303a0105cff384f7e205b5c531075f": "2026-11-12T18:19:45.696Z",
+    "84f2f8a5686541b41d91051e42f0707ed0eaf574": "2026-11-12T18:19:45.696Z",
+    "1e783a5964cca5f38c8389109171010dbb9ee535": "2026-11-12T18:19:45.696Z",
+    "a4cf34158e786982696f2193e85e88d2338c95c5": "2026-11-12T18:19:45.696Z",
+    "3926a66fc6b6534f507a924be0868007cbe596b7": "2026-11-12T18:19:45.696Z",
+    "40f92cb5a270b43e1b4caa482b0ee28c72c43b51": "2026-11-12T18:19:45.696Z",
+    "ab9af79bc08d41e60198421d8a8da757724cb3a2": "2026-11-12T18:19:45.696Z",
+    "c5cabcbbfb51eed0b2181d057c86eaaf0132576a": "2026-11-12T18:19:45.696Z",
+    "59fb4cca7d497c900918d28bc7bad834adaa0604": "2026-11-12T18:19:45.696Z",
+    "f9b7ed69a3c32d5b3d236bb10997e7f36aa1e756": "2026-11-12T18:19:45.696Z",
+    "5193545f5fc99314984435aadece1dd38a2df0b3": "2026-11-12T18:19:45.696Z",
+    "21a43e6436425b0ad9cc43cfdc2e014dc2f06e69": "2026-11-12T18:19:45.696Z",
+    "cfb5d83686fc0a93b14d9e0a31d3a201f6fca972": "2026-11-12T18:19:45.696Z",
+    "e363161a3594d4cbba5f270ac374f85f41a8208f": "2026-11-12T18:19:45.696Z",
+    "1b814898cc32bf8ae26f4bdd532eacecabeb546a": "2026-11-12T18:19:45.696Z",
+    "c5fb4c2274e632ebeeb379dd9f214ad4e13736d2": "2026-11-12T18:19:45.696Z",
+    "3463c7f632ed6884a3e501305c6e9eb3f206b929": "2026-11-12T18:19:45.696Z",
+    "d45b55f50a79ed16dd28c2f35e3c1d05e02c6107": "2026-11-12T18:19:45.696Z",
+    "f34157cb689e98964f6f90af9d2e79085e4f5b81": "2026-11-12T18:19:45.696Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
@@ -617,68 +623,72 @@
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
       "articles": 5
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 3
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 1
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
       "articles": 10
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 7
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 5
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-12T11:12:11.289Z",
+      "dernier_succes": "2026-11-12T18:12:06.368Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 0
     }
   },
   "images_recentes": [
+    {
+      "id": "1e783a5964cca5f38c8389109171010dbb9ee535",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/4/45/Paris_Love_Locks_Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor_P1260510.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "840c98ef5f5ecf58c93efb5aa4063945bf1ff883",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/6/64/Photo_of_Mauritian_Writer_Ananda_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -775,7 +785,8 @@
     "bf4d10d821b824220ce9e3cb505c75652ce619e6": "https://live.staticflickr.com/4077/4775120660_9cf582295c_b.jpg",
     "06f08b4f2b89eafeea67ff37d30d7892cfd706a1": "https://upload.wikimedia.org/wikipedia/commons/9/97/Salon_du_livre_de_Paris_2011_-_Sami_Tchak_-_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "1ab5120121b0eff87d476768854ec4aff3ab3120": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_Baldwin_37_Allan_Warren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "840c98ef5f5ecf58c93efb5aa4063945bf1ff883": "https://upload.wikimedia.org/wikipedia/commons/6/64/Photo_of_Mauritian_Writer_Ananda_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "840c98ef5f5ecf58c93efb5aa4063945bf1ff883": "https://upload.wikimedia.org/wikipedia/commons/6/64/Photo_of_Mauritian_Writer_Ananda_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "1e783a5964cca5f38c8389109171010dbb9ee535": "https://upload.wikimedia.org/wikipedia/commons/4/45/Paris_Love_Locks_Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor_P1260510.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "bf4d10d821b824220ce9e3cb505c75652ce619e6": [

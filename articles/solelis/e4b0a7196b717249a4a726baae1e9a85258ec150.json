@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "e4b0a7196b717249a4a726baae1e9a85258ec150",
+  "slug": "fibre-excellence-usine-de-saint-gaudens-liquidee-environ-300-emplois-e4b0a7",
+  "titre": "Fibre Excellence : l'usine de Saint-Gaudens liquidée, environ 300 emplois supprimés",
+  "chapo": "Dernier site du groupe encore debout, l'usine haut-garonnaise de Fibre Excellence est liquidée faute de repreneur. Les salariés comptent désormais sur un projet de relance qui n'est pas encore prêt.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jeudi 12 novembre, la justice consulaire toulousaine a mis fin à l'activité du site papetier saint-gaudinois, en Haute-Garonne. Aucune offre de reprise n'avait été déposée avant la date limite du 23 octobre. Le groupe, qui fut le premier producteur français de pâte à papier, doit se séparer d'environ 300 personnes, sur le site industriel et au siège de Labège, près de Toulouse.",
+        "Selon Nicolas Bruel, représentant CGT, la plupart des licenciements tomberaient autour du 20 au 25 décembre, une fois passés les délais de notification prévus par la loi. Il déplore un calendrier qui coïncide avec les fêtes."
+      ]
+    },
+    {
+      "intertitre": "Électricité et bois trop chers",
+      "paragraphes": [
+        "Fragilisé par l'envolée du coût de l'énergie et de sa matière première, le bois, Fibre Excellence avait sollicité en avril un redressement judiciaire. Il employait alors 670 personnes dans deux usines, Saint-Gaudens et Tarascon (Bouches-du-Rhône). Le site provençal a été liquidé dès juillet, sans repreneur.",
+        "L'usine haut-garonnaise avait obtenu un sursis grâce au projet du papetier portugais Ghost, épaulé par la Région et par le groupe alsacien Soprema. Mais ce projet n'a pas pris la forme d'une offre ferme dans les temps."
+      ]
+    },
+    {
+      "intertitre": "Un projet chiffré à 200 millions d'euros",
+      "paragraphes": [
+        "Évalué à 200 millions d'euros, le projet de Ghost veut relancer la fabrication de pâte à papier et créer des activités de transformation plus rentables. Des lettres d'intention ont été déposées le 22 octobre, avec la Région et l'État. Une trentaine de salariés resteront sur place pour entretenir les machines afin de permettre un redémarrage.",
+        "Côté gouvernement, Sébastien Martin, chargé de l'Industrie, assure que l'État reste mobilisé et que les échanges continuent avec Ghost. Carole Delga, qui préside la Région Occitanie, parle d'un coup dur, tout en affirmant qu'un espoir demeure."
+      ]
+    },
+    {
+      "intertitre": "L'accompagnement des salariés",
+      "paragraphes": [
+        "Les salariés licenciés pourront signer, pour un an, un CSP (contrat de sécurisation professionnelle) géré par France Travail. Selon la Région, il garantit un revenu proche de l'ancien salaire, des formations et un suivi personnalisé vers un nouvel emploi."
+      ]
+    }
+  ],
+  "mots": 355,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "20 Minutes",
+  "source_url": "https://www.20minutes.fr/economie/4262390-20261112-haute-garonne-usine-pate-papiers-fibre-excellence-bel-bien-liquidee-300-salaries-carreau?at_medium=display&at_campaign=149",
+  "autres_sources": [
+    "https://www.ladepeche.fr/2026/11/12/fibre-excellence-placee-en-liquidation-judiciaire-un-espoir-demeure-un-projet-industriel-serieux-est-en-cours-de-construction-assure-la-presidente-de-13648935.php"
+  ],
+  "publie_le": "2026-11-12T13:14:20.000Z",
+  "redige_le": "2026-11-12T18:19:56.671Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/e4b0a7196b717249a4a726baae1e9a85258ec150.webp",
+    "source": "wikimedia",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Coll%C3%A9giale_Saint-Pierre_et_Saint-Gaudens.jpg",
+    "alt": "Vue de la ville de Saint-Gaudens, en Haute-Garonne",
+    "mots_cles": [
+      "Saint-Gaudens"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

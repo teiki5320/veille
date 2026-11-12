@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "cbc56a48e3a5ba18293ba80b5eb8ac625a78f8f5",
+  "slug": "hydroponie-balle-de-riz-coco-et-sciure-testees-la-place-de-la-laine-de-cbc56a",
+  "titre": "Hydroponie : balle de riz, coco et sciure testées à la place de la laine de roche",
+  "chapo": "Des chercheurs indonésiens montrent que des déchets agricoles, comme la fibre de coco ou la sciure, peuvent remplacer la laine de roche pour faire pousser de la laitue sans terre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'essai a eu lieu de juin à juillet 2023 à Sempaja Selatan, en Indonésie. L'équipe de la chercheuse Eliyani y a cultivé de la laitue avec la technique DFT (Deep Flow Technique) : les racines trempent dans une solution nutritive qui circule en continu. Les résultats viennent d'être publiés dans la revue Jurnal Multidisiplin Madani.",
+        "Quatre substrats ont été comparés : la laine de roche, la plus courante en hydroponie, le charbon de balle de riz, la fibre de coco et la sciure. Chaque matériau a été testé sur 40 plants, répartis en quatre lots de dix."
+      ]
+    },
+    {
+      "intertitre": "Des résultats contrastés",
+      "paragraphes": [
+        "Selon l'analyse statistique, le substrat a nettement joué sur la hauteur des plants, le nombre de feuilles et le poids des laitues. Il n'a pas eu d'effet marqué sur le diamètre de la tige ni sur la surface des feuilles.",
+        "La fibre de coco a donné les laitues les plus lourdes : 148,15 g de poids frais en moyenne et 10,53 g de matière sèche, avec aussi la plus grande surface de feuilles. La sciure a produit les plants les plus hauts, 10,55 cm, et le plus de feuilles, 25,6 par pied. Le charbon de balle de riz a donné les tiges les plus épaisses, 11,7 mm."
+      ]
+    },
+    {
+      "intertitre": "Des déchets agricoles valorisés",
+      "paragraphes": [
+        "Ces trois matériaux sont des résidus de l'agriculture, faciles à trouver. Pour les auteurs, ils peuvent remplacer la laine de roche, même si le meilleur choix dépend de l'objectif : beaucoup de feuilles, des plants hauts ou un gros poids de récolte.",
+        "Leur faible coût et leur disponibilité les rendent surtout intéressants pour les petites cultures à la maison. La laine de roche, elle, est un substrat minéral fabriqué en faisant fondre de la roche volcanique, et elle ne se décompose pas. L'essai n'a duré que deux mois, le temps d'une culture de laitue."
+      ]
+    }
+  ],
+  "mots": 335,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "ID"
+  ],
+  "tags": [
+    "legume:laitue"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9890306/indonesia-how-different-growing-media-affect-the-growth-and-yield-of-lettuce-in-dft-systems/",
+  "publie_le": "2026-11-12T14:37:00.000Z",
+  "redige_le": "2026-11-12T18:19:50.477Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/cbc56a48e3a5ba18293ba80b5eb8ac625a78f8f5.webp",
+    "source": "wikimedia",
+    "credit": "Original: Curved.kiwix Derivative work: Radomianin",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Traditional_worker_with_coconut_rope_(edited).jpg",
+    "alt": "De la fibre de coco, utilisée comme substrat de culture",
+    "mots_cles": [
+      "Coir"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

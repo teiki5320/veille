@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-12T11:18:14.368Z",
+  "genere_le": "2026-11-12T18:19:45.696Z",
   "actus": [
+    {
+      "id": "1e783a5964cca5f38c8389109171010dbb9ee535",
+      "titre": "Senghor raconté en Louisiane : Ndiaga Loum présente sa vision de la Francophonie",
+      "resume": "Fin octobre, le professeur sénégalais Ndiaga Loum, qui occupe au Canada une chaire consacrée à Senghor, a donné une conférence sur le campus de LSU, en Louisiane. Il y a montré comment la pensée de Senghor, résumée par l'enracinement et l'ouverture, parle aussi à l'Amérique du Nord francophone.",
+      "theme": "culture",
+      "pays": [
+        "SN",
+        "US"
+      ],
+      "tags": [
+        "auteur:leopold-sedar-senghor"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/le-prof-ndiaga-loum-enseigne-senghor-aux-etats-unis",
+      "publie_le": "2026-11-12T15:00:30.000Z",
+      "collecte_le": "2026-11-12T18:19:45.696Z",
+      "langue": "fr",
+      "slug": "senghor-raconte-en-louisiane-ndiaga-loum-presente-sa-vision-de-la-1e783a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/1e783a5964cca5f38c8389109171010dbb9ee535.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/1e783a5964cca5f38c8389109171010dbb9ee535.webp",
+        "source": "wikimedia",
+        "credit": "Ermell",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Paris_Love_Locks_Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor_P1260510.jpg",
+        "alt": "Portrait de Léopold Sédar Senghor, poète et premier président du Sénégal",
+        "mots_cles": [
+          "Léopold Sédar Senghor"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "840c98ef5f5ecf58c93efb5aa4063945bf1ff883",
       "titre": "Ananda Devi remporte le prix Jean Giono 2026 avec sa grande fresque mauricienne",

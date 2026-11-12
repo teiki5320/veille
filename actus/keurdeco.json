@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-12T11:18:14.394Z",
+  "genere_le": "2026-11-12T18:19:48.802Z",
   "actus": [
+    {
+      "id": "5602125462d53b2134b14b3056f4a2839d1ac6ed",
+      "titre": "Le Cap : Neri&Hu signe un hôtel Edition en briques, habillé d'artisanat africain",
+      "resume": "Sur le front de mer du Cap, l'hôtel Cape Town Edition dessiné par l'agence Neri&Hu reprend les formes des anciens entrepôts du port. Briques posées à la main, tapis tissés au KwaZulu-Natal, vases zoulous et céramiques sud-africaines composent ses intérieurs.",
+      "theme": "deco",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Design Milk",
+      "source_url": "https://design-milk.com/cape-town-edition-nerihu/",
+      "publie_le": "2026-11-12T14:00:43.000Z",
+      "collecte_le": "2026-11-12T18:19:48.802Z",
+      "langue": "en",
+      "slug": "le-cap-neri-hu-signe-un-hotel-edition-en-briques-habille-artisanat-560212",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/5602125462d53b2134b14b3056f4a2839d1ac6ed.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/5602125462d53b2134b14b3056f4a2839d1ac6ed.webp",
+        "source": "wikimedia",
+        "credit": "Dietmar Rabich",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Waterfront,_Clock_Tower,_Detail_--_2024_--_2911.jpg",
+        "alt": "Vue du V&A Waterfront, le quartier portuaire du Cap, en Afrique du Sud",
+        "mots_cles": [
+          "V&A Waterfront"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a",
       "titre": "Ouganda : BIG dessine une ville durable pour les réfugiés de Bidi Bidi",

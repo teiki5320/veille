@@ -1,8 +1,122 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-12T11:18:22.084Z",
+  "genere_le": "2026-11-12T18:19:50.477Z",
   "actus": [
+    {
+      "id": "e6eccf4f27276ddf056b3ca208f35ad538633ea6",
+      "titre": "Géorgie : des LED de serre qui s'allument selon les besoins réels des plantes",
+      "resume": "À l'université de Géorgie, l'équipe du professeur Rhuanito Ferrarezi teste un éclairage LED piloté par la fluorescence de la chlorophylle. Les lampes ne suivent plus un horaire fixe : elles s'allument quand les plantes manquent de lumière, pour garder le même rendement avec moins d'électricité.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:laitue",
+        "legume:tomate",
+        "legume:concombre"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9890283/uga-researchers-use-plant-signals-to-make-indoor-lighting-more-efficient/",
+      "autres_sources": [
+        "https://fieldreport.caes.uga.edu/news/smart-greenhouse-led-lighting-research/"
+      ],
+      "publie_le": "2026-11-12T14:37:00.000Z",
+      "collecte_le": "2026-11-12T18:19:50.477Z",
+      "langue": "en",
+      "slug": "georgie-des-led-de-serre-qui-allument-selon-les-besoins-reels-des-e6eccf",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/e6eccf4f27276ddf056b3ca208f35ad538633ea6.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/e6eccf4f27276ddf056b3ca208f35ad538633ea6.webp",
+        "source": "wikimedia",
+        "credit": "USFWS",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Chattahoochee_Forest_NFH_University_of_Georgia_Mountain_Research_and_Education_Center_16_November_2021.png",
+        "alt": "Le campus de l'université de Géorgie, aux États-Unis",
+        "mots_cles": [
+          "University of Georgia"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "152958cb810c2e888993b343225509390384a2a5",
+      "titre": "Une serre pour la Lune : le DLR, la NASA et l'agence spatiale canadienne s'associent",
+      "resume": "Le centre aérospatial allemand DLR travaille avec la NASA et l'Agence spatiale canadienne à un module de serre lunaire, le projet LAM-GTD. Un démonstrateur sera d'abord construit sur Terre, avec l'expérience de la serre EDEN ISS, qui a produit environ une tonne de légumes sous LED en Antarctique.",
+      "theme": "culture-interieur",
+      "pays": [
+        "DE",
+        "US",
+        "CA"
+      ],
+      "tags": [
+        "legume:laitue",
+        "legume:tomate",
+        "legume:concombre",
+        "legume:radis",
+        "legume:fraise",
+        "legume:piment"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9892291/dlr-nasa-and-the-csa-are-developing-a-lunar-greenhouse-module-to-grow-food-for-astronauts/",
+      "autres_sources": [
+        "https://www.hortidaily.com/article/9892270/new-lunar-greenhouse-module-to-grow-food-for-astronauts/"
+      ],
+      "publie_le": "2026-11-12T14:37:00.000Z",
+      "collecte_le": "2026-11-12T18:19:50.477Z",
+      "langue": "en",
+      "slug": "une-serre-pour-la-lune-le-dlr-la-nasa-et-agence-spatiale-canadienne-152958",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/152958cb810c2e888993b343225509390384a2a5.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/152958cb810c2e888993b343225509390384a2a5.webp",
+        "source": "wikimedia",
+        "credit": "DLR_de",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Impressionen_aus_der_Antarktis_-_39442404370.jpg",
+        "alt": "La serre de recherche EDEN ISS du centre aérospatial allemand",
+        "mots_cles": [
+          "EDEN ISS"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "cbc56a48e3a5ba18293ba80b5eb8ac625a78f8f5",
+      "titre": "Hydroponie : balle de riz, coco et sciure testées à la place de la laine de roche",
+      "resume": "Une étude menée en Indonésie a comparé quatre substrats pour cultiver de la laitue en hydroponie DFT : laine de roche, charbon de balle de riz, fibre de coco et sciure. La fibre de coco a donné les laitues les plus lourdes, une piste peu coûteuse pour cultiver chez soi.",
+      "theme": "culture-interieur",
+      "pays": [
+        "ID"
+      ],
+      "tags": [
+        "legume:laitue"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9890306/indonesia-how-different-growing-media-affect-the-growth-and-yield-of-lettuce-in-dft-systems/",
+      "publie_le": "2026-11-12T14:37:00.000Z",
+      "collecte_le": "2026-11-12T18:19:50.477Z",
+      "langue": "en",
+      "slug": "hydroponie-balle-de-riz-coco-et-sciure-testees-la-place-de-la-laine-de-cbc56a",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/cbc56a48e3a5ba18293ba80b5eb8ac625a78f8f5.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/cbc56a48e3a5ba18293ba80b5eb8ac625a78f8f5.webp",
+        "source": "wikimedia",
+        "credit": "Original: Curved.kiwix Derivative work: Radomianin",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Traditional_worker_with_coconut_rope_(edited).jpg",
+        "alt": "De la fibre de coco, utilisée comme substrat de culture",
+        "mots_cles": [
+          "Coir"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7f2938896a63d23ef04121be48bf5df30ce78413",
       "titre": "Minnesota : une ferme intérieure de 13,6 millions de dollars pour les micro-pousses",
