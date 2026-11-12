@@ -74,7 +74,7 @@ Pour **chaque site** de `sites/*.json` :
 ```
 
 Règles de rédaction :
-- `titre` : **reformulé**, 90 caractères au plus, informatif, sans putaclic. Le titre original n'est jamais publié.
+- `titre` : **reformulé**, 90 caractères au plus, informatif, sans putaclic. Le titre original n'est jamais publié. **Compte les caractères du titre avant de lancer la publication** (par ex. `node -e 'console.log([..."<titre>"].length)'`) : s'il dépasse 90, raccourcis-le (sans perdre l'information) et recompte, jusqu'à 90 ou moins. Une actu ne doit plus jamais être perdue pour un titre trop long (ex. du 11/11 : aide sécheresse du Lot-et-Garonne sur Solelis, 92 caractères, rejetée).
 - `resume` : 2 à 3 phrases, **380 caractères au plus**, **en français même si la source est en anglais**, ton neutre, les faits seulement, aucune opinion, **rien d'inventé** (seulement ce que disent le titre et la description du candidat, ou l'article lui-même).
 - N'écris **jamais 6 mots consécutifs** du titre ou de la description d'origine (noms propres compris : reformule autour, par ex. « la MansA, Maison des mondes africains » plutôt que de recopier la suite d'origine).
 - `theme` : `foot` pour Keur Foot ; `livres`, `bd` ou `culture` pour Keurbook ; `cuisine` pour Keur Cook ; `culture` pour Keur Bible ; `deco` pour Keur Déco ; `culture-interieur` pour Kultiled ; `entreprises` pour Solelis (liste complète dans le schéma).
