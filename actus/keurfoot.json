@@ -1,8 +1,48 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-11T18:17:06.681Z",
+  "genere_le": "2026-11-12T04:17:15.586Z",
   "actus": [
+    {
+      "id": "ff8da6d80af7123752aadcc9200767e046f0e00d",
+      "titre": "CAN U23 : l'Algérie et la Côte d'Ivoire battues, le Mali en patron, le Sénégal fait nul",
+      "resume": "Lors des matchs aller du deuxième tour qualificatif, l'Algérie a perdu 2-1 en Eswatini et la Côte d'Ivoire 2-1 au Kenya. Le Mali s'est imposé 3-0 au Zimbabwe, tandis que le Sénégal a fait 0-0 au Soudan du Sud. Les retours se jouent les 16 et 17 novembre.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "CI",
+        "ML",
+        "SN"
+      ],
+      "competition": "Éliminatoires CAN U23",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/can-u23-lalgerie-renversee-la-cote-divoire-dominee-le-mali-senvole-le-senegal-indemne",
+      "autres_sources": [
+        "https://africatopsports.com/football/elim-can-u23-la-cote-divoire-perd-face-au-kenya-le-senegal-accroche-par-le-soudan-du-sud-le-mali-etrille-en-deplacement-le-zimbabwe/",
+        "https://africatopsports.com/afrique-football/elim-can-u23-lalgerie-renversee-par-leswatini-pour-son-entree-en-lice/",
+        "https://wiwsport.com/2026/11/11/eliminatoires-can-u23-2027-le-senegal-accroche-par-le-soudan-du-sud-a-juba-0-0/",
+        "https://senego.com/eliminatoires-can-u23-2027-accroches-a-juba-0-0-les-lionceaux-devront-faire-la-difference-a-dakar-video_2022783.html"
+      ],
+      "publie_le": "2026-11-11T16:16:15.000Z",
+      "collecte_le": "2026-11-12T04:17:15.586Z",
+      "langue": "fr",
+      "slug": "can-u23-algerie-et-la-cote-ivoire-battues-le-mali-en-patron-le-senegal-ff8da6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/ff8da6d80af7123752aadcc9200767e046f0e00d.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/ff8da6d80af7123752aadcc9200767e046f0e00d.webp",
+        "source": "wikimedia",
+        "credit": "ZS Khumalo",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Somhlolo_National_Stadium.jpg",
+        "alt": "Le Somhlolo National Stadium, stade national de l'Eswatini à Lobamba",
+        "mots_cles": [
+          "Somhlolo National Stadium"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4a75644da099bab551155aa6e3e4e62ef44246c5",
       "titre": "Premier League : Nicolas Jackson élu joueur d'octobre par les supporters",
@@ -2094,46 +2134,6 @@
         "alt": "La Renaissance sportive de Berkane, club de football marocain qualifié pour la phase de groupes",
         "mots_cles": [
           "Espérance sportive de Tunis"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "021d0208e5d6156ba92b2b6168bfad3f2d943d33",
-      "titre": "Coupe de la CAF : le Raja Casablanca défiera Al Ahly, l'USM Alger retrouve Sfax",
-      "resume": "Le tirage des poules de la deuxième coupe continentale des clubs, édition 2026-2027, place le Raja Casablanca face à Al Ahly. L'USM Alger, tenante du titre, croisera le CS Sfaxien et l'AS Real Bamako. Les premiers matchs auront lieu le 27 novembre.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "EG",
-        "DZ",
-        "ML"
-      ],
-      "competition": "Coupe de la CAF",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/tirage-coupe-de-la-caf-groupe-raja-usma-as-far-crb",
-      "autres_sources": [
-        "https://kawowo.com/2026/10/28/ugandan-players-pitted-in-same-pool-as-caf-confederation-cup-groups-are-drawn/"
-      ],
-      "publie_le": "2026-10-28T11:50:36.000Z",
-      "collecte_le": "2026-10-28T18:21:44.281Z",
-      "langue": "fr",
-      "slug": "coupe-de-la-caf-le-raja-casablanca-defiera-al-ahly-usm-alger-retrouve-021d02",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/021d0208e5d6156ba92b2b6168bfad3f2d943d33.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/021d0208e5d6156ba92b2b6168bfad3f2d943d33.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Maroc) et la mention « Coupe de la CAF »",
-        "mots_cles": [
-          "Raja Club Athletic",
-          "Al Ahly SC",
-          "african football supporters",
-          "football stadium night"
         ],
         "largeur": 1600,
         "hauteur": 900

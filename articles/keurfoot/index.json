@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-11T18:17:06.710Z",
+  "genere_le": "2026-11-12T04:17:19.099Z",
   "articles": [
+    {
+      "id": "ff8da6d80af7123752aadcc9200767e046f0e00d",
+      "slug": "can-u23-algerie-et-la-cote-ivoire-battues-le-mali-en-patron-le-senegal-ff8da6",
+      "titre": "CAN U23 : l'Algérie et la Côte d'Ivoire battues, le Mali en patron, le Sénégal fait nul",
+      "publie_le": "2026-11-11T16:16:15.000Z",
+      "redige_le": "2026-11-12T04:17:15.586Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/ff8da6d80af7123752aadcc9200767e046f0e00d.json"
+    },
     {
       "id": "4a75644da099bab551155aa6e3e4e62ef44246c5",
       "slug": "premier-league-nicolas-jackson-elu-joueur-octobre-par-les-supporters-4a7564",

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "ff8da6d80af7123752aadcc9200767e046f0e00d",
+  "slug": "can-u23-algerie-et-la-cote-ivoire-battues-le-mali-en-patron-le-senegal-ff8da6",
+  "titre": "CAN U23 : l'Algérie et la Côte d'Ivoire battues, le Mali en patron, le Sénégal fait nul",
+  "chapo": "Soirée compliquée pour deux grandes nations : l'Algérie et la Côte d'Ivoire ont chuté à l'extérieur ce mercredi en éliminatoires de la CAN U23. Le Mali a frappé fort et le Sénégal est revenu de Juba avec un point.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ce 11 novembre se jouaient les matchs aller du deuxième tour, l'avant-dernière étape avant la phase finale prévue l'an prochain en Égypte. À Lobamba, dans le stade national Somhlolo d'Eswatini, les Algériens ont pourtant mené à la pause grâce à Gaëtan Bakhouche, joueur de Toulouse.",
+        "Les joueurs entraînés par Rafik Saïfi ont ensuite pris deux buts après le repos, le second sur un coup franc tiré directement. Score final : 2-1 pour l'Eswatini."
+      ]
+    },
+    {
+      "intertitre": "Les Éléphanteaux surpris à Nairobi",
+      "paragraphes": [
+        "La Côte d'Ivoire s'est inclinée sur le même score face au Kenya. Oumar Konaté, du Stade Lavallois, avait remis les deux équipes à égalité à la 74e minute, mais les Kényans ont repris l'avantage six minutes avant la fin.",
+        "Pour passer sans séance de tirs au but, Ivoiriens et Algériens devront l'emporter à domicile par deux buts ou plus. L'Algérie reçoit le 16 novembre à Alger. Elle reste sur une longue absence : sa dernière participation à la CAN U23, tournoi qui ouvre aussi la route des Jeux olympiques, remonte à 2015."
+      ]
+    },
+    {
+      "intertitre": "Le Mali presque au tour suivant",
+      "paragraphes": [
+        "À Harare, le Mali n'a laissé aucune chance au Zimbabwe (0-3). Sidibé, Sissoko et Dembélé ont marqué pour les Aiglons, qui n'auront plus qu'à confirmer à Bamako.",
+        "Le Sénégal, lui, a dû se contenter d'un 0-0 à Juba contre le Soudan du Sud. Les Lionceaux tenteront de faire la différence au retour, le 17 novembre à Dakar, devant leur public."
+      ]
+    },
+    {
+      "intertitre": "La suite du parcours",
+      "paragraphes": [
+        "Les vainqueurs de ces doubles confrontations accéderont au troisième et dernier tour. La CAN U23 réunit les meilleures sélections olympiques du continent et sert de qualification pour les Jeux."
+      ]
+    }
+  ],
+  "mots": 308,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "DZ",
+    "CI",
+    "ML",
+    "SN"
+  ],
+  "competition": "Éliminatoires CAN U23",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/can-u23-lalgerie-renversee-la-cote-divoire-dominee-le-mali-senvole-le-senegal-indemne",
+  "autres_sources": [
+    "https://africatopsports.com/football/elim-can-u23-la-cote-divoire-perd-face-au-kenya-le-senegal-accroche-par-le-soudan-du-sud-le-mali-etrille-en-deplacement-le-zimbabwe/",
+    "https://africatopsports.com/afrique-football/elim-can-u23-lalgerie-renversee-par-leswatini-pour-son-entree-en-lice/",
+    "https://wiwsport.com/2026/11/11/eliminatoires-can-u23-2027-le-senegal-accroche-par-le-soudan-du-sud-a-juba-0-0/",
+    "https://senego.com/eliminatoires-can-u23-2027-accroches-a-juba-0-0-les-lionceaux-devront-faire-la-difference-a-dakar-video_2022783.html"
+  ],
+  "publie_le": "2026-11-11T16:16:15.000Z",
+  "redige_le": "2026-11-12T04:17:15.586Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/ff8da6d80af7123752aadcc9200767e046f0e00d.webp",
+    "source": "wikimedia",
+    "credit": "ZS Khumalo",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Somhlolo_National_Stadium.jpg",
+    "alt": "Le Somhlolo National Stadium, stade national de l'Eswatini à Lobamba",
+    "mots_cles": [
+      "Somhlolo National Stadium"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
