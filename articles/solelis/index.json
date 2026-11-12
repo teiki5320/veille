@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-11T18:16:28.323Z",
+  "genere_le": "2026-11-12T11:18:23.442Z",
   "articles": [
+    {
+      "id": "44babda0b8df685ff61c6aa80029ddb5ddd1a1a8",
+      "slug": "pme-sept-patrons-sur-dix-prets-reporter-ou-annuler-leurs-44babd",
+      "titre": "PME : sept patrons sur dix prêts à reporter ou annuler leurs investissements",
+      "publie_le": "2026-11-12T06:12:01.000Z",
+      "redige_le": "2026-11-12T11:18:22.102Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/44babda0b8df685ff61c6aa80029ddb5ddd1a1a8.json"
+    },
     {
       "id": "f86b2f487c7e1396bac12384cb493404b581918c",
       "slug": "charente-maritime-passes-par-la-sauvegarde-deux-patrons-pressent-leurs-f86b2f",

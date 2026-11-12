@@ -1,8 +1,72 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-11T18:16:21.707Z",
+  "genere_le": "2026-11-12T11:18:14.394Z",
   "actus": [
+    {
+      "id": "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a",
+      "titre": "Ouganda : BIG dessine une ville durable pour les réfugiés de Bidi Bidi",
+      "resume": "L'agence danoise BIG et la plateforme to.org ont présenté « Refugee Cities », un plan pour transformer le camp de Bidi Bidi, dans le nord de l'Ouganda, en véritable ville. Le projet mise sur la brique de terre, la latérite et le bambou.",
+      "theme": "deco",
+      "pays": [
+        "UG"
+      ],
+      "source_nom": "Designboom",
+      "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org/",
+      "autres_sources": [
+        "https://www.wallpaper.com/architecture/bjarke-ingles-group-refugee-cities",
+        "https://www.yankodesign.com/2026/10/31/a-refugee-city-plan-refuses-to-treat-shelter-as-enough/amp/"
+      ],
+      "publie_le": "2026-11-12T10:25:52.000Z",
+      "collecte_le": "2026-11-12T11:18:14.394Z",
+      "langue": "en",
+      "slug": "ouganda-big-dessine-une-ville-durable-pour-les-refugies-de-bidi-bidi-57c2aa",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a.webp",
+        "source": "wikimedia",
+        "credit": "Moses Elly",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Community_service_Hall_Bidi_bidi_refugee_settlement_Zone_1.jpg",
+        "alt": "Le camp de réfugiés de Bidi Bidi, dans le nord de l'Ouganda",
+        "mots_cles": [
+          "Bidi Bidi Refugee Settlement"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "06061332823ed6d519dfa0d15483ba929d0e0ad0",
+      "titre": "Afrique du Sud : dans les Winelands, une boutique Chommies en bois ancien et couleurs",
+      "resume": "La marque sud-africaine Chommies, spécialisée dans les objets pour chiens, a ouvert un nouvel espace à Die Handelshuis, à Simondium. Le lieu mêle bois vieilli, mobilier de ferme et touches de couleur, avec des pièces surtout trouvées sur place.",
+      "theme": "deco",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Visi",
+      "source_url": "https://visi.co.za/off-the-leash-in-the-winelands/",
+      "publie_le": "2026-11-12T04:00:00.000Z",
+      "collecte_le": "2026-11-12T11:18:14.394Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-dans-les-winelands-une-boutique-chommies-en-bois-ancien-060613",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/06061332823ed6d519dfa0d15483ba929d0e0ad0.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/06061332823ed6d519dfa0d15483ba929d0e0ad0.webp",
+        "source": "wikimedia",
+        "credit": "lumoplank",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cape_Winelands_-_Stellenbosch3785.jpg",
+        "alt": "Un paysage des Winelands du Cap, région viticole d'Afrique du Sud",
+        "mots_cles": [
+          "Cape Winelands"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7319fab4085146358198ba94fdd8657f7e81e62b",
       "titre": "Marrakech : à l'Es Saadi, un spa repensé autour d'un eucalyptus centenaire",

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "06061332823ed6d519dfa0d15483ba929d0e0ad0",
+  "slug": "afrique-du-sud-dans-les-winelands-une-boutique-chommies-en-bois-ancien-060613",
+  "titre": "Afrique du Sud : dans les Winelands, une boutique Chommies en bois ancien et couleurs",
+  "chapo": "À Simondium, au cœur des Winelands du Cap, la marque Chommies a aménagé une boutique qui semble avoir toujours été là. Bois patiné, mobilier de ferme et couleurs vives donnent le ton.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Chommies, marque sud-africaine qui crée des accessoires pour chiens, a ouvert un troisième lieu. Il se trouve à Die Handelshuis, un ancien point de rencontre de Simondium devenu un espace de commerces et de loisirs, entouré de jardins, dans la province du Cap-Occidental.",
+        "La marque possédait déjà une adresse en ville, rue Hatfield au Cap, et un stand au marché de la ferme urbaine d'Oranjezicht. Pour Nathalie, sa fondatrice, la nouvelle adresse devait s'accorder avec l'esprit rural des Winelands."
+      ]
+    },
+    {
+      "intertitre": "Respecter le lieu",
+      "paragraphes": [
+        "L'équipe a d'abord étudié l'architecture du site et ses jardins. La boutique a ensuite été construite en bois vieilli, avec des ferrures de style agricole, pour se fondre dans le décor existant.",
+        "L'intérieur reste sobre afin de laisser la place aux objets et au travail de fabrication. Des cadres anciens ont été chinés puis garnis de reproductions de peintures de chiens, tirées des collections libres du Rijksmuseum d'Amsterdam."
+      ]
+    },
+    {
+      "intertitre": "Un travail d'équipe et de voisinage",
+      "paragraphes": [
+        "Le projet a été mené par Devon Bräsler, responsable du design, avec Natasha Kurten et Gideon, le frère de la fondatrice, menuisier. Ils ont travaillé avec Danie Steenkamp, architecte paysagiste et propriétaire de Die Handelshuis.",
+        "Le choix des meubles a privilégié la simplicité et le caractère. La plupart des pièces viennent de la région, et certaines ont été trouvées auprès des commerces voisins."
+      ]
+    },
+    {
+      "intertitre": "Un lieu ouvert aux chiens",
+      "paragraphes": [
+        "Pour le propriétaire, il manquait des chiens dans ce lieu pensé pour les entreprises locales. La boutique invite les promeneurs et leurs compagnons à prendre leur temps, entre la couleur propre à la marque et le charme ancien des Winelands. Le lieu montre qu'une enseigne peut garder son identité tout en épousant le patrimoine d'une région."
+      ]
+    }
+  ],
+  "mots": 312,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "Visi",
+  "source_url": "https://visi.co.za/off-the-leash-in-the-winelands/",
+  "publie_le": "2026-11-12T04:00:00.000Z",
+  "redige_le": "2026-11-12T11:18:14.394Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/06061332823ed6d519dfa0d15483ba929d0e0ad0.webp",
+    "source": "wikimedia",
+    "credit": "lumoplank",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cape_Winelands_-_Stellenbosch3785.jpg",
+    "alt": "Un paysage des Winelands du Cap, région viticole d'Afrique du Sud",
+    "mots_cles": [
+      "Cape Winelands"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

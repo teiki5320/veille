@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-11T18:16:28.312Z",
+  "genere_le": "2026-11-12T11:18:22.102Z",
   "actus": [
+    {
+      "id": "44babda0b8df685ff61c6aa80029ddb5ddd1a1a8",
+      "titre": "PME : sept patrons sur dix prêts à reporter ou annuler leurs investissements",
+      "resume": "Selon le baromètre Bpifrance Le Lab et Rexecode du 4e trimestre, 70 % des dirigeants de PME qui avaient un projet d'investissement pensent le reporter ou l'abandonner. L'incertitude politique est citée comme la principale cause.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/l-impact-de-l-incertitude-politique-depasse-desormais-celui-du-covid-les-tpe-pme-suspendent-ou-annulent-en-masse-leurs-projets-d-investissement_AD-202611120182.html",
+      "publie_le": "2026-11-12T06:12:01.000Z",
+      "collecte_le": "2026-11-12T11:18:22.102Z",
+      "langue": "fr",
+      "slug": "pme-sept-patrons-sur-dix-prets-reporter-ou-annuler-leurs-44babd",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/44babda0b8df685ff61c6aa80029ddb5ddd1a1a8.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/44babda0b8df685ff61c6aa80029ddb5ddd1a1a8.webp",
+        "source": "wikimedia",
+        "credit": "Benoît Prieur",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bpifrance_%C3%A0_Bourg-en-Bresse_(f%C3%A9vrier_2023).JPG",
+        "alt": "Le logo ou le siège de Bpifrance, la banque publique d'investissement",
+        "mots_cles": [
+          "Bpifrance"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f86b2f487c7e1396bac12384cb493404b581918c",
       "titre": "Charente-Maritime : passés par la sauvegarde, deux patrons pressent leurs pairs d'agir tôt",

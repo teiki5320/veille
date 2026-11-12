@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "44babda0b8df685ff61c6aa80029ddb5ddd1a1a8",
+  "slug": "pme-sept-patrons-sur-dix-prets-reporter-ou-annuler-leurs-44babd",
+  "titre": "PME : sept patrons sur dix prêts à reporter ou annuler leurs investissements",
+  "chapo": "Les dirigeants de petites et moyennes entreprises freinent fortement leurs projets. Le dernier baromètre de Bpifrance montre que l'incertitude politique pèse désormais plus que la crise sanitaire.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Bpifrance Le Lab et l'institut Rexecode ont publié jeudi 12 novembre leur baromètre trimestriel des PME. L'enquête a été menée du 12 au 23 octobre sur un panel d'un peu plus de 1 030 chefs d'entreprise.",
+        "Parmi ceux qui avaient un projet d'investissement, 70 % pensent le décaler (36 %) ou y renoncer (34 %). Ils étaient 59 % au trimestre précédent."
+      ]
+    },
+    {
+      "intertitre": "Une inquiétude record",
+      "paragraphes": [
+        "Presque tous les dirigeants interrogés, 94 %, craignent que l'incertitude politique touche leur activité. Pour 65 % d'entre eux, l'effet sera fort, soit huit points de plus en trois mois. C'est le niveau le plus haut depuis la dissolution de juin 2024.",
+        "Cette part monte à 71 % chez les patrons interrogés après les manifestations du 17 octobre. Pour le directeur des études de Bpifrance, Philippe Mutricy, l'effet sur les investissements dépasse maintenant celui du Covid."
+      ]
+    },
+    {
+      "intertitre": "Embauches et trésorerie sous pression",
+      "paragraphes": [
+        "Les recrutements sont aussi touchés : 31 % des dirigeants pensent annuler une embauche prévue, un record depuis 2020. Le manque de clients reste le premier frein, cité par 68 % des patrons.",
+        "La trésorerie se dégrade, notamment sous l'effet des coûts qui grimpent avec la guerre au Moyen-Orient. Parmi ceux qui veulent encore investir, 42 % comptent réduire les montants, et seuls 15 % veulent les augmenter. Les dépenses servent surtout à remplacer ou moderniser du matériel, moins à se développer."
+      ]
+    },
+    {
+      "intertitre": "Le coût du crédit en ligne de mire",
+      "paragraphes": [
+        "Enfin, 57 % des dirigeants redoutent que la remontée du coût de la dette publique renchérisse leurs propres crédits ou rende leur accès plus difficile. Pour une petite entreprise qui doute, il peut être utile d'en parler tôt avec sa banque ou avec la Médiation du crédit."
+      ]
+    }
+  ],
+  "mots": 310,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/l-impact-de-l-incertitude-politique-depasse-desormais-celui-du-covid-les-tpe-pme-suspendent-ou-annulent-en-masse-leurs-projets-d-investissement_AD-202611120182.html",
+  "publie_le": "2026-11-12T06:12:01.000Z",
+  "redige_le": "2026-11-12T11:18:22.102Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/44babda0b8df685ff61c6aa80029ddb5ddd1a1a8.webp",
+    "source": "wikimedia",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bpifrance_%C3%A0_Bourg-en-Bresse_(f%C3%A9vrier_2023).JPG",
+    "alt": "Le logo ou le siège de Bpifrance, la banque publique d'investissement",
+    "mots_cles": [
+      "Bpifrance"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

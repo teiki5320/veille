@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "45934e7360bc0e3d18d071ae6c71326ae154c9e7",
+  "slug": "soudan-la-grande-cathedrale-de-vieux-dongola-livre-de-nouveaux-secrets-45934e",
+  "titre": "Soudan : la grande cathédrale de Vieux Dongola livre de nouveaux secrets",
+  "chapo": "Au nord du Soudan, la grande église de Jésus de Vieux Dongola se dévoile un peu plus. Les dernières fouilles confirment sa taille hors norme pour la Nubie chrétienne.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les archéologues polonais de Varsovie, spécialistes du monde méditerranéen, ont présenté le 6 novembre 2026 les résultats de nouvelles fouilles menées avec des chercheurs soudanais. Elles portent sur la grande église de Jésus, repérée en 2021 à Vieux Dongola, dans le nord du Soudan.",
+        "Ce bâtiment est la plus grande cathédrale connue de la Nubie médiévale. Il mesure 57 mètres de long, 47 mètres de large et s'élève à 21 mètres."
+      ]
+    },
+    {
+      "intertitre": "Un escalier, des contreforts et le sol d'origine",
+      "paragraphes": [
+        "Les archéologues ont dégagé un vaste escalier qui menait à l'intérieur de l'église. Ils ont aussi mis au jour des contreforts qui renforçaient l'abside, la partie arrondie située au fond du chœur.",
+        "Pour la première fois, l'équipe a atteint le niveau du sol tel qu'il était à l'origine. L'édifice était entièrement recouvert de terre, ce qui l'a protégé et explique son excellent état. Le chef des fouilles, Artur Obłuski, estime que cette église pourrait devenir un monument de référence pour l'architecture nubienne."
+      ]
+    },
+    {
+      "intertitre": "La capitale d'un royaume chrétien du Nil",
+      "paragraphes": [
+        "Vieux Dongola était la capitale de Makourie, un royaume chrétien de Nubie. Son territoire suivait le Nil, du nord de l'actuel Soudan jusqu'au sud de l'Égypte. Il a connu son essor entre le Ve et le XVe siècle.",
+        "Le christianisme s'est implanté en Nubie au VIe siècle. Les églises de la région étaient décorées de peintures murales, dont beaucoup sont aujourd'hui conservées dans des musées."
+      ]
+    },
+    {
+      "intertitre": "Des fouilles appelées à continuer",
+      "paragraphes": [
+        "Khalid Ali, qui dirige la Culture au Soudan, met en avant dans un texte officiel l'importance de Dongola parmi les grands foyers de civilisation de la vallée du Nil. Il annonce la poursuite des travaux sur le site, avec la participation des habitants de la région pour protéger ce patrimoine."
+      ]
+    }
+  ],
+  "mots": 317,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "SD"
+  ],
+  "source_nom": "RFI",
+  "source_url": "https://www.rfi.fr/fr/science/20261112-soudan-une-cath%C3%A9drale-enfouie-de-la-nubie-m%C3%A9di%C3%A9vale-r%C3%A9v%C3%A8le-son-architecture-monumentale",
+  "publie_le": "2026-11-12T04:01:00.000Z",
+  "redige_le": "2026-11-12T11:18:11.849Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/45934e7360bc0e3d18d071ae6c71326ae154c9e7.webp",
+    "source": "wikimedia",
+    "credit": "Tanjagari",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:IMGP7495-2.jpg",
+    "alt": "Les vestiges de Vieux Dongola, ancienne capitale du royaume de Makourie, au Soudan",
+    "mots_cles": [
+      "Old Dongola"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

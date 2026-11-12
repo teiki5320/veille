@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a",
+  "slug": "ouganda-big-dessine-une-ville-durable-pour-les-refugies-de-bidi-bidi-57c2aa",
+  "titre": "Ouganda : BIG dessine une ville durable pour les réfugiés de Bidi Bidi",
+  "chapo": "Et si un camp de réfugiés devenait une ville ? C'est le pari de l'agence BIG pour Bidi Bidi, en Ouganda, avec un plan pensé sur plusieurs décennies et des matériaux locaux.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'agence d'architecture BIG, fondée par le Danois Bjarke Ingels, et la plateforme to.org ont dévoilé fin octobre 2026 le projet « Refugee Cities ». Il prend pour premier terrain Bidi Bidi, l'un des plus grands camps de réfugiés d'Afrique, situé dans le nord de l'Ouganda.",
+        "Le point de départ est simple : un séjour dans un camp dure en moyenne une vingtaine d'années. Pour Bjarke Ingels, parler d'hébergement provisoire n'a donc plus de sens, et il faut penser en termes de ville."
+      ]
+    },
+    {
+      "intertitre": "De la cour familiale au quartier",
+      "paragraphes": [
+        "Le plan grandit par étapes. Six parcelles familiales s'organisent autour d'une cour commune, puis forment des groupes, des quartiers et enfin des districts. Au centre, des équipements partagés sont prévus : marché, espace de travail, atelier d'artisanat, terrain de football, centre de santé, jardin et lieux de formation.",
+        "Côté matériaux, BIG s'appuie sur la brique de terre séchée au soleil, la pierre de latérite et le bambou, des ressources de la région. Le projet cherche aussi une bonne ventilation, une protection contre la pluie et les moustiques, et une alimentation par panneaux solaires."
+      ]
+    },
+    {
+      "intertitre": "Un financement par l'investissement",
+      "paragraphes": [
+        "Plutôt que de compter sur les dons, les porteurs du projet veulent attirer des investisseurs. Des zones d'activité, tournées vers la fabrication et l'agriculture, doivent créer des emplois et des revenus sur le long terme. Cela suppose que les pays d'accueil accordent aux réfugiés le droit de travailler.",
+        "La plateforme to.org est déjà à l'origine du centre des arts du spectacle de Bidi Bidi, distingué en 2026 par l'Institut royal des architectes britanniques."
+      ]
+    },
+    {
+      "intertitre": "Un premier prototype",
+      "paragraphes": [
+        "Le projet reste au stade des études. Une première étape est lancée : la construction d'une maison familiale modèle, à côté du centre des arts du spectacle, pour tester le principe sur place."
+      ]
+    }
+  ],
+  "mots": 326,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "UG"
+  ],
+  "source_nom": "Designboom",
+  "source_url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-future-temporary-shelter-uganda-bidi-bidi-refugees-to-org/",
+  "autres_sources": [
+    "https://www.wallpaper.com/architecture/bjarke-ingles-group-refugee-cities",
+    "https://www.yankodesign.com/2026/10/31/a-refugee-city-plan-refuses-to-treat-shelter-as-enough/amp/"
+  ],
+  "publie_le": "2026-11-12T10:25:52.000Z",
+  "redige_le": "2026-11-12T11:18:14.394Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a.webp",
+    "source": "wikimedia",
+    "credit": "Moses Elly",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Community_service_Hall_Bidi_bidi_refugee_settlement_Zone_1.jpg",
+    "alt": "Le camp de réfugiés de Bidi Bidi, dans le nord de l'Ouganda",
+    "mots_cles": [
+      "Bidi Bidi Refugee Settlement"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

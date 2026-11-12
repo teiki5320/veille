@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-11T18:16:19.938Z",
+  "genere_le": "2026-11-12T11:18:11.849Z",
   "actus": [
+    {
+      "id": "45934e7360bc0e3d18d071ae6c71326ae154c9e7",
+      "titre": "Soudan : la grande cathédrale de Vieux Dongola livre de nouveaux secrets",
+      "resume": "Des archéologues soudanais et polonais ont dégagé un escalier monumental, des contreforts et le sol d'origine d'un immense lieu de culte, à Vieux Dongola. Cet édifice est la plus vaste cathédrale connue de la Nubie chrétienne médiévale.",
+      "theme": "culture",
+      "pays": [
+        "SD"
+      ],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/science/20261112-soudan-une-cath%C3%A9drale-enfouie-de-la-nubie-m%C3%A9di%C3%A9vale-r%C3%A9v%C3%A8le-son-architecture-monumentale",
+      "publie_le": "2026-11-12T04:01:00.000Z",
+      "collecte_le": "2026-11-12T11:18:11.849Z",
+      "langue": "fr",
+      "slug": "soudan-la-grande-cathedrale-de-vieux-dongola-livre-de-nouveaux-secrets-45934e",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/45934e7360bc0e3d18d071ae6c71326ae154c9e7.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/45934e7360bc0e3d18d071ae6c71326ae154c9e7.webp",
+        "source": "wikimedia",
+        "credit": "Tanjagari",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:IMGP7495-2.jpg",
+        "alt": "Les vestiges de Vieux Dongola, ancienne capitale du royaume de Makourie, au Soudan",
+        "mots_cles": [
+          "Old Dongola"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "5246558dc8321fb52d388fc5b9b04e3fc626d573",
       "titre": "Lesotho : les évêques veulent mieux accompagner les couples et les familles",

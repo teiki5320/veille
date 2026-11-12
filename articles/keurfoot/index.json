@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-12T04:17:19.099Z",
+  "genere_le": "2026-11-12T11:18:22.083Z",
   "articles": [
+    {
+      "id": "6058bf941a3b651c135faeaff078809e6d2ab969",
+      "slug": "mondial-u17-le-senegal-laisse-souleymane-faye-de-cote-apres-son-essai-6058bf",
+      "titre": "Mondial U17 : le Sénégal laisse Souleymane Faye de côté après son essai à Chelsea",
+      "publie_le": "2026-11-11T21:23:17.000Z",
+      "redige_le": "2026-11-12T11:18:17.657Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/6058bf941a3b651c135faeaff078809e6d2ab969.json"
+    },
+    {
+      "id": "77407df9cc071dd9316e98b52785edf2d600f38e",
+      "slug": "cedric-bakambu-quitte-san-diego-et-porte-plainte-pour-discrimination-77407d",
+      "titre": "Cédric Bakambu quitte San Diego et porte plainte pour discrimination au logement",
+      "publie_le": "2026-11-11T19:05:28.000Z",
+      "redige_le": "2026-11-12T11:18:17.657Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/77407df9cc071dd9316e98b52785edf2d600f38e.json"
+    },
+    {
+      "id": "edea951dc76ff1c4c710c1416142e5bef51aa3d2",
+      "slug": "ligue-des-champions-feminine-caf-mamelodi-sundowns-en-finale-contre-as-edea95",
+      "titre": "Ligue des champions féminine CAF : Mamelodi Sundowns en finale contre l'AS FAR",
+      "publie_le": "2026-11-11T19:03:00.000Z",
+      "redige_le": "2026-11-12T11:18:17.657Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/edea951dc76ff1c4c710c1416142e5bef51aa3d2.json"
+    },
     {
       "id": "ff8da6d80af7123752aadcc9200767e046f0e00d",
       "slug": "can-u23-algerie-et-la-cote-ivoire-battues-le-mali-en-patron-le-senegal-ff8da6",

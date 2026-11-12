@@ -1,8 +1,108 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-12T04:17:15.586Z",
+  "genere_le": "2026-11-12T11:18:17.657Z",
   "actus": [
+    {
+      "id": "6058bf941a3b651c135faeaff078809e6d2ab969",
+      "titre": "Mondial U17 : le Sénégal laisse Souleymane Faye de côté après son essai à Chelsea",
+      "resume": "Meilleur joueur du dernier tournoi UFOA A, Souleymane « Commissaire » Faye ne figure pas parmi les 21 Lionceaux retenus pour le Mondial U17 au Qatar. Son agent relie cette absence à un séjour de tests à Chelsea et met en cause le sélectionneur Lamine Sané.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Coupe du monde U17",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u17-le-senegal-se-prive-de-sa-star-souleymane-commissaire-faye-son-agent-balance-tout",
+      "autres_sources": [
+        "https://senego.com/souleymane-faye-ecarte-du-mondial-u17-son-agent-evoque-un-probleme-dego_2022936.html",
+        "https://wiwsport.com/2026/11/11/il-na-jamais-ete-probleme-de-discipline-cest-juste-un-probleme-dego-souleymane-commissaire-faye-les-raisons-dune-surprenante-mise-a-lecart/"
+      ],
+      "publie_le": "2026-11-11T21:23:17.000Z",
+      "collecte_le": "2026-11-12T11:18:17.657Z",
+      "langue": "fr",
+      "slug": "mondial-u17-le-senegal-laisse-souleymane-faye-de-cote-apres-son-essai-6058bf",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/6058bf941a3b651c135faeaff078809e6d2ab969.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/6058bf941a3b651c135faeaff078809e6d2ab969.webp",
+        "source": "wikimedia",
+        "credit": "У джерелі не вказаний автор",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:FC_Semenivka_v_Senegal_under-21_football_team_(2016-05-20)_17.jpg",
+        "alt": "Des jeunes joueurs de la sélection du Sénégal des moins de 17 ans",
+        "mots_cles": [
+          "Senegal national under-17 football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "77407df9cc071dd9316e98b52785edf2d600f38e",
+      "titre": "Cédric Bakambu quitte San Diego et porte plainte pour discrimination au logement",
+      "resume": "Neuf matches seulement après son arrivée, l'attaquant congolais Cédric Bakambu a déjà quitté San Diego, en MLS. Selon ESPN, sa famille n'a pas pu louer de maison en Californie à cause de ses enfants, et il a saisi un tribunal fédéral.",
+      "theme": "foot",
+      "pays": [
+        "CD",
+        "US"
+      ],
+      "competition": "MLS",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a4760991511047855546-lincroyable-mesaventure-qui-a-pousse-cedric-bakambu-a-quitter-san-diego-apres-9-matches",
+      "publie_le": "2026-11-11T19:05:28.000Z",
+      "collecte_le": "2026-11-12T11:18:17.657Z",
+      "langue": "fr",
+      "slug": "cedric-bakambu-quitte-san-diego-et-porte-plainte-pour-discrimination-77407d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/77407df9cc071dd9316e98b52785edf2d600f38e.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/77407df9cc071dd9316e98b52785edf2d600f38e.webp",
+        "source": "wikimedia",
+        "credit": "MONUSCO Photos",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:C%C3%A9dric_Bakambu_2016_(cropped).jpg",
+        "alt": "Cédric Bakambu, attaquant international de la RD Congo",
+        "mots_cles": [
+          "Cédric Bakambu"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "edea951dc76ff1c4c710c1416142e5bef51aa3d2",
+      "titre": "Ligue des champions féminine CAF : Mamelodi Sundowns en finale contre l'AS FAR",
+      "resume": "En demi-finale à Ismaïlia, en Égypte, les Sud-Africaines de Mamelodi Sundowns ont battu les Ougandaises de Kawempe Muslim 4-1. Elles affronteront dimanche en finale l'AS FAR de Rabat, tenante du titre.",
+      "theme": "foot",
+      "pays": [
+        "ZA",
+        "MA",
+        "UG"
+      ],
+      "competition": "Ligue des champions féminine CAF",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/11/caf-womens-champions-league-mamelodi-sundowns-overpower-kawempe-muslim-to-reach-final/",
+      "publie_le": "2026-11-11T19:03:00.000Z",
+      "collecte_le": "2026-11-12T11:18:17.657Z",
+      "langue": "en",
+      "slug": "ligue-des-champions-feminine-caf-mamelodi-sundowns-en-finale-contre-as-edea95",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/edea951dc76ff1c4c710c1416142e5bef51aa3d2.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/edea951dc76ff1c4c710c1416142e5bef51aa3d2.webp",
+        "source": "wikimedia",
+        "credit": "Alche Greeff/BackpagePix",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mamelodi_Sundowns_Ladies_celebrate_win.jpg",
+        "alt": "Les joueuses de Mamelodi Sundowns, club sud-africain de football féminin",
+        "mots_cles": [
+          "Mamelodi Sundowns Ladies"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ff8da6d80af7123752aadcc9200767e046f0e00d",
       "titre": "CAN U23 : l'Algérie et la Côte d'Ivoire battues, le Mali en patron, le Sénégal fait nul",
@@ -2023,117 +2123,6 @@
         "alt": "Un grand stade de football au Maroc, pays coorganisateur du Mondial 2030",
         "mots_cles": [
           "Prince Moulay Abdellah Stadium"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "2350b9ea76f3d902c5efe7ff3e9c9faa128710d0",
-      "titre": "CAN 2027 : le Bayern et l'Ajax inaugureront le nouveau stade de Nairobi en janvier",
-      "resume": "Le président kényan William Ruto a annoncé un match amical entre le club allemand du Bayern et l'Ajax d'Amsterdam le 5 janvier 2027 pour ouvrir le Raila Odinga International Stadium, à Nairobi. Cette enceinte de 60 000 places doit servir pendant la CAN 2027.",
-      "theme": "foot",
-      "pays": [
-        "KE"
-      ],
-      "competition": "CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/un-stade-de-la-can-2027-inaugure-par-un-match-du-bayern-avec-kane-et-olise",
-      "publie_le": "2026-10-28T17:00:00.000Z",
-      "collecte_le": "2026-10-28T18:21:44.281Z",
-      "langue": "fr",
-      "slug": "can-2027-le-bayern-et-ajax-inaugureront-le-nouveau-stade-de-nairobi-en-2350b9",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2350b9ea76f3d902c5efe7ff3e9c9faa128710d0.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/2350b9ea76f3d902c5efe7ff3e9c9faa128710d0.webp",
-        "source": "wikimedia",
-        "credit": "Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg : Jorge Láscar from Bogotá, Colombia derivative work: Snowmanradio…",
-        "licence": "CC BY-SA 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8-4c.jpg",
-        "alt": "Vue de Nairobi, capitale du Kenya",
-        "mots_cles": [
-          "Nairobi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "87756a263f70d609d670a446795c43818ab7d637",
-      "titre": "Mondial U15 : l'Algérie sortie par la Guinée, le Maroc élimine le Cameroun",
-      "resume": "À Bakou, pour le premier tour à élimination directe du Mondial U15, la Guinée a sorti l'Algérie après une séance de penalties (0-0) et le Maroc a battu le Cameroun 4-1. Le Mali, la Côte d'Ivoire et la Tunisie poursuivent aussi leur route.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "GN",
-        "DZ",
-        "CM"
-      ],
-      "competition": "Coupe du monde U15",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u15-lalgerie-eliminee-aux-tirs-au-but-le-maroc-ecrase-le-cameroun",
-      "autres_sources": [
-        "https://www.camfoot.com/actualites/mondial-u15-le-cameroun-elimine-par-le-maroc-4-1,559084.html"
-      ],
-      "publie_le": "2026-10-28T12:54:11.000Z",
-      "collecte_le": "2026-10-28T18:21:44.281Z",
-      "langue": "fr",
-      "slug": "mondial-u15-algerie-sortie-par-la-guinee-le-maroc-elimine-le-cameroun-87756a",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/87756a263f70d609d670a446795c43818ab7d637.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/87756a263f70d609d670a446795c43818ab7d637.webp",
-        "source": "wikimedia",
-        "credit": "Diego Delso",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_138.jpg",
-        "alt": "Vue de Bakou, capitale de l'Azerbaïdjan, qui accueille le Mondial U15",
-        "mots_cles": [
-          "Baku"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "5b0db5fb5b1b2d2fa731366001f8702493bb60f4",
-      "titre": "Ligue des champions CAF : Berkane, l'Espérance et le MC Alger connaissent leurs groupes",
-      "resume": "La CAF a tiré au sort au Caire les quatre poules de la C1 africaine pour la saison 2026-2027. Sans les Mamelodi Sundowns ni le TP Mazembe, sortis en préliminaires, l'épreuve reprend le 27 novembre avec Pyramids, le Zamalek, Berkane et l'Espérance parmi les favoris.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "TN",
-        "DZ",
-        "EG",
-        "CM"
-      ],
-      "competition": "Ligue des champions CAF",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/ligue-des-champions-caf-tirage-corse-pour-le-mc-alger-un-long-periple-attend-berkane-et-lesperance",
-      "autres_sources": [
-        "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/20261028-retour-sur-le-tirage-au-sort-de-la-phase-de-groupes-de-la-ligue-des-champions-caf",
-        "https://www.camfoot.com/actualites/ldc-caf-colombe-du-dja-et-lobo-herite-dun-groupe-complique,559078.html",
-        "https://africatopsports.com/caf/ligue-des-champions-caf-la-colombe-sportive-du-sud-la-grosse-surprise/",
-        "https://africatopsports.com/football/ligue-des-champions-caf-sundowns-al-ahly-mazembe-absents-les-geants-ne-font-plus-la-loi/",
-        "https://www.camfoot.com/actualites/ldc-caf-le-message-poignant-dachille-emana-a-colombe,559071.html",
-        "https://www.camfoot.com/actualites/la-caf-honore-achille-emana,559065.html"
-      ],
-      "publie_le": "2026-10-28T12:50:03.000Z",
-      "collecte_le": "2026-10-28T18:21:44.281Z",
-      "langue": "fr",
-      "slug": "ligue-des-champions-caf-berkane-esperance-et-le-mc-alger-connaissent-5b0db5",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5b0db5fb5b1b2d2fa731366001f8702493bb60f4.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/5b0db5fb5b1b2d2fa731366001f8702493bb60f4.webp",
-        "source": "wikimedia",
-        "credit": "Credits to Mourad Ben Abdallah / Wikimedia Commons",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Esperance_Tunis_Building.JPG",
-        "alt": "La Renaissance sportive de Berkane, club de football marocain qualifié pour la phase de groupes",
-        "mots_cles": [
-          "Espérance sportive de Tunis"
         ],
         "largeur": 1600,
         "hauteur": 900

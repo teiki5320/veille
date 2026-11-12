@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-11T18:16:23.190Z",
+  "genere_le": "2026-11-12T11:18:17.639Z",
   "articles": [
+    {
+      "id": "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a",
+      "slug": "ouganda-big-dessine-une-ville-durable-pour-les-refugies-de-bidi-bidi-57c2aa",
+      "titre": "Ouganda : BIG dessine une ville durable pour les réfugiés de Bidi Bidi",
+      "publie_le": "2026-11-12T10:25:52.000Z",
+      "redige_le": "2026-11-12T11:18:14.394Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a.json"
+    },
+    {
+      "id": "06061332823ed6d519dfa0d15483ba929d0e0ad0",
+      "slug": "afrique-du-sud-dans-les-winelands-une-boutique-chommies-en-bois-ancien-060613",
+      "titre": "Afrique du Sud : dans les Winelands, une boutique Chommies en bois ancien et couleurs",
+      "publie_le": "2026-11-12T04:00:00.000Z",
+      "redige_le": "2026-11-12T11:18:14.394Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/06061332823ed6d519dfa0d15483ba929d0e0ad0.json"
+    },
     {
       "id": "7319fab4085146358198ba94fdd8657f7e81e62b",
       "slug": "marrakech-es-saadi-un-spa-repense-autour-un-eucalyptus-centenaire-7319fa",

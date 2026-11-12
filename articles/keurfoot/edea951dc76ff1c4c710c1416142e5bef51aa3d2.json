@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "edea951dc76ff1c4c710c1416142e5bef51aa3d2",
+  "slug": "ligue-des-champions-feminine-caf-mamelodi-sundowns-en-finale-contre-as-edea95",
+  "titre": "Ligue des champions féminine CAF : Mamelodi Sundowns en finale contre l'AS FAR",
+  "chapo": "Mamelodi Sundowns jouera la finale de la Ligue des champions féminine de la CAF. Le club sud-africain a dominé Kawempe Muslim 4-1 et retrouvera l'AS FAR dimanche.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La demi-finale s'est jouée mercredi 11 novembre au stade de l'Autorité du canal de Suez, à Ismaïlia, en Égypte. Les Sud-Africaines de Mamelodi Sundowns, déjà sacrées deux fois dans cette compétition, ont pris le dessus sur le club ougandais de Kawempe Muslim sur le score de 4 buts à 1.",
+        "Le match a été plié avant la pause. Ronnel Donnelly a inscrit un triplé en première période, puis Noxolo Cesane a porté le score à 4-0 avant le retour aux vestiaires."
+      ]
+    },
+    {
+      "intertitre": "Kawempe Muslim sauve l'honneur",
+      "paragraphes": [
+        "Pour sa première participation, Kawempe Muslim avait créé la surprise en atteignant le dernier carré. En seconde période, Latifa Nakasi a réduit l'écart pour les Ougandaises.",
+        "Elle a cru marquer un second but dans le temps additionnel, mais l'arbitrage vidéo l'a annulé pour une faute d'Anita Namata au début de l'action. Entrée en jeu, Namata a ensuite reçu un second carton jaune. Kawempe a terminé la rencontre à dix."
+      ]
+    },
+    {
+      "intertitre": "Une finale face à la tenante du titre",
+      "paragraphes": [
+        "En finale, dimanche, Mamelodi Sundowns défiera l'AS FAR, le club de Rabat qui détient le titre. Les Marocaines se sont qualifiées en battant les Camerounaises de Lekié dans l'autre demi-finale.",
+        "Ce duel met face à face deux des clubs les plus réguliers du football féminin africain. Les Sud-Africaines visent une troisième couronne continentale, les Marocaines veulent conserver leur trophée."
+      ]
+    },
+    {
+      "intertitre": "Un match pour la troisième place",
+      "paragraphes": [
+        "Avant la finale, Kawempe Muslim et Lekié se retrouveront samedi pour le match de classement. Une belle façon de conclure un parcours inattendu pour le club ougandais, qui disputait cette compétition continentale pour la toute première fois. Pour les deux équipes, une médaille de bronze reste en jeu."
+      ]
+    }
+  ],
+  "mots": 302,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "ZA",
+    "MA",
+    "UG"
+  ],
+  "competition": "Ligue des champions féminine CAF",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/11/11/caf-womens-champions-league-mamelodi-sundowns-overpower-kawempe-muslim-to-reach-final/",
+  "publie_le": "2026-11-11T19:03:00.000Z",
+  "redige_le": "2026-11-12T11:18:17.657Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/edea951dc76ff1c4c710c1416142e5bef51aa3d2.webp",
+    "source": "wikimedia",
+    "credit": "Alche Greeff/BackpagePix",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mamelodi_Sundowns_Ladies_celebrate_win.jpg",
+    "alt": "Les joueuses de Mamelodi Sundowns, club sud-africain de football féminin",
+    "mots_cles": [
+      "Mamelodi Sundowns Ladies"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
