@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-12T18:19:50.477Z",
+  "genere_le": "2026-11-12T18:21:01.897Z",
   "actus": [
     {
       "id": "e6eccf4f27276ddf056b3ca208f35ad538633ea6",
@@ -30,12 +30,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/kultiled/e6eccf4f27276ddf056b3ca208f35ad538633ea6.webp",
         "source": "wikimedia",
-        "credit": "USFWS",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Chattahoochee_Forest_NFH_University_of_Georgia_Mountain_Research_and_Education_Center_16_November_2021.png",
-        "alt": "Le campus de l'université de Géorgie, aux États-Unis",
+        "credit": "Asdfjrjjj",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Potted_plants_succulents_under_grow_light_Nov_2016.jpg",
+        "alt": "Des plantes cultivées sous un éclairage horticole",
         "mots_cles": [
-          "University of Georgia"
+          "Grow light plants"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -106,12 +106,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/kultiled/cbc56a48e3a5ba18293ba80b5eb8ac625a78f8f5.webp",
         "source": "wikimedia",
-        "credit": "Original: Curved.kiwix Derivative work: Radomianin",
+        "credit": "Rémih",
         "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Traditional_worker_with_coconut_rope_(edited).jpg",
-        "alt": "De la fibre de coco, utilisée comme substrat de culture",
+        "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_lettuce_@_Plaine_des_Cafres_03.jpg",
+        "alt": "Des laitues cultivées en hydroponie",
         "mots_cles": [
-          "Coir"
+          "Hydroponic lettuce"
         ],
         "largeur": 1600,
         "hauteur": 900

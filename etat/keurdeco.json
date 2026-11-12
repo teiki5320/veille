@@ -884,7 +884,7 @@
   "images_recentes": [
     {
       "id": "5602125462d53b2134b14b3056f4a2839d1ac6ed",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cape_Town_%28ZA%29%2C_Waterfront%2C_Clock_Tower%2C_Detail_--_2024_--_2911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/25/Cape_town_Table_Mountain_from_V%26A_Waterfront_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a",
@@ -992,7 +992,7 @@
     "7319fab4085146358198ba94fdd8657f7e81e62b": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Marrakech_-_Flickr_-_santiagolopezpastor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a": "https://upload.wikimedia.org/wikipedia/commons/2/22/Community_service_Hall_Bidi_bidi_refugee_settlement_Zone_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "06061332823ed6d519dfa0d15483ba929d0e0ad0": "https://upload.wikimedia.org/wikipedia/commons/9/95/Cape_Winelands_-_Stellenbosch3785.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "5602125462d53b2134b14b3056f4a2839d1ac6ed": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cape_Town_%28ZA%29%2C_Waterfront%2C_Clock_Tower%2C_Detail_--_2024_--_2911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "5602125462d53b2134b14b3056f4a2839d1ac6ed": "https://upload.wikimedia.org/wikipedia/commons/2/25/Cape_town_Table_Mountain_from_V%26A_Waterfront_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "d734265040b63a4476c6a3fcbabfd65eda96c16a": [
@@ -1010,6 +1010,10 @@
     ],
     "0fcec28d7932163a65e918efc7069b282477888b": [
       "https://upload.wikimedia.org/wikipedia/commons/9/96/COWLSO_PRE-EVENT_PRESS_CONFERENCE_-_Oct_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "5602125462d53b2134b14b3056f4a2839d1ac6ed": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0a/Cape_Town_%28ZA%29%2C_Waterfront%2C_Clock_Tower%2C_Detail_--_2024_--_2911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cape_Town_%28ZA%29%2C_Waterfront%2C_Hafen%2C_Robben_--_2024_--_2876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
