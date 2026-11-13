@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "56249f35be2157a5716c4b7e5189fb777158d22d",
+  "slug": "philippines-une-serre-intelligente-financee-par-la-coree-ouvre-kalibo-56249f",
+  "titre": "Philippines : une serre intelligente financée par la Corée ouvre à Kalibo, dans l'Aklan",
+  "chapo": "Aux Philippines, une serre automatisée vient d'entrer en service dans la province d'Aklan. Payé par la coopération sud-coréenne, le projet veut aider les petits producteurs à cultiver toute l'année malgré les aléas du climat.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le ministère de l'Agriculture des Philippines a ouvert cette installation au centre de démonstration et de formation agro-aquacole d'Aklan, dans le quartier de Nalook, à Kalibo. L'inauguration et la première récolte étaient programmées le samedi 7 novembre 2026, avec des représentants des deux pays et des collectivités locales.",
+        "La serre fait partie d'un programme baptisé VEHCSA, consacré à la modernisation des filières de cultures à haute valeur ajoutée grâce à l'agriculture intelligente."
+      ]
+    },
+    {
+      "intertitre": "Un climat contrôlé toute l'année",
+      "paragraphes": [
+        "L'équipement maintient un environnement régulé, pensé pour produire en continu quelle que soit la météo. Selon le ministre de l'Agriculture, Francisco Tiu Laurel Jr., ce type de partenariat technologique doit permettre aux agriculteurs de récolter davantage, avec une qualité plus régulière, et de mieux gagner leur vie.",
+        "Il y voit aussi un moyen de rendre l'approvisionnement alimentaire plus fiable et de renforcer la sécurité alimentaire du pays."
+      ]
+    },
+    {
+      "intertitre": "Huit millions de dollars de dons coréens",
+      "paragraphes": [
+        "Le programme est financé par un don de 8 millions de dollars de la République de Corée, versé par l'Agence coréenne de coopération internationale (KOICA). Il court de novembre 2023 à décembre 2027 et couvre quatre sites de la région des Visayas occidentales.",
+        "Outre Kalibo, des serres du même type ont été installées à Tigbauan, dans la province d'Iloilo, à Patnongon, dans celle d'Antique, et à Bago City, dans le Negros occidental."
+      ]
+    },
+    {
+      "intertitre": "Trouver un modèle économique durable",
+      "paragraphes": [
+        "Le ministère et la KOICA cherchent maintenant des partenaires parmi les entreprises agroalimentaires. Le but est que ces serres dégagent assez de revenus pour couvrir leurs frais de fonctionnement et restent viables sur la durée. Le projet vise d'abord les petits exploitants, invités à moderniser leurs pratiques et à mieux faire face aux changements du climat."
+      ]
+    }
+  ],
+  "mots": 318,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "PH"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9891829/philippines-da-opens-korean-backed-smart-greenhouse-in-aklan/",
+  "autres_sources": [
+    "https://www.hortidaily.com/article/9890730/philippines-da-koica-to-launch-aklan-smart-greenhouse-harvest/"
+  ],
+  "publie_le": "2026-11-13T14:45:00.000Z",
+  "redige_le": "2026-11-13T18:19:56.889Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/56249f35be2157a5716c4b7e5189fb777158d22d.webp",
+    "source": "wikimedia",
+    "credit": "Alexey Komarov",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kalibo,_Philippines,_March,_2016.jpg",
+    "alt": "Une vue de Kalibo, dans la province d'Aklan aux Philippines",
+    "mots_cles": [
+      "Kalibo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-13T11:22:15.612Z",
+  "genere_le": "2026-11-13T18:19:56.884Z",
   "articles": [
+    {
+      "id": "1b670a36efcf8c386a7e1841a590567b63886ef2",
+      "slug": "eliminatoires-can-2027-la-tunisie-battue-2-0-par-la-libye-sfax-1b670a",
+      "titre": "Éliminatoires CAN 2027 : la Tunisie battue 2-0 par la Libye à Sfax, dernière de son groupe",
+      "publie_le": "2026-11-13T18:06:12.000Z",
+      "redige_le": "2026-11-13T18:19:56.014Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/1b670a36efcf8c386a7e1841a590567b63886ef2.json"
+    },
     {
       "id": "0b3f1f641796a6ac2407e19ec82d2fee7228107f",
       "slug": "eliminatoires-can-victoire-2-1-des-ivoiriens-face-la-gambie-renard-0b3f1f",

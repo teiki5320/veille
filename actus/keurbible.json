@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-13T11:20:30.340Z",
+  "genere_le": "2026-11-13T18:19:47.877Z",
   "actus": [
+    {
+      "id": "3e71cfe276a1659da23c7350e518c64d40f23925",
+      "titre": "Burkina Faso : les médias catholiques formés aux agents d'IA, l'humain au centre",
+      "resume": "Du 10 au 12 novembre à Ouagadougou, la commission chargée des médias auprès des évêques a initié radios et services diocésains aux agents d'intelligence artificielle. L'Église y a rappelé qu'aucun contenu produit avec ces outils ne doit être diffusé sans vérification humaine.",
+      "theme": "culture",
+      "pays": [
+        "BF"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/burkina-faso-l-eglise-catholique-dignite-humaine.html",
+      "publie_le": "2026-11-13T15:55:00.000Z",
+      "collecte_le": "2026-11-13T18:19:47.877Z",
+      "langue": "fr",
+      "slug": "burkina-faso-les-medias-catholiques-formes-aux-agents-ia-humain-au-3e71cf",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/3e71cfe276a1659da23c7350e518c64d40f23925.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/3e71cfe276a1659da23c7350e518c64d40f23925.webp",
+        "source": "wikimedia",
+        "credit": "Syced",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ouagadougou_street_in_2004.jpg",
+        "alt": "La cathédrale de l'Immaculée-Conception de Ouagadougou, au Burkina Faso",
+        "mots_cles": [
+          "Ouagadougou"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "24bdee3000b144548344ded8871bcbef6802e5bb",
+      "titre": "Kenya : l'augustin Joseph Onyango Oduor nommé évêque coadjuteur de Kisii",
+      "resume": "Le pape Léon XIV a nommé vendredi le père Joseph Onyango Oduor, religieux augustin kényan de 49 ans, évêque coadjuteur du diocèse de Kisii. Il succédera à Mgr Joseph Mairura Okemwa, qui avait demandé de l'aide pour sa charge.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25331/pope-leo-xiv-appoints-kenyan-augustinian-priest-as-coadjutor-bishop-of-kenyas-kisii-diocese",
+      "publie_le": "2026-11-13T11:21:00.000Z",
+      "collecte_le": "2026-11-13T18:19:47.877Z",
+      "langue": "en",
+      "slug": "kenya-augustin-joseph-onyango-oduor-nomme-eveque-coadjuteur-de-kisii-24bdee",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/24bdee3000b144548344ded8871bcbef6802e5bb.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/24bdee3000b144548344ded8871bcbef6802e5bb.webp",
+        "source": "wikimedia",
+        "credit": "Janetnyanya",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Business_at_Marikiti_Market_in_Kisii_County_,Kenya_,East_Africa.jpg",
+        "alt": "Vue de Kisii, ville de l'ouest du Kenya",
+        "mots_cles": [
+          "Kisii, Kenya"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8a5555efc024d814b322f42459ea5fce22156110",
       "titre": "Kenya : à Nairobi, une messe entretient la mémoire du cardinal Otunga",

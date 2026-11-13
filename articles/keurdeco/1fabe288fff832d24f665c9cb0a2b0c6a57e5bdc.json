@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc",
+  "slug": "kinshasa-le-marche-central-de-zando-renait-en-briques-ajourees-avec-20-1fabe2",
+  "titre": "Kinshasa : le marché central de Zando renaît en briques ajourées, avec 20 000 places",
+  "chapo": "À Kinshasa, le nouveau marché central de Zando mise sur la brique de terre cuite locale et la ventilation naturelle. Le bâtiment, signé Think Tank Architecture, attend encore son ouverture.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le marché de Zando occupe le même terrain de 3,7 hectares que l'ancien marché historique de la capitale congolaise, démoli après des années d'entretien insuffisant et une surcharge de commerçants. Le studio français Think Tank Architecture est intervenu alors que l'ancien bâtiment avait déjà été rasé.",
+        "Le nouvel ensemble couvre 82 000 mètres carrés sur un plan rectangulaire de 245 mètres sur 150. Il compte 650 boutiques et peut recevoir 20 000 vendeurs, soit plus de cinq fois la capacité d'origine selon les architectes."
+      ]
+    },
+    {
+      "intertitre": "Une halle couverte entourée de services",
+      "paragraphes": [
+        "Au centre, une grande halle sur deux niveaux en double hauteur s'ouvre par trois vastes entrées. Tout autour, un bâtiment de trois étages abrite des réserves, une caserne de pompiers, un poste de police, un centre médical, un vétérinaire, des bureaux et un espace de restauration.",
+        "Des patios plantés dégagent des places publiques où peuvent s'installer des marchés informels. Les concepteurs disent avoir voulu un vrai marché africain, nourri de recherches historiques et de visites d'autres marchés kinois, et ouvert à tous, y compris aux plus modestes."
+      ]
+    },
+    {
+      "intertitre": "Brique, béton et fraîcheur sans climatisation",
+      "paragraphes": [
+        "Brique et béton ont été retenus pour coller au contexte et aux savoir-faire des ouvriers de la région. Les gravats de l'ancien marché ont servi aux fondations. D'après le studio, le chantier a relancé trois briqueteries de terre cuite situées à moins de 60 kilomètres.",
+        "Les poteaux s'évasent à leur sommet, comme dans l'ancien marché. Les façades ajourées laissent passer l'air et filtrent le soleil ; combinées à l'inertie du béton, elles rafraîchissent les lieux et limitent le recours à la climatisation. Leurs motifs rappellent les moucharabiehs."
+      ]
+    },
+    {
+      "intertitre": "Une ouverture suspendue aux travaux de voirie",
+      "paragraphes": [
+        "Le marché figure parmi les huit finalistes des Dezeen Awards 2026 dans la catégorie des projets civiques. Il n'a pas encore ouvert : la rénovation des rues voisines, menée sous la supervision de la ville, doit d'abord s'achever. Les architectes espèrent une mise en service d'ici à la fin de l'année."
+      ]
+    }
+  ],
+  "mots": 358,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "CD"
+  ],
+  "tags": [
+    "matiere:terre-cuite"
+  ],
+  "source_nom": "Dezeen",
+  "source_url": "https://www.dezeen.com/2026/11/13/zando-central-market-think-tank-architecture/",
+  "publie_le": "2026-11-13T11:30:00.000Z",
+  "redige_le": "2026-11-13T18:19:52.803Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc.webp",
+    "source": "wikimedia",
+    "credit": "Kitangaza.1953",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kinshasa_Mall.jpg",
+    "alt": "Une vue de Kinshasa, capitale de la République démocratique du Congo",
+    "mots_cles": [
+      "Kinshasa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

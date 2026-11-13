@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "3e71cfe276a1659da23c7350e518c64d40f23925",
+  "slug": "burkina-faso-les-medias-catholiques-formes-aux-agents-ia-humain-au-3e71cf",
+  "titre": "Burkina Faso : les médias catholiques formés aux agents d'IA, l'humain au centre",
+  "chapo": "À Ouagadougou, l'Église catholique a réuni ses communicants pendant trois jours pour découvrir les agents d'intelligence artificielle. Avec une règle répétée : rien ne se diffuse sans contrôle humain.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les évêques du Burkina et du Niger, par l'intermédiaire de leur commission pour les médias, ont tenu leur assemblée de rentrée pastorale entre le 10 et le 12 novembre 2026 dans la capitale burkinabè. La rencontre a pris la forme d'une formation consacrée aux agents d'IA appliqués à la production de radio, de vidéo et de textes.",
+        "Y participaient les responsables diocésains de la communication, des directeurs et animateurs de radios catholiques, des techniciens, ainsi que des membres des commissions Justice et Paix, de l'OCADES-Caritas et de l'enseignement catholique."
+      ]
+    },
+    {
+      "intertitre": "Des exercices concrets",
+      "paragraphes": [
+        "Les participants ont manipulé deux outils, Hermes Agent et Claude Code. Au programme : préparer des émissions, rédiger des contenus, trier les messages des auditeurs, transcrire des enregistrements, découper des extraits sonores ou convertir des fichiers.",
+        "Animateur de la session, Ibrahim Jacob Konfé, qui dirige la partie artistique au studio Mosaï, a expliqué que confier aux agents certaines tâches répétitives libère du temps pour lancer de nouveaux projets dans les rédactions."
+      ]
+    },
+    {
+      "intertitre": "Un cadre fixé par le pape Léon XIV",
+      "paragraphes": [
+        "La session répondait à un appel de la Commission interdicastérielle du Vatican sur l'intelligence artificielle, qui invite les conférences épiscopales à mettre en œuvre Magnifica humanitas, l'encyclique de Léon XIV.",
+        "Fiabilité de l'information, protection des données personnelles, respect du droit d'auteur et vérification des contenus ont été présentés comme des exigences fermes. Secrétaire général de cette commission, l'abbé Pierre Sanou a résumé la démarche en trois mots : vérité, confiance et communion. Il a insisté pour que tout contenu préparé avec l'IA soit relu et validé par une personne avant sa diffusion."
+      ]
+    },
+    {
+      "intertitre": "Un premier bilan en février 2027",
+      "paragraphes": [
+        "Chaque structure présente doit désormais suivre, pendant trois mois, un plan d'adoption qui dit ce qui sera automatisé, qui en aura la charge et comment le suivi sera mesuré. Un point d'étape est prévu en février 2027. Chaque institution est aussi invitée à rédiger sa propre charte d'usage de l'IA et à travailler davantage avec les réseaux de radios catholiques du pays."
+      ]
+    }
+  ],
+  "mots": 360,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "BF"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/burkina-faso-l-eglise-catholique-dignite-humaine.html",
+  "publie_le": "2026-11-13T15:55:00.000Z",
+  "redige_le": "2026-11-13T18:19:47.877Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/3e71cfe276a1659da23c7350e518c64d40f23925.webp",
+    "source": "wikimedia",
+    "credit": "Syced",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ouagadougou_street_in_2004.jpg",
+    "alt": "La cathédrale de l'Immaculée-Conception de Ouagadougou, au Burkina Faso",
+    "mots_cles": [
+      "Ouagadougou"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

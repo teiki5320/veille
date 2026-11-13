@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f5a098a2408d0fd4347e433f544a0ec5be87c665",
+  "slug": "inflation-les-prix-montent-de-3-4-en-un-an-en-octobre-energie-bondit-f5a098",
+  "titre": "Inflation : les prix montent de 3,4 % en un an en octobre, l'énergie bondit de 24 %",
+  "chapo": "L'Insee confirme qu'en octobre, les prix ont grimpé de 3,4 % en douze mois. La hausse vient surtout de l'énergie, dont les prix progressent pour le quatrième mois d'affilée.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'Institut national de la statistique a publié vendredi 13 novembre ses chiffres définitifs pour octobre. Ils confirment l'estimation provisoire diffusée à la fin du mois dernier : le coût de la vie a augmenté de 3,4 % en douze mois en France. C'est le niveau le plus élevé depuis janvier 2024.",
+        "Sur un seul mois, les prix sont repartis à la hausse de 0,4 %, après un recul de 0,3 % en septembre."
+      ]
+    },
+    {
+      "intertitre": "L'énergie en tête",
+      "paragraphes": [
+        "La facture énergétique tire l'ensemble vers le haut. Sur un an, les prix de l'énergie grimpent de 24,1 % en octobre, contre 21,3 % le mois précédent. Le gaz et les carburants expliquent l'essentiel de cette poussée, qui dure depuis quatre mois.",
+        "Les services accélèrent aussi légèrement, avec une hausse de 2,6 % sur un an, contre 2,4 % en septembre. Les produits manufacturés, eux, restent orientés à la baisse, de 0,2 % après 0,3 %."
+      ]
+    },
+    {
+      "intertitre": "L'alimentation ralentit",
+      "paragraphes": [
+        "Dans les rayons alimentaires, la hausse se tasse : 1,2 % sur un an, après 1,4 %. Les produits frais restent chers, 8 % de plus qu'il y a un an, mais l'écart atteignait 9,5 % en septembre.",
+        "Les légumes-fruits comme la tomate et la courgette augmentent encore de 24,9 %, contre 35,8 % un mois plus tôt. Les salades et autres légumes à feuilles progressent de 15,6 %, après 23,5 %."
+      ]
+    },
+    {
+      "intertitre": "Un contraste net avec 2025",
+      "paragraphes": [
+        "Il y a un an, avant que la guerre n'éclate au Moyen-Orient, la hausse des prix n'était que de 0,9 % et l'énergie coûtait moins cher que l'année précédente. L'indice harmonisé, qui sert aux comparaisons entre les pays de la zone euro, atteint quant à lui 3,7 % en rythme annuel, contre 3,4 % le mois d'avant, et gagne 0,4 % sur un mois.",
+        "Pour les dirigeants de TPE et de PME, cette envolée de l'énergie pèse directement sur les coûts de chauffage, d'électricité et de transport."
+      ]
+    }
+  ],
+  "mots": 347,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "20 Minutes",
+  "source_url": "https://www.20minutes.fr/economie/4262641-20261113-tiree-prix-energie-inflation-atteint-3-4-depuis-an-plus-haut-depuis-an-demi?at_medium=display&at_campaign=149",
+  "publie_le": "2026-11-13T11:32:16.000Z",
+  "redige_le": "2026-11-13T18:20:00.349Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f5a098a2408d0fd4347e433f544a0ec5be87c665.webp",
+    "source": "wikimedia",
+    "credit": "JLPC",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edon_16_Station-service_en_contruction_2014.jpg",
+    "alt": "Une station-service",
+    "mots_cles": [
+      "Station-service en France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

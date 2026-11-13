@@ -1,8 +1,74 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-13T11:20:41.786Z",
+  "genere_le": "2026-11-13T18:19:56.889Z",
   "actus": [
+    {
+      "id": "21b0ee20bb3ccb8995f1031297b9bd7433b77839",
+      "titre": "Fraises en ferme verticale : plus de lumière par jour, des fruits plus gros et plus sucrés",
+      "resume": "Des chercheurs sud-coréens ont cultivé des fraisiers 'Kuemsil' en ferme verticale sous trois niveaux de lumière quotidienne. À la dose la plus forte, les fruits vendables étaient plus nombreux, plus gros et plus sucrés.",
+      "theme": "culture-interieur",
+      "pays": [
+        "KR"
+      ],
+      "tags": [
+        "legume:fraise"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9890318/south-korea-how-lighting-changes-growth-in-strawberry-plants/",
+      "publie_le": "2026-11-13T14:52:00.000Z",
+      "collecte_le": "2026-11-13T18:19:56.889Z",
+      "langue": "en",
+      "slug": "fraises-en-ferme-verticale-plus-de-lumiere-par-jour-des-fruits-plus-21b0ee",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/21b0ee20bb3ccb8995f1031297b9bd7433b77839.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/21b0ee20bb3ccb8995f1031297b9bd7433b77839.webp",
+        "source": "wikimedia",
+        "credit": "Ivar Leidus",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+        "alt": "Des fraises sur un fraisier",
+        "mots_cles": [
+          "Fragaria × ananassa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "56249f35be2157a5716c4b7e5189fb777158d22d",
+      "titre": "Philippines : une serre intelligente financée par la Corée ouvre à Kalibo, dans l'Aklan",
+      "resume": "Le ministère philippin de l'Agriculture a ouvert à Kalibo, dans la province d'Aklan, une serre automatisée à climat contrôlé. Financée par l'agence coréenne KOICA, elle doit permettre de produire des cultures à forte valeur toute l'année.",
+      "theme": "culture-interieur",
+      "pays": [
+        "PH"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9891829/philippines-da-opens-korean-backed-smart-greenhouse-in-aklan/",
+      "autres_sources": [
+        "https://www.hortidaily.com/article/9890730/philippines-da-koica-to-launch-aklan-smart-greenhouse-harvest/"
+      ],
+      "publie_le": "2026-11-13T14:45:00.000Z",
+      "collecte_le": "2026-11-13T18:19:56.889Z",
+      "langue": "en",
+      "slug": "philippines-une-serre-intelligente-financee-par-la-coree-ouvre-kalibo-56249f",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/56249f35be2157a5716c4b7e5189fb777158d22d.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/56249f35be2157a5716c4b7e5189fb777158d22d.webp",
+        "source": "wikimedia",
+        "credit": "Alexey Komarov",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kalibo,_Philippines,_March,_2016.jpg",
+        "alt": "Une vue de Kalibo, dans la province d'Aklan aux Philippines",
+        "mots_cles": [
+          "Kalibo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d7be61d121456a30e1b5fa10bb5120bf93336d38",
       "titre": "Canada : Ashley Paling, chercheuse en serre au Niagara College, reçoit un prix STEM",

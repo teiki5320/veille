@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "0aa5c4855bde5fe11d78a8e71a2d833054f98bc1",
+  "slug": "panne-mondiale-de-microsoft-outlook-et-teams-coupes-les-entreprises-0aa5c4",
+  "titre": "Panne mondiale de Microsoft : Outlook et Teams coupés, les entreprises dépendantes",
+  "chapo": "Messagerie bloquée, visioconférences impossibles : la panne de Microsoft 365 a perturbé jeudi 12 et vendredi 13 novembre le travail de nombreuses entreprises. Les services revenaient peu à peu vendredi après-midi.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les ennuis ont commencé jeudi. Vendredi matin, beaucoup de salariés n'ont pas pu ouvrir leur boîte Outlook. Teams, les espaces de stockage SharePoint et OneDrive, ainsi que l'assistant Copilot, ont aussi connu des coupures, de façon plus irrégulière. En une heure, l'incident s'était étendu à des dizaines de pays, selon le site Downdetector.",
+        "Les assistants d'IA reliés aux comptes Microsoft, utilisés pour consulter courriels ou agenda, comme ChatGPT ou Claude, ont eux aussi été gênés."
+      ]
+    },
+    {
+      "intertitre": "Une surcharge, pas une attaque",
+      "paragraphes": [
+        "Microsoft attribue la panne à une charge trop forte sur ses infrastructures et dit n'avoir relevé aucun signe d'acte malveillant. Un premier correctif n'a pas eu l'effet attendu. Vendredi après-midi, le groupe signalait des progrès en Amérique du Nord et sur une large part du continent européen, tout en prévenant que des accès intermittents et des retards de courriels pouvaient persister."
+      ]
+    },
+    {
+      "intertitre": "Les entreprises françaises très équipées",
+      "paragraphes": [
+        "En France, 82 % des sociétés qui utilisent une suite bureautique ont choisi Microsoft 365, selon l'édition 2025 de l'Observatoire de l'intranet d'Arctus. Des salariés racontent des journées décalées, des envois bloqués et des tâches repoussées à la semaine suivante. Certains professionnels ont recontacté leurs clients par SMS ou par WhatsApp.",
+        "À l'étranger, des sociétés cotées ont décalé la publication de leurs résultats, et l'opérateur boursier Euronext a invité les entreprises à le joindre par téléphone. Le ministère de la Santé n'avait constaté aucun effet sur les hôpitaux français à la mi-journée."
+      ]
+    },
+    {
+      "intertitre": "Un précédent en 2024",
+      "paragraphes": [
+        "L'impact global reste à relativiser, la coupure ayant été limitée dans le temps. Mais l'épisode rappelle celui de juillet 2024, quand une mise à jour défectueuse du logiciel de sécurité CrowdStrike sur Windows avait bloqué aéroports et hôpitaux dans le monde entier. Il relance la question de la dépendance des entreprises à un petit nombre de fournisseurs de logiciels."
+      ]
+    }
+  ],
+  "mots": 332,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html",
+  "autres_sources": [
+    "https://www.sudouest.fr/economie/cybersecurite/panne-mondiale-de-microsoft-des-progres-continus-dans-le-retablissement-des-services-mais-des-perturbations-persistent-31511534.php",
+    "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/2867397487354/retour-a-la-normale-outils-touches-causes-4-questions-sur-la-panne-mondiale-de-microsoft",
+    "https://www.ladepeche.fr/2026/11/13/panne-mondiale-chez-microsoft-des-progres-encourageants-en-europe-pas-de-signe-daction-malveillante-le-point-sur-la-situation-13650846.php"
+  ],
+  "publie_le": "2026-11-13T17:48:12.000Z",
+  "redige_le": "2026-11-13T18:20:00.349Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/0aa5c4855bde5fe11d78a8e71a2d833054f98bc1.webp",
+    "source": "wikimedia",
+    "credit": "Jim.henderson",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Outlook_hundreds_bus_W49_%26_11_Av_jeh.jpg",
+    "alt": "Une illustration liée à Microsoft et à sa messagerie Outlook",
+    "mots_cles": [
+      "Microsoft Outlook"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

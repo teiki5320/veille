@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-13T11:20:36.531Z",
+  "genere_le": "2026-11-13T18:19:56.006Z",
   "articles": [
+    {
+      "id": "d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851",
+      "slug": "marrakech-la-maison-heba-un-patio-et-des-materiaux-marocains-d6b5a9",
+      "titre": "Marrakech : la maison HEBA, un patio et des matériaux marocains réinventés",
+      "publie_le": "2026-11-13T15:20:32.000Z",
+      "redige_le": "2026-11-13T18:19:52.803Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851.json"
+    },
+    {
+      "id": "1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc",
+      "slug": "kinshasa-le-marche-central-de-zando-renait-en-briques-ajourees-avec-20-1fabe2",
+      "titre": "Kinshasa : le marché central de Zando renaît en briques ajourées, avec 20 000 places",
+      "publie_le": "2026-11-13T11:30:00.000Z",
+      "redige_le": "2026-11-13T18:19:52.803Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc.json"
+    },
     {
       "id": "6cd2b27ecfaa788e0712cb5df430da7056f014dc",
       "slug": "allemagne-le-sud-africain-hendre-bloem-renove-une-maison-au-bord-du-6cd2b2",

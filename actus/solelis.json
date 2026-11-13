@@ -1,8 +1,73 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-13T11:21:58.805Z",
+  "genere_le": "2026-11-13T18:20:00.349Z",
   "actus": [
+    {
+      "id": "0aa5c4855bde5fe11d78a8e71a2d833054f98bc1",
+      "titre": "Panne mondiale de Microsoft : Outlook et Teams coupés, les entreprises dépendantes",
+      "resume": "Jeudi et vendredi, une panne de Microsoft 365 a privé de nombreuses entreprises d'Outlook, de Teams et de Copilot. Le groupe évoque une surcharge de ses serveurs, sans cyberattaque. En France, l'impact reste limité, mais l'épisode montre la dépendance des sociétés à ces outils.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html",
+      "autres_sources": [
+        "https://www.sudouest.fr/economie/cybersecurite/panne-mondiale-de-microsoft-des-progres-continus-dans-le-retablissement-des-services-mais-des-perturbations-persistent-31511534.php",
+        "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/2867397487354/retour-a-la-normale-outils-touches-causes-4-questions-sur-la-panne-mondiale-de-microsoft",
+        "https://www.ladepeche.fr/2026/11/13/panne-mondiale-chez-microsoft-des-progres-encourageants-en-europe-pas-de-signe-daction-malveillante-le-point-sur-la-situation-13650846.php"
+      ],
+      "publie_le": "2026-11-13T17:48:12.000Z",
+      "collecte_le": "2026-11-13T18:20:00.349Z",
+      "langue": "fr",
+      "slug": "panne-mondiale-de-microsoft-outlook-et-teams-coupes-les-entreprises-0aa5c4",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/0aa5c4855bde5fe11d78a8e71a2d833054f98bc1.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/0aa5c4855bde5fe11d78a8e71a2d833054f98bc1.webp",
+        "source": "wikimedia",
+        "credit": "Jim.henderson",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Outlook_hundreds_bus_W49_%26_11_Av_jeh.jpg",
+        "alt": "Une illustration liée à Microsoft et à sa messagerie Outlook",
+        "mots_cles": [
+          "Microsoft Outlook"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "f5a098a2408d0fd4347e433f544a0ec5be87c665",
+      "titre": "Inflation : les prix montent de 3,4 % en un an en octobre, l'énergie bondit de 24 %",
+      "resume": "Selon l'Insee, les prix à la consommation ont augmenté de 3,4 % sur un an en octobre, un niveau inédit depuis janvier 2024. L'énergie grimpe de 24,1 %, poussée par le gaz et les produits pétroliers, tandis que l'alimentation ralentit.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/economie/4262641-20261113-tiree-prix-energie-inflation-atteint-3-4-depuis-an-plus-haut-depuis-an-demi?at_medium=display&at_campaign=149",
+      "publie_le": "2026-11-13T11:32:16.000Z",
+      "collecte_le": "2026-11-13T18:20:00.349Z",
+      "langue": "fr",
+      "slug": "inflation-les-prix-montent-de-3-4-en-un-an-en-octobre-energie-bondit-f5a098",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f5a098a2408d0fd4347e433f544a0ec5be87c665.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f5a098a2408d0fd4347e433f544a0ec5be87c665.webp",
+        "source": "wikimedia",
+        "credit": "JLPC",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Edon_16_Station-service_en_contruction_2014.jpg",
+        "alt": "Une station-service",
+        "mots_cles": [
+          "Station-service en France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "2ec5069291ea6a267bf31df28fe2fa205582b33c",
       "titre": "Marne : l'aéroport de Vatry va fermer, victime de la taxe sur les petits colis",

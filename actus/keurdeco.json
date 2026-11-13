@@ -1,8 +1,71 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-13T11:20:34.867Z",
+  "genere_le": "2026-11-13T18:19:52.803Z",
   "actus": [
+    {
+      "id": "d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851",
+      "titre": "Marrakech : la maison HEBA, un patio et des matériaux marocains réinventés",
+      "resume": "À Marrakech, l'architecte Harold Pécout et l'architecte d'intérieur Louise Pécout ont conçu pour leur famille une maison de plain-pied de 440 m² organisée autour d'un patio. Pierre locale, zellige et ferronnerie y prennent des formes contemporaines.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/interieurs/une-maison-pour-soi",
+      "publie_le": "2026-11-13T15:20:32.000Z",
+      "collecte_le": "2026-11-13T18:19:52.803Z",
+      "langue": "fr",
+      "slug": "marrakech-la-maison-heba-un-patio-et-des-materiaux-marocains-d6b5a9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851.webp",
+        "source": "wikimedia",
+        "credit": "Petar Milošević",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Oriental_hanging_lanterns._Souk_Haddadine,_Marrakech_Medina,_Morocco.jpg",
+        "alt": "Marrakech et son architecture marocaine",
+        "mots_cles": [
+          "Marrakech"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc",
+      "titre": "Kinshasa : le marché central de Zando renaît en briques ajourées, avec 20 000 places",
+      "resume": "Le studio français Think Tank Architecture a conçu le nouveau marché central de Zando, à Kinshasa : 650 boutiques et de la place pour 20 000 vendeurs. Ses façades en briques perforées ventilent et ombragent le bâtiment, qui n'a pas encore ouvert.",
+      "theme": "deco",
+      "pays": [
+        "CD"
+      ],
+      "tags": [
+        "matiere:terre-cuite"
+      ],
+      "source_nom": "Dezeen",
+      "source_url": "https://www.dezeen.com/2026/11/13/zando-central-market-think-tank-architecture/",
+      "publie_le": "2026-11-13T11:30:00.000Z",
+      "collecte_le": "2026-11-13T18:19:52.803Z",
+      "langue": "en",
+      "slug": "kinshasa-le-marche-central-de-zando-renait-en-briques-ajourees-avec-20-1fabe2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc.webp",
+        "source": "wikimedia",
+        "credit": "Kitangaza.1953",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kinshasa_Mall.jpg",
+        "alt": "Une vue de Kinshasa, capitale de la République démocratique du Congo",
+        "mots_cles": [
+          "Kinshasa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "6cd2b27ecfaa788e0712cb5df430da7056f014dc",
       "titre": "Allemagne : le Sud-Africain Hendre Bloem rénove une maison au bord du lac de Constance",

@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "1b670a36efcf8c386a7e1841a590567b63886ef2",
+  "slug": "eliminatoires-can-2027-la-tunisie-battue-2-0-par-la-libye-sfax-1b670a",
+  "titre": "Éliminatoires CAN 2027 : la Tunisie battue 2-0 par la Libye à Sfax, dernière de son groupe",
+  "chapo": "Soirée noire pour les Aigles de Carthage : dominés 2-0 par la Libye à Sfax, ils pointent au dernier rang de leur poule des qualifications pour la CAN 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Vendredi 13 novembre, la Tunisie recevait la Libye au stade de Sfax, lors de la 3e journée des qualifications à la Coupe d'Afrique des nations 2027. Les visiteurs l'ont emporté 2-0 dans ce derby nord-africain. Les Tunisiens restaient sur deux matchs nuls depuis le début de cette campagne.",
+        "Juste avant la pause, à la 45e minute, Ali Youssef a ouvert la marque sur penalty, après une faute attribuée à Ali Maaloul. Les hôtes avaient pourtant le ballon plus souvent, sans réussir à se créer de vraies occasions."
+      ]
+    },
+    {
+      "intertitre": "Un but refusé, puis le break libyen",
+      "paragraphes": [
+        "En seconde période, la Tunisie a accentué sa pression. Entré en jeu, Ben Slimane a cru égaliser, mais l'arbitre a signalé un hors-jeu jugé litigieux. Peu après, à la 64e minute, El Houni a doublé la mise en contre-attaque. Au départ de l'action, le défenseur Ghram était resté au sol, touché, sans qu'aucune faute ne soit sifflée."
+      ]
+    },
+    {
+      "intertitre": "Fin de match tendue à Sfax",
+      "paragraphes": [
+        "La rencontre s'est achevée dans un climat lourd. Des bouteilles et des fumigènes ont été lancés depuis les tribunes. Joueurs et encadrement tunisiens ont vivement contesté les décisions du Marocain Hamza El Fariq, qui arbitrait la rencontre et a quitté la pelouse sous protection."
+      ]
+    },
+    {
+      "intertitre": "Le sélectionneur sous pression",
+      "paragraphes": [
+        "Avec ce revers, la Tunisie occupe la dernière place de sa poule, en attendant le match entre l'Ouganda et le Botswana. L'équipe traverse une période difficile depuis une Coupe du monde 2026 très décevante, et l'avenir du sélectionneur Mouine Chaabani est posé avant le match retour, prévu lundi.",
+        "Ailleurs vendredi, le Gabon a battu le Lesotho 2-0 grâce à un doublé de Denis Bouanga, le Burkina Faso a dominé la Mauritanie 1-0 dans le temps additionnel et le Kenya a arraché un nul 2-2 en Afrique du Sud."
+      ]
+    }
+  ],
+  "mots": 322,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "TN",
+    "LY"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/can-2027-q-la-tunisie-sombre-bouanga-porte-le-gabon-le-burkina-faso-sarrache-le-cap-vert-gagne-enfin",
+  "autres_sources": [
+    "https://www.footmercato.net/a1691971398896656842-qualifs-can-la-tunisie-sombre-face-a-la-libye-bouanga-regale-avec-le-gabon",
+    "https://africatopsports.com/football/elim-can-2027-la-libye-surprend-la-tunisie-mi-temps/",
+    "https://www.afrik-foot.com/match-tunisie-libye-ou-regarder-ce-derby-dans-les-qualifications-a-la-can-2027"
+  ],
+  "publie_le": "2026-11-13T18:06:12.000Z",
+  "redige_le": "2026-11-13T18:19:56.014Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/1b670a36efcf8c386a7e1841a590567b63886ef2.webp",
+    "source": "wikimedia",
+    "credit": "Assabah",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tunisia_National_Football_Team_1978.jpg",
+    "alt": "L'équipe de Tunisie de football",
+    "mots_cles": [
+      "Tunisia national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

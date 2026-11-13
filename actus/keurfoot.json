@@ -1,8 +1,45 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-13T11:22:15.583Z",
+  "genere_le": "2026-11-13T18:19:56.014Z",
   "actus": [
+    {
+      "id": "1b670a36efcf8c386a7e1841a590567b63886ef2",
+      "titre": "Éliminatoires CAN 2027 : la Tunisie battue 2-0 par la Libye à Sfax, dernière de son groupe",
+      "resume": "Battue 2-0 à Sfax par la Libye vendredi, la Tunisie a concédé sa première défaite dans les qualifications pour la CAN 2027. Ali Youssef sur penalty puis El Houni en contre ont marqué. Les Aigles de Carthage ferment la marche de leur groupe, dans un climat tendu.",
+      "theme": "foot",
+      "pays": [
+        "TN",
+        "LY"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/can-2027-q-la-tunisie-sombre-bouanga-porte-le-gabon-le-burkina-faso-sarrache-le-cap-vert-gagne-enfin",
+      "autres_sources": [
+        "https://www.footmercato.net/a1691971398896656842-qualifs-can-la-tunisie-sombre-face-a-la-libye-bouanga-regale-avec-le-gabon",
+        "https://africatopsports.com/football/elim-can-2027-la-libye-surprend-la-tunisie-mi-temps/",
+        "https://www.afrik-foot.com/match-tunisie-libye-ou-regarder-ce-derby-dans-les-qualifications-a-la-can-2027"
+      ],
+      "publie_le": "2026-11-13T18:06:12.000Z",
+      "collecte_le": "2026-11-13T18:19:56.014Z",
+      "langue": "fr",
+      "slug": "eliminatoires-can-2027-la-tunisie-battue-2-0-par-la-libye-sfax-1b670a",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1b670a36efcf8c386a7e1841a590567b63886ef2.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/1b670a36efcf8c386a7e1841a590567b63886ef2.webp",
+        "source": "wikimedia",
+        "credit": "Assabah",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Tunisia_National_Football_Team_1978.jpg",
+        "alt": "L'équipe de Tunisie de football",
+        "mots_cles": [
+          "Tunisia national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0b3f1f641796a6ac2407e19ec82d2fee7228107f",
       "titre": "Éliminatoires CAN : victoire 2-1 des Ivoiriens face à la Gambie, Renard recadre Diakité",
@@ -2079,40 +2116,6 @@
         "alt": "Le Crystal Hall de Bakou, en Azerbaïdjan",
         "mots_cles": [
           "Baku Crystal Hall"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "189d12871782a9d7ab6b46e916cbebd855fad06e",
-      "titre": "Sénégal : la FIFA évalue Génération Foot dans son projet pilote sur les académies",
-      "resume": "Une délégation de la FIFA a visité le 28 octobre le centre de Génération Foot à Déni Biram Ndao. Le Sénégal est l'un des cinq pays retenus pour tester un système d'évaluation des académies, aux côtés de la Corée du Sud, du Chili, du Maroc et de la République tchèque.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": null,
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/la-fifa-chez-generation-foot-les-talents-senegalais-sous-les-projecteurs_2018515.html",
-      "autres_sources": [
-        "https://wiwsport.com/2026/10/29/systeme-des-academies-la-fifa-sous-le-charme-de-generation-foot-le-senegal-distingue/"
-      ],
-      "publie_le": "2026-10-29T11:33:07.000Z",
-      "collecte_le": "2026-10-29T18:22:25.839Z",
-      "langue": "fr",
-      "slug": "senegal-la-fifa-evalue-generation-foot-dans-son-projet-pilote-sur-les-189d12",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/189d12871782a9d7ab6b46e916cbebd855fad06e.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/189d12871782a9d7ab6b46e916cbebd855fad06e.svg",
-        "source": "carte",
-        "credit": "Illustration : Keur Foot",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « Football »",
-        "mots_cles": [
-          "Génération Foot"
         ],
         "largeur": 1600,
         "hauteur": 900

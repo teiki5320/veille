@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-13T11:20:34.845Z",
+  "genere_le": "2026-11-13T18:19:52.783Z",
   "articles": [
+    {
+      "id": "3e71cfe276a1659da23c7350e518c64d40f23925",
+      "slug": "burkina-faso-les-medias-catholiques-formes-aux-agents-ia-humain-au-3e71cf",
+      "titre": "Burkina Faso : les médias catholiques formés aux agents d'IA, l'humain au centre",
+      "publie_le": "2026-11-13T15:55:00.000Z",
+      "redige_le": "2026-11-13T18:19:47.877Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/3e71cfe276a1659da23c7350e518c64d40f23925.json"
+    },
+    {
+      "id": "24bdee3000b144548344ded8871bcbef6802e5bb",
+      "slug": "kenya-augustin-joseph-onyango-oduor-nomme-eveque-coadjuteur-de-kisii-24bdee",
+      "titre": "Kenya : l'augustin Joseph Onyango Oduor nommé évêque coadjuteur de Kisii",
+      "publie_le": "2026-11-13T11:21:00.000Z",
+      "redige_le": "2026-11-13T18:19:47.877Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/24bdee3000b144548344ded8871bcbef6802e5bb.json"
+    },
     {
       "id": "8a5555efc024d814b322f42459ea5fce22156110",
       "slug": "kenya-nairobi-une-messe-entretient-la-memoire-du-cardinal-otunga-8a5555",

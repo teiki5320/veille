@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851",
+  "slug": "marrakech-la-maison-heba-un-patio-et-des-materiaux-marocains-d6b5a9",
+  "titre": "Marrakech : la maison HEBA, un patio et des matériaux marocains réinventés",
+  "chapo": "Fondateurs de LH Atelier, Louise et Harold Pécout ont bâti à Marrakech leur propre maison, HEBA. Fermée sur la rue, elle s'ouvre entièrement sur un patio et met en valeur l'artisanat marocain.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le nom de la maison est formé à partir des prénoms des deux fils du couple. De plain-pied, elle s'étend sur 440 mètres carrés. Côté rue, deux hauts murs façonnés à la main dans la pierre ne laissent qu'une étroite ouverture, et rien ne laisse deviner l'intérieur.",
+        "Le patio central organise tout le plan : il protège des regards et distribue la clarté. Côté rue, les façades restent aveugles, toutes les pièces regardent vers le cœur de la maison."
+      ]
+    },
+    {
+      "intertitre": "Un séjour qui s'efface",
+      "paragraphes": [
+        "Autour du patio se succèdent un salon télé, le salon principal et la cuisine. Dans le séjour, de grandes baies coulissantes disparaissent dans l'épaisseur des murs : la pièce relie alors le patio à la piscine. Les mêmes revêtements courent dehors et dedans, sans seuil marqué.",
+        "La piscine, en granito noir pailleté, est posée au niveau du salon et entourée de marches sur tout son pourtour, à la manière d'un ancien bassin d'irrigation."
+      ]
+    },
+    {
+      "intertitre": "L'artisanat marocain en fil rouge",
+      "paragraphes": [
+        "Tous les matériaux viennent du Maroc ; seule leur forme s'écarte de la tradition. Un calcaire beige bouchardé habille les sols, les abords de la piscine et les niches. Les plafonds alternent plâtre et bois, et les fenêtres sont en fer forgé sur mesure.",
+        "La cheminée du salon est revêtue d'un zellige plissé de Salima Filali Design. Le couple présente le projet comme le fruit de dix ans d'expérimentations avec les artisans. Les grands oliviers du jardin ont été plantés par Youssef Bennani Smires, paysagiste de L'Agave Bleu."
+      ]
+    },
+    {
+      "intertitre": "Une maison faite pour durer en famille",
+      "paragraphes": [
+        "La maison compte aussi quatre chambres et, au sous-sol, un espace pour jouer et faire de la musique, soigné comme le reste. Louise, installée à Marrakech à 23 ans pour son artisanat, et Harold, arrivé en 2015, ont fondé LH Atelier, où elle exerce comme architecte d'intérieur et lui comme architecte. HEBA est la deuxième maison qu'ils dessinent pour eux, mais la première où ils vivent réellement, et elle doit évoluer au rythme de leurs enfants."
+      ]
+    }
+  ],
+  "mots": 364,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/interieurs/une-maison-pour-soi",
+  "publie_le": "2026-11-13T15:20:32.000Z",
+  "redige_le": "2026-11-13T18:19:52.803Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851.webp",
+    "source": "wikimedia",
+    "credit": "Petar Milošević",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Oriental_hanging_lanterns._Souk_Haddadine,_Marrakech_Medina,_Morocco.jpg",
+    "alt": "Marrakech et son architecture marocaine",
+    "mots_cles": [
+      "Marrakech"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

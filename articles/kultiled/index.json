@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-13T11:20:43.749Z",
+  "genere_le": "2026-11-13T18:20:00.338Z",
   "articles": [
+    {
+      "id": "21b0ee20bb3ccb8995f1031297b9bd7433b77839",
+      "slug": "fraises-en-ferme-verticale-plus-de-lumiere-par-jour-des-fruits-plus-21b0ee",
+      "titre": "Fraises en ferme verticale : plus de lumière par jour, des fruits plus gros et plus sucrés",
+      "publie_le": "2026-11-13T14:52:00.000Z",
+      "redige_le": "2026-11-13T18:19:56.889Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/21b0ee20bb3ccb8995f1031297b9bd7433b77839.json"
+    },
+    {
+      "id": "56249f35be2157a5716c4b7e5189fb777158d22d",
+      "slug": "philippines-une-serre-intelligente-financee-par-la-coree-ouvre-kalibo-56249f",
+      "titre": "Philippines : une serre intelligente financée par la Corée ouvre à Kalibo, dans l'Aklan",
+      "publie_le": "2026-11-13T14:45:00.000Z",
+      "redige_le": "2026-11-13T18:19:56.889Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/56249f35be2157a5716c4b7e5189fb777158d22d.json"
+    },
     {
       "id": "d7be61d121456a30e1b5fa10bb5120bf93336d38",
       "slug": "canada-ashley-paling-chercheuse-en-serre-au-niagara-college-recoit-un-d7be61",

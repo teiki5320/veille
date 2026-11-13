@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "21b0ee20bb3ccb8995f1031297b9bd7433b77839",
+  "slug": "fraises-en-ferme-verticale-plus-de-lumiere-par-jour-des-fruits-plus-21b0ee",
+  "titre": "Fraises en ferme verticale : plus de lumière par jour, des fruits plus gros et plus sucrés",
+  "chapo": "En Corée du Sud, une équipe a mesuré l'effet de la quantité de lumière reçue chaque jour sur des fraisiers cultivés en intérieur. Le meilleur résultat associe un éclairage généreux et peu de fleurs par grappe.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'étude, publiée en 2026 dans la revue Horticultural Science and Technology, porte sur la variété coréenne 'Kuemsil'. Pendant 83 jours de floraison et de fructification, les plants ont reçu une intégrale lumineuse journalière de 15, 17,5 ou 20 moles de photons par mètre carré. Les chercheurs ont aussi laissé trois, cinq ou sept fleurs par inflorescence."
+      ]
+    },
+    {
+      "intertitre": "Des fruits plus gros sous forte lumière",
+      "paragraphes": [
+        "Plus la dose de lumière augmentait, plus la récolte comptait de fruits commercialisables, c'est-à-dire pesant plus de 10 grammes et atteignant au moins 10 degrés Brix. La teneur en sucres solubles allait de 10,1 à 11,8 °Brix ; elle était nettement plus basse à 15 qu'à 20 moles.",
+        "À la dose la plus élevée, les fraises contenaient davantage de saccharose, et moins de fructose et de glucose."
+      ]
+    },
+    {
+      "intertitre": "L'éclaircissage des fleurs, un rôle secondaire",
+      "paragraphes": [
+        "Réduire le nombre de fleurs n'a pas changé à lui seul le nombre de fruits vendables. Mais sous 20 moles, garder trois à cinq fleurs par grappe aidait à préserver la qualité. Pour les auteurs, cette combinaison est la plus efficace pour produire des fraises sucrées en culture d'intérieur."
+      ]
+    }
+  ],
+  "mots": 221,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "KR"
+  ],
+  "tags": [
+    "legume:fraise"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9890318/south-korea-how-lighting-changes-growth-in-strawberry-plants/",
+  "publie_le": "2026-11-13T14:52:00.000Z",
+  "redige_le": "2026-11-13T18:19:56.889Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/21b0ee20bb3ccb8995f1031297b9bd7433b77839.webp",
+    "source": "wikimedia",
+    "credit": "Ivar Leidus",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+    "alt": "Des fraises sur un fraisier",
+    "mots_cles": [
+      "Fragaria × ananassa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
