@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-12T18:20:58.968Z",
+  "genere_le": "2026-11-13T11:20:34.867Z",
   "actus": [
+    {
+      "id": "6cd2b27ecfaa788e0712cb5df430da7056f014dc",
+      "titre": "Allemagne : le Sud-Africain Hendre Bloem rénove une maison au bord du lac de Constance",
+      "resume": "Sur l'île de Reichenau, au bord du lac de Constance, le designer du Cap Hendre Bloem a transformé une maison construite à la main il y a une soixantaine d'années. Bois sombre, chêne, acier et tissus texturés : presque tout le mobilier a été fabriqué en Afrique du Sud puis expédié en Allemagne.",
+      "theme": "deco",
+      "pays": [
+        "ZA",
+        "DE"
+      ],
+      "source_nom": "Visi",
+      "source_url": "https://visi.co.za/south-african-design-meets-german-precision-on-lake-constance/",
+      "publie_le": "2026-11-13T04:00:00.000Z",
+      "collecte_le": "2026-11-13T11:20:34.867Z",
+      "langue": "en",
+      "slug": "allemagne-le-sud-africain-hendre-bloem-renove-une-maison-au-bord-du-6cd2b2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/6cd2b27ecfaa788e0712cb5df430da7056f014dc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/6cd2b27ecfaa788e0712cb5df430da7056f014dc.webp",
+        "source": "wikimedia",
+        "credit": "JoachimKohler-HB",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kirche_St._Georg,_Insel_Reichenau.jpg",
+        "alt": "L'île de Reichenau, sur le lac de Constance, en Allemagne",
+        "mots_cles": [
+          "Reichenau Island"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "5602125462d53b2134b14b3056f4a2839d1ac6ed",
       "titre": "Le Cap : Neri&Hu signe un hôtel Edition en briques, habillé d'artisanat africain",

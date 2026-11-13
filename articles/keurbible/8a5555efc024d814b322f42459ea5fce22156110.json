@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "8a5555efc024d814b322f42459ea5fce22156110",
+  "slug": "kenya-nairobi-une-messe-entretient-la-memoire-du-cardinal-otunga-8a5555",
+  "titre": "Kenya : à Nairobi, une messe entretient la mémoire du cardinal Otunga",
+  "chapo": "Plus de vingt ans après sa mort, le cardinal Maurice Otunga reste une figure aimée au Kenya. À Nairobi, une messe en sa mémoire a relancé l'appel à prier pour sa béatification.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le jeudi 12 novembre, l'Université catholique d'Afrique de l'Est (CUEA), à Nairobi, a accueilli la messe et la conférence annuelles consacrées au cardinal Maurice Michael Otunga. La rencontre servait aussi à réunir des fonds pour la bourse qui porte son nom. Ce programme aide des étudiants aux moyens modestes à suivre des études universitaires.",
+        "Le père Peter Kaigua, prêtre de l'archidiocèse de Nairobi, a pris la parole devant l'assemblée. Il a présenté le cardinal comme un héros spirituel et moral pour son pays."
+      ]
+    },
+    {
+      "intertitre": "Un « Shujaa » pour les Kényans",
+      "paragraphes": [
+        "Le prêtre a employé le mot swahili « Shujaa », qui signifie héros. Il a demandé aux fidèles de continuer à prier pour la cause de béatification du cardinal, de raconter sa vie autour d'eux et de demander son intercession. Maurice Otunga porte aujourd'hui le titre de serviteur de Dieu, première étape vers une éventuelle béatification.",
+        "Le père Kaigua a aussi rappelé la fermeté du cardinal sur les questions morales et son attachement à la protection de la vie."
+      ]
+    },
+    {
+      "intertitre": "Le premier cardinal du Kenya",
+      "paragraphes": [
+        "Maurice Otunga fut le premier évêque catholique et le premier cardinal originaire du Kenya. Archevêque de Nairobi de 1971 à 1997, il a été créé cardinal par le pape Paul VI en mars 1973. Il est mort le 6 septembre 2003.",
+        "Avec les évêques du pays, il a contribué à fournir le terrain d'un institut catholique ouvert en 1984, qui est ensuite devenu la CUEA. Il en a été le premier chancelier."
+      ]
+    },
+    {
+      "intertitre": "L'éducation au cœur de son héritage",
+      "paragraphes": [
+        "Pour le père Kaigua, le cardinal voyait dans l'école un outil essentiel de la mission de l'Église. Il s'est soucié de la formation des jeunes dans toute la région de l'AMECEA, l'association des conférences épiscopales d'Afrique de l'Est.",
+        "Le programme de bourses de la CUEA prolonge aujourd'hui cet engagement, en aidant chaque année des étudiants à poursuivre leurs études."
+      ]
+    }
+  ],
+  "mots": 343,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "KE"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25303/kenyas-cardinal-otunga-a-spiritual-and-moral-hero-for-defence-of-faith-promotion-of-education-catholic-priest",
+  "publie_le": "2026-11-12T15:12:00.000Z",
+  "redige_le": "2026-11-13T11:20:30.340Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/8a5555efc024d814b322f42459ea5fce22156110.webp",
+    "source": "wikimedia",
+    "credit": "Giovanni Cerretani",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Catholic_University_of_Eastern_Africa_-_garden.jpg",
+    "alt": "Le cardinal kényan Maurice Michael Otunga",
+    "mots_cles": [
+      "Catholic University of Eastern Africa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

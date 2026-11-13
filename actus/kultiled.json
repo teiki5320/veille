@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-12T18:21:01.897Z",
+  "genere_le": "2026-11-13T11:20:41.786Z",
   "actus": [
+    {
+      "id": "d7be61d121456a30e1b5fa10bb5120bf93336d38",
+      "titre": "Canada : Ashley Paling, chercheuse en serre au Niagara College, reçoit un prix STEM",
+      "resume": "Responsable de la recherche au centre HESIC du Niagara College, en Ontario, Ashley Paling a reçu le prix STEM des Women in Business Awards 2026. Elle mène des essais en serre de recherche, notamment sur le vermichar, un mélange de lombricompost et de biochar testé sur du basilic et des fraises.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "tags": [
+        "legume:basilic",
+        "legume:fraise"
+      ],
+      "source_nom": "Greenhouse Canada",
+      "source_url": "https://www.greenhousecanada.com/horticultural-2026-niagara-stem/",
+      "publie_le": "2026-11-12T20:48:44.000Z",
+      "collecte_le": "2026-11-13T11:20:41.786Z",
+      "langue": "en",
+      "slug": "canada-ashley-paling-chercheuse-en-serre-au-niagara-college-recoit-un-d7be61",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/d7be61d121456a30e1b5fa10bb5120bf93336d38.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/d7be61d121456a30e1b5fa10bb5120bf93336d38.webp",
+        "source": "wikimedia",
+        "credit": "Hannah Clover",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Niagara_College_NOTL_campus.jpg",
+        "alt": "Le campus du Niagara College, dans la région du Niagara, au Canada",
+        "mots_cles": [
+          "Niagara College"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "e6eccf4f27276ddf056b3ca208f35ad538633ea6",
       "titre": "Géorgie : des LED de serre qui s'allument selon les besoins réels des plantes",

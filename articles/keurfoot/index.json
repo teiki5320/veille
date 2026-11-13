@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-12T18:19:50.468Z",
+  "genere_le": "2026-11-13T11:20:41.783Z",
   "articles": [
+    {
+      "id": "0b3f1f641796a6ac2407e19ec82d2fee7228107f",
+      "slug": "eliminatoires-can-victoire-2-1-des-ivoiriens-face-la-gambie-renard-0b3f1f",
+      "titre": "Éliminatoires CAN : victoire 2-1 des Ivoiriens face à la Gambie, Renard recadre Diakité",
+      "publie_le": "2026-11-12T21:34:38.000Z",
+      "redige_le": "2026-11-13T11:20:36.545Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/0b3f1f641796a6ac2407e19ec82d2fee7228107f.json"
+    },
+    {
+      "id": "da59180d79ef9892332d0a626ad33a4327c59696",
+      "slug": "can-2027-le-cameroun-domine-la-namibie-2-0-et-conforte-sa-place-de-da5918",
+      "titre": "CAN 2027 : le Cameroun domine la Namibie 2-0 et conforte sa place de leader",
+      "publie_le": "2026-11-12T21:03:14.000Z",
+      "redige_le": "2026-11-13T11:20:36.545Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/da59180d79ef9892332d0a626ad33a4327c59696.json"
+    },
+    {
+      "id": "73780e6a3cfef430eeba53503af486929b5fa75c",
+      "slug": "eliminatoires-can-2027-le-senegal-bat-le-soudan-4-1-et-passe-en-tete-73780e",
+      "titre": "Éliminatoires CAN 2027 : le Sénégal bat le Soudan 4-1 et passe en tête du groupe J",
+      "publie_le": "2026-11-12T20:55:28.000Z",
+      "redige_le": "2026-11-13T11:20:36.545Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/73780e6a3cfef430eeba53503af486929b5fa75c.json"
+    },
     {
       "id": "6058bf941a3b651c135faeaff078809e6d2ab969",
       "slug": "mondial-u17-le-senegal-laisse-souleymane-faye-de-cote-apres-son-essai-6058bf",

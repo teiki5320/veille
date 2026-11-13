@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "6cd2b27ecfaa788e0712cb5df430da7056f014dc",
+  "slug": "allemagne-le-sud-africain-hendre-bloem-renove-une-maison-au-bord-du-6cd2b2",
+  "titre": "Allemagne : le Sud-Africain Hendre Bloem rénove une maison au bord du lac de Constance",
+  "chapo": "Une maison familiale allemande, un regard sud-africain. Sur l'île de Reichenau, le designer Hendre Bloem a mêlé l'artisanat du Cap à la rigueur germanique.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Installé au Cap, Hendre Bloem a été chargé de rénover une maison posée sur la rive du lac de Constance, sur l'île de Reichenau, dans le sud de l'Allemagne. Construite à la main il y a environ soixante ans, elle était restée entre les mains de ses premiers propriétaires depuis sa construction. Les nouveaux occupants, un jeune couple avec deux enfants, voulaient un intérieur actuel.",
+        "Le designer a pris en charge le concept architectural, l'architecture intérieure, la décoration et le mobilier sur mesure. Il a choisi de garder une part de l'histoire du lieu tout en ouvrant les volumes."
+      ]
+    },
+    {
+      "intertitre": "Le lac comme fil conducteur",
+      "paragraphes": [
+        "La proximité de l'eau a guidé les choix. De larges lambris de bois rappellent les bateaux et les pontons. La maison, construite sur plusieurs demi-niveaux avec des toits en pente, s'ouvre davantage vers le paysage.",
+        "À l'extérieur, un bardage de bois noir cache l'isolation ajoutée pour le climat local. Murs clairs, menuiseries noires, béton brut et carrelages texturés composent une façade sobre, dans l'esprit plus réservé du design allemand. L'éclairage extérieur reste discret pour préserver la vue sur le lac la nuit. L'architecte allemand Alexander Höfflin a suivi le chantier et les démarches administratives."
+      ]
+    },
+    {
+      "intertitre": "Un mobilier fabriqué au Cap",
+      "paragraphes": [
+        "À l'intérieur, l'équipe a travaillé le chêne naturel, l'acier laminé à chaud et des étoffes riches en relief. Presque tout, des meubles aux rideaux, a été réalisé sur mesure en Afrique du Sud, puis acheminé jusqu'en Allemagne avec l'accord des propriétaires.",
+        "Des pièces signées par d'autres créateurs sud-africains, James Mudge et le studio Dokter and Misses, complètent l'ensemble."
+      ]
+    },
+    {
+      "intertitre": "Des courbes pour adoucir les lignes",
+      "paragraphes": [
+        "Face à une architecture très linéaire, Hendre Bloem a glissé des formes arrondies : bords de meubles adoucis, banquette tapissée posée près d'une table en chêne noir dans la cuisine. Ces détails donnent de la chaleur à la maison.",
+        "Pour le designer, ce projet montre que le savoir-faire sud-africain trouve naturellement sa place dans un cadre européen."
+      ]
+    }
+  ],
+  "mots": 348,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "ZA",
+    "DE"
+  ],
+  "source_nom": "Visi",
+  "source_url": "https://visi.co.za/south-african-design-meets-german-precision-on-lake-constance/",
+  "publie_le": "2026-11-13T04:00:00.000Z",
+  "redige_le": "2026-11-13T11:20:34.867Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/6cd2b27ecfaa788e0712cb5df430da7056f014dc.webp",
+    "source": "wikimedia",
+    "credit": "JoachimKohler-HB",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kirche_St._Georg,_Insel_Reichenau.jpg",
+    "alt": "L'île de Reichenau, sur le lac de Constance, en Allemagne",
+    "mots_cles": [
+      "Reichenau Island"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

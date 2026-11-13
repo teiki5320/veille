@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-12T18:20:58.996Z",
+  "genere_le": "2026-11-13T11:20:36.531Z",
   "articles": [
+    {
+      "id": "6cd2b27ecfaa788e0712cb5df430da7056f014dc",
+      "slug": "allemagne-le-sud-africain-hendre-bloem-renove-une-maison-au-bord-du-6cd2b2",
+      "titre": "Allemagne : le Sud-Africain Hendre Bloem rénove une maison au bord du lac de Constance",
+      "publie_le": "2026-11-13T04:00:00.000Z",
+      "redige_le": "2026-11-13T11:20:34.867Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/6cd2b27ecfaa788e0712cb5df430da7056f014dc.json"
+    },
     {
       "id": "5602125462d53b2134b14b3056f4a2839d1ac6ed",
       "slug": "le-cap-neri-hu-signe-un-hotel-edition-en-briques-habille-artisanat-560212",

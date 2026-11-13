@@ -1,8 +1,70 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-12T18:19:56.671Z",
+  "genere_le": "2026-11-13T11:20:43.761Z",
   "actus": [
+    {
+      "id": "2ec5069291ea6a267bf31df28fe2fa205582b33c",
+      "titre": "Marne : l'aéroport de Vatry va fermer, victime de la taxe sur les petits colis",
+      "resume": "Le département de la Marne va cesser de financer l'aéroport de Vatry, spécialisé dans le fret, qui emploie 80 salariés. Son activité s'est effondrée après la taxe européenne sur les petits colis importés. La fin progressive de l'activité doit être signée le 4 décembre et pourrait s'étaler sur trois ans.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/transports/la-taxe-sur-les-colis-temu-et-shein-a-fait-chuter-son-activite-de-63-l-aeroport-de-vatry-dans-la-marne-qui-emploie-80-personnes-va-fermer_AV-202611130408.html",
+      "publie_le": "2026-11-13T09:28:35.000Z",
+      "collecte_le": "2026-11-13T11:20:43.761Z",
+      "langue": "fr",
+      "slug": "marne-aeroport-de-vatry-va-fermer-victime-de-la-taxe-sur-les-petits-2ec506",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/2ec5069291ea6a267bf31df28fe2fa205582b33c.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/solelis/2ec5069291ea6a267bf31df28fe2fa205582b33c.svg",
+        "source": "carte",
+        "credit": "Illustration : Solelis",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Solelis avec la mention « Entreprises »",
+        "mots_cles": [
+          "Aéroport de Châlons-Vatry",
+          "cargo airport",
+          "air freight cargo plane"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "0af3cad212f00cdc73ed683e72c48f84cfbdccd1",
+      "titre": "Prime carburant : jusqu'à 1 000 euros exonérés pour les sommes versées avant fin 2026",
+      "resume": "Deux décrets du 20 octobre 2026 relèvent temporairement le plafond d'exonération de la prime carburant versée par l'employeur. Les sommes payées entre le 1er octobre et le 31 décembre 2026 sont exonérées de cotisations dans la limite de 1 000 euros. Les conditions pour en bénéficier sont aussi assouplies jusqu'à la fin de l'année.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Service-Public.fr",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A18926?xtor=RSS-112",
+      "publie_le": "2026-11-12T23:00:00.000Z",
+      "collecte_le": "2026-11-13T11:20:43.761Z",
+      "langue": "fr",
+      "slug": "prime-carburant-jusqu-1-000-euros-exoneres-pour-les-sommes-versees-0af3ca",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/0af3cad212f00cdc73ed683e72c48f84cfbdccd1.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/0af3cad212f00cdc73ed683e72c48f84cfbdccd1.webp",
+        "source": "wikimedia",
+        "credit": "FreCha",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ancienne_station-service_2.jpg",
+        "alt": "Une station-service",
+        "mots_cles": [
+          "Station-service"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "e419c91748e7cf2b7499c009727d836858aec3d6",
       "titre": "Charges patronales : le Sénat repousse au 1er avril 2027 la baisse des allègements",

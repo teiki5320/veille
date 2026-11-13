@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "2ec5069291ea6a267bf31df28fe2fa205582b33c",
+  "slug": "marne-aeroport-de-vatry-va-fermer-victime-de-la-taxe-sur-les-petits-2ec506",
+  "titre": "Marne : l'aéroport de Vatry va fermer, victime de la taxe sur les petits colis",
+  "chapo": "La Marne s'apprête à perdre son principal aéroport. Faute de colis à transporter et de moyens pour le remettre aux normes, Vatry se dirige vers l'arrêt.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jean-Marc Roze, président du conseil départemental de la Marne, a annoncé que la collectivité allait arrêter de financer l'aéroport de Vatry, près de Châlons-en-Champagne. Le 4 décembre, il proposera d'arrêter l'activité par étapes, un processus qui pourrait prendre jusqu'à trois ans.",
+        "Ouvert en 2000 et tourné surtout vers le fret, le site emploie 80 salariés."
+      ]
+    },
+    {
+      "intertitre": "L'effet de la taxe sur les petits colis",
+      "paragraphes": [
+        "Le fret représentait environ 80 % des recettes de l'aéroport. Or une grande partie de ce trafic venait des petits colis commandés en Chine. Or, depuis juillet, Bruxelles prélève 3 euros pour chaque catégorie de produits contenue dans un colis importé valant moins de 150 euros. En novembre, une somme de 2 euros pour frais de gestion est venue s'y ajouter.",
+        "Les commandes des Français ont chuté presque aussitôt. D'après le site FlightAware, le trafic de Vatry a baissé de 63 % sur un an, comparé à une semaine équivalente de 2024. Entre juin et août, la TVA déclarée sur ce type d'achats a reculé de 48 %, selon le ministre chargé des Comptes publics."
+      ]
+    },
+    {
+      "intertitre": "Des travaux impossibles à financer",
+      "paragraphes": [
+        "À cette chute s'ajoute un mur d'investissements. Pour respecter les normes obligatoires, il faudrait investir 27 millions d'euros, avec une première tranche de 12 millions dès 2027.",
+        "Depuis que la Région Grand Est s'est retirée, la plateforme ne reposait plus que sur deux financeurs : le conseil départemental et la communauté d'agglomération châlonnaise. Ni l'un ni l'autre ne s'estime capable de porter seul son avenir. La facture des travaux dépasse leurs moyens."
+      ]
+    },
+    {
+      "intertitre": "Un signal pour les entreprises du fret",
+      "paragraphes": [
+        "Pour les transporteurs et sous-traitants qui travaillent avec l'aéroport, la fermeture annoncée impose d'anticiper. La période de transition prévue doit laisser du temps aux 80 salariés et aux entreprises du secteur pour s'organiser et chercher d'autres débouchés."
+      ]
+    }
+  ],
+  "mots": 325,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/transports/la-taxe-sur-les-colis-temu-et-shein-a-fait-chuter-son-activite-de-63-l-aeroport-de-vatry-dans-la-marne-qui-emploie-80-personnes-va-fermer_AV-202611130408.html",
+  "publie_le": "2026-11-13T09:28:35.000Z",
+  "redige_le": "2026-11-13T11:20:43.761Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/cartes/solelis/2ec5069291ea6a267bf31df28fe2fa205582b33c.svg",
+    "source": "carte",
+    "credit": "Illustration : Solelis",
+    "licence": null,
+    "page": null,
+    "alt": "Illustration Solelis avec la mention « Entreprises »",
+    "mots_cles": [
+      "Aéroport de Châlons-Vatry",
+      "cargo airport",
+      "air freight cargo plane"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

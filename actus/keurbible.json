@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-12T18:19:45.675Z",
+  "genere_le": "2026-11-13T11:20:30.340Z",
   "actus": [
+    {
+      "id": "8a5555efc024d814b322f42459ea5fce22156110",
+      "titre": "Kenya : à Nairobi, une messe entretient la mémoire du cardinal Otunga",
+      "resume": "Le 12 novembre, une messe et une conférence en mémoire du cardinal Maurice Otunga ont réuni fidèles et étudiants à l'Université catholique d'Afrique de l'Est, à Nairobi. Le père Peter Kaigua a invité à prier pour sa béatification et a rappelé son rôle dans l'éducation. La rencontre soutenait aussi un fonds de bourses à son nom.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25303/kenyas-cardinal-otunga-a-spiritual-and-moral-hero-for-defence-of-faith-promotion-of-education-catholic-priest",
+      "publie_le": "2026-11-12T15:12:00.000Z",
+      "collecte_le": "2026-11-13T11:20:30.340Z",
+      "langue": "en",
+      "slug": "kenya-nairobi-une-messe-entretient-la-memoire-du-cardinal-otunga-8a5555",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/8a5555efc024d814b322f42459ea5fce22156110.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/8a5555efc024d814b322f42459ea5fce22156110.webp",
+        "source": "wikimedia",
+        "credit": "Giovanni Cerretani",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Catholic_University_of_Eastern_Africa_-_garden.jpg",
+        "alt": "Le cardinal kényan Maurice Michael Otunga",
+        "mots_cles": [
+          "Catholic University of Eastern Africa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "b4fdd777416bc4c873ad83368c5ea42eccca82ed",
+      "titre": "Tanzanie : le spiritain Joseph Mashaka Triphon, premier évêque du diocèse de Nzega",
+      "resume": "Le pape Léon XIV a nommé le père Joseph Mashaka Triphon, spiritain, premier évêque du nouveau diocèse de Nzega, en Tanzanie. Ce diocèse, détaché de l'archidiocèse de Tabora, compte environ 139 000 catholiques et 13 paroisses. À Bagamoyo, le futur évêque a demandé aux fidèles de prier pour lui.",
+      "theme": "culture",
+      "pays": [
+        "TZ"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25321/it-is-not-an-easy-task-spiritan-bishop-elect-in-tanzania-appeals-for-prayers-as-he-prepares-to-lead-new-diocese",
+      "publie_le": "2026-11-12T12:49:00.000Z",
+      "collecte_le": "2026-11-13T11:20:30.340Z",
+      "langue": "en",
+      "slug": "tanzanie-le-spiritain-joseph-mashaka-triphon-premier-eveque-du-diocese-b4fdd7",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/b4fdd777416bc4c873ad83368c5ea42eccca82ed.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/b4fdd777416bc4c873ad83368c5ea42eccca82ed.webp",
+        "source": "wikimedia",
+        "credit": "Orrling",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Village_in_Tabora_Region.jpg",
+        "alt": "La ville de Nzega, dans la région de Tabora, en Tanzanie",
+        "mots_cles": [
+          "Nzega"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "45934e7360bc0e3d18d071ae6c71326ae154c9e7",
       "titre": "Soudan : la grande cathédrale de Vieux Dongola livre de nouveaux secrets",

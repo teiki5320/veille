@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "b4fdd777416bc4c873ad83368c5ea42eccca82ed",
+  "slug": "tanzanie-le-spiritain-joseph-mashaka-triphon-premier-eveque-du-diocese-b4fdd7",
+  "titre": "Tanzanie : le spiritain Joseph Mashaka Triphon, premier évêque du diocèse de Nzega",
+  "chapo": "La Tanzanie compte un nouveau diocèse catholique. Le pape Léon XIV a confié celui de Nzega à un religieux spiritain, le père Joseph Mashaka Triphon.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La nomination a été annoncée le mercredi 11 novembre par le Bureau de presse du Saint-Siège. Le père Joseph Mashaka Triphon, membre de la Congrégation du Saint-Esprit, devient le premier évêque du diocèse de Nzega, tout juste créé dans le centre de la Tanzanie.",
+        "Le même jour, l'évêque de Bagamoyo, Mgr Stephano Lameck Musomba, a annoncé la nouvelle aux fidèles lors de la messe à la cathédrale du Cœur-Immaculé-de-Marie. Il a salué le dévouement du père Mashaka, qui était curé de cette cathédrale depuis 2025."
+      ]
+    },
+    {
+      "intertitre": "Un appel à la prière",
+      "paragraphes": [
+        "Devant l'assemblée, le futur évêque a reconnu l'ampleur de la charge qui l'attend. Il a demandé aux fidèles de prier pour lui afin de rester fidèle à sa mission. Il a aussi confié que cette nomination changeait son regard : autrefois, il se contentait de féliciter les nouveaux évêques ; aujourd'hui, il mesure le poids de la responsabilité."
+      ]
+    },
+    {
+      "intertitre": "Le nouveau diocèse en chiffres",
+      "paragraphes": [
+        "Le diocèse de Nzega a été formé sur une partie du territoire de l'archidiocèse de Tabora, dont il dépend. Il couvre les districts de Nzega et d'Igunga, dans la région de Tabora. L'église Sainte-Bernadette de Nzega devient sa cathédrale.",
+        "Selon le Vatican, il compte 139 304 catholiques pour 1 263 147 habitants. Il démarre avec 13 paroisses, deux quasi-paroisses et 33 prêtres, dont 25 diocésains."
+      ]
+    },
+    {
+      "intertitre": "Un parcours entre l'Afrique et l'Europe",
+      "paragraphes": [
+        "Né le 15 janvier 1962 en Tanzanie, Joseph Mashaka Triphon a été ordonné prêtre en 1995. Il a étudié la philosophie à Arusha et la théologie au Tangaza College de Nairobi. De 1995 à 2003, il a travaillé pour la province française des spiritains, auprès des jeunes et des écoles, tout en étudiant à l'université de Strasbourg.",
+        "De retour en Tanzanie, il a dirigé l'école Libermann de Kipawa, à Dar es Salaam, puis exercé comme curé et doyen, notamment dans le diocèse de Kigoma."
+      ]
+    }
+  ],
+  "mots": 333,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "TZ"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25321/it-is-not-an-easy-task-spiritan-bishop-elect-in-tanzania-appeals-for-prayers-as-he-prepares-to-lead-new-diocese",
+  "publie_le": "2026-11-12T12:49:00.000Z",
+  "redige_le": "2026-11-13T11:20:30.340Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/b4fdd777416bc4c873ad83368c5ea42eccca82ed.webp",
+    "source": "wikimedia",
+    "credit": "Orrling",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Village_in_Tabora_Region.jpg",
+    "alt": "La ville de Nzega, dans la région de Tabora, en Tanzanie",
+    "mots_cles": [
+      "Nzega"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

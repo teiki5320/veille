@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-12T18:21:01.925Z",
+  "genere_le": "2026-11-13T11:20:43.749Z",
   "articles": [
+    {
+      "id": "d7be61d121456a30e1b5fa10bb5120bf93336d38",
+      "slug": "canada-ashley-paling-chercheuse-en-serre-au-niagara-college-recoit-un-d7be61",
+      "titre": "Canada : Ashley Paling, chercheuse en serre au Niagara College, reçoit un prix STEM",
+      "publie_le": "2026-11-12T20:48:44.000Z",
+      "redige_le": "2026-11-13T11:20:41.786Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/d7be61d121456a30e1b5fa10bb5120bf93336d38.json"
+    },
     {
       "id": "152958cb810c2e888993b343225509390384a2a5",
       "slug": "une-serre-pour-la-lune-le-dlr-la-nasa-et-agence-spatiale-canadienne-152958",

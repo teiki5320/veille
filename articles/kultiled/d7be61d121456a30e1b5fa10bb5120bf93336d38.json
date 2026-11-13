@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "d7be61d121456a30e1b5fa10bb5120bf93336d38",
+  "slug": "canada-ashley-paling-chercheuse-en-serre-au-niagara-college-recoit-un-d7be61",
+  "titre": "Canada : Ashley Paling, chercheuse en serre au Niagara College, reçoit un prix STEM",
+  "chapo": "La recherche en serre a sa lauréate dans la région du Niagara. Ashley Paling, du Niagara College, a été récompensée pour ses travaux appliqués à la production horticole.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ashley Paling dirige la recherche au centre d'innovation en sciences horticoles et environnementales du Niagara College (HESIC), en Ontario. Elle vient de recevoir le prix Science, technologie, ingénierie et mathématiques des Women in Business Awards 2026.",
+        "Ces distinctions sont remises par la Chambre de commerce du Grand Niagara et l'association Women in Niagara. Elles saluent des femmes qui apportent une contribution marquante à l'économie, au leadership et à leur communauté."
+      ]
+    },
+    {
+      "intertitre": "Des essais concrets en serre",
+      "paragraphes": [
+        "Les travaux d'Ashley Paling portent sur de nombreux sujets horticoles. Elle teste surtout de nouvelles méthodes et technologies destinées aux producteurs commerciaux. Dans la serre de recherche du HESIC, elle conçoit et conduit des essais qui fournissent des données pratiques au secteur, tout en encadrant des étudiants assistants.",
+        "L'un de ses projets a porté sur le vermichar, un amendement du substrat qui associe lombricompost et biochar. L'essai a mesuré ses effets sur du basilic et des fraises cultivés sous serre. Elle s'est aussi intéressée aux plantes relais utilisées pour la lutte biologique contre les ravageurs."
+      ]
+    },
+    {
+      "intertitre": "Un parcours rapide",
+      "paragraphes": [
+        "Diplômée en 2023 du programme de technicienne horticole du Niagara College, Ashley Paling a commencé au HESIC en 2021 comme assistante de recherche à temps partiel, pendant ses études. Elle a ensuite enseigné dans les filières horticulture, serre et paysage, avant de prendre la tête de la recherche du centre en février 2025.",
+        "En mai dernier, elle figurait déjà parmi les quarante lauréats de moins de quarante ans distingués dans la région du Niagara."
+      ]
+    },
+    {
+      "intertitre": "Partager les résultats avec les producteurs",
+      "paragraphes": [
+        "La chercheuse publie régulièrement ses résultats dans la presse spécialisée canadienne des serres. Elle a animé une journée dédiée aux producteurs et aidé à organiser la journée des étudiants de la Conférence canadienne sur les serres.",
+        "Selon elle, mettre en lumière les femmes dans les sciences peut inciter d'autres jeunes à choisir ces métiers."
+      ]
+    }
+  ],
+  "mots": 335,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "tags": [
+    "legume:basilic",
+    "legume:fraise"
+  ],
+  "source_nom": "Greenhouse Canada",
+  "source_url": "https://www.greenhousecanada.com/horticultural-2026-niagara-stem/",
+  "publie_le": "2026-11-12T20:48:44.000Z",
+  "redige_le": "2026-11-13T11:20:41.786Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/d7be61d121456a30e1b5fa10bb5120bf93336d38.webp",
+    "source": "wikimedia",
+    "credit": "Hannah Clover",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Niagara_College_NOTL_campus.jpg",
+    "alt": "Le campus du Niagara College, dans la région du Niagara, au Canada",
+    "mots_cles": [
+      "Niagara College"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

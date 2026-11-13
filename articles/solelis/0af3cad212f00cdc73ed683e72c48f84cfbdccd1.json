@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "0af3cad212f00cdc73ed683e72c48f84cfbdccd1",
+  "slug": "prime-carburant-jusqu-1-000-euros-exoneres-pour-les-sommes-versees-0af3ca",
+  "titre": "Prime carburant : jusqu'à 1 000 euros exonérés pour les sommes versées avant fin 2026",
+  "chapo": "Face à la flambée des carburants, l'État laisse aux employeurs plus de marge pour aider leurs salariés. La prime carburant peut être exonérée jusqu'à 1 000 euros d'ici la fin de l'année.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le gouvernement l'avait promis en septembre ; deux décrets publiés au Journal officiel le 21 octobre l'ont acté. Ce que l'employeur verse à ce titre du 1er octobre à la fin de décembre 2026 échappe aux cotisations et contributions sociales, jusqu'à 1 000 euros par salarié.",
+        "Cette mesure ne concerne que les frais de carburant. Elle ne s'applique ni à la recharge des véhicules électriques, ni au forfait mobilités durables."
+      ]
+    },
+    {
+      "intertitre": "Une prime facultative",
+      "paragraphes": [
+        "La prime de transport aide le salarié qui utilise son véhicule pour aller travailler. Elle n'est pas obligatoire. Ses règles sont fixées par un accord d'entreprise, à défaut par un accord de branche, ou sinon par une décision de l'employeur, après consultation du CSE quand l'entreprise en a un.",
+        "En temps normal, les plafonds d'exonération restent de 300 euros par an pour le carburant et de 600 euros pour l'électricité, l'hybride rechargeable ou l'hydrogène. Le forfait mobilités durables est aussi limité à 600 euros, ou 900 euros s'il est cumulé avec la prise en charge d'un abonnement de transport."
+      ]
+    },
+    {
+      "intertitre": "Des conditions assouplies",
+      "paragraphes": [
+        "D'ordinaire, la prime carburant ne peut pas s'ajouter au remboursement obligatoire des abonnements de transport public. Elle est aussi réservée aux salariés contraints de prendre leur voiture : absence de transport collectif ou horaires incompatibles.",
+        "Jusqu'au 31 décembre 2026, ces conditions sont modifiées pour les sommes versées au titre du carburant."
+      ]
+    },
+    {
+      "intertitre": "Ce que peut faire une petite entreprise",
+      "paragraphes": [
+        "Pour un dirigeant de TPE ou de PME, c'est un moyen de soutenir le pouvoir d'achat de ses équipes sans alourdir ses charges sociales. Le versement doit intervenir avant la fin de l'année pour profiter du plafond relevé. Les détails sont disponibles auprès de l'Urssaf et sur Service-Public.fr."
+      ]
+    }
+  ],
+  "mots": 313,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Service-Public.fr",
+  "source_url": "https://www.service-public.gouv.fr/particuliers/actualites/A18926?xtor=RSS-112",
+  "publie_le": "2026-11-12T23:00:00.000Z",
+  "redige_le": "2026-11-13T11:20:43.761Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/0af3cad212f00cdc73ed683e72c48f84cfbdccd1.webp",
+    "source": "wikimedia",
+    "credit": "FreCha",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ancienne_station-service_2.jpg",
+    "alt": "Une station-service",
+    "mots_cles": [
+      "Station-service"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
