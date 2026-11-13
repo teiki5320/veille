@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-13T11:20:36.545Z",
+  "genere_le": "2026-11-13T11:22:15.583Z",
   "actus": [
     {
       "id": "0b3f1f641796a6ac2407e19ec82d2fee7228107f",
@@ -59,12 +59,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/da59180d79ef9892332d0a626ad33a4327c59696.webp",
         "source": "wikimedia",
-        "credit": "Pedro Semitiel",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Bryan_Mbeumo.jpg",
-        "alt": "Bryan Mbeumo, capitaine du Cameroun",
+        "credit": "Дмитрий Садовник",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cameroon-Chilie_(12).jpg",
+        "alt": "Des joueurs de l'équipe du Cameroun",
         "mots_cles": [
-          "Bryan Mbeumo"
+          "Cameroon national football team"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -91,12 +91,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/73780e6a3cfef430eeba53503af486929b5fa75c.webp",
         "source": "wikimedia",
-        "credit": "Timmy96",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(2).jpg",
-        "alt": "Le stade Léopold-Sédar-Senghor de Dakar, où le Sénégal a reçu le Soudan",
+        "credit": "Bigmatbasket",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Boulaye_Dia_Reims.jpg",
+        "alt": "Boulaye Dia, attaquant du Sénégal",
         "mots_cles": [
-          "Nicolas Jackson"
+          "Boulaye Dia"
         ],
         "largeur": 1600,
         "hauteur": 900

@@ -3059,11 +3059,11 @@
     },
     {
       "id": "da59180d79ef9892332d0a626ad33a4327c59696",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bryan_Mbeumo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cameroon-Chilie_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "73780e6a3cfef430eeba53503af486929b5fa75c",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/4/47/Boulaye_Dia_Reims.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "6058bf941a3b651c135faeaff078809e6d2ab969",
@@ -3192,9 +3192,9 @@
     "6058bf941a3b651c135faeaff078809e6d2ab969": "carte:keurfoot:6058bf941a3b651c135faeaff078809e6d2ab969",
     "edea951dc76ff1c4c710c1416142e5bef51aa3d2": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mamelodi_Sundowns_Ladies_celebrate_win.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "77407df9cc071dd9316e98b52785edf2d600f38e": "https://upload.wikimedia.org/wikipedia/commons/4/4b/C%C3%A9dric_Bakambu_2016_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "73780e6a3cfef430eeba53503af486929b5fa75c": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "73780e6a3cfef430eeba53503af486929b5fa75c": "https://upload.wikimedia.org/wikipedia/commons/4/47/Boulaye_Dia_Reims.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "0b3f1f641796a6ac2407e19ec82d2fee7228107f": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Herv%C3%A9_Renard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "da59180d79ef9892332d0a626ad33a4327c59696": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bryan_Mbeumo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "da59180d79ef9892332d0a626ad33a4327c59696": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cameroon-Chilie_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [
@@ -3225,6 +3225,14 @@
     ],
     "6058bf941a3b651c135faeaff078809e6d2ab969": [
       "https://upload.wikimedia.org/wikipedia/commons/5/5e/FC_Semenivka_v_Senegal_under-21_football_team_%282016-05-20%29_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "73780e6a3cfef430eeba53503af486929b5fa75c": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/FC_Semenivka_v_Senegal_under-21_football_team_%282016-05-20%29_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "da59180d79ef9892332d0a626ad33a4327c59696": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Bryan_Mbeumo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2a/SANTE-Le_Cameroun_%C3%A0_l%27%C3%A8re_de_la_COVID-19_esplanade_du_stade_de_Japoma_mesures_sanitaires_obligatoires-%40F.omgba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
