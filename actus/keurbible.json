@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-13T18:19:47.877Z",
+  "genere_le": "2026-11-13T18:20:40.701Z",
   "actus": [
     {
       "id": "3e71cfe276a1659da23c7350e518c64d40f23925",
@@ -22,12 +22,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbible/3e71cfe276a1659da23c7350e518c64d40f23925.webp",
         "source": "wikimedia",
-        "credit": "Syced",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Ouagadougou_street_in_2004.jpg",
+        "credit": "Sputniktilt",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cathedrale_Ouagadougou.jpg",
         "alt": "La cathédrale de l'Immaculée-Conception de Ouagadougou, au Burkina Faso",
         "mots_cles": [
-          "Ouagadougou"
+          "Ouagadougou Cathedral"
         ],
         "largeur": 1600,
         "hauteur": 900

@@ -1465,7 +1465,7 @@
   "images_recentes": [
     {
       "id": "3e71cfe276a1659da23c7350e518c64d40f23925",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ouagadougou_street_in_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cathedrale_Ouagadougou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "24bdee3000b144548344ded8871bcbef6802e5bb",
@@ -1583,7 +1583,7 @@
     "8a5555efc024d814b322f42459ea5fce22156110": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Catholic_University_of_Eastern_Africa_-_garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "b4fdd777416bc4c873ad83368c5ea42eccca82ed": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Village_in_Tabora_Region.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "24bdee3000b144548344ded8871bcbef6802e5bb": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Business_at_Marikiti_Market_in_Kisii_County_%2CKenya_%2CEast_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "3e71cfe276a1659da23c7350e518c64d40f23925": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ouagadougou_street_in_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "3e71cfe276a1659da23c7350e518c64d40f23925": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cathedrale_Ouagadougou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "49a135982501fc5a7ca02c13a80811ebf5ed2b62": [
@@ -1602,6 +1602,9 @@
       "https://upload.wikimedia.org/wikipedia/commons/1/1b/IMGP7495-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/d/d1/Winged_angel%2C_fresco_at_a_Medieval_church%2C_Old_Dongola_site%2C_Sudan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dongola_Throne_Hall_east-west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "3e71cfe276a1659da23c7350e518c64d40f23925": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/24/Ouagadougou_street_in_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
