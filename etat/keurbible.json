@@ -1454,7 +1454,7 @@
   "images_recentes": [
     {
       "id": "f13bdb8d6569f9a932ff0d9866e399b183bf12a0",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Babban_Gwani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://live.staticflickr.com/8585/16399953108_59e207ced1_b.jpg"
     },
     {
       "id": "b44a247048ac1914c24a52cf1b17c7cbc9c85971",
@@ -1574,7 +1574,7 @@
     "24bdee3000b144548344ded8871bcbef6802e5bb": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Business_at_Marikiti_Market_in_Kisii_County_%2CKenya_%2CEast_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "3e71cfe276a1659da23c7350e518c64d40f23925": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cathedrale_Ouagadougou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "b44a247048ac1914c24a52cf1b17c7cbc9c85971": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Church_of_Muxima%2C_pilgrimage_site%2C_Bengo_province.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "f13bdb8d6569f9a932ff0d9866e399b183bf12a0": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Babban_Gwani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "f13bdb8d6569f9a932ff0d9866e399b183bf12a0": "https://live.staticflickr.com/8585/16399953108_59e207ced1_b.jpg",
     "596812de2aee13f3f43ee8ef2a29b7d0d5159104": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bungoma%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
@@ -1597,6 +1597,9 @@
     ],
     "3e71cfe276a1659da23c7350e518c64d40f23925": [
       "https://upload.wikimedia.org/wikipedia/commons/2/24/Ouagadougou_street_in_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "f13bdb8d6569f9a932ff0d9866e399b183bf12a0": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d2/Babban_Gwani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }

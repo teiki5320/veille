@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-14T11:21:45.800Z",
+  "genere_le": "2026-11-14T11:23:02.826Z",
   "actus": [
     {
       "id": "f13bdb8d6569f9a932ff0d9866e399b183bf12a0",
@@ -24,13 +24,13 @@
       "lecture_min": 2,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbible/f13bdb8d6569f9a932ff0d9866e399b183bf12a0.webp",
-        "source": "wikimedia",
-        "credit": "Arcyax",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Babban_Gwani.jpg",
-        "alt": "La ville de Bauchi, dans le nord du Nigeria",
+        "source": "openverse",
+        "credit": "Fæ",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/50398299@N08/16399953108",
+        "alt": "Une église en Afrique de l'Ouest",
         "mots_cles": [
-          "Bauchi"
+          "nigeria catholic church"
         ],
         "largeur": 1600,
         "hauteur": 900

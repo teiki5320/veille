@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-14T11:21:52.688Z",
+  "genere_le": "2026-11-14T11:23:26.376Z",
   "actus": [
     {
       "id": "db89a5624134bf245b3f0e3b54366c66dbf0a1ea",
@@ -102,12 +102,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/06147a6d20cf3f3f7a76b5e7ed0eba22ec0bf671.webp",
         "source": "wikimedia",
-        "credit": "Laura Hale",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:2018_IBSA_Blind_Football_Madrid_Iran_v_Mali_(June_16).JPG",
-        "alt": "L'équipe du Mali de football",
+        "credit": "Paté kroute",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Doumbia_asse_sb_2425.png",
+        "alt": "Un joueur de l'équipe du Mali de football",
         "mots_cles": [
-          "Mali national football team"
+          "Kamory Doumbia"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -133,13 +133,13 @@
       "lecture_min": 1,
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/17020faeb624c7c4732cb040a927e13b979087a0.webp",
-        "source": "openverse",
-        "credit": "US Army Africa",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/36281822@N08/5413471186",
-        "alt": "Des joueurs lors d'un match de football en Afrique",
+        "source": "wikimedia",
+        "credit": "Rotsee2",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nyayo_stadium.jpg",
+        "alt": "Le Nyayo National Stadium de Nairobi, au Kenya",
         "mots_cles": [
-          "kenya football"
+          "Nyayo National Stadium"
         ],
         "largeur": 1600,
         "hauteur": 900
