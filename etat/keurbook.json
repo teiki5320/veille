@@ -556,7 +556,25 @@
     "e4be0c232b7625b3a03d51ff4ad51d2b0cc14912": "2026-11-14T11:21:50.919Z",
     "6de02b37a6a0df27486168b3134d09d6c355d671": "2026-11-14T11:21:50.919Z",
     "59b9e674cf0aacce39e02994e9eccde3d46b65bf": "2026-11-14T11:21:50.919Z",
-    "f847810bb2ae0deaa92af5d0144b960cb722822c": "2026-11-14T11:21:50.919Z"
+    "f847810bb2ae0deaa92af5d0144b960cb722822c": "2026-11-14T11:21:50.919Z",
+    "0295c595564b74f040e37e3ef1a72dcefce3113d": "2026-11-14T18:14:46.451Z",
+    "e3e84095498d48d359e1b626c580bacfcfebed3f": "2026-11-14T18:14:46.451Z",
+    "e59373ec492e47260d38d79d3ee361c53f442a27": "2026-11-14T18:14:46.451Z",
+    "e95e156d17e7eb0a0f09e49c9bf3306b88d26b56": "2026-11-14T18:14:46.451Z",
+    "8c16e05c7a213aa2f6efc7b9abc3694d7f709a39": "2026-11-14T18:14:46.451Z",
+    "81a77c2dea88e98cc2ed9df82be5cf18af49bced": "2026-11-14T18:14:46.451Z",
+    "1a45f6e018472e344fd9dd937fbfc758378266fe": "2026-11-14T18:14:46.451Z",
+    "86266478dee38994748290aec4ff2b368fe650f3": "2026-11-14T18:14:46.451Z",
+    "d224fe0116aefa37ac2b70f022063ead2ee5bd2d": "2026-11-14T18:14:46.451Z",
+    "96441889166e1fe20cebd9564264536c0e2548bb": "2026-11-14T18:14:46.451Z",
+    "c2ae475a82b76d644afc6d57d13fa98460ab474b": "2026-11-14T18:14:46.451Z",
+    "5feef14cae1dee5a8fe8b9d6973720ae8db5313d": "2026-11-14T18:14:46.451Z",
+    "46b62517b034bcffa86a6a6cd0dd67534fe7c770": "2026-11-14T18:14:46.451Z",
+    "69f5ccf037ec6ef2ec5be701ee55d77c827299bb": "2026-11-14T18:14:46.451Z",
+    "97f2e78b897a10a08406acd40b74c812f233ac5e": "2026-11-14T18:14:46.451Z",
+    "ea31e95be899b652d05efac03c7ad03dff7cef50": "2026-11-14T18:14:46.451Z",
+    "9c20c38cd51a1817a9a14c33ee88d7a1395c7ddb": "2026-11-14T18:14:46.451Z",
+    "56be2a0f847e87d98f190e37b74cb7db5e547b01": "2026-11-14T18:14:46.451Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
@@ -569,65 +587,65 @@
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 2
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 0
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
-      "articles": 10
+      "articles": 9
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 3
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:34.382Z",
+      "dernier_succes": "2026-11-14T18:12:28.032Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     }
   },
   "images_recentes": [

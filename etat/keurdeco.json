@@ -670,55 +670,65 @@
     "f449f115765333cb83360abf968159cdc1f70918": "2026-11-14T11:21:50.937Z",
     "25b233772fabd4ea19099346b55da1e9cca5cb48": "2026-11-14T11:21:50.937Z",
     "a0c2cf67e5b844d239050e33d5f2350b9ff79021": "2026-11-14T11:21:50.937Z",
-    "54e4f90331142d12458c9e3a4e64520b3c049f1c": "2026-11-14T11:21:50.937Z"
+    "54e4f90331142d12458c9e3a4e64520b3c049f1c": "2026-11-14T11:21:50.937Z",
+    "fcfe16e1e94e8ca2232e40daae36e6347587e6a8": "2026-11-14T18:14:46.461Z",
+    "8b212bb1945f36b98fde47d7abd3f9a34cce917b": "2026-11-14T18:14:46.461Z",
+    "b4eef953cb172a28283cdebc0ac86a64d72d1bc8": "2026-11-14T18:14:46.461Z",
+    "b7610560fa8d3ca80d307ec6adb197f38dd515f7": "2026-11-14T18:14:46.461Z",
+    "46b62517b034bcffa86a6a6cd0dd67534fe7c770": "2026-11-14T18:14:46.461Z",
+    "69f5ccf037ec6ef2ec5be701ee55d77c827299bb": "2026-11-14T18:14:46.461Z",
+    "14aff36eac1fc44d1d4d5d6c39b770ca3d00878a": "2026-11-14T18:14:46.461Z",
+    "dfa126542b74083b21d450faaea82b5ce3c4c730": "2026-11-14T18:14:46.461Z",
+    "b8a138cd0765c01d15e179d9c645a9090b4f3476": "2026-11-14T18:14:46.461Z",
+    "a644b64037b35b3602e8a4d81edc54d3eadcf9e2": "2026-11-14T18:14:46.461Z"
   },
   "flux": {
     "https://www.admagazine.fr/feed/rss": {
       "nom": "AD Magazine",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://ideat.fr/feed/": {
       "nom": "Ideat",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.connaissancedesarts.com/feed/": {
       "nom": "Connaissance des Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://www.beauxarts.com/feed/": {
       "nom": "Beaux Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 1
     },
     "https://www.lejournaldesarts.fr/rss.xml": {
       "nom": "Le Journal des Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.lemonde.fr/arts/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 0
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 2
     },
@@ -732,98 +742,98 @@
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 0
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.dezeen.com/feed/": {
       "nom": "Dezeen",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 1
     },
     "https://www.designboom.com/feed/": {
       "nom": "Designboom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 3
     },
     "https://www.wallpaper.com/feeds/all": {
       "nom": "Wallpaper*",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 0
     },
     "https://design-milk.com/feed/": {
       "nom": "Design Milk",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 0
     },
     "https://www.designindaba.com/rss.xml": {
       "nom": "Design Indaba",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://maisonsdumaroc.com/feed": {
       "nom": "Maisons du Maroc",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://visi.co.za/feed/": {
       "nom": "Visi",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://artafricamagazine.org/feed/": {
       "nom": "Art Africa",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://10and5.com/feed/": {
       "nom": "10and5",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.bellanaija.com/category/style/feed/": {
       "nom": "BellaNaija",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://businessday.ng/category/life-arts/feed/": {
       "nom": "BusinessDay",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://afrocosmopolitan.com/feed": {
       "nom": "Afrocosmopolitan",
       "erreurs": 0,
-      "dernier_succes": "2026-11-14T11:12:46.342Z",
+      "dernier_succes": "2026-11-14T18:12:42.377Z",
       "derniere_erreur": null,
       "articles": 0
     }

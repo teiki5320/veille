@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-14T11:23:02.862Z",
+  "genere_le": "2026-11-14T18:14:46.450Z",
   "articles": [
+    {
+      "id": "1a68b812ad20b16c415d54131750013f3a0ce2de",
+      "slug": "kenya-eldoret-devient-archidiocese-mgr-joseph-obanyi-sagwe-en-est-le-1a68b8",
+      "titre": "Kenya : Eldoret devient archidiocèse, Mgr Joseph Obanyi Sagwe en est le premier archevêque",
+      "publie_le": "2026-11-14T11:10:00.000Z",
+      "redige_le": "2026-11-14T18:14:43.197Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/1a68b812ad20b16c415d54131750013f3a0ce2de.json"
+    },
     {
       "id": "f13bdb8d6569f9a932ff0d9866e399b183bf12a0",
       "slug": "nigeria-un-livre-raconte-oeuvre-des-pretres-ecossais-dans-le-diocese-f13bdb",

@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-14T11:23:02.826Z",
+  "genere_le": "2026-11-14T18:14:43.197Z",
   "actus": [
+    {
+      "id": "1a68b812ad20b16c415d54131750013f3a0ce2de",
+      "titre": "Kenya : Eldoret devient archidiocèse, Mgr Joseph Obanyi Sagwe en est le premier archevêque",
+      "resume": "Le pape Léon XIV a élevé Eldoret, dans l'ouest du Kenya, au rang d'archidiocèse métropolitain. Mgr Joseph Obanyi Sagwe, jusqu'ici évêque de Kakamega, en devient le premier archevêque. La nouvelle province regroupe aussi les diocèses de Lodwar, Kapsabet, Kitale et Kericho.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25363/pope-leo-xiv-erects-new-metropolitan-see-in-kenya-appoints-pioneer-local-ordinary",
+      "publie_le": "2026-11-14T11:10:00.000Z",
+      "collecte_le": "2026-11-14T18:14:43.197Z",
+      "langue": "en",
+      "slug": "kenya-eldoret-devient-archidiocese-mgr-joseph-obanyi-sagwe-en-est-le-1a68b8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/1a68b812ad20b16c415d54131750013f3a0ce2de.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/1a68b812ad20b16c415d54131750013f3a0ce2de.webp",
+        "source": "wikimedia",
+        "credit": "Daryona",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Eldoret_3.JPG",
+        "alt": "Vue de la ville d'Eldoret, dans l'ouest du Kenya",
+        "mots_cles": [
+          "Eldoret"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f13bdb8d6569f9a932ff0d9866e399b183bf12a0",
       "titre": "Nigeria : un livre raconte l'œuvre des prêtres écossais dans le diocèse de Bauchi",

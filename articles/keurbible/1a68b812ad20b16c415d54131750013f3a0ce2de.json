@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "1a68b812ad20b16c415d54131750013f3a0ce2de",
+  "slug": "kenya-eldoret-devient-archidiocese-mgr-joseph-obanyi-sagwe-en-est-le-1a68b8",
+  "titre": "Kenya : Eldoret devient archidiocèse, Mgr Joseph Obanyi Sagwe en est le premier archevêque",
+  "chapo": "L'Église catholique du Kenya compte une province de plus. Le pape Léon XIV a fait d'Eldoret un archidiocèse métropolitain et confié sa conduite à Mgr Joseph Obanyi Sagwe, évêque de Kakamega.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La décision a été rendue publique par le Bureau de presse du Saint-Siège le samedi 14 novembre 2026. Eldoret, grande ville de la vallée du Rift, dans l'ouest du Kenya, passe du statut de diocèse à celui d'archidiocèse, à la tête d'une nouvelle province ecclésiastique.",
+        "Quatre diocèses lui sont désormais rattachés : Lodwar, Kapsabet, Kitale et Kericho. Jusqu'ici, les trois premiers dépendaient de l'archidiocèse de Kisumu, tandis que Kericho relevait de celui de Nairobi."
+      ]
+    },
+    {
+      "intertitre": "Un évêque déjà familier du diocèse",
+      "paragraphes": [
+        "Mgr Joseph Obanyi Sagwe connaît bien Eldoret. Évêque de Kakamega, il administrait aussi ce diocèse à titre apostolique depuis que Mgr Dominic Kimengich a été nommé archevêque coadjuteur de Mombasa.",
+        "Né en 1967 à Kebiro, dans le diocèse de Kisii, il a été ordonné prêtre pour ce même diocèse en octobre 1996. Après trois années comme vicaire de paroisse et responsable diocésain de la pastorale, il a étudié de 1999 à 2004 à l'Université pontificale du Latran, à Rome.",
+        "De retour au pays, il est devenu curé de la paroisse de la cathédrale Saint-Charles-Lwanga de Kisii en 2004, puis vicaire général du diocèse dès 2005. En décembre 2014, le pape François l'a nommé évêque de Kakamega, où il a succédé à Mgr Philip Sulumeti. De 2018 à 2022, il a également administré le diocèse de Bungoma."
+      ]
+    },
+    {
+      "intertitre": "Soixante-dix ans d'histoire",
+      "paragraphes": [
+        "La présence catholique organisée à Eldoret remonte à juin 1953, avec la création d'une préfecture apostolique détachée du diocèse de Kisumu. Elle est devenue diocèse en octobre 1959.",
+        "Plusieurs des diocèses de la nouvelle province sont nés de son territoire : Lodwar en 1968, Kitale en 1998 et Kapsabet en 2025. Kericho, fondé en 1995, avait quant à lui été détaché du diocèse de Nakuru."
+      ]
+    },
+    {
+      "intertitre": "La suite",
+      "paragraphes": [
+        "L'Église du Kenya compte ainsi une province ecclésiastique de plus dans l'ouest du pays. La date d'installation du nouvel archevêque n'a pas encore été communiquée."
+      ]
+    }
+  ],
+  "mots": 342,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "KE"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25363/pope-leo-xiv-erects-new-metropolitan-see-in-kenya-appoints-pioneer-local-ordinary",
+  "publie_le": "2026-11-14T11:10:00.000Z",
+  "redige_le": "2026-11-14T18:14:43.197Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/1a68b812ad20b16c415d54131750013f3a0ce2de.webp",
+    "source": "wikimedia",
+    "credit": "Daryona",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eldoret_3.JPG",
+    "alt": "Vue de la ville d'Eldoret, dans l'ouest du Kenya",
+    "mots_cles": [
+      "Eldoret"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
