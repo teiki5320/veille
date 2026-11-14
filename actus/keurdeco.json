@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-14T11:21:50.937Z",
+  "genere_le": "2026-11-14T13:16:36.638Z",
   "actus": [
     {
       "id": "161e4c4f7507ed3050195629f2e46ed2a2b7a978",
@@ -89,12 +89,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurdeco/1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc.webp",
         "source": "wikimedia",
-        "credit": "Kitangaza.1953",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Kinshasa_Mall.jpg",
-        "alt": "Une vue de Kinshasa, capitale de la République démocratique du Congo",
+        "credit": "Zaire National Tourism Office",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Central_Market,_Kinshasa,_ZNTO.jpg",
+        "alt": "Le marché central de Kinshasa (Zando), sur une photo ancienne",
         "mots_cles": [
-          "Kinshasa"
+          "Central Market, Kinshasa, ZNTO.jpg"
         ],
         "largeur": 1600,
         "hauteur": 900

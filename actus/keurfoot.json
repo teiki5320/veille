@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-14T11:23:26.376Z",
+  "genere_le": "2026-11-14T13:16:34.654Z",
   "actus": [
     {
       "id": "db89a5624134bf245b3f0e3b54366c66dbf0a1ea",
@@ -171,12 +171,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/1b670a36efcf8c386a7e1841a590567b63886ef2.webp",
         "source": "wikimedia",
-        "credit": "Assabah",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Tunisia_National_Football_Team_1978.jpg",
-        "alt": "L'équipe de Tunisie de football",
+        "credit": "Ashoola",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Stade_taieb_mehiri.JPG",
+        "alt": "Le stade Taïeb-Mhiri de Sfax, où s'est joué le match",
         "mots_cles": [
-          "Tunisia national football team"
+          "Stade taieb mehiri.JPG"
         ],
         "largeur": 1600,
         "hauteur": 900
