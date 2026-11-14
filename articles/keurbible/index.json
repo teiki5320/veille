@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-13T18:20:40.730Z",
+  "genere_le": "2026-11-14T11:21:50.917Z",
   "articles": [
+    {
+      "id": "f13bdb8d6569f9a932ff0d9866e399b183bf12a0",
+      "slug": "nigeria-un-livre-raconte-oeuvre-des-pretres-ecossais-dans-le-diocese-f13bdb",
+      "titre": "Nigeria : un livre raconte l'œuvre des prêtres écossais dans le diocèse de Bauchi",
+      "publie_le": "2026-11-13T19:22:00.000Z",
+      "redige_le": "2026-11-14T11:21:45.800Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/f13bdb8d6569f9a932ff0d9866e399b183bf12a0.json"
+    },
+    {
+      "id": "b44a247048ac1914c24a52cf1b17c7cbc9c85971",
+      "slug": "angola-notre-dame-de-la-muxima-devient-la-patronne-du-pays-fetee-le-7-b44a24",
+      "titre": "Angola : Notre-Dame de la Muxima devient la patronne du pays, fêtée le 7 septembre",
+      "publie_le": "2026-11-13T16:21:00.000Z",
+      "redige_le": "2026-11-14T11:21:45.800Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/b44a247048ac1914c24a52cf1b17c7cbc9c85971.json"
+    },
     {
       "id": "3e71cfe276a1659da23c7350e518c64d40f23925",
       "slug": "burkina-faso-les-medias-catholiques-formes-aux-agents-ia-humain-au-3e71cf",
@@ -10,6 +26,14 @@
       "publie_le": "2026-11-13T15:55:00.000Z",
       "redige_le": "2026-11-13T18:19:47.877Z",
       "url": "https://teiki5320.github.io/veille/articles/keurbible/3e71cfe276a1659da23c7350e518c64d40f23925.json"
+    },
+    {
+      "id": "596812de2aee13f3f43ee8ef2a29b7d0d5159104",
+      "slug": "kenya-bungoma-rend-hommage-mgr-longinus-atundo-premier-eveque-du-596812",
+      "titre": "Kenya : Bungoma rend hommage à Mgr Longinus Atundo, premier évêque du diocèse",
+      "publie_le": "2026-11-13T14:19:00.000Z",
+      "redige_le": "2026-11-14T11:21:45.800Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/596812de2aee13f3f43ee8ef2a29b7d0d5159104.json"
     },
     {
       "id": "24bdee3000b144548344ded8871bcbef6802e5bb",

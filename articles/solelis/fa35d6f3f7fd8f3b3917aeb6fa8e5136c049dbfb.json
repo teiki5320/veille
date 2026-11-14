@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb",
+  "slug": "gers-la-banque-de-france-surveille-le-batiment-la-viticulture-et-fa35d6",
+  "titre": "Gers : la Banque de France surveille le bâtiment, la viticulture et l'aéronautique",
+  "chapo": "En poste depuis le 12 octobre, Valérie Rafin, qui dirige la Banque de France dans le Gers, livre son premier diagnostic. Trois secteurs appellent à la vigilance : le bâtiment, les coopératives viticoles et l'aéronautique.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Installée à la succursale d'Auch, Valérie Rafin succède à Aude Ayroles, restée quatre ans à ce poste. Elle connaît déjà l'institution en Occitanie, où elle a notamment travaillé à Cahors et à Toulouse. Le Gers est sa quatorzième affectation.",
+        "Elle décrit un département rural aux vrais atouts. L'agriculture et l'agroalimentaire dominent, mais l'industrie, la métallurgie et l'aéronautique y ont aussi leur place. Le tissu est surtout composé de TPE et de PME, avec quelques entreprises de taille intermédiaire qui peinent à trouver des ingénieurs."
+      ]
+    },
+    {
+      "intertitre": "Bâtiment et coopératives sous surveillance",
+      "paragraphes": [
+        "Premier sujet d'inquiétude : le bâtiment, dont les commandes fondent depuis plusieurs années. Viennent ensuite les coopératives viticoles et agricoles, qui pourraient connaître des mois plus tendus. La canicule a réduit la récolte de raisin, et l'évolution des habitudes de consommation complique la vente des stocks.",
+        "La directrice décrit un risque d'effet domino : une coopérative en difficulté peut entraîner les grossistes, puis toute la filière si la crise dure."
+      ]
+    },
+    {
+      "intertitre": "L'aéronautique exposée au dollar",
+      "paragraphes": [
+        "Certaines entreprises aéronautiques gersoises tirent jusqu'à 80 % de leurs ventes de l'export. Elles dépendent donc des variations du dollar. Les chefs d'entreprise restent malgré tout plutôt optimistes, selon le solde d'opinion suivi par la Banque de France.",
+        "Valérie Rafin souligne aussi la solidité du réseau local : institutions, associations et patrons se connaissent et cherchent ensemble une réponse dès qu'un problème surgit, un atout pour traverser les difficultés."
+      ]
+    },
+    {
+      "intertitre": "Le surendettement en hausse depuis 2024",
+      "paragraphes": [
+        "Côté ménages, les dossiers de surendettement augmentent depuis 2024, à un niveau proche des moyennes régionale et nationale. Le crédit à la consommation et le paiement en plusieurs fois réapparaissent peu à peu dans les dossiers, alors qu'ils en avaient presque disparu après l'encadrement de 2010."
+      ]
+    }
+  ],
+  "mots": 319,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/14/valerie-rafin-nouvelle-directrice-de-la-banque-de-france-du-gers-alerte-sur-les-defis-economiques-locaux-notamment-dans-le-batiment-et-la-viticulture-13645775.php",
+  "publie_le": "2026-11-14T09:56:03.000Z",
+  "redige_le": "2026-11-14T11:22:11.031Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb.webp",
+    "source": "wikimedia",
+    "credit": "Elgaard",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Auch_Caniparc.jpg",
+    "alt": "La ville d'Auch, chef-lieu du département du Gers",
+    "mots_cles": [
+      "Auch"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

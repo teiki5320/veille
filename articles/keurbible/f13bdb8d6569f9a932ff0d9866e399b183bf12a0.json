@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "f13bdb8d6569f9a932ff0d9866e399b183bf12a0",
+  "slug": "nigeria-un-livre-raconte-oeuvre-des-pretres-ecossais-dans-le-diocese-f13bdb",
+  "titre": "Nigeria : un livre raconte l'œuvre des prêtres écossais dans le diocèse de Bauchi",
+  "chapo": "Le père Andrew Danjuma Dewan a présenté le 11 novembre un ouvrage consacré à la naissance de l'Église catholique à Bauchi, dans le nord du Nigeria. Il y met en lumière le rôle de prêtres venus d'Écosse.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Écrit en anglais, l'ouvrage d'environ 200 pages retrace la croissance de l'Église catholique dans ce diocèse. Il revient sur les prêtres « Fidei Donum » envoyés par l'archidiocèse de Saint Andrews et Édimbourg dans cette région où les musulmans sont majoritaires. L'auteur, prêtre de l'archidiocèse de Jos, dirige le département de communication de masse de l'université Veritas, à Abuja.",
+        "Il explique avoir voulu combler un manque. D'autres familles religieuses présentes à Bauchi, comme la Société des missions africaines, les augustins, les spiritains ou les dominicains, avaient déjà écrit leur histoire. Celle des Écossais restait presque absente des archives."
+      ]
+    },
+    {
+      "intertitre": "Un appel lancé par Pie XII en 1957",
+      "paragraphes": [
+        "Tout part de l'encyclique Fidei Donum, publiée par Pie XII en 1957. Le pape y demandait aux diocèses d'Occident de prêter des prêtres aux jeunes Églises d'Afrique et d'Asie. Malgré sa petite taille, l'archidiocèse écossais a répondu présent, sous l'impulsion de son archevêque, Joseph Gordon Gray.",
+        "Sur place, les missionnaires ont misé sur une Église locale capable de tenir seule. Ils ont formé des volontaires devenus catéchistes : ceux-ci parcouraient les villages et préparaient le terrain avant la venue d'un prêtre."
+      ]
+    },
+    {
+      "intertitre": "Un premier prêtre du diocèse en 1983",
+      "paragraphes": [
+        "Pour l'auteur, une étape clé a été franchie en 1983 avec l'ordination du père Patrick Antelang-Lasiri, premier prêtre originaire du diocèse. D'autres prêtres et des religieuses de la région ont suivi. Le diocèse compte aujourd'hui de nombreux fidèles, prêtres, religieux et séminaristes.",
+        "Le père Dewan souligne qu'aucun document de référence n'existait jusqu'ici pour qui voulait étudier l'histoire de l'Église à Bauchi."
+      ]
+    },
+    {
+      "intertitre": "Un message aux jeunes générations",
+      "paragraphes": [
+        "Lors de la présentation, il a invité les jeunes catholiques à mesurer les efforts des anciens, qui marchaient longtemps et dormaient parfois à la belle étoile. Il a aussi salué l'exemple d'un petit archidiocèse qui a partagé ses rares prêtres."
+      ]
+    }
+  ],
+  "mots": 337,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "NG"
+  ],
+  "tags": [
+    "rubrique:livres-et-coloriages"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25341/new-book-recounts-scottish-missionaries-sacrifices-in-growth-of-catholic-church-in-northern-nigeria",
+  "publie_le": "2026-11-13T19:22:00.000Z",
+  "redige_le": "2026-11-14T11:21:45.800Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/f13bdb8d6569f9a932ff0d9866e399b183bf12a0.webp",
+    "source": "wikimedia",
+    "credit": "Arcyax",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Babban_Gwani.jpg",
+    "alt": "La ville de Bauchi, dans le nord du Nigeria",
+    "mots_cles": [
+      "Bauchi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

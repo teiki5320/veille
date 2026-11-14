@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-13T18:19:56.884Z",
+  "genere_le": "2026-11-14T11:22:08.346Z",
   "articles": [
+    {
+      "id": "db89a5624134bf245b3f0e3b54366c66dbf0a1ea",
+      "slug": "egypte-mohamed-salah-atteint-70-buts-et-depasse-le-record-de-hossam-db89a5",
+      "titre": "Égypte : Mohamed Salah atteint 70 buts et dépasse le record de Hossam Hassan",
+      "publie_le": "2026-11-14T09:50:00.000Z",
+      "redige_le": "2026-11-14T11:21:52.688Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/db89a5624134bf245b3f0e3b54366c66dbf0a1ea.json"
+    },
+    {
+      "id": "7fc478f0453786073b3e4ab60775629df7eeecc0",
+      "slug": "eliminatoires-can-2027-deux-bijoux-hakimi-le-maroc-bat-le-niger-5-1-7fc478",
+      "titre": "Éliminatoires CAN 2027 : deux bijoux d'Hakimi, le Maroc bat le Niger 5-1",
+      "publie_le": "2026-11-13T22:05:03.000Z",
+      "redige_le": "2026-11-14T11:21:52.688Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7fc478f0453786073b3e4ab60775629df7eeecc0.json"
+    },
+    {
+      "id": "06147a6d20cf3f3f7a76b5e7ed0eba22ec0bf671",
+      "slug": "eliminatoires-can-2027-mene-deux-fois-le-mali-renverse-le-rwanda-3-2-06147a",
+      "titre": "Éliminatoires CAN 2027 : mené deux fois, le Mali renverse le Rwanda 3-2 à Bamako",
+      "publie_le": "2026-11-13T21:13:45.000Z",
+      "redige_le": "2026-11-14T11:21:52.688Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/06147a6d20cf3f3f7a76b5e7ed0eba22ec0bf671.json"
+    },
+    {
+      "id": "17020faeb624c7c4732cb040a927e13b979087a0",
+      "slug": "eliminatoires-can-2027-olunga-egale-le-record-du-kenya-nul-2-2-en-17020f",
+      "titre": "Éliminatoires CAN 2027 : Olunga égale le record du Kenya, nul 2-2 en Afrique du Sud",
+      "publie_le": "2026-11-13T20:43:00.000Z",
+      "redige_le": "2026-11-14T11:21:52.688Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/17020faeb624c7c4732cb040a927e13b979087a0.json"
+    },
     {
       "id": "1b670a36efcf8c386a7e1841a590567b63886ef2",
       "slug": "eliminatoires-can-2027-la-tunisie-battue-2-0-par-la-libye-sfax-1b670a",

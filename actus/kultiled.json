@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-13T18:19:56.889Z",
+  "genere_le": "2026-11-14T11:22:08.350Z",
   "actus": [
+    {
+      "id": "438c3d7dca963a5fb0780721cbbeb5128e44b8e2",
+      "titre": "Canada : un robot à intelligence artificielle testé pour cueillir les fraises sous serre",
+      "resume": "L'université polytechnique Kwantlen, en Colombie-Britannique, lance une étude de trois ans dotée de 540 000 dollars sur Pixa, un robot autonome qui récolte les fraises en serre. Les chercheurs testeront la cueillette de nuit et la détection précoce des ravageurs grâce aux caméras de la machine.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "tags": [
+        "legume:fraise"
+      ],
+      "source_nom": "Greenhouse Canada",
+      "source_url": "https://www.greenhousecanada.com/kpu-puts-ai-strawberry-harvester-to-the-test/",
+      "publie_le": "2026-11-13T18:12:28.000Z",
+      "collecte_le": "2026-11-14T11:22:08.350Z",
+      "langue": "en",
+      "slug": "canada-un-robot-intelligence-artificielle-teste-pour-cueillir-les-438c3d",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/438c3d7dca963a5fb0780721cbbeb5128e44b8e2.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/438c3d7dca963a5fb0780721cbbeb5128e44b8e2.webp",
+        "source": "wikimedia",
+        "credit": "Ddryden87",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kwantlen_Polytechnic_University,_Surrey_Campus.jpg",
+        "alt": "Un bâtiment de l'université polytechnique Kwantlen, au Canada",
+        "mots_cles": [
+          "Kwantlen Polytechnic University"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "21b0ee20bb3ccb8995f1031297b9bd7433b77839",
       "titre": "Fraises en ferme verticale : plus de lumière par jour, des fruits plus gros et plus sucrés",

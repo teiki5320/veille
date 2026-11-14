@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "596812de2aee13f3f43ee8ef2a29b7d0d5159104",
+  "slug": "kenya-bungoma-rend-hommage-mgr-longinus-atundo-premier-eveque-du-596812",
+  "titre": "Kenya : Bungoma rend hommage à Mgr Longinus Atundo, premier évêque du diocèse",
+  "chapo": "Le diocèse de Bungoma, dans l'ouest du Kenya, a célébré le 13 novembre une messe à la mémoire de son premier évêque, Mgr Longinus Atundo. Son successeur a salué un homme droit et tourné vers les autres.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La célébration a eu lieu le vendredi 13 novembre en la cathédrale du Christ-Roi de Bungoma. Elle était présidée par l'évêque actuel du diocèse, Mgr Mark Kadima Wamukoya, qui a bien connu son prédécesseur.",
+        "Mgr Atundo avait été nommé évêque le 27 avril 1987, puis consacré le 28 juin de la même année. Il est mort le 15 novembre 1996 : le trentième anniversaire de sa disparition approche."
+      ]
+    },
+    {
+      "intertitre": "Un pasteur de parole",
+      "paragraphes": [
+        "Dans son homélie, Mgr Kadima a décrit un homme honnête, pour qui une promesse avait du poids. Il ne l'a jamais entendu dénigrer quelqu'un, a-t-il assuré. Face à une personne en difficulté, son prédécesseur se contentait de demander à Dieu de lui venir en aide.",
+        "L'évêque a invité les fidèles à s'en inspirer : se réjouir des réussites des autres, qu'il s'agisse d'un examen réussi, d'un emploi ou d'une maison construite, plutôt que de céder à la jalousie. Il les a aussi mis en garde contre les paroles qui abîment la réputation d'autrui."
+      ]
+    },
+    {
+      "intertitre": "Savoir rendre des comptes",
+      "paragraphes": [
+        "Autre leçon tirée de la vie de Mgr Atundo : le sens des responsabilités. Mgr Kadima a demandé à chacun d'être prêt à répondre de ses talents, de sa vocation et des biens qui lui sont confiés. Il s'est adressé en particulier aux prêtres, appelés à examiner la manière dont ils vivent leur mission."
+      ]
+    },
+    {
+      "intertitre": "Un héritage visible",
+      "paragraphes": [
+        "L'évêque a enfin remercié son prédécesseur pour ce qu'il a légué au diocèse : la résidence épiscopale, les bureaux et d'autres bâtiments. Mais le plus précieux, selon lui, reste les prêtres formés à son époque. Mgr Kadima porte d'ailleurs l'anneau de Mgr Atundo, signe du lien qui les unit, eux et les fidèles."
+      ]
+    }
+  ],
+  "mots": 316,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "KE"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25359/pioneer-bishop-of-kenyas-bungoma-diocese-remembered-as-man-of-truth",
+  "publie_le": "2026-11-13T14:19:00.000Z",
+  "redige_le": "2026-11-14T11:21:45.800Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/596812de2aee13f3f43ee8ef2a29b7d0d5159104.webp",
+    "source": "wikimedia",
+    "credit": "Lukas",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bungoma,_Kenya.jpg",
+    "alt": "La ville de Bungoma, dans l'ouest du Kenya",
+    "mots_cles": [
+      "Bungoma"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

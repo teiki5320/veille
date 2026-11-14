@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "b44a247048ac1914c24a52cf1b17c7cbc9c85971",
+  "slug": "angola-notre-dame-de-la-muxima-devient-la-patronne-du-pays-fetee-le-7-b44a24",
+  "titre": "Angola : Notre-Dame de la Muxima devient la patronne du pays, fêtée le 7 septembre",
+  "chapo": "L'Angola a une nouvelle patronne. Les évêques catholiques du pays ont confié ce titre à Notre-Dame de la Muxima, dont la fête sera célébrée chaque 7 septembre comme une solennité.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La décision a été prise lors de la deuxième assemblée plénière annuelle de la Conférence épiscopale d'Angola et de Sao Tomé-et-Principe, la CEAST. Les évêques se sont réunis du 7 au 12 novembre à la Fondation Brilhante, dans le diocèse de Dundo, puis ont publié leur communiqué final le jeudi 12 novembre.",
+        "Jusqu'ici, le pays était placé sous le titre marial du Cœur immaculé de Marie. Ce rôle revient désormais à la Vierge vénérée à la Muxima, l'un des grands lieux de dévotion de l'Angola."
+      ]
+    },
+    {
+      "intertitre": "Un sanctuaire au bord de la Kwanza",
+      "paragraphes": [
+        "Le sanctuaire se trouve à Muxima, une petite localité posée sur les rives du fleuve Kwanza, au sud-est de Luanda. Son église a été bâtie à l'époque portugaise, à la fin du XVIe siècle. En kimbundu, la langue de la région, le mot muxima signifie « cœur ».",
+        "Chaque année, de très nombreux pèlerins venus de tout le pays s'y rendent pour la fête de la Vierge, au début du mois de septembre."
+      ]
+    },
+    {
+      "intertitre": "Couronnement et consécration en avril 2027",
+      "paragraphes": [
+        "Les évêques prévoient de grandes célébrations au sanctuaire du 23 au 25 avril 2027. Elles marqueront à la fois les 60 ans de la CEAST et le premier anniversaire de la visite apostolique du pape Léon XIV en Angola. À cette occasion, la Vierge de la Muxima sera couronnée et le pays lui sera consacré.",
+        "L'assemblée a aussi approuvé la tenue d'un congrès missionnaire national en 2027. Il viendra clore le programme pastoral de trois ans consacré aux prêtres, aux diacres et à la vie consacrée. Chaque diocèse est invité à organiser le sien en amont."
+      ]
+    },
+    {
+      "intertitre": "Scouts et intelligence artificielle",
+      "paragraphes": [
+        "Les évêques encouragent enfin l'étude de l'intelligence artificielle, à la lumière de l'encyclique Magnifica Humanitas. Ils invitent également les scouts catholiques d'Angola à poursuivre le renforcement de leur identité chrétienne, saluant les progrès accomplis depuis l'été."
+      ]
+    }
+  ],
+  "mots": 337,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "AO"
+  ],
+  "tags": [
+    "rubrique:statues-et-vierges"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25339/our-lady-of-muxima-designated-as-angolas-new-patroness-in-bishops-new-approval",
+  "publie_le": "2026-11-13T16:21:00.000Z",
+  "redige_le": "2026-11-14T11:21:45.800Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/b44a247048ac1914c24a52cf1b17c7cbc9c85971.webp",
+    "source": "wikimedia",
+    "credit": "Paulo César Santos",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Church_of_Muxima,_pilgrimage_site,_Bengo_province.JPG",
+    "alt": "Le sanctuaire de Notre-Dame de la Muxima, en Angola",
+    "mots_cles": [
+      "Igreja de Nossa Senhora da Muxima"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

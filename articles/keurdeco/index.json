@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-13T18:19:56.006Z",
+  "genere_le": "2026-11-14T11:21:52.669Z",
   "articles": [
+    {
+      "id": "161e4c4f7507ed3050195629f2e46ed2a2b7a978",
+      "slug": "paris-amoako-boafo-transforme-la-galerie-mariane-ibrahim-en-maison-161e4c",
+      "titre": "Paris : Amoako Boafo transforme la galerie Mariane Ibrahim en maison rêvée",
+      "publie_le": "2026-11-14T10:00:14.000Z",
+      "redige_le": "2026-11-14T11:21:50.937Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/161e4c4f7507ed3050195629f2e46ed2a2b7a978.json"
+    },
     {
       "id": "d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851",
       "slug": "marrakech-la-maison-heba-un-patio-et-des-materiaux-marocains-d6b5a9",

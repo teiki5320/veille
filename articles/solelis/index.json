@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-13T18:21:02.554Z",
+  "genere_le": "2026-11-14T11:22:12.614Z",
   "articles": [
+    {
+      "id": "fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb",
+      "slug": "gers-la-banque-de-france-surveille-le-batiment-la-viticulture-et-fa35d6",
+      "titre": "Gers : la Banque de France surveille le bâtiment, la viticulture et l'aéronautique",
+      "publie_le": "2026-11-14T09:56:03.000Z",
+      "redige_le": "2026-11-14T11:22:11.031Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb.json"
+    },
     {
       "id": "0aa5c4855bde5fe11d78a8e71a2d833054f98bc1",
       "slug": "panne-mondiale-de-microsoft-outlook-et-teams-coupes-les-entreprises-0aa5c4",

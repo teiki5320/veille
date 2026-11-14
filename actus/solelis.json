@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-13T18:21:02.518Z",
+  "genere_le": "2026-11-14T11:22:11.031Z",
   "actus": [
+    {
+      "id": "fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb",
+      "titre": "Gers : la Banque de France surveille le bâtiment, la viticulture et l'aéronautique",
+      "resume": "À la tête de la succursale gersoise de la Banque de France depuis le 12 octobre, Valérie Rafin pointe trois secteurs à surveiller : le bâtiment aux carnets vides, les coopératives agricoles et viticoles, et l'aéronautique exposée au dollar. Les dossiers de surendettement augmentent depuis 2024.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/14/valerie-rafin-nouvelle-directrice-de-la-banque-de-france-du-gers-alerte-sur-les-defis-economiques-locaux-notamment-dans-le-batiment-et-la-viticulture-13645775.php",
+      "publie_le": "2026-11-14T09:56:03.000Z",
+      "collecte_le": "2026-11-14T11:22:11.031Z",
+      "langue": "fr",
+      "slug": "gers-la-banque-de-france-surveille-le-batiment-la-viticulture-et-fa35d6",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb.webp",
+        "source": "wikimedia",
+        "credit": "Elgaard",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Auch_Caniparc.jpg",
+        "alt": "La ville d'Auch, chef-lieu du département du Gers",
+        "mots_cles": [
+          "Auch"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0aa5c4855bde5fe11d78a8e71a2d833054f98bc1",
       "titre": "Panne mondiale de Microsoft : Outlook et Teams coupés, les entreprises dépendantes",

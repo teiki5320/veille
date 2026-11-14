@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "438c3d7dca963a5fb0780721cbbeb5128e44b8e2",
+  "slug": "canada-un-robot-intelligence-artificielle-teste-pour-cueillir-les-438c3d",
+  "titre": "Canada : un robot à intelligence artificielle testé pour cueillir les fraises sous serre",
+  "chapo": "L'université polytechnique Kwantlen, en Colombie-Britannique, lance une étude de trois ans sur Pixa, un robot qui récolte les fraises en serre. Le projet dispose d'un budget de 540 000 dollars.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le projet est dirigé par Li Ma, de l'Institut d'horticulture durable de l'université, installé à Langley, près de Vancouver. L'équipe va évaluer Pixa, une machine autonome conçue par Nupeak Robotics, une entreprise de Burnaby. Le financement provient du CRSNG, le conseil canadien de recherche en sciences naturelles et en génie, et de l'organisme Mitacs.",
+        "Woo Soo Kim, professeur à l'université Simon Fraser et spécialiste des technologies agricoles et de l'intelligence artificielle appliquée aux machines, co-encadrera un étudiant de master associé à l'étude."
+      ]
+    },
+    {
+      "intertitre": "Une pince souple et des caméras",
+      "paragraphes": [
+        "Pour ne pas abîmer les fruits, Pixa les saisit avec une pince souple fixée au bout d'un bras articulé. Pendant qu'il avance entre les rangs, ses caméras enregistrent des images de la culture.",
+        "Les chercheurs veulent savoir si une récolte nocturne améliore la qualité des fraises. Ils vont aussi vérifier si les photos prises par le robot permettent de repérer ravageurs et maladies plus tôt qu'une inspection classique des plants."
+      ]
+    },
+    {
+      "intertitre": "Répondre au manque de bras",
+      "paragraphes": [
+        "L'agriculture canadienne peine à recruter, en particulier pour les tâches répétitives comme la cueillette. Selon Li Ma, l'étude doit montrer comment ces technologies peuvent soulager les producteurs, en automatisant la récolte tout en leur donnant des informations utiles sur la santé de leurs plantes.",
+        "L'enjeu touche aussi la productivité et la durabilité des serres, deux priorités pour la filière."
+      ]
+    },
+    {
+      "intertitre": "Des essais en conditions réelles",
+      "paragraphes": [
+        "Pendant les deux premières années, les tests auront lieu dans les serres de recherche de l'université, à Langley. La troisième année, le robot sera mis à l'épreuve dans une serre commerciale.",
+        "Li Ma et Woo Soo Kim avaient déjà présenté leurs travaux sur la robotique et l'intelligence artificielle en serre à des producteurs, plus tôt cette année, lors d'une journée professionnelle organisée à Langley."
+      ]
+    }
+  ],
+  "mots": 321,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "tags": [
+    "legume:fraise"
+  ],
+  "source_nom": "Greenhouse Canada",
+  "source_url": "https://www.greenhousecanada.com/kpu-puts-ai-strawberry-harvester-to-the-test/",
+  "publie_le": "2026-11-13T18:12:28.000Z",
+  "redige_le": "2026-11-14T11:22:08.350Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/438c3d7dca963a5fb0780721cbbeb5128e44b8e2.webp",
+    "source": "wikimedia",
+    "credit": "Ddryden87",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kwantlen_Polytechnic_University,_Surrey_Campus.jpg",
+    "alt": "Un bâtiment de l'université polytechnique Kwantlen, au Canada",
+    "mots_cles": [
+      "Kwantlen Polytechnic University"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

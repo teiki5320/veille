@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "161e4c4f7507ed3050195629f2e46ed2a2b7a978",
+  "slug": "paris-amoako-boafo-transforme-la-galerie-mariane-ibrahim-en-maison-161e4c",
+  "titre": "Paris : Amoako Boafo transforme la galerie Mariane Ibrahim en maison rêvée",
+  "chapo": "Jusqu'au 19 décembre, le peintre ghanéen Amoako Boafo présente à Paris une exposition dont le titre anglais évoque une maison qu'il n'a jamais eue. Il y transforme la galerie en logement habité, entre peinture, broderie et mobilier.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'exposition a ouvert le 19 octobre à la galerie Mariane Ibrahim, avenue Matignon. C'est la quatrième exposition personnelle de l'artiste chez cette galeriste, qui a fondé son enseigne à Seattle en 2012 avant d'ouvrir un espace parisien en 2021. Elle réunit des toiles récentes et d'autres plus anciennes, peintes à partir de 2016.",
+        "Le parcours ne suit pas l'ordre des dates. Boafo a conçu les salles comme les pièces d'un appartement et a placé ses tableaux selon leur usage supposé : une entrée, un salon pour se retrouver, une chambre à l'étage."
+      ]
+    },
+    {
+      "intertitre": "La broderie entre dans la toile",
+      "paragraphes": [
+        "Sur ses toiles récentes, le peintre ajoute de vraies dentelles brodées sur la toile. Elles évoquent les robes de mariée et les portraits de noces de la Renaissance, un exercice ancien qu'il transpose dans le monde d'aujourd'hui. Le travail patient de l'aiguille répond au geste plus libre du pinceau.",
+        "Le rendu de la peau reste sa signature : de longues touches ondulantes, dans des noirs teintés de violet ou de bleu, qui paraissent bouger de près et se fondent à distance. Les fonds, eux, sont posés en grands aplats de couleurs vives."
+      ]
+    },
+    {
+      "intertitre": "Un intérieur complet",
+      "paragraphes": [
+        "Le décor déborde désormais du cadre. Bois sombre, tissus, papiers à motifs et meubles prolongent l'univers des personnages. Dans la grande salle, des jeunes mariés et un groupe d'amis vêtus de blanc posent devant des fonds verts qui suggèrent un jardin. À l'étage, la chambre accueille des autoportraits, dont l'un où l'artiste disparaît presque sous des draps imprimés."
+      ]
+    },
+    {
+      "intertitre": "Une famille choisie",
+      "paragraphes": [
+        "Les modèles sont des amis, des proches et Boafo lui-même. Pour lui, un foyer tient moins aux objets possédés qu'aux liens qui unissent les gens. C'est à son arrivée à Vienne, en Autriche, qu'il a commencé à se peindre plus souvent, pour mieux se connaître avant de se tourner vers les autres."
+      ]
+    }
+  ],
+  "mots": 343,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "GH",
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/culture/article/2026/11/14/selection-galerie-amoako-boafo-chez-mariane-ibrahim_6809954_3246.html",
+  "autres_sources": [
+    "https://www.meer.com/fr/113637-the-home-i-have-never-had"
+  ],
+  "publie_le": "2026-11-14T10:00:14.000Z",
+  "redige_le": "2026-11-14T11:21:50.937Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/161e4c4f7507ed3050195629f2e46ed2a2b7a978.webp",
+    "source": "wikimedia",
+    "credit": "Francis Kokoroko",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Amoako_Boafo.jpg",
+    "alt": "Le peintre ghanéen Amoako Boafo ou l'une de ses œuvres",
+    "mots_cles": [
+      "Amoako Boafo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

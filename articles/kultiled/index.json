@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-13T18:20:00.338Z",
+  "genere_le": "2026-11-14T11:22:11.023Z",
   "articles": [
+    {
+      "id": "438c3d7dca963a5fb0780721cbbeb5128e44b8e2",
+      "slug": "canada-un-robot-intelligence-artificielle-teste-pour-cueillir-les-438c3d",
+      "titre": "Canada : un robot à intelligence artificielle testé pour cueillir les fraises sous serre",
+      "publie_le": "2026-11-13T18:12:28.000Z",
+      "redige_le": "2026-11-14T11:22:08.350Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/438c3d7dca963a5fb0780721cbbeb5128e44b8e2.json"
+    },
     {
       "id": "21b0ee20bb3ccb8995f1031297b9bd7433b77839",
       "slug": "fraises-en-ferme-verticale-plus-de-lumiere-par-jour-des-fruits-plus-21b0ee",

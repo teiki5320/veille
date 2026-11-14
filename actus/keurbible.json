@@ -1,8 +1,74 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-13T18:20:40.701Z",
+  "genere_le": "2026-11-14T11:21:45.800Z",
   "actus": [
+    {
+      "id": "f13bdb8d6569f9a932ff0d9866e399b183bf12a0",
+      "titre": "Nigeria : un livre raconte l'œuvre des prêtres écossais dans le diocèse de Bauchi",
+      "resume": "Le père Andrew Danjuma Dewan a présenté le 11 novembre un ouvrage de 200 pages sur l'essor de l'Église catholique à Bauchi, dans le nord du Nigeria. Il y retrace l'engagement de prêtres envoyés par l'archidiocèse de Saint Andrews et Édimbourg, en Écosse, à partir de l'appel lancé par Pie XII en 1957.",
+      "theme": "culture",
+      "pays": [
+        "NG"
+      ],
+      "tags": [
+        "rubrique:livres-et-coloriages"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25341/new-book-recounts-scottish-missionaries-sacrifices-in-growth-of-catholic-church-in-northern-nigeria",
+      "publie_le": "2026-11-13T19:22:00.000Z",
+      "collecte_le": "2026-11-14T11:21:45.800Z",
+      "langue": "en",
+      "slug": "nigeria-un-livre-raconte-oeuvre-des-pretres-ecossais-dans-le-diocese-f13bdb",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/f13bdb8d6569f9a932ff0d9866e399b183bf12a0.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/f13bdb8d6569f9a932ff0d9866e399b183bf12a0.webp",
+        "source": "wikimedia",
+        "credit": "Arcyax",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Babban_Gwani.jpg",
+        "alt": "La ville de Bauchi, dans le nord du Nigeria",
+        "mots_cles": [
+          "Bauchi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "b44a247048ac1914c24a52cf1b17c7cbc9c85971",
+      "titre": "Angola : Notre-Dame de la Muxima devient la patronne du pays, fêtée le 7 septembre",
+      "resume": "Réunis du 7 au 12 novembre à Dundo, les évêques d'Angola et de Sao Tomé-et-Principe ont choisi Notre-Dame de la Muxima comme patronne de l'Angola. Sa fête sera une solennité chaque 7 septembre. Un couronnement et une consécration du pays sont prévus au sanctuaire en avril 2027.",
+      "theme": "culture",
+      "pays": [
+        "AO"
+      ],
+      "tags": [
+        "rubrique:statues-et-vierges"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25339/our-lady-of-muxima-designated-as-angolas-new-patroness-in-bishops-new-approval",
+      "publie_le": "2026-11-13T16:21:00.000Z",
+      "collecte_le": "2026-11-14T11:21:45.800Z",
+      "langue": "en",
+      "slug": "angola-notre-dame-de-la-muxima-devient-la-patronne-du-pays-fetee-le-7-b44a24",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/b44a247048ac1914c24a52cf1b17c7cbc9c85971.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/b44a247048ac1914c24a52cf1b17c7cbc9c85971.webp",
+        "source": "wikimedia",
+        "credit": "Paulo César Santos",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Church_of_Muxima,_pilgrimage_site,_Bengo_province.JPG",
+        "alt": "Le sanctuaire de Notre-Dame de la Muxima, en Angola",
+        "mots_cles": [
+          "Igreja de Nossa Senhora da Muxima"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3e71cfe276a1659da23c7350e518c64d40f23925",
       "titre": "Burkina Faso : les médias catholiques formés aux agents d'IA, l'humain au centre",
@@ -28,6 +94,36 @@
         "alt": "La cathédrale de l'Immaculée-Conception de Ouagadougou, au Burkina Faso",
         "mots_cles": [
           "Ouagadougou Cathedral"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "596812de2aee13f3f43ee8ef2a29b7d0d5159104",
+      "titre": "Kenya : Bungoma rend hommage à Mgr Longinus Atundo, premier évêque du diocèse",
+      "resume": "Le diocèse de Bungoma, dans l'ouest du Kenya, a célébré le 13 novembre une messe à la mémoire de son premier évêque, Mgr Longinus Atundo, mort en 1996. Son successeur, Mgr Mark Kadima Wamukoya, a salué un pasteur honnête, attentif aux autres, et invité les fidèles à suivre son exemple.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25359/pioneer-bishop-of-kenyas-bungoma-diocese-remembered-as-man-of-truth",
+      "publie_le": "2026-11-13T14:19:00.000Z",
+      "collecte_le": "2026-11-14T11:21:45.800Z",
+      "langue": "en",
+      "slug": "kenya-bungoma-rend-hommage-mgr-longinus-atundo-premier-eveque-du-596812",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/596812de2aee13f3f43ee8ef2a29b7d0d5159104.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/596812de2aee13f3f43ee8ef2a29b7d0d5159104.webp",
+        "source": "wikimedia",
+        "credit": "Lukas",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bungoma,_Kenya.jpg",
+        "alt": "La ville de Bungoma, dans l'ouest du Kenya",
+        "mots_cles": [
+          "Bungoma"
         ],
         "largeur": 1600,
         "hauteur": 900
