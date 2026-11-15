@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-14T18:14:46.501Z",
+  "genere_le": "2026-11-15T11:18:32.048Z",
   "actus": [
+    {
+      "id": "edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004",
+      "titre": "Commerces dégradés : l'ouverture le dimanche jusqu'à Noël tarde à se concrétiser",
+      "resume": "Après les violences du 17 octobre, qui ont touché plus de 2 500 commerces selon les CCI, le gouvernement avait promis de faciliter l'ouverture le dimanche jusqu'à Noël. Deux semaines plus tard, l'instruction aux préfets n'est pas partie et une vingtaine d'arrêtés seulement ont été pris. Les fédérations jugent les démarches trop lourdes.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/economie/usine-a-gaz-autorisations-au-compte-goutte-ouvrir-les-commerces-le-dimanche-jusqu-a-noel-la-concretisation-se-fait-attendre-31532664.php",
+      "publie_le": "2026-11-15T06:48:03.000Z",
+      "collecte_le": "2026-11-15T11:18:32.048Z",
+      "langue": "fr",
+      "slug": "commerces-degrades-ouverture-le-dimanche-jusqu-noel-tarde-se-edc94e",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004.webp",
+        "source": "wikimedia",
+        "credit": "Tabl-trai",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Rue_Georges-Clemenceau_depuis_l%27avenue_Doumer,_vers_le_nord_(Vichy)_2024-07-10.JPG",
+        "alt": "Une rue commerçante en France",
+        "mots_cles": [
+          "Rue commerçante France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb",
       "titre": "Gers : la Banque de France surveille le bâtiment, la viticulture et l'aéronautique",

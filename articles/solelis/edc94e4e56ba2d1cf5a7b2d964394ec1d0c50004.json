@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004",
+  "slug": "commerces-degrades-ouverture-le-dimanche-jusqu-noel-tarde-se-edc94e",
+  "titre": "Commerces dégradés : l'ouverture le dimanche jusqu'à Noël tarde à se concrétiser",
+  "chapo": "Les boutiques abîmées lors des débordements des derniers cortèges espéraient ouvrir chaque dimanche jusqu'aux fêtes. Les autorisations arrivent lentement et de façon inégale selon les départements.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "D'après les CCI, plus de 2 500 boutiques ont été abîmées lors des récentes violences urbaines, surtout le 17 octobre. Les CCI ajoutent que chaque samedi de manifestation pousse des milliers de magasins à baisser le rideau et éloigne les clients des centres-villes.",
+        "Plusieurs organisations professionnelles veulent pouvoir ouvrir chaque dimanche d'ici la fin de l'année, afin de compenser une partie du manque à gagner pendant la période cruciale des fêtes."
+      ]
+    },
+    {
+      "intertitre": "Une promesse encore en attente",
+      "paragraphes": [
+        "Fin octobre, la porte-parole du gouvernement, Maud Bregeon, avait promis de faciliter ces ouvertures. Jean-Pierre Farandou, chargé du Travail, a évoqué un accord de principe, à condition que les salariés soient volontaires. Une circulaire du 30 octobre vise les demandes des établissements qui ont perdu de l'argent à cause des manifestations.",
+        "En revanche, l'instruction annoncée aux préfets par le ministre du Commerce, Serge Papin, n'était toujours pas envoyée vendredi. Les préfets peuvent pourtant accorder trois dimanches sans consulter les partenaires sociaux."
+      ]
+    },
+    {
+      "intertitre": "Des règles différentes selon les territoires",
+      "paragraphes": [
+        "La FECP, qui représente les épiceries de proximité, recense une vingtaine d'arrêtés, très différents les uns des autres. À Paris, la préfecture a permis à certains commerces de quelques arrondissements d'accueillir des clients le 15 novembre, le 22 novembre puis le 27 décembre. Dans l'Hérault, l'ensemble des magasins montpelliérains a le droit d'ouvrir chaque dimanche jusqu'à fin décembre.",
+        "La fédération trouve la procédure trop pesante pour les commerçants, obligés de fournir un dossier et des justificatifs de comptabilité. Elle plaide pour une autorisation globale valable trois mois. L'Alliance du commerce voudrait que tous les magasins soient concernés, pas seulement ceux qui ont subi des dégâts."
+      ]
+    },
+    {
+      "intertitre": "Ce que prévoit la loi",
+      "paragraphes": [
+        "Le code du travail fixe en principe le repos le dimanche, avec de nombreuses exceptions. Un commerce sans salarié peut ouvrir quand il le souhaite. Depuis la loi Macron de 2015, les maires peuvent accorder jusqu'à 12 dimanches par an, payés au moins le double. Côté syndical, la CGT refuse toute hausse du travail dominical pour les salariés du secteur."
+      ]
+    }
+  ],
+  "mots": 359,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/usine-a-gaz-autorisations-au-compte-goutte-ouvrir-les-commerces-le-dimanche-jusqu-a-noel-la-concretisation-se-fait-attendre-31532664.php",
+  "publie_le": "2026-11-15T06:48:03.000Z",
+  "redige_le": "2026-11-15T11:18:32.048Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004.webp",
+    "source": "wikimedia",
+    "credit": "Tabl-trai",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_Georges-Clemenceau_depuis_l%27avenue_Doumer,_vers_le_nord_(Vichy)_2024-07-10.JPG",
+    "alt": "Une rue commerçante en France",
+    "mots_cles": [
+      "Rue commerçante France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

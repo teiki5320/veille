@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-14T18:14:46.514Z",
+  "genere_le": "2026-11-15T11:18:34.190Z",
   "articles": [
+    {
+      "id": "edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004",
+      "slug": "commerces-degrades-ouverture-le-dimanche-jusqu-noel-tarde-se-edc94e",
+      "titre": "Commerces dégradés : l'ouverture le dimanche jusqu'à Noël tarde à se concrétiser",
+      "publie_le": "2026-11-15T06:48:03.000Z",
+      "redige_le": "2026-11-15T11:18:32.048Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004.json"
+    },
     {
       "id": "fa35d6f3f7fd8f3b3917aeb6fa8e5136c049dbfb",
       "slug": "gers-la-banque-de-france-surveille-le-batiment-la-viticulture-et-fa35d6",

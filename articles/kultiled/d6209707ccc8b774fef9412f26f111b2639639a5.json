@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "d6209707ccc8b774fef9412f26f111b2639639a5",
+  "slug": "ceag-world-impact-awards-2026-trois-figures-de-la-culture-sous-serre-d62097",
+  "titre": "CEAg World Impact Awards 2026 : trois figures de la culture sous serre récompensées",
+  "chapo": "Trois acteurs de l'agriculture en environnement contrôlé ont été récompensés lors de la conférence CEAg World, aux États-Unis : un chef d'entreprise, un jeune responsable de culture et un chercheur.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les CEAg World Impact Awards ont été remis pendant la cérémonie d'ouverture de la conférence et du salon CEAg World, à Charlotte, en Caroline du Nord. CEAg World est un média consacré aux fruits et légumes produits sous serre, rattaché au magazine américain Greenhouse Grower.",
+        "Ces prix, parrainés par ExxonMobil, distinguent des personnes qui font progresser la culture sous abri : serres, fermes verticales et autres installations où la lumière, la température et l'eau sont pilotées."
+      ]
+    },
+    {
+      "intertitre": "Le fondateur de Little Leaf Farms",
+      "paragraphes": [
+        "Le prix du leadership revient à Paul Sellew, fondateur et dirigeant de Little Leaf Farms, qui produit des salades sous serre. Cette année, une épidémie de cyclosporose a relancé les questions sur la sécurité des légumes-feuilles. Il en a profité pour défendre la production sous abri : un milieu maîtrisé, des méthodes régulières et une information claire pour rassurer les consommateurs."
+      ]
+    },
+    {
+      "intertitre": "Une serre automatisée au Canada",
+      "paragraphes": [
+        "Le prix du jeune talent est attribué à Dominick DiMucci, directeur de culture chez Haven Greens. Dans cette serre, les jeunes pousses de laitue avancent presque sans intervention manuelle. Il a participé à la mise en service de la première serre entièrement automatisée du Canada, dont la première récolte remonte à mars 2025.",
+        "Son travail touche à la fois la culture, le climat, l'irrigation et les machines, tout en coordonnant les équipes autour de la production."
+      ]
+    },
+    {
+      "intertitre": "Un chercheur de l'université d'Arizona",
+      "paragraphes": [
+        "Le prix pour l'avancement de la filière récompense Murat Kacira, directeur du centre d'agriculture en environnement contrôlé (CEAC) de l'université d'Arizona, qui fête ses 25 ans en 2026. Arrivé en 2007 comme enseignant en ingénierie des biosystèmes, il a pris la suite du fondateur du centre, Gene Giacomelli.",
+        "Ses recherches portent sur des capteurs qui mesurent ce dont les plantes ont réellement besoin, afin d'en tirer de meilleures décisions pour conduire les cultures."
+      ]
+    }
+  ],
+  "mots": 332,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US",
+    "CA"
+  ],
+  "tags": [
+    "legume:laitue"
+  ],
+  "source_nom": "Greenhouse Grower",
+  "source_url": "https://www.greenhousegrower.com/management/check-out-the-winners-of-the-2026-ceag-world-impact-awards/",
+  "publie_le": "2026-11-13T19:00:33.000Z",
+  "redige_le": "2026-11-15T11:18:11.172Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/d6209707ccc8b774fef9412f26f111b2639639a5.webp",
+    "source": "openverse",
+    "credit": "This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would…",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=153438952",
+    "alt": "Des salades qui poussent dans une serre",
+    "mots_cles": [
+      "lettuce greenhouse"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

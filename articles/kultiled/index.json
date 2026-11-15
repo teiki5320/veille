@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-14T18:14:46.500Z",
+  "genere_le": "2026-11-15T11:18:32.042Z",
   "articles": [
+    {
+      "id": "d6209707ccc8b774fef9412f26f111b2639639a5",
+      "slug": "ceag-world-impact-awards-2026-trois-figures-de-la-culture-sous-serre-d62097",
+      "titre": "CEAg World Impact Awards 2026 : trois figures de la culture sous serre récompensées",
+      "publie_le": "2026-11-13T19:00:33.000Z",
+      "redige_le": "2026-11-15T11:18:11.172Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/d6209707ccc8b774fef9412f26f111b2639639a5.json"
+    },
     {
       "id": "438c3d7dca963a5fb0780721cbbeb5128e44b8e2",
       "slug": "canada-un-robot-intelligence-artificielle-teste-pour-cueillir-les-438c3d",

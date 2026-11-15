@@ -1,8 +1,144 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-14T18:14:46.470Z",
+  "genere_le": "2026-11-15T11:18:05.670Z",
   "actus": [
+    {
+      "id": "23df2470105ec64b1770c35716005844d3db2a41",
+      "titre": "Classement FIFA : le Maroc remonte à la 5e place mondiale, il double Brésil et Portugal",
+      "resume": "Après sa large victoire contre le Niger (5-1), le Maroc a profité samedi des défaites du Brésil face au Japon et du Portugal face au Danemark pour gagner deux places au classement FIFA provisoire. Les Lions de l'Atlas retrouvent le 5e rang, déjà atteint en octobre. La version officielle sera publiée le 18 novembre.",
+      "theme": "foot",
+      "pays": [
+        "MA"
+      ],
+      "competition": "Classement FIFA",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/classement-fifa-le-maroc-de-retour-a-sa-5e-place-historique",
+      "publie_le": "2026-11-14T22:34:16.000Z",
+      "collecte_le": "2026-11-15T11:18:05.670Z",
+      "langue": "fr",
+      "slug": "classement-fifa-le-maroc-remonte-la-5e-place-mondiale-il-double-bresil-23df24",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/23df2470105ec64b1770c35716005844d3db2a41.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/23df2470105ec64b1770c35716005844d3db2a41.webp",
+        "source": "wikimedia",
+        "credit": "Abdelali Bentarki",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Moroccan_national_team_vs_Paraguay.jpg_(cropped).jpg",
+        "alt": "L'équipe du Maroc de football, les Lions de l'Atlas",
+        "mots_cles": [
+          "Morocco national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "f6b5fd428daf403855549913096a7ec85237feeb",
+      "titre": "CAN 2027 : l'Angola d'Aliou Cissé bat le Soudan du Sud 2-0 dans le temps additionnel",
+      "resume": "À Luanda, l'Angola a longtemps buté sur le Soudan du Sud, réduit à dix dès la 48e minute, avant de marquer deux fois dans les arrêts de jeu par Chico Banza et Miro (2-0). Les Palancas Negras d'Aliou Cissé rejoignent l'Égypte en tête du groupe B et peuvent se qualifier dès mardi à Djouba.",
+      "theme": "foot",
+      "pays": [
+        "AO",
+        "SS"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/can-2027-q-aliou-cisse-soffre-un-double-coaching-payant-et-une-victoire-a-la-98e",
+      "publie_le": "2026-11-14T21:24:53.000Z",
+      "collecte_le": "2026-11-15T11:18:05.670Z",
+      "langue": "fr",
+      "slug": "can-2027-angola-aliou-cisse-bat-le-soudan-du-sud-2-0-dans-le-temps-f6b5fd",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f6b5fd428daf403855549913096a7ec85237feeb.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/f6b5fd428daf403855549913096a7ec85237feeb.webp",
+        "source": "wikimedia",
+        "credit": "Happiraphael",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Aliou_Cisse.jpg",
+        "alt": "Aliou Cissé, sélectionneur de l'équipe d'Angola de football",
+        "mots_cles": [
+          "Aliou Cissé"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "d68e837e0c250a31a4fda469dd0790068905671a",
+      "titre": "Éliminatoires CAN 2027 : Bensebaini délivre l'Algérie face au Togo (1-0)",
+      "resume": "Samedi, l'Algérie a dominé le Togo sans parvenir à marquer avant la 76e minute, quand son capitaine Ramy Bensebaini a trouvé la faille de la tête. Ce succès 1-0 garde les Fennecs invaincus et en tête du groupe I. Les deux équipes se retrouvent dès mardi à Lomé.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "TG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Foot Mercato",
+      "source_url": "https://www.footmercato.net/a8750941422328460738-qualifications-can-2027-lalgerie-simpose-dans-la-douleur-face-au-togo-et-conforte-sa-premiere-place",
+      "autres_sources": [
+        "https://www.lequipe.fr/Football/Actualites/L-algerie-sauvee-par-ramy-bensebaini-contre-le-togo-en-qualifications-pour-la-can-2027/1743736",
+        "https://www.afrik-foot.com/algerie-encore-plus-difficile-hemdani-savoure-la-victoire-puis-avertit-ses-joueurs",
+        "https://www.afrik-foot.com/en-direct-algerie-togo-qualifications-can-2027"
+      ],
+      "publie_le": "2026-11-14T20:57:53.000Z",
+      "collecte_le": "2026-11-15T11:18:05.670Z",
+      "langue": "fr",
+      "slug": "eliminatoires-can-2027-bensebaini-delivre-algerie-face-au-togo-1-0-d68e83",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d68e837e0c250a31a4fda469dd0790068905671a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/d68e837e0c250a31a4fda469dd0790068905671a.webp",
+        "source": "wikimedia",
+        "credit": "S. Plaine",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Stade_rennais_vs_USM_Alger,_July_16th_2016_-_25.jpg",
+        "alt": "Ramy Bensebaini, défenseur et capitaine de l'équipe d'Algérie de football",
+        "mots_cles": [
+          "Ramy Bensebaini"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "744ed00f3408c6d613b2a9c3109fb6156e91a022",
+      "titre": "Ligue des champions féminine CAF : le bronze pour Lekié FF, large vainqueur de Kawempe",
+      "resume": "Samedi à Ismaïlia, le club camerounais Lekié FF a battu les Ougandaises de Kawempe Muslim Ladies 5-0 dans le match pour la 3e place, avec un doublé de Raïssa Nnanga. C'est le premier podium d'un club du Cameroun dans cette compétition et le plus large écart jamais vu dans une petite finale.",
+      "theme": "foot",
+      "pays": [
+        "CM",
+        "UG"
+      ],
+      "competition": "Ligue des champions féminine CAF",
+      "source_nom": "Camfoot",
+      "source_url": "https://www.camfoot.com/actualites/lekie-ff-3e-place-ligue-des-champions-feminine-caf,560482.html",
+      "autres_sources": [
+        "https://www.camfoot.com/actualites/lekie-ff-350-000-dollars-bronze-ligue-des-champions-feminine,560484.html",
+        "https://kawowo.com/2026/11/15/kawempe-muslim-finish-fourth-on-debut-pocket-300000/"
+      ],
+      "publie_le": "2026-11-14T18:40:52.000Z",
+      "collecte_le": "2026-11-15T11:18:05.670Z",
+      "langue": "fr",
+      "slug": "ligue-des-champions-feminine-caf-le-bronze-pour-lekie-ff-large-744ed0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/744ed00f3408c6d613b2a9c3109fb6156e91a022.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/744ed00f3408c6d613b2a9c3109fb6156e91a022.webp",
+        "source": "wikimedia",
+        "credit": "Happiraphael",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:AjaraNchout.jpg",
+        "alt": "Ajara Nchout, attaquante camerounaise de football",
+        "mots_cles": [
+          "Ajara Nchout"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "db89a5624134bf245b3f0e3b54366c66dbf0a1ea",
       "titre": "Égypte : Mohamed Salah atteint 70 buts et dépasse le record de Hossam Hassan",
@@ -1970,149 +2106,6 @@
         "alt": "Bryan Mbeumo, attaquant international camerounais",
         "mots_cles": [
           "Bryan Mbeumo"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "1cda795b8e75320aa66b257d1dd42cb03f96d0dd",
-      "titre": "Trophée Kopa : Lionel Messi place l'Algérien Ibrahim Maza sur son podium",
-      "resume": "Lionel Messi a classé le milieu international algérien de Leverkusen troisième de son vote pour le trophée Kopa, derrière Lamine Yamal et Pau Cubarsí. À 20 ans, Ibrahim Maza termine neuvième de cette récompense, grâce au seul point accordé par l'Argentin.",
-      "theme": "foot",
-      "pays": [
-        "DZ"
-      ],
-      "competition": "Trophée Kopa",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a1877363796230145539-lionel-messi-a-vote-pour-ibrahim-maza-au-trophee-kopa",
-      "autres_sources": [
-        "https://africatopsports.com/football/trophee-kopa-2026-lionel-messi-met-en-avant-le-talent-algerien-ibrahim-maza-dans-son-vote/",
-        "https://www.lequipe.fr/Football/Actualites/Lionel-messi-a-vote-pour-ibrahim-maza-au-trophee-de-meilleur-jeune-de-la-saison/1739895",
-        "https://www.lequipe.fr/Football/Actualites/Adoube-par-lionel-messi-next-ballon-d-or-d-ousmane-dembele-ibrahim-maza-l-artiste-qui-monte-et-seduit-l-europe/1739628"
-      ],
-      "publie_le": "2026-10-31T08:13:21.000Z",
-      "collecte_le": "2026-10-31T11:10:21.266Z",
-      "langue": "fr",
-      "slug": "trophee-kopa-lionel-messi-place-algerien-ibrahim-maza-sur-son-podium-1cda79",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1cda795b8e75320aa66b257d1dd42cb03f96d0dd.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/1cda795b8e75320aa66b257d1dd42cb03f96d0dd.webp",
-        "source": "wikimedia",
-        "credit": "Ardfern",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Newcastle_United_vs_Bayer_Leverkusen,_15_August_2026_(13).jpg",
-        "alt": "Le milieu de terrain international algérien Ibrahim Maza.",
-        "mots_cles": [
-          "Ibrahim Maza"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b",
-      "titre": "Ballon d'Or 2026 : Mbappé, favori des jurés africains, Hakimi soutenu par le seul Maroc",
-      "resume": "Le détail des votes publié vendredi montre que neuf des 20 journalistes africains du jury ont placé Kylian Mbappé en tête, alors que Harry Kane a remporté le trophée. Le juré marocain est le seul à avoir mis Achraf Hakimi premier ; Sadio Mané ne figure que dans le top 10 du Gabon.",
-      "theme": "foot",
-      "pays": [],
-      "competition": "Ballon d'Or",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/ballon-dor-2026-le-vote-tres-chauvin-du-maroc-algerie-cote-divoire-et-cameroun-boudent-kane-un-seul-pays-a-vote-mane",
-      "autres_sources": [
-        "https://www.afrik-foot.com/ballon-dor-2026-kane-seulement-3e-voici-celui-que-lafrique-voulait-comme-vainqueur",
-        "https://africatopsports.com/football/ballon-dor-voici-ces-pays-africains-qui-ont-place-mbappe-en-tete/",
-        "https://senego.com/ballon-dor-2026-kane-yamal-mbappe-les-choix-du-journaliste-senegalais-devoiles_2019030.html",
-        "https://wiwsport.com/2026/10/30/ballon-dor-2026-voici-le-top-10-du-journaliste-senegalais-harry-kane-en-tete/"
-      ],
-      "publie_le": "2026-10-30T21:16:25.000Z",
-      "collecte_le": "2026-10-31T11:10:21.266Z",
-      "langue": "fr",
-      "slug": "ballon-or-2026-mbappe-favori-des-jures-africains-hakimi-soutenu-par-le-f20157",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/f20157055ca5da9ba3b75bfa18cfa7d0bd15a14b.webp",
-        "source": "wikimedia",
-        "credit": "Ank kumar",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:FIFA_Ballon_D%E2%80%98OR_Awards,_FIFA_Museum,_Zurich_09.jpg",
-        "alt": "Le trophée du Ballon d'Or.",
-        "mots_cles": [
-          "Ballon d'Or"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "053afcb52024dbcbfa3fcf9ac269cda0fe4220d5",
-      "titre": "Achraf Hakimi, auteur de son premier triplé, porte le PSG au Havre (5-1)",
-      "resume": "Le latéral marocain a marqué trois fois et délivré deux passes décisives lors de la victoire 5-1 du PSG au Havre, vendredi, en Ligue 1 (9e journée). Ce succès fait de Luis Enrique l'entraîneur le plus victorieux de l'histoire du club, avec 127 matchs gagnés.",
-      "theme": "foot",
-      "pays": [
-        "MA"
-      ],
-      "competition": "Ligue 1",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a634342798306263519-ligue-1-le-psg-etrille-le-havre-grace-a-un-immense-hakimi-et-reste-en-tete",
-      "autres_sources": [
-        "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
-        "https://www.lequipe.fr/Football/Actualites/Achraf-hakimi-apres-son-triple-et-son-double-de-passes-decisives-avec-le-psg-face-au-havre-5-1-non-ce-n-est-pas-le-match-de-ma-vie/1739897",
-        "https://www.footmercato.net/a7412385971203569637-psg-linfatigable-achraf-hakimi-a-encore-impressionne-tout-le-monde",
-        "https://www.lequipe.fr/Football/Article/Avec-trois-buts-et-deux-passes-decisives-le-lateral-achraf-hakimi-signe-une-performance-exceptionnelle-avec-le-psg-au-havre/1739910"
-      ],
-      "publie_le": "2026-10-30T19:54:04.000Z",
-      "collecte_le": "2026-10-31T11:10:21.266Z",
-      "langue": "fr",
-      "slug": "achraf-hakimi-auteur-de-son-premier-triple-porte-le-psg-au-havre-5-1-053afc",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/053afcb52024dbcbfa3fcf9ac269cda0fe4220d5.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/053afcb52024dbcbfa3fcf9ac269cda0fe4220d5.webp",
-        "source": "wikimedia",
-        "credit": "Nawfel Ajari",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
-        "alt": "Le défenseur international marocain Achraf Hakimi.",
-        "mots_cles": [
-          "Achraf Hakimi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "e3ee453d5dc778fc98f472e3e0abe2e719bbb609",
-      "titre": "Mondial 2030 : Fouzi Lekjaa défend Casablanca et son stade géant pour la finale",
-      "resume": "Fouzi Lekjaa, qui dirige le football marocain, estime que la finale du Mondial 2030 doit revenir au plus grand stade, le futur Hassan II près de Casablanca, annoncé à 115 000 places. L'Espagne vise le Bernabéu ou le Camp Nou. La FIFA n'a encore rien décidé.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "ES"
-      ],
-      "competition": "Coupe du monde 2030",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a8793778935303312180-le-maroc-a-un-nouvel-argument-pour-accueillir-la-finale-de-la-coupe-du-monde-2030",
-      "autres_sources": [
-        "https://www.aljazeera.com/sports/2026/9/11/fifa-rebukes-morocco-claim-they-will-host-2030-world-cup-final"
-      ],
-      "publie_le": "2026-10-30T09:51:11.000Z",
-      "collecte_le": "2026-10-30T11:22:02.354Z",
-      "langue": "fr",
-      "slug": "mondial-2030-fouzi-lekjaa-defend-casablanca-et-son-stade-geant-pour-la-e3ee45",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e3ee453d5dc778fc98f472e3e0abe2e719bbb609.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/e3ee453d5dc778fc98f472e3e0abe2e719bbb609.webp",
-        "source": "wikimedia",
-        "credit": "Amsttu",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Fouzi_Lekjaa_(cropped).jpg",
-        "alt": "Fouzi Lekjaa, président de la Fédération royale marocaine de football",
-        "mots_cles": [
-          "Fouzi Lekjaa"
         ],
         "largeur": 1600,
         "hauteur": 900

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "23df2470105ec64b1770c35716005844d3db2a41",
+  "slug": "classement-fifa-le-maroc-remonte-la-5e-place-mondiale-il-double-bresil-23df24",
+  "titre": "Classement FIFA : le Maroc remonte à la 5e place mondiale, il double Brésil et Portugal",
+  "chapo": "Samedi, les Marocains ont regagné la cinquième place du classement mondial de la FIFA, mis à jour en temps réel. Aucune autre sélection africaine n'a jamais occupé ce rang.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Maroc pointait au septième rang avant la trêve internationale. Sa victoire 5-1 contre le Niger, vendredi à Casablanca, avec deux buts et une passe décisive d'Achraf Hakimi, lui a apporté de précieux points. Les résultats de ses rivaux ont fait le reste.",
+        "Samedi, le Brésil de Carlo Ancelotti s'est incliné 3-2 face au Japon, en amical à Singapour, et le Maroc l'a dépassé. Dans la soirée, le Portugal, qui jouait son premier match sans Cristiano Ronaldo, a été battu 4-1 par le Danemark en Ligue des nations. Les Marocains ont alors encore gagné une place."
+      ]
+    },
+    {
+      "intertitre": "Un rang déjà atteint en octobre",
+      "paragraphes": [
+        "Ce n'est pas une première. Lors de la fenêtre internationale précédente, le Maroc était déjà entré dans le top 5, une performance inédite pour le pays comme pour l'ensemble du continent. Il n'y était resté que neuf jours.",
+        "Un nul en amical contre le Mali (1-1), le 4 octobre, puis les succès des Brésiliens et des Portugais l'avaient fait glisser au septième rang, une place plus bas qu'à l'issue du Mondial 2026, où il s'était arrêté en quarts de finale."
+      ]
+    },
+    {
+      "intertitre": "Une régularité au plus haut niveau",
+      "paragraphes": [
+        "Ce retour confirme la constance des Lions de l'Atlas, portés par des cadres comme Hakimi, premier Africain retenu trois fois dans l'équipe type mondiale de la FIFPRO. Le Maroc mène aussi son groupe des éliminatoires de la CAN 2027."
+      ]
+    },
+    {
+      "intertitre": "Tout peut se jouer mardi contre le Niger",
+      "paragraphes": [
+        "La sélection de Mohamed Ouahbi retrouve le Niger mardi à Rabat, pour la quatrième journée. En cas de nouvelle victoire, surtout avec un écart important, le Maroc conserverait sa cinquième place, peu importe ce que feront les Brésiliens contre Singapour et les Portugais face au pays de Galles.",
+        "Le classement bouge en direct pendant la trêve. La FIFA arrêtera et publiera la version officielle le 18 novembre."
+      ]
+    }
+  ],
+  "mots": 331,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "MA"
+  ],
+  "competition": "Classement FIFA",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/classement-fifa-le-maroc-de-retour-a-sa-5e-place-historique",
+  "publie_le": "2026-11-14T22:34:16.000Z",
+  "redige_le": "2026-11-15T11:18:05.670Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/23df2470105ec64b1770c35716005844d3db2a41.webp",
+    "source": "wikimedia",
+    "credit": "Abdelali Bentarki",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Moroccan_national_team_vs_Paraguay.jpg_(cropped).jpg",
+    "alt": "L'équipe du Maroc de football, les Lions de l'Atlas",
+    "mots_cles": [
+      "Morocco national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

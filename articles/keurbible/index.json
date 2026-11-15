@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-14T18:14:46.450Z",
+  "genere_le": "2026-11-15T11:18:05.635Z",
   "articles": [
+    {
+      "id": "ae8a2837d32752d83d08ee03896200cb4df31873",
+      "slug": "perou-zana-leon-xiv-salue-la-memoire-des-africains-reduits-en-ae8a28",
+      "titre": "Pérou : à Zaña, Léon XIV salue la mémoire des Africains réduits en esclavage",
+      "publie_le": "2026-11-14T16:40:00.000Z",
+      "redige_le": "2026-11-15T11:18:03.072Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/ae8a2837d32752d83d08ee03896200cb4df31873.json"
+    },
     {
       "id": "1a68b812ad20b16c415d54131750013f3a0ce2de",
       "slug": "kenya-eldoret-devient-archidiocese-mgr-joseph-obanyi-sagwe-en-est-le-1a68b8",

@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-14T18:14:43.197Z",
+  "genere_le": "2026-11-15T11:18:03.072Z",
   "actus": [
+    {
+      "id": "ae8a2837d32752d83d08ee03896200cb4df31873",
+      "titre": "Pérou : à Zaña, Léon XIV salue la mémoire des Africains réduits en esclavage",
+      "resume": "Samedi 14 novembre, lors de son voyage au Pérou, le pape Léon XIV a évoqué à Zaña le souvenir des Africains déportés et asservis, et dit sa proximité aux Afro-Péruviens. Il leur a donné en exemple saint Martin de Porres, frère de Lima longtemps tenu à l'écart à cause de ses origines africaines.",
+      "theme": "culture",
+      "pays": [
+        "PE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25365/pope-leo-xiv-deplores-the-great-suffering-and-humiliation-of-afro-peruvians",
+      "autres_sources": [
+        "https://www.la-croix.com/religion/leon-xiv-au-perou-a-zana-l-au-revoir-du-pape-aux-descendants-desclaves-20261115",
+        "https://www.vaticannews.va/fr/pape/news/2026-11/la-confession-de-leon-xiv-a-zana-pour-son-peuple-de-chiclayo.html"
+      ],
+      "publie_le": "2026-11-14T16:40:00.000Z",
+      "collecte_le": "2026-11-15T11:18:03.072Z",
+      "langue": "en",
+      "slug": "perou-zana-leon-xiv-salue-la-memoire-des-africains-reduits-en-ae8a28",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/ae8a2837d32752d83d08ee03896200cb4df31873.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/ae8a2837d32752d83d08ee03896200cb4df31873.webp",
+        "source": "wikimedia",
+        "credit": "Abraham Menahem",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_Porres_-_Oratorio_San_Felipe_Neri.jpg",
+        "alt": "Saint Martin de Porres, frère dominicain de Lima d'ascendance africaine",
+        "mots_cles": [
+          "Martín de Porres"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1a68b812ad20b16c415d54131750013f3a0ce2de",
       "titre": "Kenya : Eldoret devient archidiocèse, Mgr Joseph Obanyi Sagwe en est le premier archevêque",

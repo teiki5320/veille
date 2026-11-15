@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "ae8a2837d32752d83d08ee03896200cb4df31873",
+  "slug": "perou-zana-leon-xiv-salue-la-memoire-des-africains-reduits-en-ae8a28",
+  "titre": "Pérou : à Zaña, Léon XIV salue la mémoire des Africains réduits en esclavage",
+  "chapo": "Au sanctuaire de Zaña, haut lieu de la communauté afro-péruvienne, Léon XIV a salué samedi la mémoire des Africains arrachés à leur terre et la foi de leurs descendants.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le pape parcourt actuellement l'Amérique latine pour un périple de près de deux semaines. Samedi 14 novembre, il s'est arrêté à Zaña, petite ville du diocèse de Chiclayo, qu'il a dirigé comme évêque de 2015 à 2023. Il y présidait une rencontre de prière au sanctuaire dédié à saint Toribio de Mogrovejo.",
+        "Devant les fidèles, il a rappelé que la ville conserve le souvenir de générations d'Africains déportés et soumis à l'esclavage, qui ont enduré de lourdes souffrances. Il a adressé un message d'affection aux personnes d'ascendance africaine réunies devant lui."
+      ]
+    },
+    {
+      "intertitre": "La parole d'une communauté",
+      "paragraphes": [
+        "Plusieurs témoignages ont précédé son discours. Analí Montenegro Mendoza, qui représentait la communauté afro-péruvienne du diocèse, a décrit une histoire marquée par l'exclusion, mais aussi par une grande force pour se relever et fêter la vie. Elle a souhaité une Église où personne ne se sente rabaissé à cause de sa couleur de peau ou de son passé."
+      ]
+    },
+    {
+      "intertitre": "Saint Martin de Porres en modèle",
+      "paragraphes": [
+        "Léon XIV a invité les Afro-Péruviens à suivre l'exemple de persévérance de saint Martin de Porres. Né à Lima en 1579, fils d'un noble espagnol et d'une ancienne esclave, ce frère dominicain s'est d'abord vu refuser une pleine appartenance à son ordre en raison de ses origines africaines. Il a été canonisé en 1962 et reste très populaire dans toute l'Amérique latine.",
+        "Le pape a aussi dit sa peine pour les familles de la région qui vivent dans la peur de l'insécurité ou qui subissent encore des discriminations."
+      ]
+    },
+    {
+      "intertitre": "Un saint cher au pape",
+      "paragraphes": [
+        "La rencontre clôturait une année jubilaire marquant les 300 ans de la canonisation de saint Toribio. Ce missionnaire espagnol, archevêque de Lima de 1581 à sa mort en 1606, encourageait l'annonce de l'Évangile en quechua et en aymara.",
+        "La veille de devenir évêque de Chiclayo, celui qui s'appelait alors Robert Prevost avait passé toute une nuit à prier à Zaña devant une relique de ce saint. Il a évoqué ce souvenir samedi."
+      ]
+    }
+  ],
+  "mots": 353,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "PE"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25365/pope-leo-xiv-deplores-the-great-suffering-and-humiliation-of-afro-peruvians",
+  "autres_sources": [
+    "https://www.la-croix.com/religion/leon-xiv-au-perou-a-zana-l-au-revoir-du-pape-aux-descendants-desclaves-20261115",
+    "https://www.vaticannews.va/fr/pape/news/2026-11/la-confession-de-leon-xiv-a-zana-pour-son-peuple-de-chiclayo.html"
+  ],
+  "publie_le": "2026-11-14T16:40:00.000Z",
+  "redige_le": "2026-11-15T11:18:03.072Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/ae8a2837d32752d83d08ee03896200cb4df31873.webp",
+    "source": "wikimedia",
+    "credit": "Abraham Menahem",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_Porres_-_Oratorio_San_Felipe_Neri.jpg",
+    "alt": "Saint Martin de Porres, frère dominicain de Lima d'ascendance africaine",
+    "mots_cles": [
+      "Martín de Porres"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

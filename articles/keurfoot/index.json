@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-14T18:14:46.490Z",
+  "genere_le": "2026-11-15T11:18:11.169Z",
   "articles": [
+    {
+      "id": "23df2470105ec64b1770c35716005844d3db2a41",
+      "slug": "classement-fifa-le-maroc-remonte-la-5e-place-mondiale-il-double-bresil-23df24",
+      "titre": "Classement FIFA : le Maroc remonte à la 5e place mondiale, il double Brésil et Portugal",
+      "publie_le": "2026-11-14T22:34:16.000Z",
+      "redige_le": "2026-11-15T11:18:05.670Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/23df2470105ec64b1770c35716005844d3db2a41.json"
+    },
+    {
+      "id": "f6b5fd428daf403855549913096a7ec85237feeb",
+      "slug": "can-2027-angola-aliou-cisse-bat-le-soudan-du-sud-2-0-dans-le-temps-f6b5fd",
+      "titre": "CAN 2027 : l'Angola d'Aliou Cissé bat le Soudan du Sud 2-0 dans le temps additionnel",
+      "publie_le": "2026-11-14T21:24:53.000Z",
+      "redige_le": "2026-11-15T11:18:05.670Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/f6b5fd428daf403855549913096a7ec85237feeb.json"
+    },
+    {
+      "id": "d68e837e0c250a31a4fda469dd0790068905671a",
+      "slug": "eliminatoires-can-2027-bensebaini-delivre-algerie-face-au-togo-1-0-d68e83",
+      "titre": "Éliminatoires CAN 2027 : Bensebaini délivre l'Algérie face au Togo (1-0)",
+      "publie_le": "2026-11-14T20:57:53.000Z",
+      "redige_le": "2026-11-15T11:18:05.670Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/d68e837e0c250a31a4fda469dd0790068905671a.json"
+    },
+    {
+      "id": "744ed00f3408c6d613b2a9c3109fb6156e91a022",
+      "slug": "ligue-des-champions-feminine-caf-le-bronze-pour-lekie-ff-large-744ed0",
+      "titre": "Ligue des champions féminine CAF : le bronze pour Lekié FF, large vainqueur de Kawempe",
+      "publie_le": "2026-11-14T18:40:52.000Z",
+      "redige_le": "2026-11-15T11:18:05.670Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/744ed00f3408c6d613b2a9c3109fb6156e91a022.json"
+    },
     {
       "id": "db89a5624134bf245b3f0e3b54366c66dbf0a1ea",
       "slug": "egypte-mohamed-salah-atteint-70-buts-et-depasse-le-record-de-hossam-db89a5",
