@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "7accc32c7ad7056f7090feccad6cae20e8ec6ee4",
+  "slug": "accra-shito-fufu-kenkey-et-jus-de-coco-honneur-une-foire-des-pme-7accc3",
+  "titre": "Accra : shito, fufu, kenkey et jus de coco à l'honneur d'une foire des PME ghanéennes",
+  "chapo": "Pendant trois jours, une foire des petites entreprises organisée à Accra a fait la part belle aux saveurs du Ghana, du piment shito au kenkey en passant par les jus de fruits locaux.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Du vendredi 13 au dimanche 15 novembre, le Ghud Park, à côté de l'Accra Mall, a accueilli l'édition 2026 de la foire des PME organisée par Ecobank et la rédaction économique JoyBusiness. Un large espace y était réservé à l'alimentation, rapporte le média ghanéen MyJoyOnline.",
+        "Transformateurs, fabricants de boissons, traiteurs, agriculteurs et producteurs de grignotages s'y sont retrouvés. Le parc s'est ainsi transformé, le temps d'un week-end, en lieu de découverte des goûts ghanéens."
+      ]
+    },
+    {
+      "intertitre": "Épices et plats traditionnels",
+      "paragraphes": [
+        "Le shito, ce condiment pimenté à base d'huile, de poisson séché et d'épices, figurait en bonne place, aux côtés de plusieurs mélanges d'épices de marques locales. Côté plats préparés, les visiteurs ont trouvé du poulet grillé, du riz et du fufu, la pâte de manioc et de banane plantain pilés servie avec une soupe.",
+        "L'igname et le kenkey, boule de maïs fermenté cuite dans des feuilles, complétaient ce tour des classiques. Des stands proposaient aussi du thon, des céréales et des légumes frais comme la tomate."
+      ]
+    },
+    {
+      "intertitre": "Des boissons tirées du terroir",
+      "paragraphes": [
+        "Le rayon des boissons mettait en avant des produits du pays : jus naturel de cacao, eau de coco, lait de soja et jus de fruits. Une jeune marque présentait des infusions de betterave, de goyave et de papaye, une façon de valoriser des fruits très présents au Ghana.",
+        "Pour les gourmands, des boulangeries et pâtisseries locales ainsi qu'un fabricant de pop-corn complétaient l'offre sucrée."
+      ]
+    },
+    {
+      "intertitre": "Une vitrine pour les petits producteurs",
+      "paragraphes": [
+        "Au-delà de la dégustation, ce rendez-vous sert de tremplin aux petites entreprises alimentaires. Elles y rencontrent le public, font connaître leur nom et montrent que la cuisine ghanéenne se renouvelle, entre recettes héritées et nouvelles idées. La foire s'est achevée ce dimanche soir."
+      ]
+    }
+  ],
+  "mots": 316,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "MyJoyOnline",
+  "source_url": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
+  "publie_le": "2026-11-15T13:54:09.000Z",
+  "redige_le": "2026-11-15T18:17:34.090Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/7accc32c7ad7056f7090feccad6cae20e8ec6ee4.webp",
+    "source": "wikimedia",
+    "credit": "Flixtey",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kenkey_and_Shito_(Chili).jpg",
+    "alt": "Un plat ou une spécialité de la cuisine ghanéenne",
+    "mots_cles": [
+      "Shito"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,36 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-15T11:18:11.172Z",
+  "genere_le": "2026-11-15T18:17:36.545Z",
   "actus": [
+    {
+      "id": "2fb4a4a3b5b94b5591d7accd59d270225ace21dc",
+      "titre": "Orchidées en novembre : plus de lumière et moins d'eau pour obtenir des fleurs en hiver",
+      "resume": "En novembre, les orchidées papillons commencent souvent à produire leurs tiges florales. Le site Gardening Know How conseille de les rapprocher d'une fenêtre ou d'ajouter une lampe de culture, car le manque de lumière peut empêcher la floraison, et d'arroser seulement quand les racines sont sèches.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "source_nom": "Gardening Know How",
+      "source_url": "https://www.gardeningknowhow.com/ornamental/orchids/what-your-orchid-needs-in-november",
+      "publie_le": "2026-11-15T12:30:00.000Z",
+      "collecte_le": "2026-11-15T18:17:36.545Z",
+      "langue": "en",
+      "slug": "orchidees-en-novembre-plus-de-lumiere-et-moins-eau-pour-obtenir-des-2fb4a4",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/2fb4a4a3b5b94b5591d7accd59d270225ace21dc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/2fb4a4a3b5b94b5591d7accd59d270225ace21dc.webp",
+        "source": "wikimedia",
+        "credit": "Uoaei1",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_Cultivar_White_01.jpg",
+        "alt": "Une orchidée Phalaenopsis",
+        "mots_cles": [
+          "Phalaenopsis"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d6209707ccc8b774fef9412f26f111b2639639a5",
       "titre": "CEAg World Impact Awards 2026 : trois figures de la culture sous serre récompensées",

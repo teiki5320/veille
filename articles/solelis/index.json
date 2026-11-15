@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-15T11:18:34.190Z",
+  "genere_le": "2026-11-15T18:17:38.966Z",
   "articles": [
+    {
+      "id": "77bd1e255cc42dc67382c38801708282cb556602",
+      "slug": "presidentielle-2027-uimm-adresse-dix-propositions-aux-candidats-pour-77bd1e",
+      "titre": "Présidentielle 2027 : l'UIMM adresse dix propositions aux candidats pour l'industrie",
+      "publie_le": "2026-11-15T12:01:59.000Z",
+      "redige_le": "2026-11-15T18:17:37.623Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/77bd1e255cc42dc67382c38801708282cb556602.json"
+    },
     {
       "id": "edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004",
       "slug": "commerces-degrades-ouverture-le-dimanche-jusqu-noel-tarde-se-edc94e",

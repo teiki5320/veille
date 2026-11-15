@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-15T11:18:05.640Z",
+  "genere_le": "2026-11-15T18:17:34.086Z",
   "articles": [
+    {
+      "id": "31128b52fe7f7980395c7bbf2c31357b5080c5e7",
+      "slug": "tierno-monenembo-et-peuls-une-epopee-romanesque-relue-par-seneplus-31128b",
+      "titre": "Tierno Monénembo et « Peuls » : une épopée romanesque relue par SenePlus",
+      "publie_le": "2026-11-15T17:09:52.000Z",
+      "redige_le": "2026-11-15T18:17:32.871Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/31128b52fe7f7980395c7bbf2c31357b5080c5e7.json"
+    },
     {
       "id": "1e783a5964cca5f38c8389109171010dbb9ee535",
       "slug": "senghor-raconte-en-louisiane-ndiaga-loum-presente-sa-vision-de-la-1e783a",

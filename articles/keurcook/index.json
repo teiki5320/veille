@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-15T11:18:05.645Z",
+  "genere_le": "2026-11-15T18:17:36.512Z",
   "articles": [
+    {
+      "id": "7accc32c7ad7056f7090feccad6cae20e8ec6ee4",
+      "slug": "accra-shito-fufu-kenkey-et-jus-de-coco-honneur-une-foire-des-pme-7accc3",
+      "titre": "Accra : shito, fufu, kenkey et jus de coco à l'honneur d'une foire des PME ghanéennes",
+      "publie_le": "2026-11-15T13:54:09.000Z",
+      "redige_le": "2026-11-15T18:17:34.090Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/7accc32c7ad7056f7090feccad6cae20e8ec6ee4.json"
+    },
     {
       "id": "ee76717a2fbf38a774d770686a74b81dc5882870",
       "slug": "ghana-la-jeune-akosua-remporte-la-cinquieme-saison-de-big-chef-junior-ee7671",

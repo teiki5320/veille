@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-15T11:18:05.635Z",
+  "genere_le": "2026-11-15T18:17:32.862Z",
   "articles": [
+    {
+      "id": "1b5c1f55d2d3a27cb7b517e5d494dad09bef5572",
+      "slug": "saint-augustin-un-manuscrit-ancien-garderait-le-portrait-et-le-nom-de-1b5c1f",
+      "titre": "Saint Augustin : un manuscrit ancien garderait le portrait et le nom de sa compagne",
+      "publie_le": "2026-11-15T16:00:13.000Z",
+      "redige_le": "2026-11-15T18:17:30.895Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/1b5c1f55d2d3a27cb7b517e5d494dad09bef5572.json"
+    },
     {
       "id": "ae8a2837d32752d83d08ee03896200cb4df31873",
       "slug": "perou-zana-leon-xiv-salue-la-memoire-des-africains-reduits-en-ae8a28",

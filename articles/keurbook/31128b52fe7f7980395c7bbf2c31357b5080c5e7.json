@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "31128b52fe7f7980395c7bbf2c31357b5080c5e7",
+  "slug": "tierno-monenembo-et-peuls-une-epopee-romanesque-relue-par-seneplus-31128b",
+  "titre": "Tierno Monénembo et « Peuls » : une épopée romanesque relue par SenePlus",
+  "chapo": "Le site sénégalais SenePlus consacre une longue chronique à « Peuls », le roman de Tierno Monénembo qui raconte, sur des siècles, l'histoire d'un peuple d'éleveurs nomades.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Ce dimanche 15 novembre, SenePlus a publié une analyse du roman « Peuls » de l'écrivain guinéen Tierno Monénembo. L'auteur de la chronique, Farid Akele, y voit un exemple réussi de roman historique africain : une intrigue inventée posée sur un décor réel, où se croisent des personnages ayant existé et des figures imaginaires.",
+        "Le livre remonte la généalogie des Peuls. Il part d'un ancêtre fondateur légendaire, Dôya Malal, et de ses fils jumeaux, Birom et Birane, dont le rang d'aîné se joue sur une devinette. De là, le récit suit les migrations de ces éleveurs, de l'Égypte ancienne jusqu'aux côtes de l'Atlantique."
+      ]
+    },
+    {
+      "intertitre": "Un peuple entre puissance et errance",
+      "paragraphes": [
+        "Le roman ne raconte pas une marche triomphale. Les Peuls y affrontent des peuples sédentaires, des querelles de chefs, des guerres de succession et des périodes de dispersion. Ils connaissent aussi des moments de domination politique.",
+        "Une figure ressort particulièrement : Koly Tenguéla. Au XVIe siècle, il libère les Peuls de la tutelle de l'empire du Mali et fonde l'État des Dényankobé, qui reste un repère important de la mémoire peule. Le chroniqueur souligne que l'écrivain cherche moins à suivre quelques héros qu'à rendre la mémoire d'une communauté entière."
+      ]
+    },
+    {
+      "intertitre": "Une écriture nourrie de l'oralité",
+      "paragraphes": [
+        "Selon SenePlus, le style de Monénembo est foisonnant, poétique et souvent ironique. Proverbes, devinettes, digressions et répétitions donnent au texte l'allure d'une parole de conteur. Le roman passe d'une forme à l'autre, comme le peuple qu'il décrit passe d'une région à l'autre.",
+        "Dès le début, l'auteur s'adresse directement à son personnage principal, le Peul lui-même, avec une malice que la chronique met en avant. Le récit de la création, où le dieu Guéno façonne d'abord la vache, puis la femme, puis le Peul, donne le ton."
+      ]
+    },
+    {
+      "intertitre": "Un auteur majeur des lettres guinéennes",
+      "paragraphes": [
+        "Né en 1947 en Guinée, Tierno Monénembo a reçu le prix Renaudot en 2008 pour « Le Roi de Kahel ». « Peuls » est paru aux éditions du Seuil en 2004. Pour la chronique, ce roman interroge plus largement le rapport aux origines et rappelle que la littérature reste un lieu où les peuples peuvent garder vivante leur mémoire."
+      ]
+    }
+  ],
+  "mots": 382,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "GN"
+  ],
+  "tags": [
+    "auteur:tierno-monenembo"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/peuls-de-tierno-monenembo-ou-le-romanesque-epique-du-recit-africain",
+  "publie_le": "2026-11-15T17:09:52.000Z",
+  "redige_le": "2026-11-15T18:17:32.871Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/31128b52fe7f7980395c7bbf2c31357b5080c5e7.webp",
+    "source": "wikimedia",
+    "credit": "Aboubacarkhoraa",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tierno_Mon%C3%A9nembo_(cropped).jpg",
+    "alt": "Portrait de l'écrivain guinéen Tierno Monénembo",
+    "mots_cles": [
+      "Tierno Monénembo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

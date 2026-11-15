@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-15T11:18:32.048Z",
+  "genere_le": "2026-11-15T18:17:37.623Z",
   "actus": [
+    {
+      "id": "77bd1e255cc42dc67382c38801708282cb556602",
+      "titre": "Présidentielle 2027 : l'UIMM adresse dix propositions aux candidats pour l'industrie",
+      "resume": "Le patronat de la métallurgie a envoyé dix propositions aux candidats à l'Élysée. Il réclame des impôts de production encore allégés, le maintien du crédit d'impôt recherche et du pacte Dutreil, moins de normes et un transfert de cotisations vers la TVA pour relever le salaire net.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-impots-reglementations-salaires-les-patrons-de-metallurgie-interpellent-les-candidats-31534658.php",
+      "publie_le": "2026-11-15T12:01:59.000Z",
+      "collecte_le": "2026-11-15T18:17:37.623Z",
+      "langue": "fr",
+      "slug": "presidentielle-2027-uimm-adresse-dix-propositions-aux-candidats-pour-77bd1e",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/77bd1e255cc42dc67382c38801708282cb556602.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/77bd1e255cc42dc67382c38801708282cb556602.webp",
+        "source": "wikimedia",
+        "credit": "Aerolegende",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Eric_Trappier.jpg",
+        "alt": "Portrait d'Éric Trappier, président de l'UIMM et PDG de Dassault Aviation",
+        "mots_cles": [
+          "Éric Trappier"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "edc94e4e56ba2d1cf5a7b2d964394ec1d0c50004",
       "titre": "Commerces dégradés : l'ouverture le dimanche jusqu'à Noël tarde à se concrétiser",

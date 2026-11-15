@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-15T11:18:05.636Z",
+  "genere_le": "2026-11-15T18:17:32.871Z",
   "actus": [
+    {
+      "id": "31128b52fe7f7980395c7bbf2c31357b5080c5e7",
+      "titre": "Tierno Monénembo et « Peuls » : une épopée romanesque relue par SenePlus",
+      "resume": "Une chronique publiée par SenePlus revient sur « Peuls », le roman historique de l'écrivain guinéen Tierno Monénembo. Le livre suit le peuple nomade depuis ses origines légendaires jusqu'aux royaumes d'Afrique de l'Ouest, en mêlant faits réels, contes et traditions orales.",
+      "theme": "livres",
+      "pays": [
+        "GN"
+      ],
+      "tags": [
+        "auteur:tierno-monenembo"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/peuls-de-tierno-monenembo-ou-le-romanesque-epique-du-recit-africain",
+      "publie_le": "2026-11-15T17:09:52.000Z",
+      "collecte_le": "2026-11-15T18:17:32.871Z",
+      "langue": "fr",
+      "slug": "tierno-monenembo-et-peuls-une-epopee-romanesque-relue-par-seneplus-31128b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/31128b52fe7f7980395c7bbf2c31357b5080c5e7.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/31128b52fe7f7980395c7bbf2c31357b5080c5e7.webp",
+        "source": "wikimedia",
+        "credit": "Aboubacarkhoraa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tierno_Mon%C3%A9nembo_(cropped).jpg",
+        "alt": "Portrait de l'écrivain guinéen Tierno Monénembo",
+        "mots_cles": [
+          "Tierno Monénembo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1e783a5964cca5f38c8389109171010dbb9ee535",
       "titre": "Senghor raconté en Louisiane : Ndiaga Loum présente sa vision de la Francophonie",

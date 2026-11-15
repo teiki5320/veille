@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-15T11:18:03.072Z",
+  "genere_le": "2026-11-15T18:17:30.895Z",
   "actus": [
+    {
+      "id": "1b5c1f55d2d3a27cb7b517e5d494dad09bef5572",
+      "titre": "Saint Augustin : un manuscrit ancien garderait le portrait et le nom de sa compagne",
+      "resume": "Le chercheur Fabio Troncarelli a repéré, en marge du plus ancien manuscrit connu de saint Augustin, l'esquisse d'un profil de jeune femme accompagnée du nom Serena. Selon Le Monde de la Bible, il pourrait s'agir de la compagne de l'évêque d'Hippone, que ses écrits ne nomment jamais.",
+      "theme": "culture",
+      "pays": [
+        "DZ"
+      ],
+      "source_nom": "La Croix",
+      "source_url": "https://www.la-croix.com/culture/saint-augustin-le-nom-et-le-visage-de-son-grand-amour-reveles-quinze-siecles-apres-sa-mort-20261113",
+      "publie_le": "2026-11-15T16:00:13.000Z",
+      "collecte_le": "2026-11-15T18:17:30.895Z",
+      "langue": "fr",
+      "slug": "saint-augustin-un-manuscrit-ancien-garderait-le-portrait-et-le-nom-de-1b5c1f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/1b5c1f55d2d3a27cb7b517e5d494dad09bef5572.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/1b5c1f55d2d3a27cb7b517e5d494dad09bef5572.webp",
+        "source": "wikimedia",
+        "credit": "Attributed to Gerard Seghers",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Gerard_Seghers_(attr)_-_The_Four_Doctors_of_the_Western_Church,_Saint_Augustine_of_Hippo_(354%E2%80%93430).jpg",
+        "alt": "Représentation de saint Augustin d'Hippone",
+        "mots_cles": [
+          "Augustine of Hippo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ae8a2837d32752d83d08ee03896200cb4df31873",
       "titre": "Pérou : à Zaña, Léon XIV salue la mémoire des Africains réduits en esclavage",

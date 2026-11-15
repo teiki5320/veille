@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-15T11:18:05.641Z",
+  "genere_le": "2026-11-15T18:17:34.090Z",
   "actus": [
+    {
+      "id": "7accc32c7ad7056f7090feccad6cae20e8ec6ee4",
+      "titre": "Accra : shito, fufu, kenkey et jus de coco à l'honneur d'une foire des PME ghanéennes",
+      "resume": "À Accra, une foire consacrée aux petites entreprises a réuni du 13 au 15 novembre des producteurs ghanéens d'épices, de plats et de boissons. Shito, fufu, kenkey, poulet grillé, jus de cacao ou de coco et tisanes locales y ont mis en lumière la cuisine du pays.",
+      "theme": "cuisine",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
+      "publie_le": "2026-11-15T13:54:09.000Z",
+      "collecte_le": "2026-11-15T18:17:34.090Z",
+      "langue": "en",
+      "slug": "accra-shito-fufu-kenkey-et-jus-de-coco-honneur-une-foire-des-pme-7accc3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/7accc32c7ad7056f7090feccad6cae20e8ec6ee4.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/7accc32c7ad7056f7090feccad6cae20e8ec6ee4.webp",
+        "source": "wikimedia",
+        "credit": "Flixtey",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kenkey_and_Shito_(Chili).jpg",
+        "alt": "Un plat ou une spécialité de la cuisine ghanéenne",
+        "mots_cles": [
+          "Shito"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "ee76717a2fbf38a774d770686a74b81dc5882870",
       "titre": "Ghana : la jeune Akosua remporte la cinquième saison de Big Chef Junior",

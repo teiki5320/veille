@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "77bd1e255cc42dc67382c38801708282cb556602",
+  "slug": "presidentielle-2027-uimm-adresse-dix-propositions-aux-candidats-pour-77bd1e",
+  "titre": "Présidentielle 2027 : l'UIMM adresse dix propositions aux candidats pour l'industrie",
+  "chapo": "À dix-huit mois de l'élection présidentielle, l'Union des industries et métiers de la métallurgie publie un « pacte industriel et social » en dix points, centré sur la fiscalité, les normes et les compétences.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dimanche 15 novembre, l'UIMM, qui représente les employeurs de la métallurgie, a transmis dix propositions aux candidats déclarés ou pressentis pour 2027. Le secteur compte environ 1,5 million de salariés en France, dans l'automobile, l'aéronautique ou l'énergie, et réunit de grands groupes comme une multitude de PME sous-traitantes."
+      ]
+    },
+    {
+      "intertitre": "La fiscalité en tête des demandes",
+      "paragraphes": [
+        "L'organisation demande d'abord de continuer à alléger les impôts de production, jugés pénalisants pour l'industrie. Elle souhaite que le crédit d'impôt recherche soit préservé, alors que son efficacité fait débat.",
+        "Elle plaide aussi pour la stabilité du pacte Dutreil, ce dispositif qui allège la fiscalité lors de la transmission d'une entreprise familiale. Ce point intéresse directement de nombreux dirigeants de PME qui préparent leur succession, alors que la gauche critique régulièrement ce mécanisme."
+      ]
+    },
+    {
+      "intertitre": "Salaires, normes et préférence européenne",
+      "paragraphes": [
+        "Sur les rémunérations, l'UIMM propose de basculer une partie des cotisations sociales vers la TVA, pour augmenter le net perçu par les salariés sans renchérir le coût du travail. Elle veut aussi développer la participation, l'intéressement et l'actionnariat des salariés.",
+        "Le patronat réclame la fin des surtranspositions, c'est-à-dire des règles françaises plus strictes que les directives européennes, et une action à Bruxelles pour limiter les nouveaux textes. Il soutient enfin une préférence européenne stricte, en cours de discussion entre Paris et Berlin."
+      ]
+    },
+    {
+      "intertitre": "200 000 recrutements par an visés",
+      "paragraphes": [
+        "La branche dit vouloir embaucher 200 000 personnes chaque année pendant dix ans. Elle demande plus d'exigence à l'école, la mise en valeur des filières courtes, de nouveaux changements de l'assurance chômage, ainsi que un accès plus simple à la formation professionnelle.",
+        "Son président, Éric Trappier, également patron de Dassault Aviation, rappelle que la part de l'industrie manufacturière dans le PIB est tombée à environ 10 %. Il a fixé rendez-vous aux candidats à Paris, à la Mutualité, le 2 février 2027."
+      ]
+    }
+  ],
+  "mots": 336,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-impots-reglementations-salaires-les-patrons-de-metallurgie-interpellent-les-candidats-31534658.php",
+  "publie_le": "2026-11-15T12:01:59.000Z",
+  "redige_le": "2026-11-15T18:17:37.623Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/77bd1e255cc42dc67382c38801708282cb556602.webp",
+    "source": "wikimedia",
+    "credit": "Aerolegende",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eric_Trappier.jpg",
+    "alt": "Portrait d'Éric Trappier, président de l'UIMM et PDG de Dassault Aviation",
+    "mots_cles": [
+      "Éric Trappier"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
