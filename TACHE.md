@@ -125,7 +125,7 @@ Ouvre `tmp/planche-<site>.png` (outil Read). Pour chaque vignette : aucun visage
 node scripts/recadre.mjs <site> <id> <haut>    # haut : 0 = garder le haut de la photo, 1 = le bas (essaie 0.1, 0.2…)
 ```
 
-Pour une photo Openverse, ajoute l'adresse de l'original (page Flickr → `og:image`). Refais la planche jusqu'à ce que ce soit bon, puis `git add images && git commit -m "Veille : recadrage des photos" && git pull --rebase && git push`.
+Pour une photo Openverse, ajoute l'adresse de l'original (page Flickr → `og:image`). Refais la planche **une seule fois** après tes recadrages. Si une photo n'est toujours pas bonne, n'insiste pas : laisse-la avec son meilleur cadrage (ou remets le précédent s'il était meilleur) et signale-la dans le compte rendu (site, id, ce qui ne va pas). Puis `git add images && git commit -m "Veille : recadrage des photos" && git pull --rebase && git push`.
 
 ### Corriger un article déjà en ligne
 
