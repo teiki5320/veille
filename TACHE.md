@@ -144,6 +144,8 @@ Envoie une alerte si :
 - un flux a **3 échecs de suite** (`a_verifier: true` dans `tmp/collecte-bilan.json`) ;
 - une étape a planté (collecte, `npm ci`, `git pull`).
 
+Règle d'essais : quand quelque chose casse, **un seul essai de réparation** ; si ça casse encore, on arrête là, on laisse en ligne les fichiers du passage précédent et on envoie l'alerte (c'est la carte « À faire » de Jean). Refaire `git pull --rebase` puis `git push` parce qu'un autre a poussé entre-temps n'est pas une réparation : c'est normal, 2 fois au plus.
+
 Construis toujours le JSON avec `node -e` (jamais à la main), puis envoie-le. Exemple :
 
 ```sh
@@ -171,12 +173,15 @@ node -e 'process.stdout.write(JSON.stringify({ id: "veille:keurfoot:publication"
 
 Si le Studio ne répond pas (`localhost:4600` éteint), note-le dans le résumé final, sans t'arrêter.
 
-## 6. Résumé final (une ligne)
+## 6. Résumé final (deux lignes)
 
 Exemple : « Veille 12 h : Keur Foot 9 actus (6 photos, 3 cartes), Keurbook 4 actus ; 2 abandonnées (anti-copie) ; flux à vérifier : BDZoom. »
+
+Puis toujours la ligne : « Bilan : fait … ; vérifié … ; échoué … (carte créée : <id de l'alerte>) » (« rien » quand il n'y a rien).
 
 ## À ne jamais faire
 
 - Modifier `actus/*.json` à la main, ou publier sans passer par `scripts/publie.mjs`.
 - Copier un texte de la source, ou utiliser l'image de l'article source.
 - Créer une branche ou une PR ; ajouter une clé ou un secret ; toucher `AGENTS.md`.
+- Écrire un nom de modèle figé dans un commit fait à la main : la dernière ligne du message est la ligne d'attribution indiquée par la session en cours ; à défaut `Co-Authored-By: Claude <noreply@anthropic.com>`.
