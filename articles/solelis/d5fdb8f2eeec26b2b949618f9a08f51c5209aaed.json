@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "d5fdb8f2eeec26b2b949618f9a08f51c5209aaed",
+  "slug": "ile-de-france-116-700-emplois-menaces-chaque-annee-par-le-manque-de-d5fdb8",
+  "titre": "Île-de-France : 116 700 emplois menacés chaque année par le manque de repreneurs",
+  "chapo": "En Île-de-France, des milliers de dirigeants approchent de la retraite sans successeur. Le 16 novembre à Paris, le salon Transfair a rappelé l'enjeu : 116 700 emplois seraient menacés chaque année faute de repreneur.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La 12e édition de Transfair s'est tenue lundi 16 novembre au siège parisien de la chambre de commerce régionale, rue Léon-Jouhaux, dans le 10e arrondissement. Ce rendez-vous annuel réunit cédants, repreneurs et conseillers autour de la transmission d'entreprise. Il a attiré 1 400 participants, contre un peu plus de 1 000 l'an dernier.",
+        "Le constat de départ est simple : la région compte près de 500 000 entreprises dont le dirigeant a plus de 55 ans. Si aucune solution de reprise n'est trouvée, 116 700 emplois pourraient disparaître chaque année."
+      ]
+    },
+    {
+      "intertitre": "Qui organise le salon",
+      "paragraphes": [
+        "Quatre organismes montent la journée : la chambre de commerce et d'industrie régionale, l'Ordre francilien des experts-comptables, les commissaires aux comptes de Paris, réunis en compagnie régionale, et le Barreau de Paris. Bpifrance et la Société Générale soutiennent l'opération.",
+        "Les organisateurs présentent la reprise comme une voie de développement à part entière : le repreneur arrive avec un outil de travail déjà en place, une équipe formée, des clients et un savoir-faire."
+      ]
+    },
+    {
+      "intertitre": "Ce que les dirigeants y trouvent",
+      "paragraphes": [
+        "Le programme comptait 26 conférences, des ateliers et des consultations gratuites. Experts-comptables, avocats, commissaires aux comptes et spécialistes de la CCI et de Bpifrance répondaient aux questions juridiques, fiscales, financières et humaines.",
+        "Deux thèmes intéressent directement les patrons de TPE et PME : comment estimer la valeur d'une entreprise, et comment trouver un acheteur sur un marché où beaucoup d'affaires ne sont pas annoncées publiquement. Un duo cédant-repreneur a aussi raconté son expérience lors de l'ouverture."
+      ]
+    },
+    {
+      "intertitre": "Anticiper reste la clé",
+      "paragraphes": [
+        "Le message des organisateurs est clair : une transmission réussie se prépare longtemps à l'avance, avec un accompagnement. Pour un dirigeant proche de la retraite, faire évaluer son entreprise et consulter son expert-comptable tôt permet d'éviter une fermeture qui coûterait des emplois."
+      ]
+    }
+  ],
+  "mots": 328,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Les Affiches Parisiennes",
+  "source_url": "https://mesinfos.fr/75000-paris/transfair-116-700-emplois-franciliens-menaces-chaque-annee-faute-de-repreneurs-343300.html",
+  "autres_sources": [
+    "https://www.cci-paris-idf.fr/transmission-dentreprise-face-un-defi-economique-majeur-les-acteurs-de-lecosysteme-se-mobilisent-avec-transfair-2026"
+  ],
+  "publie_le": "2026-11-16T13:33:00.000Z",
+  "redige_le": "2026-11-16T18:18:16.383Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/d5fdb8f2eeec26b2b949618f9a08f51c5209aaed.webp",
+    "source": "wikimedia",
+    "credit": "CVB",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_Adolphe-Jullien_Paris.jpg",
+    "alt": "Le siège de la CCI Paris Île-de-France",
+    "mots_cles": [
+      "CCI Paris Île-de-France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

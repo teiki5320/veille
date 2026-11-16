@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "e276a6d1cf2631fe8bc467a1085dd8c05b53980c",
+  "slug": "milwaukee-une-ferme-interieure-au-siege-de-rockwell-nourrit-les-e276a6",
+  "titre": "Milwaukee : une ferme intérieure au siège de Rockwell nourrit les banques alimentaires",
+  "chapo": "Au cœur de Milwaukee, une ferme d'intérieur produit des salades pour les plus démunis. Clock Tower Farms associe culture hydroponique sous LED et automatisation industrielle.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Rockwell Automation, spécialiste américain de l'automatisation, a annoncé que Clock Tower Farms fonctionne désormais à plein régime. La ferme se trouve dans son siège de Milwaukee, dans le Wisconsin. Elle a été montée avec Fork Farms, qui fournit les systèmes de culture, et la banque alimentaire Feeding America Eastern Wisconsin.",
+        "Des salariés de Rockwell ont participé bénévolement à l'installation et continueront d'aider au fonctionnement."
+      ]
+    },
+    {
+      "intertitre": "72 unités hydroponiques",
+      "paragraphes": [
+        "À pleine capacité, la ferme comptera 72 unités Flex Acre de Fork Farms. Ensemble, elles doivent produire environ 200 000 livres par an, soit à peu près 90 tonnes de légumes feuilles et d'autres végétaux.",
+        "Les plantes poussent dans une eau enrichie en nutriments qui circule en boucle, sous des lampes LED économes. Un système de contrôle de Rockwell surveille et corrige automatiquement les nutriments, le pH et le niveau d'eau selon les cultures."
+      ]
+    },
+    {
+      "intertitre": "Cinq semaines de la graine à la récolte",
+      "paragraphes": [
+        "Les graines germent en deux semaines environ. Les jeunes plants passent ensuite dans les unités de culture. Au bout d'à peu près trois semaines, les salades sont prêtes.",
+        "Une fois coupées, elles partent directement vers les camions de la banque alimentaire, sans stockage prolongé. Le trajet entre la récolte et la distribution est ainsi réduit au minimum."
+      ]
+    },
+    {
+      "intertitre": "Un réseau de 600 partenaires",
+      "paragraphes": [
+        "La production sera distribuée par Feeding America Eastern Wisconsin, qui s'appuie sur près de 600 associations d'aide alimentaire dans 35 comtés. Pour la banque alimentaire, recevoir des légumes cultivés sur place permet d'offrir des produits frais à des familles en difficulté.",
+        "Les partenaires présentent le projet comme un modèle reproductible, qui montre comment la culture en environnement contrôlé peut servir l'accès à une alimentation fraîche."
+      ]
+    }
+  ],
+  "mots": 301,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:laitue"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9893059/clock-tower-farms-officially-launches-in-wisconsin/",
+  "publie_le": "2026-11-16T14:15:00.000Z",
+  "redige_le": "2026-11-16T18:18:13.092Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/e276a6d1cf2631fe8bc467a1085dd8c05b53980c.webp",
+    "source": "wikimedia",
+    "credit": "a Rockwell Automation Employee",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Headquarters.jpg",
+    "alt": "La tour de l'horloge Allen-Bradley, au siège de Rockwell Automation à Milwaukee",
+    "mots_cles": [
+      "Allen-Bradley Clock Tower"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

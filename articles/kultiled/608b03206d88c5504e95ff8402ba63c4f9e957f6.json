@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "608b03206d88c5504e95ff8402ba63c4f9e957f6",
+  "slug": "pays-bas-le-materiel-de-la-ferme-verticale-infinite-acres-en-faillite-608b03",
+  "titre": "Pays-Bas : le matériel de la ferme verticale Infinite Acres, en faillite, mis aux enchères",
+  "chapo": "Après la chute de 80 Acres Farms, sa filiale néerlandaise Infinite Acres voit son matériel partir aux enchères. Unités de culture, lampes LED et ferme en conteneur sont proposées en ligne jusqu'au 26 novembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La plateforme Troostwijk Auctions organise la vente pour le compte du curateur. Elle porte sur les équipements de démonstration et d'essai du laboratoire de terrain d'Infinite Acres, installé à La Haye, près de la grande région des serres du Westland.",
+        "Une journée de visite est prévue le mardi 24 novembre, de 9 h à 12 h, sur place. La vente se clôt le jeudi 26 novembre à 10 h."
+      ]
+    },
+    {
+      "intertitre": "Ce qui est vendu",
+      "paragraphes": [
+        "Le plus gros lot est une installation complète : quatre unités de culture avec éclairage LED et pilotage numérique, traitement de l'eau, dosage des nutriments, groupe de refroidissement, pompes et échangeurs de chaleur.",
+        "On trouve aussi une ferme en conteneur de 40 pieds isolé, avec deux tables de culture et 90 lampes LED Philips, ainsi qu'un système mobile démontable équipé de 42 lampes, des étagères en aluminium sur trois niveaux, une étuve, des réfrigérateurs et du matériel informatique."
+      ]
+    },
+    {
+      "intertitre": "Une faillite en chaîne",
+      "paragraphes": [
+        "Le tribunal de La Haye a prononcé la faillite d'Infinite Acres Holding et d'Infinite Acres B.V. le 8 septembre 2026. Aucun rapport du curateur n'avait encore détaillé les dettes ni le nombre de salariés.",
+        "La maison mère, 80 Acres Farms, basée dans l'Ohio, avait annoncé le 3 août l'arrêt de ses activités, faute d'avoir trouvé les fonds nécessaires. Créée en 2015, elle avait levé environ 350 millions de dollars et livrait plus de 18 000 magasins aux États-Unis."
+      ]
+    },
+    {
+      "intertitre": "Une vitrine de la culture verticale",
+      "paragraphes": [
+        "Infinite Acres était né en 2019 d'une alliance entre 80 Acres Farms, le néerlandais Priva et le britannique Ocado, avant de passer entièrement sous le contrôle de 80 Acres en 2021. Son laboratoire, ouvert en juin 2024 avec Siemens et d'autres partenaires, servait à tester matériel, logiciels et systèmes de pilotage pour fermes verticales.",
+        "Cette vente illustre les difficultés financières que traverse une partie du secteur."
+      ]
+    }
+  ],
+  "mots": 339,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "NL",
+    "US"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9892963/vertical-farming-systems-and-container-farm-of-bankrupt-infinite-acres-up-for-auction/",
+  "autres_sources": [
+    "https://www.verticalfarmdaily.com/article/9893172/systems-from-bankrupt-infinite-acres-to-go-under-the-hammer-in-online-auction/",
+    "https://www.hortidaily.com/article/9872227/infinite-acres-declared-bankrupt-in-the-netherlands/"
+  ],
+  "publie_le": "2026-11-16T13:10:00.000Z",
+  "redige_le": "2026-11-16T18:18:13.092Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/608b03206d88c5504e95ff8402ba63c4f9e957f6.webp",
+    "source": "wikimedia",
+    "credit": "Valcenteu",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:VertiCrop.jpg",
+    "alt": "Des étagères de culture verticale sous des lampes LED",
+    "mots_cles": [
+      "Vertical farming"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

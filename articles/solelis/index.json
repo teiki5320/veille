@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-16T11:21:08.741Z",
+  "genere_le": "2026-11-16T18:18:19.465Z",
   "articles": [
+    {
+      "id": "d5fdb8f2eeec26b2b949618f9a08f51c5209aaed",
+      "slug": "ile-de-france-116-700-emplois-menaces-chaque-annee-par-le-manque-de-d5fdb8",
+      "titre": "Île-de-France : 116 700 emplois menacés chaque année par le manque de repreneurs",
+      "publie_le": "2026-11-16T13:33:00.000Z",
+      "redige_le": "2026-11-16T18:18:16.383Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/d5fdb8f2eeec26b2b949618f9a08f51c5209aaed.json"
+    },
     {
       "id": "25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5",
       "slug": "travail-dissimule-la-saisie-de-urssaf-sans-juge-change-au-plus-tard-en-25d08c",

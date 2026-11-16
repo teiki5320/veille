@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "1541dc09fe04d967cf81d6f1f954511e83eb665a",
+  "slug": "cote-ivoire-mgr-armand-kone-invite-les-communautes-nouvelles-vivre-1541dc",
+  "titre": "Côte d'Ivoire : Mgr Armand Koné invite les communautés nouvelles à vivre unies",
+  "chapo": "Plus de 300 communautés nouvelles sont recensées en Côte d'Ivoire. Mgr Armand Koné, archevêque de Korhogo, leur a demandé de privilégier l'unité et de rester au cœur de la vie des paroisses.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le samedi 14 novembre, la commission des évêques ivoiriens chargée des communautés nouvelles et de la nouvelle évangélisation lançait son année pastorale 2026-2027. La rencontre se tenait à Koumassi, à la paroisse Saint-Étienne, qui relève du diocèse de Grand-Bassam. Président de cette commission, Mgr Armand Koné, à la tête de l'archidiocèse de Korhogo, y a pris la parole.",
+        "Il a d'abord reconnu l'apport de ces groupes à l'évangélisation et au dynamisme de l'Église ivoirienne. Il a ensuite posé une question : pourquoi tant de nouvelles structures voient-elles le jour dans le pays ?"
+      ]
+    },
+    {
+      "intertitre": "Mieux vaut une grande communauté que dix petites",
+      "paragraphes": [
+        "Selon l'archevêque, les fragilités spirituelles ou familiales que le pays a connues n'expliquent pas cette multiplication. Il y voit moins une diversité de dons qu'une répétition des mêmes projets, qui disperse les forces.",
+        "Il a pris un exemple concret : un groupe de 200 fidèles peut bâtir une chapelle, alors que dix groupes de 20 personnes finissent par se disputer une même salle. Il a aussi invité les prêtres à mieux accueillir ces communautés, en notant que certaines s'éloignent faute de place dans leur paroisse."
+      ]
+    },
+    {
+      "intertitre": "Trois engagements proposés",
+      "paragraphes": [
+        "Mgr Koné a présenté un « pacte de famille » en trois points. D'abord, demeurer pleinement dans la vie ecclésiale et servir sa paroisse, que chaque curé est appelé à ouvrir. Ensuite, chercher la complémentarité au lieu de créer des structures aux buts semblables. Enfin, servir le Christ ensemble, dans un esprit fraternel.",
+        "Pour lui, l'unité passe par l'écoute de l'Esprit Saint, vécue en communion avec l'Église."
+      ]
+    },
+    {
+      "intertitre": "Le soutien de CHARIS",
+      "paragraphes": [
+        "Shayne Bennett, qui coordonne la commission des communautés nouvelles au sein de CHARIS, le service international créé par le Vatican pour le Renouveau charismatique catholique, a parlé dans le même sens. Il a rappelé l'importance de liens de confiance entre ces groupes, les prêtres et les évêques.",
+        "Il a reconnu que ces réalités récentes suscitent parfois des questions, mais il estime que le dialogue permet de les dépasser, au service de la mission commune d'évangélisation."
+      ]
+    }
+  ],
+  "mots": 367,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "CI"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/cote-d-ivoire-l-appel-a-l-unite-et-a-la-communion-ecclesiale.html",
+  "publie_le": "2026-11-16T14:07:00.000Z",
+  "redige_le": "2026-11-16T18:18:10.701Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/1541dc09fe04d967cf81d6f1f954511e83eb665a.webp",
+    "source": "wikimedia",
+    "credit": "Kod B",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Saint-Paul_d%27Abidjan_100.jpg",
+    "alt": "Une église catholique en Côte d'Ivoire",
+    "mots_cles": [
+      "Cathédrale Saint-Paul d'Abidjan"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

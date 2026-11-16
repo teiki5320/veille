@@ -1,8 +1,76 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-16T11:21:03.875Z",
+  "genere_le": "2026-11-16T18:18:13.092Z",
   "actus": [
+    {
+      "id": "e276a6d1cf2631fe8bc467a1085dd8c05b53980c",
+      "titre": "Milwaukee : une ferme intérieure au siège de Rockwell nourrit les banques alimentaires",
+      "resume": "Clock Tower Farms, installée au siège de Rockwell Automation à Milwaukee, produit désormais des légumes feuilles toute l'année. À pleine capacité, ses 72 unités hydroponiques sous LED doivent fournir environ 90 tonnes par an, distribuées par le réseau Feeding America Eastern Wisconsin.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:laitue"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9893059/clock-tower-farms-officially-launches-in-wisconsin/",
+      "publie_le": "2026-11-16T14:15:00.000Z",
+      "collecte_le": "2026-11-16T18:18:13.092Z",
+      "langue": "en",
+      "slug": "milwaukee-une-ferme-interieure-au-siege-de-rockwell-nourrit-les-e276a6",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/e276a6d1cf2631fe8bc467a1085dd8c05b53980c.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/e276a6d1cf2631fe8bc467a1085dd8c05b53980c.webp",
+        "source": "wikimedia",
+        "credit": "a Rockwell Automation Employee",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Headquarters.jpg",
+        "alt": "La tour de l'horloge Allen-Bradley, au siège de Rockwell Automation à Milwaukee",
+        "mots_cles": [
+          "Allen-Bradley Clock Tower"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "608b03206d88c5504e95ff8402ba63c4f9e957f6",
+      "titre": "Pays-Bas : le matériel de la ferme verticale Infinite Acres, en faillite, mis aux enchères",
+      "resume": "Les systèmes de culture du laboratoire d'Infinite Acres à La Haye sont vendus en ligne par Troostwijk Auctions pour le compte du curateur. La filiale technique de l'américain 80 Acres Farms a été déclarée en faillite en septembre, après l'arrêt de sa maison mère. Les enchères se terminent le 26 novembre.",
+      "theme": "culture-interieur",
+      "pays": [
+        "NL",
+        "US"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9892963/vertical-farming-systems-and-container-farm-of-bankrupt-infinite-acres-up-for-auction/",
+      "autres_sources": [
+        "https://www.verticalfarmdaily.com/article/9893172/systems-from-bankrupt-infinite-acres-to-go-under-the-hammer-in-online-auction/",
+        "https://www.hortidaily.com/article/9872227/infinite-acres-declared-bankrupt-in-the-netherlands/"
+      ],
+      "publie_le": "2026-11-16T13:10:00.000Z",
+      "collecte_le": "2026-11-16T18:18:13.092Z",
+      "langue": "en",
+      "slug": "pays-bas-le-materiel-de-la-ferme-verticale-infinite-acres-en-faillite-608b03",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/608b03206d88c5504e95ff8402ba63c4f9e957f6.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/608b03206d88c5504e95ff8402ba63c4f9e957f6.webp",
+        "source": "wikimedia",
+        "credit": "Valcenteu",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:VertiCrop.jpg",
+        "alt": "Des étagères de culture verticale sous des lampes LED",
+        "mots_cles": [
+          "Vertical farming"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "2fb4a4a3b5b94b5591d7accd59d270225ace21dc",
       "titre": "Orchidées en novembre : plus de lumière et moins d'eau pour obtenir des fleurs en hiver",

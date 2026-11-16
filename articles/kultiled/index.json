@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-16T11:21:05.586Z",
+  "genere_le": "2026-11-16T18:18:16.379Z",
   "articles": [
+    {
+      "id": "e276a6d1cf2631fe8bc467a1085dd8c05b53980c",
+      "slug": "milwaukee-une-ferme-interieure-au-siege-de-rockwell-nourrit-les-e276a6",
+      "titre": "Milwaukee : une ferme intérieure au siège de Rockwell nourrit les banques alimentaires",
+      "publie_le": "2026-11-16T14:15:00.000Z",
+      "redige_le": "2026-11-16T18:18:13.092Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/e276a6d1cf2631fe8bc467a1085dd8c05b53980c.json"
+    },
+    {
+      "id": "608b03206d88c5504e95ff8402ba63c4f9e957f6",
+      "slug": "pays-bas-le-materiel-de-la-ferme-verticale-infinite-acres-en-faillite-608b03",
+      "titre": "Pays-Bas : le matériel de la ferme verticale Infinite Acres, en faillite, mis aux enchères",
+      "publie_le": "2026-11-16T13:10:00.000Z",
+      "redige_le": "2026-11-16T18:18:13.092Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/608b03206d88c5504e95ff8402ba63c4f9e957f6.json"
+    },
     {
       "id": "2fb4a4a3b5b94b5591d7accd59d270225ace21dc",
       "slug": "orchidees-en-novembre-plus-de-lumiere-et-moins-eau-pour-obtenir-des-2fb4a4",

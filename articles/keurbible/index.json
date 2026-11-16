@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-16T11:22:15.345Z",
+  "genere_le": "2026-11-16T18:18:13.042Z",
   "articles": [
+    {
+      "id": "1541dc09fe04d967cf81d6f1f954511e83eb665a",
+      "slug": "cote-ivoire-mgr-armand-kone-invite-les-communautes-nouvelles-vivre-1541dc",
+      "titre": "Côte d'Ivoire : Mgr Armand Koné invite les communautés nouvelles à vivre unies",
+      "publie_le": "2026-11-16T14:07:00.000Z",
+      "redige_le": "2026-11-16T18:18:10.701Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/1541dc09fe04d967cf81d6f1f954511e83eb665a.json"
+    },
     {
       "id": "37c824fbacb7abaad8f5ad3d49bf6b899093eabe",
       "slug": "sahel-les-eveques-du-burkina-et-du-niger-appellent-soutenir-la-37c824",

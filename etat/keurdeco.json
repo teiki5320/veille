@@ -1,47 +1,5 @@
 {
   "deja_vus": {
-    "c2ba527c362c886092c1de25361704d562930002": "2026-11-06T18:18:10.027Z",
-    "a197c08308c837c2d71fc3b62e5fa75487da5100": "2026-11-06T18:18:10.027Z",
-    "3523e51b83cd02aea2f300a51a49fc110e9c2be0": "2026-11-06T18:18:10.027Z",
-    "1a94d0ff88dab15a1bb8c282f30d305f8183596b": "2026-11-06T18:18:10.027Z",
-    "e3705d8cc17d64454ef87ef3c30cdcabd3fbcbe0": "2026-11-06T18:18:10.027Z",
-    "ef50b3045fe30b1511492ebe3dc88ad9d2b07beb": "2026-11-06T18:18:10.027Z",
-    "71061104f26e857b0e167dba8e8f6ec139ce02d9": "2026-11-06T18:18:10.027Z",
-    "c6293a42aba0f71e372b08ab51aee439d39b80ea": "2026-11-06T18:18:10.027Z",
-    "60062ceeb58aabaa74c9576bf2487ee6b4dd86bb": "2026-11-06T18:18:10.027Z",
-    "cf8560f0f57c5a9c3c3f8d3981bcce968d56957f": "2026-11-06T18:18:10.027Z",
-    "9f63a9435d58580ac6382602831f2fce9116054b": "2026-11-06T18:18:10.027Z",
-    "935441b85cb0258211eda5f3fc0676b45e938a3f": "2026-11-06T18:18:10.027Z",
-    "8224d7cbef2f81e7099e64e84d1888bd9a94efb0": "2026-11-06T18:18:10.027Z",
-    "27ab6a6be362ec4a5da024229671004b3123fac4": "2026-11-06T18:18:10.027Z",
-    "2a69a19530fa8ae4585a35fc780954f473dee3c2": "2026-11-06T18:18:10.027Z",
-    "91ca14830604be0ad600d35cee4c25a5098fe7d1": "2026-11-06T18:18:10.027Z",
-    "fc5e81407aa1c4b0447da101ec7e1f4e262d89ef": "2026-11-06T18:18:10.027Z",
-    "9ca2a6ea278293d4c1950a30151807b41c068b12": "2026-11-06T18:18:10.027Z",
-    "4051234cc481a9c6eff723a7b4e712b45e329ae6": "2026-11-06T18:18:10.027Z",
-    "02a8f0dd328ba65f7e4f6649d1ca2ab1dfece52a": "2026-11-06T18:18:10.027Z",
-    "93b7ea30a09a81db4a469386af91729ab28233b1": "2026-11-06T18:18:10.027Z",
-    "839fbe700800afe2b9e1d2230ffdccd959b3987f": "2026-11-06T18:18:10.027Z",
-    "39fa5960a558c20f879766371466fd19ceb09ee4": "2026-11-06T18:18:10.027Z",
-    "021597825c4d9f1236a22d22e114f4e5b801a4c8": "2026-11-06T18:18:10.027Z",
-    "f626857f6668d33cd054737fc99f7282dc8d094c": "2026-11-06T18:18:10.027Z",
-    "307b58f18bc0a12796083b6873e345266ce84628": "2026-11-06T18:18:10.027Z",
-    "e7ebd5d299e24d039ebc3dc4de5466a69a328560": "2026-11-06T18:18:10.027Z",
-    "a5f7793c0bbf80c16537a8b05338316ce9fdcc08": "2026-11-06T18:18:10.027Z",
-    "e88270f1cbe4d8e2e5b94ef3160d20f53c7359f2": "2026-11-06T18:18:10.027Z",
-    "42a62dc72f10e74770e4fc1acdf83dd691c66953": "2026-11-06T18:18:10.027Z",
-    "dbc08ee628dc3a2f6b72bfc1e09b31f18fa6a194": "2026-11-06T18:18:10.027Z",
-    "1f0268faac05a33478f583a374bc710bdc8ad695": "2026-11-06T18:18:10.027Z",
-    "76ae1091cb6c908e22477b73bdb4183803080305": "2026-11-06T18:18:10.027Z",
-    "0a3c9587bbcc848a448c93353c08a16bfaffb81e": "2026-11-06T18:18:10.027Z",
-    "2418dc985adb964ead11b90ec03202f0a9ed4da8": "2026-11-06T18:18:10.027Z",
-    "ad6956ff031a934814fe6574e406b73320a2942b": "2026-11-06T18:18:10.027Z",
-    "7acea4215af2d18b1bd05af581ff88acbe1b1df1": "2026-11-06T18:18:10.027Z",
-    "f0b98ee508c9d933368feb85799fe39daa3de6a1": "2026-11-06T18:18:10.027Z",
-    "67949d744f9e39d1173603562c5839c3160498c9": "2026-11-06T18:18:10.027Z",
-    "85f0e4a04c11b22fc7b1e46a3f03b6797a973aa1": "2026-11-06T18:18:10.027Z",
-    "aa42c1d468464889fe15e06c89021f0743d56fcc": "2026-11-06T18:18:10.027Z",
-    "1028cd0bf46b5d2fd6139d8dde8016d8cf917008": "2026-11-06T18:18:10.027Z",
     "8c33ebf250565c1936fbf80bb45376572dd8a816": "2026-11-07T11:20:53.521Z",
     "5ece5bb0cebfb962b0c9ccacba99721ceef1de69": "2026-11-07T11:20:53.521Z",
     "6dba21de85c15fa94b5bf8ccf7073c3d84c24854": "2026-11-07T11:20:53.521Z",
@@ -600,57 +558,89 @@
     "b7c6584e75c13701252d181b1d07cd61947ce175": "2026-11-16T11:20:57.593Z",
     "d5e85e78cf47780e61babcb8dbaeb913fb2f7ec6": "2026-11-16T11:20:57.593Z",
     "8c9235e2d91dc711891e26c3a73b11c75692bd40": "2026-11-16T11:20:57.593Z",
-    "78afc2396cf9da01435c5a65bc6034ab26a592dc": "2026-11-16T11:20:57.593Z"
+    "78afc2396cf9da01435c5a65bc6034ab26a592dc": "2026-11-16T11:20:57.593Z",
+    "1161e1e9517022ba5385b99511b60f4fda872909": "2026-11-16T18:18:13.054Z",
+    "c72c88b768a6a9e2b53a7662936e9680c88427c5": "2026-11-16T18:18:13.054Z",
+    "9491107a5f2f83ecd65acdfc51b2ec4ca3b30eea": "2026-11-16T18:18:13.054Z",
+    "435e768339b2bc030b33180c490722e9881461ca": "2026-11-16T18:18:13.054Z",
+    "6557af9fa2000645c6a831bcc1aa57dc072e70fc": "2026-11-16T18:18:13.054Z",
+    "21ba1b47c5df67f3c8912d62617dc0f0e0f275f0": "2026-11-16T18:18:13.054Z",
+    "af4abb7a2910e2fc23d6845847270c5e3b6501d4": "2026-11-16T18:18:13.054Z",
+    "178cfdfc78b40baf90da0695523595541f1d7baf": "2026-11-16T18:18:13.054Z",
+    "b20f64e5e8325f026b0c788b51fc26ef21f55fe3": "2026-11-16T18:18:13.054Z",
+    "f2a62d0835d9526565ef01a8e797b914f2f8f4dc": "2026-11-16T18:18:13.054Z",
+    "26c3796bb952513b4aa2796c03b43059e1e30bf5": "2026-11-16T18:18:13.054Z",
+    "314ad79c7b07b81ca2afd8081e3173c3cfa6d223": "2026-11-16T18:18:13.054Z",
+    "5b9e8ede680949bb7b35b82d408565dd78891654": "2026-11-16T18:18:13.054Z",
+    "2c56b2f45e7288a05d754b58ed8dcf47f61e1dfa": "2026-11-16T18:18:13.054Z",
+    "6184ecfb572d770dbfed916324cb6aa2b4c9af86": "2026-11-16T18:18:13.054Z",
+    "5b70a9c516f84b1762cdd35e78340875a085397f": "2026-11-16T18:18:13.054Z",
+    "d04a66b3addd4284f95062f031fb935f2a166adf": "2026-11-16T18:18:13.054Z",
+    "2903c456474ad8284b4c1df5ff61a39fdbd28572": "2026-11-16T18:18:13.054Z",
+    "abbfb91543881abe2fbcfad678c99c029d80c4ed": "2026-11-16T18:18:13.054Z",
+    "2fa13dcd9268e3e1e4b83c59b00b0ab512bac329": "2026-11-16T18:18:13.054Z",
+    "bbed3e56caf7b8f8cb2720007837646b7a0ed928": "2026-11-16T18:18:13.054Z",
+    "7aaaa6a9c64049142c59c5f5e214fd4c1a31a66f": "2026-11-16T18:18:13.054Z",
+    "a5b5f87dfde566a1ea6d64462fe34c209c6b39fe": "2026-11-16T18:18:13.054Z",
+    "04071c18bdfac983f7e287c44c5b1b0e77299531": "2026-11-16T18:18:13.054Z",
+    "5cec3ca4ce2d4aad1b0e873268b680aa003dd05c": "2026-11-16T18:18:13.054Z",
+    "6992222eff1f2549a6e23cf226c137c85004251f": "2026-11-16T18:18:13.054Z",
+    "c1e2fb775b4d393dcb070611bb707aa4b05f69f2": "2026-11-16T18:18:13.054Z",
+    "f81f9806ed149b8c6e8c30eafbd0f8d417538468": "2026-11-16T18:18:13.054Z",
+    "11d9456c4d917102de30e2f6dfe7ecc1cb292e6f": "2026-11-16T18:18:13.054Z",
+    "a0a7e2cd9bbd92d0e634379198e3b12b8a41f49f": "2026-11-16T18:18:13.054Z",
+    "082e6be54802fa2ac141e60c673d16558d2933b9": "2026-11-16T18:18:13.054Z",
+    "08c1dab278ec25ebb556a2f3740280e8a2ec051b": "2026-11-16T18:18:13.054Z"
   },
   "flux": {
     "https://www.admagazine.fr/feed/rss": {
       "nom": "AD Magazine",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 6
     },
     "https://ideat.fr/feed/": {
       "nom": "Ideat",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.connaissancedesarts.com/feed/": {
       "nom": "Connaissance des Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.beauxarts.com/feed/": {
       "nom": "Beaux Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://www.lejournaldesarts.fr/rss.xml": {
       "nom": "Le Journal des Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://www.lemonde.fr/arts/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 1
     },
     "https://africultures.com/feed/": {
       "nom": "Africultures",
@@ -662,98 +652,98 @@
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 2
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 2
     },
     "https://www.dezeen.com/feed/": {
       "nom": "Dezeen",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 3
     },
     "https://www.designboom.com/feed/": {
       "nom": "Designboom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 3
     },
     "https://www.wallpaper.com/feeds/all": {
       "nom": "Wallpaper*",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 9
+      "articles": 4
     },
     "https://design-milk.com/feed/": {
       "nom": "Design Milk",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.designindaba.com/rss.xml": {
       "nom": "Design Indaba",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://maisonsdumaroc.com/feed": {
       "nom": "Maisons du Maroc",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://visi.co.za/feed/": {
       "nom": "Visi",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 0
     },
     "https://artafricamagazine.org/feed/": {
       "nom": "Art Africa",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://10and5.com/feed/": {
       "nom": "10and5",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.bellanaija.com/category/style/feed/": {
       "nom": "BellaNaija",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://businessday.ng/category/life-arts/feed/": {
       "nom": "BusinessDay",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 2
     },
     "https://afrocosmopolitan.com/feed": {
       "nom": "Afrocosmopolitan",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T11:12:55.754Z",
+      "dernier_succes": "2026-11-16T18:12:58.870Z",
       "derniere_erreur": null,
       "articles": 0
     }
