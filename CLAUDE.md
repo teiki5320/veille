@@ -7,7 +7,7 @@ Décisions : `Studio/docs/veille/decisions-v1.md` (dépôt teiki5320/Studio).
 ## Règles
 
 - **Branche `main` uniquement.** Pas de branche, pas de PR.
-- Commits **en français**, terminés par `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`.
+- Commits **en français**, terminés par la ligne d'attribution de la session en cours (`Co-Authored-By: …`), jamais par un nom de modèle recopié d'ici.
 - **Ne jamais modifier `actus/*.json` à la main** : ils sont produits par `scripts/publie.mjs`, puis validés par le schéma `schema/actus-schema-v3.json`.
 - **Aucun secret** dans ce dépôt (il est public). Wikimedia et Openverse n'ont pas de clé. Si une clé devenait nécessaire : trousseau du Mac, jamais ici.
 - Légal : jamais de texte copié (titre et résumé réécrits, contrôle anti-copie de 6 mots), jamais l'image de l'article source, source toujours citée avec son lien, crédit de chaque image.
