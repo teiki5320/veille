@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "77da6b3a0b5b5632617a5efcea370c45e8613fd5",
+  "slug": "smic-avance-decembre-branches-sous-le-minimum-ce-qui-change-pour-les-77da6b",
+  "titre": "Smic avancé à décembre, branches sous le minimum : ce qui change pour les employeurs",
+  "chapo": "Dans un entretien paru dimanche, le ministre du Travail a précisé le calendrier de la hausse du Smic et les obligations qui attendent les branches professionnelles en retard sur le salaire minimum.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Interrogé par Ouest-France le 15 novembre, Jean-Pierre Farandou a repris une à une les annonces faites après la conférence sociale que Sébastien Lecornu, chef du gouvernement, a réunie le 9 novembre. Elles répondent aux manifestations contre la vie chère qui se succèdent depuis plusieurs semaines.",
+        "Mesure centrale : la revalorisation du Smic interviendra en décembre, un mois avant la date prévue. Sur l'ensemble de l'année 2026, le salaire minimum aura ainsi augmenté de 5,3 %, plus vite que les prix. Le ministre chiffre le gain à environ 75 euros nets par mois pour un salarié payé au Smic."
+      ]
+    },
+    {
+      "intertitre": "Un coût d'un milliard pour l'État",
+      "paragraphes": [
+        "David Amiel, chargé des Comptes publics, a indiqué sur France Info que la hausse des plus bas salaires dépasserait légèrement le milliard d'euros pour l'État. Jean-Pierre Farandou a justifié de ne pas aller plus loin : selon lui, une augmentation plus forte aurait détruit beaucoup d'emplois."
+      ]
+    },
+    {
+      "intertitre": "Les branches en retard sous pression",
+      "paragraphes": [
+        "Pour les dirigeants, le point le plus concret concerne les grilles de salaires. Les branches dont certains minima restent inférieurs au Smic devront ouvrir des négociations dans un délai de 45 jours.",
+        "Celles qui sont dans cette situation depuis au moins un an risquent une sanction : un décret introduit pour la première fois un lien entre le versement d'aides aux entreprises et le respect de cette obligation."
+      ]
+    },
+    {
+      "intertitre": "Des outils pour les négociations salariales",
+      "paragraphes": [
+        "En contrepartie, le gouvernement met en avant deux leviers pour les négociations annuelles. La prime carburant, exonérée jusqu'à 1 000 euros, est prolongée. Autre levier : la PPV, cette prime que l'employeur peut verser à ses salariés en plus du salaire, bénéficiera d'une exonération de CSG dans toutes les entreprises, petites comme grandes.",
+        "Le ministre a aussi annoncé vouloir ouvrir une discussion sur les arrêts maladie, afin de revoir la protection d'environ trois millions de salariés précaires. Une nouvelle journée de mobilisation est prévue le mardi 17 novembre."
+      ]
+    }
+  ],
+  "mots": 350,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/15/revalorisation-du-smic-primes-arrets-maladie-le-ministre-du-travail-jean-pierre-farandou-explique-les-mesures-du-gouvernement-pour-repondre-aux-13653698.php",
+  "autres_sources": [
+    "https://www.latribune.fr/article/economie/finances-publiques/19627219960945/la-revalorisation-du-smic-et-des-bas-salaires-coutera-plus-dun-milliard-deuros-selon-le-gouvernement",
+    "https://www.laprovence.com/article/economie/1290038561658514/revalorisation-des-bas-salaires-des-fonctionnaires-une-facture-de-plus-dun-milliard-deuros-pour-les-finances-publiques",
+    "https://www.sudouest.fr/politique/hausse-du-smic-efforts-budgetaires-nouvelles-charges-repondre-aux-attentes-sur-le-pouvoir-d-achat-l-exercice-delicat-du-gouvernement-31535161.php"
+  ],
+  "publie_le": "2026-11-15T11:36:12.000Z",
+  "redige_le": "2026-11-16T04:17:02.243Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/77da6b3a0b5b5632617a5efcea370c45e8613fd5.webp",
+    "source": "wikimedia",
+    "credit": "Maxime Huriez",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:SNCF_Jean-Pierre_Farandou.jpg",
+    "alt": "Portrait de Jean-Pierre Farandou, ministre du Travail",
+    "mots_cles": [
+      "Jean-Pierre Farandou"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
