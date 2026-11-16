@@ -119,7 +119,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       if (b.apercu) console.log(`  aperçu : ${b.apercu}`);
       if (!o.sansGit) {
         git('add', 'actus', 'articles', 'images', 'cartes', 'etat');
-        git('commit', '-m', `Veille : nouvelle photo pour « ${b.titre.slice(0, 80)} » (${site})\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`);
+        git('commit', '-m', `Veille : nouvelle photo pour « ${b.titre.slice(0, 80)} » (${site})\n\nCo-Authored-By: Claude <noreply@anthropic.com>`);
         git('pull', '--rebase');
         git('push');
         console.log('  envoyé sur GitHub');

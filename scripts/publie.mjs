@@ -524,7 +524,7 @@ async function principal() {
   }
   const { jour, heure } = heureParis();
   const parts = bilan.filter((b) => b.publie).map((b) => `${b.nouvelles} actus ${b.nom}${b.articles_ajoutes ? ` (+${b.articles_ajoutes} articles)` : ''}`);
-  const msg = `Veille du ${jour} à ${heure} : ${parts.join(', ') || 'mise à jour'}\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`;
+  const msg = `Veille du ${jour} à ${heure} : ${parts.join(', ') || 'mise à jour'}\n\nCo-Authored-By: Claude <noreply@anthropic.com>`;
   git('commit', '-m', msg);
   try {
     git('pull', '--rebase');
