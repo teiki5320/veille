@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "7297b6d0ea153279a47198cf4a5f805884a90aa0",
+  "slug": "coupures-electricite-comment-une-serre-peut-preparer-ses-plantes-et-7297b6",
+  "titre": "Coupures d'électricité : comment une serre peut préparer ses plantes et ses lampes",
+  "chapo": "Ventilation, irrigation, chauffage, éclairage : une serre dépend entièrement du courant. Face aux coupures tournantes, un spécialiste de l'énergie recommande de prévoir à l'avance quels appareils couper.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans une tribune publiée par le magazine américain CEAg World, Ian Knisely, analyste chez Energy Bridge Advisors, s'adresse aux producteurs sous serre. Son conseil : ne pas attendre la panne pour décider quoi éteindre.",
+        "Aux États-Unis, une norme fédérale de fiabilité impose aux gestionnaires de réseau d'avoir des plans d'urgence pour réduire la consommation quand l'électricité manque. Les hôpitaux sont protégés autant que possible, mais une serre se trouve en général dans la file des sites coupés, parfois avec quelques minutes de préavis seulement. En Californie, le groupe de délestage figure même sur la facture."
+      ]
+    },
+    {
+      "intertitre": "Coupure subie ou réduction choisie",
+      "paragraphes": [
+        "Ces délestages ont touché plusieurs régions ces dernières années, pendant des vagues de chaleur comme lors de tempêtes hivernales. Pour une serre, cela signifie l'arrêt simultané des ventilateurs, des pompes, de l'arrosage, du chauffage et des automatismes.",
+        "L'auteur distingue la panne, où tout s'arrête d'un coup, de la réduction planifiée, où le producteur a choisi d'avance quels équipements baisser et lesquels garder pour protéger la culture."
+      ]
+    },
+    {
+      "intertitre": "Quatre étapes pour un plan",
+      "paragraphes": [
+        "D'abord, dresser la liste des gros équipements et de leur puissance : éclairage d'appoint, ventilation, refroidissement par évaporation, chauffage, pompes, déshumidification, régulation et chambres froides.",
+        "Ensuite, les classer. Certains peuvent s'arrêter quelques heures sans dégâts. D'autres peuvent tourner au ralenti : lampes à intensité réduite, ventilateurs décalés, consigne de température ajustée de quelques degrés. Les alarmes et la régulation doivent rester allumées. Ce tri varie selon les plantes et leur stade de croissance.",
+        "Troisième étape, s'appuyer sur les prévisions : canicules et vagues de froid s'annoncent plusieurs jours à l'avance. L'été, on rafraîchit le matin, on arrose tôt et on ferme les écrans d'ombrage avant le pic de l'après-midi. L'hiver, on chauffe avant la pointe, on ferme tôt les écrans thermiques et on vérifie le chauffage de secours.",
+        "Enfin, désigner qui reçoit l'alerte, qui décide et qui agit, et programmer si possible la séquence dans l'automate climatique."
+      ]
+    },
+    {
+      "intertitre": "Une souplesse qui peut être rémunérée",
+      "paragraphes": [
+        "Une fois ce travail fait, le producteur sait combien de kilowatts il peut libérer, pendant combien de temps et avec quel effet sur ses plantes. Dans une grande partie des États-Unis, des programmes d'effacement rémunèrent les sites qui acceptent de réduire leur consommation sur demande, pour éviter d'en arriver aux coupures."
+      ]
+    }
+  ],
+  "mots": 402,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "CEAg World",
+  "source_url": "https://www.ceagworld.com/greenhouse-produce/your-utility-has-an-outage-plan-but-does-your-greenhouse-have-one/",
+  "publie_le": "2026-11-13T17:00:37.000Z",
+  "redige_le": "2026-11-16T11:21:03.875Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/7297b6d0ea153279a47198cf4a5f805884a90aa0.webp",
+    "source": "wikimedia",
+    "credit": "Wikideas1",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mars_greenhouse_inside.webp",
+    "alt": "L'intérieur d'une serre de culture avec des plantes et un éclairage d'appoint",
+    "mots_cles": [
+      "Greenhouse with LED grow lights"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

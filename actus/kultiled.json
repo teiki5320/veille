@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-15T18:17:36.545Z",
+  "genere_le": "2026-11-16T11:21:03.875Z",
   "actus": [
     {
       "id": "2fb4a4a3b5b94b5591d7accd59d270225ace21dc",
@@ -93,6 +93,36 @@
         "alt": "Un bâtiment de l'université polytechnique Kwantlen, au Canada",
         "mots_cles": [
           "Kwantlen Polytechnic University"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7297b6d0ea153279a47198cf4a5f805884a90aa0",
+      "titre": "Coupures d'électricité : comment une serre peut préparer ses plantes et ses lampes",
+      "resume": "Les délestages sur le réseau électrique se multiplient lors des canicules et des grands froids. Un analyste spécialisé conseille aux serres de rédiger un plan : lister les appareils, classer ceux qui peuvent s'arrêter ou baisser, anticiper avec la météo et désigner qui agit.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "source_nom": "CEAg World",
+      "source_url": "https://www.ceagworld.com/greenhouse-produce/your-utility-has-an-outage-plan-but-does-your-greenhouse-have-one/",
+      "publie_le": "2026-11-13T17:00:37.000Z",
+      "collecte_le": "2026-11-16T11:21:03.875Z",
+      "langue": "en",
+      "slug": "coupures-electricite-comment-une-serre-peut-preparer-ses-plantes-et-7297b6",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/7297b6d0ea153279a47198cf4a5f805884a90aa0.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/7297b6d0ea153279a47198cf4a5f805884a90aa0.webp",
+        "source": "wikimedia",
+        "credit": "Wikideas1",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mars_greenhouse_inside.webp",
+        "alt": "L'intérieur d'une serre de culture avec des plantes et un éclairage d'appoint",
+        "mots_cles": [
+          "Greenhouse with LED grow lights"
         ],
         "largeur": 1600,
         "hauteur": 900

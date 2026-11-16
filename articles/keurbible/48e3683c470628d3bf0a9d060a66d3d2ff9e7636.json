@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "48e3683c470628d3bf0a9d060a66d3d2ff9e7636",
+  "slug": "senegal-le-nonce-waldemar-sommertag-quitte-afrique-de-ouest-pour-inde-48e368",
+  "titre": "Sénégal : le nonce Waldemar Sommertag quitte l'Afrique de l'Ouest pour l'Inde",
+  "chapo": "Le représentant du pape dans quatre pays d'Afrique de l'Ouest change d'affectation. Mgr Waldemar Stanisław Sommertag est nommé nonce apostolique en Inde.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Bureau de presse du Saint-Siège a annoncé samedi 14 novembre la nouvelle mission de Mgr Waldemar Stanisław Sommertag. Le pape Léon XIV l'envoie en Inde, où il le représentera désormais auprès des autorités et de l'Église locale.",
+        "L'archevêque occupait jusqu'ici la nonciature apostolique qui couvre le Sénégal, le Cap-Vert, la Guinée-Bissau et la Mauritanie, avec résidence à Dakar. Le poste indien était vacant depuis mars, date du départ de Mgr Leopoldo Girelli pour la Croatie."
+      ]
+    },
+    {
+      "intertitre": "Un parcours de diplomate",
+      "paragraphes": [
+        "Originaire de Pologne, Mgr Sommertag est né en février 1968. Ordonné prêtre le 30 mai 1993, il a été incardiné dans le diocèse de Pelplin. Il est entré au service diplomatique du Saint-Siège le 19 juin 2000.",
+        "Docteur en droit canonique, il parle italien, allemand, russe, anglais et espagnol. Avant l'Afrique, il a travaillé dans les représentations pontificales en Tanzanie, au Nicaragua, en Bosnie-Herzégovine, en Israël, en Palestine et à Chypre, ainsi qu'à la section des relations avec les États de la Secrétairerie d'État.",
+        "Nommé nonce au Nicaragua en février 2018, il a reçu l'ordination épiscopale des mains du pape François le 19 mars de la même année, avec le titre d'archevêque de Traiectum ad Mosam. Il a quitté ce pays en 2022."
+      ]
+    },
+    {
+      "intertitre": "Le rôle d'un nonce",
+      "paragraphes": [
+        "Le nonce apostolique est à la fois l'ambassadeur du Saint-Siège auprès d'un État et le lien entre le pape et les évêques du pays. Il joue notamment un rôle dans la préparation des nominations épiscopales.",
+        "Au Sénégal, au Cap-Vert, en Guinée-Bissau et en Mauritanie, les communautés catholiques attendent désormais le nom de son successeur. Aucune date n'a été communiquée pour cette nomination. En attendant, la nonciature de Dakar continue de fonctionner avec ses collaborateurs, comme c'est l'usage lors d'un changement de titulaire."
+      ]
+    }
+  ],
+  "mots": 311,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "SN",
+    "CV",
+    "GW",
+    "MR"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25375/pope-leo-xiv-transfers-apostolic-nuncio-in-senegal-cape-verde-guinea-bissau-and-mauritania-to-india",
+  "publie_le": "2026-11-15T20:40:00.000Z",
+  "redige_le": "2026-11-16T11:20:49.194Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/48e3683c470628d3bf0a9d060a66d3d2ff9e7636.webp",
+    "source": "wikimedia",
+    "credit": "Houston Castillo",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Waldemar_Stanis%C5%82aw_Sommertag.png",
+    "alt": "Mgr Waldemar Stanisław Sommertag, diplomate du Saint-Siège",
+    "mots_cles": [
+      "Waldemar Stanisław Sommertag"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

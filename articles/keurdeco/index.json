@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-15T18:17:36.519Z",
+  "genere_le": "2026-11-16T11:20:58.593Z",
   "articles": [
+    {
+      "id": "22b03f9aeb5805c09e2597f5dc2752cf2e74ce46",
+      "slug": "lagos-casa-mouda-ouvre-deux-lieux-pour-exposer-le-design-afrique-de-22b03f",
+      "titre": "Lagos : Casa Mouda ouvre deux lieux pour exposer le design d'Afrique de l'Ouest",
+      "publie_le": "2026-11-16T10:56:10.000Z",
+      "redige_le": "2026-11-16T11:20:57.593Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/22b03f9aeb5805c09e2597f5dc2752cf2e74ce46.json"
+    },
     {
       "id": "161e4c4f7507ed3050195629f2e46ed2a2b7a978",
       "slug": "paris-amoako-boafo-transforme-la-galerie-mariane-ibrahim-en-maison-161e4c",

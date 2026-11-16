@@ -1,8 +1,71 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-16T04:17:02.243Z",
+  "genere_le": "2026-11-16T11:21:05.598Z",
   "actus": [
+    {
+      "id": "25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5",
+      "titre": "Travail dissimulé : la saisie de l'URSSAF sans juge change au plus tard en janvier 2027",
+      "resume": "En cas de travail non déclaré constaté, l'URSSAF a aujourd'hui le droit de bloquer l'argent d'une société sans décision d'un juge. La loi du 25 juin 2026 réforme ce mécanisme de flagrance sociale : nouveau procès-verbal, plus d'étape préalable de garanties et contrainte exécutoire en deux jours.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-urssaf"
+      ],
+      "source_nom": "Village de la Justice",
+      "source_url": "https://www.village-justice.com/articles/flagrance-sociale-urssaf-saisie-conservatoire-sans-juge-change-regles-plus-tard,60060.html",
+      "publie_le": "2026-11-16T09:45:00.000Z",
+      "collecte_le": "2026-11-16T11:21:05.598Z",
+      "langue": "fr",
+      "slug": "travail-dissimule-la-saisie-de-urssaf-sans-juge-change-au-plus-tard-en-25d08c",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5.webp",
+        "source": "wikimedia",
+        "credit": "Hoolen",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Batiment_Urssaf_de_Rennes_en_2026.jpg",
+        "alt": "Un bâtiment ou un logo de l'URSSAF, l'organisme qui collecte les cotisations sociales",
+        "mots_cles": [
+          "URSSAF"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "8a72df32afc428bf2552d4c98c23f207309af64a",
+      "titre": "Toulouse : les commerces du centre-ville voient leur chiffre d'affaires reculer",
+      "resume": "Dans le centre de Toulouse, des commerçants décrivent des clients plus prudents et des samedis devenus calmes. Un chocolatier dit avoir perdu la moitié de son chiffre d'affaires depuis 2018. Pouvoir d'achat, accès en voiture, manifestations et vente en ligne sont cités.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/16/reportage-mon-chiffre-daffaires-a-diminue-de-moitie-les-commercants-toulousains-inquiets-mais-pas-fatalistes-face-aux-samedis-qui-ne-sont-plus-les-13649629.php",
+      "publie_le": "2026-11-16T05:31:03.000Z",
+      "collecte_le": "2026-11-16T11:21:05.598Z",
+      "langue": "fr",
+      "slug": "toulouse-les-commerces-du-centre-ville-voient-leur-chiffre-affaires-8a72df",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/8a72df32afc428bf2552d4c98c23f207309af64a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/8a72df32afc428bf2552d4c98c23f207309af64a.webp",
+        "source": "wikimedia",
+        "credit": "Didier Descouens",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Rue_Saint-Rome.jpg",
+        "alt": "Une rue commerçante du centre-ville de Toulouse",
+        "mots_cles": [
+          "Rue Saint-Rome Toulouse"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "77bd1e255cc42dc67382c38801708282cb556602",
       "titre": "Présidentielle 2027 : l'UIMM adresse dix propositions aux candidats pour l'industrie",
@@ -1890,75 +1953,6 @@
       },
       "slug": "les-forges-de-tarbes-fabricant-de-corps-obus-en-redressement-7fe1d1",
       "article_url": "https://teiki5320.github.io/veille/articles/solelis/7fe1d1dfaebf3c6be3ab2601f2c57278cb728159.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "737e17d1bfee8c2a4caa408f00bc2fbc3faf3892",
-      "titre": "Alizé Group, fabricant de puzzles, en redressement malgré une bonne activité",
-      "resume": "L'entreprise mosellane a elle-même demandé, en juillet, à être placée sous la protection du tribunal, alors que ses ventes se portent bien. Ses difficultés tiennent surtout à sa structure financière ; une décision sur son avenir est attendue le 12 janvier 2027.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "L'Usine Nouvelle",
-      "source_url": "https://www.usinenouvelle.com/biens-de-consommation/jeux-et-jouets/une-problematique-plus-capitalistique-queconomique-pourquoi-le-fabricant-de-puzzles-alize-group-a-demande-son-placement-en-redressement-judiciaire-malgre-ses-bons-chiffres.RGQIUORK7FF7DJPHGFGLDDY3NY.html",
-      "publie_le": "2026-10-26T15:41:40.000Z",
-      "collecte_le": "2026-10-27T08:01:05.037Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/737e17d1bfee8c2a4caa408f00bc2fbc3faf3892.webp",
-        "source": "wikimedia",
-        "credit": "Colin",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall_-_1000_piece_jigsaw_puzzle.jpg",
-        "alt": "Des pièces de puzzle",
-        "mots_cles": [
-          "jigsaw puzzle"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://www.lejournaldesentreprises.com/article/alize-group-sest-restructure-pour-engager-une-croissance-plus-stable-2096135",
-        "https://www.procedures-collectives.com/entreprise/797545779-alize-group/"
-      ],
-      "slug": "alize-group-fabricant-de-puzzles-en-redressement-malgre-une-bonne-737e17",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/737e17d1bfee8c2a4caa408f00bc2fbc3faf3892.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "33246eb3ef1591f55ee983b733a09baf76794ee1",
-      "titre": "Commerces dégradés à la mi-octobre : les aides prévues par l'État",
-      "resume": "Après les casses subies par des commerces lors des journées des 17 et 18 octobre, l'État a annoncé dès le 20 octobre des mesures d'urgence. Elles comprennent un soutien financier, une aide exceptionnelle pour l'emploi et le recours immédiat à l'activité partielle, pour une reprise rapide.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "Service-Public.fr",
-      "source_url": "https://entreprendre.service-public.gouv.fr/actualites/A19106?xtor=RSS-112",
-      "autres_sources": [
-        "https://entreprendre.service-public.gouv.fr/actualites/A19108?xtor=RSS-112",
-        "https://entreprendre.service-public.gouv.fr/actualites/A19104?xtor=RSS-112"
-      ],
-      "publie_le": "2026-10-25T23:00:00.000Z",
-      "collecte_le": "2026-10-27T08:01:05.037Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/solelis/33246eb3ef1591f55ee983b733a09baf76794ee1.svg",
-        "source": "carte",
-        "credit": "Illustration : Solelis",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Solelis avec la mention « Entreprises »",
-        "mots_cles": [
-          "shop storefront",
-          "small shop"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "commerces-degrades-la-mi-octobre-les-aides-prevues-par-etat-33246e",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/33246eb3ef1591f55ee983b733a09baf76794ee1.json",
       "lecture_min": 2
     }
   ]

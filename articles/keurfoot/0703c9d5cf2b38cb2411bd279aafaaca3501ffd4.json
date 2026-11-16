@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "0703c9d5cf2b38cb2411bd279aafaaca3501ffd4",
+  "slug": "ligue-des-champions-feminine-caf-as-far-bat-sundowns-3-1-et-garde-son-0703c9",
+  "titre": "Ligue des champions féminine CAF : l'AS FAR bat Sundowns 3-1 et garde son titre",
+  "chapo": "L'AS FAR entre dans l'histoire du football féminin africain : le club de Rabat a battu Mamelodi Sundowns 3-1 en finale et devient le premier triple vainqueur de la compétition.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La finale de la Ligue des champions féminine de la CAF s'est jouée dimanche 15 novembre au stade du Canal de Suez, à Ismaïlia, en Égypte. Tenantes du titre, les Marocaines de l'AS FAR se sont imposées 3-1 face aux Sud-Africaines de Mamelodi Sundowns.",
+        "Imane Touriss a ouvert la marque à la 23e minute. Refilwe Tholakele a égalisé deux minutes après, mais Hiba Youssoufi a redonné l'avantage aux Rabatis avant la pause, à la 38e minute. Touriss a signé un doublé à la 77e minute pour sceller le score."
+      ]
+    },
+    {
+      "intertitre": "Un record dans une compétition jeune",
+      "paragraphes": [
+        "Les deux équipes arrivaient avec deux trophées chacune. L'AS FAR avait gagné en 2022 et en 2025, Sundowns en 2021 et en 2023. Le vainqueur devenait donc le premier club sacré trois fois depuis la création du tournoi, en 2021.",
+        "Le club marocain est aussi le premier à défendre son titre avec succès. Il avait perdu la finale de 2024 contre le TP Mazembe (0-1), avant de reprendre la coupe l'an dernier face à l'ASEC Mimosas. Les deux finalistes de cette année s'étaient déjà affrontées en 2022 à Rabat : l'AS FAR l'avait emporté 4-0."
+      ]
+    },
+    {
+      "intertitre": "Les récompenses individuelles",
+      "paragraphes": [
+        "Avec quatre buts, Imane Touriss partage le titre de meilleure buteuse avec l'Ougandaise Agnes Nabukenya, de Kawempe Muslim, quatrième du tournoi. Ghizlane Chebbak a été élue meilleure joueuse et Khadija Er-Rmichi meilleure gardienne. Sundowns repart avec le prix du fair-play.",
+        "En demi-finales, l'AS FAR avait écarté les Camerounaises de Lekié (1-0), tandis que Sundowns avait battu Kawempe 4-1. L'édition 2026 a compté 16 matchs et 52 buts."
+      ]
+    },
+    {
+      "intertitre": "Direction la Coupe des champions de la FIFA",
+      "paragraphes": [
+        "Le titre rapporte 600 000 dollars au club de Rabat. Il le qualifie aussi pour le deuxième tour de la Coupe des champions féminine de la FIFA 2027. L'AS FAR doit y affronter en décembre le club nord-coréen de Naegohyang. La phase finale aura lieu à Miami en janvier 2027."
+      ]
+    }
+  ],
+  "mots": 348,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "ZA"
+  ],
+  "competition": "Ligue des champions féminine CAF",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/11/16/as-far-hit-three-to-win-caf-women-champions-league-as-nabukenya-claims-share-of-golden-boot/",
+  "autres_sources": [
+    "https://kawowo.com/2026/11/15/from-the-2020-plan-to-as-fars-third-star-how-morocco-transformed-womens-football/"
+  ],
+  "publie_le": "2026-11-15T22:19:00.000Z",
+  "redige_le": "2026-11-16T11:20:58.603Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/0703c9d5cf2b38cb2411bd279aafaaca3501ffd4.webp",
+    "source": "wikimedia",
+    "credit": "Magharebia",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Les_FAR_de_Rabat_en_t%C3%AAte_du_Botola_(8170068288).jpg",
+    "alt": "Des joueuses de l'AS FAR, club de football féminin de Rabat, au Maroc",
+    "mots_cles": [
+      "AS FAR Rabat"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

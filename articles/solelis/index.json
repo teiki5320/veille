@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-16T04:17:06.065Z",
+  "genere_le": "2026-11-16T11:21:08.741Z",
   "articles": [
+    {
+      "id": "25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5",
+      "slug": "travail-dissimule-la-saisie-de-urssaf-sans-juge-change-au-plus-tard-en-25d08c",
+      "titre": "Travail dissimulé : la saisie de l'URSSAF sans juge change au plus tard en janvier 2027",
+      "publie_le": "2026-11-16T09:45:00.000Z",
+      "redige_le": "2026-11-16T11:21:05.598Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5.json"
+    },
+    {
+      "id": "8a72df32afc428bf2552d4c98c23f207309af64a",
+      "slug": "toulouse-les-commerces-du-centre-ville-voient-leur-chiffre-affaires-8a72df",
+      "titre": "Toulouse : les commerces du centre-ville voient leur chiffre d'affaires reculer",
+      "publie_le": "2026-11-16T05:31:03.000Z",
+      "redige_le": "2026-11-16T11:21:05.598Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/8a72df32afc428bf2552d4c98c23f207309af64a.json"
+    },
     {
       "id": "77bd1e255cc42dc67382c38801708282cb556602",
       "slug": "presidentielle-2027-uimm-adresse-dix-propositions-aux-candidats-pour-77bd1e",

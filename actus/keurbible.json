@@ -1,8 +1,72 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-16T04:18:48.030Z",
+  "genere_le": "2026-11-16T11:20:49.194Z",
   "actus": [
+    {
+      "id": "37c824fbacb7abaad8f5ad3d49bf6b899093eabe",
+      "titre": "Sahel : les évêques du Burkina et du Niger appellent à soutenir la Fondation Jean-Paul II",
+      "resume": "Réunis en assemblée plénière du 9 au 14 novembre, les évêques du Burkina Faso et du Niger invitent les fidèles à reconstituer le capital de la Fondation Jean-Paul II pour le Sahel. Celle-ci traverse de grosses difficultés financières qui menacent son aide aux plus pauvres.",
+      "theme": "culture",
+      "pays": [
+        "BF",
+        "NE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25381/burkina-faso-niger-catholic-bishops-appeal-for-support-for-john-paul-ii-foundation-amid-major-financial-difficulties",
+      "publie_le": "2026-11-15T20:50:00.000Z",
+      "collecte_le": "2026-11-16T11:20:49.194Z",
+      "langue": "en",
+      "slug": "sahel-les-eveques-du-burkina-et-du-niger-appellent-soutenir-la-37c824",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/37c824fbacb7abaad8f5ad3d49bf6b899093eabe.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/37c824fbacb7abaad8f5ad3d49bf6b899093eabe.webp",
+        "source": "wikimedia",
+        "credit": "Maarten van der Bent",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bobo-Dioulasso_TownHall2.jpg",
+        "alt": "La cathédrale de l'Immaculée-Conception de Ouagadougou, au Burkina Faso",
+        "mots_cles": [
+          "Bobo-Dioulasso"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "48e3683c470628d3bf0a9d060a66d3d2ff9e7636",
+      "titre": "Sénégal : le nonce Waldemar Sommertag quitte l'Afrique de l'Ouest pour l'Inde",
+      "resume": "Léon XIV a nommé en Inde Mgr Waldemar Stanisław Sommertag, jusqu'ici représentant du pape au Sénégal, au Cap-Vert, en Guinée-Bissau et en Mauritanie. Le Saint-Siège l'a annoncé le 14 novembre. Le diplomate polonais, né en 1968, sert le Vatican depuis 2000.",
+      "theme": "culture",
+      "pays": [
+        "SN",
+        "CV",
+        "GW",
+        "MR"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25375/pope-leo-xiv-transfers-apostolic-nuncio-in-senegal-cape-verde-guinea-bissau-and-mauritania-to-india",
+      "publie_le": "2026-11-15T20:40:00.000Z",
+      "collecte_le": "2026-11-16T11:20:49.194Z",
+      "langue": "en",
+      "slug": "senegal-le-nonce-waldemar-sommertag-quitte-afrique-de-ouest-pour-inde-48e368",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/48e3683c470628d3bf0a9d060a66d3d2ff9e7636.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/48e3683c470628d3bf0a9d060a66d3d2ff9e7636.webp",
+        "source": "wikimedia",
+        "credit": "Houston Castillo",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Waldemar_Stanis%C5%82aw_Sommertag.png",
+        "alt": "Mgr Waldemar Stanisław Sommertag, diplomate du Saint-Siège",
+        "mots_cles": [
+          "Waldemar Stanisław Sommertag"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1b5c1f55d2d3a27cb7b517e5d494dad09bef5572",
       "titre": "Saint Augustin : un manuscrit ancien garderait le portrait et le nom de sa compagne",
@@ -28,6 +92,38 @@
         "alt": "Représentation de saint Augustin d'Hippone",
         "mots_cles": [
           "Augustine of Hippo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "b30654d533e9f023c7cce30f63318530374313f9",
+      "titre": "Afrique australe : les religieux tirent le bilan de l'Année des vocations 2026",
+      "resume": "Réunis à Pretoria du 12 au 14 novembre, les responsables de la vie consacrée d'Afrique du Sud, d'Eswatini et du Botswana ont fait le point sur l'Année des vocations. Ils notent un certain renouveau et annoncent pour 2027 une année consacrée à la formation.",
+      "theme": "culture",
+      "pays": [
+        "ZA",
+        "SZ",
+        "BW"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25379/consecrated-persons-in-southern-africa-review-vocation-year-2026-plan-formation-year-for-2027",
+      "publie_le": "2026-11-15T14:09:00.000Z",
+      "collecte_le": "2026-11-16T11:20:49.194Z",
+      "langue": "en",
+      "slug": "afrique-australe-les-religieux-tirent-le-bilan-de-annee-des-vocations-b30654",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/b30654d533e9f023c7cce30f63318530374313f9.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/b30654d533e9f023c7cce30f63318530374313f9.webp",
+        "source": "wikimedia",
+        "credit": "Michael Rivera",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pretoria_Station.JPG",
+        "alt": "La ville de Pretoria, en Afrique du Sud",
+        "mots_cles": [
+          "Pretoria"
         ],
         "largeur": 1600,
         "hauteur": 900

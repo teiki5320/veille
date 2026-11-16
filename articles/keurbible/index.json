@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-16T04:18:48.062Z",
+  "genere_le": "2026-11-16T11:20:56.112Z",
   "articles": [
+    {
+      "id": "37c824fbacb7abaad8f5ad3d49bf6b899093eabe",
+      "slug": "sahel-les-eveques-du-burkina-et-du-niger-appellent-soutenir-la-37c824",
+      "titre": "Sahel : les évêques du Burkina et du Niger appellent à soutenir la Fondation Jean-Paul II",
+      "publie_le": "2026-11-15T20:50:00.000Z",
+      "redige_le": "2026-11-16T11:20:49.194Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/37c824fbacb7abaad8f5ad3d49bf6b899093eabe.json"
+    },
+    {
+      "id": "48e3683c470628d3bf0a9d060a66d3d2ff9e7636",
+      "slug": "senegal-le-nonce-waldemar-sommertag-quitte-afrique-de-ouest-pour-inde-48e368",
+      "titre": "Sénégal : le nonce Waldemar Sommertag quitte l'Afrique de l'Ouest pour l'Inde",
+      "publie_le": "2026-11-15T20:40:00.000Z",
+      "redige_le": "2026-11-16T11:20:49.194Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/48e3683c470628d3bf0a9d060a66d3d2ff9e7636.json"
+    },
     {
       "id": "1b5c1f55d2d3a27cb7b517e5d494dad09bef5572",
       "slug": "saint-augustin-un-manuscrit-ancien-garderait-le-portrait-et-le-nom-de-1b5c1f",
@@ -10,6 +26,14 @@
       "publie_le": "2026-11-15T16:00:13.000Z",
       "redige_le": "2026-11-15T18:17:30.895Z",
       "url": "https://teiki5320.github.io/veille/articles/keurbible/1b5c1f55d2d3a27cb7b517e5d494dad09bef5572.json"
+    },
+    {
+      "id": "b30654d533e9f023c7cce30f63318530374313f9",
+      "slug": "afrique-australe-les-religieux-tirent-le-bilan-de-annee-des-vocations-b30654",
+      "titre": "Afrique australe : les religieux tirent le bilan de l'Année des vocations 2026",
+      "publie_le": "2026-11-15T14:09:00.000Z",
+      "redige_le": "2026-11-16T11:20:49.194Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/b30654d533e9f023c7cce30f63318530374313f9.json"
     },
     {
       "id": "ae8a2837d32752d83d08ee03896200cb4df31873",

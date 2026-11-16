@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "380481778e6f06a5de6bb9e3f8d8889d80d3a9c0",
+  "slug": "souleymane-bachir-diagne-publie-hospitalite-un-essai-pour-defendre-380481",
+  "titre": "Souleymane Bachir Diagne publie « L'Hospitalité », un essai pour défendre l'accueil",
+  "chapo": "Dans un bref essai, le penseur Souleymane Bachir Diagne, né au Sénégal, plaide pour une hospitalité universelle et répond à ceux qui font de l'empathie une faiblesse.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "« L'Hospitalité. Affirmer l'humanité » est paru aux éditions Autrement, dans la collection « Les Grands Mots ». Le livre compte 144 pages. Son auteur, Souleymane Bachir Diagne, enseigne la philosophie à l'université Columbia, à New York.",
+        "Avant la sortie, le philosophe en avait présenté les grandes idées le 13 octobre à Tunis, dans les locaux de l'Institut français, au cours d'une rencontre animée par la poétesse et docteure en littérature Ahlem Ghayaza."
+      ]
+    },
+    {
+      "intertitre": "Contre la « guerre » faite à l'empathie",
+      "paragraphes": [
+        "L'auteur part d'un constat : partout, les refus d'accueillir l'étranger se multiplient. Il ne vise pas seulement l'Europe. Selon lui, la même tentation du repli touche aussi des pays du Sud, avec parfois des violences contre les migrants.",
+        "Il s'inquiète surtout d'une remise en cause de l'empathie elle-même. Aux États-Unis, plusieurs ouvrages récents la présentent comme un piège, au nom de la psychologie évolutionniste ou d'arguments religieux. Diagne y voit un combat culturel mené contre notre capacité à comprendre ce que vit l'autre.",
+        "Pour lui répondre, le philosophe rappelle que le mot a été forgé par des penseurs allemands du XIXe siècle qui réfléchissaient à l'art. Il convoque aussi l'hospitalité protégée par Zeus chez les Grecs, le « visage de l'autre » d'Emmanuel Levinas et Kant, pour qui la Terre ronde oblige les humains à vivre ensemble."
+      ]
+    },
+    {
+      "intertitre": "Un universel auquel chaque culture contribue",
+      "paragraphes": [
+        "L'essai prolonge une réflexion sur l'universel que l'auteur mène depuis longtemps. Pour Diagne, aucune culture ne détient l'universel par nature. La décolonisation doit donc se faire au nom de cet universel, construit avec les apports de tous, et non contre lui.",
+        "Ce livre prolonge un essai de 2022 consacré à la traduction comme forme d'hospitalité, publié chez Albin Michel et lu depuis dans d'autres langues. Il y décrivait la traduction comme une manière d'accueillir dans sa propre langue une pensée venue d'ailleurs.",
+        "Né à Saint-Louis du Sénégal en 1955, Souleymane Bachir Diagne est l'un des philosophes africains les plus lus. Il est notamment spécialiste de l'histoire de la logique et de la philosophie dans le monde musulman."
+      ]
+    }
+  ],
+  "mots": 368,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/livres/article/2026/11/16/dans-l-hospitalite-le-philosophe-souleymane-bachir-diagne-rappelle-le-devoir-d-accueillir-contre-l-ideologie-anti-empathie_6811501_3260.html",
+  "autres_sources": [
+    "https://www.leconomistemaghrebin.com/2026/10/14/souleymane-bachir-diagne-tunis-lhospitalite/"
+  ],
+  "publie_le": "2026-11-16T06:00:08.000Z",
+  "redige_le": "2026-11-16T11:20:56.117Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/380481778e6f06a5de6bb9e3f8d8889d80d3a9c0.webp",
+    "source": "wikimedia",
+    "credit": "Ji-Elle",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Souleymane_Bachir_Diagne-Strasbourg-Septembre_2018_(2).jpg",
+    "alt": "Le philosophe sénégalais Souleymane Bachir Diagne",
+    "mots_cles": [
+      "Souleymane Bachir Diagne"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

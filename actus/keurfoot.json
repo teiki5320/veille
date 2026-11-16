@@ -1,8 +1,112 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-15T18:17:36.521Z",
+  "genere_le": "2026-11-16T11:20:58.603Z",
   "actus": [
+    {
+      "id": "45118ce350a907030dd352a8d9ab1a8b44f1c5bb",
+      "titre": "Éliminatoires CAN 2027 : en deuil, Thomas Partey devrait manquer Ghana-Somalie",
+      "resume": "Le milieu ghanéen Thomas Partey devrait être absent lundi pour le match retour contre la Somalie. Son père, Jacob Teye Partey, mort le 30 septembre, a été inhumé à Krobo Odumasi. Le Ghana avait gagné l'aller 2-0 jeudi.",
+      "theme": "foot",
+      "pays": [
+        "GH",
+        "SO"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/elim-can-2027-thomas-partey-forfait-pour-le-match-retour-du-ghana-contre-la-somalie/",
+      "autres_sources": [
+        "https://africatopsports.com/afrique-football/ghana-deces-de-jacob-teye-partey-le-pere-de-thomas-partey/"
+      ],
+      "publie_le": "2026-11-16T08:25:23.000Z",
+      "collecte_le": "2026-11-16T11:20:58.603Z",
+      "langue": "fr",
+      "slug": "eliminatoires-can-2027-en-deuil-thomas-partey-devrait-manquer-ghana-45118c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/45118ce350a907030dd352a8d9ab1a8b44f1c5bb.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/45118ce350a907030dd352a8d9ab1a8b44f1c5bb.webp",
+        "source": "wikimedia",
+        "credit": "Анна Джалалян",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Thomas_Partey_2019.jpg",
+        "alt": "Le footballeur ghanéen Thomas Partey",
+        "mots_cles": [
+          "Thomas Partey"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "be84c3e63fd81564443ea304f9b49fdd7c76a4fc",
+      "titre": "Ouganda : haie d'honneur et hommages pour Khalid Aucho, qui quitte les Cranes",
+      "resume": "Retiré de la sélection depuis octobre, le milieu ougandais Khalid Aucho a été honoré samedi à Hoima, lors du match contre le Botswana. Le président de la fédération lui a remis une plaque. L'ancien capitaine compte 77 sélections et trois participations à la CAN en 13 ans.",
+      "theme": "foot",
+      "pays": [
+        "UG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/16/khalid-aucho-magogo-ogwang-and-katikiiro-lead-tributes-after-the-midfielder-bows-out-at-hoima/",
+      "autres_sources": [
+        "https://foot-africa.com/actualites/ouganda-khalid-aucho-prend-sa-retraite-internationale-1384883/"
+      ],
+      "publie_le": "2026-11-16T06:47:40.000Z",
+      "collecte_le": "2026-11-16T11:20:58.603Z",
+      "langue": "en",
+      "slug": "ouganda-haie-honneur-et-hommages-pour-khalid-aucho-qui-quitte-les-be84c3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/be84c3e63fd81564443ea304f9b49fdd7c76a4fc.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/be84c3e63fd81564443ea304f9b49fdd7c76a4fc.webp",
+        "source": "wikimedia",
+        "credit": "Fédération Guinéenne Football",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Khalid_Aucho.jpg",
+        "alt": "Le footballeur ougandais Khalid Aucho",
+        "mots_cles": [
+          "Khalid Aucho"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "0703c9d5cf2b38cb2411bd279aafaaca3501ffd4",
+      "titre": "Ligue des champions féminine CAF : l'AS FAR bat Sundowns 3-1 et garde son titre",
+      "resume": "À Ismaïlia, en Égypte, le club marocain de l'AS FAR a dominé les Sud-Africaines de Mamelodi Sundowns (3-1) en finale dimanche. Imane Touriss a marqué deux fois. Les Rabatis deviennent le premier club à conserver ce trophée et le seul à l'avoir gagné trois fois.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "ZA"
+      ],
+      "competition": "Ligue des champions féminine CAF",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/16/as-far-hit-three-to-win-caf-women-champions-league-as-nabukenya-claims-share-of-golden-boot/",
+      "autres_sources": [
+        "https://kawowo.com/2026/11/15/from-the-2020-plan-to-as-fars-third-star-how-morocco-transformed-womens-football/"
+      ],
+      "publie_le": "2026-11-15T22:19:00.000Z",
+      "collecte_le": "2026-11-16T11:20:58.603Z",
+      "langue": "en",
+      "slug": "ligue-des-champions-feminine-caf-as-far-bat-sundowns-3-1-et-garde-son-0703c9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/0703c9d5cf2b38cb2411bd279aafaaca3501ffd4.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/0703c9d5cf2b38cb2411bd279aafaaca3501ffd4.webp",
+        "source": "wikimedia",
+        "credit": "Magharebia",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Les_FAR_de_Rabat_en_t%C3%AAte_du_Botola_(8170068288).jpg",
+        "alt": "Des joueuses de l'AS FAR, club de football féminin de Rabat, au Maroc",
+        "mots_cles": [
+          "AS FAR Rabat"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "23df2470105ec64b1770c35716005844d3db2a41",
       "titre": "Classement FIFA : le Maroc remonte à la 5e place mondiale, il double Brésil et Portugal",
@@ -1996,116 +2100,6 @@
         "alt": "Tolu Arokodare, attaquant international nigérian",
         "mots_cles": [
           "Tolu Arokodare"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "d80b8117c7c5bc09001e53486941f8ccd4377294",
-      "titre": "Serbie : de retour dans le onze, Bamba Dieng marque trois fois pour l'Étoile Rouge",
-      "resume": "Titularisé après deux matches de championnat commencés sur le banc, l'attaquant sénégalais Bamba Dieng a inscrit un triplé samedi lors de la victoire 4-2 de l'Étoile Rouge de Belgrade contre Macva Sabac. Il compte désormais quatre buts cette saison avec le leader de la Superliga serbe.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Superliga serbe",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/apres-deux-matchs-sur-le-banc-bamba-dieng-signe-un-triple-face-a-macva-sabac_2019309.html",
-      "autres_sources": [
-        "https://wiwsport.com/2026/10/31/mozzart-bet-superliga-bamba-dieng-signe-un-triple-avec-letoile-rouge-de-belgrade/",
-        "https://foot-africa.com/actualites/bamba-dieng-porte-ltoile-rouge-vers-la-victoire-avec-un-triple-1405892/",
-        "https://beninwebtv.bj/serbie-bamba-dieng-inscrit-un-triple-contre-macva/"
-      ],
-      "publie_le": "2026-11-01T00:02:24.000Z",
-      "collecte_le": "2026-11-01T11:20:01.144Z",
-      "langue": "fr",
-      "slug": "serbie-de-retour-dans-le-onze-bamba-dieng-marque-trois-fois-pour-d80b81",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/d80b8117c7c5bc09001e53486941f8ccd4377294.webp",
-        "source": "wikimedia",
-        "credit": "Bryan Berlin",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Bamba_Dieng_France_v_Senegal_16_June_2026-242.jpg",
-        "alt": "Bamba Dieng, attaquant international sénégalais",
-        "mots_cles": [
-          "Bamba Dieng"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "d51f1b490b5392d95b01c0623eaa38a36151e62e",
-      "titre": "Maroc : Ismael Saibari blessé avec le Bayern, à quelques jours de la liste de Ouahbi",
-      "resume": "Le milieu offensif marocain Ismael Saibari est sorti avant la demi-heure lors du nul 2-2 entre le Bayern Munich et Dortmund, samedi. Touché au genou et à la cheville, il est reparti avec des béquilles. Le Bayern parle d'une blessure sérieuse, alors que le Maroc affronte le Niger les 13 et 17 novembre.",
-      "theme": "foot",
-      "pays": [
-        "MA"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/maroc-frisson-sur-le-klassiker-saibari-blesse-a-j-4-de-la-liste-de-ouahbi",
-      "autres_sources": [
-        "https://africatopsports.com/maghreb/ismael-saibari-le-bayern-donne-des-nouvelles-sur-la-grave-blessure-du-marocain/",
-        "https://www.footmercato.net/a2775163112076377708-bayern-munich-max-eberl-tres-inquiet-pour-saibari-et-gnabry-plus-rassurant-pour-olise"
-      ],
-      "publie_le": "2026-10-31T19:12:24.000Z",
-      "collecte_le": "2026-11-01T11:20:01.144Z",
-      "langue": "fr",
-      "slug": "maroc-ismael-saibari-blesse-avec-le-bayern-quelques-jours-de-la-liste-d51f1b",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d51f1b490b5392d95b01c0623eaa38a36151e62e.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/d51f1b490b5392d95b01c0623eaa38a36151e62e.webp",
-        "source": "wikimedia",
-        "credit": "A.Nawfel",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Ismael_Saibari.jpg",
-        "alt": "Ismael Saibari, milieu offensif international marocain",
-        "mots_cles": [
-          "Ismael Saibari"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "ac4ae80253438889cc65aa758d96e251d535ec3b",
-      "titre": "Premier League : Mbeumo et Baleba battus avec Manchester United à Chelsea (2-0)",
-      "resume": "Manchester United s'est incliné 2-0 sur le terrain de Chelsea, samedi 31 octobre, pour le compte de la 9e journée du championnat anglais. Les Camerounais Bryan Mbeumo et Carlos Baleba étaient titulaires. Réduits à dix après l'expulsion de Lisandro Martínez, les Mancuniens restent juste au-dessus de la zone de relégation.",
-      "theme": "foot",
-      "pays": [
-        "CM"
-      ],
-      "competition": "Premier League",
-      "source_nom": "Camfoot",
-      "source_url": "https://www.camfoot.com/actualites/premier-league-united-mbeumo-et-carlos-baleba-coulent-face-a-chelsea,559392.html",
-      "autres_sources": [
-        "https://africatopsports.com/football-europe/angleterre-mbeumo-et-manchester-united-sinclinent-devant-chelsea/",
-        "https://www.footmercato.net/a6359672305376047944-mu-bryan-mbeumo-vole-au-secours-de-michael-carrick",
-        "https://www.camfoot.com/actualites/premier-league-le-onze-de-carrick-avec-mbeumo-et-baleba,559374.html",
-        "https://www.footmercato.net/a6683355456478857618-premier-league-reduit-a-dix-manchester-united-prend-leau-face-a-chelsea-et-senfonce-dans-la-crise",
-        "https://www.lequipe.fr/Football/Actualites/Chelsea-enfonce-manchester-united-et-michael-carrick-dans-la-crise/1740021",
-        "https://www.footmercato.net/a3419897673100438569-chelsea-manchester-united-les-compositions-officielles"
-      ],
-      "publie_le": "2026-10-31T14:44:25.000Z",
-      "collecte_le": "2026-10-31T18:19:31.304Z",
-      "langue": "fr",
-      "slug": "premier-league-mbeumo-et-baleba-battus-avec-manchester-united-chelsea-ac4ae8",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/ac4ae80253438889cc65aa758d96e251d535ec3b.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/ac4ae80253438889cc65aa758d96e251d535ec3b.webp",
-        "source": "wikimedia",
-        "credit": "Pedro Semitiel",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Bryan_Mbeumo.jpg",
-        "alt": "Bryan Mbeumo, attaquant international camerounais",
-        "mots_cles": [
-          "Bryan Mbeumo"
         ],
         "largeur": 1600,
         "hauteur": 900

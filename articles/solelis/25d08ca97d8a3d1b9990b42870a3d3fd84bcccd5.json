@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5",
+  "slug": "travail-dissimule-la-saisie-de-urssaf-sans-juge-change-au-plus-tard-en-25d08c",
+  "titre": "Travail dissimulé : la saisie de l'URSSAF sans juge change au plus tard en janvier 2027",
+  "chapo": "La flagrance sociale permet à l'URSSAF de saisir les comptes d'une entreprise soupçonnée de travail dissimulé, sans juge. Une loi votée en juin 2026 modifie ce régime, avec une entrée en vigueur prévue d'ici le début de 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Depuis 2017, dès qu'un contrôleur constate par écrit du travail non déclaré, le directeur d'une URSSAF peut prendre des mesures conservatoires sans l'accord du juge de l'exécution : saisie de comptes bancaires, de créances ou de biens, dans la limite des sommes évaluées.",
+        "Dans une analyse publiée par le Village de la Justice, l'avocat Eric Rocheblave rappelle un exemple récent : en février 2025, une URSSAF a ainsi bloqué un peu plus de 300 000 euros sur les comptes d'un cotisant. Saisie de l'affaire, la juridiction d'appel de Douai a validé ce blocage le 8 octobre 2026."
+      ]
+    },
+    {
+      "intertitre": "Ce que prévoit le régime actuel",
+      "paragraphes": [
+        "Aujourd'hui, le contrôleur remet d'abord au cotisant un document évaluant les cotisations éludées et les majorations. L'entreprise peut alors proposer des garanties suffisantes. Ce n'est qu'à défaut que la saisie intervient.",
+        "Les juges contrôlent sérieusement ces garanties : à Douai, une valeur comptable d'immobilisations non actualisée a été écartée. Selon la jurisprudence, l'URSSAF n'a pas non plus à prouver que le recouvrement est menacé. En revanche, si la lettre d'observations revoit le montant à la baisse, la saisie doit être réduite d'autant : répondre à cette lettre sert donc aussi à limiter les sommes bloquées."
+      ]
+    },
+    {
+      "intertitre": "Ce qui change avec la loi de 2026",
+      "paragraphes": [
+        "Le texte du 25 juin 2026 consacré à la fraude sociale et fiscale, dans son article 93, réécrit le dispositif. Le contrôleur pourra rédiger un constat spécifique de flagrance, mais seulement si des circonstances risquent de compromettre le recouvrement. L'étape préalable des garanties disparaît : la saisie peut suivre directement, la levée contre garanties restant possible à tout moment.",
+        "Autre nouveauté : en cas de travail illégal, la contrainte de l'URSSAF pourra être appliquée 48 heures après avoir été notifiée, même si l'entreprise fait opposition. Le dirigeant aura la possibilité de saisir le président de la juridiction civile pour obtenir une suspension en cas de moyen sérieux et de conséquences manifestement excessives."
+      ]
+    },
+    {
+      "intertitre": "Un décret encore attendu",
+      "paragraphes": [
+        "Un décret doit fixer la date d'application de ces règles, qui ne pourra pas dépasser le début de l'année 2027. Au 15 novembre, aucun décret n'avait encore été publié. Pour une entreprise contrôlée, le vrai risque porte sur la trésorerie juste après le contrôle, bien avant que le bien-fondé du redressement soit tranché."
+      ]
+    }
+  ],
+  "mots": 413,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-urssaf"
+  ],
+  "source_nom": "Village de la Justice",
+  "source_url": "https://www.village-justice.com/articles/flagrance-sociale-urssaf-saisie-conservatoire-sans-juge-change-regles-plus-tard,60060.html",
+  "publie_le": "2026-11-16T09:45:00.000Z",
+  "redige_le": "2026-11-16T11:21:05.598Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/25d08ca97d8a3d1b9990b42870a3d3fd84bcccd5.webp",
+    "source": "wikimedia",
+    "credit": "Hoolen",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Batiment_Urssaf_de_Rennes_en_2026.jpg",
+    "alt": "Un bâtiment ou un logo de l'URSSAF, l'organisme qui collecte les cotisations sociales",
+    "mots_cles": [
+      "URSSAF"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

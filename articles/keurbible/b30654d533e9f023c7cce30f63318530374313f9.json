@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "b30654d533e9f023c7cce30f63318530374313f9",
+  "slug": "afrique-australe-les-religieux-tirent-le-bilan-de-annee-des-vocations-b30654",
+  "titre": "Afrique australe : les religieux tirent le bilan de l'Année des vocations 2026",
+  "chapo": "Les religieux et religieuses d'Afrique australe referment l'Année des vocations sur une note d'espoir. En 2027, ils mettront l'accent sur la formation tout au long de la vie.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le bureau exécutif de la Conférence des supérieurs de la vie consacrée d'Afrique australe (LCCL-SA) s'est réuni du 12 au 14 novembre au centre de retraite Padre Pio de Pretoria. L'évêque Vusimuzi Mazibuko, du vicariat apostolique d'Ingwavuma, y représentait la conférence des évêques (SACBC).",
+        "L'évêque a salué l'énergie et l'esprit d'équipe des participants. Il a aussi apprécié leurs efforts pour travailler davantage ensemble et tisser des liens avec les évêques, dans une région qui couvre l'Afrique du Sud, l'Eswatini et le Botswana, soit 29 diocèses."
+      ]
+    },
+    {
+      "intertitre": "2 200 religieux, plus de 80 congrégations",
+      "paragraphes": [
+        "Le bureau compte dix membres, cinq religieuses et cinq religieux, présidés par sœur Zelna Oosthuizen. Il représente quelque 2 200 personnes consacrées, issues de plus de 80 congrégations. Ses dossiers vont de la santé et de l'éducation catholiques à la lutte contre la traite des êtres humains, en passant par l'œcuménisme, la jeunesse et la protection des personnes.",
+        "Lancé en mars, un guide des vocations a été imprimé à 4 000 exemplaires pour tous les diocèses. Depuis septembre, les responsables diocésains et religieux des vocations suivent chaque mois une formation en ligne. Selon le bureau, l'attention portée aux jeunes a permis un réel regain des vocations dans plusieurs régions."
+      ]
+    },
+    {
+      "intertitre": "Un synode des jeunes en janvier",
+      "paragraphes": [
+        "Le bureau prépare le deuxième synode des jeunes de la LCCL, prévu du 7 au 10 janvier 2027 à l'abbaye d'Inkamana. Il relève aussi l'essor du mouvement Laudato Si', de l'équipe de communication et du réseau Talitha Kum, actif contre la traite, notamment au Botswana.",
+        "L'assemblée générale de mars 2027 portera sur la formation permanente des personnes consacrées. Sœur Oosthuizen, nommée supérieure pour une région d'Afrique couvrant huit pays, achève de son côté son mandat en Afrique australe."
+      ]
+    }
+  ],
+  "mots": 313,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "ZA",
+    "SZ",
+    "BW"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25379/consecrated-persons-in-southern-africa-review-vocation-year-2026-plan-formation-year-for-2027",
+  "publie_le": "2026-11-15T14:09:00.000Z",
+  "redige_le": "2026-11-16T11:20:49.194Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/b30654d533e9f023c7cce30f63318530374313f9.webp",
+    "source": "wikimedia",
+    "credit": "Michael Rivera",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pretoria_Station.JPG",
+    "alt": "La ville de Pretoria, en Afrique du Sud",
+    "mots_cles": [
+      "Pretoria"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

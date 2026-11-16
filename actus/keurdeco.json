@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-15T18:17:36.513Z",
+  "genere_le": "2026-11-16T11:20:57.593Z",
   "actus": [
+    {
+      "id": "22b03f9aeb5805c09e2597f5dc2752cf2e74ce46",
+      "titre": "Lagos : Casa Mouda ouvre deux lieux pour exposer le design d'Afrique de l'Ouest",
+      "resume": "Le studio nigérian Casa Mouda inaugure à Lagos une galerie à l'hôtel Eko et un espace à Eko Atlantic. Conçus avec l'architecte Papa Omotayo, la designer Gemma Sfeir et Nifemi Marcus-Bello, ils exposent des meubles fabriqués sur place, dont des pièces de Jean Servais Somian.",
+      "theme": "deco",
+      "pays": [
+        "NG"
+      ],
+      "tags": [
+        "matiere:bois-sculpte"
+      ],
+      "source_nom": "Dezeen",
+      "source_url": "https://www.dezeen.com/2026/11/16/casa-mouda-lagos-nigeria-papa-omotayo-gemma-sfeir-nifemi-marcus-bello/",
+      "publie_le": "2026-11-16T10:56:10.000Z",
+      "collecte_le": "2026-11-16T11:20:57.593Z",
+      "langue": "en",
+      "slug": "lagos-casa-mouda-ouvre-deux-lieux-pour-exposer-le-design-afrique-de-22b03f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/22b03f9aeb5805c09e2597f5dc2752cf2e74ce46.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/22b03f9aeb5805c09e2597f5dc2752cf2e74ce46.webp",
+        "source": "wikimedia",
+        "credit": "SmartAfricanBoy",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Eko_Atlantic_(Lagos)_Skyline.jpg",
+        "alt": "Le quartier d'Eko Atlantic, à Lagos, au Nigeria",
+        "mots_cles": [
+          "Eko Atlantic"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "161e4c4f7507ed3050195629f2e46ed2a2b7a978",
       "titre": "Paris : Amoako Boafo transforme la galerie Mariane Ibrahim en maison rêvée",

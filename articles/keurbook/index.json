@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-15T18:17:34.086Z",
+  "genere_le": "2026-11-16T11:20:57.585Z",
   "articles": [
+    {
+      "id": "380481778e6f06a5de6bb9e3f8d8889d80d3a9c0",
+      "slug": "souleymane-bachir-diagne-publie-hospitalite-un-essai-pour-defendre-380481",
+      "titre": "Souleymane Bachir Diagne publie « L'Hospitalité », un essai pour défendre l'accueil",
+      "publie_le": "2026-11-16T06:00:08.000Z",
+      "redige_le": "2026-11-16T11:20:56.117Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/380481778e6f06a5de6bb9e3f8d8889d80d3a9c0.json"
+    },
     {
       "id": "31128b52fe7f7980395c7bbf2c31357b5080c5e7",
       "slug": "tierno-monenembo-et-peuls-une-epopee-romanesque-relue-par-seneplus-31128b",

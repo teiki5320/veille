@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-15T18:17:32.871Z",
+  "genere_le": "2026-11-16T11:20:56.117Z",
   "actus": [
+    {
+      "id": "380481778e6f06a5de6bb9e3f8d8889d80d3a9c0",
+      "titre": "Souleymane Bachir Diagne publie « L'Hospitalité », un essai pour défendre l'accueil",
+      "resume": "Le penseur sénégalais Souleymane Bachir Diagne fait paraître chez Autrement « L'Hospitalité. Affirmer l'humanité », un court essai de 144 pages. Il y défend l'accueil de l'étranger et s'inquiète d'un rejet de l'empathie qui gagne le Nord comme le Sud.",
+      "theme": "livres",
+      "pays": [
+        "SN"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/livres/article/2026/11/16/dans-l-hospitalite-le-philosophe-souleymane-bachir-diagne-rappelle-le-devoir-d-accueillir-contre-l-ideologie-anti-empathie_6811501_3260.html",
+      "autres_sources": [
+        "https://www.leconomistemaghrebin.com/2026/10/14/souleymane-bachir-diagne-tunis-lhospitalite/"
+      ],
+      "publie_le": "2026-11-16T06:00:08.000Z",
+      "collecte_le": "2026-11-16T11:20:56.117Z",
+      "langue": "fr",
+      "slug": "souleymane-bachir-diagne-publie-hospitalite-un-essai-pour-defendre-380481",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/380481778e6f06a5de6bb9e3f8d8889d80d3a9c0.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/380481778e6f06a5de6bb9e3f8d8889d80d3a9c0.webp",
+        "source": "wikimedia",
+        "credit": "Ji-Elle",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Souleymane_Bachir_Diagne-Strasbourg-Septembre_2018_(2).jpg",
+        "alt": "Le philosophe sénégalais Souleymane Bachir Diagne",
+        "mots_cles": [
+          "Souleymane Bachir Diagne"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "31128b52fe7f7980395c7bbf2c31357b5080c5e7",
       "titre": "Tierno Monénembo et « Peuls » : une épopée romanesque relue par SenePlus",

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "22b03f9aeb5805c09e2597f5dc2752cf2e74ce46",
+  "slug": "lagos-casa-mouda-ouvre-deux-lieux-pour-exposer-le-design-afrique-de-22b03f",
+  "titre": "Lagos : Casa Mouda ouvre deux lieux pour exposer le design d'Afrique de l'Ouest",
+  "chapo": "À Lagos, le studio Casa Mouda ouvre deux espaces dédiés au design. Leur première exposition met en avant des créateurs qui produisent au Nigeria.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Casa Mouda, studio de création installé à Lagos, a inauguré deux lieux dans la capitale économique du Nigeria : la galerie aiMe, à l'entrée du centre de conférences de l'hôtel Eko, et aiMe Concept, une boutique-vitrine dans le nouveau quartier d'Eko Atlantic.",
+        "La galerie a été réaménagée par l'architecte lagosien Papa Omotayo. Le second espace a été pensé avec l'architecte d'intérieur Gemma Sfeir et le designer Nifemi Marcus-Bello. Dans les deux cas, le béton brut des murs et des poteaux est réchauffé par des matières plus douces, comme le bar et le paravent en terre de la galerie."
+      ]
+    },
+    {
+      "intertitre": "Reconnaître ceux qui ont ouvert la voie",
+      "paragraphes": [
+        "La fondatrice, Caline Chagoury Moudaber, explique avoir voulu commencer en saluant les créateurs qui ont posé les bases du design local. Elle souligne que beaucoup de designers du continent portent seuls un travail qui mobilise ailleurs toute une filière.",
+        "L'exposition inaugurale réunit des créateurs de Lagos et d'autres venus y travailler. L'Américain Germane Barnes présente sa chaise Corona, en bois, aux pieds en pyramides inversées, et sa version du fauteuil paon, toutes deux réalisées à Lagos avec le studio. Nifemi Marcus-Bello, connu pour ses grandes pièces en métal, montre des tabourets et des étagères plus sobres."
+      ]
+    },
+    {
+      "intertitre": "Bois, bronze et tissage",
+      "paragraphes": [
+        "Côté artisanat, l'Ivoirien Jean Servais Somian expose des pièces en bois et en bronze : une armoire aux portes ajourées en grille, une console aux étagères ovales empilées, des tabourets aux creux peints et des tables d'appoint en bronze coulé.",
+        "La designer marocaine Hajar Daide associe des techniques nigérianes de bois tressé à des tissus bleus du Maroc pour son banc Friction. Le studio parisien Hall Haus mêle de son côté esthétique africaine et mobilier urbain, avec des paniers de basket et des chaises en métal."
+      ]
+    },
+    {
+      "intertitre": "Un lieu pour l'artisanat de la région",
+      "paragraphes": [
+        "Les deux espaces doivent aussi faire connaître l'artisanat ouest-africain, avec des textiles, des sacs et des bijoux. Pour l'ambiance sonore, le musicien américain Malloy James a conçu des enceintes sur mesure pour la galerie, tandis qu'aiMe Concept dispose d'un coin d'écoute. Selon sa fondatrice, Casa Mouda n'en est qu'à son premier chapitre."
+      ]
+    }
+  ],
+  "mots": 374,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "NG"
+  ],
+  "tags": [
+    "matiere:bois-sculpte"
+  ],
+  "source_nom": "Dezeen",
+  "source_url": "https://www.dezeen.com/2026/11/16/casa-mouda-lagos-nigeria-papa-omotayo-gemma-sfeir-nifemi-marcus-bello/",
+  "publie_le": "2026-11-16T10:56:10.000Z",
+  "redige_le": "2026-11-16T11:20:57.593Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/22b03f9aeb5805c09e2597f5dc2752cf2e74ce46.webp",
+    "source": "wikimedia",
+    "credit": "SmartAfricanBoy",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eko_Atlantic_(Lagos)_Skyline.jpg",
+    "alt": "Le quartier d'Eko Atlantic, à Lagos, au Nigeria",
+    "mots_cles": [
+      "Eko Atlantic"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

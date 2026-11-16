@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "37c824fbacb7abaad8f5ad3d49bf6b899093eabe",
+  "slug": "sahel-les-eveques-du-burkina-et-du-niger-appellent-soutenir-la-37c824",
+  "titre": "Sahel : les évêques du Burkina et du Niger appellent à soutenir la Fondation Jean-Paul II",
+  "chapo": "Les évêques du Burkina Faso et du Niger lancent un appel aux dons. La Fondation Jean-Paul II pour le Sahel, qui aide les plus démunis de la région, manque de moyens.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La Conférence épiscopale Burkina-Niger (CEBN) a tenu son assemblée plénière ordinaire du 9 au 14 novembre à Bobo-Dioulasso. Dans leur communiqué final, les évêques indiquent que la Fondation Jean-Paul II fait face à de sérieux problèmes financiers.",
+        "Ils demandent aux fidèles et à toutes les personnes de bonne volonté de participer largement à la reconstitution de son capital, au profit des populations les plus pauvres du Sahel. Les modalités de la collecte seront précisées prochainement."
+      ]
+    },
+    {
+      "intertitre": "Une fondation née d'un appel du pape",
+      "paragraphes": [
+        "La Fondation Jean-Paul II pour le Sahel a été créée en 1984, après l'appel lancé par le pape polonais à Ouagadougou en 1980 face à la sécheresse et à la désertification. Elle soutient des projets de lutte contre la désertification, d'accès à l'eau et de formation dans neuf pays sahéliens.",
+        "Les évêques se disent confiants : selon eux, les fidèles des deux pays ont toujours répondu de façon exemplaire aux appels de l'Église universelle."
+      ]
+    },
+    {
+      "intertitre": "Statuts, pèlerinages et formation",
+      "paragraphes": [
+        "Pendant la session, les évêques ont révisé les statuts de leur conférence pour clarifier le texte et l'adapter aux besoins pastoraux et juridiques actuels. Avec un spécialiste du droit ecclésiastique, ils ont aussi défini la procédure de certification qui permettra à certaines structures de l'Église au Burkina Faso d'obtenir une personnalité juridique, dans le cadre de l'accord entre le Saint-Siège et l'État burkinabè.",
+        "Les religieux partant étudier à l'étranger devront suivre les nouvelles règles fixées par les autorités civiles. Pour les pèlerinages, les évêques cherchent à mieux accompagner les fidèles qui partent hors du pays et envisagent de développer les pèlerinages nationaux. La commission épiscopale chargée de ce dossier doit rendre ses propositions rapidement."
+      ]
+    }
+  ],
+  "mots": 305,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "BF",
+    "NE"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25381/burkina-faso-niger-catholic-bishops-appeal-for-support-for-john-paul-ii-foundation-amid-major-financial-difficulties",
+  "publie_le": "2026-11-15T20:50:00.000Z",
+  "redige_le": "2026-11-16T11:20:49.194Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/37c824fbacb7abaad8f5ad3d49bf6b899093eabe.webp",
+    "source": "wikimedia",
+    "credit": "Maarten van der Bent",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bobo-Dioulasso_TownHall2.jpg",
+    "alt": "La cathédrale de l'Immaculée-Conception de Ouagadougou, au Burkina Faso",
+    "mots_cles": [
+      "Bobo-Dioulasso"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

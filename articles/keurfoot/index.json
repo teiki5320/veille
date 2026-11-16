@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-15T18:17:36.538Z",
+  "genere_le": "2026-11-16T11:21:03.871Z",
   "articles": [
+    {
+      "id": "45118ce350a907030dd352a8d9ab1a8b44f1c5bb",
+      "slug": "eliminatoires-can-2027-en-deuil-thomas-partey-devrait-manquer-ghana-45118c",
+      "titre": "Éliminatoires CAN 2027 : en deuil, Thomas Partey devrait manquer Ghana-Somalie",
+      "publie_le": "2026-11-16T08:25:23.000Z",
+      "redige_le": "2026-11-16T11:20:58.603Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/45118ce350a907030dd352a8d9ab1a8b44f1c5bb.json"
+    },
+    {
+      "id": "be84c3e63fd81564443ea304f9b49fdd7c76a4fc",
+      "slug": "ouganda-haie-honneur-et-hommages-pour-khalid-aucho-qui-quitte-les-be84c3",
+      "titre": "Ouganda : haie d'honneur et hommages pour Khalid Aucho, qui quitte les Cranes",
+      "publie_le": "2026-11-16T06:47:40.000Z",
+      "redige_le": "2026-11-16T11:20:58.603Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/be84c3e63fd81564443ea304f9b49fdd7c76a4fc.json"
+    },
+    {
+      "id": "0703c9d5cf2b38cb2411bd279aafaaca3501ffd4",
+      "slug": "ligue-des-champions-feminine-caf-as-far-bat-sundowns-3-1-et-garde-son-0703c9",
+      "titre": "Ligue des champions féminine CAF : l'AS FAR bat Sundowns 3-1 et garde son titre",
+      "publie_le": "2026-11-15T22:19:00.000Z",
+      "redige_le": "2026-11-16T11:20:58.603Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/0703c9d5cf2b38cb2411bd279aafaaca3501ffd4.json"
+    },
     {
       "id": "23df2470105ec64b1770c35716005844d3db2a41",
       "slug": "classement-fifa-le-maroc-remonte-la-5e-place-mondiale-il-double-bresil-23df24",

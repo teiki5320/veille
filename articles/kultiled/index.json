@@ -1,7 +1,7 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-15T18:17:37.616Z",
+  "genere_le": "2026-11-16T11:21:05.586Z",
   "articles": [
     {
       "id": "2fb4a4a3b5b94b5591d7accd59d270225ace21dc",
@@ -26,6 +26,14 @@
       "publie_le": "2026-11-13T18:12:28.000Z",
       "redige_le": "2026-11-14T11:22:08.350Z",
       "url": "https://teiki5320.github.io/veille/articles/kultiled/438c3d7dca963a5fb0780721cbbeb5128e44b8e2.json"
+    },
+    {
+      "id": "7297b6d0ea153279a47198cf4a5f805884a90aa0",
+      "slug": "coupures-electricite-comment-une-serre-peut-preparer-ses-plantes-et-7297b6",
+      "titre": "Coupures d'électricité : comment une serre peut préparer ses plantes et ses lampes",
+      "publie_le": "2026-11-13T17:00:37.000Z",
+      "redige_le": "2026-11-16T11:21:03.875Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/7297b6d0ea153279a47198cf4a5f805884a90aa0.json"
     },
     {
       "id": "21b0ee20bb3ccb8995f1031297b9bd7433b77839",

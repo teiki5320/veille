@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "8a72df32afc428bf2552d4c98c23f207309af64a",
+  "slug": "toulouse-les-commerces-du-centre-ville-voient-leur-chiffre-affaires-8a72df",
+  "titre": "Toulouse : les commerces du centre-ville voient leur chiffre d'affaires reculer",
+  "chapo": "Fréquentation en baisse, ventes en recul : dans les rues du centre de Toulouse, les commerçants indépendants font face à une activité durablement plus faible et misent sur les fêtes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La Dépêche du Midi a interrogé plusieurs commerçants du centre-ville toulousain, près de la place du Capitole. Tous décrivent la même tendance : moins de passage, des clients qui hésitent davantage avant d'acheter et des samedis qui n'ont plus l'animation d'autrefois.",
+        "Un chocolatier installé dans une rue piétonne affirme que son chiffre d'affaires a été divisé par deux depuis 2018. Une vendeuse d'un magasin de chaussures indépendant estime que le samedi ressemble désormais, en ventes, à un jour de semaine."
+      ]
+    },
+    {
+      "intertitre": "Des causes qui s'additionnent",
+      "paragraphes": [
+        "La baisse du pouvoir d'achat revient dans toutes les bouches. Mais les commerçants citent aussi une succession de chocs depuis 2018 : les Gilets jaunes, puis l'épidémie de Covid-19, les manifestations à répétition et un climat social tendu.",
+        "L'accès au centre est un autre sujet. Le chocolatier regrette que venir en voiture soit devenu compliqué et estime que certains clients évitent la ville les jours de manifestation. La vendeuse ajoute la concurrence de la vente en ligne et l'incertitude liée aux élections à venir. Le textile indépendant serait l'un des secteurs les plus touchés."
+      ]
+    },
+    {
+      "intertitre": "Décembre, une parenthèse attendue",
+      "paragraphes": [
+        "Un caviste proche du Capitole reconnaît une baisse légère mais régulière d'année en année. Comme ses voisins, il compte sur décembre, période où les clients se déplacent plus volontiers pour Noël et le jour de l'an.",
+        "Pour tenir, ces commerçants misent sur la fidélité de leurs habitués et sur le lien humain. Le chocolatier juge l'ouverture le dimanche désormais indispensable et souhaiterait qu'elle soit généralisée."
+      ]
+    },
+    {
+      "intertitre": "Un repère pour les dirigeants de commerce",
+      "paragraphes": [
+        "Quand le chiffre d'affaires baisse durablement, un dirigeant peut solliciter tôt son expert-comptable, la chambre de commerce ou le tribunal des activités économiques pour un entretien de prévention. Des dispositifs comme le mandat ad hoc ou la conciliation permettent de négocier avec ses créanciers avant que les dettes ne s'accumulent."
+      ]
+    }
+  ],
+  "mots": 334,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/16/reportage-mon-chiffre-daffaires-a-diminue-de-moitie-les-commercants-toulousains-inquiets-mais-pas-fatalistes-face-aux-samedis-qui-ne-sont-plus-les-13649629.php",
+  "publie_le": "2026-11-16T05:31:03.000Z",
+  "redige_le": "2026-11-16T11:21:05.598Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/8a72df32afc428bf2552d4c98c23f207309af64a.webp",
+    "source": "wikimedia",
+    "credit": "Didier Descouens",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_Saint-Rome.jpg",
+    "alt": "Une rue commerçante du centre-ville de Toulouse",
+    "mots_cles": [
+      "Rue Saint-Rome Toulouse"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
