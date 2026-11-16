@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-16T11:20:49.194Z",
+  "genere_le": "2026-11-16T11:22:15.314Z",
   "actus": [
     {
       "id": "37c824fbacb7abaad8f5ad3d49bf6b899093eabe",
@@ -23,12 +23,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbible/37c824fbacb7abaad8f5ad3d49bf6b899093eabe.webp",
         "source": "wikimedia",
-        "credit": "Maarten van der Bent",
+        "credit": "qiv from Barcelona , Spain",
         "licence": "CC BY-SA 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Bobo-Dioulasso_TownHall2.jpg",
-        "alt": "La cathédrale de l'Immaculée-Conception de Ouagadougou, au Burkina Faso",
+        "page": "https://commons.wikimedia.org/wiki/File:Kathedrale_von_Bobo-Dioulasso_01.jpg",
+        "alt": "La cathédrale de Bobo-Dioulasso, au Burkina Faso",
         "mots_cles": [
-          "Bobo-Dioulasso"
+          "Bobo-Dioulasso Cathedral"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -118,12 +118,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbible/b30654d533e9f023c7cce30f63318530374313f9.webp",
         "source": "wikimedia",
-        "credit": "Michael Rivera",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Pretoria_Station.JPG",
-        "alt": "La ville de Pretoria, en Afrique du Sud",
+        "credit": "FatimaRawjee",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Loreto_Convent_school_Pretoria_-_Aerial.jpg",
+        "alt": "La cathédrale du Sacré-Cœur de Pretoria, en Afrique du Sud",
         "mots_cles": [
-          "Pretoria"
+          "Sacred Heart Cathedral, Pretoria"
         ],
         "largeur": 1600,
         "hauteur": 900
