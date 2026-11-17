@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-16T18:18:16.379Z",
+  "genere_le": "2026-11-17T11:20:37.541Z",
   "articles": [
+    {
+      "id": "d66d7f245c142ea5ce07c675ae16dddc04c45280",
+      "slug": "plante-de-jade-en-novembre-plus-de-lumiere-moins-eau-et-pas-engrais-d66d7f",
+      "titre": "Plante de jade en novembre : plus de lumière, moins d'eau et pas d'engrais",
+      "publie_le": "2026-11-17T07:37:24.000Z",
+      "redige_le": "2026-11-17T11:20:35.338Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/d66d7f245c142ea5ce07c675ae16dddc04c45280.json"
+    },
     {
       "id": "e276a6d1cf2631fe8bc467a1085dd8c05b53980c",
       "slug": "milwaukee-une-ferme-interieure-au-siege-de-rockwell-nourrit-les-e276a6",

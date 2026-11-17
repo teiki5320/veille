@@ -1,8 +1,103 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-16T18:18:13.068Z",
+  "genere_le": "2026-11-17T11:20:30.121Z",
   "actus": [
+    {
+      "id": "f5f69ebd781b028b39fade4f39b40cea1ae6035e",
+      "titre": "Tunisie : les U17 éliminés à domicile, la crise du football tunisien s'aggrave",
+      "resume": "Organisatrice du tournoi UNAF des moins de 17 ans, la Tunisie a terminé à la dernière place après une défaite 5-1 contre le Maroc. Quelques jours plus tôt, la sélection A avait perdu 2-0 contre la Libye à Sfax. Elle reste sur neuf matchs sans victoire, une série inédite depuis 1989.",
+      "theme": "foot",
+      "pays": [
+        "TN"
+      ],
+      "competition": null,
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/tunisie-des-u17-aux-aigles-de-carthage-le-naufrage-continue",
+      "publie_le": "2026-11-17T10:31:00.000Z",
+      "collecte_le": "2026-11-17T11:20:30.121Z",
+      "langue": "fr",
+      "slug": "tunisie-les-u17-elimines-domicile-la-crise-du-football-tunisien-f5f69e",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f5f69ebd781b028b39fade4f39b40cea1ae6035e.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/f5f69ebd781b028b39fade4f39b40cea1ae6035e.webp",
+        "source": "wikimedia",
+        "credit": "Assabah",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Tunisia_National_Football_Team_1978.jpg",
+        "alt": "L'équipe de Tunisie de football",
+        "mots_cles": [
+          "Tunisia national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "965478cb1eb71e74d406a57ba400ea3345203be1",
+      "titre": "CAN U23 : l'Algérie renverse l'Eswatini 3-1 et file au dernier tour des éliminatoires",
+      "resume": "Battue 2-1 à l'aller, l'Algérie a gagné 3-1 contre l'Eswatini au stade du 5-Juillet-1962. Lahlou Akhrib a marqué deux fois, sur des passes de Mokrane Bentoumi. Les moins de 23 ans algériens rejoignent le troisième tour, avec en vue la CAN U23 et les JO 2028.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "SZ"
+      ],
+      "competition": "Éliminatoires CAN U23 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/can-u23-lalgerie-renverse-la-vapeur-grace-a-lahlou-akhrib",
+      "publie_le": "2026-11-16T19:27:13.000Z",
+      "collecte_le": "2026-11-17T11:20:30.121Z",
+      "langue": "fr",
+      "slug": "can-u23-algerie-renverse-eswatini-3-1-et-file-au-dernier-tour-des-965478",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/965478cb1eb71e74d406a57ba400ea3345203be1.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/965478cb1eb71e74d406a57ba400ea3345203be1.webp",
+        "source": "wikimedia",
+        "credit": "Hichem algerino",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Stade_du_5-Juillet-1962,_USM_Alger_vs_CAPS_United,_July_9th_2017.jpg",
+        "alt": "Le stade du 5-Juillet-1962 à Alger",
+        "mots_cles": [
+          "Stade du 5 Juillet 1962"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "5961a9bef7b11f6c99577b49ae034ee0918f517b",
+      "titre": "Éliminatoires CAN 2027 : la Guinée bat encore l'Érythrée, le Bénin gagne à la 93e",
+      "resume": "Victoire 3-1 de la Guinée contre l'Érythrée au Caire : le Syli reprend provisoirement la tête du groupe D. Le Bénin s'est imposé 1-0 contre la Centrafrique à Douala, grâce à un but de Joseph Oloko Ede dans le temps additionnel. Il peut être qualifié dès mardi.",
+      "theme": "foot",
+      "pays": [
+        "GN",
+        "BJ"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/can-2027-q-la-guinee-fonce-vers-la-qualif-le-benin-simpose-a-la-93e-et-compte-sur-le-burkina-faso",
+      "publie_le": "2026-11-16T18:24:18.000Z",
+      "collecte_le": "2026-11-17T11:20:30.121Z",
+      "langue": "fr",
+      "slug": "eliminatoires-can-2027-la-guinee-bat-encore-erythree-le-benin-gagne-la-5961a9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5961a9bef7b11f6c99577b49ae034ee0918f517b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/5961a9bef7b11f6c99577b49ae034ee0918f517b.webp",
+        "source": "wikimedia",
+        "credit": "Radu666",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:PAPUA_NEW_GUINEA_NATIONAL_TEAM.jpg",
+        "alt": "Des joueurs de l'équipe de Guinée de football",
+        "mots_cles": [
+          "Guinea national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "45118ce350a907030dd352a8d9ab1a8b44f1c5bb",
       "titre": "Éliminatoires CAN 2027 : en deuil, Thomas Partey devrait manquer Ghana-Somalie",
@@ -1994,112 +2089,6 @@
           "Patrice Motsepe",
           "african football stadium",
           "football stadium crowd"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b",
-      "titre": "Mondial U17 féminin : le Nigeria et le Ghana portent l'Afrique en quarts de finale",
-      "resume": "Au Mondial féminin des moins de 17 ans organisé au Maroc, deux sélections africaines restent en lice. Le Nigeria, vainqueur de la Corée du Nord puis du Mexique, affronte le Venezuela ; le Ghana, tombeur de l'Argentine, défie le Japon.",
-      "theme": "foot",
-      "pays": [
-        "NG",
-        "GH",
-        "MA"
-      ],
-      "competition": "Coupe du monde féminine U17",
-      "source_nom": "Kawowo Sports",
-      "source_url": "https://kawowo.com/2026/11/01/nigeria-ghana-carry-africas-ambitions-into-the-quarterfinals-fifa-u-17-womens-world-cup-2026/",
-      "publie_le": "2026-11-01T19:40:36.000Z",
-      "collecte_le": "2026-11-02T11:19:41.972Z",
-      "langue": "en",
-      "slug": "mondial-u17-feminin-le-nigeria-et-le-ghana-portent-afrique-en-quarts-5868b7",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/5868b7be5330ac82ef18a3c25c4b6f09b4e90d5b.webp",
-        "source": "wikimedia",
-        "credit": "David Jane Footballer",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:After_training_with_my_team_mates_in_the_National_Camp_Super_Falcon_in_Abuja_Nigeria.JPG",
-        "alt": "L'équipe nationale féminine de football du Nigeria",
-        "mots_cles": [
-          "Nigeria women's national football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://beninwebtv.bj/en/u17-womens-world-cup-four-nations-qualify-for-quarter-finals/",
-        "https://www.soccergraph.com/2026/10/fifa-u17-womens-world-cup-knockout-schedule-results.html"
-      ]
-    },
-    {
-      "id": "337dad24522a9cf9ba0ab3d2242396a471f405fb",
-      "titre": "Ligue 1 : doublé et passe décisive pour Lassine Sinayoko, le Paris FC bat Monaco (3-1)",
-      "resume": "L'attaquant malien a marqué deux fois avant la pause puis offert le troisième but à Pablo Pagis, dimanche au stade Jean-Bouin. Avec huit réalisations, il est désormais seul en tête des buteurs du championnat, et le Paris FC remonte au quatrième rang.",
-      "theme": "foot",
-      "pays": [
-        "ML",
-        "FR"
-      ],
-      "competition": "Ligue 1",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a7403464712749290392-paris-fc-le-festival-de-lassine-sinayoko-contre-monaco",
-      "autres_sources": [
-        "https://www.footmercato.net/a7257737626114490173-ligue-1-lol-soffre-angers-et-monte-sur-le-podium-le-paris-fc-dun-grand-sinayoko-domine-monaco"
-      ],
-      "publie_le": "2026-11-01T18:10:16.000Z",
-      "collecte_le": "2026-11-01T18:21:16.478Z",
-      "langue": "fr",
-      "slug": "ligue-1-double-et-passe-decisive-pour-lassine-sinayoko-le-paris-fc-bat-337dad",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/337dad24522a9cf9ba0ab3d2242396a471f405fb.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/337dad24522a9cf9ba0ab3d2242396a471f405fb.webp",
-        "source": "wikimedia",
-        "credit": "SonoGrazy",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Lassine_Sinayoko_(cropped).jpg",
-        "alt": "L'attaquant malien Lassine Sinayoko",
-        "mots_cles": [
-          "Lassine Sinayoko"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "9e7bdfb48101fb9eceeee957884be76a174822bf",
-      "titre": "Ajax : le Nigérian Tolu Arokodare offre la victoire face à l'AZ, une première depuis 2022",
-      "resume": "L'attaquant nigérian Tolu Arokodare a marqué de la tête l'unique but du succès de l'Ajax contre l'AZ Alkmaar, samedi. Le club d'Amsterdam n'avait plus battu ce rival depuis mars 2022. Il revient à un point du leader Feyenoord, et son buteur a balayé toute brouille avec son entraîneur.",
-      "theme": "foot",
-      "pays": [
-        "NG"
-      ],
-      "competition": "Eredivisie",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football/ajax-tolu-arokodare-marque-et-brise-une-malediction-vielle-de-5-ans/",
-      "autres_sources": [
-        "https://africatopsports.com/football/tolu-arokodare-lattaquant-nigerian-repond-aux-critiques-de-son-entraineur-de-lajax/"
-      ],
-      "publie_le": "2026-11-01T09:45:05.000Z",
-      "collecte_le": "2026-11-01T11:20:01.144Z",
-      "langue": "fr",
-      "slug": "ajax-le-nigerian-tolu-arokodare-offre-la-victoire-face-az-une-premiere-9e7bdf",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9e7bdfb48101fb9eceeee957884be76a174822bf.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/9e7bdfb48101fb9eceeee957884be76a174822bf.webp",
-        "source": "wikimedia",
-        "credit": "Timmy96",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Tolu_Arokodare_01112025_(1).jpg",
-        "alt": "Tolu Arokodare, attaquant international nigérian",
-        "mots_cles": [
-          "Tolu Arokodare"
         ],
         "largeur": 1600,
         "hauteur": 900

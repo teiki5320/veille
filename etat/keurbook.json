@@ -509,7 +509,34 @@
     "ee1e8d660fb71c7263ff79d5432f7ebf34ce3ee7": "2026-11-16T18:18:13.042Z",
     "661df28acbd26cafc22283d6ef8455b049703979": "2026-11-16T18:18:13.042Z",
     "acd5c440a0aba0fce8fd35830e49c8a63d0be38f": "2026-11-16T18:18:13.042Z",
-    "88fa4a1460191676d07ac62c5517b442596fb10e": "2026-11-16T18:18:13.042Z"
+    "88fa4a1460191676d07ac62c5517b442596fb10e": "2026-11-16T18:18:13.042Z",
+    "0b93e937ca2305690194601b37e39a10db2c42f1": "2026-11-17T11:20:24.979Z",
+    "f31b2478b5110a38ee1cb639d630a8472a5b7fd4": "2026-11-17T11:20:24.979Z",
+    "8f8caaeed0d98beb23ceef7b514ca62282db8241": "2026-11-17T11:20:24.979Z",
+    "785f9445f49014cce37270de2b4d400719cfb46b": "2026-11-17T11:20:24.979Z",
+    "e412f4633ccb3d27ff21dfb990bcecb403e2fbd1": "2026-11-17T11:20:24.979Z",
+    "68f1e92af25a6f560c361e3d38e84dcd016d2053": "2026-11-17T11:20:24.979Z",
+    "e700377331caeba0d87f7565e6de73f78c533a98": "2026-11-17T11:20:24.979Z",
+    "0a5c22df2015aa48aff98157e377b95f7d1a4dc9": "2026-11-17T11:20:24.979Z",
+    "991a91ab58f0d1eed24e2ca3a1d8a79371b9dbe6": "2026-11-17T11:20:24.979Z",
+    "64a6fe139c4931bfdd822ab779a038c3174ee5d4": "2026-11-17T11:20:24.979Z",
+    "985020d97f031533793bd7f9d553b9f011660d5e": "2026-11-17T11:20:24.979Z",
+    "74722067ac4768b25a901ee4942bf1fda9f8ef91": "2026-11-17T11:20:24.979Z",
+    "b29655fae8cbee11ccb24f127c712853c6098cca": "2026-11-17T11:20:24.979Z",
+    "bfeffb824f9f56ebe36a2fd2263b0d78bf2df8c7": "2026-11-17T11:20:24.979Z",
+    "c961ccaf1d88c16e90bae5231278db085c3f0605": "2026-11-17T11:20:24.979Z",
+    "bbaa02253f279bcfede4deacddf3e8ba475fa6f7": "2026-11-17T11:20:24.979Z",
+    "f35ca69ffdcaa502d1066cc91e55dde2ed53bf83": "2026-11-17T11:20:24.979Z",
+    "94f29963ab5c3a7e28438cd8c45939a37a847972": "2026-11-17T11:20:24.979Z",
+    "fcc8499dba4cda7a9fcaa4472eed98ad85f1153c": "2026-11-17T11:20:24.979Z",
+    "fb4104f9a4575e351730601fb775d2356f795ce9": "2026-11-17T11:20:24.979Z",
+    "7fc5dd022f059bc60be913678f4e55b73c8d3f19": "2026-11-17T11:20:24.979Z",
+    "98956230e76059972659e96d1ea94de9c6e91970": "2026-11-17T11:20:24.979Z",
+    "fd6bc50eac5a0e5e8521f7b2437a55ce5a81d8b4": "2026-11-17T11:20:24.979Z",
+    "f851b6e1d8ef2a5188eba0c2004eb25c31d8f141": "2026-11-17T11:20:24.979Z",
+    "9fb985ac25cc9993ab151b928e0e2e5b31b3f8be": "2026-11-17T11:20:24.979Z",
+    "23284cfed9105d175257153907ffcdc929f94653": "2026-11-17T11:20:24.979Z",
+    "b60fd9c3052071d29035775b042f655ce8caa815": "2026-11-17T11:20:24.979Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
@@ -522,68 +549,72 @@
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 5
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 1
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 0
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 4
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
       "articles": 10
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
-      "articles": 9
+      "articles": 2
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 3
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
       "articles": 1
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-16T18:12:44.486Z",
+      "dernier_succes": "2026-11-17T11:12:31.783Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     }
   },
   "images_recentes": [
+    {
+      "id": "985020d97f031533793bd7f9d553b9f011660d5e",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/3/38/Diop%2C_Barry%2C_Epanya%2C_Sow_Fall%2C_Rano-FIG_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "380481778e6f06a5de6bb9e3f8d8889d80d3a9c0",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Souleymane_Bachir_Diagne-Strasbourg-Septembre_2018_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -659,10 +690,6 @@
     {
       "id": "f1153723d32109a346001ce3df72ff8927312d97",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Boobocar_Boris_Diop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-    },
-    {
-      "id": "f42687aabdab0f4cca9884e39a461826e6be4789",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Boubacar-Boris-Diop_DSC06105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     }
   ],
   "origines": {
@@ -687,7 +714,8 @@
     "840c98ef5f5ecf58c93efb5aa4063945bf1ff883": "https://upload.wikimedia.org/wikipedia/commons/6/64/Photo_of_Mauritian_Writer_Ananda_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "1e783a5964cca5f38c8389109171010dbb9ee535": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bundesarchiv_B_145_Bild-F011980-0006%2C_Frankfurt-Main%2C_Staatspr%C3%A4sident_von_Senegal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "31128b52fe7f7980395c7bbf2c31357b5080c5e7": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tierno_Mon%C3%A9nembo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "380481778e6f06a5de6bb9e3f8d8889d80d3a9c0": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Souleymane_Bachir_Diagne-Strasbourg-Septembre_2018_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "380481778e6f06a5de6bb9e3f8d8889d80d3a9c0": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Souleymane_Bachir_Diagne-Strasbourg-Septembre_2018_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "985020d97f031533793bd7f9d553b9f011660d5e": "https://upload.wikimedia.org/wikipedia/commons/3/38/Diop%2C_Barry%2C_Epanya%2C_Sow_Fall%2C_Rano-FIG_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "bf4d10d821b824220ce9e3cb505c75652ce619e6": [

@@ -1,8 +1,75 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-16T18:18:16.383Z",
+  "genere_le": "2026-11-17T11:20:37.550Z",
   "actus": [
+    {
+      "id": "641ba430af17e6c96fa458e820b71757c1a8faa5",
+      "titre": "Carburants : la baisse touche plus de 90 % des stations, près de 21 centimes sur le gazole",
+      "resume": "Selon le gouvernement, la baisse est appliquée dans plus de neuf stations-service sur dix ce 17 novembre. Le gazole recule en moyenne de près de 21 centimes par litre et l'essence d'environ 10 centimes. La baisse vient de la vente à prix coûtant d'une partie des stocks stratégiques de l'État.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/17/carburants-jusqua-21-centimes-de-baisse-sur-le-gazole-plus-de-90-des-stations-service-ont-reduit-leurs-prix-ce-mardi-13656623.php",
+      "autres_sources": [
+        "https://www.sudouest.fr/economie/energie/carburants/carburants-la-baisse-des-prix-est-effective-dans-plus-de-90-des-stations-service-31559466.php",
+        "https://www.lemonde.fr/economie-francaise/article/2026/11/17/carburant-une-baisse-du-prix-dans-plus-de-90-des-stations-service-selon-mathieu-lefevre_6812943_1656968.html"
+      ],
+      "publie_le": "2026-11-17T10:31:02.000Z",
+      "collecte_le": "2026-11-17T11:20:37.550Z",
+      "langue": "fr",
+      "slug": "carburants-la-baisse-touche-plus-de-90-des-stations-pres-de-21-641ba4",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/641ba430af17e6c96fa458e820b71757c1a8faa5.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/641ba430af17e6c96fa458e820b71757c1a8faa5.webp",
+        "source": "wikimedia",
+        "credit": "Benoît Prieur",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Station-service_en_France_au_retour_de_Wikimania_2016.JPG",
+        "alt": "Une station-service en France",
+        "mots_cles": [
+          "Station-service en France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "27a1f485632d131204eac3b527c634f66cf5121f",
+      "titre": "Auto-entrepreneurs : un revenu moyen de 7 700 euros en 2025, en légère hausse",
+      "resume": "Selon l'Urssaf, les auto-entrepreneurs ont déclaré un revenu moyen de 7 700 euros l'an dernier, en progression de 1,8 % sur un an. Après inflation, la hausse n'est que de 0,9 %. Plus de la moitié restent sous 4 000 euros par an, et les taxis-VTC continuent de reculer.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-urssaf"
+      ],
+      "source_nom": "Le Journal des Entreprises",
+      "source_url": "https://www.lejournaldesentreprises.com/article/le-revenu-annuel-moyen-des-auto-entrepreneurs-repart-la-hausse-en-2025-2148518",
+      "publie_le": "2026-11-17T07:21:43.000Z",
+      "collecte_le": "2026-11-17T11:20:37.550Z",
+      "langue": "fr",
+      "slug": "auto-entrepreneurs-un-revenu-moyen-de-7-700-euros-en-2025-en-legere-27a1f4",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/27a1f485632d131204eac3b527c634f66cf5121f.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/27a1f485632d131204eac3b527c634f66cf5121f.webp",
+        "source": "wikimedia",
+        "credit": "JPC38",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Rue_des_Alli%C3%A9s_(CAF_URSSAF).jpg",
+        "alt": "Le logo ou un bâtiment de l'Urssaf",
+        "mots_cles": [
+          "Urssaf"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d5fdb8f2eeec26b2b949618f9a08f51c5209aaed",
       "titre": "Île-de-France : 116 700 emplois menacés chaque année par le manque de repreneurs",
@@ -1884,75 +1951,6 @@
       "slug": "paris-le-bhv-marais-sollicite-un-redressement-judiciaire-pour-sauver-b6c012",
       "article_url": "https://teiki5320.github.io/veille/articles/solelis/b6c012221c9cf114e002cf5653d745392c9e30aa.json",
       "lecture_min": 2
-    },
-    {
-      "id": "bd0b491a7798c9f7350de65ab6dd5e55f3c3906a",
-      "titre": "Manifestations d'octobre : CCI France chiffre les dégâts subis par les commerces",
-      "resume": "D'après CCI France, plus de 2 500 boutiques ont subi des dégradations, dont 1 161 pillées, saccagées ou incendiées. En centre-ville, les ventes ont chuté jusqu'à 80 % les samedis de mobilisation, pour une perte estimée à environ 1,5 milliard d'euros par week-end.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "Sud Ouest",
-      "source_url": "https://www.sudouest.fr/societe/greves-et-manifestations/manifestations-sociales-et-violences-plus-de-2-500-commerces-touches-dont-un-millier-fortement-degrades-selon-cci-france-31264766.php",
-      "autres_sources": [
-        "https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html",
-        "https://www.bfmtv.com/economie/entreprises/le-chiffre-d-affaires-baisse-de-80-en-centre-ville-plus-de-2-500-commerces-ont-ete-touches-par-les-violences-des-17-et-24-octobre-et-pres-de-la-moitie-ont-ete-fortement-degrades_AD-202610270597.html",
-        "https://www.latribune.fr/article/economie/71130012652585/17-octobre-la-facture-estimee-a-1-5-milliard-d-euros-qui-fait-trembler-l-economie-francaise",
-        "https://www.20minutes.fr/economie/4257979-20261027-colere-sociale-4-000-commerces-touches-1-5-milliard-euros-pertes-craindre-chiffres-cci?at_medium=display&at_campaign=149"
-      ],
-      "publie_le": "2026-10-27T15:50:42.000Z",
-      "collecte_le": "2026-10-27T18:18:01.350Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.webp",
-        "source": "wikimedia",
-        "credit": "Velvet",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Lille_CCI_2.jpg",
-        "alt": "Le logo ou le siège de CCI France",
-        "mots_cles": [
-          "CCI France"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "manifestations-octobre-cci-france-chiffre-les-degats-subis-par-les-bd0b49",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/bd0b491a7798c9f7350de65ab6dd5e55f3c3906a.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "2af0ee11252bf40e415a0a47df7bcf805323a145",
-      "titre": "Factures impayées entre commerçants : le recouvrement sans juge précisé par décret",
-      "resume": "Un décret d'octobre précise une procédure votée au printemps : un commissaire de justice pourra obtenir un titre exécutoire contre un client professionnel qui laisse une facture impayée sans la contester. Le dispositif doit s'appliquer avant la fin de l'année.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "tags": [
-        "situation:dettes-fournisseurs"
-      ],
-      "source_nom": "Le Journal des Entreprises",
-      "source_url": "https://www.lejournaldesentreprises.com/article/un-decret-fixe-le-cadre-dun-recouvrement-sans-juge-des-impayes-entre-commercants-2148182",
-      "publie_le": "2026-10-27T11:04:32.000Z",
-      "collecte_le": "2026-10-29T11:24:17.510Z",
-      "langue": "fr",
-      "slug": "factures-impayees-entre-commercants-le-recouvrement-sans-juge-precise-2af0ee",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/2af0ee11252bf40e415a0a47df7bcf805323a145.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/2af0ee11252bf40e415a0a47df7bcf805323a145.webp",
-        "source": "wikimedia",
-        "credit": "Rudy 40",
-        "licence": "CC BY 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Gare_facture_biganos.JPG",
-        "alt": "Une facture papier",
-        "mots_cles": [
-          "Facture"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
     }
   ]
 }

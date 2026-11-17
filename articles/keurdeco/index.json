@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-16T18:18:13.060Z",
+  "genere_le": "2026-11-17T11:20:30.099Z",
   "articles": [
+    {
+      "id": "329d283ccfd53b1d800e229a324b9ed0886a5ab3",
+      "slug": "casablanca-la-boutique-cote-bougie-mise-sur-la-pierre-et-la-terre-329d28",
+      "titre": "Casablanca : la boutique Côté Bougie mise sur la pierre et la terre cuite",
+      "publie_le": "2026-11-17T10:24:47.000Z",
+      "redige_le": "2026-11-17T11:20:28.078Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/329d283ccfd53b1d800e229a324b9ed0886a5ab3.json"
+    },
     {
       "id": "22b03f9aeb5805c09e2597f5dc2752cf2e74ce46",
       "slug": "lagos-casa-mouda-ouvre-deux-lieux-pour-exposer-le-design-afrique-de-22b03f",

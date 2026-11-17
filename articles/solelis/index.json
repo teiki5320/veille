@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-16T18:18:19.465Z",
+  "genere_le": "2026-11-17T11:20:41.633Z",
   "articles": [
+    {
+      "id": "641ba430af17e6c96fa458e820b71757c1a8faa5",
+      "slug": "carburants-la-baisse-touche-plus-de-90-des-stations-pres-de-21-641ba4",
+      "titre": "Carburants : la baisse touche plus de 90 % des stations, près de 21 centimes sur le gazole",
+      "publie_le": "2026-11-17T10:31:02.000Z",
+      "redige_le": "2026-11-17T11:20:37.550Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/641ba430af17e6c96fa458e820b71757c1a8faa5.json"
+    },
+    {
+      "id": "27a1f485632d131204eac3b527c634f66cf5121f",
+      "slug": "auto-entrepreneurs-un-revenu-moyen-de-7-700-euros-en-2025-en-legere-27a1f4",
+      "titre": "Auto-entrepreneurs : un revenu moyen de 7 700 euros en 2025, en légère hausse",
+      "publie_le": "2026-11-17T07:21:43.000Z",
+      "redige_le": "2026-11-17T11:20:37.550Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/27a1f485632d131204eac3b527c634f66cf5121f.json"
+    },
     {
       "id": "d5fdb8f2eeec26b2b949618f9a08f51c5209aaed",
       "slug": "ile-de-france-116-700-emplois-menaces-chaque-annee-par-le-manque-de-d5fdb8",

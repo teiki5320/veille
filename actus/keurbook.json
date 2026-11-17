@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-16T18:18:13.042Z",
+  "genere_le": "2026-11-17T11:20:24.979Z",
   "actus": [
+    {
+      "id": "985020d97f031533793bd7f9d553b9f011660d5e",
+      "titre": "Kigali : Boubacar Boris Diop parle de page blanche et d'IA avec des lycéens",
+      "resume": "L'écrivain sénégalais Boubacar Boris Diop a rencontré 25 élèves de la Green Hills Academy, à Kigali. Pendant une heure, en français et en anglais, ils ont parlé de l'écriture d'un roman, de la page blanche et de l'intelligence artificielle. La rencontre était coorganisée par le réseau GPS.",
+      "theme": "livres",
+      "pays": [
+        "RW",
+        "SN"
+      ],
+      "tags": [
+        "auteur:boubacar-boris-diop"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/boubacar-boris-diop-green-hills-academy-rwanda-when-literature-brings-generations-together",
+      "publie_le": "2026-11-17T08:09:59.000Z",
+      "collecte_le": "2026-11-17T11:20:24.979Z",
+      "langue": "fr",
+      "slug": "kigali-boubacar-boris-diop-parle-de-page-blanche-et-ia-avec-des-985020",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/985020d97f031533793bd7f9d553b9f011660d5e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/985020d97f031533793bd7f9d553b9f011660d5e.webp",
+        "source": "wikimedia",
+        "credit": "Photographe de la Ville de Saint-Dié-des-Vosges, dans le cadre de sa mission ; scan par Ji-Elle",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Diop,_Barry,_Epanya,_Sow_Fall,_Rano-FIG_2000.jpg",
+        "alt": "Portrait de l'écrivain sénégalais Boubacar Boris Diop",
+        "mots_cles": [
+          "Boubacar Boris Diop"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "380481778e6f06a5de6bb9e3f8d8889d80d3a9c0",
       "titre": "Souleymane Bachir Diagne publie « L'Hospitalité », un essai pour défendre l'accueil",

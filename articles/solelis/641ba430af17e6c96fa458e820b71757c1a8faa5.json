@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "641ba430af17e6c96fa458e820b71757c1a8faa5",
+  "slug": "carburants-la-baisse-touche-plus-de-90-des-stations-pres-de-21-641ba4",
+  "titre": "Carburants : la baisse touche plus de 90 % des stations, près de 21 centimes sur le gazole",
+  "chapo": "Les prix à la pompe reculent enfin. Selon le gouvernement, la quasi-totalité des stations répercute, ce mardi 17 novembre, la baisse liée au déstockage de gazole décidé par l'État.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Mathieu Lefèvre, qui assure par intérim le rôle de porte-parole et occupe le poste de ministre délégué chargé de l'écologie, a donné les chiffres sur Sud Radio. Plus de neuf stations sur dix appliquent désormais la baisse. Pour le gazole, le gain moyen approche 21 centimes au litre ; pour l'essence, il est d'à peu près 10 centimes.",
+        "Le gazole se vend désormais près de 2,16 € le litre, et les deux sans-plomb, 95 et 98, valent de 2,07 € à 2,11 €, toujours selon le ministre."
+      ]
+    },
+    {
+      "intertitre": "Dix millions de barils mis en vente",
+      "paragraphes": [
+        "Ce recul découle d'une mesure exceptionnelle lancée le 1er novembre : l'État vend à prix coûtant une partie de ses réserves stratégiques de gazole. Dix millions de barils doivent arriver sur le marché en trois mois, pour augmenter l'offre et faire reculer les prix.",
+        "La flambée des cours du pétrole est liée à la guerre au Moyen-Orient. Le ministre parle d'une inflation importée, causée par une crise internationale que la France subit."
+      ]
+    },
+    {
+      "intertitre": "Ce que cela change pour les TPE et les PME",
+      "paragraphes": [
+        "Pour les artisans, les transporteurs, les livreurs ou les commerçants ambulants, le carburant pèse lourd dans les charges. Une baisse de 20 centimes par litre allège chaque plein, en particulier pour les utilitaires qui roulent au gazole. Elle arrive après plusieurs semaines de prix très élevés, qui ont tendu la trésorerie de nombreuses petites entreprises.",
+        "Un point reste à surveiller : mardi matin, 8 % des stations avaient encore du mal à être approvisionnées, d'après les chiffres officiels."
+      ]
+    },
+    {
+      "intertitre": "Jusqu'à quand ?",
+      "paragraphes": [
+        "L'opération de déstockage doit durer trois mois, soit jusqu'à fin janvier 2027. Les employeurs peuvent aussi verser à leurs salariés une prime carburant, exonérée jusqu'à 1 000 euros pour les sommes versées avant la fin de l'année 2026."
+      ]
+    }
+  ],
+  "mots": 324,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/17/carburants-jusqua-21-centimes-de-baisse-sur-le-gazole-plus-de-90-des-stations-service-ont-reduit-leurs-prix-ce-mardi-13656623.php",
+  "autres_sources": [
+    "https://www.sudouest.fr/economie/energie/carburants/carburants-la-baisse-des-prix-est-effective-dans-plus-de-90-des-stations-service-31559466.php",
+    "https://www.lemonde.fr/economie-francaise/article/2026/11/17/carburant-une-baisse-du-prix-dans-plus-de-90-des-stations-service-selon-mathieu-lefevre_6812943_1656968.html"
+  ],
+  "publie_le": "2026-11-17T10:31:02.000Z",
+  "redige_le": "2026-11-17T11:20:37.550Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/641ba430af17e6c96fa458e820b71757c1a8faa5.webp",
+    "source": "wikimedia",
+    "credit": "Benoît Prieur",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Station-service_en_France_au_retour_de_Wikimania_2016.JPG",
+    "alt": "Une station-service en France",
+    "mots_cles": [
+      "Station-service en France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "329d283ccfd53b1d800e229a324b9ed0886a5ab3",
+  "slug": "casablanca-la-boutique-cote-bougie-mise-sur-la-pierre-et-la-terre-329d28",
+  "titre": "Casablanca : la boutique Côté Bougie mise sur la pierre et la terre cuite",
+  "chapo": "Un nouveau lieu de Casablanca fait de la matière son décor. La boutique Côté Bougie, signée par l'architecte d'intérieur Youssef Benhamou, réunit pierre, terre cuite et plâtre sculpté.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le projet est né de l'envie d'une cliente fidèle de la marque, Salwa Mourid, qui a obtenu une franchise pour la ville. Elle a laissé toute liberté à Youssef Benhamou, fondateur de Benhamou Studio. Il lui a fallu sept mois pour faire d'un local laissé brut un espace de vente.",
+        "Le sol en pierre suit un calepinage dessiné spécialement pour le lieu. Son motif rappelle les ruelles de Marrakech."
+      ]
+    },
+    {
+      "intertitre": "Une palette de matières naturelles",
+      "paragraphes": [
+        "Les murs mêlent ciment et éclats de minéraux, dans des tons de sable doré. Les poteaux sont habillés de briquettes Kasbah en terre cuite, et le chêne fumé complète l'ensemble. Pour créer du contraste, l'architecte a ajouté des étagères et des spots en inox brillant, ainsi qu'un comptoir d'accueil couvert de céramique couleur bordeaux.",
+        "Au centre, un îlot en ciment et en résidus de pierre présente les savons de la marque. Une vasque permet de sentir leurs parfums."
+      ]
+    },
+    {
+      "intertitre": "Un plafond façonné à la main",
+      "paragraphes": [
+        "Le plafond est le point fort de la boutique. Il est né d'une difficulté : la forme irrégulière du local. Des artisans plâtriers l'ont modelé à la main, en suivant des plans d'une grande précision. Ce seul chantier a duré plus de deux mois.",
+        "Pour Youssef Benhamou, l'idée était de construire le lieu autour de l'univers de la marque et de faire vivre l'expérience dès l'entrée, par les odeurs, la lumière et le toucher des matières."
+      ]
+    },
+    {
+      "intertitre": "Des objets de créateurs",
+      "paragraphes": [
+        "Le décor intègre aussi un valet de bronze, création d'Isabelle Stanislas fabriquée par les Ateliers Bataillard, une maison de ferronnerie d'art plus que centenaire. Des photos prises en voyage par Jérôme Petit s'alignent le long d'un mur. Le lieu marie ainsi l'artisanat marocain et un style très contemporain."
+      ]
+    }
+  ],
+  "mots": 314,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "tags": [
+    "matiere:terre-cuite"
+  ],
+  "source_nom": "Maisons du Maroc",
+  "source_url": "https://maisonsdumaroc.com/objets/decoration/sculpter-lexperience",
+  "publie_le": "2026-11-17T10:24:47.000Z",
+  "redige_le": "2026-11-17T11:20:28.078Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/329d283ccfd53b1d800e229a324b9ed0886a5ab3.webp",
+    "source": "wikimedia",
+    "credit": "Pere López Brosa",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Urbanitzaci%C3%B3_Casablanca_-_P1040487.jpg",
+    "alt": "Une vue de la ville de Casablanca, au Maroc",
+    "mots_cles": [
+      "Casablanca"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

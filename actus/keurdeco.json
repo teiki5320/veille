@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-16T18:18:13.054Z",
+  "genere_le": "2026-11-17T11:20:28.078Z",
   "actus": [
+    {
+      "id": "329d283ccfd53b1d800e229a324b9ed0886a5ab3",
+      "titre": "Casablanca : la boutique Côté Bougie mise sur la pierre et la terre cuite",
+      "resume": "À Casablanca, une boutique de la marque Côté Bougie vient d'ouvrir. L'architecte d'intérieur Youssef Benhamou y associe pierre, ciment teinté, briquettes de terre cuite et chêne fumé. Un plafond modelé à la main par des artisans plâtriers forme la pièce maîtresse du lieu.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "tags": [
+        "matiere:terre-cuite"
+      ],
+      "source_nom": "Maisons du Maroc",
+      "source_url": "https://maisonsdumaroc.com/objets/decoration/sculpter-lexperience",
+      "publie_le": "2026-11-17T10:24:47.000Z",
+      "collecte_le": "2026-11-17T11:20:28.078Z",
+      "langue": "fr",
+      "slug": "casablanca-la-boutique-cote-bougie-mise-sur-la-pierre-et-la-terre-329d28",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/329d283ccfd53b1d800e229a324b9ed0886a5ab3.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/329d283ccfd53b1d800e229a324b9ed0886a5ab3.webp",
+        "source": "wikimedia",
+        "credit": "Pere López Brosa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Urbanitzaci%C3%B3_Casablanca_-_P1040487.jpg",
+        "alt": "Une vue de la ville de Casablanca, au Maroc",
+        "mots_cles": [
+          "Casablanca"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "22b03f9aeb5805c09e2597f5dc2752cf2e74ce46",
       "titre": "Lagos : Casa Mouda ouvre deux lieux pour exposer le design d'Afrique de l'Ouest",

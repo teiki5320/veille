@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "5961a9bef7b11f6c99577b49ae034ee0918f517b",
+  "slug": "eliminatoires-can-2027-la-guinee-bat-encore-erythree-le-benin-gagne-la-5961a9",
+  "titre": "Éliminatoires CAN 2027 : la Guinée bat encore l'Érythrée, le Bénin gagne à la 93e",
+  "chapo": "Deux sélections d'Afrique de l'Ouest se sont nettement rapprochées de la CAN 2027, lundi 16 novembre. La Guinée a gagné 3-1 face à l'Érythrée, et le Bénin a battu la Centrafrique 1-0 sur le fil.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Syli national a disputé ce match au stade Al Salam du Caire, en Égypte, où l'Érythrée recevait. Mohamed Soumah a ouvert le score à la 28e minute. Yakhouba Gnagna Barry a ensuite marqué deux fois, à la 52e puis à la 77e minute. Les Érythréens ont sauvé l'honneur dans le temps additionnel.",
+        "Les deux mêmes joueurs avaient déjà trouvé le chemin des filets lors de la victoire 2-1 de la Guinée à Conakry, quatre jours plus tôt. Ils sont les seuls buteurs guinéens sur ces deux rencontres."
+      ]
+    },
+    {
+      "intertitre": "La Guinée en tête du groupe D",
+      "paragraphes": [
+        "Les joueurs de Paulo Duarte enchaînent un troisième succès d'affilée, après leur victoire 1-0 sur le Kenya fin septembre. Avec 9 points, ils passent devant l'Afrique du Sud, qui doit encore affronter le Kenya.",
+        "Si les Sud-Africains gagnent, un simple nul suffira aux Guinéens lors des deux dernières journées, programmées en mars 2027. La Guinée n'avait pas participé à la CAN 2025, organisée au Maroc."
+      ]
+    },
+    {
+      "intertitre": "Le Bénin arrache la victoire à Douala",
+      "paragraphes": [
+        "À Douala, au Cameroun, dans l'enceinte de Japoma, le Bénin a longtemps buté sur la Centrafrique. Entré en jeu quatre minutes plus tôt, Joseph Oloko Ede a inscrit l'unique but de la rencontre à la 90e+3. Les Guépards avaient déjà gagné 4-1 au match aller, chez eux."
+      ]
+    },
+    {
+      "intertitre": "Le Burkina Faso peut qualifier le Bénin",
+      "paragraphes": [
+        "Toujours invaincu dans ces éliminatoires, le Bénin devance de trois points le Burkina Faso dans le groupe F. Si les Étalons gagnent en Mauritanie mardi 17 novembre, les Béninois seront assurés de disputer la phase finale, deux journées avant la fin.",
+        "La CAN 2027 aura lieu au Kenya, en Ouganda et en Tanzanie."
+      ]
+    }
+  ],
+  "mots": 309,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "GN",
+    "BJ"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/can-2027-q-la-guinee-fonce-vers-la-qualif-le-benin-simpose-a-la-93e-et-compte-sur-le-burkina-faso",
+  "publie_le": "2026-11-16T18:24:18.000Z",
+  "redige_le": "2026-11-17T11:20:30.121Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/5961a9bef7b11f6c99577b49ae034ee0918f517b.webp",
+    "source": "wikimedia",
+    "credit": "Radu666",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PAPUA_NEW_GUINEA_NATIONAL_TEAM.jpg",
+    "alt": "Des joueurs de l'équipe de Guinée de football",
+    "mots_cles": [
+      "Guinea national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

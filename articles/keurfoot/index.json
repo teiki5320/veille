@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-16T18:18:13.086Z",
+  "genere_le": "2026-11-17T11:20:35.329Z",
   "articles": [
+    {
+      "id": "f5f69ebd781b028b39fade4f39b40cea1ae6035e",
+      "slug": "tunisie-les-u17-elimines-domicile-la-crise-du-football-tunisien-f5f69e",
+      "titre": "Tunisie : les U17 éliminés à domicile, la crise du football tunisien s'aggrave",
+      "publie_le": "2026-11-17T10:31:00.000Z",
+      "redige_le": "2026-11-17T11:20:30.121Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/f5f69ebd781b028b39fade4f39b40cea1ae6035e.json"
+    },
+    {
+      "id": "965478cb1eb71e74d406a57ba400ea3345203be1",
+      "slug": "can-u23-algerie-renverse-eswatini-3-1-et-file-au-dernier-tour-des-965478",
+      "titre": "CAN U23 : l'Algérie renverse l'Eswatini 3-1 et file au dernier tour des éliminatoires",
+      "publie_le": "2026-11-16T19:27:13.000Z",
+      "redige_le": "2026-11-17T11:20:30.121Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/965478cb1eb71e74d406a57ba400ea3345203be1.json"
+    },
+    {
+      "id": "5961a9bef7b11f6c99577b49ae034ee0918f517b",
+      "slug": "eliminatoires-can-2027-la-guinee-bat-encore-erythree-le-benin-gagne-la-5961a9",
+      "titre": "Éliminatoires CAN 2027 : la Guinée bat encore l'Érythrée, le Bénin gagne à la 93e",
+      "publie_le": "2026-11-16T18:24:18.000Z",
+      "redige_le": "2026-11-17T11:20:30.121Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/5961a9bef7b11f6c99577b49ae034ee0918f517b.json"
+    },
     {
       "id": "45118ce350a907030dd352a8d9ab1a8b44f1c5bb",
       "slug": "eliminatoires-can-2027-en-deuil-thomas-partey-devrait-manquer-ghana-45118c",

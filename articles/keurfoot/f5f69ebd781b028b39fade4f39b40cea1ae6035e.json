@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "f5f69ebd781b028b39fade4f39b40cea1ae6035e",
+  "slug": "tunisie-les-u17-elimines-domicile-la-crise-du-football-tunisien-f5f69e",
+  "titre": "Tunisie : les U17 éliminés à domicile, la crise du football tunisien s'aggrave",
+  "chapo": "Le football tunisien traverse une période noire. Après les revers de l'équipe première, les moins de 17 ans ont été éliminés chez eux du tournoi qualificatif pour la CAN de leur catégorie.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La Tunisie accueillait le tournoi de l'UNAF, la zone nord-africaine, avec deux places qualificatives en jeu. Les jeunes Tunisiens ont perdu leur premier match contre l'Égypte (2-1), puis battu l'Algérie 4-1. La lourde défaite 5-1 face au Maroc les a renvoyés à la dernière place, avec trois points. L'Algérie et l'Égypte se qualifient."
+      ]
+    },
+    {
+      "intertitre": "Neuf matchs sans victoire pour les Aigles de Carthage",
+      "paragraphes": [
+        "La semaine dernière, à Sfax, l'équipe première s'est inclinée 2-0 contre la Libye, malgré une large possession du ballon. Elle reste ainsi sur neuf rencontres sans succès, ce qui ne lui était plus arrivé depuis 1989.",
+        "Depuis 2024, les sélectionneurs se succèdent. Au dernier Mondial, l'équipe a été éliminée au premier tour, avec trois revers en trois matchs. Nommé sur le banc en septième position depuis 2024, Mouine Chaâbani a jugé après la Libye que le problème tenait d'abord à l'état d'esprit du groupe."
+      ]
+    },
+    {
+      "intertitre": "Un président qui reste en place",
+      "paragraphes": [
+        "Moez Nasri, à la tête de la fédération du pays, a annoncé qu'il restait en fonction. L'ancien capitaine Radhi Jaïdi plaide, lui, pour une reconstruction par la base : des spécialistes pour encadrer les jeunes, un meilleur suivi des entraîneurs et des équipements modernes.",
+        "Selon la presse spécialisée, les centres de formation sont délaissés et beaucoup de clubs manquent d'argent. Dans ces conditions, convaincre les meilleurs binationaux de choisir la Tunisie devient plus difficile."
+      ]
+    },
+    {
+      "intertitre": "Loin de l'époque de la CAN 2004",
+      "paragraphes": [
+        "La Tunisie a longtemps été une référence sur le continent. Au cours des années 1990 puis 2000, ses clubs brillaient en compétitions africaines, et la sélection a remporté la CAN 2004 à domicile, après une finale gagnée 2-1 contre le Maroc.",
+        "Depuis, plusieurs pays voisins ont investi bien davantage dans leurs académies et leurs infrastructures."
+      ]
+    }
+  ],
+  "mots": 320,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "TN"
+  ],
+  "competition": null,
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/tunisie-des-u17-aux-aigles-de-carthage-le-naufrage-continue",
+  "publie_le": "2026-11-17T10:31:00.000Z",
+  "redige_le": "2026-11-17T11:20:30.121Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/f5f69ebd781b028b39fade4f39b40cea1ae6035e.webp",
+    "source": "wikimedia",
+    "credit": "Assabah",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tunisia_National_Football_Team_1978.jpg",
+    "alt": "L'équipe de Tunisie de football",
+    "mots_cles": [
+      "Tunisia national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "985020d97f031533793bd7f9d553b9f011660d5e",
+  "slug": "kigali-boubacar-boris-diop-parle-de-page-blanche-et-ia-avec-des-985020",
+  "titre": "Kigali : Boubacar Boris Diop parle de page blanche et d'IA avec des lycéens",
+  "chapo": "Au Rwanda, l'auteur sénégalais Boubacar Boris Diop a échangé avec des lycéens sur la création littéraire. Pas de cours magistral : une conversation libre, comme entre un grand-père et ses petits-enfants.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La rencontre s'est tenue à la Green Hills Academy, un établissement de Kigali. Vingt-cinq élèves y ont participé, avec leur enseignante Phoebe Mwavu. Ils venaient du Rwanda, mais aussi d'Ouganda, du Kenya, de Tanzanie, du Congo, du Nigeria, du Soudan, du Ghana ou d'Inde. L'échange, d'environ une heure, s'est fait en français et en anglais.",
+        "Il était organisé par l'école et par GPS, une plateforme tournée vers les pays du Sud, dont Boris Diop est cofondateur. Jean-Pierre Karegeye, directeur exécutif de GPS, accompagnait l'écrivain."
+      ]
+    },
+    {
+      "intertitre": "Comment naît un roman",
+      "paragraphes": [
+        "C'était le souhait de l'auteur : parler à des jeunes sans la solennité d'une conférence. Les questions ont porté sur le point de départ d'un livre, la construction des personnages et le temps qu'il faut pour conduire une histoire jusqu'à son dénouement. Les élèves voulaient aussi savoir si un personnage peut échapper à celui qui l'invente.",
+        "À deux reprises, ils sont revenus sur la page blanche : que faire quand on n'arrive pas à commencer, ou à poursuivre ? Ils ont aussi appris que l'écrivain avait écrit son premier roman à 16 ans."
+      ]
+    },
+    {
+      "intertitre": "L'intelligence artificielle en débat",
+      "paragraphes": [
+        "Les lycéens se sont demandé si l'IA pourrait remplacer les écrivains. Pour Boris Diop, l'outil peut rendre service, mais il devient un risque lorsqu'il prend la place de la réflexion et de l'imagination de l'élève. Il estime qu'apprendre à utiliser la technologie doit aller de pair avec l'habitude de la questionner et d'assumer ses propres mots."
+      ]
+    },
+    {
+      "intertitre": "Une résonance particulière au Rwanda",
+      "paragraphes": [
+        "La venue de l'auteur avait un sens fort dans ce pays. Boubacar Boris Diop a signé « Murambi, le livre des ossements », un roman consacré au génocide des Tutsi, qui a fait entre 800 000 et plus d'un million de morts d'avril à juillet 1994. Le livre, paru en 2000, est né du projet « Rwanda : écrire par devoir de mémoire ».",
+        "GPS veut prolonger ces rencontres dans d'autres lycées, avec des ateliers d'écriture et des lectures d'auteurs du Sud global."
+      ]
+    }
+  ],
+  "mots": 360,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "RW",
+    "SN"
+  ],
+  "tags": [
+    "auteur:boubacar-boris-diop"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/boubacar-boris-diop-green-hills-academy-rwanda-when-literature-brings-generations-together",
+  "publie_le": "2026-11-17T08:09:59.000Z",
+  "redige_le": "2026-11-17T11:20:24.979Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/985020d97f031533793bd7f9d553b9f011660d5e.webp",
+    "source": "wikimedia",
+    "credit": "Photographe de la Ville de Saint-Dié-des-Vosges, dans le cadre de sa mission ; scan par Ji-Elle",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Diop,_Barry,_Epanya,_Sow_Fall,_Rano-FIG_2000.jpg",
+    "alt": "Portrait de l'écrivain sénégalais Boubacar Boris Diop",
+    "mots_cles": [
+      "Boubacar Boris Diop"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

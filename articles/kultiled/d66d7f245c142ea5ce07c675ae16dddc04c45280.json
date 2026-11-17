@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "d66d7f245c142ea5ce07c675ae16dddc04c45280",
+  "slug": "plante-de-jade-en-novembre-plus-de-lumiere-moins-eau-et-pas-engrais-d66d7f",
+  "titre": "Plante de jade en novembre : plus de lumière, moins d'eau et pas d'engrais",
+  "chapo": "Avec l'arrivée de l'hiver, la plante de jade entre dans une phase de repos. Pour la garder en forme, il faut adapter son entretien : moins d'eau, plus de lumière et un emplacement à l'abri des écarts de température.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La plante de jade, Crassula ovata de son nom latin, est une succulente qui peut vivre plusieurs décennies. En novembre, les journées raccourcissent et la lumière qui traverse les fenêtres faiblit. La plante ralentit alors fortement sa croissance. Garder les habitudes de l'été peut provoquer la chute des feuilles, des tiges molles ou des pousses allongées et fragiles."
+      ]
+    },
+    {
+      "intertitre": "Arroser beaucoup moins",
+      "paragraphes": [
+        "C'est le geste le plus important. En hiver, les racines absorbent l'eau lentement, et un terreau humide pendant des semaines favorise la pourriture. Avant d'arroser, on enfonce un doigt de 2,5 à 5 cm dans la terre, ou une baguette en bois jusqu'au fond du pot : on n'arrose que si le substrat est sec.",
+        "Il est aussi utile de vérifier que les trous de drainage ne sont pas bouchés, et de dépoussiérer les feuilles avec une brosse douce pour qu'elles captent mieux la lumière."
+      ]
+    },
+    {
+      "intertitre": "Lui donner le maximum de lumière",
+      "paragraphes": [
+        "La plante de jade réclame 4 à 6 heures de lumière vive et directe chaque jour. En hiver, une fenêtre orientée à l'est ou à l'ouest ne suffit souvent plus. Mieux vaut l'installer devant une fenêtre plein sud, en la déplaçant progressivement sur trois ou quatre jours pour éviter les brûlures.",
+        "Des feuilles nouvelles pâles ou des tiges qui s'étirent signalent un manque de lumière. Dans ce cas, une ampoule LED horticole à spectre complet, placée à 30 ou 45 cm au-dessus du feuillage, peut prendre le relais 10 à 12 heures par jour. On l'éteint la nuit : l'obscurité et la fraîcheur nocturne aident les plantes adultes à former des boutons floraux."
+      ]
+    },
+    {
+      "intertitre": "Chaleur, engrais et parasites",
+      "paragraphes": [
+        "La plante ne supporte ni le gel ni les écarts brusques. On l'écarte de 8 à 15 cm des vitres froides, loin des portes d'entrée et des radiateurs. L'idéal : 16 à 24 °C le jour et 10 à 13 °C la nuit.",
+        "L'engrais se range jusqu'en février. Enfin, l'air sec du chauffage favorise les cochenilles : on inspecte le dessous des feuilles et les jonctions des tiges."
+      ]
+    }
+  ],
+  "mots": 376,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "source_nom": "Gardening Know How",
+  "source_url": "https://www.gardeningknowhow.com/houseplants/what-your-jade-plant-needs-in-november",
+  "publie_le": "2026-11-17T07:37:24.000Z",
+  "redige_le": "2026-11-17T11:20:35.338Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/d66d7f245c142ea5ce07c675ae16dddc04c45280.webp",
+    "source": "wikimedia",
+    "credit": "W.carter",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Among_the_branches_of_a_potted_jade_plant.jpg",
+    "alt": "Une plante de jade (Crassula ovata) en pot",
+    "mots_cles": [
+      "Crassula ovata"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

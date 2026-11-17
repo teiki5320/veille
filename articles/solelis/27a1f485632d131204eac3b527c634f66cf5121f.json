@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "27a1f485632d131204eac3b527c634f66cf5121f",
+  "slug": "auto-entrepreneurs-un-revenu-moyen-de-7-700-euros-en-2025-en-legere-27a1f4",
+  "titre": "Auto-entrepreneurs : un revenu moyen de 7 700 euros en 2025, en légère hausse",
+  "chapo": "Le revenu moyen des auto-entrepreneurs repart un peu à la hausse. L'Urssaf l'évalue à 7 700 euros pour l'année 2025, mais il reste faible pour une majorité d'entre eux.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans sa dernière étude, l'Urssaf mesure une progression de 1,8 % en un an, en euros courants. Une fois l'inflation retirée, le gain tombe à 0,9 %. C'est tout de même un changement de tendance : ce revenu avait reculé deux années de suite en euros constants : -3,2 % en 2023, puis -0,6 % l'année suivante.",
+        "En 2025, ils étaient 2,18 millions à faire état de recettes positives."
+      ]
+    },
+    {
+      "intertitre": "De forts écarts selon les métiers",
+      "paragraphes": [
+        "L'amélioration ne touche que quelques activités : l'immobilier et la finance, la santé, puis l'informatique et la communication. En revanche, les taxis et VTC voient leur revenu moyen baisser encore, tout comme l'hébergement.",
+        "Plus de la moitié des auto-entrepreneurs gagnent moins de 4 000 euros dans l'année. Seuls 16,9 % dépassent 15 000 euros. Le revenu moyen des femmes s'établit à 6 900 euros, celui des hommes à 8 400 euros : un écart de 17,9 %, qui ne bouge pas."
+      ]
+    },
+    {
+      "intertitre": "Plus nombreux, mais pas plus riches",
+      "paragraphes": [
+        "Au total, les revenus cumulés de tous ces indépendants s'élèvent à 16,8 milliards d'euros, soit 6,2 % de mieux qu'un an plus tôt. Cette croissance tient surtout à leur nombre, qui progresse de 4,3 %, plus qu'à l'amélioration du revenu de chacun.",
+        "Fin décembre 2025, l'Urssaf comptait 3,031 millions d'auto-entrepreneurs actifs sur le plan administratif, un nombre en hausse de 4,5 %. Au cours de l'année, 793 000 immatriculations ont été enregistrées, contre 663 000 radiations."
+      ]
+    },
+    {
+      "intertitre": "Peu de marge en cas de coup dur",
+      "paragraphes": [
+        "Avec moins de 4 000 euros par an pour la moitié d'entre eux, la marge de manœuvre reste mince en cas de baisse d'activité ou de cotisations en retard. Un auto-entrepreneur en difficulté peut demander à l'Urssaf un délai pour régler ses cotisations, avant que la dette ne s'alourdisse."
+      ]
+    }
+  ],
+  "mots": 324,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-urssaf"
+  ],
+  "source_nom": "Le Journal des Entreprises",
+  "source_url": "https://www.lejournaldesentreprises.com/article/le-revenu-annuel-moyen-des-auto-entrepreneurs-repart-la-hausse-en-2025-2148518",
+  "publie_le": "2026-11-17T07:21:43.000Z",
+  "redige_le": "2026-11-17T11:20:37.550Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/27a1f485632d131204eac3b527c634f66cf5121f.webp",
+    "source": "wikimedia",
+    "credit": "JPC38",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_des_Alli%C3%A9s_(CAF_URSSAF).jpg",
+    "alt": "Le logo ou un bâtiment de l'Urssaf",
+    "mots_cles": [
+      "Urssaf"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
