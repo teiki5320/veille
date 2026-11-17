@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-17T11:20:35.329Z",
+  "genere_le": "2026-11-17T18:18:21.665Z",
   "articles": [
+    {
+      "id": "8ca4996b1ab469da39ccd0433d9e7781720b59c6",
+      "slug": "can-2027-le-senegal-premier-pays-qualifie-aide-par-la-victoire-du-8ca499",
+      "titre": "CAN 2027 : le Sénégal premier pays qualifié, aidé par la victoire du Mozambique",
+      "publie_le": "2026-11-17T14:56:02.000Z",
+      "redige_le": "2026-11-17T18:18:20.107Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/8ca4996b1ab469da39ccd0433d9e7781720b59c6.json"
+    },
     {
       "id": "f5f69ebd781b028b39fade4f39b40cea1ae6035e",
       "slug": "tunisie-les-u17-elimines-domicile-la-crise-du-football-tunisien-f5f69e",

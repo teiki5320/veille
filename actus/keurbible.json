@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-17T11:20:24.940Z",
+  "genere_le": "2026-11-17T18:18:15.841Z",
   "actus": [
+    {
+      "id": "a3b984589f38e9e988d83177bb4cbcca0816edd9",
+      "titre": "Ghana : les évêques lancent la préparation des 150 ans de l'Église catholique en 2030",
+      "resume": "Réunis en assemblée plénière dans le diocèse de Konongo-Mampong, les évêques catholiques du Ghana ont appelé les fidèles à un renouveau spirituel. Ils préparent les 150 ans de la présence catholique dans le pays, célébrés en 2030. Un programme de festivités sera publié et commencera en 2027.",
+      "theme": "culture",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "Vatican News Africa",
+      "source_url": "https://www.vaticannews.va/en/africa/news/2026-11/ghana-catholic-bishops-call-for-spiritual-renewal-and-pastoral.html",
+      "publie_le": "2026-11-17T11:20:00.000Z",
+      "collecte_le": "2026-11-17T18:18:15.841Z",
+      "langue": "en",
+      "slug": "ghana-les-eveques-lancent-la-preparation-des-150-ans-de-eglise-a3b984",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/a3b984589f38e9e988d83177bb4cbcca0816edd9.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/a3b984589f38e9e988d83177bb4cbcca0816edd9.webp",
+        "source": "wikimedia",
+        "credit": "No machine-readable author provided. Pgallert assumed (based on copyright claims).",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Holy_Spirit_Cathedral,_Accra-information.jpg",
+        "alt": "La cathédrale du Saint-Esprit, à Accra, au Ghana",
+        "mots_cles": [
+          "Holy Spirit Cathedral Accra"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "baabe644b66fa9970e794d5c62be78098db53ca4",
+      "titre": "Cameroun : 500 catéchistes réunis à Mbalmayo, un centre de formation encouragé",
+      "resume": "Entre le 9 et le 12 novembre, près de 500 catéchistes venus de sept diocèses rattachés à l'archevêché de Yaoundé se sont retrouvés à Mbalmayo. Ils ont partagé leurs expériences et leurs difficultés. Les évêques ont encouragé l'ouverture d'un centre provincial de formation et un programme commun.",
+      "theme": "culture",
+      "pays": [
+        "CM"
+      ],
+      "source_nom": "Vatican News",
+      "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/cameroun-a-mbalmayo-l-eglise-reaffirme-la-place-essentielle-de.html",
+      "publie_le": "2026-11-16T17:24:00.000Z",
+      "collecte_le": "2026-11-17T18:18:15.841Z",
+      "langue": "fr",
+      "slug": "cameroun-500-catechistes-reunis-mbalmayo-un-centre-de-formation-baabe6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/baabe644b66fa9970e794d5c62be78098db53ca4.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/baabe644b66fa9970e794d5c62be78098db53ca4.webp",
+        "source": "wikimedia",
+        "credit": "Frederic PAPY",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_des_Victoires_Yaound%C3%A9_Cameroun.jpg",
+        "alt": "La cathédrale Notre-Dame-des-Victoires de Yaoundé, au Cameroun",
+        "mots_cles": [
+          "Cathédrale Notre-Dame-des-Victoires de Yaoundé"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "1541dc09fe04d967cf81d6f1f954511e83eb665a",
       "titre": "Côte d'Ivoire : Mgr Armand Koné invite les communautés nouvelles à vivre unies",

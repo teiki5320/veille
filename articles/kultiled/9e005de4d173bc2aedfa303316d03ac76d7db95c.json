@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "9e005de4d173bc2aedfa303316d03ac76d7db95c",
+  "slug": "lumiere-rouge-lointain-des-semis-plus-reguliers-mais-des-tiges-plus-9e005d",
+  "titre": "Lumière rouge lointain : des semis plus réguliers, mais des tiges plus longues",
+  "chapo": "Ajouter ou non du rouge lointain dans l'éclairage des semis change la façon dont les plants se partagent la lumière. Une équipe japonaise montre qu'il faut choisir entre des plants réguliers et des plants trapus.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'étude vient de l'université métropolitaine d'Osaka, au Japon. L'équipe du professeur Toshio Shibuya, à l'école doctorale d'agriculture, a fait pousser des jeunes tournesols en forte densité. Les plants étaient disposés en damier, avec deux hauteurs de départ qui différaient de 20 millimètres.",
+        "Une moitié a grandi sous une lumière contenant du rouge lointain, l'autre sous une lumière qui en était privée. Les chercheurs ont ensuite comparé la croissance, l'aspect, la photosynthèse et les écarts entre plants. Les résultats sont parus dans la revue Scientia Horticulturae."
+      ]
+    },
+    {
+      "intertitre": "Pourquoi le rouge lointain compte",
+      "paragraphes": [
+        "Dans la nature, une plante repère ses voisines grâce à la lumière. Quand elle reçoit moins de rouge par rapport au rouge lointain, elle comprend qu'elle risque d'être à l'ombre. Elle allonge alors sa tige pour aller chercher la lumière. C'est ce qu'on appelle l'évitement de l'ombre.",
+        "Pour produire des plants à repiquer, on préfère au contraire des tiges courtes et beaucoup de feuilles. C'est pourquoi les pépinières utilisent souvent des LED blanches qui émettent très peu de rouge lointain."
+      ]
+    },
+    {
+      "intertitre": "Des plants égaux ou des plants trapus",
+      "paragraphes": [
+        "Sous rouge lointain, les tournesols ont poussé de manière plus homogène : les écarts de taille et de feuilles entre individus se sont réduits. En contrepartie, les tiges se sont allongées et les plants ont consacré moins de matière à leurs feuilles.",
+        "Sans rouge lointain, les plants partis plus haut ont capté davantage de lumière pendant toute la culture. Ils ont grandi plus vite que leurs voisins placés plus bas. Le lot est devenu très inégal, en taille comme en forme et en photosynthèse."
+      ]
+    },
+    {
+      "intertitre": "Ce que cela change pour l'éclairage",
+      "paragraphes": [
+        "Pour Yukari Nishimura, première autrice de l'étude, il faut penser à la fois à chaque plant et à l'ensemble du lot quand on règle la lumière d'une culture sous éclairage artificiel.",
+        "L'équipe veut maintenant associer la qualité de la lumière à d'autres réglages, comme la densité de plantation et la façon d'éclairer. Le but est d'obtenir des plants à la fois robustes et réguliers, ce qui intéresse aussi ceux qui font leurs semis en intérieur sous LED."
+      ]
+    }
+  ],
+  "mots": 379,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "JP"
+  ],
+  "source_nom": "Phys.org",
+  "source_url": "https://phys.org/news/2026-11-uniformity-red-effects-growth.html",
+  "publie_le": "2026-11-17T14:40:25.000Z",
+  "redige_le": "2026-11-17T18:18:21.667Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/9e005de4d173bc2aedfa303316d03ac76d7db95c.webp",
+    "source": "wikimedia",
+    "credit": "Hildabast",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dwarf_sunflower_seedling.jpg",
+    "alt": "De jeunes plants de tournesol",
+    "mots_cles": [
+      "Sunflower seedlings"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

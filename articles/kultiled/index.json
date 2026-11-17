@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-17T11:20:37.541Z",
+  "genere_le": "2026-11-17T18:18:24.758Z",
   "articles": [
+    {
+      "id": "9e005de4d173bc2aedfa303316d03ac76d7db95c",
+      "slug": "lumiere-rouge-lointain-des-semis-plus-reguliers-mais-des-tiges-plus-9e005d",
+      "titre": "Lumière rouge lointain : des semis plus réguliers, mais des tiges plus longues",
+      "publie_le": "2026-11-17T14:40:25.000Z",
+      "redige_le": "2026-11-17T18:18:21.667Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/9e005de4d173bc2aedfa303316d03ac76d7db95c.json"
+    },
     {
       "id": "d66d7f245c142ea5ce07c675ae16dddc04c45280",
       "slug": "plante-de-jade-en-novembre-plus-de-lumiere-moins-eau-et-pas-engrais-d66d7f",

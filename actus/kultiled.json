@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-17T11:20:35.338Z",
+  "genere_le": "2026-11-17T18:18:21.667Z",
   "actus": [
+    {
+      "id": "9e005de4d173bc2aedfa303316d03ac76d7db95c",
+      "titre": "Lumière rouge lointain : des semis plus réguliers, mais des tiges plus longues",
+      "resume": "Des chercheurs de l'université métropolitaine d'Osaka ont cultivé des jeunes tournesols très serrés, sous LED avec ou sans rouge lointain. Avec cette lumière, les plants poussent de façon plus homogène, mais ils s'allongent et font moins de feuilles. Sans elle, les plants les mieux placés dominent les autres.",
+      "theme": "culture-interieur",
+      "pays": [
+        "JP"
+      ],
+      "source_nom": "Phys.org",
+      "source_url": "https://phys.org/news/2026-11-uniformity-red-effects-growth.html",
+      "publie_le": "2026-11-17T14:40:25.000Z",
+      "collecte_le": "2026-11-17T18:18:21.667Z",
+      "langue": "en",
+      "slug": "lumiere-rouge-lointain-des-semis-plus-reguliers-mais-des-tiges-plus-9e005d",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/9e005de4d173bc2aedfa303316d03ac76d7db95c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/9e005de4d173bc2aedfa303316d03ac76d7db95c.webp",
+        "source": "wikimedia",
+        "credit": "Hildabast",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Dwarf_sunflower_seedling.jpg",
+        "alt": "De jeunes plants de tournesol",
+        "mots_cles": [
+          "Sunflower seedlings"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "d66d7f245c142ea5ce07c675ae16dddc04c45280",
       "titre": "Plante de jade en novembre : plus de lumière, moins d'eau et pas d'engrais",

@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-17T11:20:24.970Z",
+  "genere_le": "2026-11-17T18:18:20.078Z",
   "articles": [
+    {
+      "id": "a3b984589f38e9e988d83177bb4cbcca0816edd9",
+      "slug": "ghana-les-eveques-lancent-la-preparation-des-150-ans-de-eglise-a3b984",
+      "titre": "Ghana : les évêques lancent la préparation des 150 ans de l'Église catholique en 2030",
+      "publie_le": "2026-11-17T11:20:00.000Z",
+      "redige_le": "2026-11-17T18:18:15.841Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/a3b984589f38e9e988d83177bb4cbcca0816edd9.json"
+    },
+    {
+      "id": "baabe644b66fa9970e794d5c62be78098db53ca4",
+      "slug": "cameroun-500-catechistes-reunis-mbalmayo-un-centre-de-formation-baabe6",
+      "titre": "Cameroun : 500 catéchistes réunis à Mbalmayo, un centre de formation encouragé",
+      "publie_le": "2026-11-16T17:24:00.000Z",
+      "redige_le": "2026-11-17T18:18:15.841Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/baabe644b66fa9970e794d5c62be78098db53ca4.json"
+    },
     {
       "id": "1541dc09fe04d967cf81d6f1f954511e83eb665a",
       "slug": "cote-ivoire-mgr-armand-kone-invite-les-communautes-nouvelles-vivre-1541dc",

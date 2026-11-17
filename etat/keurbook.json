@@ -1,46 +1,5 @@
 {
   "deja_vus": {
-    "64dcc1b9a9d0177ed3d83059ede63f5c2925a979": "2026-11-07T11:20:53.508Z",
-    "e97386aa597bf0d93b904ba3ecaee9ae5964b2dd": "2026-11-07T11:20:53.508Z",
-    "6d4e6e45b7f4fc939462367757428e6724d927df": "2026-11-07T11:20:53.508Z",
-    "7d0e66db924e6662443075e7f8c722a3cacc9c97": "2026-11-07T11:20:53.508Z",
-    "d8e7cb66e0d5e6bee9c19c381198a6bac2f6bd80": "2026-11-07T11:20:53.508Z",
-    "1214c7369f4ad6384121d49b13b24be644452d23": "2026-11-07T11:20:53.508Z",
-    "bd6bceb7522b137150386f9a11d9d50453a1f94c": "2026-11-07T11:20:53.508Z",
-    "e1a54cfafe1164bfbb7b85ee3ab17d934909948d": "2026-11-07T11:20:53.508Z",
-    "e0e8c096d76563f448321e5ff7d2ef2ffda88fc9": "2026-11-07T11:20:53.508Z",
-    "a0e95cfa47082f0ef9ace44cdfedf02eb6cd0582": "2026-11-07T11:20:53.508Z",
-    "79eb6dda24323a69a6813f1de50d2df26517fc51": "2026-11-07T11:20:53.508Z",
-    "2b18e2f6b8201655ec6853b71973689d7ad12536": "2026-11-07T11:20:53.508Z",
-    "e805942218ebce97e2839fde84b4b3e858a39ec5": "2026-11-07T11:20:53.508Z",
-    "589c493982b94d935a972419ea68b7f737144fe8": "2026-11-07T11:20:53.508Z",
-    "663948ad8dd13f1f105962ce98e013df69a8e44b": "2026-11-07T11:20:53.508Z",
-    "1355f10dd6874970aeb26f533835426f8e2109f6": "2026-11-07T11:20:53.508Z",
-    "3a904f5e16789671a1c40e353c091a5144ea82e7": "2026-11-07T11:20:53.508Z",
-    "0630e92278410fc4f2f76cd600aa13c1462a36eb": "2026-11-07T11:20:53.508Z",
-    "3d414aac0cb74c777b4334007cb349b438ccdaea": "2026-11-07T11:20:53.508Z",
-    "9d8d7292d8f2202d77b829d68f534017f2bf843c": "2026-11-07T11:20:53.508Z",
-    "c0e13d36fb49177b972319d3122dc8dde29ed25f": "2026-11-07T11:20:53.508Z",
-    "1296a50ddaac45fbd2f32fa5a80816842ff7911f": "2026-11-07T11:20:53.508Z",
-    "f9c68ec41305bfda919741918210acedce5038f2": "2026-11-07T11:20:53.508Z",
-    "713fc5a1b1213171834fef5479f9ac32b9b032a1": "2026-11-07T11:20:53.508Z",
-    "91715b126c18f25a2186e763e2479c1c93dd0246": "2026-11-07T18:16:25.011Z",
-    "9ae6be0adb9917601af546b5701d6fdb910a3e59": "2026-11-07T18:16:25.011Z",
-    "c1496bb0bdc05c941997d882e33cfbd8f7372f82": "2026-11-07T18:16:25.011Z",
-    "84d057d325cb4de049d3de35f343b78ed891d92f": "2026-11-07T18:16:25.011Z",
-    "deb67f2325431a6ad1f583d2a45427be39dcd1d4": "2026-11-07T18:16:25.011Z",
-    "b363fe23e6dacab6c5029189d65b66947eff15b5": "2026-11-07T18:16:25.011Z",
-    "9b44b227d8b204b7b6414f5a21323af422308846": "2026-11-07T18:16:25.011Z",
-    "ba6a6aa426756ee8cfa243ce18713f4d36a696ed": "2026-11-07T18:16:25.011Z",
-    "e1d6005660b1d08b8ddc6d57e74b273c998c4fc9": "2026-11-07T18:16:25.011Z",
-    "e850ec0f99740bca35770a4a33f94b165ba98378": "2026-11-07T18:16:25.011Z",
-    "5766e296eb6bd0ef4d37f5d7bb0aa282a235a5f1": "2026-11-07T18:16:25.011Z",
-    "486baca5bca88316bd57db10481b7b3c8b5e3160": "2026-11-07T18:16:25.011Z",
-    "2f1d3f0b7bf1f2dd7b35d8223784df96704fcda8": "2026-11-07T18:16:25.011Z",
-    "bf4d10d821b824220ce9e3cb505c75652ce619e6": "2026-11-07T18:16:25.011Z",
-    "ef8998cbaf0cf0b10ec3a21a6d6cf8a92b7a637d": "2026-11-07T18:16:25.011Z",
-    "26db2142b7a1b4de3de3f4d5f917a3830c71d252": "2026-11-07T18:16:25.011Z",
-    "cb3cde98fb69d641be5a619e4e2d32cbcbebf459": "2026-11-07T18:16:25.011Z",
     "3ed46f2ef63b5233f05717effa281507a0481e53": "2026-11-08T11:19:58.884Z",
     "542ef363c9f55f0f43caaeb29020c469ea69e7a4": "2026-11-08T11:19:58.884Z",
     "98323b3e54944e1ab48cfafb5b4173e557a41f99": "2026-11-08T11:19:58.884Z",
@@ -536,7 +495,37 @@
     "f851b6e1d8ef2a5188eba0c2004eb25c31d8f141": "2026-11-17T11:20:24.979Z",
     "9fb985ac25cc9993ab151b928e0e2e5b31b3f8be": "2026-11-17T11:20:24.979Z",
     "23284cfed9105d175257153907ffcdc929f94653": "2026-11-17T11:20:24.979Z",
-    "b60fd9c3052071d29035775b042f655ce8caa815": "2026-11-17T11:20:24.979Z"
+    "b60fd9c3052071d29035775b042f655ce8caa815": "2026-11-17T11:20:24.979Z",
+    "422012c8a80b12551faedc2df592d4a2feddeeb4": "2026-11-17T18:18:20.078Z",
+    "9fcb735ba1c92139ecfa7130c793b89f8cea00d7": "2026-11-17T18:18:20.078Z",
+    "ee7ce420f1f5e0834a6b6a967f7b9ec05734638e": "2026-11-17T18:18:20.078Z",
+    "1b76b7c939b395afb58c3158cfe0cefc7a8e6a37": "2026-11-17T18:18:20.078Z",
+    "5931c932f65bafef445d55c4946e4cd88af4f347": "2026-11-17T18:18:20.078Z",
+    "61fdb3d297a8983db402873305cab20fc73c508f": "2026-11-17T18:18:20.078Z",
+    "ec34da9a26a3dd16d88ad90ccd6c0df0e34dee12": "2026-11-17T18:18:20.078Z",
+    "881e80069c2ab12a474be83cc4e6dcf5e1106620": "2026-11-17T18:18:20.078Z",
+    "104089aa9f5af5fb43aa6929d1b060226cad5aed": "2026-11-17T18:18:20.078Z",
+    "3645a992a3a8269f5a2354713114da12d375f32b": "2026-11-17T18:18:20.078Z",
+    "b3139d95bf4748c6166e202f478ba914134cd371": "2026-11-17T18:18:20.078Z",
+    "b928249a6c0289a7d8e71b09bdffdba37a33f360": "2026-11-17T18:18:20.078Z",
+    "17d4e37a3e4568a1225ba4b6666f77b0134eab2e": "2026-11-17T18:18:20.078Z",
+    "9902419c0eced4865c1553539171aa1bcc8f304a": "2026-11-17T18:18:20.078Z",
+    "94c648a866ae91b5fcedb59d670188b6d594cac8": "2026-11-17T18:18:20.078Z",
+    "00f9b1ac80c6de20310172df60a5cb4c9ed98a99": "2026-11-17T18:18:20.078Z",
+    "74b7e657109e0402a9352678291fd22d6a18c855": "2026-11-17T18:18:20.078Z",
+    "cd4fe23859f35b158af0cdde787912cb5f33c894": "2026-11-17T18:18:20.078Z",
+    "f632032c78f5a93252248eb0ffad902a517854e2": "2026-11-17T18:18:20.078Z",
+    "bf690ca28adab933c308fcb84282acf559312c61": "2026-11-17T18:18:20.078Z",
+    "7b1dabc547795462f479269bdaf43b5f491bae37": "2026-11-17T18:18:20.078Z",
+    "85dfcf50957ca4d1aa005d9f63db01461a752f90": "2026-11-17T18:18:20.078Z",
+    "2194fa5099fb60d0f8be4dff6645898225edb838": "2026-11-17T18:18:20.078Z",
+    "bbcc06a3ba4dd334ca821e4a7ef86a4924c3f27b": "2026-11-17T18:18:20.078Z",
+    "61b0be27af7fc21aaabf349f48016ffc9ffc1ab1": "2026-11-17T18:18:20.078Z",
+    "aed24222c5451d1e4cd5d81ae5a1cd6577b6850d": "2026-11-17T18:18:20.078Z",
+    "a890b0d62aa028b0b50976d95b8d32d26534412c": "2026-11-17T18:18:20.078Z",
+    "22c479097d9f6eec740580e8cb3e58ce0516012c": "2026-11-17T18:18:20.078Z",
+    "3b0a219670de3675b4a729e21e789d901b10ff71": "2026-11-17T18:18:20.078Z",
+    "ea21140d2ceec24ca4d1af7c87fac58ffdac45f8": "2026-11-17T18:18:20.078Z"
   },
   "flux": {
     "https://africultures.com/feed/": {
@@ -549,65 +538,65 @@
     "https://www.jeuneafrique.com/rubriques/culture/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 6
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 2
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
       "articles": 4
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
       "articles": 10
     },
     "https://www.livreshebdo.fr/rss.xml": {
       "nom": "Livres Hebdo",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 6
     },
     "https://www.lemonde.fr/livres/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 0
     },
     "https://www.actuabd.com/spip.php?page=backend": {
       "nom": "ActuaBD",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
       "articles": 1
     },
     "https://www.bdzoom.com/feed/": {
       "nom": "BDZoom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-17T11:12:31.783Z",
+      "dernier_succes": "2026-11-17T18:12:28.788Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     }
   },
   "images_recentes": [

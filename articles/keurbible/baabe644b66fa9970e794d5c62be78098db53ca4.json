@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "baabe644b66fa9970e794d5c62be78098db53ca4",
+  "slug": "cameroun-500-catechistes-reunis-mbalmayo-un-centre-de-formation-baabe6",
+  "titre": "Cameroun : 500 catéchistes réunis à Mbalmayo, un centre de formation encouragé",
+  "chapo": "Pendant quatre jours, des centaines de catéchistes du centre du Cameroun ont pris la parole devant leurs évêques. Ils repartent avec des pistes concrètes pour mieux se former et être mieux soutenus.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La rencontre a eu lieu entre le 9 et le 12 novembre à Mbalmayo, ville située au sud de Yaoundé. Ils étaient près de 500, venus de sept diocèses rattachés à l'archevêché de la capitale. Il s'agissait de la deuxième édition annuelle des assises de la CEPY, l'assemblée qui regroupe les évêques de cette province.",
+        "Le thème portait sur l'apostolat par la catéchèse. Au programme : des contributions des diocèses, des exposés et cinq ateliers de réflexion où chacun a pu raconter son expérience, dire ses difficultés et faire des propositions."
+      ]
+    },
+    {
+      "intertitre": "Transmettre la foi aujourd'hui",
+      "paragraphes": [
+        "Les participants ont reconnu que leur mission devient plus exigeante, dans une société qui change vite, notamment avec le numérique. Ils se sont demandé comment accompagner les jeunes, former ceux qui enseignent et mieux reconnaître leur engagement.",
+        "S'appuyant sur Antiquum ministerium, la lettre du pape François consacrée à ce ministère, ils ont souligné qu'enseigner le catéchisme va bien au-delà de la préparation aux sacrements. Elle doit d'abord aider chacun à rencontrer le Christ.",
+        "La messe finale était célébrée par le représentant du pape dans le pays, Mgr José Avelino Bettencourt, dont la mission couvre aussi la Guinée équatoriale. Il a insisté sur la lecture des Écritures, qu'il a décrite comme un dialogue avec Dieu."
+      ]
+    },
+    {
+      "intertitre": "Former et soutenir les catéchistes",
+      "paragraphes": [
+        "Côté évêques, l'accent a été mis sur la mise en route effective, à Mbalmayo, d'une structure provinciale pour former les catéchistes, puis sur l'ouverture de centres semblables dans chaque diocèse. Ils souhaitent aussi un programme de formation commun à toute la province.",
+        "L'archevêque de Yaoundé, Mgr Jean Mbarga, a salué le dévouement de ces fidèles, le plus souvent bénévoles. Il a rappelé que leur famille accepte leurs absences et partage leurs efforts. Selon lui, la reconnaissance doit maintenant passer par un accompagnement organisé et durable."
+      ]
+    },
+    {
+      "intertitre": "Prochaine étape à Obala",
+      "paragraphes": [
+        "L'évêque d'Obala, Mgr Sosthène Léopold Bayemi Matjei, prend le relais de Mgr Joseph-Marie Ndi-Okalla, hôte des deux sessions tenues à Mbalmayo. La prochaine rencontre se déroulera dans le diocèse d'Obala, entre le 1er et le 4 mars 2027.",
+        "D'ici là, les participants doivent partager ce qu'ils ont appris avec les autres catéchistes, dans les paroisses et les familles."
+      ]
+    }
+  ],
+  "mots": 393,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "CM"
+  ],
+  "source_nom": "Vatican News",
+  "source_url": "https://www.vaticannews.va/fr/eglise/news/2026-11/cameroun-a-mbalmayo-l-eglise-reaffirme-la-place-essentielle-de.html",
+  "publie_le": "2026-11-16T17:24:00.000Z",
+  "redige_le": "2026-11-17T18:18:15.841Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/baabe644b66fa9970e794d5c62be78098db53ca4.webp",
+    "source": "wikimedia",
+    "credit": "Frederic PAPY",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_des_Victoires_Yaound%C3%A9_Cameroun.jpg",
+    "alt": "La cathédrale Notre-Dame-des-Victoires de Yaoundé, au Cameroun",
+    "mots_cles": [
+      "Cathédrale Notre-Dame-des-Victoires de Yaoundé"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

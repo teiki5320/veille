@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "a3b984589f38e9e988d83177bb4cbcca0816edd9",
+  "slug": "ghana-les-eveques-lancent-la-preparation-des-150-ans-de-eglise-a3b984",
+  "titre": "Ghana : les évêques lancent la préparation des 150 ans de l'Église catholique en 2030",
+  "chapo": "L'Église catholique du Ghana fêtera en 2030 ses 150 ans. Ses évêques veulent faire de cet anniversaire bien plus qu'une commémoration : un temps de renouveau pour tous les fidèles.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La Conférence des évêques catholiques du Ghana a tenu son assemblée plénière dans le diocèse de Konongo-Mampong. Le discours d'ouverture a été prononcé par son président, Mgr Matthew Kwasi Gyamfi, évêque de Sunyani.",
+        "Le thème retenu associe trois mots, communion, participation et mission, et vise à préparer l'Église du pays à son 150e anniversaire. Pour l'évêque, ce cadre reflète l'esprit synodal voulu par l'Église universelle ces dernières années."
+      ]
+    },
+    {
+      "intertitre": "Une histoire commencée en 1880",
+      "paragraphes": [
+        "La présence catholique au Ghana remonte à 1880. La foi s'est d'abord implantée dans le Sud du pays, puis dans le Nord, avant de gagner l'ensemble du territoire.",
+        "Mgr Gyamfi a rendu hommage à tous ceux qui ont porté cette histoire : missionnaires, catéchistes, prêtres ghanéens, religieux et religieuses, laïcs. Selon lui, leurs sacrifices et leur fidélité ont posé les bases d'une Église aujourd'hui vivante.",
+        "Il a aussi invité chaque génération à prendre sa part : transmettre à son tour la foi reçue, renouvelée, à ceux qui viendront ensuite."
+      ]
+    },
+    {
+      "intertitre": "Plus qu'un souvenir",
+      "paragraphes": [
+        "Pour le président de la conférence, l'anniversaire ne doit pas se limiter à regarder le passé. Il le présente comme une occasion d'examen de conscience pour l'Église, de renouveau spirituel et de réveil pastoral.",
+        "Les évêques disent espérer, pour 2030, une communauté plus unie, où chacun participe davantage et où le témoignage missionnaire touche plus de monde. Ils souhaitent une Église fidèle à ses racines apostoliques et attentive aux espoirs comme aux inquiétudes de la population.",
+        "Mgr Gyamfi a confié ce chemin à la Vierge Marie, invoquée comme Mère de l'Église et Étoile de l'évangélisation."
+      ]
+    },
+    {
+      "intertitre": "Un programme à partir de 2027",
+      "paragraphes": [
+        "Un calendrier détaillé des célébrations doit être publié plus tard. Il concernera toutes les échelles de l'Église, des paroisses et communautés locales jusqu'au niveau national. Les premières activités prévues débuteront en 2027, trois ans avant la date anniversaire."
+      ]
+    }
+  ],
+  "mots": 334,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "Vatican News Africa",
+  "source_url": "https://www.vaticannews.va/en/africa/news/2026-11/ghana-catholic-bishops-call-for-spiritual-renewal-and-pastoral.html",
+  "publie_le": "2026-11-17T11:20:00.000Z",
+  "redige_le": "2026-11-17T18:18:15.841Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/a3b984589f38e9e988d83177bb4cbcca0816edd9.webp",
+    "source": "wikimedia",
+    "credit": "No machine-readable author provided. Pgallert assumed (based on copyright claims).",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Holy_Spirit_Cathedral,_Accra-information.jpg",
+    "alt": "La cathédrale du Saint-Esprit, à Accra, au Ghana",
+    "mots_cles": [
+      "Holy Spirit Cathedral Accra"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
