@@ -789,7 +789,7 @@
   "images_recentes": [
     {
       "id": "329d283ccfd53b1d800e229a324b9ed0886a5ab3",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/6/67/Urbanitzaci%C3%B3_Casablanca_-_P1040487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kasbah_des_Oudayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "22b03f9aeb5805c09e2597f5dc2752cf2e74ce46",
@@ -903,7 +903,7 @@
     "d6b5a9ac7ee4ac1e81badbf86b48c8b2a601e851": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Oriental_hanging_lanterns._Souk_Haddadine%2C_Marrakech_Medina%2C_Morocco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "161e4c4f7507ed3050195629f2e46ed2a2b7a978": "https://upload.wikimedia.org/wikipedia/commons/3/30/Amoako_Boafo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "22b03f9aeb5805c09e2597f5dc2752cf2e74ce46": "https://upload.wikimedia.org/wikipedia/commons/2/21/Eko_Atlantic_%28Lagos%29_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "329d283ccfd53b1d800e229a324b9ed0886a5ab3": "https://upload.wikimedia.org/wikipedia/commons/6/67/Urbanitzaci%C3%B3_Casablanca_-_P1040487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "329d283ccfd53b1d800e229a324b9ed0886a5ab3": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kasbah_des_Oudayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "d734265040b63a4476c6a3fcbabfd65eda96c16a": [
@@ -928,6 +928,9 @@
     ],
     "1fabe288fff832d24f665c9cb0a2b0c6a57e5bdc": [
       "https://upload.wikimedia.org/wikipedia/commons/3/38/Kinshasa_Mall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "329d283ccfd53b1d800e229a324b9ed0886a5ab3": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/67/Urbanitzaci%C3%B3_Casablanca_-_P1040487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
