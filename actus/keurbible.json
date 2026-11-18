@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-18T11:21:38.935Z",
+  "genere_le": "2026-11-18T13:16:14.859Z",
   "actus": [
     {
       "id": "c88d80071ba8d291b62d275d0abe2da2e02a4cc2",
@@ -269,12 +269,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbible/b30654d533e9f023c7cce30f63318530374313f9.webp",
         "source": "wikimedia",
-        "credit": "FatimaRawjee",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Loreto_Convent_school_Pretoria_-_Aerial.jpg",
-        "alt": "La cathédrale du Sacré-Cœur de Pretoria, en Afrique du Sud",
+        "credit": "Ossewa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Catholic_Church_Rosebank.jpg",
+        "alt": "L'église catholique de Rosebank, à Johannesburg, en Afrique du Sud",
         "mots_cles": [
-          "Sacred Heart Cathedral, Pretoria"
+          "Catholic Church Rosebank"
         ],
         "largeur": 1600,
         "hauteur": 900
