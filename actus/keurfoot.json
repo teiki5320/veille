@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-18T13:29:39.608Z",
+  "genere_le": "2026-11-18T13:30:20.359Z",
   "actus": [
     {
       "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
@@ -227,12 +227,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/9574617f7798ab238a4e04f71f53fabd5e227acd.webp",
         "source": "wikimedia",
-        "credit": "Timmy96",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(2).jpg",
-        "alt": "Un joueur de l'équipe du Sénégal de football",
+        "credit": "Bryan Berlin",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_France_v_Senegal_16_June_2026-463.jpg",
+        "alt": "Nicolas Jackson sous le maillot du Sénégal",
         "mots_cles": [
-          "Nicolas Jackson"
+          "Nicolas Jackson France v Senegal"
         ],
         "largeur": 1600,
         "hauteur": 900

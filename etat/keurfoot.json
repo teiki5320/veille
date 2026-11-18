@@ -2786,7 +2786,7 @@
     },
     {
       "id": "9574617f7798ab238a4e04f71f53fabd5e227acd",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nicolas_Jackson_France_v_Senegal_16_June_2026-463.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "5961a9bef7b11f6c99577b49ae034ee0918f517b",
@@ -2901,7 +2901,7 @@
     "92dad89e047c24ec604d7bfb1793f912f16857fa": "https://upload.wikimedia.org/wikipedia/commons/5/51/Algeria_vs_Ivory_Coast_2013_AFCON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "3173852d16105014a1f57ae364b00e6d79ec7fbf": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "176ba6663b57493a712a5acbfbb0545ee80dee89": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Argentina-Nigeria_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "9574617f7798ab238a4e04f71f53fabd5e227acd": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "9574617f7798ab238a4e04f71f53fabd5e227acd": "https://upload.wikimedia.org/wikipedia/commons/5/54/Nicolas_Jackson_France_v_Senegal_16_June_2026-463.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [
@@ -2962,6 +2962,9 @@
       "https://upload.wikimedia.org/wikipedia/commons/5/5e/FC_Semenivka_v_Senegal_under-21_football_team_%282016-05-20%29_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/8/80/FC_Semenivka_v_Senegal_under-21_football_team_%282016-05-20%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://live.staticflickr.com/65535/53483413461_e6da8dde05_b.jpg"
+    ],
+    "9574617f7798ab238a4e04f71f53fabd5e227acd": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
