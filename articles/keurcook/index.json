@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-17T18:18:20.088Z",
+  "genere_le": "2026-11-18T11:21:49.067Z",
   "articles": [
+    {
+      "id": "0f4b32d2d1342f6997d7b53ae50e432c28f1210c",
+      "slug": "ghana-moins-eau-pour-reussir-le-riz-local-conseille-un-chercheur-0f4b32",
+      "titre": "Ghana : moins d'eau pour réussir le riz local, conseille un chercheur",
+      "publie_le": "2026-11-18T04:10:28.000Z",
+      "redige_le": "2026-11-18T11:21:46.535Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/0f4b32d2d1342f6997d7b53ae50e432c28f1210c.json"
+    },
     {
       "id": "7accc32c7ad7056f7090feccad6cae20e8ec6ee4",
       "slug": "accra-shito-fufu-kenkey-et-jus-de-coco-honneur-une-foire-des-pme-7accc3",

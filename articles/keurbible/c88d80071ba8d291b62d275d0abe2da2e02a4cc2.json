@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "c88d80071ba8d291b62d275d0abe2da2e02a4cc2",
+  "slug": "nairobi-un-colloque-international-sur-esperance-et-eglise-en-afrique-c88d80",
+  "titre": "Nairobi : un colloque international sur l'espérance et l'Église en Afrique",
+  "chapo": "Pendant trois jours, Nairobi devient un lieu de réflexion sur l'avenir de l'Église catholique en Afrique, à la lumière des écrits de Benoît XVI sur l'espérance.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Un colloque international s'ouvre jeudi 19 novembre à l'université Tangaza, à Nairobi, au Kenya. Il se tiendra jusqu'au samedi 21 novembre. Son thème : « Constellations d'espérance », ou comment l'Afrique peut renouveler l'Église à partir de la pensée du pape Benoît XVI, connu avant son élection sous le nom de cardinal Joseph Ratzinger.",
+        "Il s'agit du symposium annuel de la Fondation vaticane Joseph Ratzinger-Benoît XVI. Il est organisé avec l'université Tangaza et l'université Saint Mary's du Minnesota, aux États-Unis."
+      ]
+    },
+    {
+      "intertitre": "Les 40 ans de Tangaza",
+      "paragraphes": [
+        "La rencontre s'inscrit dans les fêtes du 40e anniversaire de l'université. Tangaza appartient à plus de vingt instituts de vie consacrée et sociétés de vie apostolique. Elle forme de nombreux prêtres, religieux et laïcs du continent.",
+        "Le texte de référence des débats est l'encyclique Spe Salvi, consacrée à l'espérance chrétienne, publiée par Benoît XVI en 2007."
+      ]
+    },
+    {
+      "intertitre": "Un programme tourné vers l'Afrique",
+      "paragraphes": [
+        "Le cardinal ghanéen Peter Turkson, invité d'honneur, donnera la conférence d'ouverture sur la reconstruction d'une culture de l'espérance. Il est aujourd'hui chancelier des Académies pontificales des sciences et des sciences sociales.",
+        "Plusieurs séances porteront sur le rôle des universités catholiques et de la formation des futurs prêtres et religieux. Le père camerounais Maurice Agbaw-Ebai, du diocèse de Mamfe, parlera de la vision de l'université chez Benoît XVI. D'autres interventions relieront ces textes aux réalités africaines : jeunesse en quête de sens, éducation, réconciliation."
+      ]
+    },
+    {
+      "intertitre": "Liturgie et cultures africaines",
+      "paragraphes": [
+        "La prière et la vie des communautés auront aussi leur place. Mgr Anthony Muheria, archevêque de Nyeri, évoquera la liturgie et la façon de garder sa dimension intérieure tout en l'enracinant dans les cultures locales. Des intervenants présenteront aussi l'apport des petites communautés chrétiennes, très présentes en Afrique de l'Est, et le dialogue entre théologie africaine et autres cultures."
+      ]
+    }
+  ],
+  "mots": 318,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "KE",
+    "GH"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25415/catholic-church-renewal-in-africa-through-christian-hope-at-heart-of-upcoming-international-conference-in-kenya",
+  "publie_le": "2026-11-17T20:55:00.000Z",
+  "redige_le": "2026-11-18T11:21:38.935Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/c88d80071ba8d291b62d275d0abe2da2e02a4cc2.webp",
+    "source": "wikimedia",
+    "credit": "Hnyoike",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tangaza-college1.jpg",
+    "alt": "L'université Tangaza à Nairobi, au Kenya",
+    "mots_cles": [
+      "Tangaza University"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

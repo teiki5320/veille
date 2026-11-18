@@ -1,8 +1,112 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-17T18:19:30.935Z",
+  "genere_le": "2026-11-18T11:21:53.052Z",
   "actus": [
+    {
+      "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
+      "titre": "Congo : battu par les Comores, Claude Le Roy annonce sa démission",
+      "resume": "Après la défaite du Congo face aux Comores (0-1) mardi à Brazzaville, Claude Le Roy a annoncé qu'il quittait son poste de sélectionneur. Avec deux points sur douze, les Diables rouges sont presque éliminés de la course à la CAN 2027. Le technicien français a assumé seul cet échec et remercié la fédération.",
+      "theme": "foot",
+      "pays": [
+        "CG",
+        "KM"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/elim-can-2027-claude-le-roy-coach-congo-jai-failli-a-la-mission-qui-metait-confiee/",
+      "publie_le": "2026-11-18T10:26:04.000Z",
+      "collecte_le": "2026-11-18T11:21:53.052Z",
+      "langue": "fr",
+      "slug": "congo-battu-par-les-comores-claude-le-roy-annonce-sa-demission-317385",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/3173852d16105014a1f57ae364b00e6d79ec7fbf.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/3173852d16105014a1f57ae364b00e6d79ec7fbf.webp",
+        "source": "wikimedia",
+        "credit": "Photo Claude TRUONG-NGOC",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg",
+        "alt": "Claude Le Roy, entraîneur français de football",
+        "mots_cles": [
+          "Claude Le Roy"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "176ba6663b57493a712a5acbfbb0545ee80dee89",
+      "titre": "CAN 2027 : tenu en échec en Tanzanie, le Nigeria au bord de l'élimination",
+      "resume": "Le Nigeria n'a pas marqué mardi à Zanzibar face à la Tanzanie (0-0). Avec sept points en quatre matchs, les Super Eagles sont distancés par la Guinée-Bissau pour l'unique place encore libre du groupe L. Pour se qualifier, ils devront gagner leurs deux derniers matchs en mars, dont un succès très large contre la Guinée-Bissau.",
+      "theme": "foot",
+      "pays": [
+        "NG",
+        "TZ",
+        "GW"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "ESPN FC",
+      "source_url": "https://www.espn.com/espn/story/_/id/50518455/nigeria-risk-missing-afcon-2027-striker-woes-continue",
+      "autres_sources": [
+        "https://kawowo.com/2026/11/18/2027-afcon-qualifiers-angola-rise-nigeria-stumble-as-senegal-celebrate/"
+      ],
+      "publie_le": "2026-11-18T08:28:19.000Z",
+      "collecte_le": "2026-11-18T11:21:53.052Z",
+      "langue": "en",
+      "slug": "can-2027-tenu-en-echec-en-tanzanie-le-nigeria-au-bord-de-elimination-176ba6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/176ba6663b57493a712a5acbfbb0545ee80dee89.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/176ba6663b57493a712a5acbfbb0545ee80dee89.webp",
+        "source": "wikimedia",
+        "credit": "Дмитрий Пукалик",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Argentina-Nigeria_(8).jpg",
+        "alt": "L'équipe nationale du Nigeria de football",
+        "mots_cles": [
+          "Nigeria national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "92dad89e047c24ec604d7bfb1793f912f16857fa",
+      "titre": "Éliminatoires CAN 2027 : l'Algérie humiliée 3-0 à Lomé par le Togo",
+      "resume": "Trois jours après l'avoir battu 1-0 à Tizi-Ouzou, l'Algérie s'est inclinée 3-0 au Togo lors de la 4e journée. Les Éperviers ont fait la différence avant la pause grâce à Thibault Klidje, auteur d'un doublé, et Kennedy Boateng. Les Fennecs restent en tête de leur groupe mais n'ont pas encore leur billet.",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "TG"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/algerie-les-chiffres-accablants-de-la-debacle-historique-au-togo",
+      "autres_sources": [
+        "https://www.footmercato.net/a5571423696181997136-lalgerie-nen-croit-pas-ses-yeux-et-cartonne-son-nouveau-selectionneur",
+        "https://www.footmercato.net/a3854284089906666911-qualifications-can-2027-la-reaction-de-brahim-hemdani-au-fiasco-de-lalgerie"
+      ],
+      "publie_le": "2026-11-17T18:36:57.000Z",
+      "collecte_le": "2026-11-18T11:21:53.052Z",
+      "langue": "fr",
+      "slug": "eliminatoires-can-2027-algerie-humiliee-3-0-lome-par-le-togo-92dad8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/92dad89e047c24ec604d7bfb1793f912f16857fa.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/92dad89e047c24ec604d7bfb1793f912f16857fa.webp",
+        "source": "wikimedia",
+        "credit": "Magharebia",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Algeria_vs_Ivory_Coast_2013_AFCON.jpg",
+        "alt": "L'équipe nationale d'Algérie de football",
+        "mots_cles": [
+          "Algeria national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8ca4996b1ab469da39ccd0433d9e7781720b59c6",
       "titre": "CAN 2027 : le Sénégal premier pays qualifié, aidé par la victoire du Mozambique",
@@ -1990,110 +2094,6 @@
         "alt": "Le défenseur Lilian Brassier, appelé pour la première fois avec le Togo",
         "mots_cles": [
           "Lilian Brassier"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "7d4ab2d636c98c64938fc989086f8f49845d48d6",
-      "titre": "Guinée : l'entourage de Naby Keita conteste la version du sélectionneur Paulo Duarte",
-      "resume": "Écarté de la liste guinéenne pour les matchs contre l'Érythrée, Naby Keita voit son conseiller accuser Paulo Duarte de taire une partie des faits. Selon lui, le milieu avait été retenu et avait reçu son billet avant d'être retiré au dernier moment.",
-      "theme": "foot",
-      "pays": [
-        "GN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/guinee-quil-dise-la-verite-le-clan-naby-keita-attaque-paulo-duarte",
-      "publie_le": "2026-11-03T09:43:00.000Z",
-      "collecte_le": "2026-11-03T11:27:51.796Z",
-      "langue": "fr",
-      "slug": "guinee-entourage-de-naby-keita-conteste-la-version-du-selectionneur-7d4ab2",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7d4ab2d636c98c64938fc989086f8f49845d48d6.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/7d4ab2d636c98c64938fc989086f8f49845d48d6.webp",
-        "source": "wikimedia",
-        "credit": "Fédération Guinéenne Football",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:0K8A9223_(53493337827).jpg",
-        "alt": "Le milieu de terrain guinéen Naby Keita",
-        "mots_cles": [
-          "Naby Keïta"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "27cdf73732867be23bfcf05c31b9457fcfb0dda9",
-      "titre": "FIFPRO World 11 2026 : Hakimi, unique joueur africain de la présélection",
-      "resume": "Le latéral marocain du PSG fait partie des 26 footballeurs retenus pour l'équipe type mondiale de l'année, désignée par les votes de 19 806 joueurs professionnels. Aucun autre joueur du continent ne figure dans cette liste, où l'on retrouve Messi, Ronaldo, Mbappé ou Lamine Yamal.",
-      "theme": "foot",
-      "pays": [
-        "MA"
-      ],
-      "competition": "FIFPRO World 11",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/afrique-football/fifpro-world-11-2026-achraf-hakimi-seul-africain-parmi-les-26-nommes/",
-      "publie_le": "2026-11-02T15:55:38.000Z",
-      "collecte_le": "2026-11-02T18:21:15.391Z",
-      "langue": "fr",
-      "slug": "fifpro-world-11-2026-hakimi-unique-joueur-africain-de-la-preselection-27cdf7",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/27cdf73732867be23bfcf05c31b9457fcfb0dda9.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/27cdf73732867be23bfcf05c31b9457fcfb0dda9.webp",
-        "source": "wikimedia",
-        "credit": "MFonzatti",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_2024.jpg",
-        "alt": "Achraf Hakimi, défenseur marocain du Paris Saint-Germain",
-        "mots_cles": [
-          "Achraf Hakimi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://africasoccer.com/?p=649034",
-        "https://www.liverpoolfc.com/news/virgil-van-dijk-shortlisted-2026-fifpro-mens-world-11"
-      ]
-    },
-    {
-      "id": "779ad6d6de0fc25808d85aef1093c5815b2ec3d0",
-      "titre": "Sénégal-Soudan : Patrick Vieira annoncera jeudi sa nouvelle sélection",
-      "resume": "Le sélectionneur des Lions communiquera jeudi 5 novembre les joueurs appelés pour la double confrontation avec le Soudan, les 12 et 16 novembre. La vente des billets pour le match de Dakar a commencé lundi.",
-      "theme": "foot",
-      "pays": [
-        "SN",
-        "SD"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/patrick-vieira-devoilera-jeudi-sa-deuxieme-liste-pour-les-matchs-contre-le-soudan_2019658.html",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/02/equipe-nationale-senegal-vs-soudan-patrick-vieira-devoilera-sa-liste-ce-jeudi/",
-        "https://wiwsport.com/2026/11/02/eliminatoires-can-2027-senegal-soudan-la-billetterie-du-match-ouverte-ce-lundi/",
-        "https://senego.com/senegal-le-bilan-des-premiers-matchs-de-patrick-vieira-avant-la-fenetre-de-novembre-des-eliminatoires-de-la-can-2027_2017401.html",
-        "https://foot-africa.com/actualites/qualif-can-2027-le-senegal-simpose-difficilement-en-thiopie-1-0-1370114/"
-      ],
-      "publie_le": "2026-11-02T10:45:16.000Z",
-      "collecte_le": "2026-11-02T11:19:41.972Z",
-      "langue": "fr",
-      "slug": "senegal-soudan-patrick-vieira-annoncera-jeudi-sa-nouvelle-selection-779ad6",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/779ad6d6de0fc25808d85aef1093c5815b2ec3d0.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/779ad6d6de0fc25808d85aef1093c5815b2ec3d0.webp",
-        "source": "wikimedia",
-        "credit": "Simon Heseltine",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
-        "alt": "Patrick Vieira, ancien milieu de terrain devenu sélectionneur du Sénégal",
-        "mots_cles": [
-          "Patrick Vieira"
         ],
         "largeur": 1600,
         "hauteur": 900

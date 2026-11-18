@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
+  "slug": "congo-battu-par-les-comores-claude-le-roy-annonce-sa-demission-317385",
+  "titre": "Congo : battu par les Comores, Claude Le Roy annonce sa démission",
+  "chapo": "Le Congo a perdu 1-0 à domicile contre les Comores, mardi 17 novembre. Dans la foulée, son sélectionneur Claude Le Roy a dit qu'il allait démissionner.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La quatrième journée des qualifications pour la CAN 2027 a sonné la fin de l'aventure pour Claude Le Roy à la tête des Diables rouges. À Brazzaville, le Congo s'est incliné 1-0 face aux Comores. Devant la presse, juste après le match, l'entraîneur français a annoncé qu'il allait présenter sa démission.",
+        "Le bilan est maigre : deux matchs nuls et deux défaites, soit deux points pris sur douze possibles. Le Congo est presque hors course pour la phase finale."
+      ]
+    },
+    {
+      "intertitre": "Il assume l'échec",
+      "paragraphes": [
+        "Le Roy n'a cherché aucune excuse. Il a reconnu ne pas avoir rempli la mission qui lui avait été donnée et a jugé que partir était la solution la plus honnête. Il a refusé de rejeter la responsabilité sur ses joueurs ou sur la fédération.",
+        "Le sélectionneur a aussi tenu à remercier ceux qui l'ont soutenu à Brazzaville, dont le ministre des Sports et le président de la fédération. Il a décrit son passage comme un grand plaisir, malgré des résultats décevants."
+      ]
+    },
+    {
+      "intertitre": "Une figure du football africain",
+      "paragraphes": [
+        "Claude Le Roy est l'un des entraîneurs les plus connus du continent. Il a remporté la CAN 1988 avec le Cameroun et a dirigé de nombreuses sélections africaines, dont le Sénégal, le Ghana et la RD Congo. Il avait déjà entraîné le Congo de 2013 à 2015, et l'avait mené jusqu'en quarts de finale de la CAN 2015.",
+        "Ce nouveau passage se termine donc sur une déception, loin de ses meilleurs souvenirs avec les Diables rouges."
+      ]
+    },
+    {
+      "intertitre": "Un successeur à trouver",
+      "paragraphes": [
+        "La fédération congolaise doit maintenant choisir un nouveau sélectionneur. Il dirigera l'équipe lors des deux dernières journées des éliminatoires, prévues en mars 2027. Le Congo ne peut plus guère espérer la qualification, mais il devra reconstruire un groupe. De leur côté, les Comores, avec cette victoire, ont aussi permis au Cameroun de valider son billet pour la CAN."
+      ]
+    }
+  ],
+  "mots": 333,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "CG",
+    "KM"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Africa Top Sports",
+  "source_url": "https://africatopsports.com/afrique-football/elim-can-2027-claude-le-roy-coach-congo-jai-failli-a-la-mission-qui-metait-confiee/",
+  "publie_le": "2026-11-18T10:26:04.000Z",
+  "redige_le": "2026-11-18T11:21:53.052Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/3173852d16105014a1f57ae364b00e6d79ec7fbf.webp",
+    "source": "wikimedia",
+    "credit": "Photo Claude TRUONG-NGOC",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg",
+    "alt": "Claude Le Roy, entraîneur français de football",
+    "mots_cles": [
+      "Claude Le Roy"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

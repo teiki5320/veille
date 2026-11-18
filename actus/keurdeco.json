@@ -1,8 +1,74 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-17T18:18:20.092Z",
+  "genere_le": "2026-11-18T11:21:49.079Z",
   "actus": [
+    {
+      "id": "0005ac7d545f79ff531b212dd2b1557765ae4c3b",
+      "titre": "Accra : Alvaro Barrington tisse la migration en rideaux au Limbo Museum",
+      "resume": "Au Limbo Museum d'Accra, l'artiste Alvaro Barrington présente sa première exposition en Afrique, jusqu'au 1er février 2027. Inspiré des supermarchés et des agences de transfert d'argent de la diaspora, il relie New York, les Caraïbes et le Ghana par des textiles et des rideaux colorés.",
+      "theme": "deco",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "Designboom",
+      "source_url": "https://www.designboom.com/art/alvaro-barrington-stories-migration-supermarket-curtains-accra-limbo-museum/",
+      "autres_sources": [
+        "https://www.artbasel.com/stories/accra-as-seen-by-alvaro-barrington",
+        "https://ropac.net/news/3080-alvaro-barrington/",
+        "https://www.newexhibitions.com/e/21817"
+      ],
+      "publie_le": "2026-11-18T08:45:27.000Z",
+      "collecte_le": "2026-11-18T11:21:49.079Z",
+      "langue": "en",
+      "slug": "accra-alvaro-barrington-tisse-la-migration-en-rideaux-au-limbo-museum-0005ac",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/0005ac7d545f79ff531b212dd2b1557765ae4c3b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/0005ac7d545f79ff531b212dd2b1557765ae4c3b.webp",
+        "source": "wikimedia",
+        "credit": "Hano",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Alvaro_Barrington_at_the_61._Biennale_di_Venezia.jpg",
+        "alt": "L'artiste Alvaro Barrington",
+        "mots_cles": [
+          "Alvaro Barrington"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "3eca39caa3a11f5a284dec390602d1f23748cce8",
+      "titre": "Paris : Sonia Gomes noue des tissus chargés de mémoire au Palais de Tokyo",
+      "resume": "Au Palais de Tokyo, l'artiste afro-brésilienne Sonia Gomes présente « Wild Heart ». Elle tord, coud et noue des tissus donnés, robes de mariée ou foulards, sur des structures de bois ou de métal. Ses œuvres puisent dans les fêtes populaires du Minas Gerais et dans un héritage aux racines africaines.",
+      "theme": "deco",
+      "pays": [
+        "FR",
+        "BR"
+      ],
+      "source_nom": "Art Africa",
+      "source_url": "https://artafricamagazine.org/the-memory-of-things-sonia-gomes-and-the-art-of-transformation/",
+      "publie_le": "2026-11-17T18:42:53.000Z",
+      "collecte_le": "2026-11-18T11:21:49.079Z",
+      "langue": "en",
+      "slug": "paris-sonia-gomes-noue-des-tissus-charges-de-memoire-au-palais-de-3eca39",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/3eca39caa3a11f5a284dec390602d1f23748cce8.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/3eca39caa3a11f5a284dec390602d1f23748cce8.webp",
+        "source": "wikimedia",
+        "credit": "Strobilomyces",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Palais_de_Tokyo_20030101w.JPG",
+        "alt": "Le Palais de Tokyo à Paris",
+        "mots_cles": [
+          "Palais de Tokyo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "329d283ccfd53b1d800e229a324b9ed0886a5ab3",
       "titre": "Casablanca : la boutique Côté Bougie mise sur la pierre et la terre cuite",

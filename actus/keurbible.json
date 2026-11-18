@@ -1,8 +1,69 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-17T18:19:03.993Z",
+  "genere_le": "2026-11-18T11:21:38.935Z",
   "actus": [
+    {
+      "id": "c88d80071ba8d291b62d275d0abe2da2e02a4cc2",
+      "titre": "Nairobi : un colloque international sur l'espérance et l'Église en Afrique",
+      "resume": "Du 19 au 21 novembre, l'université Tangaza de Nairobi accueille théologiens, enseignants et responsables d'Église autour de la pensée de Benoît XVI et de l'avenir de l'Église en Afrique. Le cardinal ghanéen Peter Turkson ouvrira les travaux. La rencontre marque aussi les 40 ans de l'université.",
+      "theme": "culture",
+      "pays": [
+        "KE",
+        "GH"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25415/catholic-church-renewal-in-africa-through-christian-hope-at-heart-of-upcoming-international-conference-in-kenya",
+      "publie_le": "2026-11-17T20:55:00.000Z",
+      "collecte_le": "2026-11-18T11:21:38.935Z",
+      "langue": "en",
+      "slug": "nairobi-un-colloque-international-sur-esperance-et-eglise-en-afrique-c88d80",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/c88d80071ba8d291b62d275d0abe2da2e02a4cc2.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/c88d80071ba8d291b62d275d0abe2da2e02a4cc2.webp",
+        "source": "wikimedia",
+        "credit": "Hnyoike",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tangaza-college1.jpg",
+        "alt": "L'université Tangaza à Nairobi, au Kenya",
+        "mots_cles": [
+          "Tangaza University"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "34a3643a8bdc8fd25c2aa24c44fc353c698dac43",
+      "titre": "Guinée-Bissau : Mgr Víctor Quematcha installé évêque de Bissau pour les 50 ans du diocèse",
+      "resume": "Le capucin Víctor Luís Quematcha a été installé évêque de Bissau le 15 novembre, au moment où le diocèse fête ses 50 ans. Lors de la messe, le nonce Waldemar Sommertag l'a invité à bâtir une Église plus fraternelle. Le nouvel évêque a appelé chacun à marcher ensemble et au dialogue avec les autres religions.",
+      "theme": "culture",
+      "pays": [
+        "GW"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25409/apostolic-nuncio-to-new-bishop-in-guinea-bissau-build-a-more-missionary-fraternal-church",
+      "publie_le": "2026-11-17T20:40:00.000Z",
+      "collecte_le": "2026-11-18T11:21:38.935Z",
+      "langue": "en",
+      "slug": "guinee-bissau-mgr-victor-quematcha-installe-eveque-de-bissau-pour-les-34a364",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/34a3643a8bdc8fd25c2aa24c44fc353c698dac43.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/34a3643a8bdc8fd25c2aa24c44fc353c698dac43.webp",
+        "source": "wikimedia",
+        "credit": "JNM",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kathedrale_von_Bissau.png",
+        "alt": "La cathédrale de Bissau, en Guinée-Bissau",
+        "mots_cles": [
+          "Bissau Cathedral"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "a3b984589f38e9e988d83177bb4cbcca0816edd9",
       "titre": "Ghana : les évêques lancent la préparation des 150 ans de l'Église catholique en 2030",

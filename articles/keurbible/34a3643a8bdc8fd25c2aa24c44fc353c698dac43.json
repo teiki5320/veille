@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "34a3643a8bdc8fd25c2aa24c44fc353c698dac43",
+  "slug": "guinee-bissau-mgr-victor-quematcha-installe-eveque-de-bissau-pour-les-34a364",
+  "titre": "Guinée-Bissau : Mgr Víctor Quematcha installé évêque de Bissau pour les 50 ans du diocèse",
+  "chapo": "Le diocèse de Bissau a accueilli son nouvel évêque, Mgr Víctor Luís Quematcha, le 15 novembre, en pleine célébration de son cinquantenaire.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Nommé par le pape Léon XIV le 14 novembre, Mgr Víctor Luís Quematcha a été installé dès le lendemain à la tête du diocèse de Bissau, en Guinée-Bissau. Ce frère mineur capucin dirigeait jusque-là le diocèse de Bafatá. Il succède à Mgr José Lampra Cá, qui s'est retiré pour raisons de santé à 62 ans.",
+        "La messe d'installation a coïncidé avec les 50 ans de la création du diocèse, l'occasion de revenir sur cinq décennies de présence de l'Église dans le pays."
+      ]
+    },
+    {
+      "intertitre": "Le dernier message du nonce",
+      "paragraphes": [
+        "L'homélie a été prononcée par Mgr Waldemar Sommertag, nonce apostolique pour le Sénégal, la Mauritanie, le Cap-Vert et la Guinée-Bissau, qui part bientôt pour l'Inde. Il a encouragé le nouvel évêque à faire grandir une Église missionnaire, fraternelle et où chacun participe.",
+        "Il a insisté sur le service des plus pauvres, l'accompagnement des jeunes et des vocations, et sur la paix et la réconciliation, qui commencent dans les familles. Il a aussi rappelé la visite de Jean-Paul II en Guinée-Bissau, le 27 janvier 1990."
+      ]
+    },
+    {
+      "intertitre": "Marcher ensemble",
+      "paragraphes": [
+        "Dans son discours, Mgr Quematcha a dit vouloir avancer aux côtés des fidèles et non seul. Il a invité prêtres, religieux et laïcs à travailler main dans la main, pour que chacun trouve sa place dans la communauté.",
+        "Il a repris un proverbe africain bien connu : seul on va plus vite, mais ensemble on va plus loin. Il a aussi souhaité un dialogue renforcé avec les musulmans, les autres chrétiens et les fidèles des religions traditionnelles africaines, au service de la paix."
+      ]
+    },
+    {
+      "intertitre": "Une semaine riche pour l'Église locale",
+      "paragraphes": [
+        "Cette installation a suivi l'assemblée des évêques du Sénégal, de la Mauritanie, du Cap-Vert et de la Guinée-Bissau, réunie à Bafatá du 9 au 13 novembre. Pour les catholiques de Bissau, le jubilé du diocèse et l'arrivée d'un nouveau pasteur marquent un nouveau départ."
+      ]
+    }
+  ],
+  "mots": 328,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "GW"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25409/apostolic-nuncio-to-new-bishop-in-guinea-bissau-build-a-more-missionary-fraternal-church",
+  "publie_le": "2026-11-17T20:40:00.000Z",
+  "redige_le": "2026-11-18T11:21:38.935Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/34a3643a8bdc8fd25c2aa24c44fc353c698dac43.webp",
+    "source": "wikimedia",
+    "credit": "JNM",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kathedrale_von_Bissau.png",
+    "alt": "La cathédrale de Bissau, en Guinée-Bissau",
+    "mots_cles": [
+      "Bissau Cathedral"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

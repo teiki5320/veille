@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f063c37249e1b7696be0dc3df81d2a54448e1694",
+  "slug": "tpe-quinze-jours-de-retard-un-client-suffisent-mettre-la-tresorerie-f063c3",
+  "titre": "TPE : quinze jours de retard d'un client suffisent à mettre la trésorerie à sec",
+  "chapo": "Une facture payée deux semaines plus tard que prévu peut suffire à bloquer une TPE. Une chronique publiée le 18 novembre détaille le mécanisme et la façon de l'anticiper.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans une chronique du Journal du Net, Emir Tiryaki prend l'exemple d'une petite entreprise de rénovation. Au 1er du mois, elle a 6 500 euros en banque. Un client doit lui verser 8 000 euros le 10. De son côté, elle doit régler un fournisseur le 12 (4 800 euros), puis un sous-traitant le 18 (2 500 euros).",
+        "Si le client paie à l'heure, il reste 7 200 euros sur le compte à la fin du mois. S'il paie le 25, elle n'a plus que 1 700 euros après le fournisseur. Le 18, il lui manque 800 euros pour payer le sous-traitant."
+      ]
+    },
+    {
+      "intertitre": "Le piège du solde de fin de mois",
+      "paragraphes": [
+        "Dans les deux cas, le compte affiche le même montant le dernier jour. Un prévisionnel qui ne regarde que ce chiffre ne voit donc pas le trou du milieu du mois. Or c'est ce jour-là que l'entreprise risque de ne pas pouvoir honorer ses engagements.",
+        "Ce risque est réel : d'après l'Observatoire chargé des délais de paiement, les retards de paiement en France atteignaient en moyenne 13,4 jours fin 2025."
+      ]
+    },
+    {
+      "intertitre": "Repérer le jour critique",
+      "paragraphes": [
+        "L'auteur conseille de partir du solde bancaire et de inscrire toutes les rentrées et les dépenses au jour où elles arriveront vraiment. Pour les semaines chargées, un suivi au jour le jour est utile. Un test simple consiste à repousser de quinze jours les plus grosses factures attendues, puis à chercher la première date où le solde passe sous zéro.",
+        "Une fois ce jour connu, le dirigeant peut agir : confirmer la date de paiement auprès du client, demander un versement partiel, proposer un échéancier au sous-traitant ou décaler un achat."
+      ]
+    },
+    {
+      "intertitre": "Anticiper dès le devis",
+      "paragraphes": [
+        "Le même calcul aide avant d'accepter un chantier. Si les matériaux doivent être payés avant que le client verse son premier paiement, il permet de fixer le bon acompte. Le moment du devis est le plus simple pour négocier les conditions de paiement. Chaque semaine, une question suffit : si mon plus gros client paie avec quinze jours de retard, quelle échéance bloque en premier ?"
+      ]
+    }
+  ],
+  "mots": 374,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-fournisseurs"
+  ],
+  "source_nom": "Journal du Net",
+  "source_url": "https://www.journaldunet.com/management/commercial/1558167-tresorerie-des-tpe-quand-quinze-jours-de-retard-suffisent-a-mettre-un-chantier-dans-le-rouge/",
+  "publie_le": "2026-11-18T10:50:59.000Z",
+  "redige_le": "2026-11-18T11:21:57.416Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f063c37249e1b7696be0dc3df81d2a54448e1694.webp",
+    "source": "wikimedia",
+    "credit": "Robinet Testard",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Dagobert_visitant_le_chantier_de_la_construction_de_Saint-Denis.jpg",
+    "alt": "Un chantier de construction en France",
+    "mots_cles": [
+      "Chantier de construction France"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

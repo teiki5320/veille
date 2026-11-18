@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-17T18:18:20.084Z",
+  "genere_le": "2026-11-18T11:21:46.535Z",
   "actus": [
+    {
+      "id": "0f4b32d2d1342f6997d7b53ae50e432c28f1210c",
+      "titre": "Ghana : moins d'eau pour réussir le riz local, conseille un chercheur",
+      "resume": "Le riz récolté au Ghana se cuit avec moins d'eau que le riz importé, explique le professeur Maxwell Darko Asante, directeur de l'Institut de recherche sur les cultures. Selon lui, le grain local, plus frais, est souvent trop mouillé en cuisine, ce qui nuit à sa texture et à sa réputation.",
+      "theme": "cuisine",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/how-to-cook-local-ghanaian-rice-to-taste-better-than-imported-foreign-rice-cri-director-explains/",
+      "publie_le": "2026-11-18T04:10:28.000Z",
+      "collecte_le": "2026-11-18T11:21:46.535Z",
+      "langue": "en",
+      "slug": "ghana-moins-eau-pour-reussir-le-riz-local-conseille-un-chercheur-0f4b32",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/0f4b32d2d1342f6997d7b53ae50e432c28f1210c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/0f4b32d2d1342f6997d7b53ae50e432c28f1210c.webp",
+        "source": "wikimedia",
+        "credit": "Maame1Yaa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Jollof_rice_and_tomato_stew.jpg",
+        "alt": "Un plat de riz préparé à la façon d'Afrique de l'Ouest",
+        "mots_cles": [
+          "Jollof rice"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7accc32c7ad7056f7090feccad6cae20e8ec6ee4",
       "titre": "Accra : shito, fufu, kenkey et jus de coco à l'honneur d'une foire des PME ghanéennes",

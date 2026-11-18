@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "86cbf74a64c99ff73009ea3298e59d79594bda28",
+  "slug": "liquidation-le-fisc-peut-poursuivre-le-dirigeant-meme-sans-action-en-86cbf7",
+  "titre": "Liquidation : le fisc peut poursuivre le dirigeant même sans action en comblement",
+  "chapo": "Un dirigeant blanchi devant le tribunal de commerce peut encore devoir payer les impôts de sa société liquidée. La plus haute juridiction judiciaire l'a confirmé sans ambiguïté.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Une analyse publiée par le Village de la Justice revient sur un arrêt de la Cour de cassation du 7 octobre 2026. Dans cette affaire, une cour d'appel avait refusé de condamner un gérant à payer les dettes fiscales de sa société, liquidée pour insuffisance d'actif. Elle relevait qu'il n'avait fait l'objet d'aucune poursuite personnelle après la procédure collective.",
+        "La Cour de cassation a annulé cette décision. Pour elle, les juges ont ajouté une condition que la loi ne prévoit pas."
+      ]
+    },
+    {
+      "intertitre": "Deux actions qui ne se confondent pas",
+      "paragraphes": [
+        "Côté droit commercial, le texte (article L. 651-2) permet au tribunal de faire payer au dirigeant tout ou partie du passif quand sa gestion a été fautive. Les sommes reviennent alors à l'ensemble des créanciers. Une simple négligence ne suffit pas.",
+        "Le Livre des procédures fiscales, à l'article L. 267, poursuit un autre but : garantir au Trésor le paiement des impôts. Le gérant peut alors être tenu de payer avec la société si des manœuvres frauduleuses ou des manquements graves et répétés aux obligations fiscales ont empêché le recouvrement. Il n'est pas nécessaire de prouver une intention de frauder : déclarations non déposées ou impôts déclarés mais non payés peuvent suffire."
+      ]
+    },
+    {
+      "intertitre": "Un risque qui survit à la liquidation",
+      "paragraphes": [
+        "La clôture de la liquidation libère la société, mais pas forcément son dirigeant face au fisc. Le fisc n'est pas obligé d'engager d'abord une action en comblement de passif. Un dirigeant jugé seulement négligent par le tribunal de commerce peut donc être condamné sur le terrain fiscal."
+      ]
+    },
+    {
+      "intertitre": "Les moyens de défense",
+      "paragraphes": [
+        "Le dirigeant n'est pas sans recours. L'action du fisc doit respecter la prescription de quatre ans du recouvrement. La jurisprudence exige aussi que l'administration agisse dans un délai jugé raisonnable, calculé à partir du moment où la dette devient définitivement impossible à recouvrer. Reconstituer la chronologie des démarches du comptable public peut alors faire la différence. Pour un dirigeant en difficulté, rester à jour de ses déclarations fiscales, même sans pouvoir payer, limite fortement ce risque."
+      ]
+    }
+  ],
+  "mots": 361,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:impots-impayes"
+  ],
+  "source_nom": "Village de la Justice",
+  "source_url": "https://www.village-justice.com/articles/dirigeants-procedures-collectives-quand-responsabilite-fiscale-lpf-art-267,60110.html",
+  "publie_le": "2026-11-18T10:00:00.000Z",
+  "redige_le": "2026-11-18T11:21:57.416Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/86cbf74a64c99ff73009ea3298e59d79594bda28.webp",
+    "source": "wikimedia",
+    "credit": "DXR",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cour_de_Cassation,_Paris_140320_1.jpg",
+    "alt": "Le bâtiment de la Cour de cassation à Paris",
+    "mots_cles": [
+      "Cour de cassation (France)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

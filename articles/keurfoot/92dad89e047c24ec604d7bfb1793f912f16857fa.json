@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "92dad89e047c24ec604d7bfb1793f912f16857fa",
+  "slug": "eliminatoires-can-2027-algerie-humiliee-3-0-lome-par-le-togo-92dad8",
+  "titre": "Éliminatoires CAN 2027 : l'Algérie humiliée 3-0 à Lomé par le Togo",
+  "chapo": "Large vainqueur de l'Algérie mardi 17 novembre à Lomé (3-0), le Togo a infligé aux Fennecs l'un des revers les plus lourds de leur histoire en éliminatoires de CAN.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le match retour de la quatrième journée des qualifications pour la CAN 2027 a tourné au cauchemar pour l'Algérie. Samedi, à Tizi-Ouzou, les Verts avaient péniblement dominé le Togo 1-0. Mardi, à Lomé, ils ont été balayés 3-0 par les Éperviers de Patrice Neveu.",
+        "Tout s'est joué en première période. L'attaquant Thibault Klidje, passé par Bordeaux et qui évolue désormais à Hibernian, club écossais, a marqué deux fois, à la 18e et à la 32e minute. Kennedy Boateng a ajouté le troisième but de la tête à la 38e minute."
+      ]
+    },
+    {
+      "intertitre": "Une série de records négatifs",
+      "paragraphes": [
+        "Jamais l'Algérie n'avait pris trois buts avant la mi-temps dans un match qualificatif pour la CAN. Elle n'avait jamais non plus été menée de trois buts à la pause en éliminatoires de CAN ou de Coupe du monde.",
+        "Ce revers met fin à une invincibilité de 23 rencontres en qualifications de CAN, qui durait depuis une défaite 1-0 au Bénin en octobre 2018, quand Djamel Belmadi venait de prendre l'équipe. Aucune sélection africaine n'avait battu l'Algérie avec trois buts de marge en compétition officielle depuis la défaite 4-0 concédé face au Maroc en 2011."
+      ]
+    },
+    {
+      "intertitre": "Un match sans occasions",
+      "paragraphes": [
+        "Privés de huit joueurs, les hommes de Brahim Hemdani ont surtout manqué de solutions. Ils n'ont tenté que deux tirs pendant une longue partie du match, contre quinze pour le Togo. Leur premier tir cadré, une frappe sans force de Mohamed Amoura, est arrivé à la 87e minute.",
+        "Les cadres Ramy Bensebaini et Nabil Bentaleb, qui avaient porté l'équipe à l'aller, ont été en grande difficulté. La défense a cédé à chaque accélération togolaise."
+      ]
+    },
+    {
+      "intertitre": "La qualification encore à valider",
+      "paragraphes": [
+        "Une victoire aurait suffi aux Fennecs pour rejoindre la phase finale, après le match nul 1-1 du Burundi face à la Zambie. L'Algérie garde la première place de son groupe, mais elle devra attendre les deux dernières journées, prévues en mars 2027, pour décrocher son ticket. La pression monte aussi sur le sélectionneur Brahim Hemdani."
+      ]
+    }
+  ],
+  "mots": 356,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "DZ",
+    "TG"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/algerie-les-chiffres-accablants-de-la-debacle-historique-au-togo",
+  "autres_sources": [
+    "https://www.footmercato.net/a5571423696181997136-lalgerie-nen-croit-pas-ses-yeux-et-cartonne-son-nouveau-selectionneur",
+    "https://www.footmercato.net/a3854284089906666911-qualifications-can-2027-la-reaction-de-brahim-hemdani-au-fiasco-de-lalgerie"
+  ],
+  "publie_le": "2026-11-17T18:36:57.000Z",
+  "redige_le": "2026-11-18T11:21:53.052Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/92dad89e047c24ec604d7bfb1793f912f16857fa.webp",
+    "source": "wikimedia",
+    "credit": "Magharebia",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Algeria_vs_Ivory_Coast_2013_AFCON.jpg",
+    "alt": "L'équipe nationale d'Algérie de football",
+    "mots_cles": [
+      "Algeria national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-17T18:18:24.772Z",
+  "genere_le": "2026-11-18T11:22:07.393Z",
   "articles": [
+    {
+      "id": "f063c37249e1b7696be0dc3df81d2a54448e1694",
+      "slug": "tpe-quinze-jours-de-retard-un-client-suffisent-mettre-la-tresorerie-f063c3",
+      "titre": "TPE : quinze jours de retard d'un client suffisent à mettre la trésorerie à sec",
+      "publie_le": "2026-11-18T10:50:59.000Z",
+      "redige_le": "2026-11-18T11:21:57.416Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/f063c37249e1b7696be0dc3df81d2a54448e1694.json"
+    },
+    {
+      "id": "2eb7b1d3a07f1c77542777e039f0a40e94aaf8f4",
+      "slug": "en-redressement-judiciaire-le-bhv-marais-prolonge-sa-fermeture-pour-2eb7b1",
+      "titre": "En redressement judiciaire, le BHV Marais prolonge sa fermeture pour travaux",
+      "publie_le": "2026-11-18T10:32:31.000Z",
+      "redige_le": "2026-11-18T11:21:57.416Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/2eb7b1d3a07f1c77542777e039f0a40e94aaf8f4.json"
+    },
+    {
+      "id": "86cbf74a64c99ff73009ea3298e59d79594bda28",
+      "slug": "liquidation-le-fisc-peut-poursuivre-le-dirigeant-meme-sans-action-en-86cbf7",
+      "titre": "Liquidation : le fisc peut poursuivre le dirigeant même sans action en comblement",
+      "publie_le": "2026-11-18T10:00:00.000Z",
+      "redige_le": "2026-11-18T11:21:57.416Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/86cbf74a64c99ff73009ea3298e59d79594bda28.json"
+    },
+    {
+      "id": "b080a337a4db670a8e3258869751d62dcabe9540",
+      "slug": "insee-les-creations-entreprises-bondissent-de-16-6-aout-octobre-2026-b080a3",
+      "titre": "Insee : les créations d'entreprises bondissent de 16,6 % d'août à octobre 2026",
+      "publie_le": "2026-11-18T07:45:00.000Z",
+      "redige_le": "2026-11-18T11:21:57.416Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/b080a337a4db670a8e3258869751d62dcabe9540.json"
+    },
     {
       "id": "641ba430af17e6c96fa458e820b71757c1a8faa5",
       "slug": "carburants-la-baisse-touche-plus-de-90-des-stations-pres-de-21-641ba4",

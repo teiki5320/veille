@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "3eca39caa3a11f5a284dec390602d1f23748cce8",
+  "slug": "paris-sonia-gomes-noue-des-tissus-charges-de-memoire-au-palais-de-3eca39",
+  "titre": "Paris : Sonia Gomes noue des tissus chargés de mémoire au Palais de Tokyo",
+  "chapo": "Avec « Wild Heart », sa première grande exposition dans une institution parisienne, Sonia Gomes fait des vieux tissus des sculptures vivantes, nourries de traditions afro-brésiliennes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Palais de Tokyo, à Paris, consacre une exposition personnelle à l'artiste brésilienne Sonia Gomes. Intitulée « Wild Heart », elle est confiée à la commissaire Daria de Beauvais. Le titre vient d'une œuvre inspirée du roman de Clarice Lispector, Près du cœur sauvage.",
+        "Dans un entretien accordé à la revue Art Africa, l'artiste revient sur ses matériaux, ses racines et sa façon de travailler."
+      ]
+    },
+    {
+      "intertitre": "Des tissus qui ont vécu",
+      "paragraphes": [
+        "Sonia Gomes travaille avec des textiles qu'on lui offre : vêtements, couvre-lits, serviettes, broderies venues de plusieurs pays. Une robe de mariée ayant appartenu à une grand-mère peut ainsi devenir une sculpture.",
+        "Elle torsade, coud et attache ces étoffes sur des structures en métal ou en bois, parfois sur des branches et des troncs récupérés. Chaque pièce garde une trace de sa vie passée, tout en devenant un objet nouveau, entre sculpture, peinture et installation. L'artiste dit se laisser guider par la matière, son poids, sa couleur et sa texture."
+      ]
+    },
+    {
+      "intertitre": "Un héritage afro-brésilien",
+      "paragraphes": [
+        "Originaire du Minas Gerais, au Brésil, elle puise dans les couleurs, les rythmes et l'architecture de cette région. Elle évoque un héritage ancestral et des éléments de culture aux racines africaines, transmis au Brésil par les fêtes, la religion et les habitudes familiales.",
+        "La série Estandarte, présentée à Paris, s'inspire des bannières des fêtes de la Folia de Reis et du Reinado, qui ouvrent la marche des cortèges. Le rouge, très présent dans l'exposition, rappelle les rubans et les costumes de ces célébrations populaires."
+      ]
+    },
+    {
+      "intertitre": "Et ensuite",
+      "paragraphes": [
+        "L'artiste dit aussi vouloir créer un institut pour soutenir les jeunes artistes. Pour les amateurs de textile et d'artisanat, l'exposition montre comment des tissus du quotidien peuvent porter la mémoire d'une diaspora."
+      ]
+    }
+  ],
+  "mots": 307,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "FR",
+    "BR"
+  ],
+  "source_nom": "Art Africa",
+  "source_url": "https://artafricamagazine.org/the-memory-of-things-sonia-gomes-and-the-art-of-transformation/",
+  "publie_le": "2026-11-17T18:42:53.000Z",
+  "redige_le": "2026-11-18T11:21:49.079Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/3eca39caa3a11f5a284dec390602d1f23748cce8.webp",
+    "source": "wikimedia",
+    "credit": "Strobilomyces",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_de_Tokyo_20030101w.JPG",
+    "alt": "Le Palais de Tokyo à Paris",
+    "mots_cles": [
+      "Palais de Tokyo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

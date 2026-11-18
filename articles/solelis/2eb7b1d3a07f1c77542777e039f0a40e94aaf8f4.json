@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "2eb7b1d3a07f1c77542777e039f0a40e94aaf8f4",
+  "slug": "en-redressement-judiciaire-le-bhv-marais-prolonge-sa-fermeture-pour-2eb7b1",
+  "titre": "En redressement judiciaire, le BHV Marais prolonge sa fermeture pour travaux",
+  "chapo": "Le grand magasin parisien, placé en redressement judiciaire, ne rouvrira pas tout de suite. Sa direction annonce un chantier de mise aux normes avant tout retour du public.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le BHV Marais, grand magasin de la rue de Rivoli à Paris, a dû fermer brusquement le 9 novembre faute d'assurance valable. Mercredi 18 novembre, Karl-Stéphane Cottendin, qui préside l'enseigne, a expliqué au personnel que ce point était réglé, mais que la fermeture allait durer.",
+        "Des travaux sur les équipements de sécurité incendie, nécessaires pour accueillir les clients, vont être lancés. Le dirigeant, qui visait encore une réouverture en milieu de semaine, dit désormais vouloir rouvrir au plus vite pour les fêtes et les soldes de janvier."
+      ]
+    },
+    {
+      "intertitre": "Une procédure collective en cours",
+      "paragraphes": [
+        "C'est le tribunal parisien des activités économiques qui a placé l'enseigne en redressement judiciaire, au début du mois. Des administrateurs judiciaires ont été nommés. Selon la direction, ils ont soutenu les discussions avec Brookfield, le fonds canadien qui possède le bâtiment depuis janvier, pour lancer ces travaux.",
+        "Fin octobre, la direction avait reconnu que l'entreprise était en cessation des paiements, alors qu'elle le niait encore peu avant. Elle attribue son manque de trésorerie à un désaccord avec Brookfield, ce que le bailleur conteste."
+      ]
+    },
+    {
+      "intertitre": "Une enseigne fragilisée",
+      "paragraphes": [
+        "En 2023, l'entrepreneur Frédéric Merlin avait repris le BHV aux Galeries Lafayette. En juin, il l'a revendu à perte à une partie de l'équipe dirigeante. Beaucoup de marques ont quitté le magasin à cause d'impayés et d'un partenariat très critiqué avec Shein. Un plan de relance annoncé cet été s'est heurté au manque de liquidités.",
+        "Le magasin BHV Parly 2, dans les Yvelines, fait l'objet d'un examen séparé. Il pourrait rouvrir de son côté si les conditions sont réunies."
+      ]
+    },
+    {
+      "intertitre": "Ce que cela montre",
+      "paragraphes": [
+        "D'ici la réouverture, les 660 employés du groupe gardent leur salaire. Le cas rappelle qu'une période de redressement ne protège pas de tout : assurance, conformité du bâtiment et relation avec le bailleur restent des points sensibles pour le dirigeant d'un commerce en difficulté."
+      ]
+    }
+  ],
+  "mots": 333,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/la-direction-veut-rouvrir-pour-les-achats-de-noel-la-fermeture-du-bhv-marais-prolongee-pour-des-travaux-de-mise-en-conformite_AD-202611180497.html",
+  "publie_le": "2026-11-18T10:32:31.000Z",
+  "redige_le": "2026-11-18T11:21:57.416Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/2eb7b1d3a07f1c77542777e039f0a40e94aaf8f4.webp",
+    "source": "wikimedia",
+    "credit": "Guilhem Vellut from Paris, France",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:BHV_Le_Marais,_Paris_3_September_2016.jpg",
+    "alt": "La façade du grand magasin BHV Marais, rue de Rivoli à Paris",
+    "mots_cles": [
+      "BHV Marais"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

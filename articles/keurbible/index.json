@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-17T18:19:04.022Z",
+  "genere_le": "2026-11-18T11:21:46.521Z",
   "articles": [
+    {
+      "id": "c88d80071ba8d291b62d275d0abe2da2e02a4cc2",
+      "slug": "nairobi-un-colloque-international-sur-esperance-et-eglise-en-afrique-c88d80",
+      "titre": "Nairobi : un colloque international sur l'espérance et l'Église en Afrique",
+      "publie_le": "2026-11-17T20:55:00.000Z",
+      "redige_le": "2026-11-18T11:21:38.935Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/c88d80071ba8d291b62d275d0abe2da2e02a4cc2.json"
+    },
+    {
+      "id": "34a3643a8bdc8fd25c2aa24c44fc353c698dac43",
+      "slug": "guinee-bissau-mgr-victor-quematcha-installe-eveque-de-bissau-pour-les-34a364",
+      "titre": "Guinée-Bissau : Mgr Víctor Quematcha installé évêque de Bissau pour les 50 ans du diocèse",
+      "publie_le": "2026-11-17T20:40:00.000Z",
+      "redige_le": "2026-11-18T11:21:38.935Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/34a3643a8bdc8fd25c2aa24c44fc353c698dac43.json"
+    },
     {
       "id": "a3b984589f38e9e988d83177bb4cbcca0816edd9",
       "slug": "ghana-les-eveques-lancent-la-preparation-des-150-ans-de-eglise-a3b984",

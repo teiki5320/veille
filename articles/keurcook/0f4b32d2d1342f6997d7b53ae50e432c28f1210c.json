@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "0f4b32d2d1342f6997d7b53ae50e432c28f1210c",
+  "slug": "ghana-moins-eau-pour-reussir-le-riz-local-conseille-un-chercheur-0f4b32",
+  "titre": "Ghana : moins d'eau pour réussir le riz local, conseille un chercheur",
+  "chapo": "Le riz ghanéen n'est pas moins bon que le riz importé : il demande juste une autre cuisson. C'est le message d'un spécialiste du riz à Accra.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Invité de l'émission matinale de la radio Joy FM, le mardi 17 novembre, le professeur Maxwell Darko Asante a donné un conseil simple aux cuisiniers du Ghana. Pour réussir le riz produit dans le pays, il faut mettre moins d'eau que pour le riz venu d'Asie.",
+        "Le chercheur dirige l'Institut de recherche sur les cultures du CSIR, l'organisme public de recherche scientifique du Ghana. Il a consacré sa thèse à la qualité des grains de riz."
+      ]
+    },
+    {
+      "intertitre": "Une question de fraîcheur",
+      "paragraphes": [
+        "Beaucoup de familles trouvent le riz local moins agréable que le riz vietnamien. Selon lui, le problème vient souvent de la casserole : on cuit les deux de la même façon, alors qu'ils ne se comportent pas pareil.",
+        "Le riz importé passe des mois en stock et en transport avant d'arriver sur les marchés. Il est donc plus sec. Le riz ghanéen, récolté plus récemment, contient plus d'humidité. Avec trop d'eau, ses grains deviennent collants et perdent leur tenue. Bien cuit, il peut au contraire offrir plus de parfum et de goût."
+      ]
+    },
+    {
+      "intertitre": "Des variétés de qualité",
+      "paragraphes": [
+        "Le chercheur assure que les variétés cultivées au Ghana valent, sur le plan génétique, celles du Vietnam. Pour lui, la différence ressentie à table tient surtout à l'âge du riz et à sa conservation.",
+        "Il reconnaît toutefois que le travail après la récolte reste important : sécher le paddy à temps, surveiller l'humidité et bien le décortiquer. Il note que les cailloux et impuretés, qui gâchaient autrefois le riz local, sont devenus beaucoup plus rares."
+      ]
+    },
+    {
+      "intertitre": "Le riz local veut reconquérir les assiettes",
+      "paragraphes": [
+        "Ces conseils arrivent alors que le Ghana veut produire tout le riz qu'il consomme d'ici 2028. Aujourd'hui, la production nationale couvre un peu plus de la moitié des besoins. Le riz est au cœur de nombreux plats du pays, du jollof au waakye. Apprendre à bien cuire le grain local pourrait aider les familles à l'adopter au quotidien."
+      ]
+    }
+  ],
+  "mots": 343,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "MyJoyOnline",
+  "source_url": "https://www.myjoyonline.com/how-to-cook-local-ghanaian-rice-to-taste-better-than-imported-foreign-rice-cri-director-explains/",
+  "publie_le": "2026-11-18T04:10:28.000Z",
+  "redige_le": "2026-11-18T11:21:46.535Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/0f4b32d2d1342f6997d7b53ae50e432c28f1210c.webp",
+    "source": "wikimedia",
+    "credit": "Maame1Yaa",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Jollof_rice_and_tomato_stew.jpg",
+    "alt": "Un plat de riz préparé à la façon d'Afrique de l'Ouest",
+    "mots_cles": [
+      "Jollof rice"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

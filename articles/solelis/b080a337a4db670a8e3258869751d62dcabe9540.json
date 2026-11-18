@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "b080a337a4db670a8e3258869751d62dcabe9540",
+  "slug": "insee-les-creations-entreprises-bondissent-de-16-6-aout-octobre-2026-b080a3",
+  "titre": "Insee : les créations d'entreprises bondissent de 16,6 % d'août à octobre 2026",
+  "chapo": "Les créations d'entreprises restent très dynamiques en France sur trois mois, d'après les chiffres publiés par l'Insee le 18 novembre. Le mois d'octobre marque cependant un coup de frein.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Selon l'Insee, le total des créations d'entreprises entre août et octobre 2026 dépasse de 49 500 celui de la même période de 2025, en données brutes. La hausse atteint 16,6 %.",
+        "Toutes les formes progressent. Les entreprises individuelles classiques augmentent de 31 %, les immatriculations de micro-entrepreneurs de 18,4 % et les sociétés de 6 %."
+      ]
+    },
+    {
+      "intertitre": "Le commerce en tête",
+      "paragraphes": [
+        "C'est le commerce qui pèse le plus dans cette hausse, avec 13 800 créations de plus qu'un an plus tôt. Dans ce secteur, la vente à distance spécialisée sur catalogue explique une bonne part, avec 5 200 créations supplémentaires.",
+        "Viennent ensuite les activités de soutien aux entreprises, avec 11 800 créations de plus, puis l'information et la communication, avec 11 300 créations supplémentaires."
+      ]
+    },
+    {
+      "intertitre": "Sur un an, une hausse de 12 %",
+      "paragraphes": [
+        "Sur les douze mois allant de novembre 2025 jusqu'à octobre 2026, 139 800 entreprises de plus ont vu le jour qu'au cours des douze mois précédents, soit une progression de 12,1 %. Les micro-entrepreneurs augmentent de 15,2 %, les entreprises individuelles classiques de 9,3 % et les sociétés de 5,4 %."
+      ]
+    },
+    {
+      "intertitre": "Un repli en octobre",
+      "paragraphes": [
+        "Le mois d'octobre, pris seul et corrigé des variations saisonnières, montre une baisse de 4,5 % des créations, après une hausse de 0,9 % en septembre et de 7,1 % en août. Les entreprises individuelles classiques reculent de 7,9 %, les sociétés de 4,1 % et les micro-entrepreneurs de 4,1 %.",
+        "Pour les dirigeants de TPE et de PME, ces chiffres signalent une concurrence plus nombreuse dans certains secteurs, comme le commerce en ligne. L'Insee établit ces chiffres à partir du répertoire Sirene des entreprises. Sa prochaine publication est attendue le 18 décembre 2026. La dynamique se confirme donc, malgré le coup d'arrêt du dernier mois."
+      ]
+    }
+  ],
+  "mots": 321,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Insee",
+  "source_url": "https://www.insee.fr/fr/statistiques/9140358",
+  "publie_le": "2026-11-18T07:45:00.000Z",
+  "redige_le": "2026-11-18T11:21:57.416Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/b080a337a4db670a8e3258869751d62dcabe9540.webp",
+    "source": "wikimedia",
+    "credit": "Institut national de la statistique et des études économiques (France). Fonction indéterminée France. Ministère de…",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Inventaire_communal_1988._55,_Meuse_-_Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques_;_Service_central_des_enqu%C3%AAtes_et_%C3%A9tudes_statistiques_-_bpt6k91177799_(24_of_62).jpg",
+    "alt": "Le logo ou un bâtiment de l'Insee",
+    "mots_cles": [
+      "Insee"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

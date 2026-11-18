@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-17T18:18:20.099Z",
+  "genere_le": "2026-11-18T11:21:53.034Z",
   "articles": [
+    {
+      "id": "0005ac7d545f79ff531b212dd2b1557765ae4c3b",
+      "slug": "accra-alvaro-barrington-tisse-la-migration-en-rideaux-au-limbo-museum-0005ac",
+      "titre": "Accra : Alvaro Barrington tisse la migration en rideaux au Limbo Museum",
+      "publie_le": "2026-11-18T08:45:27.000Z",
+      "redige_le": "2026-11-18T11:21:49.079Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/0005ac7d545f79ff531b212dd2b1557765ae4c3b.json"
+    },
+    {
+      "id": "3eca39caa3a11f5a284dec390602d1f23748cce8",
+      "slug": "paris-sonia-gomes-noue-des-tissus-charges-de-memoire-au-palais-de-3eca39",
+      "titre": "Paris : Sonia Gomes noue des tissus chargés de mémoire au Palais de Tokyo",
+      "publie_le": "2026-11-17T18:42:53.000Z",
+      "redige_le": "2026-11-18T11:21:49.079Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/3eca39caa3a11f5a284dec390602d1f23748cce8.json"
+    },
     {
       "id": "329d283ccfd53b1d800e229a324b9ed0886a5ab3",
       "slug": "casablanca-la-boutique-cote-bougie-mise-sur-la-pierre-et-la-terre-329d28",

@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-17T18:19:30.966Z",
+  "genere_le": "2026-11-18T11:21:57.371Z",
   "articles": [
+    {
+      "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
+      "slug": "congo-battu-par-les-comores-claude-le-roy-annonce-sa-demission-317385",
+      "titre": "Congo : battu par les Comores, Claude Le Roy annonce sa démission",
+      "publie_le": "2026-11-18T10:26:04.000Z",
+      "redige_le": "2026-11-18T11:21:53.052Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/3173852d16105014a1f57ae364b00e6d79ec7fbf.json"
+    },
+    {
+      "id": "176ba6663b57493a712a5acbfbb0545ee80dee89",
+      "slug": "can-2027-tenu-en-echec-en-tanzanie-le-nigeria-au-bord-de-elimination-176ba6",
+      "titre": "CAN 2027 : tenu en échec en Tanzanie, le Nigeria au bord de l'élimination",
+      "publie_le": "2026-11-18T08:28:19.000Z",
+      "redige_le": "2026-11-18T11:21:53.052Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/176ba6663b57493a712a5acbfbb0545ee80dee89.json"
+    },
+    {
+      "id": "92dad89e047c24ec604d7bfb1793f912f16857fa",
+      "slug": "eliminatoires-can-2027-algerie-humiliee-3-0-lome-par-le-togo-92dad8",
+      "titre": "Éliminatoires CAN 2027 : l'Algérie humiliée 3-0 à Lomé par le Togo",
+      "publie_le": "2026-11-17T18:36:57.000Z",
+      "redige_le": "2026-11-18T11:21:53.052Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/92dad89e047c24ec604d7bfb1793f912f16857fa.json"
+    },
     {
       "id": "8ca4996b1ab469da39ccd0433d9e7781720b59c6",
       "slug": "can-2027-le-senegal-premier-pays-qualifie-aide-par-la-victoire-du-8ca499",

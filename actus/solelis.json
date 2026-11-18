@@ -1,8 +1,134 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-17T18:18:24.759Z",
+  "genere_le": "2026-11-18T11:21:57.416Z",
   "actus": [
+    {
+      "id": "f063c37249e1b7696be0dc3df81d2a54448e1694",
+      "titre": "TPE : quinze jours de retard d'un client suffisent à mettre la trésorerie à sec",
+      "resume": "Une chronique du Journal du Net montre, chiffres à l'appui, comment un client qui règle avec quinze jours de retard peut empêcher une petite entreprise du bâtiment de régler un sous-traitant. Elle conseille un suivi jour par jour des entrées et sorties d'argent, plutôt qu'un simple solde de fin de mois.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:dettes-fournisseurs"
+      ],
+      "source_nom": "Journal du Net",
+      "source_url": "https://www.journaldunet.com/management/commercial/1558167-tresorerie-des-tpe-quand-quinze-jours-de-retard-suffisent-a-mettre-un-chantier-dans-le-rouge/",
+      "publie_le": "2026-11-18T10:50:59.000Z",
+      "collecte_le": "2026-11-18T11:21:57.416Z",
+      "langue": "fr",
+      "slug": "tpe-quinze-jours-de-retard-un-client-suffisent-mettre-la-tresorerie-f063c3",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f063c37249e1b7696be0dc3df81d2a54448e1694.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f063c37249e1b7696be0dc3df81d2a54448e1694.webp",
+        "source": "wikimedia",
+        "credit": "Robinet Testard",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Dagobert_visitant_le_chantier_de_la_construction_de_Saint-Denis.jpg",
+        "alt": "Un chantier de construction en France",
+        "mots_cles": [
+          "Chantier de construction France"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "2eb7b1d3a07f1c77542777e039f0a40e94aaf8f4",
+      "titre": "En redressement judiciaire, le BHV Marais prolonge sa fermeture pour travaux",
+      "resume": "Fermé depuis le 9 novembre pour un problème d'assurance désormais réglé, le BHV Marais reste porte close le temps de travaux de sécurité incendie. La direction, en redressement judiciaire depuis début novembre, espère rouvrir pour les fêtes. Les 660 salariés du groupe sont toujours payés.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/la-direction-veut-rouvrir-pour-les-achats-de-noel-la-fermeture-du-bhv-marais-prolongee-pour-des-travaux-de-mise-en-conformite_AD-202611180497.html",
+      "publie_le": "2026-11-18T10:32:31.000Z",
+      "collecte_le": "2026-11-18T11:21:57.416Z",
+      "langue": "fr",
+      "slug": "en-redressement-judiciaire-le-bhv-marais-prolonge-sa-fermeture-pour-2eb7b1",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/2eb7b1d3a07f1c77542777e039f0a40e94aaf8f4.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/2eb7b1d3a07f1c77542777e039f0a40e94aaf8f4.webp",
+        "source": "wikimedia",
+        "credit": "Guilhem Vellut from Paris, France",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:BHV_Le_Marais,_Paris_3_September_2016.jpg",
+        "alt": "La façade du grand magasin BHV Marais, rue de Rivoli à Paris",
+        "mots_cles": [
+          "BHV Marais"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "86cbf74a64c99ff73009ea3298e59d79594bda28",
+      "titre": "Liquidation : le fisc peut poursuivre le dirigeant même sans action en comblement",
+      "resume": "Dans un arrêt du 7 octobre 2026, la Cour de cassation juge que l'administration fiscale peut rechercher la responsabilité solidaire d'un dirigeant pour les impôts de sa société, même sans procédure en comblement de passif ouverte contre lui. La clôture de la liquidation n'efface pas ce risque.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "tags": [
+        "situation:impots-impayes"
+      ],
+      "source_nom": "Village de la Justice",
+      "source_url": "https://www.village-justice.com/articles/dirigeants-procedures-collectives-quand-responsabilite-fiscale-lpf-art-267,60110.html",
+      "publie_le": "2026-11-18T10:00:00.000Z",
+      "collecte_le": "2026-11-18T11:21:57.416Z",
+      "langue": "fr",
+      "slug": "liquidation-le-fisc-peut-poursuivre-le-dirigeant-meme-sans-action-en-86cbf7",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/86cbf74a64c99ff73009ea3298e59d79594bda28.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/86cbf74a64c99ff73009ea3298e59d79594bda28.webp",
+        "source": "wikimedia",
+        "credit": "DXR",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cour_de_Cassation,_Paris_140320_1.jpg",
+        "alt": "Le bâtiment de la Cour de cassation à Paris",
+        "mots_cles": [
+          "Cour de cassation (France)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "b080a337a4db670a8e3258869751d62dcabe9540",
+      "titre": "Insee : les créations d'entreprises bondissent de 16,6 % d'août à octobre 2026",
+      "resume": "D'août à octobre 2026, 49 500 entreprises de plus ont été créées qu'un an plus tôt, soit une hausse de 16,6 %, selon l'Insee. Le commerce, le soutien aux entreprises et l'information-communication tirent cette progression. En octobre seul, les créations reculent toutefois de 4,5 %.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Insee",
+      "source_url": "https://www.insee.fr/fr/statistiques/9140358",
+      "publie_le": "2026-11-18T07:45:00.000Z",
+      "collecte_le": "2026-11-18T11:21:57.416Z",
+      "langue": "fr",
+      "slug": "insee-les-creations-entreprises-bondissent-de-16-6-aout-octobre-2026-b080a3",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/b080a337a4db670a8e3258869751d62dcabe9540.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/b080a337a4db670a8e3258869751d62dcabe9540.webp",
+        "source": "wikimedia",
+        "credit": "Institut national de la statistique et des études économiques (France). Fonction indéterminée France. Ministère de…",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Inventaire_communal_1988._55,_Meuse_-_Institut_national_de_la_statistique_et_des_%C3%A9tudes_%C3%A9conomiques_;_Service_central_des_enqu%C3%AAtes_et_%C3%A9tudes_statistiques_-_bpt6k91177799_(24_of_62).jpg",
+        "alt": "Le logo ou un bâtiment de l'Insee",
+        "mots_cles": [
+          "Insee"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "641ba430af17e6c96fa458e820b71757c1a8faa5",
       "titre": "Carburants : la baisse touche plus de 90 % des stations, près de 21 centimes sur le gazole",
@@ -1820,137 +1946,6 @@
         "https://www.sudradio.fr/societe/commerces-pilles-vers-des-ouvertures-dominicales-jusqua-noel-pour-compenser",
         "https://www.linfodurable.fr/plus-de-2500-commerces-touches-par-les-violences-dont-un-millier-fortement-degrades-selon-cci"
       ]
-    },
-    {
-      "id": "a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8",
-      "titre": "Commerces pillés : une aide directe pouvant atteindre 10 000 euros",
-      "resume": "Le ministre du Commerce, Serge Papin, a précisé mercredi le fonds promis aux commerces endommagés depuis la mobilisation du 17 octobre : un montant plafonné à 10 000 euros, réservé aux entreprises de moins de 50 salariés. Environ 3 000 entreprises seraient touchées. Un prêt à taux zéro de Bpifrance reste aussi ouvert.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "tags": [
-        "situation:credit-bancaire"
-      ],
-      "source_nom": "Le Monde",
-      "source_url": "https://www.lemonde.fr/economie/article/2026/10/28/mobilisations-sociales-le-gouvernement-prevoit-une-aide-allant-jusqu-a-10-000-euros-pour-les-commerces-endommages_6801573_3234.html",
-      "publie_le": "2026-10-28T12:10:32.000Z",
-      "collecte_le": "2026-10-28T18:24:57.881Z",
-      "langue": "fr",
-      "slug": "commerces-pilles-une-aide-directe-pouvant-atteindre-10-000-euros-a7e2e0",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/a7e2e07f05244248c6d3b6f1c2b0d11ae02cfcf8.webp",
-        "source": "wikimedia",
-        "credit": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
-        "licence": "CC BY 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_Trade,_Crafts,_Tourism_and_Purchasing_Power,_to_the_EC_-_2025_(03).jpg",
-        "alt": "Serge Papin, ministre du Commerce",
-        "mots_cles": [
-          "Serge Papin"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "db61d0c63f410b036b7feb9e7ce7cb73525076d7",
-      "titre": "Papeterie de Saint-Gaudens : pas d'offre ferme, 200 M€ d'investissement envisagés",
-      "resume": "Fibre Excellence Saint-Gaudens, 238 salariés, n'a reçu aucune offre ferme avant le 22 octobre. Un industriel portugais, Ghost, prépare avec les pouvoirs publics un plan chiffré à 200 millions d'euros. Une audience est prévue début novembre au tribunal de commerce.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "Le Journal des Entreprises",
-      "source_url": "https://www.lejournaldesentreprises.com/article/fibre-excellence-saint-gaudens-un-projet-de-reprise-200-millions-deuros-2148206",
-      "publie_le": "2026-10-28T12:10:06.000Z",
-      "collecte_le": "2026-10-29T11:24:17.510Z",
-      "langue": "fr",
-      "slug": "papeterie-de-saint-gaudens-pas-offre-ferme-200-investissement-db61d0",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/db61d0c63f410b036b7feb9e7ce7cb73525076d7.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/db61d0c63f410b036b7feb9e7ce7cb73525076d7.webp",
-        "source": "wikimedia",
-        "credit": "Didier Descouens",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Coll%C3%A9giale_Saint-Pierre_et_Saint-Gaudens.jpg",
-        "alt": "La ville de Saint-Gaudens, en Haute-Garonne",
-        "mots_cles": [
-          "Saint-Gaudens"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "0bf71162ab118deb36af95fb16b94cd11cf0bd00",
-      "titre": "Forges de Tarbes : l'État discute avec quatre candidats à la reprise",
-      "resume": "En redressement judiciaire depuis lundi, les Forges de Tarbes, seul fabricant français de corps creux pour obus, intéressent quatre industriels, selon Catherine Vautrin, chargée des Armées, entendue au Sénat. L'État veut préserver ce site jugé stratégique.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "BFM Business",
-      "source_url": "https://www.bfmtv.com/economie/entreprises/defense/nous-avons-besoin-de-ces-corps-d-obus-quatre-candidats-a-la-reprise-des-forges-de-tarbes-placees-en-redressement-judiciaire_AV-202610280283.html",
-      "autres_sources": [
-        "https://www.usinenouvelle.com/aero-spatial/defense/sauvetage-des-forges-de-tarbes-nous-dialoguons-avec-quatre-candidats-industriels-pour-reprendre-le-savoir-faire-de-lentreprise-indique-la-ministre-des-armees.7PKFPODEPRH6JF5TI3YIRI6MVE.html"
-      ],
-      "publie_le": "2026-10-28T08:11:02.000Z",
-      "collecte_le": "2026-10-28T11:28:40.666Z",
-      "langue": "fr",
-      "slug": "forges-de-tarbes-etat-discute-avec-quatre-candidats-la-reprise-0bf711",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/0bf71162ab118deb36af95fb16b94cd11cf0bd00.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/0bf71162ab118deb36af95fb16b94cd11cf0bd00.webp",
-        "source": "wikimedia",
-        "credit": "Les Guides Bleus Pyrénées\"; with an introduction by F. Schrader, Published by Librairie Hachette, Paris",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Tarbes_1925.webp",
-        "alt": "Une vue de la ville de Tarbes",
-        "mots_cles": [
-          "Tarbes"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "b6c012221c9cf114e002cf5653d745392c9e30aa",
-      "titre": "Paris : le BHV Marais sollicite un redressement judiciaire pour sauver sa relance",
-      "resume": "Face à des tensions de trésorerie, le grand magasin parisien demande à être placé en redressement judiciaire, trois mois après avoir présenté un plan de relance. Sa direction parle d'une étape de la restructuration et met en cause son bailleur, qui n'aurait pas payé des indemnités liées à la restitution d'une partie des murs.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "Le Monde",
-      "source_url": "https://www.lemonde.fr/economie/article/2026/10/27/le-bhv-marais-a-paris-demande-son-placement-en-redressement-judiciaire_6801329_3234.html",
-      "autres_sources": [
-        "https://www.franceinfo.fr/economie/entreprises/le-grand-magasin-parisien-bhv-marais-demande-son-placement-en-redressement-judiciaire_8256289.html",
-        "https://www.sudouest.fr/ile-de-france/paris/economie-le-grand-magasin-bhv-marais-demande-son-placement-en-redressement-judiciaire-31267225.php",
-        "https://www.bfmtv.com/economie/entreprises/trois-mois-apres-la-presentation-d-un-plan-de-relance-le-grand-magasin-bhv-marais-demande-son-placement-en-redressement-judiciaire_AD-202610270677.html"
-      ],
-      "publie_le": "2026-10-27T17:24:34.000Z",
-      "collecte_le": "2026-10-27T18:18:01.350Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/b6c012221c9cf114e002cf5653d745392c9e30aa.webp",
-        "source": "wikimedia",
-        "credit": "Chabe01",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Bazar_H%C3%B4tel_Ville_-_Paris_IV_(FR75)_-_2020-09-30_-_3.jpg",
-        "alt": "La façade du grand magasin BHV Marais, à Paris",
-        "mots_cles": [
-          "BHV Marais"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "paris-le-bhv-marais-sollicite-un-redressement-judiciaire-pour-sauver-b6c012",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/b6c012221c9cf114e002cf5653d745392c9e30aa.json",
-      "lecture_min": 2
     }
   ]
 }

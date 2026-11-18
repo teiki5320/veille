@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "0005ac7d545f79ff531b212dd2b1557765ae4c3b",
+  "slug": "accra-alvaro-barrington-tisse-la-migration-en-rideaux-au-limbo-museum-0005ac",
+  "titre": "Accra : Alvaro Barrington tisse la migration en rideaux au Limbo Museum",
+  "chapo": "Pour sa première exposition sur le continent africain, Alvaro Barrington transforme le Limbo Museum d'Accra avec des rideaux et des tissus qui racontent la vie des familles migrantes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Limbo Museum, à Accra, au Ghana, présente « Western Beef / Western Union », une exposition personnelle de l'artiste Alvaro Barrington. Elle a ouvert le 29 octobre 2026, pendant l'Accra Cultural Week, et reste visible jusqu'au 1er février 2027.",
+        "C'est l'aboutissement d'une résidence de l'artiste au musée, dirigé par sa fondatrice Dominique Petit-Frère. Pour Barrington, c'est la toute première exposition personnelle en Afrique."
+      ]
+    },
+    {
+      "intertitre": "Des rideaux de supermarché",
+      "paragraphes": [
+        "Le titre renvoie à deux lieux familiers de la diaspora : une chaîne de supermarchés new-yorkaise et un service de transfert d'argent. L'artiste s'inspire de ces endroits du quotidien, où l'on fait ses courses et où l'on envoie de l'argent au pays.",
+        "Ses grands rideaux colorés relient ainsi New York, les Caraïbes et Accra. Les couleurs, les souvenirs et les matériaux ordinaires servent à raconter les trajets des familles entre plusieurs continents."
+      ]
+    },
+    {
+      "intertitre": "Le textile au cœur de son travail",
+      "paragraphes": [
+        "Né au Venezuela, élevé entre la Grenade et New York, installé à Londres, Barrington se voit d'abord comme peintre. Il travaille pourtant beaucoup la toile de jute, les tissus, les cartes postales et les vêtements. Pour lui, chaque matériau porte une histoire, personnelle ou commerciale, qui compte autant que l'image.",
+        "Avant l'exposition, il a parcouru Accra avec le rappeur ghanéen Teshieboi, dans un film réalisé pour Art Basel. On l'y voit dans un atelier de tissage local, sur la côte, dans des cuisines et dans la vie nocturne de la ville."
+      ]
+    },
+    {
+      "intertitre": "Écouter avant de créer",
+      "paragraphes": [
+        "L'artiste explique qu'il cherche à arriver dans un lieu avec curiosité, en écoutant les habitants, plutôt qu'avec des idées toutes faites. Il dit faire confiance aux gens du quartier pour comprendre la texture d'une ville. Après Accra, il prépare une commande publique sur la High Line, à New York."
+      ]
+    }
+  ],
+  "mots": 319,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "Designboom",
+  "source_url": "https://www.designboom.com/art/alvaro-barrington-stories-migration-supermarket-curtains-accra-limbo-museum/",
+  "autres_sources": [
+    "https://www.artbasel.com/stories/accra-as-seen-by-alvaro-barrington",
+    "https://ropac.net/news/3080-alvaro-barrington/",
+    "https://www.newexhibitions.com/e/21817"
+  ],
+  "publie_le": "2026-11-18T08:45:27.000Z",
+  "redige_le": "2026-11-18T11:21:49.079Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/0005ac7d545f79ff531b212dd2b1557765ae4c3b.webp",
+    "source": "wikimedia",
+    "credit": "Hano",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Alvaro_Barrington_at_the_61._Biennale_di_Venezia.jpg",
+    "alt": "L'artiste Alvaro Barrington",
+    "mots_cles": [
+      "Alvaro Barrington"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
