@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-18T18:18:17.328Z",
+  "genere_le": "2026-11-18T18:18:50.348Z",
   "actus": [
     {
       "id": "bb44b09e9a9d57578fa56bdcfb6952ffe473ed78",
@@ -94,12 +94,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/kultiled/34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4.webp",
         "source": "wikimedia",
-        "credit": "Jeffery Martin",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Basil_wrapped_in_plastic.jpg",
-        "alt": "Des plants de basilic cultivés hors-sol, sous abri.",
+        "credit": "Forest and Kim Starr",
+        "licence": "CC BY 3.0 us",
+        "page": "https://commons.wikimedia.org/wiki/File:Starr-100623-7801-Ocimum_basilicum-potted_plants_in_greenhouse-Pukalani_Plant_Company_Pulehu-Maui_(24746810490).jpg",
+        "alt": "Des plants de basilic en culture.",
         "mots_cles": [
-          "Basil hydroponics"
+          "Basil plants greenhouse"
         ],
         "largeur": 1600,
         "hauteur": 900
