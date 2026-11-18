@@ -1,7 +1,7 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-18T11:21:57.371Z",
+  "genere_le": "2026-11-18T13:29:45.304Z",
   "articles": [
     {
       "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
@@ -50,6 +50,14 @@
       "publie_le": "2026-11-16T19:27:13.000Z",
       "redige_le": "2026-11-17T11:20:30.121Z",
       "url": "https://teiki5320.github.io/veille/articles/keurfoot/965478cb1eb71e74d406a57ba400ea3345203be1.json"
+    },
+    {
+      "id": "9574617f7798ab238a4e04f71f53fabd5e227acd",
+      "slug": "eliminatoires-can-2027-rejoint-2-2-le-senegal-impose-4-2-au-soudan-957461",
+      "titre": "Éliminatoires CAN 2027 : rejoint à 2-2, le Sénégal s'impose 4-2 au Soudan à Juba",
+      "publie_le": "2026-11-16T19:00:00.000Z",
+      "redige_le": "2026-11-18T13:29:39.608Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/9574617f7798ab238a4e04f71f53fabd5e227acd.json"
     },
     {
       "id": "5961a9bef7b11f6c99577b49ae034ee0918f517b",

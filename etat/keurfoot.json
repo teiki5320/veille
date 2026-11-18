@@ -2785,6 +2785,10 @@
       "origine": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Stade_du_5-Juillet-1962%2C_USM_Alger_vs_CAPS_United%2C_July_9th_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
+      "id": "9574617f7798ab238a4e04f71f53fabd5e227acd",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    {
       "id": "5961a9bef7b11f6c99577b49ae034ee0918f517b",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PAPUA_NEW_GUINEA_NATIONAL_TEAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
@@ -2835,15 +2839,10 @@
     {
       "id": "1b670a36efcf8c386a7e1841a590567b63886ef2",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Stade_taieb_mehiri.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-    },
-    {
-      "id": "0b3f1f641796a6ac2407e19ec82d2fee7228107f",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Herv%C3%A9_Renard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     }
   ],
   "origines": {
     "d96fa8e6347d468c546e91c5c0cbc6e82b775666": "https://upload.wikimedia.org/wikipedia/commons/6/69/2023-07-07_Fussball%2C_Frauen%2C_L%C3%A4nderspiel%2C_Deutschland_-_Sambia_1DX_7062_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "820105006eea426262cd8f39c1dbc4cdd7337fb9": "https://upload.wikimedia.org/wikipedia/commons/a/af/Valenciennes_-_Lens_%2829-11-2019%29_37_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "957aebe86121bfb81dcffb9b2e8ab0e653d55199": "https://live.staticflickr.com/5106/5562333854_0a7d9ac0ca_b.jpg",
     "88d5acce09106b055c0369b486e1ae08631c8e4b": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ACM-Spurs_CL_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "81255f933558852f3797f711857a5831039b6b3c": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Newcastle_United_vs_Bayer_Leverkusen%2C_15_August_2026_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -2901,7 +2900,8 @@
     "8ca4996b1ab469da39ccd0433d9e7781720b59c6": "https://upload.wikimedia.org/wikipedia/commons/5/59/Patrick_Vieira_NYCFC.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "92dad89e047c24ec604d7bfb1793f912f16857fa": "https://upload.wikimedia.org/wikipedia/commons/5/51/Algeria_vs_Ivory_Coast_2013_AFCON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "3173852d16105014a1f57ae364b00e6d79ec7fbf": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "176ba6663b57493a712a5acbfbb0545ee80dee89": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Argentina-Nigeria_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "176ba6663b57493a712a5acbfbb0545ee80dee89": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Argentina-Nigeria_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "9574617f7798ab238a4e04f71f53fabd5e227acd": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nicolas_Jackson_20042025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-18T11:21:53.052Z",
+  "genere_le": "2026-11-18T13:29:39.608Z",
   "actus": [
     {
       "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
@@ -201,6 +201,38 @@
         "alt": "Le stade du 5-Juillet-1962 à Alger",
         "mots_cles": [
           "Stade du 5 Juillet 1962"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9574617f7798ab238a4e04f71f53fabd5e227acd",
+      "titre": "Éliminatoires CAN 2027 : rejoint à 2-2, le Sénégal s'impose 4-2 au Soudan à Juba",
+      "resume": "Lundi 16 novembre à Juba, les Lions de Patrick Vieira menaient 2-0 à la mi-temps grâce à Nicolas Jackson et El Hadji Malick Diouf. Le Soudan est revenu à 2-2, avant que Pathé Mboup et Paul Mendy ne donnent la victoire au Sénégal en fin de match.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "SD"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/elim-can-2027-soudan-senegal-les-lions-ont-tremble-mais-ont-fini-par-frapper-fort-2-4_2024549.html",
+      "publie_le": "2026-11-16T19:00:00.000Z",
+      "collecte_le": "2026-11-18T13:29:39.608Z",
+      "langue": "fr",
+      "slug": "eliminatoires-can-2027-rejoint-2-2-le-senegal-impose-4-2-au-soudan-957461",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9574617f7798ab238a4e04f71f53fabd5e227acd.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/9574617f7798ab238a4e04f71f53fabd5e227acd.webp",
+        "source": "wikimedia",
+        "credit": "Timmy96",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_20042025_(2).jpg",
+        "alt": "Un joueur de l'équipe du Sénégal de football",
+        "mots_cles": [
+          "Nicolas Jackson"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -2057,43 +2089,6 @@
         "alt": "Une joueuse internationale africaine citée parmi les candidates au titre de joueuse africaine de l'année",
         "mots_cles": [
           "Barbra Banda"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "820105006eea426262cd8f39c1dbc4cdd7337fb9",
-      "titre": "Éliminatoires CAN 2027 : Lilian Brassier rejoint le Togo pour affronter l'Algérie",
-      "resume": "Patrice Neveu a dévoilé les 25 Éperviers appelés pour les deux rencontres contre l'Algérie, prévues les 14 et 17 novembre. Le défenseur de l'Eintracht Francfort Lilian Brassier fait son entrée dans le groupe, aux côtés des attaquants Kévin Denkey et Kodjo Fo-Doh Laba.",
-      "theme": "foot",
-      "pays": [
-        "TG",
-        "DZ"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football/elim-can-2027-kevin-denkey-lilian-brassier-la-liste-du-togo-pour-le-double-rendez-vous-face-a-lalgerie/",
-      "autres_sources": [
-        "https://africatopsports.com/football/elim-can-2027-face-a-lalgerie-le-togo-comptera-sur-son-nouveau-roc-europeen-lilian-brassier/",
-        "https://www.afrik-foot.com/algerie-le-togo-devoile-sa-liste-avec-la-surprise-lilian-brassier",
-        "https://www.republicoftogo.com/toutes-les-rubriques/sport/togo-algerie-lilian-brassier-la-surprise-de-patrice-neveu"
-      ],
-      "publie_le": "2026-11-03T10:16:23.000Z",
-      "collecte_le": "2026-11-03T11:27:51.796Z",
-      "langue": "fr",
-      "slug": "eliminatoires-can-2027-lilian-brassier-rejoint-le-togo-pour-affronter-820105",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/820105006eea426262cd8f39c1dbc4cdd7337fb9.webp",
-        "source": "wikimedia",
-        "credit": "Supporterhéninois",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Valenciennes_-_Lens_(29-11-2019)_37_(cropped).jpg",
-        "alt": "Le défenseur Lilian Brassier, appelé pour la première fois avec le Togo",
-        "mots_cles": [
-          "Lilian Brassier"
         ],
         "largeur": 1600,
         "hauteur": 900
