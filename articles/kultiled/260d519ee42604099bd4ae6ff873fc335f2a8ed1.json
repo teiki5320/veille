@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "260d519ee42604099bd4ae6ff873fc335f2a8ed1",
+  "slug": "egypte-une-coentreprise-germano-egyptienne-veut-batir-des-fermes-260d51",
+  "titre": "Égypte : une coentreprise germano-égyptienne veut bâtir des fermes verticales au Caire",
+  "chapo": "L’allemand OrbiFarm et l’égyptien Dot Holding créent une société commune au Caire. Elle doit déployer des fermes en intérieur à étages en Afrique du Nord et dans le Golfe.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "OrbiFarm, entreprise installée à Ludwigsfelde en Allemagne, et le groupe Dot Holding, basé au Caire, ont signé un accord pour fonder une coentreprise en Égypte. L’annonce est relayée par le site spécialisé Vertical Farm Daily.",
+        "La nouvelle société aura son siège au Caire. Elle exploitera et vendra la technique d’OrbiFarm pour cultiver des plantes alimentaires et médicinales en milieu contrôlé, en Afrique du Nord et dans les pays du Golfe."
+      ]
+    },
+    {
+      "intertitre": "Un quart pour l’un, trois quarts pour l’autre",
+      "paragraphes": [
+        "OrbiFarm détient 25 % du capital. L’entreprise apporte sa technique, son savoir-faire et son ingénierie. Les installations restent conçues et fournies depuis l’Allemagne.",
+        "Dot Holding possède les 75 % restants. Le groupe égyptien finance les fermes propres à la coentreprise et se charge de la vente ainsi que de l’exploitation sur place."
+      ]
+    },
+    {
+      "intertitre": "Des étages de culture sans terre",
+      "paragraphes": [
+        "Le procédé fait pousser les plantes sur plusieurs niveaux, à l’intérieur d’un hangar, sans terre agricole. Selon l’entreprise, il consomme une petite partie seulement de l’eau nécessaire en plein champ et donne une qualité régulière toute l’année, quel que soit le climat.",
+        "Ces arguments comptent dans une région où l’eau est rare. Le président de Dot Holding, Tawheed Hashem, cite la sécurité alimentaire et le manque d’eau parmi les défis visés. Il veut aussi former des compétences locales et faire de l’Égypte une plateforme régionale pour ces techniques agricoles."
+      ]
+    },
+    {
+      "intertitre": "D’abord des clients, puis une ferme au Caire",
+      "paragraphes": [
+        "La coentreprise démarre avec de premiers projets pour des clients au Moyen-Orient et dans le Golfe. Elle construira ensuite sa première ferme de production dans la région du Grand Caire.",
+        "Pour Jan Bredack, fondateur et dirigeant d’OrbiFarm, ces marchés sont les premiers hors d’Europe pour l’entreprise. Il compte s’appuyer sur l’Égypte pour aborder plus tard d’autres pays d’Afrique et du Golfe. Aucun montant d’investissement ni calendrier n’est précisé dans l’annonce."
+      ]
+    }
+  ],
+  "mots": 332,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "EG",
+    "DE"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9894140/vertical-indoor-farming-venture-for-north-africa-and-the-gulf-region-announced/",
+  "publie_le": "2026-11-18T14:27:00.000Z",
+  "redige_le": "2026-11-18T18:18:17.328Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/260d519ee42604099bd4ae6ff873fc335f2a8ed1.webp",
+    "source": "wikimedia",
+    "credit": "ifarm.fi",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:IFarm.fi_Vertical_farm_Finland.jpg",
+    "alt": "Des cultures superposées sur plusieurs étages dans une ferme verticale.",
+    "mots_cles": [
+      "Vertical farming"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

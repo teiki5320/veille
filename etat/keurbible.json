@@ -1,47 +1,5 @@
 {
   "deja_vus": {
-    "0fe3496bb68ecb7ccae6c77da997bdf4f9ad2723": "2026-11-08T18:17:12.309Z",
-    "34dc266093efd970263555195218bb3c19ea7410": "2026-11-08T18:17:12.309Z",
-    "130f44fc37ebdf40a7c20793f3e8d1f9fc6da0e2": "2026-11-08T18:17:12.309Z",
-    "c65d5233a459fea0bea7a173c02def2fc24c55ce": "2026-11-08T18:17:12.309Z",
-    "ca79cf1b3bc36950f5cf02ded53afff6be45f054": "2026-11-08T18:17:12.309Z",
-    "51bc9f90cbc0f0c043f0e8cec72bb7d89f1bc015": "2026-11-08T18:17:12.309Z",
-    "e92198836bc0f51ab9ecbf4b143b30b0661938bd": "2026-11-08T18:17:12.309Z",
-    "f299a407310c6c485bc9d1346b7dddcd4f585f81": "2026-11-08T18:17:12.309Z",
-    "cba7770f542f13679e9827b89a890c077e0ff477": "2026-11-08T18:17:12.309Z",
-    "9d8bdae854e486ff33ece6a227fea033c4b63cca": "2026-11-08T18:17:12.309Z",
-    "c165bc5c9b9238f560c0d217159b9dcffad19760": "2026-11-08T18:17:12.309Z",
-    "6dbba6b60f88875e96bf961463e202aa84cc0ff3": "2026-11-08T18:17:12.309Z",
-    "8489e53a35b284a48a522d687ccc947e260a1e54": "2026-11-08T18:17:12.309Z",
-    "2b7e09f6bdf10d1dd78f87762ff616c69160d76a": "2026-11-08T18:17:12.309Z",
-    "fcd87f5fb528e7c68edd3580dd164c9612b6ec94": "2026-11-08T18:17:12.309Z",
-    "b56f5fd1eacf37e068d8164612e33e07b66505f1": "2026-11-08T18:17:12.309Z",
-    "5a5505a64dcaac4d7aaf1f84601801a828fec5b1": "2026-11-08T18:17:12.309Z",
-    "11f56913e8dd25e7acb2764504ee1f1f4f078505": "2026-11-08T18:17:12.309Z",
-    "6fbe7a31c1830b0ed791c542ae356dd8c7c87444": "2026-11-08T18:17:12.309Z",
-    "10ef6345d8d287d7a14eaf153bf8898cda60bf1a": "2026-11-08T18:17:12.309Z",
-    "5d2b57972274c5fd6ac147181736639e682a55c2": "2026-11-08T18:17:12.309Z",
-    "22f7de962bc768b6356a1b5929d707ad9cb3b57c": "2026-11-08T18:17:12.309Z",
-    "f23e321af3cb4d43dc69ff8ae2eb25163400148c": "2026-11-08T18:17:12.309Z",
-    "8cd6c76fc11af11a0e2bf18404a65591b7436c00": "2026-11-08T18:17:12.309Z",
-    "f6b2f0b8248715accae8be071e4c0f256138a6d2": "2026-11-08T18:17:12.309Z",
-    "94ae8c20ad02426aae1ff057fdab733fbc6c19cc": "2026-11-08T18:17:12.309Z",
-    "3150d46ebe690be75c7e183fbff882e0ce442553": "2026-11-08T18:17:12.309Z",
-    "4d61a98473c13add29817777b5d0b7108732672c": "2026-11-08T18:17:12.309Z",
-    "b8355929da891394f55a8ced0f5f4792513754ed": "2026-11-08T18:17:12.309Z",
-    "9b37e2d90e6d6d155376a60073889e3405713f8c": "2026-11-08T18:17:12.309Z",
-    "56c405bccaf32c182325964299fe9fd0500e404c": "2026-11-08T18:17:12.309Z",
-    "82db6aba747b48b24b0e17665bbb08f75b2ae63a": "2026-11-08T18:17:12.309Z",
-    "2a084e84ed0a236e0fded460dcca4d8b171cf320": "2026-11-08T18:17:12.309Z",
-    "4e1d20d25e8e18f76d95215d78ec633fc0b57d24": "2026-11-08T18:17:12.309Z",
-    "df6cda99d38177f066ae6101ba77894db5983240": "2026-11-08T18:17:12.309Z",
-    "ec4ab5f215b8e9210e2896a963cf8272cd703d7d": "2026-11-08T18:17:12.309Z",
-    "f99a86b89d6f6f7150e29455fad1c554a4b88932": "2026-11-08T18:17:12.309Z",
-    "7c2142c4059e0449830cd371ff849a60b6b74e62": "2026-11-08T18:17:12.309Z",
-    "5036d3e85859a8acc1fea00189271b6fe70a1e00": "2026-11-08T18:17:12.309Z",
-    "790ab203db32a78fbcf17a4cfb752b0883b0dae0": "2026-11-08T18:17:12.309Z",
-    "fcca3a0b854376c5c82c6070773f4946cdaff886": "2026-11-08T18:17:12.309Z",
-    "4c65780a311d97d8969b081b73a22db7d5867f5d": "2026-11-08T18:17:12.309Z",
     "39c5616cc5f5238e78255645e404fabf57f3ba6c": "2026-11-09T11:22:56.211Z",
     "468606b8e784fce7b4de769eb99b85238fbfbd3e": "2026-11-09T11:22:56.211Z",
     "a98d6420d8553d0bfcc7e2c939ed6540f343e71e": "2026-11-09T11:22:56.211Z",
@@ -1305,92 +1263,147 @@
     "b50d9786180477f88b43a7dbdc285ad5d29ea1bb": "2026-11-18T11:21:38.935Z",
     "8f31fdc3ab78e0a3c7c96b48792f028b69bbd9e1": "2026-11-18T11:21:38.935Z",
     "2b2c7feeda75f11b5475339f60b0b2475d0b4cda": "2026-11-18T11:21:38.935Z",
-    "fe03956c8c34ef3b0b915ba6e94db1cb43720e57": "2026-11-18T11:21:38.935Z"
+    "fe03956c8c34ef3b0b915ba6e94db1cb43720e57": "2026-11-18T11:21:38.935Z",
+    "b7ec3a1293b35eab30d28294eacf317d9b715ec1": "2026-11-18T18:18:15.031Z",
+    "8bd9201cb5881193279ca38af82afd059f4d70f4": "2026-11-18T18:18:15.031Z",
+    "82e0fd7dd5c41d9d1f154813164e1c3ec722798a": "2026-11-18T18:18:15.031Z",
+    "4a91245a129c9aba0845d40feb485a385725625b": "2026-11-18T18:18:15.031Z",
+    "1b88e013bfee101f1eacbae65495e64c03ed251c": "2026-11-18T18:18:15.031Z",
+    "3dd56333ee0e12c93deac37748cf41ef734371ca": "2026-11-18T18:18:15.031Z",
+    "c6a922c33db93cefcf7c66a2c6e8bb64175e7ba7": "2026-11-18T18:18:15.031Z",
+    "b7e244a5defc07b08160c1d2443fff12eef7cf9b": "2026-11-18T18:18:15.031Z",
+    "8c9fe8de7b1f9e718d0061e249d879864ac12fce": "2026-11-18T18:18:15.031Z",
+    "00ef56a7037c52cc3e27f0335213d9a2813891fc": "2026-11-18T18:18:15.031Z",
+    "256e82c9e3de8454b9d71f5ea7bf597632c0795d": "2026-11-18T18:18:15.031Z",
+    "519fc47b0220b6ff9ac57fc4ec7a2df98d3f7c42": "2026-11-18T18:18:15.031Z",
+    "154b2aeee85ea6c05e90721ded8aa07d8399fa98": "2026-11-18T18:18:15.031Z",
+    "f2dabe4f2190cf3b930c82d67757d596970aaafe": "2026-11-18T18:18:15.031Z",
+    "a4f7fd83e34f28a2a66a6ffa8c6cd9c6321593dd": "2026-11-18T18:18:15.031Z",
+    "0182365c8d878f39841bbb2baabf015ba2aa3adc": "2026-11-18T18:18:15.031Z",
+    "83e22805d624002680e10daeeafaebeaabd68aa9": "2026-11-18T18:18:15.031Z",
+    "a9a0b7bae23ddb7507a01ba601d365ebea02e2a4": "2026-11-18T18:18:15.031Z",
+    "80d8a7ad8e216cdc2c64a7457a8d5e0b7555e02a": "2026-11-18T18:18:15.031Z",
+    "1f184c4f32793c4395f196a52b7e09bb7c55df85": "2026-11-18T18:18:15.031Z",
+    "bc2c726568a348b8d302e43c445288f68e6e84be": "2026-11-18T18:18:15.031Z",
+    "1a190812b18fd95f9d4fa30a3847ab6b4ea70fb0": "2026-11-18T18:18:15.031Z",
+    "9c18c5cb4d65155f97a7df0eb0a4048166e2a45d": "2026-11-18T18:18:15.031Z",
+    "cfc950e344de50268c6c16cdf7cffe012daf5fce": "2026-11-18T18:18:15.031Z",
+    "de043a47aa9cbd81353d93d6e5c3d01041304d3c": "2026-11-18T18:18:15.031Z",
+    "9ca8e3df6e439fc84eea7cbef4df76b80e812ca3": "2026-11-18T18:18:15.031Z",
+    "f9ea10bc8fe9a9ba248e120e68ff243db415e964": "2026-11-18T18:18:15.031Z",
+    "539eb3298df692ca9de15c7494b9276e5a8ff0ba": "2026-11-18T18:18:15.031Z",
+    "c138d99168a129806671fefc34e39da03c790efc": "2026-11-18T18:18:15.031Z",
+    "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df": "2026-11-18T18:18:15.031Z",
+    "1e4b4b53ed89ee722e1bb77d604712c48e5fb037": "2026-11-18T18:18:15.031Z",
+    "2ef9abdf401223aec2f30b0a3648738dd086e1b2": "2026-11-18T18:18:15.031Z",
+    "4c4d384458e016f7fe1378ea6bad353644d2afcd": "2026-11-18T18:18:15.031Z",
+    "a453f8108bada6fcdb9b196d49968d5fabe49008": "2026-11-18T18:18:15.031Z",
+    "750ed3b3122da488aa5f538286399a290f3ff758": "2026-11-18T18:18:15.031Z",
+    "840b8a1725615653b5949d6364eaddc7773b7b4c": "2026-11-18T18:18:15.031Z",
+    "d051f20761177556b4ffed78856d5b829d2ed8f1": "2026-11-18T18:18:15.031Z",
+    "6a5b5f029153e4fd9a1a846c5fb8f9478254f715": "2026-11-18T18:18:15.031Z",
+    "7ff1d9d4861dd9ff64f99e5aed117b3440be0fe5": "2026-11-18T18:18:15.031Z",
+    "109ad8f85a125f327b3ffb5ab040f1255043937b": "2026-11-18T18:18:15.031Z",
+    "bb88c0c4b2d3c9dc2c184d66dd63c2736cdf1d88": "2026-11-18T18:18:15.031Z",
+    "6ff8730d9a7d49624bc780fdfdd42008f8117231": "2026-11-18T18:18:15.031Z",
+    "7bfafab9a88f1222441df242c40c27763493485e": "2026-11-18T18:18:15.031Z",
+    "63768f3e3c20211056d1ade1cf064def4826efba": "2026-11-18T18:18:15.031Z",
+    "d0adde6dd73499bfc08b20664f060d2d10c75e9d": "2026-11-18T18:18:15.031Z",
+    "b71cf2201171423166e8b1733aca4f7fbd5354aa": "2026-11-18T18:18:15.031Z",
+    "34a22929f91f9ecc5c3fcfd4d31ed069bc8dc079": "2026-11-18T18:18:15.031Z",
+    "3308f27409fd8c0ee27590fbf79d7e336c39ad76": "2026-11-18T18:18:15.031Z",
+    "85af81782ae1944573501de8d45ba818ed1dc5d2": "2026-11-18T18:18:15.031Z",
+    "3e6ac5973ad5149bac13f15d3cb8bf018bca0cd3": "2026-11-18T18:18:15.031Z",
+    "6e7f2f25405d10310101052fcf076d64177bd1cb": "2026-11-18T18:18:15.031Z",
+    "eab1e131e433215bf476ecea085c36d775ec9bd0": "2026-11-18T18:18:15.031Z",
+    "2a89975d978e319bd27198e2aec94b271286aff1": "2026-11-18T18:18:15.031Z",
+    "e38bf01513d9dca06835a2476c77a0c9abbfa1ea": "2026-11-18T18:18:15.031Z",
+    "01fa182b2f0dadaf7a890b1ad3306a5e6638d885": "2026-11-18T18:18:15.031Z"
   },
   "flux": {
     "https://www.la-croix.com/RSS/UNIVERS": {
       "nom": "La Croix",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 37
+      "articles": 22
     },
     "https://www.vaticannews.va/fr.rss.xml": {
       "nom": "Vatican News",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 7
     },
     "https://www.vaticannews.va/en/africa.rss.xml": {
       "nom": "Vatican News Africa",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.aciafrica.org/rss": {
       "nom": "ACI Africa",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 15
+      "articles": 1
     },
     "https://fr.aleteia.org/feed/": {
       "nom": "Aleteia",
-      "erreurs": 0,
+      "erreurs": 1,
       "dernier_succes": "2026-11-18T11:12:17.626Z",
-      "derniere_erreur": null,
+      "derniere_erreur": "2026-11-18T18:12:18.343Z : The operation was aborted due to timeout",
       "articles": 2
     },
     "https://fr.zenit.org/feed/": {
       "nom": "Zenit",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 5
     },
     "https://eglise.catholique.fr/feed/": {
       "nom": "Église catholique en France",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 2
     },
     "https://www.reforme.net/feed/": {
       "nom": "Réforme",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 2
     },
     "https://regardsprotestants.com/feed/": {
       "nom": "Regards protestants",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 4
+      "articles": 5
     },
     "https://www.christianismeaujourdhui.info/feed/": {
       "nom": "Christianisme Aujourd'hui",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.christianitytoday.com/feed/": {
       "nom": "Christianity Today",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 2
     },
     "https://orthodoxie.com/feed/": {
       "nom": "Orthodoxie.com",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 1
     },
     "https://africultures.com/feed/": {
       "nom": "Africultures",
@@ -1402,19 +1415,23 @@
     "https://www.rfi.fr/fr/afrique/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 14
+      "articles": 5
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-18T11:12:17.626Z",
+      "dernier_succes": "2026-11-18T18:12:18.343Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 3
     }
   },
   "images_recentes": [
+    {
+      "id": "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kisangani_cath%C3%A9drale_Notre_Dame_du_Tr%C3%A8s_Saint_Rosaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "c88d80071ba8d291b62d275d0abe2da2e02a4cc2",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tangaza-college1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -1490,10 +1507,6 @@
     {
       "id": "45934e7360bc0e3d18d071ae6c71326ae154c9e7",
       "origine": "https://live.staticflickr.com/1658/24205461734_14af6b90c2_b.jpg"
-    },
-    {
-      "id": "5246558dc8321fb52d388fc5b9b04e3fc626d573",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/0/09/Qacha%27s_Nek01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     }
   ],
   "origines": {
@@ -1549,7 +1562,8 @@
     "a3b984589f38e9e988d83177bb4cbcca0816edd9": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cathedral_Ghana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "baabe644b66fa9970e794d5c62be78098db53ca4": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cath%C3%A9drale_Notre-Dame_des_Victoires_Yaound%C3%A9_Cameroun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "c88d80071ba8d291b62d275d0abe2da2e02a4cc2": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tangaza-college1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "34a3643a8bdc8fd25c2aa24c44fc353c698dac43": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kathedrale_von_Bissau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "34a3643a8bdc8fd25c2aa24c44fc353c698dac43": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kathedrale_von_Bissau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kisangani_cath%C3%A9drale_Notre_Dame_du_Tr%C3%A8s_Saint_Rosaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "49a135982501fc5a7ca02c13a80811ebf5ed2b62": [

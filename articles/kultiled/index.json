@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-18T11:21:57.388Z",
+  "genere_le": "2026-11-18T18:18:23.830Z",
   "articles": [
+    {
+      "id": "260d519ee42604099bd4ae6ff873fc335f2a8ed1",
+      "slug": "egypte-une-coentreprise-germano-egyptienne-veut-batir-des-fermes-260d51",
+      "titre": "Égypte : une coentreprise germano-égyptienne veut bâtir des fermes verticales au Caire",
+      "publie_le": "2026-11-18T14:27:00.000Z",
+      "redige_le": "2026-11-18T18:18:17.328Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/260d519ee42604099bd4ae6ff873fc335f2a8ed1.json"
+    },
+    {
+      "id": "bb44b09e9a9d57578fa56bdcfb6952ffe473ed78",
+      "slug": "salades-de-serre-une-semaine-de-lumiere-renforcee-avant-la-recolte-bb44b0",
+      "titre": "Salades de serre : une semaine de lumière renforcée avant la récolte alourdit les feuilles",
+      "publie_le": "2026-11-18T14:27:00.000Z",
+      "redige_le": "2026-11-18T18:18:17.328Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/bb44b09e9a9d57578fa56bdcfb6952ffe473ed78.json"
+    },
+    {
+      "id": "34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4",
+      "slug": "canada-le-solaire-rendrait-rentable-le-basilic-cultive-en-tunnel-ferme-342836",
+      "titre": "Canada : le solaire rendrait rentable le basilic cultivé en tunnel fermé sous LED",
+      "publie_le": "2026-11-18T13:16:00.000Z",
+      "redige_le": "2026-11-18T18:18:17.328Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4.json"
+    },
     {
       "id": "9e005de4d173bc2aedfa303316d03ac76d7db95c",
       "slug": "lumiere-rouge-lointain-des-semis-plus-reguliers-mais-des-tiges-plus-9e005d",

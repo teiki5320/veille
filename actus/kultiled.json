@@ -1,8 +1,110 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-18T11:21:57.374Z",
+  "genere_le": "2026-11-18T18:18:17.328Z",
   "actus": [
+    {
+      "id": "bb44b09e9a9d57578fa56bdcfb6952ffe473ed78",
+      "titre": "Salades de serre : une semaine de lumière renforcée avant la récolte alourdit les feuilles",
+      "resume": "Une étude parue dans la revue HortScience a testé un supplément de lumière donné un, trois ou sept jours avant la récolte sur de la laitue, de la roquette, de l’épinard et de la moutarde cultivés en hydroponie sous serre. Le poids frais augmente avec l’intensité et la durée. Seule la roquette se présente mieux une semaine après la cueillette.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:laitue",
+        "legume:roquette",
+        "legume:epinard"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9893069/us-how-end-of-production-lighting-affects-leafy-greens/",
+      "publie_le": "2026-11-18T14:27:00.000Z",
+      "collecte_le": "2026-11-18T18:18:17.328Z",
+      "langue": "en",
+      "slug": "salades-de-serre-une-semaine-de-lumiere-renforcee-avant-la-recolte-bb44b0",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/bb44b09e9a9d57578fa56bdcfb6952ffe473ed78.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/bb44b09e9a9d57578fa56bdcfb6952ffe473ed78.webp",
+        "source": "wikimedia",
+        "credit": "MarvinBikolano",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hydroponics_Lettuce.jpg",
+        "alt": "Des laitues cultivées en hydroponie sous serre.",
+        "mots_cles": [
+          "Lettuce hydroponics"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "260d519ee42604099bd4ae6ff873fc335f2a8ed1",
+      "titre": "Égypte : une coentreprise germano-égyptienne veut bâtir des fermes verticales au Caire",
+      "resume": "L’entreprise allemande OrbiFarm et le groupe égyptien Dot Holding ont signé un accord pour créer une société commune au Caire. Elle doit installer des fermes en intérieur à étages en Afrique du Nord et dans le Golfe. OrbiFarm apporte sa technique et détient 25 % ; Dot Holding finance et possède 75 %.",
+      "theme": "culture-interieur",
+      "pays": [
+        "EG",
+        "DE"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9894140/vertical-indoor-farming-venture-for-north-africa-and-the-gulf-region-announced/",
+      "publie_le": "2026-11-18T14:27:00.000Z",
+      "collecte_le": "2026-11-18T18:18:17.328Z",
+      "langue": "en",
+      "slug": "egypte-une-coentreprise-germano-egyptienne-veut-batir-des-fermes-260d51",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/260d519ee42604099bd4ae6ff873fc335f2a8ed1.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/260d519ee42604099bd4ae6ff873fc335f2a8ed1.webp",
+        "source": "wikimedia",
+        "credit": "ifarm.fi",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:IFarm.fi_Vertical_farm_Finland.jpg",
+        "alt": "Des cultures superposées sur plusieurs étages dans une ferme verticale.",
+        "mots_cles": [
+          "Vertical farming"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4",
+      "titre": "Canada : le solaire rendrait rentable le basilic cultivé en tunnel fermé sous LED",
+      "resume": "Des chercheurs de l’université Western, en Ontario, ont étudié la culture de basilic en tunnel fermé alimenté par des panneaux solaires. Leur modèle, appliqué à six villes d’Amérique du Nord, annonce un investissement récupéré en deux ans environ. Le prix de vente du basilic reste le facteur décisif.",
+      "theme": "culture-interieur",
+      "pays": [
+        "CA"
+      ],
+      "tags": [
+        "legume:basilic"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9892284/can-agrivoltaics-can-increase-profitability-of-indoor-farming-say-researchers/",
+      "autres_sources": [
+        "https://pv-magazine-usa.com/2026/11/12/agrivoltaics-can-increase-profitability-of-indoor-farming-agrotunnels/"
+      ],
+      "publie_le": "2026-11-18T13:16:00.000Z",
+      "collecte_le": "2026-11-18T18:18:17.328Z",
+      "langue": "en",
+      "slug": "canada-le-solaire-rendrait-rentable-le-basilic-cultive-en-tunnel-ferme-342836",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4.webp",
+        "source": "wikimedia",
+        "credit": "Jeffery Martin",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Basil_wrapped_in_plastic.jpg",
+        "alt": "Des plants de basilic cultivés hors-sol, sous abri.",
+        "mots_cles": [
+          "Basil hydroponics"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "9e005de4d173bc2aedfa303316d03ac76d7db95c",
       "titre": "Lumière rouge lointain : des semis plus réguliers, mais des tiges plus longues",

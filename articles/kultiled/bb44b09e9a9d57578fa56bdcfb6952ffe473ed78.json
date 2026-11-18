@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "bb44b09e9a9d57578fa56bdcfb6952ffe473ed78",
+  "slug": "salades-de-serre-une-semaine-de-lumiere-renforcee-avant-la-recolte-bb44b0",
+  "titre": "Salades de serre : une semaine de lumière renforcée avant la récolte alourdit les feuilles",
+  "chapo": "Éclairer davantage les salades pendant les derniers jours avant la récolte augmente leur poids, selon une étude parue dans la revue HortScience. L’effet le plus net vient d’une semaine complète de lumière forte.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Quatre chercheurs, Jacob Friedrich, Sarah Armstrong, W. Owen et Kellie Walters, ont testé une technique simple : ajouter de la lumière artificielle juste avant de cueillir. Leurs résultats sont publiés en 2026 dans la revue scientifique HortScience.",
+        "L’essai porte sur quatre légumes-feuilles cultivés en hydroponie sous serre : une laitue beurre rouge, une roquette, un épinard et une moutarde d’Éthiopie. Toutes les plantes ont d’abord poussé dans les mêmes conditions, avec seize heures de jour."
+      ]
+    },
+    {
+      "intertitre": "Cinq intensités, trois durées",
+      "paragraphes": [
+        "Le supplément de lumière a été donné sept jours, trois jours ou un seul jour avant la récolte. Les chercheurs ont comparé cinq niveaux : aucun ajout, puis environ 100, 200, 400 et 600 micromoles de photons par mètre carré et par seconde. La lumière utilisée était blanche, à large spectre, avec beaucoup de vert et de bleu.",
+        "Un autre lot a reçu un mélange de rouge et de bleu, presque sans vert, à environ 200 micromoles. L’équipe a ensuite mesuré la croissance, la forme des plantes, le fonctionnement de la photosynthèse et la tenue des feuilles après la cueillette."
+      ]
+    },
+    {
+      "intertitre": "Des feuilles plus lourdes",
+      "paragraphes": [
+        "Pour les quatre espèces, le poids frais monte en général avec l’intensité et avec la durée du supplément. Le meilleur résultat est obtenu avec le niveau le plus fort, autour de 600 micromoles, appliqué durant les sept derniers jours.",
+        "La photosynthèse réagit différemment selon l’espèce. Son rendement baisse le plus souvent quand la lumière augmente tard, un ou trois jours avant la coupe. Il se rétablit quand les plantes disposent de plus de temps pour s’habituer."
+      ]
+    },
+    {
+      "intertitre": "La roquette se conserve mieux",
+      "paragraphes": [
+        "L’aspect de la laitue, de l’épinard et de la moutarde change peu après ce traitement. La roquette fait exception : une semaine après la récolte, elle présente mieux quand elle a reçu plus longtemps de la lumière blanche.",
+        "Les auteurs y voient des repères pour régler l’intensité, la couleur et la durée de l’éclairage de fin de culture. Ils rappellent que chaque espèce demande sa propre stratégie. L’essai a été mené sous serre, donc avec de la lumière naturelle en plus des lampes."
+      ]
+    }
+  ],
+  "mots": 380,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:laitue",
+    "legume:roquette",
+    "legume:epinard"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9893069/us-how-end-of-production-lighting-affects-leafy-greens/",
+  "publie_le": "2026-11-18T14:27:00.000Z",
+  "redige_le": "2026-11-18T18:18:17.328Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/bb44b09e9a9d57578fa56bdcfb6952ffe473ed78.webp",
+    "source": "wikimedia",
+    "credit": "MarvinBikolano",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hydroponics_Lettuce.jpg",
+    "alt": "Des laitues cultivées en hydroponie sous serre.",
+    "mots_cles": [
+      "Lettuce hydroponics"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

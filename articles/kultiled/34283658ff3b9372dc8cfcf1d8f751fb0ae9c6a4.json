@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4",
+  "slug": "canada-le-solaire-rendrait-rentable-le-basilic-cultive-en-tunnel-ferme-342836",
+  "titre": "Canada : le solaire rendrait rentable le basilic cultivé en tunnel fermé sous LED",
+  "chapo": "Des chercheurs de l’université Western, au Canada, ont calculé que des panneaux solaires peuvent rendre très rentable la culture de basilic en tunnel fermé. L’électricité reste le premier frein de ces fermes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L’équipe de l’université Western, en Ontario, s’est intéressée aux « agrotunnels ». Ces abris fermés en forme de tunnel associent la serre classique et les techniques de la ferme en intérieur : murs de culture verticaux, lampes LED, climat réglé.",
+        "Les essais ont eu lieu à Ilderton, en Ontario, avec du basilic de type Genovese. Les chercheurs ont fait varier le nombre de plants par pot et la durée d’éclairage. Ils ont ensuite transposé leurs mesures à un tunnel commercial de 12 816 emplacements de culture."
+      ]
+    },
+    {
+      "intertitre": "L’énergie, point faible des fermes en intérieur",
+      "paragraphes": [
+        "Joshua Pearce, auteur correspondant de l’étude, rappelle au site pv magazine que beaucoup de fermes en intérieur font faillite à cause de leur facture d’énergie. Le calcul tient compte des lampes LED, des pompes à chaleur, des ventilateurs, des déshumidificateurs et des pompes d’arrosage.",
+        "La solution étudiée est une installation solaire reliée au réseau, sans batterie. Dans la plupart des lieux examinés, elle ramène la consommation nette d’électricité presque à zéro."
+      ]
+    },
+    {
+      "intertitre": "Six villes comparées",
+      "paragraphes": [
+        "Le modèle économique couvre vingt-cinq ans et six villes : London, Montréal et Edmonton au Canada, Boston, Santa Fe et San Francisco aux États-Unis. La formule la plus rentable réunit trois plants par pot et un éclairage permanent, pour 3 573 kilos de basilic par an.",
+        "L’investissement de départ va d’environ 567 000 à 745 000 dollars. Produire un kilo coûte entre 12,10 et 22,70 dollars. Les auteurs annoncent un retour sur investissement d’environ 317 à 499 %, et une mise de départ récupérée en 1,6 à 2,2 ans."
+      ]
+    },
+    {
+      "intertitre": "Tout dépend du prix du basilic",
+      "paragraphes": [
+        "Les sites canadiens obtiennent en général de meilleurs résultats que les sites américains. À Santa Fe et à San Francisco, les règles de rachat du courant injecté limitent le gain, même si le solaire y reste plus avantageux que le réseau seul.",
+        "Le facteur qui pèse le plus est le prix de vente du basilic, devant le coût de construction du tunnel. L’étude est parue dans la revue Cleaner Energy Systems. Il s’agit d’un calcul sur modèle, pas du bilan d’une exploitation réelle."
+      ]
+    }
+  ],
+  "mots": 377,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "CA"
+  ],
+  "tags": [
+    "legume:basilic"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9892284/can-agrivoltaics-can-increase-profitability-of-indoor-farming-say-researchers/",
+  "autres_sources": [
+    "https://pv-magazine-usa.com/2026/11/12/agrivoltaics-can-increase-profitability-of-indoor-farming-agrotunnels/"
+  ],
+  "publie_le": "2026-11-18T13:16:00.000Z",
+  "redige_le": "2026-11-18T18:18:17.328Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4.webp",
+    "source": "wikimedia",
+    "credit": "Jeffery Martin",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Basil_wrapped_in_plastic.jpg",
+    "alt": "Des plants de basilic cultivés hors-sol, sous abri.",
+    "mots_cles": [
+      "Basil hydroponics"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

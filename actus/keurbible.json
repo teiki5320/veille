@@ -1,8 +1,42 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-18T13:16:14.859Z",
+  "genere_le": "2026-11-18T18:18:15.031Z",
   "actus": [
+    {
+      "id": "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df",
+      "titre": "Pew : les chrétiens d’Afrique subsaharienne devraient plus que doubler d’ici à 2070",
+      "resume": "D’après de nouvelles projections du Pew Research Center, l’Afrique au sud du Sahara compterait 1,6 milliard de chrétiens en 2070, soit 54 % des chrétiens du monde. La République démocratique du Congo deviendrait le pays qui en réunit le plus, devant les États-Unis. L’institut explique surtout cette hausse par la natalité.",
+      "theme": "culture",
+      "pays": [
+        "CD"
+      ],
+      "source_nom": "Christianity Today",
+      "source_url": "https://www.christianitytoday.com/2026/11/pew-research-christians-minority-2070-africa-growth/",
+      "autres_sources": [
+        "https://www.la-croix.com/a-vif/religions-du-monde-derriere-le-monotheisme-majoritaire-des-evolutions-importantes-20261118",
+        "https://www.la-croix.com/service/le-monde-est-il-en-train-de-changer-de-foi-la-croix-decrypte-les-grandes-mutations-religieuses-qui-pourraient-redessiner-la-planete-d-ici-2070-20261118"
+      ],
+      "publie_le": "2026-11-18T15:00:00.000Z",
+      "collecte_le": "2026-11-18T18:18:15.031Z",
+      "langue": "en",
+      "slug": "pew-les-chretiens-afrique-subsaharienne-devraient-plus-que-doubler-ici-99c4a3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/99c4a3cb14fb308760dede1ad6b6ce2da7eb52df.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/99c4a3cb14fb308760dede1ad6b6ce2da7eb52df.webp",
+        "source": "wikimedia",
+        "credit": "Piet Clement",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kisangani_cath%C3%A9drale_Notre_Dame_du_Tr%C3%A8s_Saint_Rosaire.jpg",
+        "alt": "La cathédrale Notre-Dame du Congo, à Kinshasa, en République démocratique du Congo.",
+        "mots_cles": [
+          "Cathédrale Notre-Dame du Congo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c88d80071ba8d291b62d275d0abe2da2e02a4cc2",
       "titre": "Nairobi : un colloque international sur l'espérance et l'Église en Afrique",
