@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "072fe655021beb5d85b2d794346baff03a5a99d2",
+  "slug": "can-2025-le-verdict-du-tas-sur-senegal-maroc-attendu-au-plus-tard-le-072fe6",
+  "titre": "CAN 2025 : le verdict du TAS sur Sénégal-Maroc attendu au plus tard le 30 novembre",
+  "chapo": "Le Sénégal et le Maroc connaissent peut-être enfin le calendrier, à défaut du vainqueur. La décision du Tribunal arbitral du sport sur la dernière finale continentale tomberait au plus tard le 30 novembre.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Cette échéance a été avancée par le compte spécialisé Soccer212 et relayée jeudi par Afrik-Foot. D'après lui, l'instance installée en Suisse dispose de cette date limite pour se prononcer dans le dossier qui oppose la Fédération sénégalaise à la CAF et à la fédération marocaine. La sentence pourrait être publiée n'importe quel jour d'ici là.",
+        "La prudence reste de mise. Le TAS n'a rien annoncé lui-même, et la même source avait déjà prédit, le 15 novembre, un verdict dans la semaine. Il n'est pas venu."
+      ]
+    },
+    {
+      "intertitre": "Un titre gagné sur le terrain, perdu sur tapis vert",
+      "paragraphes": [
+        "L'affaire remonte au 18 janvier 2026. Ce soir-là, à Rabat, le Sénégal s'impose face au Maroc, Pape Gueye inscrivant l'unique but en prolongation. Peu avant, les Lions avaient quitté un moment la pelouse pour contester un penalty sifflé en faveur des Marocains.",
+        "Deux mois plus tard, le 17 mars, l'instance d'appel de la confédération a sanctionné ce départ. Il a déclaré le Sénégal forfait et donné la victoire au Maroc sur le score de 3-0. La fédération sénégalaise a alors saisi le TAS pour récupérer le trophée."
+      ]
+    },
+    {
+      "intertitre": "Une sentence motivée, donc plus longue",
+      "paragraphes": [
+        "Les arbitres ont entendu les parties le 8 octobre, sans public. Le 19 octobre, le tribunal avait fait savoir que sa décision était prévue pour la fin novembre. Il a choisi de rédiger une sentence complète, avec toutes ses justifications juridiques, ce qui demande plusieurs semaines de travail.",
+        "Une limite fixée au 30 novembre resterait donc cohérente avec ce calendrier officiel."
+      ]
+    },
+    {
+      "intertitre": "Deux pays dans l'attente",
+      "paragraphes": [
+        "À Dakar, on espère retrouver une couronne obtenue sur la pelouse. À Rabat, on compte garder celle que la CAF a attribuée en mars. Le verdict dira quel pays figure officiellement au palmarès de l'édition 2025.",
+        "Pendant ce temps, l'édition suivante se prépare déjà : la CAF a présenté jeudi le logo de la CAN 2027, qui se jouera en Afrique de l'Est."
+      ]
+    }
+  ],
+  "mots": 349,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "MA"
+  ],
+  "competition": "CAN",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/senegal-maroc-une-date-limite-annoncee-pour-le-verdict-du-tas",
+  "publie_le": "2026-11-19T10:20:38.000Z",
+  "redige_le": "2026-11-19T11:21:43.573Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/072fe655021beb5d85b2d794346baff03a5a99d2.webp",
+    "source": "wikimedia",
+    "credit": "Fanny Schertzer",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Court_of_Arbitration_for_Sport_-_Lausanne_2.jpg",
+    "alt": "Le château de Béthusy, à Lausanne, siège du Tribunal arbitral du sport",
+    "mots_cles": [
+      "Château de Béthusy"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

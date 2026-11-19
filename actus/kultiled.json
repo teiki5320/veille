@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-18T18:18:50.348Z",
+  "genere_le": "2026-11-19T11:21:49.373Z",
   "actus": [
+    {
+      "id": "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae",
+      "titre": "États-Unis : Local Bounti reprend les deux serres bio de Revol Greens",
+      "resume": "Le producteur américain de salades sous serre Local Bounti a annoncé un accord pour reprendre les deux sites de Revol Greens, au Texas et au Minnesota. Ces 30 acres de serres bio portent sa surface de culture à environ 73 acres, soit près de 70 % de plus.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:laitue"
+      ],
+      "source_nom": "CEAg World",
+      "source_url": "https://www.ceagworld.com/greenhouse-produce/local-bounti-to-purchase-revol-greens-cea-facilities-in-texas-and-minnesota/",
+      "publie_le": "2026-11-18T14:30:52.000Z",
+      "collecte_le": "2026-11-19T11:21:49.373Z",
+      "langue": "en",
+      "slug": "etats-unis-local-bounti-reprend-les-deux-serres-bio-de-revol-greens-0051f1",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/0051f1da5d64a4df9b9a80acd769e9c91a4a77ae.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/0051f1da5d64a4df9b9a80acd769e9c91a4a77ae.webp",
+        "source": "wikimedia",
+        "credit": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I…",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lettuce_Closeup_Greenhouse_Phuktal_Zanskar_Jun24_A7CR_00442.jpg",
+        "alt": "Des laitues cultivées sous serre",
+        "mots_cles": [
+          "Lettuce greenhouse"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "bb44b09e9a9d57578fa56bdcfb6952ffe473ed78",
       "titre": "Salades de serre : une semaine de lumière renforcée avant la récolte alourdit les feuilles",
@@ -158,6 +191,34 @@
         "alt": "Une plante de jade (Crassula ovata) en pot",
         "mots_cles": [
           "Crassula ovata"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "4a94455477ec935be4aba029e9c04ae199abe5e6",
+      "titre": "Éclairage horticole : les fabricants de LED misent sur le spectre réglable et l'IA",
+      "resume": "Interrogés par le magazine Greenhouse Grower, quatre fabricants d'éclairage horticole conseillent les serristes. Ils recommandent de mesurer d'abord la lumière reçue par les cultures et de juger un système sur toute sa durée de vie. Ils voient le logiciel piloter peu à peu les lampes selon le soleil et le prix de l'électricité.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "source_nom": "Greenhouse Grower",
+      "source_url": "https://www.greenhousegrower.com/technology/how-greenhouse-lighting-is-evolving-to-meet-grower-needs/",
+      "publie_le": "2026-11-16T18:00:58.000Z",
+      "collecte_le": "2026-11-19T11:21:49.373Z",
+      "langue": "en",
+      "slug": "eclairage-horticole-les-fabricants-de-led-misent-sur-le-spectre-4a9445",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/4a94455477ec935be4aba029e9c04ae199abe5e6.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/4a94455477ec935be4aba029e9c04ae199abe5e6.webp",
+        "source": "openverse",
+        "credit": "theowl84",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/12717705@N02/1506126728",
+        "alt": "Des plantes cultivées sous un éclairage artificiel",
+        "mots_cles": [
+          "greenhouse lighting plants"
         ],
         "largeur": 1600,
         "hauteur": 900

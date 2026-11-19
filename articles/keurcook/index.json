@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-18T18:18:17.272Z",
+  "genere_le": "2026-11-19T11:21:31.947Z",
   "articles": [
+    {
+      "id": "46967d92eb469b3693026c4fdec1b1f14b353bc1",
+      "slug": "jeremy-doku-designe-le-waakye-riz-et-haricots-comme-son-plat-ghaneen-46967d",
+      "titre": "Jeremy Doku désigne le waakye, riz et haricots, comme son plat ghanéen préféré",
+      "publie_le": "2026-11-18T19:58:00.000Z",
+      "redige_le": "2026-11-19T11:21:30.271Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/46967d92eb469b3693026c4fdec1b1f14b353bc1.json"
+    },
     {
       "id": "0f4b32d2d1342f6997d7b53ae50e432c28f1210c",
       "slug": "ghana-moins-eau-pour-reussir-le-riz-local-conseille-un-chercheur-0f4b32",

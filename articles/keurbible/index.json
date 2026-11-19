@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-18T18:19:20.024Z",
+  "genere_le": "2026-11-19T11:21:30.257Z",
   "articles": [
+    {
+      "id": "691d1f4f2fcd243aa229f7c24ad74d7d842db760",
+      "slug": "afrique-du-sud-le-nonce-publie-un-livre-sur-le-bienheureux-benedict-691d1f",
+      "titre": "Afrique du Sud : le nonce publie un livre sur le bienheureux Benedict Daswa",
+      "publie_le": "2026-11-18T20:32:00.000Z",
+      "redige_le": "2026-11-19T11:21:13.576Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/691d1f4f2fcd243aa229f7c24ad74d7d842db760.json"
+    },
     {
       "id": "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df",
       "slug": "pew-les-chretiens-afrique-subsaharienne-devraient-plus-que-doubler-ici-99c4a3",

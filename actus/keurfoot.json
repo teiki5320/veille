@@ -1,8 +1,113 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-18T18:18:17.285Z",
+  "genere_le": "2026-11-19T11:21:43.573Z",
   "actus": [
+    {
+      "id": "87af115affda6b34a2dca5f976835f59050b2c30",
+      "titre": "CAN 2027 : la CAF présente « Pamoja », un logo inspiré du bouclier est-africain",
+      "resume": "Les trois pays hôtes de la prochaine CAN, Kenya, Tanzanie et Ouganda, ont dévoilé jeudi avec la CAF l'emblème du tournoi, attendu entre le 19 juin et le 17 juillet 2027. Baptisé Pamoja, « ensemble » en swahili, il reprend la forme du bouclier traditionnel de la région, avec le trophée en son centre.",
+      "theme": "foot",
+      "pays": [
+        "KE",
+        "TZ",
+        "UG"
+      ],
+      "competition": "CAN 2027",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/11/19/can-2027-la-caf-devoile-le-logo-officiel-de-la-competition-pamoja/",
+      "autres_sources": [
+        "https://www.footmercato.net/a6542494232107692054-la-caf-devoile-le-logo-officiel-de-la-can-2027",
+        "https://kawowo.com/2026/11/19/caf-afcon-2027-co-hosts-officially-launch-shield-inspired-logo/",
+        "https://africatopsports.com/football/officiel-le-logo-de-la-can-2027-devoilee/",
+        "https://africatopsports.com/football/can-2027-la-caf-devoile-le-logo-officiel-de-la-competition-ce-jeudi/"
+      ],
+      "publie_le": "2026-11-19T10:28:41.000Z",
+      "collecte_le": "2026-11-19T11:21:43.573Z",
+      "langue": "fr",
+      "slug": "can-2027-la-caf-presente-pamoja-un-logo-inspire-du-bouclier-est-87af11",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/87af115affda6b34a2dca5f976835f59050b2c30.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/87af115affda6b34a2dca5f976835f59050b2c30.webp",
+        "source": "wikimedia",
+        "credit": "Reda benkhadra",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:WAFCON_Futsal_2025_-_Morocco_trophy_celebration.jpg",
+        "alt": "Le trophée de la Coupe d'Afrique des nations de football",
+        "mots_cles": [
+          "Africa Cup of Nations trophy"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "072fe655021beb5d85b2d794346baff03a5a99d2",
+      "titre": "CAN 2025 : le verdict du TAS sur Sénégal-Maroc attendu au plus tard le 30 novembre",
+      "resume": "Selon le compte spécialisé Soccer212, cité par Afrik-Foot, le Tribunal arbitral du sport aurait jusqu'au 30 novembre pour trancher le litige né de la finale de l'édition 2025, au Maroc. Dakar conteste la victoire sur tapis vert accordée au Maroc par la CAF en mars. Le TAS n'a pas confirmé cette date.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "MA"
+      ],
+      "competition": "CAN",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/senegal-maroc-une-date-limite-annoncee-pour-le-verdict-du-tas",
+      "publie_le": "2026-11-19T10:20:38.000Z",
+      "collecte_le": "2026-11-19T11:21:43.573Z",
+      "langue": "fr",
+      "slug": "can-2025-le-verdict-du-tas-sur-senegal-maroc-attendu-au-plus-tard-le-072fe6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/072fe655021beb5d85b2d794346baff03a5a99d2.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/072fe655021beb5d85b2d794346baff03a5a99d2.webp",
+        "source": "wikimedia",
+        "credit": "Fanny Schertzer",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Court_of_Arbitration_for_Sport_-_Lausanne_2.jpg",
+        "alt": "Le château de Béthusy, à Lausanne, siège du Tribunal arbitral du sport",
+        "mots_cles": [
+          "Château de Béthusy"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "5fac7788a9278ee1d465621cf2d7deb7d1f860b3",
+      "titre": "Sénégal : le Jaraaf de Dakar de nouveau autorisé à recruter par la FIFA",
+      "resume": "Le Jaraaf de Dakar peut de nouveau enregistrer des joueurs. Sa sanction a pris fin, a fait savoir mercredi la fédération du pays, une fois close la procédure liée à une amende. Le club est deuxième de Ligue 1 après cinq journées.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Ligue 1 sénégalaise",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/11/18/ligue-1-la-fifa-leve-linterdiction-de-recrutement-pour-lasc-jaraaf/",
+      "autres_sources": [
+        "https://senego.com/la-fifa-leve-linterdiction-de-recrutement-du-jaraaf-2e-de-ligue-1_2025541.html"
+      ],
+      "publie_le": "2026-11-18T22:18:36.000Z",
+      "collecte_le": "2026-11-19T11:21:43.573Z",
+      "langue": "fr",
+      "slug": "senegal-le-jaraaf-de-dakar-de-nouveau-autorise-recruter-par-la-fifa-5fac77",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5fac7788a9278ee1d465621cf2d7deb7d1f860b3.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/5fac7788a9278ee1d465621cf2d7deb7d1f860b3.webp",
+        "source": "wikimedia",
+        "credit": "KaBa ( KaaBaa )",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:SenegaleseWrestling.JPG",
+        "alt": "Le stade Demba Diop, à Dakar",
+        "mots_cles": [
+          "Stade Demba Diop"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
       "titre": "Congo : battu par les Comores, Claude Le Roy annonce sa démission",
@@ -1981,114 +2086,6 @@
         "alt": "Pape Thiaw, entraîneur sénégalais de football",
         "mots_cles": [
           "Pape Thiaw"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "81255f933558852f3797f711857a5831039b6b3c",
-      "titre": "CAF Awards 2026 : Diomande, Bouaddi et Maza en tête des dix jeunes nommés",
-      "resume": "Dix espoirs se disputent la distinction réservée aux meilleurs talents précoces du continent. L'Ivoirien Yan Diomande, le Marocain Ayyoub Bouaddi et l'Algérien Ibrahim Maza font figure de favoris. Le Sénégalais Ibrahim Mbaye est aussi nommé.",
-      "theme": "foot",
-      "pays": [
-        "CI",
-        "MA",
-        "DZ",
-        "SN"
-      ],
-      "competition": "CAF Awards",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a7166820891012931369-caf-awards-2026-les-dix-nommes-pour-le-titre-de-meilleur-jeune-joueur-africain",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/04/ibrahim-mbaye-nomine-pour-le-titre-de-meilleur-jeune-africain/",
-        "https://www.afrik-foot.com/caf-awards-2026-bouaddi-maza-ou-diomande-qui-part-favori-chez-les-jeunes"
-      ],
-      "publie_le": "2026-11-04T09:15:14.000Z",
-      "collecte_le": "2026-11-04T11:20:43.061Z",
-      "langue": "fr",
-      "slug": "caf-awards-2026-diomande-bouaddi-et-maza-en-tete-des-dix-jeunes-nommes-81255f",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/81255f933558852f3797f711857a5831039b6b3c.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/81255f933558852f3797f711857a5831039b6b3c.webp",
-        "source": "wikimedia",
-        "credit": "Ardfern",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Newcastle_United_vs_Bayer_Leverkusen,_15_August_2026_(18).jpg",
-        "alt": "Ibrahim Maza, milieu offensif international algérien",
-        "mots_cles": [
-          "Ibrahim Maza"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "957aebe86121bfb81dcffb9b2e8ab0e653d55199",
-      "titre": "Ligue 1 sénégalaise : Teungueth FC remporte entraîneur, joueur et gardien de l'année",
-      "resume": "La ligue professionnelle sénégalaise a récompensé trois membres du club de Rufisque au terme de l'exercice 2025-2026 : l'entraîneur Malick Daf, le défenseur Moustapha Guèye, élu joueur de l'année, et le gardien Pape Abdoulaye Dieng. Le club avait déjà décroché le titre en juin.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Ligue 1 sénégalaise",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/teungueth-fc-rafle-les-trois-trophees-individuels-avec-daf-gueye-et-dieng_2020008.html",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/03/ligue-1-malick-daf-dieng-gueye-teungueth-fc-rafle-les-distinctions-individuelles-de-la-saison/"
-      ],
-      "publie_le": "2026-11-03T11:13:35.000Z",
-      "collecte_le": "2026-11-03T11:27:51.796Z",
-      "langue": "fr",
-      "slug": "ligue-1-senegalaise-teungueth-fc-remporte-entraineur-joueur-et-gardien-957aeb",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/957aebe86121bfb81dcffb9b2e8ab0e653d55199.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/957aebe86121bfb81dcffb9b2e8ab0e653d55199.webp",
-        "source": "openverse",
-        "credit": "Jeff Attaway",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/33398364@N08/5562333854",
-        "alt": "Des joueurs lors d'un match de football en Afrique",
-        "mots_cles": [
-          "senegal football stadium"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "d96fa8e6347d468c546e91c5c0cbc6e82b775666",
-      "titre": "CAF Awards 2026 : le Cameroun place trois joueuses parmi les dix candidates de l'année",
-      "resume": "La Confédération africaine de football a publié mardi la liste des dix prétendantes au trophée de meilleure joueuse africaine 2026. Les championnes d'Afrique camerounaises y sont trois, aux côtés des sœurs Chawinga, de Barbra Banda et de Thembi Kgatlana. La lauréate sera désignée le 7 décembre à Lagos.",
-      "theme": "foot",
-      "pays": [
-        "CM",
-        "MW",
-        "ZM"
-      ],
-      "competition": "CAF Awards",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/joueuse-africaine-de-lannee-3-vainqueures-de-la-can-lalgerie-le-maroc-et-4-stars-parmi-les-10-nommees",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/03/caf-awards-2026-adji-ndiaye-de-nouveau-nominee-pour-le-titre-de-gardienne-de-lannee/"
-      ],
-      "publie_le": "2026-11-03T11:03:45.000Z",
-      "collecte_le": "2026-11-03T11:27:51.796Z",
-      "langue": "fr",
-      "slug": "caf-awards-2026-le-cameroun-place-trois-joueuses-parmi-les-dix-d96fa8",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/d96fa8e6347d468c546e91c5c0cbc6e82b775666.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/d96fa8e6347d468c546e91c5c0cbc6e82b775666.webp",
-        "source": "wikimedia",
-        "credit": "Steffen Prößdorf",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:2023-07-07_Fussball,_Frauen,_L%C3%A4nderspiel,_Deutschland_-_Sambia_1DX_7062_by_Stepro.jpg",
-        "alt": "Une joueuse internationale africaine citée parmi les candidates au titre de joueuse africaine de l'année",
-        "mots_cles": [
-          "Barbra Banda"
         ],
         "largeur": 1600,
         "hauteur": 900

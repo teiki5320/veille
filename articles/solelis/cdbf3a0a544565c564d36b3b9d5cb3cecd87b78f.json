@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "cdbf3a0a544565c564d36b3b9d5cb3cecd87b78f",
+  "slug": "lot-le-tribunal-de-commerce-de-cahors-invite-les-patrons-demander-cdbf3a",
+  "titre": "Lot : le tribunal de commerce de Cahors invite les patrons à demander conseil tôt",
+  "chapo": "À Cahors, le tribunal de commerce ne constate pas de vague de défaillances. Mais son président, Éric Boissel, demande aux chefs d'entreprise du Lot de venir le voir dès les premières alertes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Selon La Dépêche, l'incertitude domine chez les dirigeants lotois à l'approche de 2027. La conjoncture reste tendue, et l'élection présidentielle fait craindre un ralentissement de l'activité, comme souvent lors des années de scrutin. Le président du tribunal rappelle que les entreprises ont besoin de visibilité pour avancer.",
+        "Juliette Gayet, secrétaire générale à l'Union des entreprises lotoises, décrit de son côté une forte lassitude face au poids des charges."
+      ]
+    },
+    {
+      "intertitre": "Des chiffres encore stables",
+      "paragraphes": [
+        "Ce climat ne se voit pas encore dans l'activité du tribunal. Fin octobre 2026, le greffe comptait 107 procédures ouvertes depuis janvier, contre 101 un an plus tôt. Le rythme est resté proche de l'an passé jusqu'à fin juillet. Septembre a suscité quelques craintes, avant un retour au calme en octobre.",
+        "Éric Boissel juge ces statistiques rassurantes, mais il insiste sur la prévention."
+      ]
+    },
+    {
+      "intertitre": "Agir avant la cessation des paiements",
+      "paragraphes": [
+        "Le magistrat conseille de réagir au premier signal, par exemple quand les commandes reculent. Les mesures de prévention permettent au dirigeant d'échanger, en toute confidentialité, avec des juges qui dirigent eux-mêmes une entreprise. Pendant cet accompagnement, le patron garde la main sur sa société.",
+        "Le but est d'éviter une procédure collective : sauver l'activité et les emplois, et permettre aux créanciers d'être payés. Selon le juge, plus le problème est pris tôt, meilleures sont les chances de s'en sortir."
+      ]
+    },
+    {
+      "intertitre": "Un soutien psychologique avec Apesa 46",
+      "paragraphes": [
+        "Les difficultés économiques pèsent aussi sur la santé des dirigeants. D'après le baromètre 2025 réalisé par Bpifrance Le Lab avec la Fondation MMA, un tiers des patrons se trouvent en mauvaise santé mentale.",
+        "Dans le Lot, l'association Apesa 46, présidée par Juliette Gayet, s'appuie sur 200 sentinelles. Celles-ci peuvent signaler anonymement un chef d'entreprise en souffrance, à qui l'on propose ensuite des séances avec un psychologue. Une vingtaine de personnes profitent de ce soutien chaque année."
+      ]
+    }
+  ],
+  "mots": 334,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/19/on-ressent-un-gros-ras-le-bol-les-chefs-dentreprise-du-lot-appeles-a-demander-de-laide-des-les-premieres-difficultes-dans-le-lot-13658569.php",
+  "publie_le": "2026-11-19T05:01:02.000Z",
+  "redige_le": "2026-11-19T11:22:05.624Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/cdbf3a0a544565c564d36b3b9d5cb3cecd87b78f.webp",
+    "source": "wikimedia",
+    "credit": "MathieuMD",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cahors_-_Pont_Valentr%C3%A9_-_Diablotin_-_2012-12-28.jpg",
+    "alt": "Le pont Valentré, à Cahors, dans le Lot",
+    "mots_cles": [
+      "Pont Valentré Cahors"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

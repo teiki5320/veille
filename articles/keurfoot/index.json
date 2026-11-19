@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-18T18:18:17.317Z",
+  "genere_le": "2026-11-19T11:21:49.360Z",
   "articles": [
+    {
+      "id": "87af115affda6b34a2dca5f976835f59050b2c30",
+      "slug": "can-2027-la-caf-presente-pamoja-un-logo-inspire-du-bouclier-est-87af11",
+      "titre": "CAN 2027 : la CAF présente « Pamoja », un logo inspiré du bouclier est-africain",
+      "publie_le": "2026-11-19T10:28:41.000Z",
+      "redige_le": "2026-11-19T11:21:43.573Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/87af115affda6b34a2dca5f976835f59050b2c30.json"
+    },
+    {
+      "id": "072fe655021beb5d85b2d794346baff03a5a99d2",
+      "slug": "can-2025-le-verdict-du-tas-sur-senegal-maroc-attendu-au-plus-tard-le-072fe6",
+      "titre": "CAN 2025 : le verdict du TAS sur Sénégal-Maroc attendu au plus tard le 30 novembre",
+      "publie_le": "2026-11-19T10:20:38.000Z",
+      "redige_le": "2026-11-19T11:21:43.573Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/072fe655021beb5d85b2d794346baff03a5a99d2.json"
+    },
+    {
+      "id": "5fac7788a9278ee1d465621cf2d7deb7d1f860b3",
+      "slug": "senegal-le-jaraaf-de-dakar-de-nouveau-autorise-recruter-par-la-fifa-5fac77",
+      "titre": "Sénégal : le Jaraaf de Dakar de nouveau autorisé à recruter par la FIFA",
+      "publie_le": "2026-11-18T22:18:36.000Z",
+      "redige_le": "2026-11-19T11:21:43.573Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/5fac7788a9278ee1d465621cf2d7deb7d1f860b3.json"
+    },
     {
       "id": "3173852d16105014a1f57ae364b00e6d79ec7fbf",
       "slug": "congo-battu-par-les-comores-claude-le-roy-annonce-sa-demission-317385",

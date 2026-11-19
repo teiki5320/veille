@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-18T18:18:17.273Z",
+  "genere_le": "2026-11-19T11:21:31.953Z",
   "actus": [
+    {
+      "id": "3bfb6211ffe439a525e2a2aaa6246061701604a3",
+      "titre": "Afrique du Sud : Atom Furniture fait revivre les tables « atomiques » des années 1960",
+      "resume": "La jeune marque sud-africaine Atom Furniture réédite des meubles au style atomique, inspirés de tables basses en métal, bois et verre qui semblent propres à l'Afrique du Sud. Ses fondateurs, Carmi et Keenan O'Connell, présentent une collection de cinq pièces.",
+      "theme": "deco",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Visi",
+      "source_url": "https://visi.co.za/meet-atom-furniture-sas-new-mid-century-brand/",
+      "publie_le": "2026-11-19T04:00:00.000Z",
+      "collecte_le": "2026-11-19T11:21:31.953Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-atom-furniture-fait-revivre-les-tables-atomiques-des-3bfb62",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/3bfb6211ffe439a525e2a2aaa6246061701604a3.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/3bfb6211ffe439a525e2a2aaa6246061701604a3.webp",
+        "source": "openverse",
+        "credit": "CastawayVintage",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/44483053@N05/5577821009",
+        "alt": "Un meuble au style rétro des années 1960",
+        "mots_cles": [
+          "mid century coffee table"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0005ac7d545f79ff531b212dd2b1557765ae4c3b",
       "titre": "Accra : Alvaro Barrington tisse la migration en rideaux au Limbo Museum",

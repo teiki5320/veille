@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "46967d92eb469b3693026c4fdec1b1f14b353bc1",
+  "slug": "jeremy-doku-designe-le-waakye-riz-et-haricots-comme-son-plat-ghaneen-46967d",
+  "titre": "Jeremy Doku désigne le waakye, riz et haricots, comme son plat ghanéen préféré",
+  "chapo": "Pour Jeremy Doku, le Ghana commence dans l'assiette. L'ailier de Manchester City a désigné le waakye comme son plat ghanéen favori, celui que sa mère lui cuisine.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'international belge s'est confié dans une vidéo tournée par son club et relayée le 18 novembre par le site ghanéen MyJoyOnline. Interrogé sur ses liens avec le pays de ses parents, il a d'abord parlé de nourriture, avant même le football ou la famille élargie.",
+        "Le joueur de 24 ans explique que sa mère cuisine souvent pour lui. À la question de son plat préféré, il répond le waakye. Il avoue ne pas savoir le préparer et souligne que la recette demande du temps et beaucoup de soin."
+      ]
+    },
+    {
+      "intertitre": "Un classique de la cuisine ghanéenne",
+      "paragraphes": [
+        "Le waakye est un plat de riz et de haricots cuits ensemble. Il doit sa couleur brun-rouge aux feuilles de sorgho séchées ajoutées pendant la cuisson, puis retirées. Venu du nord du pays, il est devenu l'un des repas les plus répandus au Ghana, souvent servi par des vendeuses de rue le matin ou à midi.",
+        "On le mange avec de nombreux accompagnements : shito, la sauce pimentée noire ghanéenne, gari, spaghettis, œuf dur, poisson frit, viande ou sauce tomate. Il est aussi souvent présenté sur une feuille plutôt que dans une assiette, une habitude qui revient au goût du jour."
+      ]
+    },
+    {
+      "intertitre": "Des racines à Kumasi",
+      "paragraphes": [
+        "Jeremy Doku a aussi évoqué ses origines. Il appartient au peuple ashanti, et ses deux parents sont nés à Kumasi, la grande ville du centre du Ghana, ancienne capitale du royaume ashanti.",
+        "Né en Belgique, l'ailier joue pour les Diables rouges. Il garde pourtant un lien fort avec le Ghana, dont il a obtenu un passeport. Le waakye, lui, a même désormais son propre festival : une première édition a été organisée à Gomoa East, dans la région du Centre."
+      ]
+    }
+  ],
+  "mots": 306,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "GH"
+  ],
+  "source_nom": "MyJoyOnline",
+  "source_url": "https://www.myjoyonline.com/video-jeremy-doku-names-waakye-as-his-favourite-ghanaian-food/",
+  "publie_le": "2026-11-18T19:58:00.000Z",
+  "redige_le": "2026-11-19T11:21:30.271Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/46967d92eb469b3693026c4fdec1b1f14b353bc1.webp",
+    "source": "wikimedia",
+    "credit": "Maame1Yaa",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Waakye_in_a_leaf.jpg",
+    "alt": "Une assiette de waakye, plat ghanéen de riz et de haricots",
+    "mots_cles": [
+      "Waakye"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

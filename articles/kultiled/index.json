@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-18T18:18:50.377Z",
+  "genere_le": "2026-11-19T11:22:05.614Z",
   "articles": [
+    {
+      "id": "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae",
+      "slug": "etats-unis-local-bounti-reprend-les-deux-serres-bio-de-revol-greens-0051f1",
+      "titre": "États-Unis : Local Bounti reprend les deux serres bio de Revol Greens",
+      "publie_le": "2026-11-18T14:30:52.000Z",
+      "redige_le": "2026-11-19T11:21:49.373Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/0051f1da5d64a4df9b9a80acd769e9c91a4a77ae.json"
+    },
     {
       "id": "260d519ee42604099bd4ae6ff873fc335f2a8ed1",
       "slug": "egypte-une-coentreprise-germano-egyptienne-veut-batir-des-fermes-260d51",
@@ -42,6 +50,14 @@
       "publie_le": "2026-11-17T07:37:24.000Z",
       "redige_le": "2026-11-17T11:20:35.338Z",
       "url": "https://teiki5320.github.io/veille/articles/kultiled/d66d7f245c142ea5ce07c675ae16dddc04c45280.json"
+    },
+    {
+      "id": "4a94455477ec935be4aba029e9c04ae199abe5e6",
+      "slug": "eclairage-horticole-les-fabricants-de-led-misent-sur-le-spectre-4a9445",
+      "titre": "Éclairage horticole : les fabricants de LED misent sur le spectre réglable et l'IA",
+      "publie_le": "2026-11-16T18:00:58.000Z",
+      "redige_le": "2026-11-19T11:21:49.373Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/4a94455477ec935be4aba029e9c04ae199abe5e6.json"
     },
     {
       "id": "e276a6d1cf2631fe8bc467a1085dd8c05b53980c",

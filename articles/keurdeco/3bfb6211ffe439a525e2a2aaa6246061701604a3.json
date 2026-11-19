@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "3bfb6211ffe439a525e2a2aaa6246061701604a3",
+  "slug": "afrique-du-sud-atom-furniture-fait-revivre-les-tables-atomiques-des-3bfb62",
+  "titre": "Afrique du Sud : Atom Furniture fait revivre les tables « atomiques » des années 1960",
+  "chapo": "En Afrique du Sud, un jeune couple réédite des meubles au style « atomique », hérités de l'optimisme des années 1960. Leur marque, Atom Furniture, vient de présenter une collection de cinq pièces.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le magazine sud-africain Visi raconte l'histoire de ces tables basses aux boules de bois reliées par une fine structure de métal, sous un plateau de verre. Leur silhouette évoque une maquette de molécule. Elles renvoient à l'élan technologique qui a suivi les premiers pas de l'homme sur la Lune.",
+        "Les modèles d'origine sont devenus rares chez les brocanteurs. Ils semblent propres à l'Afrique du Sud, mais le nom de leur créateur reste inconnu, faute de documents."
+      ]
+    },
+    {
+      "intertitre": "Du vintage à la réédition",
+      "paragraphes": [
+        "Derrière Atom Furniture se trouvent Carmi et Keenan O'Connell. Le couple avait d'abord créé The Thrifty Duo, une affaire de mobilier ancien, cédée depuis. En cherchant ces tables, les deux fondateurs ont constaté que plus personne ne les fabriquait.",
+        "Leur travail sur les meubles d'occasion leur a appris à observer les matières, le savoir-faire et les détails qui font durer une pièce. Ils ont voulu faire revenir ce dessin dans les intérieurs."
+      ]
+    },
+    {
+      "intertitre": "Cinq pièces, trois matières",
+      "paragraphes": [
+        "La collection a commencé par une table basse et une table d'appoint. Elle s'est étendue à une étagère, une console d'entrée et un portant à vêtements. Les créateurs veulent que ces meubles s'accordent avec un fauteuil ancien, un canapé contemporain ou un meuble hérité de la famille.",
+        "Chaque pièce associe acier inoxydable, bois massif tourné à la main et, pour les tables et l'étagère, verre trempé. L'acier apporte solidité et netteté, le bois de la chaleur, et le verre laisse voir l'ossature."
+      ]
+    },
+    {
+      "intertitre": "Le bois tourné au centre",
+      "paragraphes": [
+        "Les boules de bois, tournées une à une, sont le cœur de chaque meuble. Leur veinage change d'une sphère à l'autre, ce qui apporte une touche humaine à ces formes géométriques répétées.",
+        "Ce retour du style atomique s'inscrit dans le goût actuel pour le mobilier du milieu du XXe siècle, ici revisité par des artisans sud-africains."
+      ]
+    }
+  ],
+  "mots": 333,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "Visi",
+  "source_url": "https://visi.co.za/meet-atom-furniture-sas-new-mid-century-brand/",
+  "publie_le": "2026-11-19T04:00:00.000Z",
+  "redige_le": "2026-11-19T11:21:31.953Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/3bfb6211ffe439a525e2a2aaa6246061701604a3.webp",
+    "source": "openverse",
+    "credit": "CastawayVintage",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/44483053@N05/5577821009",
+    "alt": "Un meuble au style rétro des années 1960",
+    "mots_cles": [
+      "mid century coffee table"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

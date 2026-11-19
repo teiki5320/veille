@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "691d1f4f2fcd243aa229f7c24ad74d7d842db760",
+  "slug": "afrique-du-sud-le-nonce-publie-un-livre-sur-le-bienheureux-benedict-691d1f",
+  "titre": "Afrique du Sud : le nonce publie un livre sur le bienheureux Benedict Daswa",
+  "chapo": "Un livre numérique raconte désormais la vie de Benedict Daswa, premier martyr catholique d'Afrique du Sud. Sa parution a été annoncée le 17 novembre par le représentant du pape dans le pays, Mgr Jagodziński.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le nonce apostolique signe l'ouvrage avec Mgr João Noé Rodrigues, évêque de Tzaneen, et la professeure Ewa Kucharska. Son titre reprend le prénom de naissance du bienheureux, Tshimangadzo, qui veut dire « miracle ».",
+        "Le livre s'appuie sur les souvenirs de personnes qui ont connu Benedict Daswa. Il le suit dans sa famille, dans sa classe et parmi les habitants de son village. Rédigé d'abord en polonais, la langue du nonce, il paraît en anglais, en version numérique."
+      ]
+    },
+    {
+      "intertitre": "Un instituteur du Limpopo",
+      "paragraphes": [
+        "Tshimangadzo Samuel Daswa naît le 16 juin 1946 dans la communauté juive lemba, au Limpopo, la province la plus septentrionale du pays. Devenu catholique, il prend le prénom de Benedict. Il est marié, père de famille et enseignant.",
+        "Entre fin 1989 et début 1990, la foudre frappe deux fois son village. Les anciens l'attribuent à la sorcellerie et demandent de l'argent pour payer un guérisseur qui désignerait un coupable. Benedict Daswa refuse de cotiser : pour lui, la foudre est un phénomène naturel."
+      ]
+    },
+    {
+      "intertitre": "Un martyre reconnu en 2015",
+      "paragraphes": [
+        "Le 2 février 1990, il est tué par un groupe de jeunes hommes, à 43 ans. Le pape François a reconnu son martyre en janvier 2015, et il a été proclamé bienheureux le 13 septembre de la même année. Il repose dans une église du village de Nweli."
+      ]
+    },
+    {
+      "intertitre": "Faire connaître le bienheureux",
+      "paragraphes": [
+        "Nommé en Afrique du Sud en avril 2024, le nonce s'est rendu en pèlerinage sur cette tombe en janvier 2026. Selon Mgr Rodrigues, ce voyage a compté dans son projet de faire découvrir le martyr en Pologne, son pays natal.",
+        "Pour Mgr Jagodziński, la vie de Benedict Daswa montre que les tâches de tous les jours, en famille, au travail et au village, peuvent devenir une manière de témoigner de l'Évangile. L'évêque de Tzaneen confie, lui, avoir été ému aux larmes en lisant la version anglaise."
+      ]
+    }
+  ],
+  "mots": 342,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "ZA"
+  ],
+  "tags": [
+    "rubrique:livres-et-coloriages"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25435/apostolic-nuncios-new-book-recounts-how-south-africas-first-catholic-martyr-lived-his-faith",
+  "publie_le": "2026-11-18T20:32:00.000Z",
+  "redige_le": "2026-11-19T11:21:13.576Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/691d1f4f2fcd243aa229f7c24ad74d7d842db760.webp",
+    "source": "openverse",
+    "credit": "A.Davey",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/40595948@N00/2790650035",
+    "alt": "Une église en Afrique",
+    "mots_cles": [
+      "catholic church south africa"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-18T18:18:17.266Z",
+  "genere_le": "2026-11-19T11:21:30.271Z",
   "actus": [
+    {
+      "id": "46967d92eb469b3693026c4fdec1b1f14b353bc1",
+      "titre": "Jeremy Doku désigne le waakye, riz et haricots, comme son plat ghanéen préféré",
+      "resume": "Dans un entretien avec Manchester City, l'ailier belge Jeremy Doku a confié que le waakye était son plat ghanéen préféré. C'est sa mère qui le lui prépare, et il reconnaît ne pas savoir le cuisiner lui-même. Ses deux parents sont nés à Kumasi.",
+      "theme": "cuisine",
+      "pays": [
+        "GH"
+      ],
+      "source_nom": "MyJoyOnline",
+      "source_url": "https://www.myjoyonline.com/video-jeremy-doku-names-waakye-as-his-favourite-ghanaian-food/",
+      "publie_le": "2026-11-18T19:58:00.000Z",
+      "collecte_le": "2026-11-19T11:21:30.271Z",
+      "langue": "en",
+      "slug": "jeremy-doku-designe-le-waakye-riz-et-haricots-comme-son-plat-ghaneen-46967d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/46967d92eb469b3693026c4fdec1b1f14b353bc1.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/46967d92eb469b3693026c4fdec1b1f14b353bc1.webp",
+        "source": "wikimedia",
+        "credit": "Maame1Yaa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Waakye_in_a_leaf.jpg",
+        "alt": "Une assiette de waakye, plat ghanéen de riz et de haricots",
+        "mots_cles": [
+          "Waakye"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0f4b32d2d1342f6997d7b53ae50e432c28f1210c",
       "titre": "Ghana : moins d'eau pour réussir le riz local, conseille un chercheur",

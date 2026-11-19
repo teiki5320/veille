@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-18T18:19:19.996Z",
+  "genere_le": "2026-11-19T11:21:13.576Z",
   "actus": [
+    {
+      "id": "691d1f4f2fcd243aa229f7c24ad74d7d842db760",
+      "titre": "Afrique du Sud : le nonce publie un livre sur le bienheureux Benedict Daswa",
+      "resume": "Le nonce apostolique en Afrique du Sud, Mgr Jagodziński, a annoncé le 17 novembre la parution d'un livre numérique sur Benedict Daswa, premier martyr catholique du pays. Fondé sur des souvenirs de proches, il retrace la vie de cet enseignant et père de famille, béatifié en 2015.",
+      "theme": "culture",
+      "pays": [
+        "ZA"
+      ],
+      "tags": [
+        "rubrique:livres-et-coloriages"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25435/apostolic-nuncios-new-book-recounts-how-south-africas-first-catholic-martyr-lived-his-faith",
+      "publie_le": "2026-11-18T20:32:00.000Z",
+      "collecte_le": "2026-11-19T11:21:13.576Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-le-nonce-publie-un-livre-sur-le-bienheureux-benedict-691d1f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/691d1f4f2fcd243aa229f7c24ad74d7d842db760.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/691d1f4f2fcd243aa229f7c24ad74d7d842db760.webp",
+        "source": "openverse",
+        "credit": "A.Davey",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/40595948@N00/2790650035",
+        "alt": "Une église en Afrique",
+        "mots_cles": [
+          "catholic church south africa"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df",
       "titre": "Pew : les chrétiens d’Afrique subsaharienne devraient plus que doubler d’ici à 2070",

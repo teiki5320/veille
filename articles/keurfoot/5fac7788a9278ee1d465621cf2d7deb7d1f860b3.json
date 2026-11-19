@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "5fac7788a9278ee1d465621cf2d7deb7d1f860b3",
+  "slug": "senegal-le-jaraaf-de-dakar-de-nouveau-autorise-recruter-par-la-fifa-5fac77",
+  "titre": "Sénégal : le Jaraaf de Dakar de nouveau autorisé à recruter par la FIFA",
+  "chapo": "Le Jaraaf de Dakar retrouve le droit de recruter. Mercredi 18 novembre, la FSF a fait savoir que l'instance mondiale mettait fin à sa sanction contre le club.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La FSF a transmis l'information dans une note adressée à la Ligue professionnelle. D'après la fédération, la levée intervient une fois close la procédure liée à l'amende que la FIFA avait infligée au club. Ce dossier était suivi par la FIFA Clearing House, la chambre de compensation créée par l'instance mondiale en 2022 pour faire transiter certains paiements entre clubs.",
+        "La fédération demande donc à la Ligue de tout prévoir pour que le Jaraaf puisse inscrire de nouvelles recrues, dans le respect des règlements."
+      ]
+    },
+    {
+      "intertitre": "Une sanction liée à des transferts",
+      "paragraphes": [
+        "L'interdiction avait été prononcée en septembre 2026. Selon Senego, elle était associée à des sommes dues à la suite d'opérations de transfert. Fin septembre, le président du club, Cheikh Seck, avait même demandé que le début de la Ligue 1 soit repoussé à cause de cette sanction.",
+        "Ce type de mesure est courant. Quand un club ne verse pas une somme due à un autre club ou à un joueur, la FIFA peut lui interdire d'enregistrer des joueurs jusqu'au règlement. Au Sénégal, l'AS Pikine vient d'ailleurs d'être frappée pour la deuxième fois par une interdiction de ce genre."
+      ]
+    },
+    {
+      "intertitre": "Un départ réussi en championnat",
+      "paragraphes": [
+        "La sanction n'a pas empêché le Jaraaf de bien commencer la saison. Après cinq journées, le club de la capitale est deuxième de Ligue 1 avec 11 points.",
+        "Il pourra désormais compléter son effectif pour la suite du championnat. Le Jaraaf est l'un des clubs les plus titrés du football sénégalais, et l'un des plus suivis à Dakar.",
+        "La décision soulage aussi la Ligue professionnelle, qui avait dû composer en début de saison avec plusieurs clubs privés de recrutement."
+      ]
+    }
+  ],
+  "mots": 300,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "SN"
+  ],
+  "competition": "Ligue 1 sénégalaise",
+  "source_nom": "Wiwsport",
+  "source_url": "https://wiwsport.com/2026/11/18/ligue-1-la-fifa-leve-linterdiction-de-recrutement-pour-lasc-jaraaf/",
+  "autres_sources": [
+    "https://senego.com/la-fifa-leve-linterdiction-de-recrutement-du-jaraaf-2e-de-ligue-1_2025541.html"
+  ],
+  "publie_le": "2026-11-18T22:18:36.000Z",
+  "redige_le": "2026-11-19T11:21:43.573Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/5fac7788a9278ee1d465621cf2d7deb7d1f860b3.webp",
+    "source": "wikimedia",
+    "credit": "KaBa ( KaaBaa )",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:SenegaleseWrestling.JPG",
+    "alt": "Le stade Demba Diop, à Dakar",
+    "mots_cles": [
+      "Stade Demba Diop"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-18T18:18:17.283Z",
+  "genere_le": "2026-11-19T11:21:43.557Z",
   "articles": [
+    {
+      "id": "3bfb6211ffe439a525e2a2aaa6246061701604a3",
+      "slug": "afrique-du-sud-atom-furniture-fait-revivre-les-tables-atomiques-des-3bfb62",
+      "titre": "Afrique du Sud : Atom Furniture fait revivre les tables « atomiques » des années 1960",
+      "publie_le": "2026-11-19T04:00:00.000Z",
+      "redige_le": "2026-11-19T11:21:31.953Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/3bfb6211ffe439a525e2a2aaa6246061701604a3.json"
+    },
     {
       "id": "0005ac7d545f79ff531b212dd2b1557765ae4c3b",
       "slug": "accra-alvaro-barrington-tisse-la-migration-en-rideaux-au-limbo-museum-0005ac",

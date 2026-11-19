@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "4a94455477ec935be4aba029e9c04ae199abe5e6",
+  "slug": "eclairage-horticole-les-fabricants-de-led-misent-sur-le-spectre-4a9445",
+  "titre": "Éclairage horticole : les fabricants de LED misent sur le spectre réglable et l'IA",
+  "chapo": "Comment choisir et faire évoluer l'éclairage d'une serre ? Le magazine américain Greenhouse Grower a posé la question à quatre fabricants de lampes horticoles. Leurs réponses dessinent les tendances des prochaines années.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Des responsables de Signify, TotalGrow Lights, Sollum Technologies et California Lightworks ont répondu. Tous rappellent que la lumière est l'un des domaines qui ont le plus bougé en culture sous abri ces dernières années. Les producteurs regardent désormais la consommation d'énergie et la réaction des plantes autant que la puissance des lampes.",
+        "Pour Michal Hanan, de Signify, un système d'éclairage engage une serre pour 10 à 15 ans. Il conseille d'en estimer la valeur sur toute cette durée, et pas seulement au moment de l'investissement."
+      ]
+    },
+    {
+      "intertitre": "D'abord mesurer la lumière",
+      "paragraphes": [
+        "Jeff Mastin, de TotalGrow Lights, revient à une question simple : les plantes reçoivent-elles assez de lumière ? Selon lui, mieux vaut en prévoir un peu trop que pas assez, car un surplus rattrape souvent d'autres défauts.",
+        "Kassim Tremblay, de Sollum Technologies, propose de poser un capteur quantique au niveau du feuillage et de suivre la lumière reçue chaque jour pendant tout l'hiver, table par table. Ceux qui le font découvrent souvent un éclairage moins régulier que prévu, et des lampes qui restent allumées les jours ensoleillés alors que le soleil a déjà suffi.",
+        "Il rappelle aussi que la lumière bleue freine l'allongement des tiges, et que le rouge lointain peut avancer la floraison de plantes de jours longs comme le pétunia ou le muflier."
+      ]
+    },
+    {
+      "intertitre": "Le logiciel aux commandes",
+      "paragraphes": [
+        "Les fabricants imaginent l'intelligence artificielle, reliée à des capteurs, régler un jour l'éclairage toute seule. Jeff Mastin reste prudent : la réponse des plantes dépend de nombreux facteurs, et tout automatiser trop tôt serait risqué. À court terme, il voit plutôt des alertes et des conseils.",
+        "Pour Kassim Tremblay, le vrai gain viendra du logiciel, capable de recalculer en continu la lumière d'appoint selon le soleil, la météo, le prix du courant et le stade de la culture. George Mekhtarian, de California Lightworks, pense que des jumeaux numériques permettront de tester des recettes de lumière bien plus vite qu'avec de vraies plantes."
+      ]
+    },
+    {
+      "intertitre": "Le coût de l'électricité au centre",
+      "paragraphes": [
+        "George Mekhtarian souligne la forte hausse du prix de l'électricité. Il conseille de comparer les systèmes selon le coût installé par micromole de lumière fournie, plutôt que selon leur puissance. Les fabricants s'attendent à des installations de plus en plus adaptées à chaque serre et à chaque culture."
+      ]
+    }
+  ],
+  "mots": 406,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "source_nom": "Greenhouse Grower",
+  "source_url": "https://www.greenhousegrower.com/technology/how-greenhouse-lighting-is-evolving-to-meet-grower-needs/",
+  "publie_le": "2026-11-16T18:00:58.000Z",
+  "redige_le": "2026-11-19T11:21:49.373Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/4a94455477ec935be4aba029e9c04ae199abe5e6.webp",
+    "source": "openverse",
+    "credit": "theowl84",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/12717705@N02/1506126728",
+    "alt": "Des plantes cultivées sous un éclairage artificiel",
+    "mots_cles": [
+      "greenhouse lighting plants"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

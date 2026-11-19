@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "56769ba2e9304e03c9b0be4101bcf84a21b88363",
+  "slug": "grands-magasins-le-printemps-supprime-222-postes-et-mise-sur-accueil-56769b",
+  "titre": "Grands magasins : le Printemps supprime 222 postes et mise sur l'accueil d'ici 2030",
+  "chapo": "Entre plan social, fermeture d'un magasin et dégâts liés aux manifestations, le Printemps traverse une période difficile. Son nouveau PDG, Rémy Baume, prépare une transformation qui doit courir jusqu'en 2030.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Invité jeudi 19 novembre de BFM Business, Rémy Baume a détaillé sa feuille de route. Passé par Carrefour et LVMH, puis à la tête de Zadig & Voltaire, il dirige le groupe depuis juin.",
+        "Il a hérité d'un plan de réorganisation annoncé en avril. Signé ensuite avec deux syndicats, l'accord supprime 222 postes parmi près de 3 000 salariés, avec en parallèle 93 postes créés et 17 contrats modifiés. Quant au site rennais, dont le centre commercial ne correspond plus à l'image haut de gamme visée, fermera en février."
+      ]
+    },
+    {
+      "intertitre": "Des pertes liées aux manifestations",
+      "paragraphes": [
+        "Les journées de mobilisation d'octobre ont pesé sur les ventes. Le manque à gagner se chiffre en millions, selon le PDG. Des magasins ont en outre été pillés, surtout aux rayons bijouterie et chaussures, et la facture des vols et des dégâts atteint elle aussi plusieurs millions. Des dossiers sont en cours auprès des assureurs.",
+        "La fin d'année compte beaucoup : novembre, décembre et janvier assurent à peu près 40 % des ventes de l'année. Rémy Baume se dit raisonnablement optimiste."
+      ]
+    },
+    {
+      "intertitre": "Trois axes de transformation",
+      "paragraphes": [
+        "L'enseigne, fondée en 1865, affronte le e-commerce, la mode ultra-éphémère et l'essor des vêtements d'occasion. Pour y répondre, le dirigeant veut une organisation moins cloisonnée, un usage plus large de l'IA et, avant tout, un meilleur accueil des clients.",
+        "Il mise sur la relation humaine, les salons et l'accompagnement personnalisé pour garder la clientèle. Il cite aussi la beauté comme un rayon où l'envie de dépenser reste forte."
+      ]
+    },
+    {
+      "intertitre": "Un secteur sous pression",
+      "paragraphes": [
+        "Le cas du Printemps illustre les difficultés des grands magasins. Le BHV Marais, autre enseigne parisienne historique, est en redressement judiciaire. Interrogé à son sujet, Rémy Baume a eu un mot pour les salariés touchés."
+      ]
+    }
+  ],
+  "mots": 316,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "BFM Business",
+  "source_url": "https://www.bfmtv.com/economie/entreprises/222-emplois-supprimes-un-magasin-ferme-des-millions-d-euros-de-degats-suite-aux-emeutes-le-printemps-mise-sur-une-transformation-profonde-pour-retrouver-des-couleurs_AV-202611190368.html",
+  "publie_le": "2026-11-19T08:39:17.000Z",
+  "redige_le": "2026-11-19T11:22:05.624Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/56769ba2e9304e03c9b0be4101bcf84a21b88363.webp",
+    "source": "wikimedia",
+    "credit": "Selbymay",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Op%C3%A9ra_Garnier_view_from_Printemps_Haussmann_(1).jpg",
+    "alt": "Le Printemps Haussmann, grand magasin parisien",
+    "mots_cles": [
+      "Printemps Haussmann"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

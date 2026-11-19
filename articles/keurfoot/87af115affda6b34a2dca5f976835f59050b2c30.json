@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "87af115affda6b34a2dca5f976835f59050b2c30",
+  "slug": "can-2027-la-caf-presente-pamoja-un-logo-inspire-du-bouclier-est-87af11",
+  "titre": "CAN 2027 : la CAF présente « Pamoja », un logo inspiré du bouclier est-africain",
+  "chapo": "La Confédération africaine de football a levé le voile, jeudi 19 novembre, sur l'emblème de la prochaine Coupe d'Afrique. Son nom, Pamoja, signifie « ensemble » en swahili, la langue commune des trois pays hôtes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le logo a été présenté simultanément dans les trois pays organisateurs, à 13 heures, heure locale. Les trois voisins d'Afrique de l'Est organiseront ensemble la prochaine Coupe d'Afrique des nations, programmée entre le 19 juin et le 17 juillet 2027. Le jour de la présentation, 212 jours séparaient encore les supporters du coup d'envoi.",
+        "Ce sera la première fois que le tournoi se jouera dans trois pays à la fois. Cette partie du continent n'avait plus reçu la compétition depuis 1976, quand l'Éthiopie l'avait accueillie."
+      ]
+    },
+    {
+      "intertitre": "Un bouclier, un trophée et cinq couleurs",
+      "paragraphes": [
+        "Le dessin reprend la silhouette du bouclier traditionnel d'Afrique de l'Est. Cet objet figure dans les armoiries nationales des trois organisateurs, ce qui en fait, selon la CAF, un signe naturel d'unité. Sa forme est tracée à partir de deux cercles de même taille qui se croisent.",
+        "Au centre se dresse la coupe de la CAN, surmontée du contour de l'Afrique. Le rouge et le noir occupent le haut du bouclier, le vert et le jaune encadrent le trophée, et le bleu ferme la base. Des perles colorées et des motifs géométriques rappellent le tissage et l'artisanat de la région."
+      ]
+    },
+    {
+      "intertitre": "Douze motifs pour trois pays",
+      "paragraphes": [
+        "L'identité visuelle ne se limite pas à l'emblème principal. Une série de douze motifs de bouclier l'accompagne. Le Kenya y est associé à de larges bandes horizontales, la Tanzanie à des diagonales tirées de son drapeau, et l'Ouganda à des teintes chaudes superposées et à la grue couronnée, son oiseau national.",
+        "Ces éléments habilleront les stades, les écrans et les réseaux sociaux pendant tout le tournoi."
+      ]
+    },
+    {
+      "intertitre": "Six qualifiés, un dossier encore ouvert",
+      "paragraphes": [
+        "Après quatre journées d'éliminatoires, six sélections ont déjà validé leur billet : le Bénin, le Burkina Faso, le Cameroun, le Mali, le Maroc et le Sénégal. Elles rejoignent les trois pays hôtes, présents d'office.",
+        "La CAF se tourne vers 2027 alors que l'édition précédente n'a pas encore de vainqueur définitif. Le différend entre le Sénégal et le Maroc sur la finale de l'édition 2025 attend toujours la décision des arbitres de Lausanne."
+      ]
+    }
+  ],
+  "mots": 376,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "KE",
+    "TZ",
+    "UG"
+  ],
+  "competition": "CAN 2027",
+  "source_nom": "Wiwsport",
+  "source_url": "https://wiwsport.com/2026/11/19/can-2027-la-caf-devoile-le-logo-officiel-de-la-competition-pamoja/",
+  "autres_sources": [
+    "https://www.footmercato.net/a6542494232107692054-la-caf-devoile-le-logo-officiel-de-la-can-2027",
+    "https://kawowo.com/2026/11/19/caf-afcon-2027-co-hosts-officially-launch-shield-inspired-logo/",
+    "https://africatopsports.com/football/officiel-le-logo-de-la-can-2027-devoilee/",
+    "https://africatopsports.com/football/can-2027-la-caf-devoile-le-logo-officiel-de-la-competition-ce-jeudi/"
+  ],
+  "publie_le": "2026-11-19T10:28:41.000Z",
+  "redige_le": "2026-11-19T11:21:43.573Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/87af115affda6b34a2dca5f976835f59050b2c30.webp",
+    "source": "wikimedia",
+    "credit": "Reda benkhadra",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:WAFCON_Futsal_2025_-_Morocco_trophy_celebration.jpg",
+    "alt": "Le trophée de la Coupe d'Afrique des nations de football",
+    "mots_cles": [
+      "Africa Cup of Nations trophy"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

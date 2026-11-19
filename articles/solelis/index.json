@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-18T18:18:23.852Z",
+  "genere_le": "2026-11-19T11:22:08.575Z",
   "articles": [
+    {
+      "id": "56769ba2e9304e03c9b0be4101bcf84a21b88363",
+      "slug": "grands-magasins-le-printemps-supprime-222-postes-et-mise-sur-accueil-56769b",
+      "titre": "Grands magasins : le Printemps supprime 222 postes et mise sur l'accueil d'ici 2030",
+      "publie_le": "2026-11-19T08:39:17.000Z",
+      "redige_le": "2026-11-19T11:22:05.624Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/56769ba2e9304e03c9b0be4101bcf84a21b88363.json"
+    },
+    {
+      "id": "cdbf3a0a544565c564d36b3b9d5cb3cecd87b78f",
+      "slug": "lot-le-tribunal-de-commerce-de-cahors-invite-les-patrons-demander-cdbf3a",
+      "titre": "Lot : le tribunal de commerce de Cahors invite les patrons à demander conseil tôt",
+      "publie_le": "2026-11-19T05:01:02.000Z",
+      "redige_le": "2026-11-19T11:22:05.624Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/cdbf3a0a544565c564d36b3b9d5cb3cecd87b78f.json"
+    },
     {
       "id": "f063c37249e1b7696be0dc3df81d2a54448e1694",
       "slug": "tpe-quinze-jours-de-retard-un-client-suffisent-mettre-la-tresorerie-f063c3",

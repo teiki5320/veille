@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-18T18:18:23.832Z",
+  "genere_le": "2026-11-19T11:22:05.624Z",
   "actus": [
+    {
+      "id": "56769ba2e9304e03c9b0be4101bcf84a21b88363",
+      "titre": "Grands magasins : le Printemps supprime 222 postes et mise sur l'accueil d'ici 2030",
+      "resume": "Le nouveau PDG du Printemps, Rémy Baume, a présenté sur BFM Business son plan pour relancer l'enseigne. L'accord signé avec deux syndicats prévoit 222 suppressions de postes sur environ 3 000 et la fermeture du magasin de Rennes en février. Les manifestations d'octobre ont aussi coûté plusieurs millions d'euros.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "BFM Business",
+      "source_url": "https://www.bfmtv.com/economie/entreprises/222-emplois-supprimes-un-magasin-ferme-des-millions-d-euros-de-degats-suite-aux-emeutes-le-printemps-mise-sur-une-transformation-profonde-pour-retrouver-des-couleurs_AV-202611190368.html",
+      "publie_le": "2026-11-19T08:39:17.000Z",
+      "collecte_le": "2026-11-19T11:22:05.624Z",
+      "langue": "fr",
+      "slug": "grands-magasins-le-printemps-supprime-222-postes-et-mise-sur-accueil-56769b",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/56769ba2e9304e03c9b0be4101bcf84a21b88363.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/56769ba2e9304e03c9b0be4101bcf84a21b88363.webp",
+        "source": "wikimedia",
+        "credit": "Selbymay",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Op%C3%A9ra_Garnier_view_from_Printemps_Haussmann_(1).jpg",
+        "alt": "Le Printemps Haussmann, grand magasin parisien",
+        "mots_cles": [
+          "Printemps Haussmann"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "cdbf3a0a544565c564d36b3b9d5cb3cecd87b78f",
+      "titre": "Lot : le tribunal de commerce de Cahors invite les patrons à demander conseil tôt",
+      "resume": "Dans le Lot, les dirigeants abordent 2027 avec inquiétude, entre charges élevées et année électorale. Le tribunal de commerce de Cahors a enregistré 107 procédures au 31 octobre, six de plus qu'un an plus tôt. Son président les appelle à se manifester au premier signe de difficulté.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/19/on-ressent-un-gros-ras-le-bol-les-chefs-dentreprise-du-lot-appeles-a-demander-de-laide-des-les-premieres-difficultes-dans-le-lot-13658569.php",
+      "publie_le": "2026-11-19T05:01:02.000Z",
+      "collecte_le": "2026-11-19T11:22:05.624Z",
+      "langue": "fr",
+      "slug": "lot-le-tribunal-de-commerce-de-cahors-invite-les-patrons-demander-cdbf3a",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/cdbf3a0a544565c564d36b3b9d5cb3cecd87b78f.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/cdbf3a0a544565c564d36b3b9d5cb3cecd87b78f.webp",
+        "source": "wikimedia",
+        "credit": "MathieuMD",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cahors_-_Pont_Valentr%C3%A9_-_Diablotin_-_2012-12-28.jpg",
+        "alt": "Le pont Valentré, à Cahors, dans le Lot",
+        "mots_cles": [
+          "Pont Valentré Cahors"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f063c37249e1b7696be0dc3df81d2a54448e1694",
       "titre": "TPE : quinze jours de retard d'un client suffisent à mettre la trésorerie à sec",
@@ -1879,73 +1939,6 @@
         "largeur": 1600,
         "hauteur": 900
       }
-    },
-    {
-      "id": "4f52fbad14267cdc1c82f757f84024555d16570b",
-      "titre": "TPE : 90 % des patrons pessimistes sur le climat des affaires, un niveau record",
-      "resume": "Selon le baromètre Ifop-Fiducial publié le 29 octobre, 90 % des dirigeants de très petites entreprises jugent mal orienté le climat des affaires, 17 points de plus qu'au trimestre précédent. 77 % repoussent leurs investissements ou leurs embauches ; la hausse des prix et l'énergie restent les premiers freins.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "BFM Business",
-      "source_url": "https://www.bfmtv.com/economie/entreprises/un-niveau-de-defiance-tres-eleve-83-des-patrons-de-tres-petites-entreprises-estiment-que-les-candidats-a-la-presidentielle-comprennent-mal-leurs-difficultes_AD-202610290693.html",
-      "publie_le": "2026-10-29T16:46:20.000Z",
-      "collecte_le": "2026-10-29T18:22:46.213Z",
-      "langue": "fr",
-      "slug": "tpe-90-des-patrons-pessimistes-sur-le-climat-des-affaires-un-niveau-4f52fb",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/4f52fbad14267cdc1c82f757f84024555d16570b.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/solelis/4f52fbad14267cdc1c82f757f84024555d16570b.svg",
-        "source": "carte",
-        "credit": "Illustration : Solelis",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Solelis avec la mention « Entreprises »",
-        "mots_cles": [
-          "Petit commerce en France"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "2e309e2b0bbd96df165be769512ec79ad2beaec4",
-      "titre": "Commerces touchés par les manifestations : des ouvertures le dimanche jusqu'à Noël",
-      "resume": "D'ici aux fêtes de fin d'année, l'exécutif va pousser les maires et les préfets à permettre davantage d'ouvertures dominicales aux commerces pénalisés par les manifestations du samedi. Le ministre du Travail y est favorable, à condition que les magasins dégradés aient pu être remis en état et que les salariés soient volontaires.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "20 Minutes",
-      "source_url": "https://www.20minutes.fr/economie/4258521-20261029-manifestations-gouvernement-veut-faciliter-ouverture-dimanche-jusqu-noel-rattraper-manque-gagner?at_medium=display&at_campaign=149",
-      "publie_le": "2026-10-29T12:11:51.000Z",
-      "collecte_le": "2026-10-29T18:22:46.213Z",
-      "langue": "fr",
-      "slug": "commerces-touches-par-les-manifestations-des-ouvertures-le-dimanche-2e309e",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/2e309e2b0bbd96df165be769512ec79ad2beaec4.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/solelis/2e309e2b0bbd96df165be769512ec79ad2beaec4.svg",
-        "source": "carte",
-        "credit": "Illustration : Solelis",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Solelis avec la mention « Entreprises »",
-        "mots_cles": [
-          "Maud Bregeon",
-          "shopping street france",
-          "shop window"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://www.moneyvox.fr/votre-argent/actualites/111022/commerces-le-gouvernement-veut-faciliter-ouverture-le-dimanche-jusqua-noel",
-        "https://www.sudradio.fr/societe/commerces-pilles-vers-des-ouvertures-dominicales-jusqua-noel-pour-compenser",
-        "https://www.linfodurable.fr/plus-de-2500-commerces-touches-par-les-violences-dont-un-millier-fortement-degrades-selon-cci"
-      ]
     }
   ]
 }
