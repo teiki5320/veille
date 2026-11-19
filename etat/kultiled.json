@@ -987,7 +987,7 @@
   "images_recentes": [
     {
       "id": "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lettuce_Closeup_Greenhouse_Phuktal_Zanskar_Jun24_A7CR_00442.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hydroponic_lettuce_%40_Plaine_des_Cafres_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "bb44b09e9a9d57578fa56bdcfb6952ffe473ed78",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "4a94455477ec935be4aba029e9c04ae199abe5e6",
-      "origine": "https://live.staticflickr.com/2343/1506126728_98dd77afc9_b.jpg"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/d/d1/White_Full-Spectrum_LED_Aspect_Grow_Light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "e276a6d1cf2631fe8bc467a1085dd8c05b53980c",
@@ -1120,8 +1120,8 @@
     "34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Starr-100623-7801-Ocimum_basilicum-potted_plants_in_greenhouse-Pukalani_Plant_Company_Pulehu-Maui_%2824746810490%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "bb44b09e9a9d57578fa56bdcfb6952ffe473ed78": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hydroponics_Lettuce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "260d519ee42604099bd4ae6ff873fc335f2a8ed1": "https://upload.wikimedia.org/wikipedia/commons/5/5a/IFarm.fi_Vertical_farm_Finland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "4a94455477ec935be4aba029e9c04ae199abe5e6": "https://live.staticflickr.com/2343/1506126728_98dd77afc9_b.jpg",
-    "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lettuce_Closeup_Greenhouse_Phuktal_Zanskar_Jun24_A7CR_00442.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "4a94455477ec935be4aba029e9c04ae199abe5e6": "https://upload.wikimedia.org/wikipedia/commons/d/d1/White_Full-Spectrum_LED_Aspect_Grow_Light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hydroponic_lettuce_%40_Plaine_des_Cafres_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "9484ad8da6113e1bed7da81356027208efe827cc": [
@@ -1136,6 +1136,13 @@
     ],
     "34283658ff3b9372dc8cfcf1d8f751fb0ae9c6a4": [
       "https://upload.wikimedia.org/wikipedia/commons/9/92/Basil_wrapped_in_plastic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "4a94455477ec935be4aba029e9c04ae199abe5e6": [
+      "https://live.staticflickr.com/2343/1506126728_98dd77afc9_b.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/CFL-grow-light-dual-spectrum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/40/Lettuce_Closeup_Greenhouse_Phuktal_Zanskar_Jun24_A7CR_00442.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
