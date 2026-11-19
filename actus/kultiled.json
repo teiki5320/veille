@@ -1,8 +1,75 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-19T11:24:03.384Z",
+  "genere_le": "2026-11-19T18:17:16.857Z",
   "actus": [
+    {
+      "id": "030d31487c46577644dbeb87e5764f7288ca5892",
+      "titre": "Seattle : une ferme urbaine de micro-pousses passe du coco à un substrat en gel",
+      "resume": "La ferme urbaine Max Power Microgreens, près de Seattle, cultive désormais presque toutes ses micro-pousses sur un substrat végétal en gel au lieu de la fibre de coco. Selon la ferme, les récoltes arrivent deux à trois jours plus tôt, l'arrosage prend beaucoup moins de temps et la capacité est passée de 360 à 480 plateaux.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:micro-pousses",
+        "legume:roquette"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9894631/gel-isn-t-an-experiment-for-us-anymore-it-s-our-primary-production-system/",
+      "publie_le": "2026-11-19T15:25:00.000Z",
+      "collecte_le": "2026-11-19T18:17:16.857Z",
+      "langue": "en",
+      "slug": "seattle-une-ferme-urbaine-de-micro-pousses-passe-du-coco-un-substrat-030d31",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/030d31487c46577644dbeb87e5764f7288ca5892.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/030d31487c46577644dbeb87e5764f7288ca5892.webp",
+        "source": "wikimedia",
+        "credit": "Peggy Greb",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Liping_Kou_observes_microgreens.jpg",
+        "alt": "Des micro-pousses vertes cultivées en plateaux",
+        "mots_cles": [
+          "Microgreens"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "70fe0ca7c5624c1dccf0065d80c09c23d12912cb",
+      "titre": "Nigeria : à Enugu, 225 agriculteurs deviendront propriétaires de serres solaires",
+      "resume": "Dans l'État d'Enugu, au Nigeria, quinze serres alimentées à l'énergie solaire sont exploitées par 225 petits agriculteurs regroupés en coopératives. Ils n'ont rien payé au départ et deviendront propriétaires quand leurs récoltes auront couvert le coût, soit 10,5 millions de nairas par serre.",
+      "theme": "culture-interieur",
+      "pays": [
+        "NG"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9894012/nigeria-enugu-solar-greenhouses-turn-harvest-into-ownership-for-225-growers/",
+      "autres_sources": [
+        "https://www.hortidaily.com/article/9892197/nigeria-gea-mastercard-greenhouses-target-17-000-jobs-for-women-youths/"
+      ],
+      "publie_le": "2026-11-19T12:41:00.000Z",
+      "collecte_le": "2026-11-19T18:17:16.857Z",
+      "langue": "en",
+      "slug": "nigeria-enugu-225-agriculteurs-deviendront-proprietaires-de-serres-70fe0c",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/70fe0ca7c5624c1dccf0065d80c09c23d12912cb.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/70fe0ca7c5624c1dccf0065d80c09c23d12912cb.webp",
+        "source": "wikimedia",
+        "credit": "ABORISADEADETONA",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Awhum_community,_Enugu_State,_Nigeria._02.jpg",
+        "alt": "Une vue de la région d'Enugu, dans le sud-est du Nigeria",
+        "mots_cles": [
+          "Enugu"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae",
       "titre": "États-Unis : Local Bounti reprend les deux serres bio de Revol Greens",

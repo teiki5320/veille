@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-19T11:24:03.428Z",
+  "genere_le": "2026-11-19T18:17:20.262Z",
   "articles": [
+    {
+      "id": "030d31487c46577644dbeb87e5764f7288ca5892",
+      "slug": "seattle-une-ferme-urbaine-de-micro-pousses-passe-du-coco-un-substrat-030d31",
+      "titre": "Seattle : une ferme urbaine de micro-pousses passe du coco à un substrat en gel",
+      "publie_le": "2026-11-19T15:25:00.000Z",
+      "redige_le": "2026-11-19T18:17:16.857Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/030d31487c46577644dbeb87e5764f7288ca5892.json"
+    },
+    {
+      "id": "70fe0ca7c5624c1dccf0065d80c09c23d12912cb",
+      "slug": "nigeria-enugu-225-agriculteurs-deviendront-proprietaires-de-serres-70fe0c",
+      "titre": "Nigeria : à Enugu, 225 agriculteurs deviendront propriétaires de serres solaires",
+      "publie_le": "2026-11-19T12:41:00.000Z",
+      "redige_le": "2026-11-19T18:17:16.857Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/70fe0ca7c5624c1dccf0065d80c09c23d12912cb.json"
+    },
     {
       "id": "0051f1da5d64a4df9b9a80acd769e9c91a4a77ae",
       "slug": "etats-unis-local-bounti-reprend-les-deux-serres-bio-de-revol-greens-0051f1",

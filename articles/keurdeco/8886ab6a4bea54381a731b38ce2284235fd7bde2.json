@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "8886ab6a4bea54381a731b38ce2284235fd7bde2",
+  "slug": "paris-le-ghaneen-ibrahim-mahama-fait-entrer-le-nord-du-ghana-la-8886ab",
+  "titre": "Paris : le Ghanéen Ibrahim Mahama fait entrer le nord du Ghana à la Fondation Cartier",
+  "chapo": "Toiles de jute, usine démontée puis remontée, tabourets ashanti : Ibrahim Mahama fait entrer le nord du Ghana à la Fondation Cartier, à Paris, jusqu'à la fin février 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'artiste ghanéen Ibrahim Mahama expose cet automne à Paris, dans les salles de la Fondation Cartier. Intitulée « Le Temps des récoltes », l'exposition est sa première grande présentation dans la capitale française. Elle reste ouverte jusqu'au 28 février 2027.",
+        "L'artiste ne vient pas seul. Il a convié neuf artistes et collectifs, dont le collectif congolais CATPC, à partager les espaces. Ce choix prolonge le travail mené dans les centres d'art qu'il a fondés dans sa ville de Tamale, au nord de son pays, avec lesquels l'exposition entre en dialogue."
+      ]
+    },
+    {
+      "intertitre": "Des matériaux qui portent une histoire",
+      "paragraphes": [
+        "Ibrahim Mahama est connu pour ses installations géantes faites de matériaux usés. Les plus célèbres sont les sacs de jute qui servaient à transporter les grains de café. Il en avait, dès 2015, recouvert un long couloir de la Biennale de Venise.",
+        "À Paris, il reprend plusieurs œuvres phares et en crée de nouvelles. La pièce centrale, « Things Fall Apart », reconstitue une ancienne usine de bouteilles en verre du Ghana avec ses matériaux d'origine. Une autre installation, « Parliament of Ghosts », aligne des tabourets ashanti en bois pour former une salle de parlement où le public peut s'asseoir. Des débats et des spectacles s'y tiendront pendant l'exposition."
+      ]
+    },
+    {
+      "intertitre": "Les promesses des indépendances",
+      "paragraphes": [
+        "Le fil rouge de l'exposition est une question : qu'est-il advenu des espoirs nés avec les indépendances africaines, il y a plus de soixante ans ? L'artiste observe comment la période coloniale a laissé sa marque dans les villes, les bâtiments et les objets du quotidien.",
+        "Son travail mêle installations, photographies, textiles et archives. Les objets récupérés, souvent abîmés, deviennent les témoins d'une histoire économique et politique."
+      ]
+    },
+    {
+      "intertitre": "Un artiste au sommet",
+      "paragraphes": [
+        "Né au Ghana, Ibrahim Mahama s'est imposé comme une figure majeure de l'art contemporain. L'an dernier, il est devenu le premier artiste africain classé en tête de la Power List du magazine ArtReview, qui recense les personnalités les plus influentes du monde de l'art."
+      ]
+    }
+  ],
+  "mots": 354,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "GH",
+    "FR"
+  ],
+  "tags": [
+    "matiere:bois-sculpte"
+  ],
+  "source_nom": "RFI",
+  "source_url": "https://www.rfi.fr/fr/podcasts/sur-le-pont-des-arts/20261119-avec-le-temps-des-r%C3%A9coltes-l-artiste-ghan%C3%A9en-ibrahim-mahama-explore-l-h%C3%A9ritage-des-ind%C3%A9pendances",
+  "autres_sources": [
+    "https://www.designboom.com/events/ibrahim-mahama-le-temps-des-recoltes/"
+  ],
+  "publie_le": "2026-11-19T11:31:15.000Z",
+  "redige_le": "2026-11-19T18:17:14.901Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/8886ab6a4bea54381a731b38ce2284235fd7bde2.webp",
+    "source": "wikimedia",
+    "credit": "Alhassan Mohammed Awal",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Awal_with_Artist_Ibrahim_Mahama,_Founder_of_Red_Clay_archive_center.jpg",
+    "alt": "Une œuvre ou un portrait de l'artiste ghanéen Ibrahim Mahama",
+    "mots_cles": [
+      "Ibrahim Mahama (artist)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

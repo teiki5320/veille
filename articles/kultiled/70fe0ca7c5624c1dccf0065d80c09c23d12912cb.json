@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "70fe0ca7c5624c1dccf0065d80c09c23d12912cb",
+  "slug": "nigeria-enugu-225-agriculteurs-deviendront-proprietaires-de-serres-70fe0c",
+  "titre": "Nigeria : à Enugu, 225 agriculteurs deviendront propriétaires de serres solaires",
+  "chapo": "Au Nigeria, quinze serres solaires installées près d'Enugu sont confiées à 225 petits producteurs. Sans avance d'argent, ils les rachètent peu à peu grâce à leurs récoltes.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "À Ugwuomu-Nike, dans la zone d'Enugu Est, au sud-est du Nigeria, quinze serres fonctionnent grâce à l'énergie du soleil. Elles sont cultivées par 225 petits agriculteurs répartis en quinze coopératives de quinze membres. Parmi eux figurent des femmes, des jeunes et des personnes en situation de handicap.",
+        "Chaque serre coûte 10,5 millions de nairas. Les agriculteurs n'ont pourtant rien versé au départ. Le modèle repose sur une location qui se transforme en achat : une petite partie de l'argent des ventes rembourse la serre, le reste revient aux membres."
+      ]
+    },
+    {
+      "intertitre": "Qui fait quoi",
+      "paragraphes": [
+        "Le site a été construit et il est géré par l'entreprise nigériane Manamuz Electric, dirigée par Uzochukwu Mbamalu, avec plusieurs partenaires. L'État fournit les terrains, des bailleurs financent la construction, et l'entreprise apporte la technique et met les producteurs en relation avec des acheteurs.",
+        "Chaque coopérative vend sa production en commun. Une fois la serre payée, elle appartient au groupe. Les remboursements servent alors à équiper un nouveau groupe d'agriculteurs."
+      ]
+    },
+    {
+      "intertitre": "Un programme pour les femmes et les jeunes",
+      "paragraphes": [
+        "Le projet est soutenu par un programme de trois ans, de 2024 à 2027, mené au Nigeria et en Éthiopie par l'Alliance mondiale de l'énergie pour les populations et la planète (GEA) et la Fondation Mastercard. Il vise la création de 17 000 emplois, dont sept sur dix destinés aux femmes, et le soutien de 136 000 moyens de subsistance.",
+        "Lors d'une visite sur place, un responsable de la GEA a présenté ces serres comme un exemple pour moderniser l'agriculture africaine. L'objectif affiché de l'alliance est de mettre fin à la précarité énergétique grâce aux énergies renouvelables. Manamuz dit avoir déjà créé plus de 570 emplois."
+      ]
+    },
+    {
+      "intertitre": "Vers 260 domaines agricoles",
+      "paragraphes": [
+        "Le gouvernement de l'État d'Enugu veut étendre ce modèle à ses 260 domaines agricoles. Cultiver sous serre permet de mieux protéger les plantes et de produire plus régulièrement, tandis que le solaire réduit la dépendance à un réseau électrique souvent défaillant."
+      ]
+    }
+  ],
+  "mots": 348,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "NG"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9894012/nigeria-enugu-solar-greenhouses-turn-harvest-into-ownership-for-225-growers/",
+  "autres_sources": [
+    "https://www.hortidaily.com/article/9892197/nigeria-gea-mastercard-greenhouses-target-17-000-jobs-for-women-youths/"
+  ],
+  "publie_le": "2026-11-19T12:41:00.000Z",
+  "redige_le": "2026-11-19T18:17:16.857Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/70fe0ca7c5624c1dccf0065d80c09c23d12912cb.webp",
+    "source": "wikimedia",
+    "credit": "ABORISADEADETONA",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Awhum_community,_Enugu_State,_Nigeria._02.jpg",
+    "alt": "Une vue de la région d'Enugu, dans le sud-est du Nigeria",
+    "mots_cles": [
+      "Enugu"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

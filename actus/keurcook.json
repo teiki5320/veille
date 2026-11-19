@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-19T11:21:30.271Z",
+  "genere_le": "2026-11-19T18:17:13.300Z",
   "actus": [
+    {
+      "id": "7c8b4768b6f4581ee39cf11a8c8de961598d2a95",
+      "titre": "Afrique du Sud : soupe d'amadumbe et milk tart revisitées pour le mois du véganisme",
+      "resume": "En Afrique du Sud, un groupe hôtelier propose un menu végétal inspiré des classiques du pays pour le mois mondial du véganisme, en novembre. On y trouve une soupe d'amadumbe au lait de coco, un roosterkoek sans beurre, une aubergine grillée au braai et une milk tart sans produits laitiers.",
+      "theme": "cuisine",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Cape Town Etc",
+      "source_url": "https://www.capetownetc.com/lifestyle/from-amadumbe-soup-to-vegan-milk-tart-world-vegan-month-gets-a-fresh-take/",
+      "publie_le": "2026-11-19T18:00:22.000Z",
+      "collecte_le": "2026-11-19T18:17:13.300Z",
+      "langue": "en",
+      "slug": "afrique-du-sud-soupe-amadumbe-et-milk-tart-revisitees-pour-le-mois-du-7c8b47",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/7c8b4768b6f4581ee39cf11a8c8de961598d2a95.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/7c8b4768b6f4581ee39cf11a8c8de961598d2a95.webp",
+        "source": "wikimedia",
+        "credit": "DimiTalen",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Melktert.jpg",
+        "alt": "Une milk tart, tarte au lait traditionnelle d'Afrique du Sud",
+        "mots_cles": [
+          "Melktert"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "46967d92eb469b3693026c4fdec1b1f14b353bc1",
       "titre": "Jeremy Doku désigne le waakye, riz et haricots, comme son plat ghanéen préféré",

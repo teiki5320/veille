@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "030d31487c46577644dbeb87e5764f7288ca5892",
+  "slug": "seattle-une-ferme-urbaine-de-micro-pousses-passe-du-coco-un-substrat-030d31",
+  "titre": "Seattle : une ferme urbaine de micro-pousses passe du coco à un substrat en gel",
+  "chapo": "Près de Seattle, une petite ferme de micro-pousses a abandonné la fibre de coco pour un substrat en gel. Elle annonce des récoltes plus rapides et des heures de travail en moins.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Max Power Microgreens est une ferme urbaine créée en 2022 dans la région de Seattle, aux États-Unis. Elle produit des micro-pousses, de jeunes feuilles, des fleurs comestibles et des herbes aromatiques pour les restaurants de la ville. La plupart des produits sont coupés moins de 24 heures avant leur livraison.",
+        "Ses fondateurs, Sergey Dunayev et Clemens Butz, ont remplacé la fibre de coco par Jiffy Gel, un substrat d'origine végétale conçu pour la culture en environnement contrôlé. Sur plus de 400 plateaux en culture, seuls six à huit restent sur coco."
+      ]
+    },
+    {
+      "intertitre": "Pourquoi changer",
+      "paragraphes": [
+        "Avec la croissance de la demande, la préparation du coco, le remplissage des plateaux, l'arrosage, le nettoyage et l'évacuation du substrat usé prenaient de plus en plus de temps. Dans un local de taille limitée, ajouter des étagères ne suffisait plus.",
+        "Les associés ont donc comparé les deux méthodes pendant plusieurs essais, culture par culture, avant de généraliser le gel."
+      ]
+    },
+    {
+      "intertitre": "Les résultats annoncés",
+      "paragraphes": [
+        "D'après la ferme, beaucoup de cultures sont prêtes deux à trois jours plus tôt. La roquette serait récoltée en cinq jours environ au lieu de sept, le brocoli en six au lieu de huit. L'arrosage est passé de trois ou quatre heures à une heure par semaine, et le volume de compost a baissé de moitié.",
+        "La ferme dit aussi gagner quatre à cinq heures de travail par semaine sur la préparation et les semis. Sa capacité est passée de 360 à 480 plateaux en un mois, sans agrandir le local. Sa facture d'électricité de septembre était inférieure de 31 % à celle de juillet, une baisse que d'autres facteurs, comme la météo, peuvent aussi expliquer."
+      ]
+    },
+    {
+      "intertitre": "Regarder tout le système",
+      "paragraphes": [
+        "Ces chiffres sont communiqués par la ferme et le fabricant du substrat. Sergey Dunayev conseille aux autres producteurs de ne pas comparer seulement le prix des substrats, mais tout le temps passé à préparer, arroser, nettoyer et jeter, ainsi que l'énergie et la place prises par l'équipement d'arrosage."
+      ]
+    }
+  ],
+  "mots": 356,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:micro-pousses",
+    "legume:roquette"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9894631/gel-isn-t-an-experiment-for-us-anymore-it-s-our-primary-production-system/",
+  "publie_le": "2026-11-19T15:25:00.000Z",
+  "redige_le": "2026-11-19T18:17:16.857Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/030d31487c46577644dbeb87e5764f7288ca5892.webp",
+    "source": "wikimedia",
+    "credit": "Peggy Greb",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Liping_Kou_observes_microgreens.jpg",
+    "alt": "Des micro-pousses vertes cultivées en plateaux",
+    "mots_cles": [
+      "Microgreens"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

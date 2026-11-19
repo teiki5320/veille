@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-19T11:21:31.947Z",
+  "genere_le": "2026-11-19T18:17:14.896Z",
   "articles": [
+    {
+      "id": "7c8b4768b6f4581ee39cf11a8c8de961598d2a95",
+      "slug": "afrique-du-sud-soupe-amadumbe-et-milk-tart-revisitees-pour-le-mois-du-7c8b47",
+      "titre": "Afrique du Sud : soupe d'amadumbe et milk tart revisitées pour le mois du véganisme",
+      "publie_le": "2026-11-19T18:00:22.000Z",
+      "redige_le": "2026-11-19T18:17:13.300Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/7c8b4768b6f4581ee39cf11a8c8de961598d2a95.json"
+    },
     {
       "id": "46967d92eb469b3693026c4fdec1b1f14b353bc1",
       "slug": "jeremy-doku-designe-le-waakye-riz-et-haricots-comme-son-plat-ghaneen-46967d",

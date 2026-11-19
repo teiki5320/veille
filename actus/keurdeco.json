@@ -1,8 +1,45 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-19T11:24:04.355Z",
+  "genere_le": "2026-11-19T18:17:14.901Z",
   "actus": [
+    {
+      "id": "8886ab6a4bea54381a731b38ce2284235fd7bde2",
+      "titre": "Paris : le Ghanéen Ibrahim Mahama fait entrer le nord du Ghana à la Fondation Cartier",
+      "resume": "L'artiste ghanéen Ibrahim Mahama présente à la Fondation Cartier, à Paris, sa première grande exposition dans la capitale, visible jusqu'au 28 février 2027. Toiles de jute, usine reconstruite et tabourets ashanti y interrogent l'héritage des indépendances africaines, avec neuf artistes invités.",
+      "theme": "deco",
+      "pays": [
+        "GH",
+        "FR"
+      ],
+      "tags": [
+        "matiere:bois-sculpte"
+      ],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/podcasts/sur-le-pont-des-arts/20261119-avec-le-temps-des-r%C3%A9coltes-l-artiste-ghan%C3%A9en-ibrahim-mahama-explore-l-h%C3%A9ritage-des-ind%C3%A9pendances",
+      "autres_sources": [
+        "https://www.designboom.com/events/ibrahim-mahama-le-temps-des-recoltes/"
+      ],
+      "publie_le": "2026-11-19T11:31:15.000Z",
+      "collecte_le": "2026-11-19T18:17:14.901Z",
+      "langue": "fr",
+      "slug": "paris-le-ghaneen-ibrahim-mahama-fait-entrer-le-nord-du-ghana-la-8886ab",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/8886ab6a4bea54381a731b38ce2284235fd7bde2.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/8886ab6a4bea54381a731b38ce2284235fd7bde2.webp",
+        "source": "wikimedia",
+        "credit": "Alhassan Mohammed Awal",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Awal_with_Artist_Ibrahim_Mahama,_Founder_of_Red_Clay_archive_center.jpg",
+        "alt": "Une œuvre ou un portrait de l'artiste ghanéen Ibrahim Mahama",
+        "mots_cles": [
+          "Ibrahim Mahama (artist)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3bfb6211ffe439a525e2a2aaa6246061701604a3",
       "titre": "Afrique du Sud : Atom Furniture fait revivre les tables « atomiques » des années 1960",

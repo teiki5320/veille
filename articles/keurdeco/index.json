@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-19T11:24:04.390Z",
+  "genere_le": "2026-11-19T18:17:16.811Z",
   "articles": [
+    {
+      "id": "8886ab6a4bea54381a731b38ce2284235fd7bde2",
+      "slug": "paris-le-ghaneen-ibrahim-mahama-fait-entrer-le-nord-du-ghana-la-8886ab",
+      "titre": "Paris : le Ghanéen Ibrahim Mahama fait entrer le nord du Ghana à la Fondation Cartier",
+      "publie_le": "2026-11-19T11:31:15.000Z",
+      "redige_le": "2026-11-19T18:17:14.901Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/8886ab6a4bea54381a731b38ce2284235fd7bde2.json"
+    },
     {
       "id": "3bfb6211ffe439a525e2a2aaa6246061701604a3",
       "slug": "afrique-du-sud-atom-furniture-fait-revivre-les-tables-atomiques-des-3bfb62",
