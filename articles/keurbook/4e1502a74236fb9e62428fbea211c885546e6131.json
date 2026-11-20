@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "4e1502a74236fb9e62428fbea211c885546e6131",
+  "slug": "zeinab-badawi-raconte-sept-millions-annees-histoire-africaine-enfin-en-4e1502",
+  "titre": "Zeinab Badawi raconte sept millions d'années d'histoire africaine, enfin en français",
+  "chapo": "Traduit cet automne, l'essai de Zeinab Badawi propose une histoire du continent vue par les Africains eux-mêmes, de la préhistoire à nos jours.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les lecteurs francophones peuvent désormais découvrir l'essai de la journaliste Zeinab Badawi, paru en anglais en 2024 sous le titre « An African History of Africa ». Les Éditions du Faubourg viennent d'en publier la version française. Selon Jeune Afrique, qui a rencontré l'autrice à Paris, plus de 110 000 exemplaires en ont déjà été vendus.",
+        "Née au Soudan et installée au Royaume-Uni, Zeinab Badawi a longtemps été un visage de la BBC. Elle préside aujourd'hui la SOAS, l'université londonienne spécialisée dans l'étude de l'Afrique et de l'Asie."
+      ]
+    },
+    {
+      "intertitre": "Un récit pris en main par les Africains",
+      "paragraphes": [
+        "Son point de départ est simple : l'histoire du continent a trop souvent été écrite par des auteurs venus d'ailleurs. Elle refuse aussi de ramener l'Afrique à ses seules crises. Elle a donc voulu un ouvrage de synthèse, accessible, qui permette au continent de reprendre la parole sur son propre passé.",
+        "Le livre avance dans l'ordre chronologique, région par région, en s'appuyant sur des exemples précis. Il commence avec Toumaï, le fossile d'un lointain ancêtre de l'homme découvert au Tchad, et couvre quelque sept millions d'années. Il traverse les royaumes anciens, la traite esclavagiste et la colonisation, jusqu'aux indépendances et aux jeunes générations actuelles."
+      ]
+    },
+    {
+      "intertitre": "Le passé pour comprendre l'actualité",
+      "paragraphes": [
+        "L'autrice relie volontiers histoire ancienne et questions d'aujourd'hui. Elle lit par exemple la rupture du Mali, du Burkina Faso et du Niger, réunis dans l'AES, avec Paris comme un geste symbolique contre l'héritage colonial français. La gestion des richesses minières du continent fait aussi partie des sujets qu'elle éclaire à la lumière du passé.",
+        "Avec cette traduction, l'ouvrage devient accessible aux lecteurs d'Afrique francophone et de France. Jeune Afrique a filmé l'entretien avec l'autrice, à voir en vidéo sur son site."
+      ]
+    }
+  ],
+  "mots": 309,
+  "lecture_min": 1,
+  "theme": "livres",
+  "pays": [
+    "SD"
+  ],
+  "source_nom": "Jeune Afrique",
+  "source_url": "https://www.jeuneafrique.com/1863788/societe/zeinab-badawi-lafrique-a-une-histoire-tres-riche-bien-avant-larrivee-des-europeens/",
+  "publie_le": "2026-11-20T18:01:10.000Z",
+  "redige_le": "2026-11-20T18:18:06.363Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/4e1502a74236fb9e62428fbea211c885546e6131.webp",
+    "source": "wikimedia",
+    "credit": "UNISDR Photo Gallery",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Zeinab_Badawi_crop_UNISDR.jpg",
+    "alt": "Portrait de la journaliste et autrice Zeinab Badawi",
+    "mots_cles": [
+      "Zeinab Badawi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "c7c5d08e45487d5aedd584500a6f1640e344cd73",
+  "slug": "new-york-un-lycee-du-queens-inaugure-une-classe-ou-on-cultive-sous-led-c7c5d0",
+  "titre": "New York : un lycée du Queens inaugure une classe où l'on cultive sous LED, sans terre",
+  "chapo": "Dans le Queens, plus de 1 000 lycéens disposent désormais d'un laboratoire où l'on fait pousser des légumes à l'intérieur, sous la lumière de lampes LED.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le lycée de Maspeth, dans l'arrondissement new-yorkais du Queens, a inauguré sa classe hydroponique en présence du président de l'arrondissement, Donovan Richards Jr. Le projet a été mené avec les écoles publiques de la ville et l'association NY Sun Works, qui équipe les établissements scolaires en serres et en laboratoires de culture.",
+        "Le même jour, l'élu a aussi coupé le ruban d'un nouveau terrain de sport synthétique, financé à hauteur de 600 000 dollars."
+      ]
+    },
+    {
+      "intertitre": "Pousser sans soleil ni sol",
+      "paragraphes": [
+        "Dans cette salle, les plantes ne voient pas la lumière du jour : des lampes LED la remplacent. Les racines baignent dans une eau riche en nutriments et tiennent dans un substrat, sans terre. Selon les organisateurs, ce système donne plus de récolte sur peu de place et consomme jusqu'à 90 % d'eau de moins qu'une culture classique.",
+        "Les élèves suivent un programme conforme aux exigences de l'État de New York et mènent leurs plantes de la graine à la récolte pendant le temps scolaire."
+      ]
+    },
+    {
+      "intertitre": "Des fraises au piment",
+      "paragraphes": [
+        "Un élève de terminale raconte qu'il ne croyait pas possible de cultiver sans terre avant d'essayer. Avec ses camarades, il a récolté puis mangé des fraises, des tomates, des épinards, de la laitue et des piments jalapeños.",
+        "La directrice, Selin Alicanoglu, voit dans ce laboratoire un espace vert de plus pour l'établissement et une source de légumes frais pour les élèves et le quartier."
+      ]
+    },
+    {
+      "intertitre": "Un plan pour tout le Queens",
+      "paragraphes": [
+        "La classe a coûté 175 000 dollars, pris sur le budget du président de l'arrondissement. Selon Manuela Zamora, directrice de NY Sun Works, l'élu a engagé au total 7,5 millions de dollars pour équiper les écoles publiques du Queens de classes hydroponiques, avec l'idée que chaque élève y ait accès, quel que soit son quartier."
+      ]
+    }
+  ],
+  "mots": 319,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:fraise",
+    "legume:tomate",
+    "legume:epinard",
+    "legume:laitue"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9895016/queens-borough-president-donovan-richards-jr-cuts-the-ribbons-on-ny-sun-works-hydroponic-classroom/",
+  "publie_le": "2026-11-20T12:12:00.000Z",
+  "redige_le": "2026-11-20T18:18:11.492Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/c7c5d08e45487d5aedd584500a6f1640e344cd73.webp",
+    "source": "wikimedia",
+    "credit": "King of Hearts",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg",
+    "alt": "Une vue de l'arrondissement du Queens, à New York",
+    "mots_cles": [
+      "Queens"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "424fd35e9b5464088d63bd061f2f1c8a1bff6198",
+  "slug": "colorado-65-hectares-de-serres-chauffes-par-la-chaleur-perdue-un-424fd3",
+  "titre": "Colorado : 65 hectares de serres chauffés par la chaleur perdue d'un centre de données",
+  "chapo": "Aux États-Unis, un projet de serres géantes veut se chauffer grâce à la chaleur rejetée par des serveurs informatiques, au lieu de brûler du gaz.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La société Ecoasis AgTech Park a présenté un campus agricole de 272 acres, soit environ 110 hectares, au sud de Pueblo, dans le Colorado. Environ 160 acres, près de 65 hectares, seraient couverts de serres. On y cultiverait tout au long de l'année des tomates, des petits fruits, des légumes-feuilles et d'autres productions.",
+        "Le terrain appartient depuis environ 25 ans aux deux fondateurs, Thomas Larssen et Gill van der Drift. Le premier conçoit et construit des serres depuis quarante ans en Amérique du Nord, en Europe et au Moyen-Orient. Le second a monté de grands projets de serres commerciales aux États-Unis pendant plus de trois décennies."
+      ]
+    },
+    {
+      "intertitre": "Des serveurs comme chaudière",
+      "paragraphes": [
+        "Le chauffage pèse lourd dans les comptes d'une serre et repose le plus souvent sur le gaz naturel. Ici, un centre de données compact, limité à environ 10 % de la surface, céderait sa chaleur aux serres pendant l'hiver. Il serait refroidi par un circuit fermé et étanche. Selon ses promoteurs, il n'existe que pour servir la ferme.",
+        "Le site profite aussi de son climat de haut désert : en hiver, il reçoit environ moitié plus de lumière par jour que les zones de serres du nord-est des États-Unis. L'eau d'irrigation serait recyclée, avec une consommation estimée à 95 % de moins par kilo récolté qu'en plein champ."
+      ]
+    },
+    {
+      "intertitre": "Emplois et formation",
+      "paragraphes": [
+        "À terme, le projet annonce environ 1 000 emplois permanents. La moitié concernerait la culture, la récolte et le soin des plantes, l'autre l'emballage, l'expédition, la qualité et la maintenance. Des formations sont prévues avec les établissements d'enseignement de la région, y compris sur la lutte biologique contre les ravageurs et l'automatisation."
+      ]
+    },
+    {
+      "intertitre": "Un calendrier jusqu'en 2028",
+      "paragraphes": [
+        "Une réunion publique s'est tenue à Pueblo le 16 novembre 2026. Le dossier d'urbanisme doit être déposé auprès du comté. Le chantier débuterait au printemps 2027, les premières cultures au premier semestre 2028, et l'ensemble serait achevé par étapes en quatre ans environ. La production serait vendue au plus près, dans les magasins de la région."
+      ]
+    }
+  ],
+  "mots": 358,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "tags": [
+    "legume:tomate",
+    "legume:fraise"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9894962/160-acre-colorado-greenhouse-park-to-run-on-waste-heat-from-a-co-located-data-center/",
+  "publie_le": "2026-11-20T12:12:00.000Z",
+  "redige_le": "2026-11-20T18:18:11.492Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/424fd35e9b5464088d63bd061f2f1c8a1bff6198.webp",
+    "source": "wikimedia",
+    "credit": "Maplemoths",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Creek_in_Pueblo,_Colorado.jpg",
+    "alt": "Une vue de la ville de Pueblo, au Colorado",
+    "mots_cles": [
+      "Pueblo, Colorado"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

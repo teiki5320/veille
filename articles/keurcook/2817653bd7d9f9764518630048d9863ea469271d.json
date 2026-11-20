@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "2817653bd7d9f9764518630048d9863ea469271d",
+  "slug": "gabon-le-chef-kwame-asie-recueille-les-recettes-des-pecheuses-de-281765",
+  "titre": "Gabon : le chef Kwame Asie recueille les recettes des pêcheuses de couteaux de mer",
+  "chapo": "Smartphone et appareil photo en main, le chef Kwame Asie sillonne le continent pour consigner des savoir-faire culinaires transmis surtout à l'oral. Sa dernière étape : le littoral du Gabon.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Kwame Asie a 32 ans, des racines au Nigeria et au Ghana, et environ 50 000 abonnés sur les réseaux sociaux. Ce cuisinier devenu créateur de contenu s'est fixé un but ambitieux : dresser l'inventaire du patrimoine culinaire de toute l'Afrique, en croisant cuisine, anthropologie et géographie.",
+        "La chaîne Africanews l'a suivi sur la côte gabonaise. Il y a passé du temps avec des femmes qui pêchent les couteaux de mer, des coquillages longs et étroits enfouis dans le sable."
+      ]
+    },
+    {
+      "intertitre": "Les trésors de la côte benga",
+      "paragraphes": [
+        "Pour le peuple benga, installé sur le littoral gabonais, couteaux et escargots de mer, huîtres ou autres coquillages sont des mets de choix. Le chef voulait apprendre auprès des pêcheuses comment elles les récoltent et les cuisinent.",
+        "Stella Ehebo Eyavo, qui pêche au sein de Lambi La Mbocka, une coopérative locale, explique que ces coquillages font partie de l'héritage et du quotidien de sa communauté."
+      ]
+    },
+    {
+      "intertitre": "Écrire ce qui se transmet à l'oral",
+      "paragraphes": [
+        "Kwame Asie aime se définir à la fois en gardien des archives de la cuisine et en diplomate du goût. Selon lui, une grande partie des techniques et des ingrédients africains n'a jamais été mise par écrit. Ces connaissances circulent de bouche à oreille, au sein des communautés, et risquent de se perdre si personne ne les note pour les générations suivantes.",
+        "Avant le Gabon, il a déjà parcouru l'Afrique de l'Ouest. Il y a goûté les feuilles de manioc du Liberia, les boulettes de poisson de Sierra Leone et le thiéboudienne, le riz au poisson du Sénégal."
+      ]
+    },
+    {
+      "intertitre": "Objectif : 54 pays",
+      "paragraphes": [
+        "Le chef veut maintenant relier les cuisines de l'Ouest, du Centre et de l'Est du continent, convaincu que les Africains partagent beaucoup autour de la table. Il a lancé une tournée qui doit le mener dans les 54 pays d'Afrique en trois ans."
+      ]
+    }
+  ],
+  "mots": 333,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "GA",
+    "NG",
+    "GH"
+  ],
+  "source_nom": "Africanews",
+  "source_url": "http://fr.africanews.com/2026/11/20/kwame-asie-le-chef-itinerant-qui-reunit-les-traditions-culinaires-africaines/",
+  "publie_le": "2026-11-20T15:30:48.000Z",
+  "redige_le": "2026-11-20T18:18:07.981Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/2817653bd7d9f9764518630048d9863ea469271d.webp",
+    "source": "wikimedia",
+    "credit": "James St. John",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ensis_siliqua_(giant_razor_clam).jpg",
+    "alt": "Des couteaux de mer, coquillages allongés pêchés sur les côtes",
+    "mots_cles": [
+      "Ensis (razor clam)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

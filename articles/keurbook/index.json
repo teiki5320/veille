@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-20T11:21:48.369Z",
+  "genere_le": "2026-11-20T18:18:07.976Z",
   "articles": [
+    {
+      "id": "4e1502a74236fb9e62428fbea211c885546e6131",
+      "slug": "zeinab-badawi-raconte-sept-millions-annees-histoire-africaine-enfin-en-4e1502",
+      "titre": "Zeinab Badawi raconte sept millions d'années d'histoire africaine, enfin en français",
+      "publie_le": "2026-11-20T18:01:10.000Z",
+      "redige_le": "2026-11-20T18:18:06.363Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/4e1502a74236fb9e62428fbea211c885546e6131.json"
+    },
     {
       "id": "985020d97f031533793bd7f9d553b9f011660d5e",
       "slug": "kigali-boubacar-boris-diop-parle-de-page-blanche-et-ia-avec-des-985020",

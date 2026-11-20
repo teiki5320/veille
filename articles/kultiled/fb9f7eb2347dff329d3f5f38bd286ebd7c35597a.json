@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "fb9f7eb2347dff329d3f5f38bd286ebd7c35597a",
+  "slug": "rwanda-upgrow-importe-ses-premieres-tours-aeroponiques-pour-cultiver-fb9f7e",
+  "titre": "Rwanda : Upgrow importe ses premières tours aéroponiques pour cultiver salades et herbes",
+  "chapo": "Au Rwanda, où la terre cultivable manque, la jeune pousse Upgrow va tester des tours de culture sans sol près de Kigali, avec des premières récoltes visées début 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les premières tours aéroponiques d'Upgrow Rwanda sont arrivées au port kényan de Mombasa et font route vers Kigali. Dans ces colonnes verticales, les racines des plantes poussent dans l'air et reçoivent une brume d'eau chargée de nutriments, sans terre.",
+        "Le fondateur, Kenny Rubaduka, explique son choix par la géographie : le Rwanda est l'un des pays les plus densément peuplés d'Afrique, et les terres agricoles y sont rares. Le climat doux et régulier de Kigali convient bien aux salades et aux herbes aromatiques toute l'année."
+      ]
+    },
+    {
+      "intertitre": "Quinze cultures à l'essai",
+      "paragraphes": [
+        "L'essai suit un protocole d'accord signé avec le ministère de l'Agriculture. Il porte sur quinze cultures réparties en trois familles : légumes-feuilles, herbes locales et cultures d'exportation. On y trouve laitue, épinard, chou kale, basilic, menthe, tomates cerises, haricots verts et piment oiseau, ainsi que des jeunes pousses d'épinard et de roquette.",
+        "Les salades et les aromatiques passent en premier, car elles se récoltent en trois à cinq semaines. Pour l'export, l'entreprise a retenu des produits que le pays vend déjà, comme le haricot vert et le piment.",
+        "Sans sol, les plantes échappent aussi aux terres acides et au flétrissement bactérien, une maladie qui touche depuis longtemps tomates et poivrons au Rwanda."
+      ]
+    },
+    {
+      "intertitre": "Mesurer ses propres chiffres",
+      "paragraphes": [
+        "Le site de Bumbogo, dans le district de Gasabo, sera d'abord à l'air libre : les tours reposent sur des dalles de béton, sous un abri contre le soleil et la pluie. Pour chaque culture, l'équipe notera le rendement, le temps jusqu'à la récolte, l'eau et les nutriments consommés et l'énergie des pompes. Elle veut vérifier sur place les économies d'eau promises par l'aéroponie."
+      ]
+    },
+    {
+      "intertitre": "Des mois perdus en route",
+      "paragraphes": [
+        "L'acheminement a pris plusieurs mois de retard : chargement partagé dans un conteneur, changement de port d'arrivée en cours de route et classement douanier complexe du matériel. À terme, Upgrow veut installer ses tours chez les agriculteurs, les former et les mettre en relation avec des hôtels et des supermarchés."
+      ]
+    }
+  ],
+  "mots": 353,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "RW"
+  ],
+  "tags": [
+    "legume:laitue",
+    "legume:epinard",
+    "legume:basilic",
+    "legume:roquette"
+  ],
+  "source_nom": "Vertical Farm Daily",
+  "source_url": "https://www.verticalfarmdaily.com/article/9894694/rwanda-s-challenge-is-land/",
+  "publie_le": "2026-11-20T15:25:00.000Z",
+  "redige_le": "2026-11-20T18:18:11.492Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/fb9f7eb2347dff329d3f5f38bd286ebd7c35597a.webp",
+    "source": "wikimedia",
+    "credit": "Dushime rw",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Green_Kigali.jpg",
+    "alt": "Une vue de la ville de Kigali, capitale du Rwanda",
+    "mots_cles": [
+      "Kigali"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,152 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-20T11:21:56.836Z",
+  "genere_le": "2026-11-20T18:18:11.492Z",
   "actus": [
+    {
+      "id": "fb9f7eb2347dff329d3f5f38bd286ebd7c35597a",
+      "titre": "Rwanda : Upgrow importe ses premières tours aéroponiques pour cultiver salades et herbes",
+      "resume": "La jeune entreprise Upgrow Rwanda a reçu au port de Mombasa ses premières tours de culture aéroponique, en route pour Kigali. Un essai portant sur 15 cultures doit démarrer à Bumbogo, avec d'abord des salades et des aromatiques. Les premières récoltes sont attendues début 2027.",
+      "theme": "culture-interieur",
+      "pays": [
+        "RW"
+      ],
+      "tags": [
+        "legume:laitue",
+        "legume:epinard",
+        "legume:basilic",
+        "legume:roquette"
+      ],
+      "source_nom": "Vertical Farm Daily",
+      "source_url": "https://www.verticalfarmdaily.com/article/9894694/rwanda-s-challenge-is-land/",
+      "publie_le": "2026-11-20T15:25:00.000Z",
+      "collecte_le": "2026-11-20T18:18:11.492Z",
+      "langue": "en",
+      "slug": "rwanda-upgrow-importe-ses-premieres-tours-aeroponiques-pour-cultiver-fb9f7e",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/fb9f7eb2347dff329d3f5f38bd286ebd7c35597a.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/fb9f7eb2347dff329d3f5f38bd286ebd7c35597a.webp",
+        "source": "wikimedia",
+        "credit": "Dushime rw",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Green_Kigali.jpg",
+        "alt": "Une vue de la ville de Kigali, capitale du Rwanda",
+        "mots_cles": [
+          "Kigali"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "424fd35e9b5464088d63bd061f2f1c8a1bff6198",
+      "titre": "Colorado : 65 hectares de serres chauffés par la chaleur perdue d'un centre de données",
+      "resume": "Le projet Ecoasis AgTech Park prévoit environ 65 hectares de serres près de Pueblo, au Colorado, pour produire tomates, petits fruits et salades toute l'année. Un petit centre de données installé sur le site fournirait sa chaleur en hiver. Les travaux doivent commencer au printemps 2027, pour une première récolte en 2028.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:tomate",
+        "legume:fraise"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9894962/160-acre-colorado-greenhouse-park-to-run-on-waste-heat-from-a-co-located-data-center/",
+      "publie_le": "2026-11-20T12:12:00.000Z",
+      "collecte_le": "2026-11-20T18:18:11.492Z",
+      "langue": "en",
+      "slug": "colorado-65-hectares-de-serres-chauffes-par-la-chaleur-perdue-un-424fd3",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/424fd35e9b5464088d63bd061f2f1c8a1bff6198.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/424fd35e9b5464088d63bd061f2f1c8a1bff6198.webp",
+        "source": "wikimedia",
+        "credit": "Maplemoths",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Creek_in_Pueblo,_Colorado.jpg",
+        "alt": "Une vue de la ville de Pueblo, au Colorado",
+        "mots_cles": [
+          "Pueblo, Colorado"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "1150b6dd916bba033bc95389195e9bfbb473f209",
+      "titre": "Nigeria : 1 000 serres adaptées au climat vont produire des tomates dans l'État de Kano",
+      "resume": "Le Nigeria a signé un accord de 3 millions de dollars pour installer 1 000 serres de tomates dans l'État de Kano. La Banque de l'agriculture prêtera 1,5 million aux producteurs, et l'entreprise turque Direkçi Group apportera autant, avec la technologie et l'installation. Le texte a été signé en marge de la COP31, en Turquie.",
+      "theme": "culture-interieur",
+      "pays": [
+        "NG"
+      ],
+      "tags": [
+        "legume:tomate",
+        "legume:poivron"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9894930/nigeria-signs-3m-deal-for-1-000-climate-smart-greenhouses-in-kano/",
+      "autres_sources": [
+        "https://www.foodbusinessmea.com/?p=2165889",
+        "https://econotimes.com/Nigeria-Plans-3-Million-Kano-Greenhouse-Pilot-With-Farmer-Credit-1776852"
+      ],
+      "publie_le": "2026-11-20T12:12:00.000Z",
+      "collecte_le": "2026-11-20T18:18:11.492Z",
+      "langue": "en",
+      "slug": "nigeria-1-000-serres-adaptees-au-climat-vont-produire-des-tomates-dans-1150b6",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/1150b6dd916bba033bc95389195e9bfbb473f209.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/1150b6dd916bba033bc95389195e9bfbb473f209.webp",
+        "source": "wikimedia",
+        "credit": "Attributed to Kanō Eitoku",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Kano_Eitoku_-_Cypress_Trees.jpg",
+        "alt": "Une vue de la ville de Kano, dans le nord du Nigeria",
+        "mots_cles": [
+          "Kano"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "c7c5d08e45487d5aedd584500a6f1640e344cd73",
+      "titre": "New York : un lycée du Queens inaugure une classe où l'on cultive sous LED, sans terre",
+      "resume": "Le lycée de Maspeth, dans le Queens, a ouvert une classe hydroponique avec l'association NY Sun Works. Les élèves y font pousser fraises, tomates, épinards et salades sous des lampes LED, dans de l'eau enrichie. Le président de l'arrondissement a financé l'équipement à hauteur de 175 000 dollars.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "tags": [
+        "legume:fraise",
+        "legume:tomate",
+        "legume:epinard",
+        "legume:laitue"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9895016/queens-borough-president-donovan-richards-jr-cuts-the-ribbons-on-ny-sun-works-hydroponic-classroom/",
+      "publie_le": "2026-11-20T12:12:00.000Z",
+      "collecte_le": "2026-11-20T18:18:11.492Z",
+      "langue": "en",
+      "slug": "new-york-un-lycee-du-queens-inaugure-une-classe-ou-on-cultive-sous-led-c7c5d0",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/c7c5d08e45487d5aedd584500a6f1640e344cd73.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/c7c5d08e45487d5aedd584500a6f1640e344cd73.webp",
+        "source": "wikimedia",
+        "credit": "King of Hearts",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg",
+        "alt": "Une vue de l'arrondissement du Queens, à New York",
+        "mots_cles": [
+          "Queens"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "030d31487c46577644dbeb87e5764f7288ca5892",
       "titre": "Seattle : une ferme urbaine de micro-pousses passe du coco à un substrat en gel",
@@ -1820,37 +1964,6 @@
       },
       "slug": "fleur-du-diable-une-plante-noire-qui-se-passe-de-lumiere-90c018",
       "article_url": "https://teiki5320.github.io/veille/articles/kultiled/90c018d7f86270353f0e05c03178ec67af3a9076.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "a2fa101cb1645f7efc888150fdd5add04fb787b6",
-      "titre": "Un radis qui se cueille sur la tige plutôt que dans la terre",
-      "resume": "Dans sa chronique sur une plante chaque semaine, Futura présente une forme méconnue du radis : au lieu d'arracher la racine, on récolte à hauteur de main. Une curiosité qui ne demande ni de se baisser ni de retourner le sol.",
-      "theme": "culture-interieur",
-      "pays": [],
-      "tags": [
-        "legume:radis"
-      ],
-      "source_nom": "Futura",
-      "source_url": "https://www.futura-sciences.com/maison/actualites/potager-plante-semaine-vous-connaissez-forcement-radis-mais-certainement-pas-sous-cette-forme-il-mange-138812/",
-      "publie_le": "2026-10-25T10:13:49.000Z",
-      "collecte_le": "2026-10-27T08:00:41.227Z",
-      "langue": "fr",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/kultiled/a2fa101cb1645f7efc888150fdd5add04fb787b6.webp",
-        "source": "wikimedia",
-        "credit": "Tim Evanson from Cleveland Heights, Ohio, USA",
-        "licence": "CC BY-SA 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Green_radish_(34758437621).jpg",
-        "alt": "Des gousses de radis sur la plante",
-        "mots_cles": [
-          "Raphanus sativus caudatus"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "un-radis-qui-se-cueille-sur-la-tige-plutot-que-dans-la-terre-a2fa10",
-      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/a2fa101cb1645f7efc888150fdd5add04fb787b6.json",
       "lecture_min": 2
     }
   ]

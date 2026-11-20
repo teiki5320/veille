@@ -1,8 +1,40 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-20T11:21:48.374Z",
+  "genere_le": "2026-11-20T18:18:07.981Z",
   "actus": [
+    {
+      "id": "2817653bd7d9f9764518630048d9863ea469271d",
+      "titre": "Gabon : le chef Kwame Asie recueille les recettes des pêcheuses de couteaux de mer",
+      "resume": "Le chef et créateur de contenu nigériano-ghanéen Kwame Asie, 32 ans, parcourt l'Afrique pour garder une trace de ses traditions culinaires. Sur la côte gabonaise, il a suivi des pêcheuses benga spécialistes des couteaux de mer. Il veut visiter les 54 pays du continent en trois ans.",
+      "theme": "cuisine",
+      "pays": [
+        "GA",
+        "NG",
+        "GH"
+      ],
+      "source_nom": "Africanews",
+      "source_url": "http://fr.africanews.com/2026/11/20/kwame-asie-le-chef-itinerant-qui-reunit-les-traditions-culinaires-africaines/",
+      "publie_le": "2026-11-20T15:30:48.000Z",
+      "collecte_le": "2026-11-20T18:18:07.981Z",
+      "langue": "fr",
+      "slug": "gabon-le-chef-kwame-asie-recueille-les-recettes-des-pecheuses-de-281765",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/2817653bd7d9f9764518630048d9863ea469271d.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/2817653bd7d9f9764518630048d9863ea469271d.webp",
+        "source": "wikimedia",
+        "credit": "James St. John",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ensis_siliqua_(giant_razor_clam).jpg",
+        "alt": "Des couteaux de mer, coquillages allongés pêchés sur les côtes",
+        "mots_cles": [
+          "Ensis (razor clam)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4b7e85ed3ca0523a2fbf0166e14030688ad6e7d8",
       "titre": "Huile d'olive : la Tunisie remonte au deuxième rang mondial, juste derrière l'Espagne",

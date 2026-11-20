@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "1150b6dd916bba033bc95389195e9bfbb473f209",
+  "slug": "nigeria-1-000-serres-adaptees-au-climat-vont-produire-des-tomates-dans-1150b6",
+  "titre": "Nigeria : 1 000 serres adaptées au climat vont produire des tomates dans l'État de Kano",
+  "chapo": "Le gouvernement nigérian lance un projet pilote de 1 000 serres pour la tomate dans l'État de Kano, financé à parts égales par une banque publique et une entreprise turque.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le protocole d'accord a été signé le 11 novembre 2026, en marge de la 31e conférence de l'ONU sur le climat, la COP31, organisée en Turquie. Il prévoit l'installation de 1 000 serres dites climato-intelligentes dans l'État de Kano, au nord du Nigeria, principalement pour la tomate et le poivron.",
+        "Trois partenaires sont réunis : la Banque de l'agriculture du Nigeria, le programme des zones spéciales de transformation agro-industrielle (SAPZ) et la société turque Direkçi Group, spécialisée dans les technologies agricoles. Le ministre de l'Agriculture, Abubakar Kyari, a assisté à la signature."
+      ]
+    },
+    {
+      "intertitre": "Qui paie quoi",
+      "paragraphes": [
+        "Le budget total atteint 3 millions de dollars. La Banque de l'agriculture met 1,5 million dans un mécanisme de crédit pour les agriculteurs participants. Direkçi Group investit la même somme et se charge de fabriquer, monter et entretenir les serres, de former les producteurs et de les aider à trouver des acheteurs.",
+        "Chaque serre doit couvrir environ 240 mètres carrés. Les prêts s'étaleront sur 36 mois, avec quatre mois de répit avant le premier remboursement. De son côté, le programme SAPZ fournit les terrains, les équipements de base, les semences et les plants, et choisit les agriculteurs, en donnant la priorité aux femmes et aux petits exploitants."
+      ]
+    },
+    {
+      "intertitre": "Des acheteurs dès le départ",
+      "paragraphes": [
+        "Un contrat d'achat doit relier les producteurs aux usines de transformation de tomates et à d'autres industriels, avec des règles fixées à l'avance sur la qualité, les prix et les livraisons. L'objectif est d'assurer des ventes plus régulières aux uns et un approvisionnement stable aux autres.",
+        "Sous serre, les cultivateurs maîtrisent mieux la chaleur et l'arrosage, et subissent moins les inondations, sécheresses et pluies irrégulières qui frappent les champs."
+      ]
+    },
+    {
+      "intertitre": "Vers 10 000 serres",
+      "paragraphes": [
+        "Si le pilote réussit, le programme SAPZ veut passer à 10 000 serres pour 10 000 agriculteurs dans tout le pays, pour un investissement estimé à 33 millions de dollars. La réussite dépendra aussi de la capacité des producteurs à entretenir les installations et à rembourser leurs prêts."
+      ]
+    }
+  ],
+  "mots": 358,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "NG"
+  ],
+  "tags": [
+    "legume:tomate",
+    "legume:poivron"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9894930/nigeria-signs-3m-deal-for-1-000-climate-smart-greenhouses-in-kano/",
+  "autres_sources": [
+    "https://www.foodbusinessmea.com/?p=2165889",
+    "https://econotimes.com/Nigeria-Plans-3-Million-Kano-Greenhouse-Pilot-With-Farmer-Credit-1776852"
+  ],
+  "publie_le": "2026-11-20T12:12:00.000Z",
+  "redige_le": "2026-11-20T18:18:11.492Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/1150b6dd916bba033bc95389195e9bfbb473f209.webp",
+    "source": "wikimedia",
+    "credit": "Attributed to Kanō Eitoku",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Kano_Eitoku_-_Cypress_Trees.jpg",
+    "alt": "Une vue de la ville de Kano, dans le nord du Nigeria",
+    "mots_cles": [
+      "Kano"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

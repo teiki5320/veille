@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-20T11:21:56.853Z",
+  "genere_le": "2026-11-20T18:18:18.296Z",
   "articles": [
+    {
+      "id": "fb9f7eb2347dff329d3f5f38bd286ebd7c35597a",
+      "slug": "rwanda-upgrow-importe-ses-premieres-tours-aeroponiques-pour-cultiver-fb9f7e",
+      "titre": "Rwanda : Upgrow importe ses premières tours aéroponiques pour cultiver salades et herbes",
+      "publie_le": "2026-11-20T15:25:00.000Z",
+      "redige_le": "2026-11-20T18:18:11.492Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/fb9f7eb2347dff329d3f5f38bd286ebd7c35597a.json"
+    },
+    {
+      "id": "1150b6dd916bba033bc95389195e9bfbb473f209",
+      "slug": "nigeria-1-000-serres-adaptees-au-climat-vont-produire-des-tomates-dans-1150b6",
+      "titre": "Nigeria : 1 000 serres adaptées au climat vont produire des tomates dans l'État de Kano",
+      "publie_le": "2026-11-20T12:12:00.000Z",
+      "redige_le": "2026-11-20T18:18:11.492Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/1150b6dd916bba033bc95389195e9bfbb473f209.json"
+    },
+    {
+      "id": "424fd35e9b5464088d63bd061f2f1c8a1bff6198",
+      "slug": "colorado-65-hectares-de-serres-chauffes-par-la-chaleur-perdue-un-424fd3",
+      "titre": "Colorado : 65 hectares de serres chauffés par la chaleur perdue d'un centre de données",
+      "publie_le": "2026-11-20T12:12:00.000Z",
+      "redige_le": "2026-11-20T18:18:11.492Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/424fd35e9b5464088d63bd061f2f1c8a1bff6198.json"
+    },
+    {
+      "id": "c7c5d08e45487d5aedd584500a6f1640e344cd73",
+      "slug": "new-york-un-lycee-du-queens-inaugure-une-classe-ou-on-cultive-sous-led-c7c5d0",
+      "titre": "New York : un lycée du Queens inaugure une classe où l'on cultive sous LED, sans terre",
+      "publie_le": "2026-11-20T12:12:00.000Z",
+      "redige_le": "2026-11-20T18:18:11.492Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/c7c5d08e45487d5aedd584500a6f1640e344cd73.json"
+    },
     {
       "id": "030d31487c46577644dbeb87e5764f7288ca5892",
       "slug": "seattle-une-ferme-urbaine-de-micro-pousses-passe-du-coco-un-substrat-030d31",

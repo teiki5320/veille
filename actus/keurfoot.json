@@ -1,8 +1,47 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-20T11:21:53.255Z",
+  "genere_le": "2026-11-20T18:18:10.043Z",
   "actus": [
+    {
+      "id": "6294cd28855de7501e41d12c71a1b294a501dcd8",
+      "titre": "Mondial U17 : réduit à dix, le Sénégal arrache le nul 1-1 contre la Croatie",
+      "resume": "Pour leur premier match de la Coupe du monde U17 à Doha, les Lionceaux ont concédé le nul 1-1 face à la Croatie. Menés dès la 8e minute puis privés d'un joueur exclu, ils ont égalisé avant la pause par Sega Fall Mbodji. Le sélectionneur Lamine Sané se dit peu satisfait et prévoit des changements avant Cuba, lundi.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Coupe du monde U17",
+      "source_nom": "Wiwsport",
+      "source_url": "https://wiwsport.com/2026/11/20/mondial-u17-en-inferiorite-numerique-les-lionceaux-tiennent-le-nul-face-a-la-croatie/",
+      "autres_sources": [
+        "https://senego.com/foot-mondial-u17-a-dix-les-lionceaux-resistent-a-la-croatie-1-1-pour-leur-entree-en-lice_2026189.html",
+        "https://wiwsport.com/2026/11/20/mondial-u17-reduit-a-dix-le-senegal-et-la-croatie-a-egalite-a-la-pause-1-1/",
+        "https://wiwsport.com/2026/11/20/mondial-u17-en-video-le-but-de-sega-fall-mbodji-qui-eglise-pour-les-lionceaux-face-a-la-croatie/",
+        "https://wiwsport.com/2026/11/20/mondial-u17-baba-camara-titulaire-decouvrez-le-onze-du-senegal-face-a-la-croatie/",
+        "https://senego.com/lamine-sane-mecontent-du-nul-contre-la-croatie-annonce-des-changements-avant-cuba_2026205.html",
+        "https://wiwsport.com/2026/11/20/lamine-sane-selectionneur-des-lionceaux-apres-le-nul-match-face-a-la-croatie-cest-un-bon-point-mais-je-ne-suis-pas-satisfait-on-va-faire-quelques-changements/"
+      ],
+      "publie_le": "2026-11-20T17:24:20.000Z",
+      "collecte_le": "2026-11-20T18:18:10.043Z",
+      "langue": "fr",
+      "slug": "mondial-u17-reduit-dix-le-senegal-arrache-le-nul-1-1-contre-la-croatie-6294cd",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/6294cd28855de7501e41d12c71a1b294a501dcd8.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/6294cd28855de7501e41d12c71a1b294a501dcd8.webp",
+        "source": "wikimedia",
+        "credit": "km2bp @ Mapillary.com",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Aspire_Zone_in_Baaya_and_Mehairja.jpg",
+        "alt": "Le complexe sportif de l'Aspire Zone à Doha, au Qatar",
+        "mots_cles": [
+          "Aspire Zone"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c19bc2a25e8c198551daf89993bbb1b775cd4c4b",
       "titre": "RD Congo : Christian Luyindama primé par la FIFPRO pour sa clinique de Kinshasa",
@@ -2044,38 +2083,6 @@
         "alt": "L'équipe féminine des moins de 17 ans du Nigeria",
         "mots_cles": [
           "Patrice Motsepe"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "3d0987c124909a5a1da245e289930dd57f8e87c5",
-      "titre": "Mali : Seydou Dembélé, milieu de Reims âgé de 18 ans, appelé pour la première fois en U23",
-      "resume": "Arrivé à Reims cet été après avoir été approché par Chelsea et le FC Barcelone, Seydou Dembélé, 18 ans, figure dans la liste des U23 du Mali. Fousseni Diawara l'a retenu pour la double rencontre face au Zimbabwe, les 11 et 17 novembre.",
-      "theme": "foot",
-      "pays": [
-        "ML",
-        "ZW"
-      ],
-      "competition": "Éliminatoires CAN U23 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/mali-seydou-dembele-la-pepite-de-reims-qui-a-snobe-chelsea-et-le-barca-appelee-en-u23-pour-la-premiere-fois",
-      "publie_le": "2026-11-05T08:24:55.000Z",
-      "collecte_le": "2026-11-05T11:20:08.345Z",
-      "langue": "fr",
-      "slug": "mali-seydou-dembele-milieu-de-reims-age-de-18-ans-appele-pour-la-3d0987",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/3d0987c124909a5a1da245e289930dd57f8e87c5.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/3d0987c124909a5a1da245e289930dd57f8e87c5.webp",
-        "source": "wikimedia",
-        "credit": "Etonde51",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Stade_de_Reims.jpg",
-        "alt": "Le Stade de Reims, club de football où joue Seydou Dembélé",
-        "mots_cles": [
-          "Stade de Reims"
         ],
         "largeur": 1600,
         "hauteur": 900

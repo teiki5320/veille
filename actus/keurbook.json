@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-20T11:21:48.362Z",
+  "genere_le": "2026-11-20T18:18:06.363Z",
   "actus": [
+    {
+      "id": "4e1502a74236fb9e62428fbea211c885546e6131",
+      "titre": "Zeinab Badawi raconte sept millions d'années d'histoire africaine, enfin en français",
+      "resume": "La journaliste soudano-britannique Zeinab Badawi voit son essai « An African History of Africa » publié par les Éditions du Faubourg dans une version française. Sorti en 2024 et déjà vendu à plus de 110 000 copies, le livre veut rendre aux Africains le récit de leur passé, des premiers ancêtres de l'homme aux indépendances.",
+      "theme": "livres",
+      "pays": [
+        "SD"
+      ],
+      "source_nom": "Jeune Afrique",
+      "source_url": "https://www.jeuneafrique.com/1863788/societe/zeinab-badawi-lafrique-a-une-histoire-tres-riche-bien-avant-larrivee-des-europeens/",
+      "publie_le": "2026-11-20T18:01:10.000Z",
+      "collecte_le": "2026-11-20T18:18:06.363Z",
+      "langue": "fr",
+      "slug": "zeinab-badawi-raconte-sept-millions-annees-histoire-africaine-enfin-en-4e1502",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/4e1502a74236fb9e62428fbea211c885546e6131.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/4e1502a74236fb9e62428fbea211c885546e6131.webp",
+        "source": "wikimedia",
+        "credit": "UNISDR Photo Gallery",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Zeinab_Badawi_crop_UNISDR.jpg",
+        "alt": "Portrait de la journaliste et autrice Zeinab Badawi",
+        "mots_cles": [
+          "Zeinab Badawi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "985020d97f031533793bd7f9d553b9f011660d5e",
       "titre": "Kigali : Boubacar Boris Diop parle de page blanche et d'IA avec des lycéens",
