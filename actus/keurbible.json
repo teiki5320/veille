@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-19T18:17:13.256Z",
+  "genere_le": "2026-11-20T04:23:00.832Z",
   "actus": [
     {
       "id": "691d1f4f2fcd243aa229f7c24ad74d7d842db760",
@@ -59,12 +59,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbible/99c4a3cb14fb308760dede1ad6b6ce2da7eb52df.webp",
         "source": "wikimedia",
-        "credit": "Didierwiki",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Basilique_notre_Dame_de_la_Paix_de_Yamoussoukro_9.jpg",
-        "alt": "La basilique Notre-Dame de la Paix de Yamoussoukro, en Côte d’Ivoire.",
+        "credit": "Lebikk",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:La_paroisse_cath%C3%A9drale_de_Bukavu.jpg",
+        "alt": "La cathédrale de Bukavu, dans l'est de la RD Congo",
         "mots_cles": [
-          "Basilique Notre-Dame de la Paix de Yamoussoukro"
+          "La paroisse cathédrale de Bukavu.jpg"
         ],
         "largeur": 1600,
         "hauteur": 900

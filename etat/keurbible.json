@@ -1524,7 +1524,7 @@
     },
     {
       "id": "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Basilique_notre_Dame_de_la_Paix_de_Yamoussoukro_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/1/14/La_paroisse_cath%C3%A9drale_de_Bukavu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "c88d80071ba8d291b62d275d0abe2da2e02a4cc2",
@@ -1653,7 +1653,7 @@
     "baabe644b66fa9970e794d5c62be78098db53ca4": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cath%C3%A9drale_Notre-Dame_des_Victoires_Yaound%C3%A9_Cameroun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "c88d80071ba8d291b62d275d0abe2da2e02a4cc2": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tangaza-college1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "34a3643a8bdc8fd25c2aa24c44fc353c698dac43": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kathedrale_von_Bissau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Basilique_notre_Dame_de_la_Paix_de_Yamoussoukro_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df": "https://upload.wikimedia.org/wikipedia/commons/1/14/La_paroisse_cath%C3%A9drale_de_Bukavu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "691d1f4f2fcd243aa229f7c24ad74d7d842db760": "https://live.staticflickr.com/3295/2790650035_9deb5aef4a_b.jpg"
   },
   "refusees": {
@@ -1697,7 +1697,8 @@
     "99c4a3cb14fb308760dede1ad6b6ce2da7eb52df": [
       "https://upload.wikimedia.org/wikipedia/commons/8/85/Kisangani_cath%C3%A9drale_Notre_Dame_du_Tr%C3%A8s_Saint_Rosaire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/3/38/L%27%C3%A9glise_de_Boma_%2C_RDC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "https://upload.wikimedia.org/wikipedia/commons/6/61/Rond_point_Cath%C3%A9drale_Notre_dame_du_Congo-_Bkv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/Rond_point_Cath%C3%A9drale_Notre_dame_du_Congo-_Bkv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Basilique_notre_Dame_de_la_Paix_de_Yamoussoukro_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
