@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "89e917e8b265086e95750fee71d1ae6179977621",
+  "slug": "budget-2027-le-nouvel-apport-cession-inquiete-les-patrons-qui-veulent-89e917",
+  "titre": "Budget 2027 : le nouvel apport-cession inquiète les patrons qui veulent transmettre",
+  "chapo": "Le projet de loi de finances pour 2027 est débattu au Sénat depuis ce vendredi. Parmi ses mesures, la réforme du report d'imposition lié à l'apport-cession inquiète des chefs d'entreprise.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Rejeté par l'Assemblée nationale, le budget 2027 est examiné par les sénateurs à partir du vendredi 20 novembre. Sans attendre le vote final, des entreprises anticipent déjà certaines mesures, dont celle qui touche la transmission. Selon franceinfo, la règle applicable à la vente d'une société a été rendue plus stricte au Sénat, et des entrepreneurs jugent que le coût des cessions devient prohibitif."
+      ]
+    },
+    {
+      "intertitre": "Ce que prévoit le texte",
+      "paragraphes": [
+        "L'apport-cession permet à un dirigeant d'apporter ses titres à une holding qu'il contrôle avant leur vente, et de reporter l'impôt sur la plus-value. Le code général des impôts encadre ce régime dans son article 150-0 B ter. Ce mécanisme sert souvent aux fondateurs qui préparent la vente de leur société.",
+        "Le projet du gouvernement prévoyait de mettre fin à ce report quand les titres de la holding sont transmis gratuitement, par donation ou par succession. La mesure devait viser les transmissions faites depuis le 1er octobre 2026."
+      ]
+    },
+    {
+      "intertitre": "Des versions successives",
+      "paragraphes": [
+        "À l'Assemblée, un amendement du rapporteur général Philippe Juvin avait recentré la mesure avant le rejet de l'ensemble du texte. Une succession n'aurait plus déclenché l'impôt, et une donation n'y aurait mis fin que si la holding revendait les titres dans un délai de huit ans après l'apport. Le plan de paiement de l'impôt passait aussi de cinq à dix ans.",
+        "Ce compromis est tombé avec le rejet du budget par les députés : le Sénat repart du texte du gouvernement. Avec le départ à la retraite de nombreux dirigeants, la version finale pèsera directement sur le coût de leur transmission. Le texte doit encore revenir devant les deux chambres avant son adoption définitive."
+      ]
+    }
+  ],
+  "mots": 302,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Franceinfo",
+  "source_url": "https://www.franceinfo.fr/economie/entreprises/tout-est-arrete-le-cout-de-la-transmission-devient-totalement-prohibitif-des-entrepreneurs-denoncent-la-reforme-de-l-apport-cession_8290397.html",
+  "autres_sources": [
+    "https://www.legifiscal.fr/actualites-fiscales/4695-plf-2027-apport-cession-apport-ei-deputes-change-dirigeants.html"
+  ],
+  "publie_le": "2026-11-20T05:04:14.000Z",
+  "redige_le": "2026-11-20T11:21:56.868Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/89e917e8b265086e95750fee71d1ae6179977621.webp",
+    "source": "wikimedia",
+    "credit": "DXR",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_South_View_140116_1.jpg",
+    "alt": "Le palais du Luxembourg, siège du Sénat à Paris",
+    "mots_cles": [
+      "Palais du Luxembourg"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

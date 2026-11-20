@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-19T18:17:13.300Z",
+  "genere_le": "2026-11-20T11:21:48.374Z",
   "actus": [
+    {
+      "id": "4b7e85ed3ca0523a2fbf0166e14030688ad6e7d8",
+      "titre": "Huile d'olive : la Tunisie remonte au deuxième rang mondial, juste derrière l'Espagne",
+      "resume": "Avec une récolte record de 500 000 tonnes, la moitié de plus que l'an dernier, la Tunisie se hisse au deuxième rang des pays producteurs d'huile d'olive, derrière l'Espagne. Une place qu'elle n'avait plus tenue depuis plus de dix ans, après les années de sécheresse de 2022 à 2024.",
+      "theme": "cuisine",
+      "pays": [
+        "TN"
+      ],
+      "source_nom": "RFI",
+      "source_url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261119-la-tunisie-devient-le-deuxi%C3%A8me-producteur-mondial-d-huile-d-olive",
+      "publie_le": "2026-11-19T23:00:26.000Z",
+      "collecte_le": "2026-11-20T11:21:48.374Z",
+      "langue": "fr",
+      "slug": "huile-olive-la-tunisie-remonte-au-deuxieme-rang-mondial-juste-derriere-4b7e85",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/4b7e85ed3ca0523a2fbf0166e14030688ad6e7d8.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/4b7e85ed3ca0523a2fbf0166e14030688ad6e7d8.webp",
+        "source": "wikimedia",
+        "credit": "Raoin099",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Oldest_Olive_Tree_in_Tunisia.jpg",
+        "alt": "Des oliviers en Tunisie",
+        "mots_cles": [
+          "Olive trees in Tunisia"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "7c8b4768b6f4581ee39cf11a8c8de961598d2a95",
       "titre": "Afrique du Sud : soupe d'amadumbe et milk tart revisitées pour le mois du véganisme",

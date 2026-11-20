@@ -1,8 +1,69 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-19T18:17:14.901Z",
+  "genere_le": "2026-11-20T11:21:49.708Z",
   "actus": [
+    {
+      "id": "bc118539232ac6a0f7a61195d0d6b5c1ac1261dd",
+      "titre": "Londres : le Design Museum réunit 16 créateurs noirs dans « The Nue Black Aesthetic »",
+      "resume": "Pour la première fois au Royaume-Uni, une exposition rassemble seize designers noirs au Design Museum de Londres. Plus de 100 pièces, du mobilier à la mode et à l'architecture, signées notamment Tosin Oshinowo, Ini Archibong ou Nifemi Marcus-Bello, autour de l'identité, de la communauté et des systèmes.",
+      "theme": "deco",
+      "pays": [
+        "GB",
+        "NG"
+      ],
+      "source_nom": "Dezeen",
+      "source_url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+      "publie_le": "2026-11-20T11:00:00.000Z",
+      "collecte_le": "2026-11-20T11:21:49.708Z",
+      "langue": "en",
+      "slug": "londres-le-design-museum-reunit-16-createurs-noirs-dans-the-nue-black-bc1185",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/bc118539232ac6a0f7a61195d0d6b5c1ac1261dd.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/bc118539232ac6a0f7a61195d0d6b5c1ac1261dd.webp",
+        "source": "wikimedia",
+        "credit": "Anthony O'Neil",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Design_Museum_(2)_(geograph_5246509).jpg",
+        "alt": "Le Design Museum de Londres, dans le quartier de Kensington",
+        "mots_cles": [
+          "Design Museum London"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "ec36c93e22efbd8f830814d626d457b6843dd670",
+      "titre": "Casablanca, de l'Art déco au brutalisme : une ville-musée pour les fous d'architecture",
+      "resume": "Moins visitée que Marrakech ou Rabat, Casablanca concentre un rare patrimoine du XXe siècle : Art déco, néo-mauresque, modernisme et brutalisme, enrichis par le zellige, le plâtre sculpté et le fer forgé des artisans marocains. L'association Casamémoire veille sur cet héritage.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Ideat",
+      "source_url": "https://ideat.fr/casablanca-un-musee-a-ciel-ouvert-pour-les-amoureux-darchitecture/",
+      "publie_le": "2026-11-20T06:00:14.000Z",
+      "collecte_le": "2026-11-20T11:21:49.708Z",
+      "langue": "fr",
+      "slug": "casablanca-de-art-deco-au-brutalisme-une-ville-musee-pour-les-fous-ec36c9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/ec36c93e22efbd8f830814d626d457b6843dd670.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/ec36c93e22efbd8f830814d626d457b6843dd670.webp",
+        "source": "wikimedia",
+        "credit": "Reda benkhadra",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Boulevard_Mohammed_V,_Casablanca.jpg",
+        "alt": "Un immeuble Art déco du centre de Casablanca",
+        "mots_cles": [
+          "Boulevard Mohammed V Casablanca"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8886ab6a4bea54381a731b38ce2284235fd7bde2",
       "titre": "Paris : le Ghanéen Ibrahim Mahama fait entrer le nord du Ghana à la Fondation Cartier",

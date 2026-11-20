@@ -1,8 +1,112 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-19T18:17:16.816Z",
+  "genere_le": "2026-11-20T11:21:53.255Z",
   "actus": [
+    {
+      "id": "c19bc2a25e8c198551daf89993bbb1b775cd4c4b",
+      "titre": "RD Congo : Christian Luyindama primé par la FIFPRO pour sa clinique de Kinshasa",
+      "resume": "Le défenseur congolais Christian Luyindama a reçu un prix FIFPRO Merit 2026, qui récompense l'engagement des joueurs hors du terrain. Sa fondation a ouvert à Kinshasa une clinique qui soigne footballeurs et habitants, y compris ceux qui ne peuvent pas payer.",
+      "theme": "foot",
+      "pays": [
+        "CD"
+      ],
+      "competition": null,
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/rdc-christian-luyindama-remporte-le-prix-fifpro-merit-2026-pour-son-engagement-social/",
+      "publie_le": "2026-11-20T10:53:54.000Z",
+      "collecte_le": "2026-11-20T11:21:53.255Z",
+      "langue": "fr",
+      "slug": "rd-congo-christian-luyindama-prime-par-la-fifpro-pour-sa-clinique-de-c19bc2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/c19bc2a25e8c198551daf89993bbb1b775cd4c4b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/c19bc2a25e8c198551daf89993bbb1b775cd4c4b.webp",
+        "source": "wikimedia",
+        "credit": "beIN SPORTS Türkiye",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Christian_Luyindama_-_beIN-Sports-Reklam_(2021).png",
+        "alt": "Le défenseur congolais Christian Luyindama",
+        "mots_cles": [
+          "Christian Luyindama"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "23c193d514012d594a4dc95f7c41b0e3e3bcc788",
+      "titre": "Football algérien : Youcef Gamouh, arbitre FIFA passé par la CAN, meurt à 39 ans",
+      "resume": "L'arbitre algérien Youcef Gamouh est mort jeudi à 39 ans, après une longue maladie, a annoncé la Fédération algérienne. Badge FIFA depuis 2021, il avait officié à la CAN 2023 et au Mondial U20 2025. Malade, il avait rendu son badge international en octobre.",
+      "theme": "foot",
+      "pays": [
+        "DZ"
+      ],
+      "competition": null,
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/afrique-football/algerie-larbitre-international-youcef-gamouh-est-decede-a-lage-de-39-ans/",
+      "autres_sources": [
+        "https://www.footmercato.net/a8145818904043085990-le-football-algerien-en-deuil-apres-le-deces-de-larbitre-youcef-gamouh-a-39-ans",
+        "https://www.afrik-foot.com/algerie-mahrez-rend-hommage-a-larbitre-de-la-can-2023-decede"
+      ],
+      "publie_le": "2026-11-20T10:41:09.000Z",
+      "collecte_le": "2026-11-20T11:21:53.255Z",
+      "langue": "fr",
+      "slug": "football-algerien-youcef-gamouh-arbitre-fifa-passe-par-la-can-meurt-39-23c193",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/23c193d514012d594a4dc95f7c41b0e3e3bcc788.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/23c193d514012d594a4dc95f7c41b0e3e3bcc788.webp",
+        "source": "wikimedia",
+        "credit": "Fédération Guinéenne Football",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:0K8A8982_(53467364281).jpg",
+        "alt": "L'arbitre algérien Youcef Gamouh",
+        "mots_cles": [
+          "Youcef Gamouh"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7a5890bd94e74311fee3e940748714345c3565a3",
+      "titre": "FIFA : candidat à la présidence, Philippe Diallo part chercher des voix africaines à Abuja",
+      "resume": "Candidat face à Gianni Infantino pour l'élection de mars 2027, le patron du football français se rend à Abuja pour l'assemblée générale de la CAF. L'Afrique compte 54 voix. Le Japonais Kozo Tashima, troisième candidat, se dit prêt à s'allier avec lui sans se retirer pour l'instant.",
+      "theme": "foot",
+      "pays": [
+        "NG",
+        "FR"
+      ],
+      "competition": null,
+      "source_nom": "L'Équipe",
+      "source_url": "https://www.lequipe.fr/Football/Article/A-l-assemblee-generale-de-la-caf-philippe-diallo-avance-ses-pions-pour-l-election-a-la-presidence-de-la-fifa/1744735",
+      "autres_sources": [
+        "https://www.footmercato.net/a9006758368272057831-philippe-diallo-lance-son-operation-seduction-en-afrique",
+        "https://senego.com/un-journaliste-guineen-lance-un-comite-pour-mobiliser-les-federations-africaines-derriere-diallo_2025872.html",
+        "https://www.rfi.fr/fr/sports/20261120-pr%C3%A9sidence-de-la-fifa-le-japonais-tashima-ne-pr%C3%A9voit-pas-pour-l-instant-de-se-retirer-en-faveur-de-diallo",
+        "https://www.espn.com/soccer/story/_/id/50538498/tashima-unite-diallo-fifa-president-infantino"
+      ],
+      "publie_le": "2026-11-20T09:56:00.000Z",
+      "collecte_le": "2026-11-20T11:21:53.255Z",
+      "langue": "fr",
+      "slug": "fifa-candidat-la-presidence-philippe-diallo-part-chercher-des-voix-7a5890",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7a5890bd94e74311fee3e940748714345c3565a3.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7a5890bd94e74311fee3e940748714345c3565a3.webp",
+        "source": "wikimedia",
+        "credit": "CoSMoSportif",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Philippe_Diallo_rencontre_Edouard_Philippe_et_Roxana_Maracineanu_le_14_mai_2020_crop.jpg",
+        "alt": "Philippe Diallo, président de la Fédération française de football",
+        "mots_cles": [
+          "Philippe Diallo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "87af115affda6b34a2dca5f976835f59050b2c30",
       "titre": "CAN 2027 : la CAF présente « Pamoja », un logo inspiré du bouclier est-africain",
@@ -1972,120 +2076,6 @@
         "alt": "Le Stade de Reims, club de football où joue Seydou Dembélé",
         "mots_cles": [
           "Stade de Reims"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "05a44de0e3632653db1f2be279d62186cc779aeb",
-      "titre": "CAF Awards 2026 : Hakimi, Mané et Semenyo en lice pour le trophée du meilleur joueur",
-      "resume": "La CAF a publié mercredi les dix noms en course pour la récompense du meilleur joueur du continent en 2026. Le Maroc et le Sénégal placent chacun trois joueurs, dont le tenant Achraf Hakimi et Sadio Mané. Le lauréat sera connu le 7 décembre à Lagos.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "SN",
-        "CI",
-        "GH",
-        "CD",
-        "ZA"
-      ],
-      "competition": "Ballon d'Or africain",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a3840302555532362838-caf-awards-2026-les-dix-nommes-pour-le-ballon-dor-africain-avec-quelques-surprises",
-      "autres_sources": [
-        "https://www.afrik-foot.com/ballon-dor-africain-la-liste-des-10-nommes-maza-et-diomande-oublies-3-noms-font-debat",
-        "https://kawowo.com/2026/11/04/caf-reveals-shortlists-for-2026-awards/",
-        "https://senego.com/caf-awards-2026-sadio-mane-ismaila-sarr-pape-gueye-le-senegal-en-force-parmi-les-nomines_2020386.html",
-        "https://wiwsport.com/2026/11/04/caf-awards-2026-ismaila-sarr-pape-gueye-et-sadio-mane-trois-lions-aux-arguments-solides/"
-      ],
-      "publie_le": "2026-11-04T11:13:50.000Z",
-      "collecte_le": "2026-11-04T18:18:36.489Z",
-      "langue": "fr",
-      "slug": "caf-awards-2026-hakimi-mane-et-semenyo-en-lice-pour-le-trophee-du-05a44d",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/05a44de0e3632653db1f2be279d62186cc779aeb.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/05a44de0e3632653db1f2be279d62186cc779aeb.webp",
-        "source": "wikimedia",
-        "credit": "Bryan Berlin",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-32.jpg",
-        "alt": "Le défenseur marocain Achraf Hakimi sous le maillot de son équipe",
-        "mots_cles": [
-          "Achraf Hakimi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "cbd6af89decfa490f034bdbc6adb57992fc75cd9",
-      "titre": "CAF Awards 2026 : Mendy, Bounou et Vozinha parmi les dix gardiens nommés",
-      "resume": "La CAF a annoncé les dix gardiens en course pour le titre de l'année. Le Sénégalais Édouard Mendy, souvent nommé mais jamais sacré, retrouve la liste avec le Marocain Yassine Bounou et le Cap-Verdien Vozinha.",
-      "theme": "foot",
-      "pays": [
-        "SN",
-        "MA",
-        "CV"
-      ],
-      "competition": "CAF Awards",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a4159464636261045863-caf-awards-2026-les-dix-nommes-pour-le-titre-de-meilleur-gardien-africain",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/04/caf-awards-2026-edouard-mendy-nomme-pour-le-trophee-de-meilleur-gardien-africain-de-lannee/"
-      ],
-      "publie_le": "2026-11-04T10:36:47.000Z",
-      "collecte_le": "2026-11-04T11:20:43.061Z",
-      "langue": "fr",
-      "slug": "caf-awards-2026-mendy-bounou-et-vozinha-parmi-les-dix-gardiens-nommes-cbd6af",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/cbd6af89decfa490f034bdbc6adb57992fc75cd9.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/cbd6af89decfa490f034bdbc6adb57992fc75cd9.webp",
-        "source": "wikimedia",
-        "credit": "Анна Мейер",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Mendy_2021.jpg",
-        "alt": "Édouard Mendy, gardien de but de l'équipe du Sénégal",
-        "mots_cles": [
-          "Édouard Mendy"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "88d5acce09106b055c0369b486e1ae08631c8e4b",
-      "titre": "CAF Awards 2026 : Pape Thiaw et Lamine Ndiaye parmi les dix meilleurs entraîneurs",
-      "resume": "La CAF a publié la liste des dix techniciens en course pour le titre d'entraîneur africain de l'année. Deux Sénégalais y figurent, Pape Thiaw et Lamine Ndiaye, aux côtés de Walid Regragui, Mohamed Ouahbi et Sébastien Desabre.",
-      "theme": "foot",
-      "pays": [
-        "SN",
-        "MA"
-      ],
-      "competition": "CAF Awards",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a861374524028825871-caf-awards-2026-les-dix-nommes-pour-le-titre-de-meilleur-coach-africain",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/04/caf-awards-2026-avec-pape-thiaw-lamine-ndiaye-nomme-pour-le-titre-de-meilleur-entraineur-africain/",
-        "https://wiwsport.com/2026/11/04/caf-awards-2026-pape-thiaw-dans-la-course-au-titre-de-meilleur-entraineur-africain/"
-      ],
-      "publie_le": "2026-11-04T09:35:56.000Z",
-      "collecte_le": "2026-11-04T11:20:43.061Z",
-      "langue": "fr",
-      "slug": "caf-awards-2026-pape-thiaw-et-lamine-ndiaye-parmi-les-dix-meilleurs-88d5ac",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/88d5acce09106b055c0369b486e1ae08631c8e4b.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/88d5acce09106b055c0369b486e1ae08631c8e4b.webp",
-        "source": "wikimedia",
-        "credit": "LHC88",
-        "licence": "CC BY 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:ACM-Spurs_CL_2023.png",
-        "alt": "Pape Thiaw, entraîneur sénégalais de football",
-        "mots_cles": [
-          "Pape Thiaw"
         ],
         "largeur": 1600,
         "hauteur": 900

@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "4b7e85ed3ca0523a2fbf0166e14030688ad6e7d8",
+  "slug": "huile-olive-la-tunisie-remonte-au-deuxieme-rang-mondial-juste-derriere-4b7e85",
+  "titre": "Huile d'olive : la Tunisie remonte au deuxième rang mondial, juste derrière l'Espagne",
+  "chapo": "Avec une récolte de 500 000 tonnes, la Tunisie ne cède plus que devant l'Espagne parmi les pays producteurs d'huile d'olive, une première depuis plus de dix ans.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les chiffres officiels confirment une saison hors norme. La récolte tunisienne dépasse de moitié celle de l'an dernier et se situe bien au-dessus de la moyenne des cinq dernières années, autour de 320 000 tonnes. D'après le Conseil oléicole international, le pays n'avait plus occupé cette deuxième place depuis plus d'une décennie.",
+        "En temps normal, la Tunisie se range dans le groupe de tête, aux côtés de l'Italie et de la Turquie, juste après l'Espagne. Plus loin viennent la Grèce, le Maroc et le Portugal. L'huile d'olive tient aussi une place centrale dans la cuisine du pays, des salades aux ragoûts."
+      ]
+    },
+    {
+      "intertitre": "Après la sécheresse, le retour des olives",
+      "paragraphes": [
+        "Entre 2022 et 2024, le manque de pluie avait lourdement frappé les oliveraies dans presque tout le bassin méditerranéen. La dernière campagne marque une nette reprise, grâce à une météo favorable presque partout, y compris en Espagne, premier producteur.",
+        "La Tunisie destine surtout son huile à l'étranger. Sur l'année achevée en octobre, elle en a expédié 413 000 tonnes vers une centaine de pays. Ses premières destinations sont l'Espagne, l'Italie, qui a absorbé 19 % de la production, et les États-Unis. Ces envois ont rapporté près de 1,5 milliard d'euros, d'après l'observatoire agricole national tunisien (ONAGRI)."
+      ]
+    },
+    {
+      "intertitre": "Une place qui reste fragile",
+      "paragraphes": [
+        "Ce rang n'est pourtant pas acquis. La production d'olives varie beaucoup d'une année à l'autre et dépend du changement climatique. Abdellatif Ghedira, qui dirige le bureau arabe de l'oléiculture à la Ligue arabe, rappelle qu'une seule récolte ne fait pas référence.",
+        "Les spécialistes regardent plutôt la moyenne sur cinq campagnes et les choix de chaque pays. Comme la plupart de ses voisins, la Tunisie agrandit ses surfaces et renouvelle ses oliviers. Selon Abdellatif Ghedira, la demande mondiale reste assez forte pour absorber toute la production à venir."
+      ]
+    }
+  ],
+  "mots": 324,
+  "lecture_min": 1,
+  "theme": "cuisine",
+  "pays": [
+    "TN"
+  ],
+  "source_nom": "RFI",
+  "source_url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261119-la-tunisie-devient-le-deuxi%C3%A8me-producteur-mondial-d-huile-d-olive",
+  "publie_le": "2026-11-19T23:00:26.000Z",
+  "redige_le": "2026-11-20T11:21:48.374Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/4b7e85ed3ca0523a2fbf0166e14030688ad6e7d8.webp",
+    "source": "wikimedia",
+    "credit": "Raoin099",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Oldest_Olive_Tree_in_Tunisia.jpg",
+    "alt": "Des oliviers en Tunisie",
+    "mots_cles": [
+      "Olive trees in Tunisia"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "c2d5bb8f0d68fe642f3982075d988f84018d1c45",
+  "slug": "avances-et-acomptes-sur-salaire-les-demandes-des-salaries-explosent-c2d5bb",
+  "titre": "Avances et acomptes sur salaire : les demandes des salariés explosent dans les entreprises",
+  "chapo": "Avec l'inflation, un nombre croissant de salariés demandent à leur employeur une partie de leur paie avant la fin du mois. Les règles ne sont pas les mêmes pour un acompte et pour une avance.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Les services de paie constatent le phénomène. Aude Ferrary, juriste et responsable paie et RH au cabinet TPLPaye, explique à 20 Minutes que les demandes d'avance, presque inexistantes il y a dix ans, dépassent désormais celles d'acompte. Elles viennent surtout des salariés aux revenus les plus modestes.",
+        "Sur environ 60 000 bulletins traités par son cabinet, les demandes d'acompte ont aussi progressé d'environ 10 %. La spécialiste y voit l'effet du contexte économique et de l'inflation, et parle d'une véritable tendance. Une facture d'énergie élevée, une voiture à réparer ou des courses à faire avec un compte déjà à découvert suffisent souvent à déclencher la démarche."
+      ]
+    },
+    {
+      "intertitre": "L'acompte, un droit",
+      "paragraphes": [
+        "L'acompte correspond à une partie du salaire déjà gagnée, pour des heures réellement travaillées. Pour un salarié mensualisé, c'est un droit dès le 15 de chaque mois : l'employeur doit le verser s'il est demandé, puis le déduire de la paie suivante."
+      ]
+    },
+    {
+      "intertitre": "L'avance, un prêt que l'employeur peut refuser",
+      "paragraphes": [
+        "L'avance porte au contraire sur un travail pas encore effectué. Elle fonctionne comme un prêt sans intérêts, remboursé petit à petit sur les paies suivantes. Chaque retenue est plafonnée au dixième du salaire exigible. La différence compte pour l'entreprise : l'acompte ne change rien au salaire du mois, il en avance seulement une partie, alors que l'avance crée une dette du salarié envers son employeur, remboursée sur plusieurs mois.",
+        "L'employeur reste libre d'accepter ou non, mais le salarié peut formuler sa demande à tout moment du mois. Pour une petite entreprise, la multiplication de ces demandes oblige à arbitrer entre l'aide aux équipes et sa propre trésorerie."
+      ]
+    }
+  ],
+  "mots": 300,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Provence",
+  "source_url": "https://www.laprovence.com/article/economie/66133003119832/acomptes-sur-salaire-du-jamais-vu-pourquoi-les-demandes-explosent-en-france-pour-boucler-les-fins-de-mois",
+  "autres_sources": [
+    "https://www.laprovence.com/article/economie/39661137977536/acomptes-sur-salaire-en-provence-avec-la-crise-demandez-vous-plus-souvent-une-avance-sur-votre-paie",
+    "https://www.ladepeche.fr/2026/11/20/comment-demander-une-avance-sur-salaire-a-son-employeur-et-quelles-sont-les-regles-on-vous-explique-13657123.php"
+  ],
+  "publie_le": "2026-11-20T10:15:18.000Z",
+  "redige_le": "2026-11-20T11:21:56.868Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/c2d5bb8f0d68fe642f3982075d988f84018d1c45.webp",
+    "source": "openverse",
+    "credit": "Pontificalibus",
+    "licence": "CC0 1.0",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=119196525",
+    "alt": "Des documents comptables sur un bureau",
+    "mots_cles": [
+      "payslip"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

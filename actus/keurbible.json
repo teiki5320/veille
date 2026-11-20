@@ -1,8 +1,45 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-20T04:23:00.832Z",
+  "genere_le": "2026-11-20T11:21:46.334Z",
   "actus": [
+    {
+      "id": "0b84e2632415ece7d51143fffe39fb06fd3f280b",
+      "titre": "Nairobi : le cardinal Turkson invite l'Église d'Afrique à dépasser ses divisions",
+      "resume": "En ouvrant le colloque panafricain de l'université Tangaza, à Nairobi, le cardinal ghanéen Peter Turkson a relu les deux synodes africains et appelé les catholiques à vivre en famille de Dieu, unis malgré les divisions. D'autres responsables, dont un évêque anglican nigérian, ont plaidé pour l'unité des chrétiens.",
+      "theme": "culture",
+      "pays": [
+        "KE",
+        "GH"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25463/cardinal-turkson-urges-catholics-in-africa-to-confront-divisions-and-live-as-family-of-god",
+      "autres_sources": [
+        "https://www.aciafrica.org/news/25471/they-simply-need-the-love-of-christ-nigerian-anglican-bishop-urges-christian-unity-at-pan-african-conference",
+        "https://www.aciafrica.org/news/25467/africa-needs-more-than-a-growing-church-kenyan-bishop-urges-justice-and-service-at-pan-african-conference",
+        "https://www.aciafrica.org/news/25459/train-minds-deepen-faith-vatican-diplomat-challenges-catholic-educators-in-africa-to-form-students-for-service",
+        "https://www.aciafrica.org/news/25469/ugandan-comboni-archbishop-says-small-christian-communities-bring-church-closer-to-the-people"
+      ],
+      "publie_le": "2026-11-19T20:55:00.000Z",
+      "collecte_le": "2026-11-20T11:21:46.334Z",
+      "langue": "en",
+      "slug": "nairobi-le-cardinal-turkson-invite-eglise-afrique-depasser-ses-0b84e2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/0b84e2632415ece7d51143fffe39fb06fd3f280b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/0b84e2632415ece7d51143fffe39fb06fd3f280b.webp",
+        "source": "wikimedia",
+        "credit": "Richter Frank-Jurgen",
+        "licence": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Peter_Turkson_(cropped).jpg",
+        "alt": "Le cardinal ghanéen Peter Turkson",
+        "mots_cles": [
+          "Peter Turkson"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "691d1f4f2fcd243aa229f7c24ad74d7d842db760",
       "titre": "Afrique du Sud : le nonce publie un livre sur le bienheureux Benedict Daswa",

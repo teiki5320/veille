@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-19T18:17:16.811Z",
+  "genere_le": "2026-11-20T11:21:53.240Z",
   "articles": [
+    {
+      "id": "bc118539232ac6a0f7a61195d0d6b5c1ac1261dd",
+      "slug": "londres-le-design-museum-reunit-16-createurs-noirs-dans-the-nue-black-bc1185",
+      "titre": "Londres : le Design Museum réunit 16 créateurs noirs dans « The Nue Black Aesthetic »",
+      "publie_le": "2026-11-20T11:00:00.000Z",
+      "redige_le": "2026-11-20T11:21:49.708Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/bc118539232ac6a0f7a61195d0d6b5c1ac1261dd.json"
+    },
+    {
+      "id": "ec36c93e22efbd8f830814d626d457b6843dd670",
+      "slug": "casablanca-de-art-deco-au-brutalisme-une-ville-musee-pour-les-fous-ec36c9",
+      "titre": "Casablanca, de l'Art déco au brutalisme : une ville-musée pour les fous d'architecture",
+      "publie_le": "2026-11-20T06:00:14.000Z",
+      "redige_le": "2026-11-20T11:21:49.708Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/ec36c93e22efbd8f830814d626d457b6843dd670.json"
+    },
     {
       "id": "8886ab6a4bea54381a731b38ce2284235fd7bde2",
       "slug": "paris-le-ghaneen-ibrahim-mahama-fait-entrer-le-nord-du-ghana-la-8886ab",

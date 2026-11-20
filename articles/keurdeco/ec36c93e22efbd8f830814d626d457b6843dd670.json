@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "ec36c93e22efbd8f830814d626d457b6843dd670",
+  "slug": "casablanca-de-art-deco-au-brutalisme-une-ville-musee-pour-les-fous-ec36c9",
+  "titre": "Casablanca, de l'Art déco au brutalisme : une ville-musée pour les fous d'architecture",
+  "chapo": "Moins courue que Marrakech ou Rabat, la capitale économique du Maroc offre un rare condensé d'architecture du XXe siècle, mêlé au savoir-faire des artisans du pays.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Entre 1910 et 1960, Casablanca a servi de terrain d'essai aux grands courants architecturaux, selon l'association Casamémoire, créée en 1995 pour protéger ce patrimoine. Les urbanistes Henri Prost et Michel Écochard ont dessiné la ville ; Marius Boyer, Pierre Jabin ou Albert Laprade y ont signé immeubles, cinéma et parc.",
+        "D'une rue à l'autre, le brutalisme y côtoie le modernisme, le néo-mauresque, l'Art déco et le style paquebot. Ces styles ont puisé dans le bâti local, ses volumes cubiques et ses toits-terrasses, mais aussi dans les arts décoratifs du pays : plâtre sculpté, zellige et fer forgé."
+      ]
+    },
+    {
+      "intertitre": "Le savoir-faire des maâlems",
+      "paragraphes": [
+        "Le talent des maîtres-artisans se voit encore dans la mosquée Hassan II, achevée en 1993, ou à l'hôtel Royal Mansour. Ouvert au printemps 2024 à la place de l'ancien palace El Mansour, il revisite l'Art déco avec un langage d'aujourd'hui.",
+        "Après l'indépendance de 1956, une génération d'architectes a pris le relais, avec Jean-François Zevaco, Élie Azagury, Abdeslem Faraoui ou Patrice de Mazières. Leurs bâtiments modernistes et brutalistes restent peu connus, souligne le collectif MAMMA, qui documente leur œuvre."
+      ]
+    },
+    {
+      "intertitre": "Des lieux à découvrir",
+      "paragraphes": [
+        "Desservi par le tramway, le boulevard Mohammed-V aligne façades Art déco et cafés à arcades. Construit en 1917, l'hôtel Lincoln, sauvé de la démolition, est en cours de rénovation par l'agence Oualalou + Choi. Le nouveau musée consacré à la photographie et aux arts visuels, aménagé par Tadao Andō dans un ancien fondouk, a ouvert fin juin.",
+        "Chaque année, Casamémoire forme plusieurs centaines de guides bénévoles pour faire visiter ces bâtiments pendant les Journées du patrimoine. Dans le quartier des Habous, nouvelle médina bâtie durant les années 1920, les décors traditionnels côtoient des pâtisseries historiques. La ville prépare aussi la Coupe du monde 2030 : les travaux de la future Avenue Royale ont entraîné la démolition de quartiers entiers, au grand émoi des habitants."
+      ]
+    }
+  ],
+  "mots": 333,
+  "lecture_min": 2,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Ideat",
+  "source_url": "https://ideat.fr/casablanca-un-musee-a-ciel-ouvert-pour-les-amoureux-darchitecture/",
+  "publie_le": "2026-11-20T06:00:14.000Z",
+  "redige_le": "2026-11-20T11:21:49.708Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/ec36c93e22efbd8f830814d626d457b6843dd670.webp",
+    "source": "wikimedia",
+    "credit": "Reda benkhadra",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Boulevard_Mohammed_V,_Casablanca.jpg",
+    "alt": "Un immeuble Art déco du centre de Casablanca",
+    "mots_cles": [
+      "Boulevard Mohammed V Casablanca"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

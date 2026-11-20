@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "dc42b2fb1c0a76d7d591cb04a0440aee000add43",
+  "slug": "insee-le-climat-des-affaires-recule-95-en-novembre-tous-les-secteurs-dc42b2",
+  "titre": "Insee : le climat des affaires recule à 95 en novembre, tous les secteurs en baisse",
+  "chapo": "L'indicateur de l'Insee qui résume le moral des chefs d'entreprise perd deux points en novembre, à 95, sous sa moyenne de long terme fixée à 100.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'enquête de conjoncture publiée vendredi 20 novembre montre un repli général. La baisse touche tous les secteurs : un point de moins pour le commerce de gros, l'industrie et le bâtiment, deux pour le commerce de détail et les services. Les réponses ont été recueillies du 27 octobre au 17 novembre.",
+        "L'indicateur est calculé à partir de vingt-huit soldes d'opinion tirés des enquêtes sectorielles. Sous 100, les dirigeants se montrent plus pessimistes qu'en moyenne sur longue période."
+      ]
+    },
+    {
+      "intertitre": "Commerce et bâtiment à la peine",
+      "paragraphes": [
+        "Le commerce de détail et l'automobile tombent à 90, plombés par des ventes passées décevantes, des perspectives moroses et des intentions de commandes en baisse. Hors automobile, le commerce de détail se dégrade, tandis que la réparation et le commerce automobile se redressent un peu.",
+        "Le bâtiment descend à 94 : les entrepreneurs jugent plus sévèrement leur activité récente et à venir, ainsi que leurs carnets de commandes. Le commerce de gros, à 92, recule pour la troisième fois d'affilée et reste sous sa moyenne depuis janvier 2023."
+      ]
+    },
+    {
+      "intertitre": "L'industrie résiste, l'emploi se reprend un peu",
+      "paragraphes": [
+        "Dans les services, l'indicateur passe à 97, avec un net recul chez les hôteliers et les restaurateurs. L'industrie, à 104, cède un point mais reste au-dessus de la normale, malgré des commandes étrangères en baisse. L'agroalimentaire et l'automobile y sont les plus touchés.",
+        "Seule note positive, l'indicateur consacré à l'emploi progresse d'un point, à 95, porté par les embauches prévues dans les services hors intérim. Il reste toutefois sous sa moyenne. L'Insee précise que les chiffres d'octobre ont été légèrement révisés pour l'emploi et le commerce de détail, après l'intégration de réponses tardives. La prochaine publication de l'Insee est attendue le 17 décembre."
+      ]
+    }
+  ],
+  "mots": 307,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Insee",
+  "source_url": "https://www.insee.fr/fr/statistiques/9151162",
+  "autres_sources": [
+    "https://www.insee.fr/fr/statistiques/9147338",
+    "https://www.insee.fr/fr/statistiques/9148265",
+    "https://www.insee.fr/fr/statistiques/9148180",
+    "https://www.insee.fr/fr/statistiques/9147781",
+    "https://www.insee.fr/fr/statistiques/9147327"
+  ],
+  "publie_le": "2026-11-20T07:45:00.000Z",
+  "redige_le": "2026-11-20T11:21:56.868Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/dc42b2fb1c0a76d7d591cb04a0440aee000add43.webp",
+    "source": "wikimedia",
+    "credit": "Boubloub",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:INSEE_White.jpg",
+    "alt": "Le siège de l'Insee",
+    "mots_cles": [
+      "Insee Montrouge"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

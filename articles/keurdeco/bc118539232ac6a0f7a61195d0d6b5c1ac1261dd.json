@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "bc118539232ac6a0f7a61195d0d6b5c1ac1261dd",
+  "slug": "londres-le-design-museum-reunit-16-createurs-noirs-dans-the-nue-black-bc1185",
+  "titre": "Londres : le Design Museum réunit 16 créateurs noirs dans « The Nue Black Aesthetic »",
+  "chapo": "Pour la première fois au Royaume-Uni, une exposition rassemble le travail de seize designers noirs, du mobilier à la mode en passant par l'architecture.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Design Museum de Londres présente plus de 100 pièces sous la direction de la commissaire invitée Charlene Prempeh, épaulée par Tiya Dahyabhai. On y croise des costumes, des maillots de football, des luminaires, un balafon géant et même un trophée de dominos.",
+        "L'idée est née pendant que Charlene Prempeh préparait un livre sur un siècle de design noir. Elle s'est heurtée au manque d'archives et de documents sur le sujet, et n'a trouvé aucune exposition comparable au Royaume-Uni."
+      ]
+    },
+    {
+      "intertitre": "Identité, communauté et systèmes",
+      "paragraphes": [
+        "Après un rappel historique qui part de la couturière américaine Ann Lowe, dans les années 1920, et va jusqu'à la Biennale d'architecture de Venise de 2023 confiée à Lesley Lokko, le parcours suit trois thèmes.",
+        "Côté identité, le Nigérian Tejumola Adenuga signe un banc en C taillé dans une seule feuille de métal, inspiré des principes yoruba. Un bonnet brodé des Kanuri voisine avec une école pour déplacés conçue par l'agence lagosienne de Tosin Oshinowo. L'artiste britannico-nigériane Taiba Akhuetie façonne des meubles en tresses de cheveux synthétiques.",
+        "La partie communauté montre notamment un grand trophée de Mac Collins pour une ligue de dominos de Nottingham, des céramiques de Phoebe Collings-James et une robe en perles imaginée par l'Éthiopienne Feben Vemmen avec des artisans d'Accra."
+      ]
+    },
+    {
+      "intertitre": "Un lustre de Murano pour finir",
+      "paragraphes": [
+        "La dernière section regroupe des créateurs qui bousculent les règles, comme Samuel Ross ou le Nigérian Nifemi Marcus-Bello, auteur de meubles en aluminium. La visite se termine par un vaste lustre en verre de Murano, conçu pour l'occasion par le designer nigérian-américain Ini Archibong.",
+        "La commissaire veut montrer que le design noir ne se résume pas aux couleurs vives et au wax. Elle y voit une réponse au manque de curiosité qu'elle observe depuis le reflux du mouvement Black Lives Matter."
+      ]
+    }
+  ],
+  "mots": 318,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "GB",
+    "NG"
+  ],
+  "source_nom": "Dezeen",
+  "source_url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+  "publie_le": "2026-11-20T11:00:00.000Z",
+  "redige_le": "2026-11-20T11:21:49.708Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/bc118539232ac6a0f7a61195d0d6b5c1ac1261dd.webp",
+    "source": "wikimedia",
+    "credit": "Anthony O'Neil",
+    "licence": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Design_Museum_(2)_(geograph_5246509).jpg",
+    "alt": "Le Design Museum de Londres, dans le quartier de Kensington",
+    "mots_cles": [
+      "Design Museum London"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,145 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-19T18:17:20.269Z",
+  "genere_le": "2026-11-20T11:21:56.868Z",
   "actus": [
+    {
+      "id": "ff67cc533f6bb42cfe6943276283976c15795856",
+      "titre": "Commerces dégradés : jusqu'à 10 000 euros d'aide, le décret publié au Journal officiel",
+      "resume": "Les commerces et restaurants de moins de 50 salariés abîmés lors des troubles d'octobre et novembre peuvent demander une subvention de 1 000 à 10 000 euros. La demande se fait en ligne dans les six semaines. Une commission régionale fixera le montant. Bpifrance propose aussi un prêt à taux zéro.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Sud Ouest",
+      "source_url": "https://www.sudouest.fr/economie/commerces/commerces-degrades-lors-des-manifestations-les-modalites-de-l-aide-de-l-etat-allant-jusqu-a-10-000-euros-ont-ete-publiees-au-journal-officiel-31594375.php",
+      "autres_sources": [
+        "https://www.bfmtv.com/economie/entreprises/jsuqu-a-10-000-euros-pour-chaque-commercant-victime-des-violences-d-octobre-l-etat-precise-les-modalites-de-son-aide-d-urgence_AD-202611200368.html"
+      ],
+      "publie_le": "2026-11-20T11:00:12.000Z",
+      "collecte_le": "2026-11-20T11:21:56.868Z",
+      "langue": "fr",
+      "slug": "commerces-degrades-jusqu-10-000-euros-aide-le-decret-publie-au-journal-ff67cc",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/ff67cc533f6bb42cfe6943276283976c15795856.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/ff67cc533f6bb42cfe6943276283976c15795856.webp",
+        "source": "wikimedia",
+        "credit": "Guy Boulianne",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Journal_officiel_de_la_R%C3%A9publique_fran%C3%A7aise._Lois_et_d%C3%A9crets._Journaux_officiels_(Paris)_1907-10-07.jpg",
+        "alt": "Le Journal officiel de la République française",
+        "mots_cles": [
+          "Journal officiel de la République française"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "c2d5bb8f0d68fe642f3982075d988f84018d1c45",
+      "titre": "Avances et acomptes sur salaire : les demandes des salariés explosent dans les entreprises",
+      "resume": "Avec l'inflation, un nombre croissant de salariés demandent une partie de leur paie avant la fin du mois. L'acompte, sur un salaire déjà gagné, est un droit dès le 15 du mois. L'avance, sur un travail à venir, est un prêt sans intérêts que l'employeur peut refuser.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Provence",
+      "source_url": "https://www.laprovence.com/article/economie/66133003119832/acomptes-sur-salaire-du-jamais-vu-pourquoi-les-demandes-explosent-en-france-pour-boucler-les-fins-de-mois",
+      "autres_sources": [
+        "https://www.laprovence.com/article/economie/39661137977536/acomptes-sur-salaire-en-provence-avec-la-crise-demandez-vous-plus-souvent-une-avance-sur-votre-paie",
+        "https://www.ladepeche.fr/2026/11/20/comment-demander-une-avance-sur-salaire-a-son-employeur-et-quelles-sont-les-regles-on-vous-explique-13657123.php"
+      ],
+      "publie_le": "2026-11-20T10:15:18.000Z",
+      "collecte_le": "2026-11-20T11:21:56.868Z",
+      "langue": "fr",
+      "slug": "avances-et-acomptes-sur-salaire-les-demandes-des-salaries-explosent-c2d5bb",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/c2d5bb8f0d68fe642f3982075d988f84018d1c45.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/c2d5bb8f0d68fe642f3982075d988f84018d1c45.webp",
+        "source": "openverse",
+        "credit": "Pontificalibus",
+        "licence": "CC0 1.0",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=119196525",
+        "alt": "Des documents comptables sur un bureau",
+        "mots_cles": [
+          "payslip"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "dc42b2fb1c0a76d7d591cb04a0440aee000add43",
+      "titre": "Insee : le climat des affaires recule à 95 en novembre, tous les secteurs en baisse",
+      "resume": "L'indicateur du climat des affaires de l'Insee perd deux points en novembre, à 95, sous sa moyenne de 100. Il recule dans tous les secteurs : commerce de détail (90), bâtiment (94), commerce de gros (92), services (97). L'industrie tient à 104 et l'indicateur de l'emploi progresse d'un point.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Insee",
+      "source_url": "https://www.insee.fr/fr/statistiques/9151162",
+      "autres_sources": [
+        "https://www.insee.fr/fr/statistiques/9147338",
+        "https://www.insee.fr/fr/statistiques/9148265",
+        "https://www.insee.fr/fr/statistiques/9148180",
+        "https://www.insee.fr/fr/statistiques/9147781",
+        "https://www.insee.fr/fr/statistiques/9147327"
+      ],
+      "publie_le": "2026-11-20T07:45:00.000Z",
+      "collecte_le": "2026-11-20T11:21:56.868Z",
+      "langue": "fr",
+      "slug": "insee-le-climat-des-affaires-recule-95-en-novembre-tous-les-secteurs-dc42b2",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/dc42b2fb1c0a76d7d591cb04a0440aee000add43.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/dc42b2fb1c0a76d7d591cb04a0440aee000add43.webp",
+        "source": "wikimedia",
+        "credit": "Boubloub",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:INSEE_White.jpg",
+        "alt": "Le siège de l'Insee",
+        "mots_cles": [
+          "Insee Montrouge"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "89e917e8b265086e95750fee71d1ae6179977621",
+      "titre": "Budget 2027 : le nouvel apport-cession inquiète les patrons qui veulent transmettre",
+      "resume": "Le budget 2027 arrive au Sénat après son rejet par l'Assemblée. La réforme du report d'impôt lié à l'apport-cession, qui toucherait les donations de titres de holding, inquiète des dirigeants : selon eux, transmettre leur entreprise devient trop coûteux.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "Franceinfo",
+      "source_url": "https://www.franceinfo.fr/economie/entreprises/tout-est-arrete-le-cout-de-la-transmission-devient-totalement-prohibitif-des-entrepreneurs-denoncent-la-reforme-de-l-apport-cession_8290397.html",
+      "autres_sources": [
+        "https://www.legifiscal.fr/actualites-fiscales/4695-plf-2027-apport-cession-apport-ei-deputes-change-dirigeants.html"
+      ],
+      "publie_le": "2026-11-20T05:04:14.000Z",
+      "collecte_le": "2026-11-20T11:21:56.868Z",
+      "langue": "fr",
+      "slug": "budget-2027-le-nouvel-apport-cession-inquiete-les-patrons-qui-veulent-89e917",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/89e917e8b265086e95750fee71d1ae6179977621.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/89e917e8b265086e95750fee71d1ae6179977621.webp",
+        "source": "wikimedia",
+        "credit": "DXR",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_South_View_140116_1.jpg",
+        "alt": "Le palais du Luxembourg, siège du Sénat à Paris",
+        "mots_cles": [
+          "Palais du Luxembourg"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "56769ba2e9304e03c9b0be4101bcf84a21b88363",
       "titre": "Grands magasins : le Printemps supprime 222 postes et mise sur l'accueil d'ici 2030",
@@ -1803,138 +1940,6 @@
         "alt": "Le bâtiment du tribunal de commerce de Paris.",
         "mots_cles": [
           "Tribunal de commerce de Paris"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "a414dc82dd8bc344eae84efdacabe55bcd0c7ae2",
-      "titre": "Toulouse : ouverture dominicale autorisée le 1er novembre pour les commerces du centre",
-      "resume": "Après plusieurs samedis de manifestations marqués par des débordements, la mairie de Toulouse permet aux commerces d'ouvrir le dimanche 1er novembre. Selon la CCI de Haute-Garonne, les ventes ont reculé d'environ 30 % puis 40 % les deux premiers samedis, et des commerçants réclament d'autres dimanches.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "La Dépêche",
-      "source_url": "https://www.ladepeche.fr/2026/10/30/manifestation-du-31-octobre-a-toulouse-la-mairie-autorise-louverture-des-commerces-ce-dimanche-pour-compenser-les-pertes-13628096.php",
-      "autres_sources": [
-        "https://www.ladepeche.fr/2026/10/30/manifestations-du-31-octobre-a-toulouse-il-faut-obtenir-lautorisation-douvrir-les-dimanches-de-novembre-plaide-cette-commercante-qui-a-accuse-plus-de-13627827.php"
-      ],
-      "publie_le": "2026-10-30T15:01:43.000Z",
-      "collecte_le": "2026-10-30T18:21:06.799Z",
-      "langue": "fr",
-      "slug": "toulouse-ouverture-dominicale-autorisee-le-1er-novembre-pour-les-a414dc",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a414dc82dd8bc344eae84efdacabe55bcd0c7ae2.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/a414dc82dd8bc344eae84efdacabe55bcd0c7ae2.webp",
-        "source": "wikimedia",
-        "credit": "Didier Descouens",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Rue_de_Metz_(Toulouse).jpg",
-        "alt": "Une rue commerçante du centre-ville de Toulouse",
-        "mots_cles": [
-          "Rue de Metz (Toulouse)"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "580a37ad3f94b8851798e4ccf39d18e11a8ec62d",
-      "titre": "PIB en recul de 0,1 % : l'économie française frôle la récession, l'investissement freine",
-      "resume": "Le PIB français a perdu 0,1 % au troisième trimestre, ce qui suit un recul en début d'année et une stagnation au printemps. L'investissement continue de diminuer et les exportations chutent, tandis que la consommation des ménages tient encore.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "La Dépêche",
-      "source_url": "https://www.ladepeche.fr/2026/10/30/leconomie-francaise-est-a-larret-trois-trimestres-sans-croissance-des-entreprises-qui-freinent-leurs-depenses-et-des-exportations-en-chute-la-france-13627927.php",
-      "publie_le": "2026-10-30T13:18:19.000Z",
-      "collecte_le": "2026-10-30T18:21:06.799Z",
-      "langue": "fr",
-      "slug": "pib-en-recul-de-0-1-economie-francaise-frole-la-recession-580a37",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/580a37ad3f94b8851798e4ccf39d18e11a8ec62d.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/580a37ad3f94b8851798e4ccf39d18e11a8ec62d.webp",
-        "source": "wikimedia",
-        "credit": "Fred Romero from Paris, France",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Paris_-_Minist%C3%A8re_de_l%27%C3%89conomie_et_des_Finances_(27734592992).jpg",
-        "alt": "Le bâtiment du ministère de l'Économie et des Finances, à Bercy, à Paris",
-        "mots_cles": [
-          "Ministère de l'Économie et des Finances (France)"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "2c25cad51fc59e9d3659341f71f651bf05507854",
-      "titre": "BHV : Paris et Lyon se disputent le dossier, les dettes sociales en question",
-      "resume": "Trois jours après la demande de redressement déposée à Lyon par le BHV, le tribunal des activités économiques de Paris s'est penché vendredi sur le grand magasin. Les deux juridictions doivent désigner celle qui est compétente. Un signalement au parquet évoque des cotisations sociales non réglées.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "tags": [
-        "situation:dettes-urssaf"
-      ],
-      "source_nom": "BFM Business",
-      "source_url": "https://www.bfmtv.com/economie/entreprises/le-magasin-parisien-est-en-redressement-judiciaire-le-tribunal-des-affaires-economiques-de-paris-se-penche-sur-la-situation-du-bhv_AD-202610300117.html",
-      "autres_sources": [
-        "https://www.ladepeche.fr/2026/10/30/decryptage-le-bhv-en-redressement-judiciaire-un-an-apres-larrivee-de-shein-faire-du-discount-et-du-luxe-en-meme-temps-ca-nexiste-pas-13624387.php"
-      ],
-      "publie_le": "2026-10-30T05:29:59.000Z",
-      "collecte_le": "2026-10-30T11:24:28.512Z",
-      "langue": "fr",
-      "slug": "bhv-paris-et-lyon-se-disputent-le-dossier-les-dettes-sociales-en-2c25ca",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/2c25cad51fc59e9d3659341f71f651bf05507854.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/2c25cad51fc59e9d3659341f71f651bf05507854.webp",
-        "source": "wikimedia",
-        "credit": "Guilhem Vellut from Paris, France",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:BHV_Le_Marais,_Paris_3_September_2016.jpg",
-        "alt": "La façade du BHV Marais, grand magasin de la rue de Rivoli à Paris.",
-        "mots_cles": [
-          "BHV Marais"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "a66ef7a8cfde374e1124b6446f51073b909d7734",
-      "titre": "Marseille : un guichet commun pour aider les commerçants pillés le 17 octobre",
-      "resume": "État, collectivités et CCI ont présenté jeudi au palais de la Bourse un point d'accueil pour les commerces marseillais pillés lors des violences d'octobre. Les commerçants y obtiennent de l'aide pour être indemnisés et pour leurs dossiers avec leur banque, leur assureur et le fisc.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "La Provence",
-      "source_url": "https://www.laprovence.com/article/economie/48158491726688/video-pillages-des-commerces-du-17-octobre-lunion-sacree-pour-relever-le-centre-ville-de-marseille",
-      "autres_sources": [
-        "https://www.economiematin.fr/?p=235947"
-      ],
-      "publie_le": "2026-10-29T19:33:25.000Z",
-      "collecte_le": "2026-10-30T11:24:28.512Z",
-      "langue": "fr",
-      "slug": "marseille-un-guichet-commun-pour-aider-les-commercants-pilles-le-17-a66ef7",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a66ef7a8cfde374e1124b6446f51073b909d7734.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/a66ef7a8cfde374e1124b6446f51073b909d7734.webp",
-        "source": "wikimedia",
-        "credit": "Robert Valette",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Palais_de_la_bourse_%C3%A0_Marseille.JPG",
-        "alt": "Le palais de la Bourse, sur la Canebière à Marseille, siège de la chambre de commerce.",
-        "mots_cles": [
-          "Palais de la Bourse (Marseille)"
         ],
         "largeur": 1600,
         "hauteur": 900

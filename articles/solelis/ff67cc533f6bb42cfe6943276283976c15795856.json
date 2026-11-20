@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "ff67cc533f6bb42cfe6943276283976c15795856",
+  "slug": "commerces-degrades-jusqu-10-000-euros-aide-le-decret-publie-au-journal-ff67cc",
+  "titre": "Commerces dégradés : jusqu'à 10 000 euros d'aide, le décret publié au Journal officiel",
+  "chapo": "Les petits commerces et restaurants abîmés lors des troubles qui ont suivi les manifestations d'octobre et novembre peuvent désormais demander une subvention de 1 000 à 10 000 euros.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le décret est paru vendredi 20 novembre au Journal officiel. Il vise les structures employant moins de 50 personnes, entrepreneurs individuels compris, qui ont subi des dégâts lors des violences urbaines survenues en marge des cortèges depuis le 17 octobre 2026. Le texte parle d'une subvention destinée aux petites entreprises les plus touchées. Les restaurants sont explicitement concernés, au même titre que les boutiques. L'objectif affiché est de soulager leur trésorerie.",
+        "La demande se fait en ligne, sur la plateforme « Démarche numérique ». Le délai est court : six semaines au plus après la signature du décret. Les dirigeants concernés ont donc intérêt à rassembler sans tarder les preuves des dommages subis."
+      ]
+    },
+    {
+      "intertitre": "Une commission dans chaque région",
+      "paragraphes": [
+        "Les dossiers seront examinés région par région. Une commission décidera de la somme versée à chaque entreprise, dans la fourchette prévue. Serge Papin, chargé du Commerce au gouvernement, avait annoncé cette aide fin octobre. Dans les villes les plus touchées, des collectivités ont aussi ouvert leurs propres fonds d'urgence.",
+        "Bpifrance propose de son côté un prêt à taux zéro pouvant atteindre 50 000 euros. Il doit notamment permettre aux commerçants de reconstituer des marchandises déjà achetées pour les fêtes de fin d'année."
+      ]
+    },
+    {
+      "intertitre": "Des dégâts chiffrés en centaines de millions",
+      "paragraphes": [
+        "Selon France Assureurs, les seuls dommages du week-end des 17 et 18 octobre pourraient atteindre 207 millions d'euros, dont 95 % sur des biens professionnels. Le 17 octobre, CCI France avait compté 2 488 boutiques endommagées.",
+        "Près des cortèges, le chiffre d'affaires des magasins chute de 60 à 80 % par rapport à un samedi ordinaire, d'après les dernières estimations. Pour beaucoup de commerçants, la période de Noël s'annonce donc décisive."
+      ]
+    }
+  ],
+  "mots": 307,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/commerces/commerces-degrades-lors-des-manifestations-les-modalites-de-l-aide-de-l-etat-allant-jusqu-a-10-000-euros-ont-ete-publiees-au-journal-officiel-31594375.php",
+  "autres_sources": [
+    "https://www.bfmtv.com/economie/entreprises/jsuqu-a-10-000-euros-pour-chaque-commercant-victime-des-violences-d-octobre-l-etat-precise-les-modalites-de-son-aide-d-urgence_AD-202611200368.html"
+  ],
+  "publie_le": "2026-11-20T11:00:12.000Z",
+  "redige_le": "2026-11-20T11:21:56.868Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/ff67cc533f6bb42cfe6943276283976c15795856.webp",
+    "source": "wikimedia",
+    "credit": "Guy Boulianne",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Journal_officiel_de_la_R%C3%A9publique_fran%C3%A7aise._Lois_et_d%C3%A9crets._Journaux_officiels_(Paris)_1907-10-07.jpg",
+    "alt": "Le Journal officiel de la République française",
+    "mots_cles": [
+      "Journal officiel de la République française"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

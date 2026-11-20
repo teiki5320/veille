@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-20T04:23:00.861Z",
+  "genere_le": "2026-11-20T11:21:48.360Z",
   "articles": [
+    {
+      "id": "0b84e2632415ece7d51143fffe39fb06fd3f280b",
+      "slug": "nairobi-le-cardinal-turkson-invite-eglise-afrique-depasser-ses-0b84e2",
+      "titre": "Nairobi : le cardinal Turkson invite l'Église d'Afrique à dépasser ses divisions",
+      "publie_le": "2026-11-19T20:55:00.000Z",
+      "redige_le": "2026-11-20T11:21:46.334Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/0b84e2632415ece7d51143fffe39fb06fd3f280b.json"
+    },
     {
       "id": "691d1f4f2fcd243aa229f7c24ad74d7d842db760",
       "slug": "afrique-du-sud-le-nonce-publie-un-livre-sur-le-bienheureux-benedict-691d1f",

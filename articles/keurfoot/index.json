@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-19T18:17:16.849Z",
+  "genere_le": "2026-11-20T11:21:56.833Z",
   "articles": [
+    {
+      "id": "c19bc2a25e8c198551daf89993bbb1b775cd4c4b",
+      "slug": "rd-congo-christian-luyindama-prime-par-la-fifpro-pour-sa-clinique-de-c19bc2",
+      "titre": "RD Congo : Christian Luyindama primé par la FIFPRO pour sa clinique de Kinshasa",
+      "publie_le": "2026-11-20T10:53:54.000Z",
+      "redige_le": "2026-11-20T11:21:53.255Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/c19bc2a25e8c198551daf89993bbb1b775cd4c4b.json"
+    },
+    {
+      "id": "23c193d514012d594a4dc95f7c41b0e3e3bcc788",
+      "slug": "football-algerien-youcef-gamouh-arbitre-fifa-passe-par-la-can-meurt-39-23c193",
+      "titre": "Football algérien : Youcef Gamouh, arbitre FIFA passé par la CAN, meurt à 39 ans",
+      "publie_le": "2026-11-20T10:41:09.000Z",
+      "redige_le": "2026-11-20T11:21:53.255Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/23c193d514012d594a4dc95f7c41b0e3e3bcc788.json"
+    },
+    {
+      "id": "7a5890bd94e74311fee3e940748714345c3565a3",
+      "slug": "fifa-candidat-la-presidence-philippe-diallo-part-chercher-des-voix-7a5890",
+      "titre": "FIFA : candidat à la présidence, Philippe Diallo part chercher des voix africaines à Abuja",
+      "publie_le": "2026-11-20T09:56:00.000Z",
+      "redige_le": "2026-11-20T11:21:53.255Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7a5890bd94e74311fee3e940748714345c3565a3.json"
+    },
     {
       "id": "87af115affda6b34a2dca5f976835f59050b2c30",
       "slug": "can-2027-la-caf-presente-pamoja-un-logo-inspire-du-bouclier-est-87af11",
