@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "686b2a293ef32bf70a8dac63a79f98dca85a7489",
+  "slug": "ariege-au-pays-olmes-commerces-en-liquidation-et-en-redressement-mais-686b2a",
+  "titre": "Ariège : au Pays d'Olmes, commerces en liquidation et en redressement mais 177 créations",
+  "chapo": "Dans le Pays d'Olmes, en Ariège, le commerce local vit une année contrastée : des enseignes en procédure collective, des artisans à la peine, mais aussi des créations d'entreprises nombreuses.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le paysage commercial de l'est de l'Ariège a beaucoup bougé en 2026, rapporte La Dépêche. À Laroque-d'Olmes, un établissement local a été placé en liquidation judiciaire, l'un des faits marquants de l'année.",
+        "Le magasin Bricomarché fait lui aussi l'objet d'une procédure. Un redressement judiciaire a été ouvert en février et un repreneur est recherché. Le magasin reste ouvert pendant ce temps."
+      ]
+    },
+    {
+      "intertitre": "Redressement ne veut pas dire fermeture",
+      "paragraphes": [
+        "Ce cas illustre un point souvent mal compris. Le redressement judiciaire vise justement à sauver l'entreprise : l'activité continue, les dettes antérieures sont gelées et un plan de continuation ou une reprise par un tiers est recherché sous le contrôle du tribunal.",
+        "La liquidation, elle, intervient quand le redressement est manifestement impossible. Elle met fin à l'activité et organise la vente des biens pour payer les créanciers."
+      ]
+    },
+    {
+      "intertitre": "Des artisans fragilisés",
+      "paragraphes": [
+        "Les plus grosses structures ne sont pas seules en difficulté. Plusieurs petits artisans du secteur ont eu du mal à tenir. Fidéliser des clients, payer les charges et se verser un revenu correct reste pour eux un exercice délicat.",
+        "Le contexte local pèse. Selon l'Insee, le chômage des 15-64 ans atteignait 16 % à Laroque-d'Olmes en 2023, et le taux de pauvreté 25 %."
+      ]
+    },
+    {
+      "intertitre": "Une dynamique de création malgré tout",
+      "paragraphes": [
+        "Le territoire ne fait pas que perdre des commerces. De nouvelles boutiques ont ouvert en 2026, et 177 entreprises ont été créées dans le Pays d'Olmes en 2025. Plus de 83 % l'ont été sous forme d'entreprise individuelle, un statut simple mais qui expose davantage le patrimoine du créateur en cas de difficulté, même si la loi protège désormais mieux ses biens personnels."
+      ]
+    }
+  ],
+  "mots": 300,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/21/de-nouvelles-enseignes-arrivent-dautres-ferment-ou-sont-en-redressement-le-paysage-commercial-se-transforme-dans-lest-ariegeois-13663375.php",
+  "publie_le": "2026-11-21T09:04:02.000Z",
+  "redige_le": "2026-11-21T11:20:08.388Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/686b2a293ef32bf70a8dac63a79f98dca85a7489.webp",
+    "source": "wikimedia",
+    "credit": "Pierre Bona",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Laroque_d%27Olmes_village.jpg",
+    "alt": "La commune de Laroque-d'Olmes, en Ariège",
+    "mots_cles": [
+      "Laroque-d'Olmes"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "ec837db29b3d7d40980ae48ace070dbf15d19955",
+  "slug": "gironde-la-crise-du-vin-fait-tomber-les-fournisseurs-et-sous-traitants-ec837d",
+  "titre": "Gironde : la crise du vin fait tomber les fournisseurs et sous-traitants du vignoble",
+  "chapo": "Après les domaines et les coopératives, la crise viticole bordelaise atteint les entreprises qui vivent du vignoble. Liquidations et redressements se multiplient chez les prestataires et les sous-traitants.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La fermeture annoncée de la verrerie de Vayres, en Gironde, menace 170 emplois directs. Les discussions sur le PSE, qui encadre les suppressions de postes, ont débuté ce vendredi 20 novembre. Ce dossier rappelle que la crise du vin dépasse largement les propriétés.",
+        "Les exemples s'accumulent. Une société de prestations viticoles de 40 salariés, présente sur les deux rives du vignoble, a été placée en liquidation judiciaire en août. Une petite tonnellerie est en redressement depuis le printemps. Lundi 16 novembre, à Libourne, la juridiction commerciale a aussi prononcé la liquidation d'une PME qui fabriquait des robots de tonte autonomes pour les vignes, après une procédure de sauvegarde ouverte l'an dernier."
+      ]
+    },
+    {
+      "intertitre": "Une deuxième vague de défaillances",
+      "paragraphes": [
+        "Patrick Seguin, à la tête de la CCI Bordeaux-Gironde, constate une nette hausse des défaillances devant les juridictions de Libourne en particulier, mais aussi de Bordeaux. La chambre consulaire rassemble des informations pour repérer les entreprises les plus fragiles.",
+        "Selon lui, ce second choc grandit depuis deux ans et devient très visible cette année. Il risque de s'aggraver dans les prochains mois, car la récolte 2026 a été très faible. De nombreux châteaux sous-traitaient la plupart de leurs tâches agricoles : ceux-ci vont perdre une partie de leur activité."
+      ]
+    },
+    {
+      "intertitre": "Un salon professionnel qui rétrécit",
+      "paragraphes": [
+        "Le salon Vinitech-Sifel, rendez-vous de la filière à Bordeaux, en donne la mesure. Il comptait 750 exposants il y a deux ans ; il en attend environ 500 pour sa 25e édition, début décembre. Son directeur explique que certaines entreprises ont fermé et que d'autres ont quitté le secteur du vin."
+      ]
+    },
+    {
+      "intertitre": "Agir avant la cessation des paiements",
+      "paragraphes": [
+        "Pour un dirigeant qui dépend d'un seul secteur en crise, les signaux d'alerte sont connus : clients qui paient en retard, carnet de commandes qui se vide, trésorerie tendue. Les procédures de prévention, comme le mandat ad hoc ou la conciliation, permettent de négocier avec ses créanciers avant que la situation ne devienne irréversible. Le tribunal de commerce et la CCI peuvent orienter les chefs d'entreprise inquiets."
+      ]
+    }
+  ],
+  "mots": 362,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "tags": [
+    "situation:dettes-fournisseurs"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/gironde/bordeaux/dans-le-bordelais-la-crise-viticole-frappe-a-tous-les-etages-31594419.php",
+  "autres_sources": [
+    "https://www.sudouest.fr/gironde/vayres/crise-viticole-en-gironde-a-vayres-la-fermeture-de-l-usine-est-enclenchee-31596284.php"
+  ],
+  "publie_le": "2026-11-21T07:30:00.000Z",
+  "redige_le": "2026-11-21T11:20:08.388Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/ec837db29b3d7d40980ae48ace070dbf15d19955.webp",
+    "source": "wikimedia",
+    "credit": "Matthieu Pélissier",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Vignoble_Blaye_C%C3%B4tes-de-Bordeaux_en_Gironde.JPG",
+    "alt": "Des rangs de vignes dans le vignoble bordelais",
+    "mots_cles": [
+      "Vignoble de Bordeaux"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

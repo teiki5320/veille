@@ -1,8 +1,145 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-20T18:18:10.043Z",
+  "genere_le": "2026-11-21T11:20:03.886Z",
   "actus": [
+    {
+      "id": "fee3d4d071210c3f9ff46a84fadcebeac0d17885",
+      "titre": "CAN 2025 : Édouard Mendy raconte comment il a fait douter Brahim Díaz avant sa panenka",
+      "resume": "Sur Canal+ Afrique, le gardien sénégalais est revenu sur le penalty manqué du Marocain Brahim Díaz lors du dernier match de la CAN 2025. Il dit s'être avancé pour paraître plus grand et avoir provoqué l'attaquant par quelques mots. Retraité de la sélection depuis septembre, il exclut aussi tout retour chez les Lions.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "MA"
+      ],
+      "competition": "CAN",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/can-2025-edouard-mendy-devoile-comment-il-a-destabilise-brahim-diaz-avant-sa-panenka-ratee_2026393.html",
+      "autres_sources": [
+        "https://www.footmercato.net/a7762462760473501787-les-degats-gigantesques-du-scandale-manchester-city-comment-mendy-a-piege-brahim-diaz-en-finale-de-la-can",
+        "https://wiwsport.com/2026/11/21/on-ne-peut-pas-rattraper-le-temps-edouard-mendy-ferme-definitivement-la-porte-a-un-retour-en-equipe-nationale/"
+      ],
+      "publie_le": "2026-11-21T10:06:32.000Z",
+      "collecte_le": "2026-11-21T11:20:03.886Z",
+      "langue": "fr",
+      "slug": "can-2025-edouard-mendy-raconte-comment-il-fait-douter-brahim-diaz-fee3d4",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/fee3d4d071210c3f9ff46a84fadcebeac0d17885.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/fee3d4d071210c3f9ff46a84fadcebeac0d17885.webp",
+        "source": "wikimedia",
+        "credit": "Анна Мейер",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Mendy_2021.jpg",
+        "alt": "Le gardien de but sénégalais Édouard Mendy",
+        "mots_cles": [
+          "Édouard Mendy"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "c496c3e3b73873bbff280f94e0cb047a69f85118",
+      "titre": "Ballon d'Or africain 2026 : pour Ismaïla Sarr, un sacre du Sénégal compte plus que le sien",
+      "resume": "L'ailier sénégalais de Crystal Palace, l'un des dix finalistes pour le Ballon d'Or africain 2026, dit tenir surtout à ce que la récompense revienne au Sénégal. Il cite ses compatriotes Sadio Mané et Pape Gueye, également en lice face au tenant du titre, Achraf Hakimi. Les CAF Awards auront lieu le 2 décembre à Lagos.",
+      "theme": "foot",
+      "pays": [
+        "SN"
+      ],
+      "competition": "Ballon d'Or africain",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/ce-qui-compte-le-plus-cest-que-le-ballon-dor-africain-revienne-au-senegal-ismaila-sarr-veut-faire-barrage-a-hakimi",
+      "autres_sources": [
+        "https://senego.com/ballon-dor-africain-ismaila-sarr-prefere-un-trophee-pour-le-senegal-a-un-sacre-personnel_2026392.html"
+      ],
+      "publie_le": "2026-11-21T09:55:00.000Z",
+      "collecte_le": "2026-11-21T11:20:03.886Z",
+      "langue": "fr",
+      "slug": "ballon-or-africain-2026-pour-ismaila-sarr-un-sacre-du-senegal-compte-c496c3",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/c496c3e3b73873bbff280f94e0cb047a69f85118.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/c496c3e3b73873bbff280f94e0cb047a69f85118.webp",
+        "source": "wikimedia",
+        "credit": "SENEGO TV HD",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ismaila_Sarr_2022.jpg",
+        "alt": "L'ailier sénégalais Ismaïla Sarr",
+        "mots_cles": [
+          "Ismaïla Sarr"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7d94eac5449c6f65b253c4a7cca3356f6e56589b",
+      "titre": "Ligue 1 : le Malien Lassine Sinayoko désigné meilleur joueur du mois d'octobre",
+      "resume": "L'attaquant du Paris FC remporte le trophée UNFP d'octobre avec 42 % des voix. L'international malien de 26 ans devance l'Ivoirien Elye Wahi, de Nice (36 %), et Florian Thauvin, de Lens (22 %). Déjà nommé en septembre, il succède à Ferran Torres au palmarès mensuel.",
+      "theme": "foot",
+      "pays": [
+        "ML"
+      ],
+      "competition": "Ligue 1",
+      "source_nom": "L'Équipe",
+      "source_url": "https://www.lequipe.fr/Football/Actualites/Lassine-sinayoko-elu-joueur-du-mois-d-octobre-en-ligue-1/1745017",
+      "autres_sources": [
+        "https://www.footmercato.net/a406582919996608579-ligue-1-lassine-sinayoko-elu-joueur-du-mois-doctobre",
+        "https://africasoccer.com/?p=652290"
+      ],
+      "publie_le": "2026-11-20T22:08:31.000Z",
+      "collecte_le": "2026-11-21T11:20:03.886Z",
+      "langue": "fr",
+      "slug": "ligue-1-le-malien-lassine-sinayoko-designe-meilleur-joueur-du-mois-7d94ea",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7d94eac5449c6f65b253c4a7cca3356f6e56589b.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7d94eac5449c6f65b253c4a7cca3356f6e56589b.webp",
+        "source": "wikimedia",
+        "credit": "SonoGrazy",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lassine_Sinayoko_(cropped).jpg",
+        "alt": "L'attaquant malien Lassine Sinayoko",
+        "mots_cles": [
+          "Lassine Sinayoko"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "f2288da4b6ca145476dfc2a94af5919226a2e739",
+      "titre": "Mondial U17 : le Maroc étrille les Fidji 6-0, la Côte d'Ivoire gagne sur le fil",
+      "resume": "Au Qatar, le Maroc a lancé sa Coupe du monde U17 par un large succès 6-0 contre les Fidji, avec un doublé de Ziyad Baha. La Côte d'Ivoire a battu l'Ouzbékistan 2-1 grâce à un but à la 88e minute. Les deux équipes peuvent se qualifier pour les seizièmes dès leur deuxième match.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "CI"
+      ],
+      "competition": "Coupe du monde U17",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u17-le-maroc-soffre-un-carton-la-cote-divoire-arrache-la-victoire-le-senegal-partage-le-nul",
+      "publie_le": "2026-11-20T18:21:19.000Z",
+      "collecte_le": "2026-11-21T11:20:03.886Z",
+      "langue": "fr",
+      "slug": "mondial-u17-le-maroc-etrille-les-fidji-6-0-la-cote-ivoire-gagne-sur-le-f2288d",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f2288da4b6ca145476dfc2a94af5919226a2e739.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/f2288da4b6ca145476dfc2a94af5919226a2e739.webp",
+        "source": "wikimedia",
+        "credit": "Ksvprasad88",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Proposed_Aster_Hospital_in_Doha.jpg",
+        "alt": "Le complexe sportif d'Aspire Zone, à Doha",
+        "mots_cles": [
+          "Aspire Zone Doha"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "6294cd28855de7501e41d12c71a1b294a501dcd8",
       "titre": "Mondial U17 : réduit à dix, le Sénégal arrache le nul 1-1 contre la Croatie",
@@ -1927,162 +2064,6 @@
         "alt": "L'attaquant algérien Amine Gouiri",
         "mots_cles": [
           "Amine Gouiri"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "1569a133a048c6da1c99f96a82fcfc0114fb33dd",
-      "titre": "Sénégal : sans Mané ni Gana Guèye, Vieira appelle Clayton Diandy pour la première fois",
-      "resume": "Patrick Vieira a dévoilé jeudi son groupe pour les deux matchs face au Soudan, les 12 et 16 novembre, en éliminatoires de la CAN 2027. Sadio Mané, appelé, reste auprès des siens pour un heureux événement ; Pathé Ciss et Idrissa Gana Guèye, eux, ne sont pas retenus.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/patrick-vieira-explique-la-raison-familiale-pour-mane-et-ne-convoque-pas-gana-gueye-ni-pathe-ciss_2020890.html",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/06/equipe-nationale-clayton-diandy-cest-une-grande-fierte-pour-moi-et-ma-famille/",
-        "https://prod.beinsports.com/en-us/soccer/articles/patrick-vieira-named-senegal-head-coach-after-2026-world-cup-disappointment-2026-08-19"
-      ],
-      "publie_le": "2026-11-05T21:10:05.000Z",
-      "collecte_le": "2026-11-06T11:20:32.353Z",
-      "langue": "fr",
-      "slug": "senegal-sans-mane-ni-gana-gueye-vieira-appelle-clayton-diandy-pour-la-1569a1",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/1569a133a048c6da1c99f96a82fcfc0114fb33dd.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/1569a133a048c6da1c99f96a82fcfc0114fb33dd.webp",
-        "source": "wikimedia",
-        "credit": "Steindy ( talk ) 01:25, 29 November 2009 (UTC)",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_-_Inter_Mailand_(3).jpg",
-        "alt": "Patrick Vieira, sélectionneur du Sénégal",
-        "mots_cles": [
-          "Patrick Vieira"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "41f717fd71426f081e91936449134cb8e233274d",
-      "titre": "Algérie : Hemdani appelle 26 joueurs contre le Togo, sans Luca Zidane ni Aït-Nouri",
-      "resume": "Brahim Hemdani a fait connaître jeudi les 26 Fennecs retenus pour affronter deux fois le Togo dans la course à la CAN 2027, le 14 puis le 17 novembre. Le gardien Luca Zidane, peu utilisé à Leganés, et Rayan Aït-Nouri restent à l'écart. Abde Rebbach et Mohamed Azzi sont appelés pour la première fois.",
-      "theme": "foot",
-      "pays": [
-        "DZ",
-        "TG"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a5770335124020134689-algerie-brahim-hemdani-devoile-sa-liste-avec-une-absence-remarquee",
-      "autres_sources": [
-        "https://www.afrik-foot.com/algerie-la-liste-dhemdani-avec-2-nouveautes-sans-zidane-ni-ait-nouri",
-        "https://www.footmercato.net/a3344982617073406339-algerie-ca-se-gate-pour-luca-zidane",
-        "https://africatopsports.com/football/elim-can-2027-la-liste-de-lalgerie-pour-affronter-le-togo/",
-        "https://www.lequipe.fr/Football/Actualites/Luca-zidane-et-ilan-kebbal-absents-de-la-liste-de-l-algerie-pour-affronter-le-togo-en-qualifications-pour-la-can-2027/1741374"
-      ],
-      "publie_le": "2026-11-05T14:22:18.000Z",
-      "collecte_le": "2026-11-05T18:19:44.342Z",
-      "langue": "fr",
-      "slug": "algerie-hemdani-appelle-26-joueurs-contre-le-togo-sans-luca-zidane-ni-41f717",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/41f717fd71426f081e91936449134cb8e233274d.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/41f717fd71426f081e91936449134cb8e233274d.webp",
-        "source": "wikimedia",
-        "credit": "Magharebia",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Algeria_NT_training_2013_AFCON.jpg",
-        "alt": "Des joueurs de l'équipe d'Algérie de football",
-        "mots_cles": [
-          "Algeria national football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "69dbd8d48e691f4f991aea0dda9ed8ffbac411ec",
-      "titre": "Sénégal : Vieira convoque 25 Lions contre le Soudan, Mané et Gana Gueye pas du voyage",
-      "resume": "Patrick Vieira a retenu 25 joueurs pour la double rencontre face au Soudan (12 et 16 novembre), en qualifications pour la CAN 2027. Sadio Mané a préféré rester auprès des siens, Idrissa Gana Gueye n'a pas été choisi. Pathé Mboup, Clayton Diandy ainsi que Paul Mendy découvrent l'équipe A.",
-      "theme": "foot",
-      "pays": [
-        "SN",
-        "SD"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/senegal-la-liste-de-vieira-sans-mane-ni-gana-gueye-avec-3-grosses-surprises",
-      "autres_sources": [
-        "https://africatopsports.com/afrique-football/senegal/elim-can-2027-toujours-sans-sadio-mane-ni-idrissa-gana-gueye-la-liste-du-senegal/",
-        "https://senego.com/lions-du-senegal-vieira-brise-le-silence-sur-les-absences-de-mane-et-didrissa_2020706.html",
-        "https://senego.com/liste-des-lions-sadio-mane-et-gana-gueye-absents-premieres-pour-pathe-mboup-clayton-diandy-et-paul-mendy_2020696.html",
-        "https://wiwsport.com/2026/11/05/equipe-nationale-patrick-vieira-devoile-une-liste-sans-idrissa-gana-gueye-sadio-mane-mais-avec-pape-demba-diop-clayton-diandy-paul-mendy-et-dion-lopy/",
-        "https://wiwsport.com/2026/11/05/patrick-vieira-sur-labsence-de-sadio-mane-et-gana-jai-des-choix-a-faire-mais-ca-ne-remet-pas-en-question-la-selection-didrissa-pour-le-futur-sadio-a-s/",
-        "https://wiwsport.com/2026/11/05/patrick-vieira-sur-la-double-confrontation-contre-le-soudan-ca-va-etre-deux-matchs-compliques-mais-lobjectif-est-que-lequipe-sameliore-defensivement-et-au-niveau/",
-        "https://senego.com/sadio-mane-reste-a-la-maison-pour-un-heureux-evenement-selon-patrick-vieira_2020708.html",
-        "https://senego.com/eliminatoires-can-2027-senegal-suivez-en-direct-la-publication-de-la-liste-de-patrick-vieira_2020688.html",
-        "https://wiwsport.com/2026/11/05/equipe-nationale-suivez-en-direct-sur-wiwsport-com-la-publication-de-la-liste-de-patrick-vieira/",
-        "https://senego.com/senegal-tidiam-gomis-pourrait-connaitre-sa-premiere-convocation-jeudi_2020682.html",
-        "https://www.afrik-foot.com/senegal-apres-manchester-city-la-liste-de-vieira-pour-tidiam-gomis",
-        "https://senego.com/dion-lopy-pourrait-retrouver-les-lions-contre-le-soudan-selon-senenews_2020649.html",
-        "https://wiwsport.com/2026/11/04/equipe-nationale-dion-lopy-tidiam-gomis-ces-deux-joueurs-qui-devraient-figurer-dans-la-liste-de-patrick-vieira/"
-      ],
-      "publie_le": "2026-11-05T10:42:59.000Z",
-      "collecte_le": "2026-11-05T11:20:08.345Z",
-      "langue": "fr",
-      "slug": "senegal-vieira-convoque-25-lions-contre-le-soudan-mane-et-gana-gueye-69dbd8",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/69dbd8d48e691f4f991aea0dda9ed8ffbac411ec.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/69dbd8d48e691f4f991aea0dda9ed8ffbac411ec.webp",
-        "source": "wikimedia",
-        "credit": "julien haler",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira.jpg",
-        "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal de football",
-        "mots_cles": [
-          "Patrick Vieira"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "2a7faaacf0f1caeefcf90c9318422a590c95d327",
-      "titre": "Mondial U17 féminin : le Nigeria bat le Brésil et jouera sa première finale face au Japon",
-      "resume": "Les Flamingos du Nigeria ont dominé le Brésil 3-1 mercredi à Rabat et disputeront samedi 7 novembre la finale de la Coupe du monde U17 féminine contre le Japon. Une première pour le pays. Patrice Motsepe, président de la CAF, a salué l'exploit et assistera au match.",
-      "theme": "foot",
-      "pays": [
-        "NG",
-        "MA"
-      ],
-      "competition": "Coupe du monde U17 féminine",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/football-feminin/coupe-du-monde-u17-f-le-dr-patrice-motsepe-felicite-les-flamingos-du-nigeria-pour-leur-qualification-historique-en-finale/",
-      "autres_sources": [
-        "https://panafricafootball.com/article/flamingos-to-final-u17-wwc",
-        "https://leadership.ng/beyond-brazil-lies-history-flamingos-chase-first-world-cup-final/"
-      ],
-      "publie_le": "2026-11-05T09:57:05.000Z",
-      "collecte_le": "2026-11-05T11:20:08.345Z",
-      "langue": "fr",
-      "slug": "mondial-u17-feminin-le-nigeria-bat-le-bresil-et-jouera-sa-premiere-2a7faa",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2a7faaacf0f1caeefcf90c9318422a590c95d327.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/2a7faaacf0f1caeefcf90c9318422a590c95d327.webp",
-        "source": "wikimedia",
-        "credit": "Copyright by World Economic Forum swiss-image.ch/Photo by Monika Flueckiger",
-        "licence": "CC BY-SA 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Patrice_Motsepe.jpg",
-        "alt": "L'équipe féminine des moins de 17 ans du Nigeria",
-        "mots_cles": [
-          "Patrice Motsepe"
         ],
         "largeur": 1600,
         "hauteur": 900

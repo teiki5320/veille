@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "b5657291a99e73086c28b4f6d52171af387c3084",
+  "slug": "le-cap-36-restaurants-du-waterfront-signalent-les-poissons-sud-b56572",
+  "titre": "Le Cap : 36 restaurants du V&A Waterfront signalent les poissons sud-africains durables",
+  "chapo": "Au Cap, les clients du V&A Waterfront pourront repérer d'un coup d'œil les plats de poissons et de fruits de mer locaux et durables, grâce à un nouveau signe sur les cartes : Cape Catch.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Trente-six restaurants et points de restauration d'hôtels du V&A Waterfront, le grand quartier portuaire du Cap, en Afrique du Sud, rejoignent l'initiative Cape Catch. Elle démarre ce samedi 21 novembre, date de la Journée mondiale de la pêche.",
+        "Le principe est simple : une marque apposée sur les menus distingue les plats préparés avec des produits de la mer issus des eaux sud-africaines ou d'élevages locaux, et conformes à des critères reconnus de durabilité. Elle concerne des plats précis, pas l'établissement dans son ensemble."
+      ]
+    },
+    {
+      "intertitre": "Chinchard, moules et ormeaux",
+      "paragraphes": [
+        "Pour figurer sur la liste, une espèce doit être classée en vert par le programme WWF-SASSI, ou certifiée par le MSC pour la pêche ou l'ASC pour l'élevage. La première sélection compte quinze poissons et coquillages, plus des algues.",
+        "On y trouve par exemple le chinchard du Cap, appelé maasbanker sur place, ainsi que des moules, des huîtres et des ormeaux d'élevage local. Chaque restaurant participant doit proposer au moins quatre plats éligibles ; s'il sert moins de quatre plats de la mer, la moitié au moins doit répondre aux critères."
+      ]
+    },
+    {
+      "intertitre": "Quatre ans d'enquête",
+      "paragraphes": [
+        "Le projet s'appuie sur quatre années de recherche menées par SOLVE, la plateforme d'innovation du Waterfront, et la fondation de l'aquarium Two Oceans. Leur constat : une bonne part des produits servis dans le quartier étaient importés ou peu durables, alors que des équivalents locaux existaient.",
+        "Une enquête auprès de plus de 1 000 visiteurs montre que 93 % tiendraient compte de la durabilité si les plats concernés étaient clairement signalés, et que 63 % seraient prêts à changer leurs habitudes."
+      ]
+    },
+    {
+      "intertitre": "Une place pour les pêcheurs traditionnels",
+      "paragraphes": [
+        "Cape Catch veut aussi ouvrir les cuisines du Waterfront aux petits pêcheurs et aux communautés de pêche traditionnelle du Cap, en les reliant à ces débouchés. Leur représentant, Hahn Goliath, y voit une façon de faire connaître leur métier et le patrimoine qui l'accompagne. Le Waterfront promet de rendre compte publiquement des résultats et des difficultés rencontrées."
+      ]
+    }
+  ],
+  "mots": 361,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "ZA"
+  ],
+  "source_nom": "Cape Town Etc",
+  "source_url": "https://www.capetownetc.com/food-and-drink/va-waterfront-launches-cape-catch-for-sustainable-seafood/",
+  "publie_le": "2026-11-20T20:00:49.000Z",
+  "redige_le": "2026-11-21T11:20:02.419Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/b5657291a99e73086c28b4f6d52171af387c3084.webp",
+    "source": "wikimedia",
+    "credit": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Waterfront,_Kran_--_2024_--_2907.jpg",
+    "alt": "Le V&A Waterfront, quartier portuaire du Cap",
+    "mots_cles": [
+      "V&A Waterfront"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

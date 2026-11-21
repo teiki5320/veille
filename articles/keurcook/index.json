@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurcook",
-  "genere_le": "2026-11-20T18:18:10.017Z",
+  "genere_le": "2026-11-21T11:20:03.847Z",
   "articles": [
+    {
+      "id": "b5657291a99e73086c28b4f6d52171af387c3084",
+      "slug": "le-cap-36-restaurants-du-waterfront-signalent-les-poissons-sud-b56572",
+      "titre": "Le Cap : 36 restaurants du V&A Waterfront signalent les poissons sud-africains durables",
+      "publie_le": "2026-11-20T20:00:49.000Z",
+      "redige_le": "2026-11-21T11:20:02.419Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurcook/b5657291a99e73086c28b4f6d52171af387c3084.json"
+    },
     {
       "id": "2817653bd7d9f9764518630048d9863ea469271d",
       "slug": "gabon-le-chef-kwame-asie-recueille-les-recettes-des-pecheuses-de-281765",

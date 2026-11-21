@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-20T18:18:07.981Z",
+  "genere_le": "2026-11-21T11:20:02.419Z",
   "actus": [
+    {
+      "id": "b5657291a99e73086c28b4f6d52171af387c3084",
+      "titre": "Le Cap : 36 restaurants du V&A Waterfront signalent les poissons sud-africains durables",
+      "resume": "Au Cap, 36 restaurants et points de restauration du V&A Waterfront adoptent Cape Catch, un repère sur les menus pour les produits de la mer pêchés ou élevés en Afrique du Sud selon des règles durables. Lancée le 21 novembre, Journée mondiale de la pêche, l'initiative retient 15 espèces de poissons et coquillages, ainsi que des algues.",
+      "theme": "cuisine",
+      "pays": [
+        "ZA"
+      ],
+      "source_nom": "Cape Town Etc",
+      "source_url": "https://www.capetownetc.com/food-and-drink/va-waterfront-launches-cape-catch-for-sustainable-seafood/",
+      "publie_le": "2026-11-20T20:00:49.000Z",
+      "collecte_le": "2026-11-21T11:20:02.419Z",
+      "langue": "en",
+      "slug": "le-cap-36-restaurants-du-waterfront-signalent-les-poissons-sud-b56572",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/b5657291a99e73086c28b4f6d52171af387c3084.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/b5657291a99e73086c28b4f6d52171af387c3084.webp",
+        "source": "wikimedia",
+        "credit": "Dietmar Rabich",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Waterfront,_Kran_--_2024_--_2907.jpg",
+        "alt": "Le V&A Waterfront, quartier portuaire du Cap",
+        "mots_cles": [
+          "V&A Waterfront"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "2817653bd7d9f9764518630048d9863ea469271d",
       "titre": "Gabon : le chef Kwame Asie recueille les recettes des pêcheuses de couteaux de mer",

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "f2288da4b6ca145476dfc2a94af5919226a2e739",
+  "slug": "mondial-u17-le-maroc-etrille-les-fidji-6-0-la-cote-ivoire-gagne-sur-le-f2288d",
+  "titre": "Mondial U17 : le Maroc étrille les Fidji 6-0, la Côte d'Ivoire gagne sur le fil",
+  "chapo": "Entrée réussie au Mondial des moins de 17 ans, au Qatar, pour le Maroc et la Côte d'Ivoire : les Lionceaux de l'Atlas ont surclassé les Fidji, les Éléphanteaux ont arraché la victoire en fin de match.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Vendredi, à Doha, le Maroc a battu les Fidji 6-0 pour son premier match du groupe H. Le score était déjà lancé après cinq minutes : Ismail El Aoud, joueur de Valence, puis Ibrahim Rabbaj, formé à Chelsea, ont marqué coup sur coup.",
+        "Rabbaj a ensuite servi Imran Talai, de l'Ajax, juste avant la pause. Après le retour des vestiaires, Ziyad Baha, de l'OM, a signé un doublé, dont un penalty. Rami Lougmani, entré en jeu, a fixé le score à la 85e minute."
+      ]
+    },
+    {
+      "intertitre": "Le Maroc en tête de son groupe",
+      "paragraphes": [
+        "Grâce à cette large victoire, l'équipe d'Ahmed El Kantari occupe la première place du groupe, devant l'Espagne à la différence de buts. Les Espagnols ont dominé la Chine 5-0 dans l'autre rencontre.",
+        "Les jeunes Marocains retrouveront justement la Chine lundi. Un deuxième succès leur assurerait une place en seizièmes de finale, avant même la dernière journée."
+      ]
+    },
+    {
+      "intertitre": "Les Éléphanteaux attendent la fin",
+      "paragraphes": [
+        "La Côte d'Ivoire a dû patienter davantage face à l'Ouzbékistan. Hubert Yao avait ouvert le score dès la 7e minute, mais les Ouzbeks sont revenus à 1-1 peu après la reprise.",
+        "Luc Abass Diarrassouba, joueur de Villarreal, a offert la victoire 2-1 à la 88e minute. Les Ivoiriens partagent la tête du groupe E avec l'Italie, troisième de la dernière édition, qu'ils affronteront lors du prochain match."
+      ]
+    },
+    {
+      "intertitre": "Le Sénégal doit réagir",
+      "paragraphes": [
+        "Troisième équipe francophone en lice ce jour-là, le Sénégal a été tenu en échec 1-1 par la Croatie. Les Lionceaux joueront Cuba lors de la deuxième journée, avec l'obligation de gagner pour rester bien placés dans la course aux seizièmes. Le tournoi, ouvert à 48 sélections, se joue entièrement au Qatar."
+      ]
+    }
+  ],
+  "mots": 311,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "CI"
+  ],
+  "competition": "Coupe du monde U17",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-u17-le-maroc-soffre-un-carton-la-cote-divoire-arrache-la-victoire-le-senegal-partage-le-nul",
+  "publie_le": "2026-11-20T18:21:19.000Z",
+  "redige_le": "2026-11-21T11:20:03.886Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/f2288da4b6ca145476dfc2a94af5919226a2e739.webp",
+    "source": "wikimedia",
+    "credit": "Ksvprasad88",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Proposed_Aster_Hospital_in_Doha.jpg",
+    "alt": "Le complexe sportif d'Aspire Zone, à Doha",
+    "mots_cles": [
+      "Aspire Zone Doha"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

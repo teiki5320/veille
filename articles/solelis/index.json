@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-20T18:18:18.320Z",
+  "genere_le": "2026-11-21T11:20:12.649Z",
   "articles": [
+    {
+      "id": "686b2a293ef32bf70a8dac63a79f98dca85a7489",
+      "slug": "ariege-au-pays-olmes-commerces-en-liquidation-et-en-redressement-mais-686b2a",
+      "titre": "Ariège : au Pays d'Olmes, commerces en liquidation et en redressement mais 177 créations",
+      "publie_le": "2026-11-21T09:04:02.000Z",
+      "redige_le": "2026-11-21T11:20:08.388Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/686b2a293ef32bf70a8dac63a79f98dca85a7489.json"
+    },
+    {
+      "id": "ec837db29b3d7d40980ae48ace070dbf15d19955",
+      "slug": "gironde-la-crise-du-vin-fait-tomber-les-fournisseurs-et-sous-traitants-ec837d",
+      "titre": "Gironde : la crise du vin fait tomber les fournisseurs et sous-traitants du vignoble",
+      "publie_le": "2026-11-21T07:30:00.000Z",
+      "redige_le": "2026-11-21T11:20:08.388Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/ec837db29b3d7d40980ae48ace070dbf15d19955.json"
+    },
     {
       "id": "ff67cc533f6bb42cfe6943276283976c15795856",
       "slug": "commerces-degrades-jusqu-10-000-euros-aide-le-decret-publie-au-journal-ff67cc",

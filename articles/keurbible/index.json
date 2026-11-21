@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-20T18:18:06.359Z",
+  "genere_le": "2026-11-21T11:20:02.403Z",
   "articles": [
+    {
+      "id": "690b7c499779f4a3f404230f7a5602b1ffe2a527",
+      "slug": "nairobi-un-theologien-nigerian-voit-en-sainte-bakhita-une-cle-690b7c",
+      "titre": "Nairobi : un théologien nigérian voit en sainte Bakhita une clé africaine de l'espérance",
+      "publie_le": "2026-11-20T20:55:00.000Z",
+      "redige_le": "2026-11-21T11:20:00.102Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/690b7c499779f4a3f404230f7a5602b1ffe2a527.json"
+    },
     {
       "id": "0b84e2632415ece7d51143fffe39fb06fd3f280b",
       "slug": "nairobi-le-cardinal-turkson-invite-eglise-afrique-depasser-ses-0b84e2",

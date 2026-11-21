@@ -1,8 +1,40 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-20T18:18:06.333Z",
+  "genere_le": "2026-11-21T11:20:00.102Z",
   "actus": [
+    {
+      "id": "690b7c499779f4a3f404230f7a5602b1ffe2a527",
+      "titre": "Nairobi : un théologien nigérian voit en sainte Bakhita une clé africaine de l'espérance",
+      "resume": "Lors d'un colloque panafricain à l'université Tangaza de Nairobi, le père Idahosa Amadasu a présenté sainte Joséphine Bakhita comme une clé africaine pour penser l'espérance. Née au Soudan, réduite en esclavage puis devenue religieuse, elle incarne selon lui la dignité retrouvée et le pardon. La rencontre se termine ce samedi 21 novembre.",
+      "theme": "culture",
+      "pays": [
+        "KE",
+        "SD",
+        "NG"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25487/st-josephine-bakhita-lauded-as-africas-key-to-the-great-hope-at-pan-african-conference",
+      "publie_le": "2026-11-20T20:55:00.000Z",
+      "collecte_le": "2026-11-21T11:20:00.102Z",
+      "langue": "en",
+      "slug": "nairobi-un-theologien-nigerian-voit-en-sainte-bakhita-une-cle-690b7c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/690b7c499779f4a3f404230f7a5602b1ffe2a527.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/690b7c499779f4a3f404230f7a5602b1ffe2a527.webp",
+        "source": "wikimedia",
+        "credit": "Beloved female saints",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Leanne_Bowen,_Saint_Josephine_Bakhita.webp",
+        "alt": "Portrait de sainte Joséphine Bakhita",
+        "mots_cles": [
+          "Josephine Bakhita"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "0b84e2632415ece7d51143fffe39fb06fd3f280b",
       "titre": "Nairobi : le cardinal Turkson invite l'Église d'Afrique à dépasser ses divisions",

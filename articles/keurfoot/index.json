@@ -1,8 +1,40 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-20T18:18:11.477Z",
+  "genere_le": "2026-11-21T11:20:08.354Z",
   "articles": [
+    {
+      "id": "fee3d4d071210c3f9ff46a84fadcebeac0d17885",
+      "slug": "can-2025-edouard-mendy-raconte-comment-il-fait-douter-brahim-diaz-fee3d4",
+      "titre": "CAN 2025 : Édouard Mendy raconte comment il a fait douter Brahim Díaz avant sa panenka",
+      "publie_le": "2026-11-21T10:06:32.000Z",
+      "redige_le": "2026-11-21T11:20:03.886Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/fee3d4d071210c3f9ff46a84fadcebeac0d17885.json"
+    },
+    {
+      "id": "c496c3e3b73873bbff280f94e0cb047a69f85118",
+      "slug": "ballon-or-africain-2026-pour-ismaila-sarr-un-sacre-du-senegal-compte-c496c3",
+      "titre": "Ballon d'Or africain 2026 : pour Ismaïla Sarr, un sacre du Sénégal compte plus que le sien",
+      "publie_le": "2026-11-21T09:55:00.000Z",
+      "redige_le": "2026-11-21T11:20:03.886Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/c496c3e3b73873bbff280f94e0cb047a69f85118.json"
+    },
+    {
+      "id": "7d94eac5449c6f65b253c4a7cca3356f6e56589b",
+      "slug": "ligue-1-le-malien-lassine-sinayoko-designe-meilleur-joueur-du-mois-7d94ea",
+      "titre": "Ligue 1 : le Malien Lassine Sinayoko désigné meilleur joueur du mois d'octobre",
+      "publie_le": "2026-11-20T22:08:31.000Z",
+      "redige_le": "2026-11-21T11:20:03.886Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7d94eac5449c6f65b253c4a7cca3356f6e56589b.json"
+    },
+    {
+      "id": "f2288da4b6ca145476dfc2a94af5919226a2e739",
+      "slug": "mondial-u17-le-maroc-etrille-les-fidji-6-0-la-cote-ivoire-gagne-sur-le-f2288d",
+      "titre": "Mondial U17 : le Maroc étrille les Fidji 6-0, la Côte d'Ivoire gagne sur le fil",
+      "publie_le": "2026-11-20T18:21:19.000Z",
+      "redige_le": "2026-11-21T11:20:03.886Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/f2288da4b6ca145476dfc2a94af5919226a2e739.json"
+    },
     {
       "id": "6294cd28855de7501e41d12c71a1b294a501dcd8",
       "slug": "mondial-u17-reduit-dix-le-senegal-arrache-le-nul-1-1-contre-la-croatie-6294cd",
