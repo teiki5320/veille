@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "ae840b34a6843db867bca1ba516988de28c3ca15",
+  "slug": "dakar-la-6e-african-art-book-fair-recoit-le-canada-et-le-quebec-au-mcn-ae840b",
+  "titre": "Dakar : la 6e African Art Book Fair reçoit le Canada et le Québec au MCN",
+  "chapo": "Pendant la Biennale de Dakar, le Musée des civilisations noires accueille jusqu'au 22 novembre la sixième African Art Book Fair, consacrée au livre d'art et à l'édition indépendante. Le Canada et le Québec en sont les invités d'honneur.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le vernissage a eu lieu le vendredi 20 novembre 2026, au lendemain de l'ouverture. Organisée par l'équipe d'Africada, la foire réunit pendant quatre jours des artistes, des éditeurs, des chercheurs et des professionnels du livre venus d'Afrique, de la diaspora et d'Amérique du Nord.",
+        "Le salon accompagne la Biennale de Dakar, qui fête sa seizième session autour de la création africaine d'aujourd'hui. C'est le grand rendez-vous artistique de la capitale sénégalaise."
+      ]
+    },
+    {
+      "intertitre": "Le livre d'art comme mémoire",
+      "paragraphes": [
+        "Pour Abdou Sinbanding Diatta, directeur général du musée, un ouvrage d'art conserve le souvenir des œuvres et leur permet de circuler. Il voit dans cet accueil un prolongement naturel de la mission de l'institution : conserver et transmettre les imaginaires du monde noir. Il espère aussi rapprocher les Sénégalais du livre, en le rendant plus familier.",
+        "Le directeur a rappelé que l'édition tombe soixante-dix ans après le congrès de 1956 qui avait réuni à Paris, pour la première fois, écrivains et artistes noirs.",
+        "Des étudiants de l'ENAMC, l'école nationale sénégalaise qui forme aux métiers de la culture, participent comme volontaires : ils accueillent le public, guident les visiteurs et épaulent les éditeurs. Les deux institutions veulent faire durer ce partenariat."
+      ]
+    },
+    {
+      "intertitre": "Une première délégation canadienne",
+      "paragraphes": [
+        "Grâce à l'ambassade du Canada et à la délégation générale du Québec, des éditeurs canadiens sont présents pour la première fois. Leur venue est coordonnée par ARC Montréal, dirigé par Louis Rastelli. L'ambassadrice Sharon Armstrong a insisté sur le poids économique du livre, qui fait vivre auteurs, graphistes, imprimeurs et libraires.",
+        "Côté canadien, le CCA (Centre canadien d'architecture) expose un livre dirigé par l'architecte sénégalaise Nzinga Mboup, sur les modernités sénégalaises pensées à l'école dakaroise d'architecture et d'urbanisme. Une installation dévoile en outre des livres d'artistes qu'un centre canadien spécialisé collectionne depuis plus de vingt ans."
+      ]
+    },
+    {
+      "intertitre": "La Francophonie en partage",
+      "paragraphes": [
+        "Omar Diallo, qui représente le Québec au Sénégal, a cité Mongo Beti sur le pouvoir de la lecture. Il a souligné un enjeu commun aux deux rives : rendre les œuvres faciles à trouver à l'heure du numérique, pour qu'elles touchent de nouveaux lecteurs."
+      ]
+    }
+  ],
+  "mots": 382,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN",
+    "CA"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/6e-edition-de-lafrican-art-book-fair-le-livre-dart-au-coeur-du-dialogue-entre-lafrique-le",
+  "publie_le": "2026-11-21T12:37:49.000Z",
+  "redige_le": "2026-11-21T18:15:45.031Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/ae840b34a6843db867bca1ba516988de28c3ca15.webp",
+    "source": "wikimedia",
+    "credit": "PMO Barbados",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_civilisations_noires_2022.jpg",
+    "alt": "Le Musée des civilisations noires de Dakar, au Sénégal",
+    "mots_cles": [
+      "Musée des Civilisations noires"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

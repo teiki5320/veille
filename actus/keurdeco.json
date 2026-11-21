@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-21T11:20:03.855Z",
+  "genere_le": "2026-11-21T18:15:46.507Z",
   "actus": [
+    {
+      "id": "c5e3bf5afdabdda9c4771ef15a43542757ad7c12",
+      "titre": "Rabat : ZHA achève le Théâtre royal, son tout premier bâtiment en Afrique",
+      "resume": "Le studio britannique ZHA, ex-Zaha Hadid Architects, a terminé le Théâtre royal de Rabat, sur la rive du Bouregreg. Le bâtiment abrite trois salles, dont un auditorium de 1 821 places aux parois facettées inspirées des muqarnas de l'architecture islamique. C'est la première réalisation du studio sur le continent.",
+      "theme": "deco",
+      "pays": [
+        "MA"
+      ],
+      "source_nom": "Dezeen",
+      "source_url": "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco/",
+      "publie_le": "2026-11-21T11:00:00.000Z",
+      "collecte_le": "2026-11-21T18:15:46.507Z",
+      "langue": "en",
+      "slug": "rabat-zha-acheve-le-theatre-royal-son-tout-premier-batiment-en-afrique-c5e3bf",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/c5e3bf5afdabdda9c4771ef15a43542757ad7c12.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/c5e3bf5afdabdda9c4771ef15a43542757ad7c12.webp",
+        "source": "wikimedia",
+        "credit": "XDurang",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg",
+        "alt": "Le Théâtre royal de Rabat, au Maroc, conçu par le studio ZHA",
+        "mots_cles": [
+          "Grand Théâtre de Rabat"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "bc118539232ac6a0f7a61195d0d6b5c1ac1261dd",
       "titre": "Londres : le Design Museum réunit 16 créateurs noirs dans « The Nue Black Aesthetic »",

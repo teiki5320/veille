@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "c5e3bf5afdabdda9c4771ef15a43542757ad7c12",
+  "slug": "rabat-zha-acheve-le-theatre-royal-son-tout-premier-batiment-en-afrique-c5e3bf",
+  "titre": "Rabat : ZHA achève le Théâtre royal, son tout premier bâtiment en Afrique",
+  "chapo": "Seize ans après la présentation du projet, le Théâtre royal de Rabat est achevé. Signé par le studio britannique ZHA, il marie des courbes fluides et un décor intérieur qui revisite un motif ancien de l'architecture islamique.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le bâtiment se dresse au bord du Bouregreg, le fleuve qui sépare Rabat et Salé, non loin de la tour Mohammed VI, la plus haute du Maroc. Il est destiné aux musiciens, comédiens et danseurs.",
+        "Pour ZHA, qui s'appelait jusqu'ici Zaha Hadid Architects, c'est la toute première construction livrée en Afrique. Le projet avait été dévoilé en 2010, du vivant de sa fondatrice, l'architecte irako-britannique disparue en 2016."
+      ]
+    },
+    {
+      "intertitre": "Trois salles sous une même enveloppe",
+      "paragraphes": [
+        "La forme extérieure, tout en ondulations, s'inspire du relief des berges. Elle enveloppe trois lieux de spectacle. Le plus grand, l'Auditorium, compte 1 821 fauteuils.",
+        "Une salle modulable de 250 places, dont les gradins se replient, servira aux créations expérimentales, aux répétitions, mais aussi aux conférences et aux ateliers. Enfin, un amphithéâtre à ciel ouvert peut recevoir 7 000 personnes lors des grands événements. Ces deux derniers espaces n'ont pas encore été montrés en images."
+      ]
+    },
+    {
+      "intertitre": "Les muqarnas réinventées",
+      "paragraphes": [
+        "Dans l'Auditorium, les parois sont couvertes de facettes qui rappellent un cristal taillé. Le studio les a dessinées d'après les muqarnas, ces alvéoles sculptées en relief qui ornent les voûtes des mosquées et des palais du monde islamique, de Grenade à Marrakech.",
+        "Ces surfaces ne sont pas seulement décoratives : mises au point avec les acousticiens du bureau Arup, elles répartissent le son vers chaque siège.",
+        "Le hall, haut de trois niveaux, est pensé comme un canyon. Des escaliers entrelacés y évoquent un tissu drapé et mènent à un restaurant ouvert sur le fleuve."
+      ]
+    },
+    {
+      "intertitre": "Un bâtiment plus sobre",
+      "paragraphes": [
+        "Pour le chauffage et la fraîcheur, le théâtre associe pompes à chaleur, rafraîchissement par le sol, panneaux radiants et ventilation naturelle. L'eau de pluie est récupérée pour les sanitaires et l'arrosage des jardins."
+      ]
+    }
+  ],
+  "mots": 320,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "MA"
+  ],
+  "source_nom": "Dezeen",
+  "source_url": "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco/",
+  "publie_le": "2026-11-21T11:00:00.000Z",
+  "redige_le": "2026-11-21T18:15:46.507Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/c5e3bf5afdabdda9c4771ef15a43542757ad7c12.webp",
+    "source": "wikimedia",
+    "credit": "XDurang",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg",
+    "alt": "Le Théâtre royal de Rabat, au Maroc, conçu par le studio ZHA",
+    "mots_cles": [
+      "Grand Théâtre de Rabat"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

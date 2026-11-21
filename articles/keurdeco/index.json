@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurdeco",
-  "genere_le": "2026-11-21T11:20:03.868Z",
+  "genere_le": "2026-11-21T18:15:47.993Z",
   "articles": [
+    {
+      "id": "c5e3bf5afdabdda9c4771ef15a43542757ad7c12",
+      "slug": "rabat-zha-acheve-le-theatre-royal-son-tout-premier-batiment-en-afrique-c5e3bf",
+      "titre": "Rabat : ZHA achève le Théâtre royal, son tout premier bâtiment en Afrique",
+      "publie_le": "2026-11-21T11:00:00.000Z",
+      "redige_le": "2026-11-21T18:15:46.507Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurdeco/c5e3bf5afdabdda9c4771ef15a43542757ad7c12.json"
+    },
     {
       "id": "bc118539232ac6a0f7a61195d0d6b5c1ac1261dd",
       "slug": "londres-le-design-museum-reunit-16-createurs-noirs-dans-the-nue-black-bc1185",

@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurbook",
-  "genere_le": "2026-11-21T11:20:02.405Z",
+  "genere_le": "2026-11-21T18:15:45.031Z",
   "actus": [
+    {
+      "id": "ae840b34a6843db867bca1ba516988de28c3ca15",
+      "titre": "Dakar : la 6e African Art Book Fair reçoit le Canada et le Québec au MCN",
+      "resume": "La foire du livre d'art africain tient sa sixième édition du 19 au 22 novembre au Musée des civilisations noires de Dakar, pendant la Biennale. Le Canada et le Québec y sont invités d'honneur, avec pour la première fois une délégation d'éditeurs canadiens. Des étudiants de l'ENAMC accueillent les visiteurs.",
+      "theme": "livres",
+      "pays": [
+        "SN",
+        "CA"
+      ],
+      "source_nom": "SenePlus",
+      "source_url": "https://www.seneplus.com/article/6e-edition-de-lafrican-art-book-fair-le-livre-dart-au-coeur-du-dialogue-entre-lafrique-le",
+      "publie_le": "2026-11-21T12:37:49.000Z",
+      "collecte_le": "2026-11-21T18:15:45.031Z",
+      "langue": "fr",
+      "slug": "dakar-la-6e-african-art-book-fair-recoit-le-canada-et-le-quebec-au-mcn-ae840b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbook/ae840b34a6843db867bca1ba516988de28c3ca15.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbook/ae840b34a6843db867bca1ba516988de28c3ca15.webp",
+        "source": "wikimedia",
+        "credit": "PMO Barbados",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_civilisations_noires_2022.jpg",
+        "alt": "Le Musée des civilisations noires de Dakar, au Sénégal",
+        "mots_cles": [
+          "Musée des Civilisations noires"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "4e1502a74236fb9e62428fbea211c885546e6131",
       "titre": "Zeinab Badawi raconte sept millions d'années d'histoire africaine, enfin en français",

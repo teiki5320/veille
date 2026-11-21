@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-21T11:20:12.649Z",
+  "genere_le": "2026-11-21T18:15:49.760Z",
   "articles": [
+    {
+      "id": "c2107aca0cc29b46e9832021440994291edcd30f",
+      "slug": "marmande-une-verrerie-arret-depuis-aout-voit-ses-clients-partir-c2107a",
+      "titre": "Marmande : une verrerie à l'arrêt depuis août voit ses clients partir",
+      "publie_le": "2026-11-21T17:30:00.000Z",
+      "redige_le": "2026-11-21T18:15:48.057Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/c2107aca0cc29b46e9832021440994291edcd30f.json"
+    },
     {
       "id": "686b2a293ef32bf70a8dac63a79f98dca85a7489",
       "slug": "ariege-au-pays-olmes-commerces-en-liquidation-et-en-redressement-mais-686b2a",

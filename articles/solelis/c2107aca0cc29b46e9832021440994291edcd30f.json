@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "c2107aca0cc29b46e9832021440994291edcd30f",
+  "slug": "marmande-une-verrerie-arret-depuis-aout-voit-ses-clients-partir-c2107a",
+  "titre": "Marmande : une verrerie à l'arrêt depuis août voit ses clients partir",
+  "chapo": "Trois mois après un sinistre, une usine de verre de Marmande, dans le Lot-et-Garonne, n'a toujours pas redémarré. Ses 41 salariés restent payés, mais les commandes s'en vont.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le 24 août 2026 au matin, direction et personnel ont trouvé les ateliers noyés après de fortes pluies. Depuis, plus rien ne sort de ce site du chemin de Buzet, spécialisé dans la transformation du verre et rattaché depuis 2009 au groupe Riou Glass.",
+        "Les salariés n'ont pas repris le travail sur place. La charpente et la toiture, qui couvre 5 000 m², sont fissurées et demandent de lourds travaux."
+      ]
+    },
+    {
+      "intertitre": "Le chômage partiel non renouvelé",
+      "paragraphes": [
+        "Selon un délégué syndical CGT, l'activité partielle des 41 employés n'a pas été prolongée par les services de l'État. Conséquence : c'est l'entreprise qui doit verser elle-même les salaires, sans l'aide de l'État.",
+        "Pour un dirigeant, ce dispositif est souvent le premier amortisseur après un dégât des eaux, un incendie ou une tempête. La loi prévoit ce recours en cas de sinistre ou d'intempéries exceptionnelles. Les salariés touchent alors une indemnité, que l'État rembourse en partie à l'employeur. L'autorisation vaut pour une durée limitée et doit être redemandée pour se prolonger. Sans ce soutien, la masse salariale pèse en entier sur la trésorerie, alors que le chiffre d'affaires est à zéro."
+      ]
+    },
+    {
+      "intertitre": "Des clients qui se tournent ailleurs",
+      "paragraphes": [
+        "Le représentant du personnel parle d'une situation catastrophique : faute de livraisons, les clients cherchent d'autres fournisseurs. Il estime que la poursuite de l'activité deviendra difficile si l'usine ne rouvre pas avant la fin de l'année.",
+        "La production était déjà en recul depuis 2024. Elle tourne aujourd'hui autour de 130 000 m² de verre transformé par an."
+      ]
+    },
+    {
+      "intertitre": "Une réunion attendue le 26 novembre",
+      "paragraphes": [
+        "En octobre, la direction a assuré qu'une fermeture n'était pas envisagée, sans donner de date de reprise. Un nouveau rendez-vous entre la direction et les représentants des salariés est prévu le jeudi 26 novembre."
+      ]
+    }
+  ],
+  "mots": 317,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "Sud Ouest",
+  "source_url": "https://www.sudouest.fr/economie/social/le-chomage-partiel-n-a-pas-ete-renouvele-pour-les-salaries-qui-attendent-la-reprise-d-activite-dans-cette-verrerie-a-marmande-31603477.php",
+  "publie_le": "2026-11-21T17:30:00.000Z",
+  "redige_le": "2026-11-21T18:15:48.057Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/c2107aca0cc29b46e9832021440994291edcd30f.webp",
+    "source": "wikimedia",
+    "credit": "Cosmiaou",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:La_Filhole,_Marmande_(47).jpg",
+    "alt": "Une vue de la ville de Marmande, en Lot-et-Garonne",
+    "mots_cles": [
+      "Marmande"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
