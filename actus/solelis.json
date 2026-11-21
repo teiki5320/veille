@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-21T18:15:48.057Z",
+  "genere_le": "2026-11-21T18:16:27.087Z",
   "actus": [
     {
       "id": "c2107aca0cc29b46e9832021440994291edcd30f",
@@ -22,12 +22,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/solelis/c2107aca0cc29b46e9832021440994291edcd30f.webp",
         "source": "wikimedia",
-        "credit": "Cosmiaou",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:La_Filhole,_Marmande_(47).jpg",
-        "alt": "Une vue de la ville de Marmande, en Lot-et-Garonne",
+        "credit": "GabrielleMerk",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hergiswil-Glass-Factory.1.jpg",
+        "alt": "L'intérieur d'une usine de fabrication du verre",
         "mots_cles": [
-          "Marmande"
+          "Glass factory"
         ],
         "largeur": 1600,
         "hauteur": 900
