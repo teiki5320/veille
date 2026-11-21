@@ -101,13 +101,21 @@ Règles de rédaction :
 node scripts/publie.mjs --verifier
 ```
 
-S'il y a des rejets, lis `tmp/rejets-<site>.json` (suites de 6 mots reprises, article trop court ou trop long, source mince sans recherche, doublon probable d'une actu en ligne), **réécris une seule fois** ces actus (un doublon de la même nouvelle : retire-le de la rédaction) dans `tmp/redaction-<site>.json`, puis publie :
+S'il y a des rejets, lis `tmp/rejets-<site>.json` (suites de 6 mots reprises, article trop court ou trop long, source mince sans recherche, doublon probable d'une actu en ligne) et **réécris** ces actus dans `tmp/redaction-<site>.json` (un doublon de la même nouvelle : retire-le de la rédaction), puis relance `node scripts/publie.mjs --verifier`.
+
+**Refus pour copie (suites de 6 mots reprises) : deux réécritures au plus.**
+- 1re réécriture : corrige les suites signalées.
+- Si l'actu est **encore** refusée pour copie après le nouveau contrôle : **2e et dernière réécriture**, avec une consigne plus forte : reformule **tout** le texte (titre, résumé, chapo, chaque paragraphe) avec d'autres mots et une autre construction, change l'ordre des idées, ne garde aucune suite de 4 mots de la source (les noms propres seuls peuvent rester), puis relance `--verifier` une dernière fois.
+- Encore refusée après la 2e réécriture : retire-la de la rédaction (ou laisse-la, le script l'abandonne). **Elle est abandonnée en silence** : une ligne de journal (`actu <id> abandonnée en silence…`), **aucune carte « À faire », aucune alerte** pour Jean, et elle ne compte pas dans « échoué » du bilan final.
+- Les autres rejets (longueur, source mince, doublon) gardent une seule réécriture, comme avant.
+
+Quand c'est bon, publie :
 
 ```sh
 node scripts/publie.mjs
 ```
 
-Les actus encore rejetées sont abandonnées. Le script écrit l'article dans `articles/<site>/<id>.json` (schéma `schema/article-schema-v1.json`), ajoute `slug`, `article_url` et `lecture_min` à l'actu, cherche l'image (Wikimedia → Openverse → banque perso → carte générée), fusionne avec les actus déjà en ligne (60 au plus), valide le schéma v3 (un fichier invalide n'est **pas** publié : l'ancien reste en ligne), puis fait `git add actus articles images cartes etat`, le commit (« Veille du 27/10 à 12 h : 9 actus Keur Foot, 6 actus Keurbook »), `git pull --rebase` et `git push`.
+Les actus encore rejetées sont abandonnées en silence (ligne de journal seulement). Le script écrit l'article dans `articles/<site>/<id>.json` (schéma `schema/article-schema-v1.json`), ajoute `slug`, `article_url` et `lecture_min` à l'actu, cherche l'image (Wikimedia → Openverse → banque perso → carte générée), fusionne avec les actus déjà en ligne (60 au plus), valide le schéma v3 (un fichier invalide n'est **pas** publié : l'ancien reste en ligne), puis fait `git add actus articles images cartes etat`, le commit (« Veille du 27/10 à 12 h : 9 actus Keur Foot, 6 actus Keurbook »), `git pull --rebase` et `git push`.
 
 Codes de sortie : `0` = tout est publié ; `1` = au moins un site n'a pas été publié ; `2` = le push a échoué. Le bilan est dans `tmp/publie-bilan.json`.
 
@@ -139,7 +147,7 @@ Mêmes contrôles que la publication (300 à 480 mots, anti-copie sur tout le te
 
 ## 5. Alerte dans le Studio de Jean (seulement en cas de problème)
 
-Envoie une alerte si :
+Envoie une alerte si (jamais pour une actu abandonnée après refus pour copie : ce n'est pas une panne) :
 - un site n'a pas pu être publié (`publie: false` dans `tmp/publie-bilan.json`), ou le push a échoué ;
 - un flux a **3 échecs de suite** (`a_verifier: true` dans `tmp/collecte-bilan.json`) ;
 - une étape a planté (collecte, `npm ci`, `git pull`).
@@ -175,7 +183,7 @@ Si le Studio ne répond pas (`localhost:4600` éteint), note-le dans le résumé
 
 ## 6. Résumé final (deux lignes)
 
-Exemple : « Veille 12 h : Keur Foot 9 actus (6 photos, 3 cartes), Keurbook 4 actus ; 2 abandonnées (anti-copie) ; flux à vérifier : BDZoom. »
+Exemple : « Veille 12 h : Keur Foot 9 actus (6 photos, 3 cartes), Keurbook 4 actus ; 2 abandonnées en silence (copie, après 2 réécritures) ; flux à vérifier : BDZoom. »
 
 Puis toujours la ligne : « Bilan : fait … ; vérifié … ; échoué … (carte créée : <id de l'alerte>) » (« rien » quand il n'y a rien).
 

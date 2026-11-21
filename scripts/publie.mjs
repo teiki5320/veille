@@ -367,6 +367,16 @@ function nettoyerOrphelins(site, gardes) {
   return n;
 }
 
+// Un rejet « copie » : le texte réécrit reprend encore des mots de la source (anti-copie).
+export function rejetPourCopie(rejet) {
+  return (rejet?.raisons || []).some((r) => /^(titre|résumé|article) : «/.test(r));
+}
+// La ligne de journal d'une actu abandonnée (aucune alerte, aucune carte).
+export function ligneAbandon(rejet) {
+  const raison = String(rejet?.raisons?.[0] || 'rejet').slice(0, 160);
+  return `actu ${rejet?.id} abandonnée en silence${rejetPourCopie(rejet) ? ' (copie encore trop proche après les réécritures)' : ''} : ${raison}`;
+}
+
 async function publierSite(config, { verifierSeul, valider, validerArticle }) {
   const site = config.site;
   const redac = lireJson(path.join(RACINE, 'tmp', `redaction-${site}.json`), null);
@@ -376,14 +386,16 @@ async function publierSite(config, { verifierSeul, valider, validerArticle }) {
   const publiees = new Map((ancien.actus || []).map((a) => [a.id, a]));
   const { ok, rejets } = verifierLot(redaction, cand.candidats || [], { site, publiees });
   ecrireJson(path.join(RACINE, 'tmp', `rejets-${site}.json`), rejets);
-  if (verifierSeul) return { site, nom: config.nom, verifie: redaction.length, rejets: rejets.length };
+  if (verifierSeul) return { site, nom: config.nom, verifie: redaction.length, rejets: rejets.length, rejets_copie: rejets.filter(rejetPourCopie).length };
 
   const etat = lireEtat(site);
   const parId = new Map((cand.candidats || []).map((c) => [c.id, c]));
   const dejaPublies = new Set((ancien.actus || []).map((a) => a.id));
   const origines = { ...(etat.origines || {}) };
   const recentes = (ancien.actus || []).slice(0, FENETRE_RECENTES).map((a) => ({ id: a.id, origine: origines[a.id] || a.image?.url }));
-  const journal = [];
+  // Les actus encore rejetées à ce stade (après les réécritures) sont abandonnées en silence :
+  // une ligne de journal, jamais de carte « À faire » pour Jean.
+  const journal = rejets.map(ligneAbandon);
   const nouvelles = [];
   const maintenant = new Date().toISOString();
   const articles = new Map(); // id → article à écrire
@@ -506,7 +518,7 @@ async function principal() {
     }
   }
   if (verifierSeul) {
-    for (const b of bilan) console.log(`${b.nom} : ${b.verifie} actus contrôlées, ${b.rejets} rejetées (anti-copie, longueur, source mince ou doublon)${b.rejets ? ` → réécris-les dans tmp/redaction-${b.site}.json (voir tmp/rejets-${b.site}.json)` : ''}`);
+    for (const b of bilan) console.log(`${b.nom} : ${b.verifie} actus contrôlées, ${b.rejets} rejetées (anti-copie, longueur, source mince ou doublon${b.rejets_copie ? `, dont ${b.rejets_copie} pour copie` : ''})${b.rejets ? ` → réécris-les dans tmp/redaction-${b.site}.json (voir tmp/rejets-${b.site}.json)` : ''}`);
     return;
   }
   ecrireJson(path.join(RACINE, 'tmp', 'publie-bilan.json'), { le: new Date().toISOString(), sites: bilan });

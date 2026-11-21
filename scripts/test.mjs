@@ -1,7 +1,7 @@
 // Tests : node scripts/test.mjs  (aucun accès réseau)
 import assert from 'node:assert/strict';
 import { idDe, controleAntiCopie, carteSvg, imageDejaVue, lireJson, RACINE, normaliserUrl, sites, ICONES } from './lib.mjs';
-import { fenetre, zoneSujet, enregistrerPhoto, ecrireIndexArticles, propre, validateur, validateurArticle, docArticle, verifierLot, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
+import { fenetre, zoneSujet, enregistrerPhoto, ecrireIndexArticles, propre, validateur, validateurArticle, docArticle, verifierLot, rejetPourCopie, ligneAbandon, licenceWikimediaLibre, pertinente, altCarte } from './publie.mjs';
 import { slugDe, controleArticle, motsArticle, similariteActus, doublonsProbables } from './lib.mjs';
 import { extraireTexte } from './sources.mjs';
 import { collecterSite, lireFlux } from './collecte.mjs';
@@ -347,6 +347,17 @@ await test('cadrage : le visage détecté reste en entier dans le cadre, même t
   const z3 = zoneSujet({ visages: [], corps: [{ x: 0.3, y: 0.1, l: 0.3, h: 0.85 }] });
   assert.ok(fenetre(1600, 3200, 1600, 900, z3).top <= 0.1 * 3200);
   assert.equal(zoneSujet({ visages: [], corps: [] }), null);
+});
+
+await test("Un rejet pour copie est reconnu ; une actu abandonnée n'a qu'une ligne de journal, sans carte", () => {
+  const copie = { id: 'a'.repeat(40), raisons: ['résumé : « le but décisif à la 88e minute »'] };
+  const longueur = { id: 'b'.repeat(40), raisons: ['article trop court'] };
+  assert.equal(rejetPourCopie(copie), true);
+  assert.equal(rejetPourCopie(longueur), false);
+  const ligne = ligneAbandon(copie);
+  assert.match(ligne, /abandonnée en silence \(copie encore trop proche après les réécritures\)/);
+  assert.doesNotMatch(ligneAbandon(longueur), /copie/);
+  assert.ok(!ligne.includes('\n'));
 });
 
 console.log(`\n${ok} réussis, ${ko} en échec`);
