@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-21T11:20:02.419Z",
+  "genere_le": "2026-11-21T11:21:41.562Z",
   "actus": [
     {
       "id": "b5657291a99e73086c28b4f6d52171af387c3084",
@@ -22,12 +22,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurcook/b5657291a99e73086c28b4f6d52171af387c3084.webp",
         "source": "wikimedia",
-        "credit": "Dietmar Rabich",
+        "credit": "Olga Ernst",
         "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Waterfront,_Kran_--_2024_--_2907.jpg",
-        "alt": "Le V&A Waterfront, quartier portuaire du Cap",
+        "page": "https://commons.wikimedia.org/wiki/File:Colony_of_Brown_Mussels_silted_up,_South_Africa.jpg",
+        "alt": "Des moules sur une plage d'Afrique du Sud",
         "mots_cles": [
-          "V&A Waterfront"
+          "Mussels South Africa"
         ],
         "largeur": 1600,
         "hauteur": 900

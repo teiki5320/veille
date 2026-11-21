@@ -2818,7 +2818,7 @@
     },
     {
       "id": "f2288da4b6ca145476dfc2a94af5919226a2e739",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Proposed_Aster_Hospital_in_Doha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Aerial_view_of_Aspire_Zone_in_Baaya_and_Mehairja_%28cropped_Aspire_Zone%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "6294cd28855de7501e41d12c71a1b294a501dcd8",
@@ -2945,7 +2945,7 @@
     "c496c3e3b73873bbff280f94e0cb047a69f85118": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ismaila_Sarr_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "fee3d4d071210c3f9ff46a84fadcebeac0d17885": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%C3%89douard_Mendy_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "7d94eac5449c6f65b253c4a7cca3356f6e56589b": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Lassine_Sinayoko_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "f2288da4b6ca145476dfc2a94af5919226a2e739": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Proposed_Aster_Hospital_in_Doha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "f2288da4b6ca145476dfc2a94af5919226a2e739": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Aerial_view_of_Aspire_Zone_in_Baaya_and_Mehairja_%28cropped_Aspire_Zone%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [
@@ -3012,6 +3012,9 @@
     ],
     "87af115affda6b34a2dca5f976835f59050b2c30": [
       "https://upload.wikimedia.org/wikipedia/commons/4/43/WAFCON_Futsal_2025_-_Morocco_trophy_celebration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "f2288da4b6ca145476dfc2a94af5919226a2e739": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d2/Proposed_Aster_Hospital_in_Doha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
