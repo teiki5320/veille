@@ -603,7 +603,7 @@
   "images_recentes": [
     {
       "id": "2ae320b27d8b638a527713bb4ef7716a85bef6bc",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Environnement_langue_de_barbarie_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/2/2e/PontFaidherbe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "ae840b34a6843db867bca1ba516988de28c3ca15",
@@ -708,7 +708,7 @@
     "985020d97f031533793bd7f9d553b9f011660d5e": "https://upload.wikimedia.org/wikipedia/commons/3/38/Diop%2C_Barry%2C_Epanya%2C_Sow_Fall%2C_Rano-FIG_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "4e1502a74236fb9e62428fbea211c885546e6131": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zeinab_Badawi_crop_UNISDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "ae840b34a6843db867bca1ba516988de28c3ca15": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mus%C3%A9e_des_civilisations_noires_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "2ae320b27d8b638a527713bb4ef7716a85bef6bc": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Environnement_langue_de_barbarie_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "2ae320b27d8b638a527713bb4ef7716a85bef6bc": "https://upload.wikimedia.org/wikipedia/commons/2/2e/PontFaidherbe.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "bf4d10d821b824220ce9e3cb505c75652ce619e6": [
@@ -725,6 +725,9 @@
       "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mus%C3%A9e_d%27Orsay%2C_Paris%2C_1987.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/f/f6/Paris-Love_padlocks_on_the_Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor-P1260512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/4/4f/R%C3%A9ception_au_Palais_de_la_R%C3%A9publique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "2ae320b27d8b638a527713bb4ef7716a85bef6bc": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Environnement_langue_de_barbarie_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
