@@ -1,8 +1,40 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-22T11:18:20.820Z",
+  "genere_le": "2026-11-22T18:17:43.009Z",
   "actus": [
+    {
+      "id": "8287cca29d8bc3c911df07c6cf3ca41c4de9035e",
+      "titre": "Mondial U17 : l'Ouganda tient l'Équateur en échec, l'Égypte s'impose face au Qatar",
+      "resume": "Au Mondial des moins de 17 ans au Qatar, l'Ouganda a obtenu dimanche un nul sans but contre l'Équateur, son premier point du tournoi. Le gardien Ashraf Lukyamuzi a multiplié les arrêts. Dans le groupe A, l'Égypte a battu le pays hôte 2-0.",
+      "theme": "foot",
+      "pays": [
+        "UG",
+        "EG"
+      ],
+      "competition": "Coupe du monde U17",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/22/uganda-holds-south-americans-ecuador-in-group-b-contest-fifa-u-17-world-cup-2026/",
+      "publie_le": "2026-11-22T15:51:26.000Z",
+      "collecte_le": "2026-11-22T18:17:43.009Z",
+      "langue": "en",
+      "slug": "mondial-u17-ouganda-tient-equateur-en-echec-egypte-impose-face-au-8287cc",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/8287cca29d8bc3c911df07c6cf3ca41c4de9035e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/8287cca29d8bc3c911df07c6cf3ca41c4de9035e.webp",
+        "source": "wikimedia",
+        "credit": "km2bp @ Mapillary.com",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:View_of_Wadi_Al_Gaiya_Street_in_Mehairja_from_Aspire_Zone_parking_lot.jpg",
+        "alt": "Le complexe sportif Aspire Zone à Doha, au Qatar",
+        "mots_cles": [
+          "Aspire Zone"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "24525ce70364f6d1608fbe62f124d1a1c2dde7ca",
       "titre": "Mondial U17 : le Cameroun battu 2-1 par le Venezuela, sa liste fait débat",
@@ -2019,41 +2051,6 @@
         "alt": "Le stade Mohammed-V de Casablanca, au Maroc",
         "mots_cles": [
           "Stade Mohammed V Casablanca"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "999777ad60f8dd2acf49751edd6325eeacb06284",
-      "titre": "CAN 2027 : Claude Le Roy vise au moins quatre points face aux Comores avec le Congo",
-      "resume": "Avant la double confrontation contre les Comores, le sélectionneur du Congo, Claude Le Roy, espère au moins quatre points, dont un nul à Moroni. Il annonce aussi le retour de l'attaquant Thievy Bifouma, dont il attend de l'expérience et du leadership.",
-      "theme": "foot",
-      "pays": [
-        "CG",
-        "KM"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/afrique-football/elim-can-2027-claude-le-roy-coach-congo-nous-allons-aux-comores-pour-chercher-un-resultat-nul/",
-      "autres_sources": [
-        "https://africatopsports.com/afrique-football/congo-claude-le-roy-souligne-limportance-du-retour-de-thievy-bifouma/"
-      ],
-      "publie_le": "2026-11-07T07:41:54.000Z",
-      "collecte_le": "2026-11-07T11:20:55.382Z",
-      "langue": "fr",
-      "slug": "can-2027-claude-le-roy-vise-au-moins-quatre-points-face-aux-comores-999777",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/999777ad60f8dd2acf49751edd6325eeacb06284.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/999777ad60f8dd2acf49751edd6325eeacb06284.webp",
-        "source": "wikimedia",
-        "credit": "Photo Claude TRUONG-NGOC",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Le_Roy_Ladurie_par_Claude_Truong-Ngoc_octobre_2014.jpg",
-        "alt": "Claude Le Roy, sélectionneur du Congo",
-        "mots_cles": [
-          "Claude Le Roy"
         ],
         "largeur": 1600,
         "hauteur": 900

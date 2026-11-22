@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "4c21193c64477a59065653e590ed874390fab8b9",
+  "slug": "serres-high-tech-aux-etats-unis-les-colleges-communautaires-invites-4c2119",
+  "titre": "Serres high-tech : aux États-Unis, les collèges communautaires invités à former",
+  "chapo": "Capteurs, éclairage, fertirrigation : les serres modernes réclament des employés à l'aise avec les plantes et la technique. Un enseignant texan voit dans les collèges communautaires une réponse.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La tribune a été publiée par Greenhouse Grower, une revue américaine destinée aux serristes. Son auteur enseigne l'agriculture au Collin College, dans le nord du Texas, où il donne notamment un cours de production sous serre.",
+        "Son constat : l'agriculture en environnement contrôlé, qui regroupe serres, fermes verticales et cultures hors sol, connaît un problème de main-d'œuvre que l'automatisation seule ne réglera pas. Un technicien doit comprendre la physiologie des plantes tout en pilotant le climat, l'irrigation, la lumière et des équipements automatisés."
+      ]
+    },
+    {
+      "intertitre": "Un « chaînon manquant » entre université et terrain",
+      "paragraphes": [
+        "Selon lui, tous les postes ne demandent pas quatre années d'études, mais la formation sur le tas ne suffit plus. Les collèges communautaires, qui forment déjà infirmiers, électriciens ou techniciens de chauffage, peuvent combler cet entre-deux.",
+        "Il s'appuie sur les projections du Bureau des statistiques du travail : l'emploi des techniciens agricoles et alimentaires devrait progresser de 5 % entre 2025 et 2035, contre environ 3 % pour l'ensemble des métiers, avec près de 5 900 postes à pourvoir chaque année. En 2026, le ministère américain de l'Agriculture a aussi attribué 3 millions de dollars à six projets de formation dans ces établissements."
+      ]
+    },
+    {
+      "intertitre": "Former avec les professionnels",
+      "paragraphes": [
+        "Dans son établissement, les étudiants multiplient les plantes, préparent des solutions nutritives et découvrent l'hydroponie, par exemple la culture en bacs Bato. Mais une serre d'école n'est pas une serre commerciale : le matériel coûte cher et évolue vite.",
+        "L'enseignant plaide donc pour des programmes conçus avec les producteurs, qui diraient quelles compétences comptent, et avec les fournisseurs de capteurs, d'éclairage ou de systèmes hors sol, qui pourraient prêter du matériel, former les enseignants ou ouvrir leurs installations."
+      ]
+    },
+    {
+      "intertitre": "Des formations courtes pour les salariés",
+      "paragraphes": [
+        "Il suggère enfin de ne pas se limiter aux diplômes de deux ans. Des certificats courts permettraient aussi aux employés déjà en poste d'apprendre à gérer le climat d'une serre ou la nutrition des cultures hydroponiques, sans reprendre un cursus complet."
+      ]
+    }
+  ],
+  "mots": 352,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "US"
+  ],
+  "source_nom": "Greenhouse Grower",
+  "source_url": "https://www.greenhousegrower.com/management/growing-the-cea-workforce-why-community-colleges-and-industry-need-each-other/",
+  "publie_le": "2026-11-20T18:00:45.000Z",
+  "redige_le": "2026-11-22T18:17:44.348Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/4c21193c64477a59065653e590ed874390fab8b9.webp",
+    "source": "wikimedia",
+    "credit": "Narek75",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_Greenhouse_in_Armenia.jpg",
+    "alt": "Des cultures hydroponiques dans une serre",
+    "mots_cles": [
+      "Hydroponics greenhouse"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

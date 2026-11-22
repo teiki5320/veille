@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-22T11:17:38.783Z",
+  "genere_le": "2026-11-22T18:17:50.896Z",
   "articles": [
+    {
+      "id": "f676912202b54445ac509f188212392cfe58b24e",
+      "slug": "lot-les-entreprises-de-loisirs-au-tribunal-apres-une-saison-2026-tres-f67691",
+      "titre": "Lot : les entreprises de loisirs au tribunal après une saison 2026 très dure",
+      "publie_le": "2026-11-22T16:01:02.000Z",
+      "redige_le": "2026-11-22T18:17:48.013Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/f676912202b54445ac509f188212392cfe58b24e.json"
+    },
     {
       "id": "b9c8519b4b85510cf1f9b1b1b66462bcbfbc41e0",
       "slug": "toulouse-une-table-etoilee-du-capitole-perd-20-de-clients-et-serre-ses-b9c851",

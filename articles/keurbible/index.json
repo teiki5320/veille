@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-22T11:17:27.680Z",
+  "genere_le": "2026-11-22T18:17:40.235Z",
   "articles": [
+    {
+      "id": "56282256d339b1baa230cf22603951f4e079ed5a",
+      "slug": "gospel-le-nigerian-nathaniel-bassey-franchit-le-milliard-de-vues-sur-562822",
+      "titre": "Gospel : le Nigérian Nathaniel Bassey franchit le milliard de vues sur YouTube",
+      "publie_le": "2026-11-22T14:35:54.000Z",
+      "redige_le": "2026-11-22T18:17:37.329Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/56282256d339b1baa230cf22603951f4e079ed5a.json"
+    },
     {
       "id": "690b7c499779f4a3f404230f7a5602b1ffe2a527",
       "slug": "nairobi-un-theologien-nigerian-voit-en-sainte-bakhita-une-cle-690b7c",

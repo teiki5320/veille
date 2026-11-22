@@ -1,8 +1,38 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-22T11:17:36.780Z",
+  "genere_le": "2026-11-22T18:17:48.013Z",
   "actus": [
+    {
+      "id": "f676912202b54445ac509f188212392cfe58b24e",
+      "titre": "Lot : les entreprises de loisirs au tribunal après une saison 2026 très dure",
+      "resume": "Mi-novembre, la justice a mis fin à l’activité d’une aire de jeux couverte de Cahors. Un prestataire de sports nature, privé d’un quart de son chiffre, a obtenu une sauvegarde. Les gérants du secteur accusent des clients plus économes et des étés brûlants.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/22/en-dix-ans-dexistence-nous-navons-jamais-vecu-de-periode-aussi-difficile-des-parcs-et-entreprises-de-loisirs-du-lot-alertent-apres-une-annee-chaotique-13655663.php",
+      "publie_le": "2026-11-22T16:01:02.000Z",
+      "collecte_le": "2026-11-22T18:17:48.013Z",
+      "langue": "fr",
+      "slug": "lot-les-entreprises-de-loisirs-au-tribunal-apres-une-saison-2026-tres-f67691",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f676912202b54445ac509f188212392cfe58b24e.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f676912202b54445ac509f188212392cfe58b24e.webp",
+        "source": "wikimedia",
+        "credit": "Krzysztof Golik",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:253_Rue_nationale_in_Cahors_02.jpg",
+        "alt": "Vue de la ville de Cahors, dans le Lot",
+        "mots_cles": [
+          "Cahors"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "b9c8519b4b85510cf1f9b1b1b66462bcbfbc41e0",
       "titre": "Toulouse : une table étoilée du Capitole perd 20 % de clients et serre ses dépenses",
@@ -1900,39 +1930,6 @@
         "alt": "Serge Papin, ministre chargé des PME et du Commerce",
         "mots_cles": [
           "Serge Papin"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91",
-      "titre": "Restauration rapide : le franchisé KFC palois ProNoïa passe en procédure de sauvegarde",
-      "resume": "Une sauvegarde a été ouverte fin septembre à Bordeaux pour ce groupe d'une quarantaine de restaurants et 900 salariés. Son expansion financée à crédit a creusé les pertes : 7,2 millions d'euros sur l'exercice achevé en mars 2025, pour une dette financière de 60,7 millions.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "tags": [
-        "situation:credit-bancaire"
-      ],
-      "source_nom": "Sud Ouest",
-      "source_url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/croissance-effrenee-ou-boulimie-l-un-des-principaux-franchises-de-kfc-ne-a-pau-place-en-procedure-de-sauvegarde-31335459.php",
-      "publie_le": "2026-11-01T17:05:23.000Z",
-      "collecte_le": "2026-11-01T18:21:22.710Z",
-      "langue": "fr",
-      "slug": "restauration-rapide-le-franchise-kfc-palois-pronoia-passe-en-procedure-3f01af",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/3f01af85cdcb7dce1e0be88620b2d05a7a1c5c91.webp",
-        "source": "wikimedia",
-        "credit": "Velvet",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Roubaix_KFC_bd_gambetta.jpg",
-        "alt": "Un restaurant de l'enseigne KFC",
-        "mots_cles": [
-          "KFC restaurant France"
         ],
         "largeur": 1600,
         "hauteur": 900

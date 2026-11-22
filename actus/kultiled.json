@@ -1,8 +1,36 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-22T11:17:35.425Z",
+  "genere_le": "2026-11-22T18:17:44.348Z",
   "actus": [
+    {
+      "id": "6e113e7fc01045d93db7068d9050eb9f9fc939b0",
+      "titre": "Poinsettia : les minuscules fleurs du centre disent combien de temps il restera coloré",
+      "resume": "Pour qu'un poinsettia garde ses couleurs jusqu'aux fêtes, il faut regarder les petits boutons au cœur des bractées : fermés, la plante est fraîche ; ouverts et pleins de pollen, elle décline. Une fois à la maison, il lui faut une pièce lumineuse, sans courant d'air, et un arrosage modéré.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "source_nom": "Gardening Know How",
+      "source_url": "https://www.gardeningknowhow.com/ornamental/poinsettia/poinsettia-freshness-check",
+      "publie_le": "2026-11-22T12:30:00.000Z",
+      "collecte_le": "2026-11-22T18:17:44.348Z",
+      "langue": "en",
+      "slug": "poinsettia-les-minuscules-fleurs-du-centre-disent-combien-de-temps-il-6e113e",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/6e113e7fc01045d93db7068d9050eb9f9fc939b0.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/6e113e7fc01045d93db7068d9050eb9f9fc939b0.webp",
+        "source": "wikimedia",
+        "credit": "Carlos Valenzuela",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Euphorbia_pulcherrima_Yellow_and_red_Mexico2019.jpg",
+        "alt": "Un poinsettia (Euphorbia pulcherrima) aux bractées rouges",
+        "mots_cles": [
+          "Euphorbia pulcherrima"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "768af74f79e50bd5338f3079a3413d4bb493d28d",
       "titre": "Plantes vertes d'intérieur : liquide, bâtonnets ou granulés, quel engrais choisir ?",
@@ -26,6 +54,36 @@
         "alt": "Une plante verte d'intérieur en pot.",
         "mots_cles": [
           "Calathea"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "4c21193c64477a59065653e590ed874390fab8b9",
+      "titre": "Serres high-tech : aux États-Unis, les collèges communautaires invités à former",
+      "resume": "Dans la revue Greenhouse Grower, un professeur d'agriculture du Texas estime que les serres et fermes d'intérieur manquent de techniciens formés aux plantes comme aux machines. Il propose que les collèges communautaires bâtissent ces formations avec les producteurs et les fournisseurs.",
+      "theme": "culture-interieur",
+      "pays": [
+        "US"
+      ],
+      "source_nom": "Greenhouse Grower",
+      "source_url": "https://www.greenhousegrower.com/management/growing-the-cea-workforce-why-community-colleges-and-industry-need-each-other/",
+      "publie_le": "2026-11-20T18:00:45.000Z",
+      "collecte_le": "2026-11-22T18:17:44.348Z",
+      "langue": "en",
+      "slug": "serres-high-tech-aux-etats-unis-les-colleges-communautaires-invites-4c2119",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/4c21193c64477a59065653e590ed874390fab8b9.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/4c21193c64477a59065653e590ed874390fab8b9.webp",
+        "source": "wikimedia",
+        "credit": "Narek75",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hydroponic_Greenhouse_in_Armenia.jpg",
+        "alt": "Des cultures hydroponiques dans une serre",
+        "mots_cles": [
+          "Hydroponics greenhouse"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -1901,70 +1959,6 @@
         "largeur": 1600,
         "hauteur": 900
       }
-    },
-    {
-      "id": "ea27cd9f8a2914ff9c3f0f32e931544ac725e524",
-      "titre": "Canada : des chercheurs doutent que les fermes verticales sauvent l'alimentation",
-      "resume": "Des enseignants de l'université Western, en Ontario, estiment que les fermes verticales, où l'on cultive en intérieur sur plusieurs étages dans un milieu contrôlé, ne suffiront pas à régler les difficultés du système alimentaire canadien.",
-      "theme": "culture-interieur",
-      "pays": [
-        "CA"
-      ],
-      "source_nom": "Greenhouse Canada",
-      "source_url": "https://www.greenhousecanada.com/western-university-profs-argue-vertical-farming-not-a-fix-to-canadas-food-system/",
-      "publie_le": "2026-10-26T13:20:16.000Z",
-      "collecte_le": "2026-10-27T18:17:59.200Z",
-      "langue": "en",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/kultiled/ea27cd9f8a2914ff9c3f0f32e931544ac725e524.webp",
-        "source": "wikimedia",
-        "credit": "Valcenteu",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:VertiCrop.jpg",
-        "alt": "Des plantes cultivées en étages dans une ferme verticale",
-        "mots_cles": [
-          "Vertical farming"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "slug": "canada-des-chercheurs-doutent-que-les-fermes-verticales-sauvent-ea27cd",
-      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/ea27cd9f8a2914ff9c3f0f32e931544ac725e524.json",
-      "lecture_min": 2
-    },
-    {
-      "id": "58118437da6dddac6971b5af09ec9f89ea20170b",
-      "titre": "Plantes d'intérieur : un rapport américain compare les achats depuis 2019",
-      "resume": "Aux États-Unis, le Floral Marketing Fund publie son rapport 2025 sur les plantes d'intérieur achetées par le grand public. Il compare les habitudes de 2019, 2021 et 2025 : ce que les gens choisissent, combien ils y consacrent et les pistes pour la filière.",
-      "theme": "culture-interieur",
-      "pays": [
-        "US"
-      ],
-      "source_nom": "Greenhouse Management",
-      "source_url": "https://www.greenhousemag.com/consumer-houseplant-purchasing-report-2025-research-trends-floral-marketing-fund",
-      "publie_le": "2026-10-26T12:38:00.000Z",
-      "collecte_le": "2026-10-27T08:00:41.227Z",
-      "langue": "en",
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/kultiled/58118437da6dddac6971b5af09ec9f89ea20170b.webp",
-        "source": "wikimedia",
-        "credit": "Agnes Monkelbaan",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Amaryllis_(Hippeastrum)_18-01-2025._(actm.)_04.jpg",
-        "alt": "Des plantes d'intérieur en pot",
-        "mots_cles": [
-          "Houseplants"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      },
-      "autres_sources": [
-        "https://www.greenhousegrower.com/management/new-consumer-study-reveals-changes-in-houseplant-purchasing-trends/",
-        "https://www.scrippsnews.com/life/the-pandemic-plant-craze-has-cooled-but-americans-arent-giving-up-on-greenery"
-      ],
-      "slug": "plantes-interieur-un-rapport-americain-compare-les-achats-depuis-2019-581184",
-      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/58118437da6dddac6971b5af09ec9f89ea20170b.json",
-      "lecture_min": 2
     }
   ]
 }

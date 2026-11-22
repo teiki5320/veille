@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "6e113e7fc01045d93db7068d9050eb9f9fc939b0",
+  "slug": "poinsettia-les-minuscules-fleurs-du-centre-disent-combien-de-temps-il-6e113e",
+  "titre": "Poinsettia : les minuscules fleurs du centre disent combien de temps il restera coloré",
+  "chapo": "Rouge vif en jardinerie, dégarni à Noël : le sort d'un poinsettia se lit souvent avant même de le ramener chez soi, au centre de ses feuilles colorées.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le site spécialisé Gardening Know How rappelle un piège classique de décembre. Une plante éclatante perd ses couleurs une ou deux semaines après son arrivée à la maison. Les soins comptent, mais la plante est souvent déjà en fin de course au moment du choix.",
+        "Les parties rouges ne sont pas des pétales. Ce sont des bractées, des feuilles qui se colorent à l'automne quand les nuits s'allongent. Les vraies fleurs sont au milieu : de petites grappes jaune-vert appelées cyathes."
+      ]
+    },
+    {
+      "intertitre": "Des boutons fermés, signe de fraîcheur",
+      "paragraphes": [
+        "Chaque cyathe suit le même cycle : d'abord serré et vert, il s'ouvre, libère un pollen jaune, puis tombe. Les bractées ne tardent alors pas à suivre. Une plante aux boutons encore clos a donc plusieurs semaines devant elle.",
+        "À l'inverse, du pollen sur les bractées ou des tiges nues à la place des fleurs signalent une floraison déjà avancée. Certaines variétés récentes gardent leurs cyathes plus longtemps, l'indice n'est donc pas infaillible. Un petit point jaune sur le côté est souvent une simple glande, sans gravité.",
+        "D'autres signes doivent alerter : feuilles basses jaunies ou tombées, bractées abîmées, bords bleuâtres dus au froid, petits insectes blancs qui s'envolent quand on frôle le feuillage, ou terreau détrempé qui peut faire pourrir les racines."
+      ]
+    },
+    {
+      "intertitre": "Lumière et chaleur à la maison",
+      "paragraphes": [
+        "Le poinsettia craint le froid dès le trajet. Sous 10 °C dehors, il faut l'emballer, même pour quelques minutes. Une fois rentré, on retire vite la housse : enfermée trop longtemps, la plante s'affaiblit à cause de l'éthylène qu'elle dégage.",
+        "Il lui faut une pièce claire, près d'une fenêtre mais sans soleil direct, loin des radiateurs et des portes. Comptez 18 à 21 °C le jour et environ 16 °C la nuit. Attention à la vitre, qui se refroidit fortement après le coucher du soleil."
+      ]
+    },
+    {
+      "intertitre": "Arroser sans noyer",
+      "paragraphes": [
+        "On arrose seulement quand le dessus du terreau est sec. L'eau ne doit pas stagner dans l'emballage décoratif : il vaut mieux le percer ou sortir le pot pour le laisser s'égoutter. Aucun engrais n'est utile pendant la floraison."
+      ]
+    }
+  ],
+  "mots": 371,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "source_nom": "Gardening Know How",
+  "source_url": "https://www.gardeningknowhow.com/ornamental/poinsettia/poinsettia-freshness-check",
+  "publie_le": "2026-11-22T12:30:00.000Z",
+  "redige_le": "2026-11-22T18:17:44.348Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/6e113e7fc01045d93db7068d9050eb9f9fc939b0.webp",
+    "source": "wikimedia",
+    "credit": "Carlos Valenzuela",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Euphorbia_pulcherrima_Yellow_and_red_Mexico2019.jpg",
+    "alt": "Un poinsettia (Euphorbia pulcherrima) aux bractées rouges",
+    "mots_cles": [
+      "Euphorbia pulcherrima"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

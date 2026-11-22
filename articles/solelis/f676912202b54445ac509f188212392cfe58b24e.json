@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f676912202b54445ac509f188212392cfe58b24e",
+  "slug": "lot-les-entreprises-de-loisirs-au-tribunal-apres-une-saison-2026-tres-f67691",
+  "titre": "Lot : les entreprises de loisirs au tribunal après une saison 2026 très dure",
+  "chapo": "Des familles qui comptent chaque euro, des étés étouffants : dans le Lot, plusieurs exploitants de loisirs bouclent l’année en difficulté, et deux sont déjà passés devant les juges.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Mi-novembre, le 16 précisément, la justice a mis fin à l’activité de l’unique aire de jeux couverte pour enfants de Cahors. Créée huit ans plus tôt pour les petits de un à douze ans, elle traînait selon sa gérante un passif qui n’a cessé de grossir depuis le Covid.",
+        "Ces derniers mois, les familles venaient moins et restaient moins longtemps. Beaucoup arrivaient l’après-midi, une fois le repas pris chez elles. Résultat : chaque entrée rapportait de moins en moins."
+      ]
+    },
+    {
+      "intertitre": "Un quart du chiffre envolé",
+      "paragraphes": [
+        "Non loin, une société qui propose des sports nature sur deux sites a perdu 25 % de son activité en un an. Pour continuer à tourner, son patron s’est tourné vers le tribunal, qui l’a placée sous sauvegarde au début du mois. Dès septembre, il avait réduit ses effectifs permanents de cinq personnes à deux.",
+        "La météo a aggravé les choses. Quand le thermomètre passe 35 °C, plus personne ne se déplace. Seul son site au bord de l’eau a attiré du public, sans que les visiteurs consomment davantage.",
+        "Un troisième gérant, installé dans quatre communes, échappe encore au tribunal. Tempêtes au printemps, fortes chaleurs en été : il affirme qu’une autre saison de ce type le forcerait à cesser."
+      ]
+    },
+    {
+      "intertitre": "Investir pour s’adapter, mais avec quoi ?",
+      "paragraphes": [
+        "Brumisateurs, espaces abrités, jeux en salle : les idées ne manquent pas pour mieux supporter les caprices du ciel. Les moyens, eux, font défaut. Les exploitants s’estiment abandonnés et demandent une aide pour financer ces travaux.",
+        "Ils misent sur 2027 pour se refaire, sans illusions : une campagne électorale nationale ralentit souvent la consommation."
+      ]
+    },
+    {
+      "intertitre": "La sauvegarde, une protection avant la cessation des paiements",
+      "paragraphes": [
+        "Seul le chef d’entreprise peut la demander, tant qu’il paie encore ses factures. Les créances anciennes sont bloquées le temps d’une période d’observation, puis un plan peut étaler le passif sur une durée de dix ans maximum. Le tribunal de commerce, ou le tribunal des activités économiques là où il a été créé, encadre la démarche."
+      ]
+    }
+  ],
+  "mots": 359,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/22/en-dix-ans-dexistence-nous-navons-jamais-vecu-de-periode-aussi-difficile-des-parcs-et-entreprises-de-loisirs-du-lot-alertent-apres-une-annee-chaotique-13655663.php",
+  "publie_le": "2026-11-22T16:01:02.000Z",
+  "redige_le": "2026-11-22T18:17:48.013Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f676912202b54445ac509f188212392cfe58b24e.webp",
+    "source": "wikimedia",
+    "credit": "Krzysztof Golik",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:253_Rue_nationale_in_Cahors_02.jpg",
+    "alt": "Vue de la ville de Cahors, dans le Lot",
+    "mots_cles": [
+      "Cahors"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

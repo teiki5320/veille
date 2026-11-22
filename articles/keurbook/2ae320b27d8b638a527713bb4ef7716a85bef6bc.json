@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurbook",
+  "id": "2ae320b27d8b638a527713bb4ef7716a85bef6bc",
+  "slug": "la-langue-des-barbares-le-poete-senegalais-fara-njaay-signe-un-roman-2ae320",
+  "titre": "« La langue des barbares » : le poète sénégalais Fara Njaay signe un roman sur Saint-Louis",
+  "chapo": "Connu comme poète, Fara Njaay publie avec « La langue des barbares » un roman ancré à Saint-Louis du Sénégal, où un jeune narrateur choisit les livres et la liberté contre l'autorité.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le livre est sorti en 2026 à Dakar, aux éditions L'Harmattan-Sénégal, dans la collection Nouvelles Lettres Sénégalaises. Il a fait l'objet d'une longue critique publiée le 22 novembre par le site sénégalais SenePlus, qui y voit la confirmation du talent de l'auteur.",
+        "Le récit est confié à Nzuri, qui parle à la première personne. Il grandit à Ndar, le vieux quartier de Saint-Louis, tout près de la Langue de Barbarie, cette bande de sable où vivent de nombreuses familles de pêcheurs."
+      ]
+    },
+    {
+      "intertitre": "Une pirogue disparue en mer",
+      "paragraphes": [
+        "L'histoire s'ouvre sur un drame : une embarcation et ses dix pêcheurs ne reviennent pas. Autour de ce naufrage, le roman décrit la colère d'une communauté face aux grands chalutiers étrangers, venus d'Occident et de Chine, qui vident les eaux et privent les familles de leur gagne-pain.",
+        "Nzuri subit aussi une enfance dure. Son père est sévère, son maître d'école coranique brutal. Le garçon observe les injustices qui l'entourent, sans toujours pouvoir dire ce qu'il pense. Il finit par rompre, rejeté par son père mais soutenu par un homme qui l'écoute sans le juger."
+      ]
+    },
+    {
+      "intertitre": "Entre poésie et réalisme",
+      "paragraphes": [
+        "Selon la critique, l'écriture alterne des phrases courtes, presque muettes dans les moments de douleur, et des passages lyriques sur les paysages. Les dialogues font une large place au wolof. Un personnage surnommé Fou-Philosophe apporte une touche de réalisme magique.",
+        "Le roman s'en prend à plusieurs figures du pouvoir : l'argent qui détruit, les politiciens menteurs, les faux marabouts qui profitent du malheur des autres. Il raconte surtout la quête d'identité d'un jeune homme qui refuse de se soumettre."
+      ]
+    },
+    {
+      "intertitre": "Un poète passé au roman",
+      "paragraphes": [
+        "Fara Njaay s'était d'abord fait connaître par la poésie. Avec ce texte, il passe à la fiction longue sans abandonner son goût pour les images. Saint-Louis, ancienne capitale du Sénégal et ville inscrite au patrimoine mondial de l'Unesco, sert de décor à cette révolte intime et sociale."
+      ]
+    }
+  ],
+  "mots": 347,
+  "lecture_min": 2,
+  "theme": "livres",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "SenePlus",
+  "source_url": "https://www.seneplus.com/article/la-langue-des-barbares-de-fara-njaay-un-recit-entre-romanesque-reflexion-philosophique-et",
+  "publie_le": "2026-11-22T15:31:43.000Z",
+  "redige_le": "2026-11-22T18:17:40.244Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbook/2ae320b27d8b638a527713bb4ef7716a85bef6bc.webp",
+    "source": "wikimedia",
+    "credit": "Fleurs fatou",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Environnement_langue_de_barbarie_06.jpg",
+    "alt": "La Langue de Barbarie, près de Saint-Louis du Sénégal",
+    "mots_cles": [
+      "Langue de Barbarie"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

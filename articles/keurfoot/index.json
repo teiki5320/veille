@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-22T11:18:20.849Z",
+  "genere_le": "2026-11-22T18:17:44.334Z",
   "articles": [
+    {
+      "id": "8287cca29d8bc3c911df07c6cf3ca41c4de9035e",
+      "slug": "mondial-u17-ouganda-tient-equateur-en-echec-egypte-impose-face-au-8287cc",
+      "titre": "Mondial U17 : l'Ouganda tient l'Équateur en échec, l'Égypte s'impose face au Qatar",
+      "publie_le": "2026-11-22T15:51:26.000Z",
+      "redige_le": "2026-11-22T18:17:43.009Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/8287cca29d8bc3c911df07c6cf3ca41c4de9035e.json"
+    },
     {
       "id": "24525ce70364f6d1608fbe62f124d1a1c2dde7ca",
       "slug": "mondial-u17-le-cameroun-battu-2-1-par-le-venezuela-sa-liste-fait-debat-24525c",

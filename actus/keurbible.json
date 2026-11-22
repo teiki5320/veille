@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-22T11:17:25.526Z",
+  "genere_le": "2026-11-22T18:17:37.329Z",
   "actus": [
+    {
+      "id": "56282256d339b1baa230cf22603951f4e079ed5a",
+      "titre": "Gospel : le Nigérian Nathaniel Bassey franchit le milliard de vues sur YouTube",
+      "resume": "Le chanteur et pasteur nigérian Nathaniel Bassey est présenté comme le premier artiste gospel africain à passer le cap du milliard de vues sur YouTube. Sa chaîne compte aussi plus de 5 millions d'abonnés. Le seuil a été atteint pendant l'édition d'automne du Hallelujah Challenge.",
+      "theme": "culture",
+      "pays": [
+        "NG"
+      ],
+      "source_nom": "La Croix",
+      "source_url": "https://www.la-croix.com/religion/en-afrique-la-louange-chretienne-s-inscrit-dans-de-nouvelles-dynamiques-culturelles-20261122",
+      "autres_sources": [
+        "https://www.legit.ng/entertainment/celebrities/1739059-nathaniel-bassey-history-african-gospel-singer-hit-1-billion-youtube-views/"
+      ],
+      "publie_le": "2026-11-22T14:35:54.000Z",
+      "collecte_le": "2026-11-22T18:17:37.329Z",
+      "langue": "fr",
+      "slug": "gospel-le-nigerian-nathaniel-bassey-franchit-le-milliard-de-vues-sur-562822",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/56282256d339b1baa230cf22603951f4e079ed5a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/56282256d339b1baa230cf22603951f4e079ed5a.webp",
+        "source": "openverse",
+        "credit": "spbda",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/78845880@N06/14415277401",
+        "alt": "Des fidèles lors d'un concert de musique chrétienne",
+        "mots_cles": [
+          "gospel choir church"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "690b7c499779f4a3f404230f7a5602b1ffe2a527",
       "titre": "Nairobi : un théologien nigérian voit en sainte Bakhita une clé africaine de l'espérance",

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbook",
-  "genere_le": "2026-11-22T11:17:27.690Z",
+  "genere_le": "2026-11-22T18:17:42.982Z",
   "articles": [
+    {
+      "id": "2ae320b27d8b638a527713bb4ef7716a85bef6bc",
+      "slug": "la-langue-des-barbares-le-poete-senegalais-fara-njaay-signe-un-roman-2ae320",
+      "titre": "« La langue des barbares » : le poète sénégalais Fara Njaay signe un roman sur Saint-Louis",
+      "publie_le": "2026-11-22T15:31:43.000Z",
+      "redige_le": "2026-11-22T18:17:40.244Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbook/2ae320b27d8b638a527713bb4ef7716a85bef6bc.json"
+    },
     {
       "id": "ae840b34a6843db867bca1ba516988de28c3ca15",
       "slug": "dakar-la-6e-african-art-book-fair-recoit-le-canada-et-le-quebec-au-mcn-ae840b",
