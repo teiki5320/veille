@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-22T11:17:30.984Z",
+  "genere_le": "2026-11-22T11:18:20.820Z",
   "actus": [
     {
       "id": "24525ce70364f6d1608fbe62f124d1a1c2dde7ca",
@@ -23,10 +23,10 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/24525ce70364f6d1608fbe62f124d1a1c2dde7ca.webp",
         "source": "wikimedia",
-        "credit": "km2bp @ Mapillary.com",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:View_of_Wadi_Al_Gaiya_Street_in_Mehairja_from_Aspire_Zone_parking_lot.jpg",
-        "alt": "Joueurs de l'équipe du Cameroun des moins de 17 ans.",
+        "credit": "WBJ Adventures @ YouTube",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Al_Waab_and_Aspire_Zone.jpg",
+        "alt": "Vue du complexe sportif Aspire Zone, à Doha, au Qatar.",
         "mots_cles": [
           "Aspire Zone"
         ],
@@ -57,12 +57,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurfoot/e2f4b42582e142aba0fd1fff331e26fdcb5e2da3.webp",
         "source": "wikimedia",
-        "credit": "Premiero",
+        "credit": "David Jane Footballer",
         "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:CAF_headquarter.jpg",
-        "alt": "Logo ou symbole de la Confédération africaine de football.",
+        "page": "https://commons.wikimedia.org/wiki/File:After_training_with_my_team_mates_in_the_National_Camp_Super_Falcon_in_Abuja_Nigeria.JPG",
+        "alt": "Joueuses d'une sélection féminine africaine de football.",
         "mots_cles": [
-          "Confederation of African Football"
+          "Nigeria women's national football team"
         ],
         "largeur": 1600,
         "hauteur": 900

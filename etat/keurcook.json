@@ -2070,7 +2070,7 @@
   "images_recentes": [
     {
       "id": "9b5ef877286f827ea4bfac8daaad94e5ae8dd855",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fonio_Grains_%28Digitaria_Exilis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/3/34/SEN_Village_Chief_Theodore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     },
     {
       "id": "b5657291a99e73086c28b4f6d52171af387c3084",
@@ -2171,11 +2171,14 @@
     "4b7e85ed3ca0523a2fbf0166e14030688ad6e7d8": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Oldest_Olive_Tree_in_Tunisia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "2817653bd7d9f9764518630048d9863ea469271d": "https://upload.wikimedia.org/wikipedia/commons/5/58/Ensis_siliqua_%28giant_razor_clam%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "b5657291a99e73086c28b4f6d52171af387c3084": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Colony_of_Brown_Mussels_silted_up%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "9b5ef877286f827ea4bfac8daaad94e5ae8dd855": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fonio_Grains_%28Digitaria_Exilis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "9b5ef877286f827ea4bfac8daaad94e5ae8dd855": "https://upload.wikimedia.org/wikipedia/commons/3/34/SEN_Village_Chief_Theodore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "b5657291a99e73086c28b4f6d52171af387c3084": [
       "https://upload.wikimedia.org/wikipedia/commons/6/61/Cape_Town_%28ZA%29%2C_Waterfront%2C_Kran_--_2024_--_2907.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "9b5ef877286f827ea4bfac8daaad94e5ae8dd855": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/Fonio_Grains_%28Digitaria_Exilis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
