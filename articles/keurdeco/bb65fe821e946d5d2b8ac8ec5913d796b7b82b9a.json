@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurdeco",
+  "id": "bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a",
+  "slug": "quai-branly-romeo-mivekannin-peint-la-memoire-des-zoos-humains-sur-de-bb65fe",
+  "titre": "Quai Branly : Roméo Mivekannin peint la mémoire des zoos humains sur de grands draps",
+  "chapo": "Après le Louvre-Lens en 2024, le peintre franco-béninois Roméo Mivekannin investit le musée du quai Branly avec des œuvres nées de vieilles photographies de ses réserves.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Né en 1986, Roméo Mivekannin présente à Paris une série de toiles inspirées de 13 photographies conservées par le musée du quai Branly – Jacques Chirac. Ces images montrent des personnes anonymes exhibées lors des « zoos humains » organisés en Europe, notamment à Paris, près du Champ-de-Mars.",
+        "L'artiste dit avoir fréquenté le musée pendant plusieurs années, salles et réserves comprises, avant de choisir ces clichés plutôt que les sculptures des collections."
+      ]
+    },
+    {
+      "intertitre": "Une toile libre, comme un drap",
+      "paragraphes": [
+        "Sa technique est singulière. Il ne tend pas sa toile sur un châssis : elle pend librement, à la manière d'un drap. Il y projette la photographie, l'agrandit jusqu'à donner aux silhouettes leur taille réelle, puis la redessine au trait noir.",
+        "Le procédé garde la précision des détails mais fait disparaître les couleurs. Le résultat tient à la fois du dessin, de la peinture et du tissu suspendu."
+      ]
+    },
+    {
+      "intertitre": "Son visage parmi les figures",
+      "paragraphes": [
+        "Dernière intervention, et la plus frappante : sur certaines figures, Roméo Mivekannin remplace le visage d'origine par son autoportrait, peint en camaïeu de gris. L'artiste explique vouloir devenir acteur de ces scènes, et non simple témoin.",
+        "Au Louvre-Lens, il avait appliqué la même démarche à des chefs-d'œuvre de la peinture européenne, de la Renaissance à Géricault et Delacroix, où apparaît une figure noire."
+      ]
+    },
+    {
+      "intertitre": "Un passé encore peu montré",
+      "paragraphes": [
+        "Les exhibitions humaines ont attiré des foules en Europe de la fin du XIXe siècle aux années 1930, notamment lors des expositions coloniales et universelles. L'exposition du quai Branly propose de regarder autrement cette histoire, à travers le travail d'un artiste lié au Bénin et à la France.",
+        "Pour le visiteur, ces grands formats suspendus, sans cadre ni couleur, créent une présence physique forte : les anonymes des clichés d’archives y retrouvent une échelle humaine."
+      ]
+    }
+  ],
+  "mots": 320,
+  "lecture_min": 1,
+  "theme": "deco",
+  "pays": [
+    "BJ",
+    "FR"
+  ],
+  "source_nom": "Le Monde",
+  "source_url": "https://www.lemonde.fr/culture/article/2026/11/22/l-artiste-romeo-mivekannin-reactive-la-memoire-des-zoos-humains-au-musee-du-quai-branly-a-paris_6814200_3246.html",
+  "publie_le": "2026-11-22T09:00:12.000Z",
+  "redige_le": "2026-11-22T11:17:29.051Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurdeco/bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a.webp",
+    "source": "wikimedia",
+    "credit": "Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license…",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_(10629).jpg",
+    "alt": "Le musée du quai Branly – Jacques Chirac, à Paris.",
+    "mots_cles": [
+      "Musée du quai Branly"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

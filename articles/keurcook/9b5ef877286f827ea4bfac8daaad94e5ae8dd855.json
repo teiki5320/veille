@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurcook",
+  "id": "9b5ef877286f827ea4bfac8daaad94e5ae8dd855",
+  "slug": "senegal-tambacounda-le-fonio-precuit-et-ses-recettes-cherchent-leur-9b5ef8",
+  "titre": "Sénégal : à Tambacounda, le fonio précuit et ses recettes cherchent leur public",
+  "chapo": "Petite graine des savanes du Sénégal oriental, le fonio garde une place à part dans les cuisines de Tambacounda et de Kédougou, mais il a encore du mal à s'imposer dans l'assiette de tous les jours.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le quotidien Le Soleil consacre une série de cinq reportages au fonio, à l'occasion de la Journée nationale qui lui est dédiée le 14 novembre. Au marché central de Tambacounda, la céréale se trouve sans difficulté, mais elle reste un produit de niche plus qu'un aliment de base.",
+        "Les acheteurs sont surtout des personnes âgées et des familles qui veulent varier leurs repas. Un commerçant du marché dit en écouler jusqu'à 100 kilos par mois."
+      ]
+    },
+    {
+      "intertitre": "Brut, pilé ou prêt à cuire",
+      "paragraphes": [
+        "Le fonio se vend à plusieurs stades de préparation. Selon la coopérative régionale des productrices, le kilo de fonio « badi », non pilé, coûte 1 000 francs CFA. Pilé mais pas lavé, il passe à 1 500 francs. Précuit, donc prêt à passer à la vapeur, il coûte de 2 000 à 2 500 francs.",
+        "Ce dernier format plaît aux clientes pressées : décortiquer et laver la graine minuscule demande beaucoup de temps et d'eau. Les prix montent aussi en saison sèche et baissent pendant l'hivernage."
+      ]
+    },
+    {
+      "intertitre": "Du couscous à la pizza",
+      "paragraphes": [
+        "Pour toucher plus de monde, les transformatrices élargissent la gamme. Le fonio se retrouve en couscous, en thiakry, ce dessert au lait caillé, en lakh, une bouillie servie avec une sauce lactée, mais aussi en gâteaux et même en pizzas.",
+        "Le principal frein reste la comparaison avec le riz, trois à quatre fois moins cher au kilo. Les productrices disent viser d'abord l'habitude des ménages plutôt que de gros bénéfices : leur marge ne dépasserait pas 250 francs par kilo."
+      ]
+    },
+    {
+      "intertitre": "Une filière encore artisanale",
+      "paragraphes": [
+        "Dans la région voisine de Kédougou, qui fournirait 30 à 40 % du fonio sénégalais, la récolte, le battage et le décorticage se font encore largement à la main, par des femmes. Les acteurs de la filière réclament des machines adaptées pour gagner du temps et améliorer la qualité de la graine qui arrive dans les cuisines."
+      ]
+    }
+  ],
+  "mots": 350,
+  "lecture_min": 2,
+  "theme": "cuisine",
+  "pays": [
+    "SN"
+  ],
+  "source_nom": "Le Soleil",
+  "source_url": "https://lesoleil.sn/actualites/economie/une-cereale-qui-cherche-sa-place-sur-le-marche-4-5/",
+  "autres_sources": [
+    "https://lesoleil.sn/actualites/economie/fonio-la-graine-qui-attend-toujours-son-heure-1-5/"
+  ],
+  "publie_le": "2026-11-21T20:30:09.000Z",
+  "redige_le": "2026-11-22T11:17:27.695Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurcook/9b5ef877286f827ea4bfac8daaad94e5ae8dd855.webp",
+    "source": "wikimedia",
+    "credit": "Gabbri.gabbri",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fonio_Grains_(Digitaria_Exilis).jpg",
+    "alt": "Grains de fonio, petite céréale cultivée en Afrique de l'Ouest.",
+    "mots_cles": [
+      "Fonio"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

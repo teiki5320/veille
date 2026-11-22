@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "24525ce70364f6d1608fbe62f124d1a1c2dde7ca",
+  "slug": "mondial-u17-le-cameroun-battu-2-1-par-le-venezuela-sa-liste-fait-debat-24525c",
+  "titre": "Mondial U17 : le Cameroun battu 2-1 par le Venezuela, sa liste fait débat",
+  "chapo": "Les Lionceaux ont mal démarré leur Coupe du monde au Qatar : battus 2-1 par le Venezuela samedi, ils voient aussi ressurgir une polémique sur la composition de leur groupe.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le Cameroun a perdu son premier match de la Coupe du monde des moins de 17 ans, samedi 21 novembre à Doha. Román Lozada a donné l'avantage au Venezuela à la 29e minute, puis Santiago Sánchez a creusé l'écart à l'heure de jeu.",
+        "Les Camerounais n'ont réduit le score que dans le temps additionnel, à dix contre onze après le carton rouge d'Eric Bolo, expulsé deux minutes avant la fin du temps réglementaire. Malgré 56 % de possession, ils n'ont cadré qu'une frappe, contre douze pour leurs adversaires. Le gardien Glory Missinga a évité une défaite plus large."
+      ]
+    },
+    {
+      "intertitre": "Dix joueurs venus de clubs étrangers",
+      "paragraphes": [
+        "Le sélectionneur Thomas Libiih a retenu 21 joueurs, dont dix formés ou inscrits dans des clubs européens, comme Manchester United, le Bayern Munich, Manchester City ou le Bayer Leverkusen. Face au Venezuela, le onze de départ en comptait quatre, et deux autres ont joué en cours de match.",
+        "Or un décret présidentiel de septembre 2014 prévoit que les sélections U15 et U17 soient composées uniquement de joueurs enregistrés dans les compétitions de la Fédération camerounaise. Selon Camfoot, ce texte n'a pas été modifié."
+      ]
+    },
+    {
+      "intertitre": "Une liste découverte par la FIFA",
+      "paragraphes": [
+        "Le média camerounais relève que quatre joueurs présents lors des quatre matchs de la CAN U17, qui a qualifié le pays, ne figurent pas dans le groupe. La liste n'avait pas été rendue publique par la Fécafoot, dirigée par Samuel Eto'o : elle est apparue sur le site de la FIFA alors que l'équipe était déjà au Qatar.",
+        "En 2019, le même sélectionneur avait dû écarter six binationaux en application de ce décret."
+      ]
+    },
+    {
+      "intertitre": "Deux matchs pour se relancer",
+      "paragraphes": [
+        "Le Cameroun doit désormais réagir lors de ses deux prochaines rencontres de groupe pour espérer atteindre la phase à élimination directe du tournoi, qui se dispute à Doha jusqu'en décembre."
+      ]
+    }
+  ],
+  "mots": 331,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "CM"
+  ],
+  "competition": "Coupe du monde U17",
+  "source_nom": "Camfoot",
+  "source_url": "https://www.camfoot.com/actualites/mondial-u17-malgre-le-decret-viole-les-lionceaux-battus-par-le-venezuela,560868.html",
+  "publie_le": "2026-11-22T06:24:05.000Z",
+  "redige_le": "2026-11-22T11:17:30.984Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/24525ce70364f6d1608fbe62f124d1a1c2dde7ca.webp",
+    "source": "wikimedia",
+    "credit": "km2bp @ Mapillary.com",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Wadi_Al_Gaiya_Street_in_Mehairja_from_Aspire_Zone_parking_lot.jpg",
+    "alt": "Joueurs de l'équipe du Cameroun des moins de 17 ans.",
+    "mots_cles": [
+      "Aspire Zone"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

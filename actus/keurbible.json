@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-21T18:15:44.987Z",
+  "genere_le": "2026-11-22T11:17:25.526Z",
   "actus": [
     {
       "id": "690b7c499779f4a3f404230f7a5602b1ffe2a527",
@@ -30,6 +30,36 @@
         "alt": "Portrait de sainte Joséphine Bakhita",
         "mots_cles": [
           "Josephine Bakhita"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "71f7a4b247871aa572403339cf446bd6f5b0fe24",
+      "titre": "Kenya : l'université catholique Tangaza fête ses 40 ans et bâtit un centre Benoît XVI",
+      "resume": "L'université catholique Tangaza, à Nairobi, célèbre ses 40 ans. Pour accueillir des étudiants toujours plus nombreux, elle construit un centre de ressources dédié au pape Benoît XVI, dont le coût est estimé à 4 millions d'euros, à moitié réunis.",
+      "theme": "culture",
+      "pays": [
+        "KE"
+      ],
+      "source_nom": "ACI Africa",
+      "source_url": "https://www.aciafrica.org/news/25503/at-40-kenyan-catholic-university-celebrates-growth-seeks-support-for-pope-benedict-xvi-resource-centre",
+      "publie_le": "2026-11-20T13:52:00.000Z",
+      "collecte_le": "2026-11-22T11:17:25.526Z",
+      "langue": "en",
+      "slug": "kenya-universite-catholique-tangaza-fete-ses-40-ans-et-batit-un-centre-71f7a4",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurbible/71f7a4b247871aa572403339cf446bd6f5b0fe24.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurbible/71f7a4b247871aa572403339cf446bd6f5b0fe24.webp",
+        "source": "wikimedia",
+        "credit": "WDKrause",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Papst_Benedikt_XVI_in_Berlin_2011.jpg",
+        "alt": "Bâtiment de l'université Tangaza à Nairobi, au Kenya.",
+        "mots_cles": [
+          "Pope Benedict XVI"
         ],
         "largeur": 1600,
         "hauteur": 900

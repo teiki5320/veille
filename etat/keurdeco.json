@@ -1,27 +1,5 @@
 {
   "deja_vus": {
-    "81998e593e4ab202d877efddac2ed628f7a301b6": "2026-11-11T18:16:21.707Z",
-    "21a295048770b4cf459a6e01ec26c8d61964d026": "2026-11-11T18:16:21.707Z",
-    "89062ed417915404dedd3ca382d38ede78d11446": "2026-11-11T18:16:21.707Z",
-    "e63200786aa4e3f970c55b79915c56938ec7a8e8": "2026-11-11T18:16:21.707Z",
-    "dacf4453c593fc5fb7130fc1bb299fdf0ec0a818": "2026-11-11T18:16:21.707Z",
-    "fd44de5b3506b1c138b63b5cec827a19bb91cd36": "2026-11-11T18:16:21.707Z",
-    "17245792febe85b5208a1f8ca6972ad74b915bbb": "2026-11-11T18:16:21.707Z",
-    "1230b252cf6bab08a31a9df3090530f489659c31": "2026-11-11T18:16:21.707Z",
-    "cdc71f2267612655858ded24f4b2ca9843caf275": "2026-11-11T18:16:21.707Z",
-    "667caffb3b549aeca4da3e0b6429e1159f00796d": "2026-11-11T18:16:21.707Z",
-    "d6709b5d246b2c58ef8ef5c815774cb57b0bd843": "2026-11-11T18:16:21.707Z",
-    "971e057a27eec8219071e33637d0cb87d3eecd68": "2026-11-11T18:16:21.707Z",
-    "a3e9521c9f21ec9f63b7981a778e97edbdb0e1d8": "2026-11-11T18:16:21.707Z",
-    "87729afc4306f0f5f7590d160862c2fc39661e8d": "2026-11-11T18:16:21.707Z",
-    "7319fab4085146358198ba94fdd8657f7e81e62b": "2026-11-11T18:16:21.707Z",
-    "ee4767da3b773e9d6fa5cfa75ccb584ab11bc0ff": "2026-11-11T18:16:21.707Z",
-    "752ed42cb8a5599ae541167d1759862aa35ec31b": "2026-11-11T18:16:21.707Z",
-    "fbe4dd27c21d81fac2de09d5b1035126ae89f9de": "2026-11-11T18:16:21.707Z",
-    "2fa817021b908900d4e59292e3ac43e64f7e7a6b": "2026-11-11T18:16:21.707Z",
-    "74e4ca12b25b5f24df86e9dc9947da918833dbbb": "2026-11-11T18:16:21.707Z",
-    "d724f40b35e4d00a2646bb7a5f58cc9ce79872b3": "2026-11-11T18:16:21.707Z",
-    "6a8de41aa868f220627cd698c2ca8766a8e0789f": "2026-11-11T18:16:21.707Z",
     "2b192073cb1f02c6447db0aca63ecaab69b89e85": "2026-11-12T11:18:14.394Z",
     "57c2aad9ae0cfe1a417dfb0410e2d6b4ed53d79a": "2026-11-12T11:18:14.394Z",
     "d3269241dab5632ef0624168b64312f85a1fc6fa": "2026-11-12T11:18:14.394Z",
@@ -672,57 +650,86 @@
     "a4d3a58f8f5cf07fbb33d2fd09d1e8c94010b04d": "2026-11-21T18:15:46.507Z",
     "c5e3bf5afdabdda9c4771ef15a43542757ad7c12": "2026-11-21T18:15:46.507Z",
     "4e8c4994015084d6ffbcc8af559d23a3550df1c6": "2026-11-21T18:15:46.507Z",
-    "28c5e59ddf0501d8ce9faf41c103245fb2a321e8": "2026-11-21T18:15:46.507Z"
+    "28c5e59ddf0501d8ce9faf41c103245fb2a321e8": "2026-11-21T18:15:46.507Z",
+    "9f44e507512c3f17e4793fcfaf79847559657761": "2026-11-22T11:17:29.051Z",
+    "3e4c27a8b1e39d555042dfa2d200c317d6907673": "2026-11-22T11:17:29.051Z",
+    "701ea35fbb6b08451ae67d70b075c9b78d58aa54": "2026-11-22T11:17:29.051Z",
+    "8b17948deb63b8f807a8b1000e4974b4fcdbebe6": "2026-11-22T11:17:29.051Z",
+    "bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a": "2026-11-22T11:17:29.051Z",
+    "5313a29d859aa826795682380dd9efeae496433c": "2026-11-22T11:17:29.051Z",
+    "a353769990d17b8405adf15b9bc3d0e0884f8f72": "2026-11-22T11:17:29.051Z",
+    "64e8d171eb27bcde692dd55494d1227d50905932": "2026-11-22T11:17:29.051Z",
+    "96ec987fab64da1ef727dae269a846598ce8b437": "2026-11-22T11:17:29.051Z",
+    "899c7f8bf4aa5b99fec84e4b366f1864454117d8": "2026-11-22T11:17:29.051Z",
+    "b2f2b73a4fc34ee36367da47bf0754fcad32ecb4": "2026-11-22T11:17:29.051Z",
+    "fd1ee6aba312b6e043372a7cceeed746f431cc69": "2026-11-22T11:17:29.051Z",
+    "229b0a3feaaf3738433b55827cb48d7b0e9a2f77": "2026-11-22T11:17:29.051Z",
+    "8cb28dab31067a05464f8196e87febe40ad4f67c": "2026-11-22T11:17:29.051Z",
+    "b432ce75f067d56a30cd1690b210a0c534a80098": "2026-11-22T11:17:29.051Z",
+    "05a1fbec6d668c44221cdb0c31efc7359842f9ec": "2026-11-22T11:17:29.051Z",
+    "42436f899a24678a15adf957674d0dd23d4bf5d0": "2026-11-22T11:17:29.051Z",
+    "a5be4958e67e308ca0116566d76d51459cda21da": "2026-11-22T11:17:29.051Z",
+    "0d0c2f284b2b05c5928847be9283b08bfbfc928c": "2026-11-22T11:17:29.051Z",
+    "4143483f9ae358ee28ee2a3dd0f199536d5f2342": "2026-11-22T11:17:29.051Z",
+    "9304204f65ba3faa43234438c2049adbdf26843a": "2026-11-22T11:17:29.051Z",
+    "d1f958f110cbaa92b9464b080a15859b1e9934d8": "2026-11-22T11:17:29.051Z",
+    "041bc73cada1eb6766009b3d2adaa8ad6655acbc": "2026-11-22T11:17:29.051Z",
+    "5f5f6ce15d060de4414ba390069365da4b519d7c": "2026-11-22T11:17:29.051Z",
+    "259319a6b1343c7c28bf30c3342e6c6c6551d4d0": "2026-11-22T11:17:29.051Z",
+    "e55a612854c31f2a1b5f9ea92567e42f9db09590": "2026-11-22T11:17:29.051Z",
+    "62807c2e14dfffbd4b99e43578684d6faad75b5c": "2026-11-22T11:17:29.051Z",
+    "acbf4374ba7e1f36adb3d03ccf12b808bd0884e0": "2026-11-22T11:17:29.051Z",
+    "51412bd033f4f243f71f4878695cb8293fe15483": "2026-11-22T11:17:29.051Z"
   },
   "flux": {
     "https://www.admagazine.fr/feed/rss": {
       "nom": "AD Magazine",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://ideat.fr/feed/": {
       "nom": "Ideat",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.connaissancedesarts.com/feed/": {
       "nom": "Connaissance des Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 3
     },
     "https://www.beauxarts.com/feed/": {
       "nom": "Beaux Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 2
     },
     "https://www.lejournaldesarts.fr/rss.xml": {
       "nom": "Le Journal des Arts",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/arts/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 3
     },
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 4
     },
     "https://africultures.com/feed/": {
       "nom": "Africultures",
@@ -734,103 +741,107 @@
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 4
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.dezeen.com/feed/": {
       "nom": "Dezeen",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 3
     },
     "https://www.designboom.com/feed/": {
       "nom": "Designboom",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 3
     },
     "https://www.wallpaper.com/feeds/all": {
       "nom": "Wallpaper*",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 4
     },
     "https://design-milk.com/feed/": {
       "nom": "Design Milk",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.designindaba.com/rss.xml": {
       "nom": "Design Indaba",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://maisonsdumaroc.com/feed": {
       "nom": "Maisons du Maroc",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://visi.co.za/feed/": {
       "nom": "Visi",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://artafricamagazine.org/feed/": {
       "nom": "Art Africa",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://10and5.com/feed/": {
       "nom": "10and5",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.bellanaija.com/category/style/feed/": {
       "nom": "BellaNaija",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://businessday.ng/category/life-arts/feed/": {
       "nom": "BusinessDay",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://afrocosmopolitan.com/feed": {
       "nom": "Afrocosmopolitan",
       "erreurs": 0,
-      "dernier_succes": "2026-11-21T18:12:08.263Z",
+      "dernier_succes": "2026-11-22T11:12:04.957Z",
       "derniere_erreur": null,
       "articles": 0
     }
   },
   "images_recentes": [
+    {
+      "id": "bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a",
+      "origine": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
     {
       "id": "c5e3bf5afdabdda9c4771ef15a43542757ad7c12",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -906,10 +917,6 @@
     {
       "id": "1800c757b22df0e64a98ea6137a112697b1e264b",
       "origine": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Siapm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-    },
-    {
-      "id": "0fcec28d7932163a65e918efc7069b282477888b",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Victoria_Island_Lagos_Nigeria_15006436297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     }
   ],
   "origines": {
@@ -954,7 +961,8 @@
     "8886ab6a4bea54381a731b38ce2284235fd7bde2": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mohammed_Awal_with_Artist_Ibrahim_Mahama%2C_Founder_of_Red_Clay_archive_center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "bc118539232ac6a0f7a61195d0d6b5c1ac1261dd": "https://upload.wikimedia.org/wikipedia/commons/2/29/Design_Museum_%282%29_%28geograph_5246509%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "ec36c93e22efbd8f830814d626d457b6843dd670": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Boulevard_Mohammed_V%2C_Casablanca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "c5e3bf5afdabdda9c4771ef15a43542757ad7c12": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "c5e3bf5afdabdda9c4771ef15a43542757ad7c12": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Le_grand_th%C3%A9%C3%A2tre_national_de_Rabat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
   },
   "refusees": {
     "d734265040b63a4476c6a3fcbabfd65eda96c16a": [

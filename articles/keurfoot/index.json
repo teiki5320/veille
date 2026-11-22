@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-21T18:15:48.032Z",
+  "genere_le": "2026-11-22T11:17:35.418Z",
   "articles": [
+    {
+      "id": "24525ce70364f6d1608fbe62f124d1a1c2dde7ca",
+      "slug": "mondial-u17-le-cameroun-battu-2-1-par-le-venezuela-sa-liste-fait-debat-24525c",
+      "titre": "Mondial U17 : le Cameroun battu 2-1 par le Venezuela, sa liste fait débat",
+      "publie_le": "2026-11-22T06:24:05.000Z",
+      "redige_le": "2026-11-22T11:17:30.984Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/24525ce70364f6d1608fbe62f124d1a1c2dde7ca.json"
+    },
+    {
+      "id": "e2f4b42582e142aba0fd1fff331e26fdcb5e2da3",
+      "slug": "football-feminin-la-caf-cree-une-can-des-moins-de-17-ans-premiere-e2f4b4",
+      "titre": "Football féminin : la CAF crée une CAN des moins de 17 ans, première édition en 2028",
+      "publie_le": "2026-11-21T22:30:15.000Z",
+      "redige_le": "2026-11-22T11:17:30.984Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/e2f4b42582e142aba0fd1fff331e26fdcb5e2da3.json"
+    },
+    {
+      "id": "75dfe92e68eca2d057acb10fbf9036b1f1273570",
+      "slug": "election-fifa-abuja-les-54-federations-de-la-caf-se-rangent-derriere-75dfe9",
+      "titre": "Élection FIFA : à Abuja, les 54 fédérations de la CAF se rangent derrière Infantino",
+      "publie_le": "2026-11-21T20:01:21.000Z",
+      "redige_le": "2026-11-22T11:17:30.984Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/75dfe92e68eca2d057acb10fbf9036b1f1273570.json"
+    },
     {
       "id": "fee3d4d071210c3f9ff46a84fadcebeac0d17885",
       "slug": "can-2025-edouard-mendy-raconte-comment-il-fait-douter-brahim-diaz-fee3d4",

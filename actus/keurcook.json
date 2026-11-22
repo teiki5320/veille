@@ -1,8 +1,41 @@
 {
   "version": 3,
   "site": "keurcook",
-  "genere_le": "2026-11-21T18:15:46.493Z",
+  "genere_le": "2026-11-22T11:17:27.695Z",
   "actus": [
+    {
+      "id": "9b5ef877286f827ea4bfac8daaad94e5ae8dd855",
+      "titre": "Sénégal : à Tambacounda, le fonio précuit et ses recettes cherchent leur public",
+      "resume": "Au Sénégal, le fonio peine encore à devenir un aliment courant. À Tambacounda, les productrices le vendent brut, pilé ou précuit et le déclinent en couscous, thiakry, lakh, bouillie ou gâteaux pour séduire les familles, face à un riz bien moins cher.",
+      "theme": "cuisine",
+      "pays": [
+        "SN"
+      ],
+      "source_nom": "Le Soleil",
+      "source_url": "https://lesoleil.sn/actualites/economie/une-cereale-qui-cherche-sa-place-sur-le-marche-4-5/",
+      "autres_sources": [
+        "https://lesoleil.sn/actualites/economie/fonio-la-graine-qui-attend-toujours-son-heure-1-5/"
+      ],
+      "publie_le": "2026-11-21T20:30:09.000Z",
+      "collecte_le": "2026-11-22T11:17:27.695Z",
+      "langue": "fr",
+      "slug": "senegal-tambacounda-le-fonio-precuit-et-ses-recettes-cherchent-leur-9b5ef8",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurcook/9b5ef877286f827ea4bfac8daaad94e5ae8dd855.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurcook/9b5ef877286f827ea4bfac8daaad94e5ae8dd855.webp",
+        "source": "wikimedia",
+        "credit": "Gabbri.gabbri",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Fonio_Grains_(Digitaria_Exilis).jpg",
+        "alt": "Grains de fonio, petite céréale cultivée en Afrique de l'Ouest.",
+        "mots_cles": [
+          "Fonio"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "b5657291a99e73086c28b4f6d52171af387c3084",
       "titre": "Le Cap : 36 restaurants du V&A Waterfront signalent les poissons sud-africains durables",

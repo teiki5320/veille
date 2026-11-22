@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "75dfe92e68eca2d057acb10fbf9036b1f1273570",
+  "slug": "election-fifa-abuja-les-54-federations-de-la-caf-se-rangent-derriere-75dfe9",
+  "titre": "Élection FIFA : à Abuja, les 54 fédérations de la CAF se rangent derrière Infantino",
+  "chapo": "Samedi à Abuja, l'Afrique du football a choisi son camp pour la présidence de la FIFA : Gianni Infantino a reçu l'appui des 54 fédérations de la CAF, sous les yeux de son adversaire Philippe Diallo.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La 48e assemblée générale ordinaire de la Confédération africaine de football s'est tenue samedi 21 novembre dans la capitale nigériane. Son président, le Sud-Africain Patrice Motsepe, a invité les présidents des fédérations à se lever pour saluer Gianni Infantino, venu en personne. La salle s'est exécutée, et Patrice Motsepe a redit que l'Afrique soutenait en bloc le dirigeant italo-suisse.",
+        "Philippe Diallo, patron de la FFF, candidat face à Gianni Infantino, assistait à la séance. Il avait fait le déplacement au Nigeria pour tenter de convaincre des électeurs africains."
+      ]
+    },
+    {
+      "intertitre": "Une aide de la FIFA plus que triplée",
+      "paragraphes": [
+        "Le patron de la FIFA, qui brigue un troisième mandat lors du scrutin prévu le 18 mars, a annoncé une forte hausse des fonds versés aux fédérations du continent. L'enveloppe passerait de 8 à 25 millions de dollars sur quatre ans, à compter de janvier 2027.",
+        "Le poids électoral de l'Afrique explique l'enjeu : chaque fédération dispose d'une voix au congrès de la FIFA, et le continent en compte 54, soit le plus gros bloc."
+      ]
+    },
+    {
+      "intertitre": "Des comptes revenus dans le vert",
+      "paragraphes": [
+        "La CAF a profité de la réunion pour publier ses états financiers. Elle fait état d'un résultat net de 31,2 millions de dollars et de recettes portées à 284 millions, soit une progression de plus de 200 % en cinq ans. Ses réserves, déficitaires de 16,8 millions, affichent désormais un excédent de 14,4 millions de dollars.",
+        "Patrice Motsepe, élu en 2021, avait trouvé une confédération endettée de plus de 100 millions de dollars, selon l'instance."
+      ]
+    },
+    {
+      "intertitre": "Le kiswahili rejoint les langues de l'instance",
+      "paragraphes": [
+        "Autre décision marquante, l'assemblée a fait du kiswahili une langue officielle de la CAF, aux côtés notamment du français et de l'anglais. Parlé par des dizaines de millions de personnes en Afrique de l'Est, il pourra servir aux commentaires des matchs proposés aux télévisions partenaires. La CAN 2027 doit justement se jouer au Kenya, en Ouganda et en Tanzanie."
+      ]
+    }
+  ],
+  "mots": 354,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "NG"
+  ],
+  "competition": null,
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/les-3-chiffres-xxl-a-retenir-de-lassemblee-generale-de-la-caf",
+  "autres_sources": [
+    "https://www.lequipe.fr/Football/Article/Une-ovation-pour-gianni-infantino-a-l-assemblee-generale-de-la-caf-un-camouflet-pour-philippe-diallo-dur-debut-de-campagne-pour-le-president-de-la-fff/1745234",
+    "https://africatopsports.com/caf/caf-le-kiswahili-officiellement-adopte-parmi-les-langues-de-linstance/"
+  ],
+  "publie_le": "2026-11-21T20:01:21.000Z",
+  "redige_le": "2026-11-22T11:17:30.984Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/75dfe92e68eca2d057acb10fbf9036b1f1273570.webp",
+    "source": "wikimedia",
+    "credit": "United Nations Office on Drugs and Crime",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gianni_Infantino_(2020).jpg",
+    "alt": "Gianni Infantino, président de la FIFA, lors d'un événement officiel.",
+    "mots_cles": [
+      "Gianni Infantino"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

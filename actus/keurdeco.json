@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurdeco",
-  "genere_le": "2026-11-21T18:15:46.507Z",
+  "genere_le": "2026-11-22T11:17:29.051Z",
   "actus": [
+    {
+      "id": "bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a",
+      "titre": "Quai Branly : Roméo Mivekannin peint la mémoire des zoos humains sur de grands draps",
+      "resume": "À Paris, le musée du quai Branly accueille l'artiste franco-béninois Roméo Mivekannin et ses toiles tirées de photographies de ses collections. Il y reproduit à taille réelle des personnes exhibées au XIXe siècle et y glisse son propre visage.",
+      "theme": "deco",
+      "pays": [
+        "BJ",
+        "FR"
+      ],
+      "source_nom": "Le Monde",
+      "source_url": "https://www.lemonde.fr/culture/article/2026/11/22/l-artiste-romeo-mivekannin-reactive-la-memoire-des-zoos-humains-au-musee-du-quai-branly-a-paris_6814200_3246.html",
+      "publie_le": "2026-11-22T09:00:12.000Z",
+      "collecte_le": "2026-11-22T11:17:29.051Z",
+      "langue": "fr",
+      "slug": "quai-branly-romeo-mivekannin-peint-la-memoire-des-zoos-humains-sur-de-bb65fe",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurdeco/bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurdeco/bb65fe821e946d5d2b8ac8ec5913d796b7b82b9a.webp",
+        "source": "wikimedia",
+        "credit": "Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license…",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_(10629).jpg",
+        "alt": "Le musée du quai Branly – Jacques Chirac, à Paris.",
+        "mots_cles": [
+          "Musée du quai Branly"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "c5e3bf5afdabdda9c4771ef15a43542757ad7c12",
       "titre": "Rabat : ZHA achève le Théâtre royal, son tout premier bâtiment en Afrique",

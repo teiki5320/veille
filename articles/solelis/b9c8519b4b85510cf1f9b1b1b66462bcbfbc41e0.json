@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "b9c8519b4b85510cf1f9b1b1b66462bcbfbc41e0",
+  "slug": "toulouse-une-table-etoilee-du-capitole-perd-20-de-clients-et-serre-ses-b9c851",
+  "titre": "Toulouse : une table étoilée du Capitole perd 20 % de clients et serre ses dépenses",
+  "chapo": "Même une adresse étoilée, installée depuis vingt ans au cœur de Toulouse, sent passer la crise : sa fréquentation a reculé d'un cinquième en 2026, rapporte La Dépêche du Midi.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le restaurant gastronomique, situé place du Capitole et distingué par le guide Michelin depuis 2012, fête ses 20 ans dans un contexte difficile. Son chef et dirigeant évoque une baisse de 20 % du nombre de clients par rapport à 2025, qu'il qualifie d'énorme.",
+        "Le remplissage est devenu irrégulier : certains services sont presque vides, d'autres corrects, avec une vingtaine de tables réservées un midi ordinaire."
+      ]
+    },
+    {
+      "intertitre": "Coûts en hausse, ticket sous pression",
+      "paragraphes": [
+        "Le patron cite trois causes : le prix des matières premières, des charges plus lourdes et des ménages qui dépensent moins. Pour tenir, il limite les recrutements, surveille chaque dépense et accepte de réduire ses marges afin de rester attractif.",
+        "Il résume le dilemme de ses clients : un repas au restaurant relève du plaisir, pas du besoin, et c'est souvent la première dépense supprimée. Devant sa porte, une adresse de type bouillon, aux prix bas, attire de longues files d'attente."
+      ]
+    },
+    {
+      "intertitre": "Une formule bistrot pour élargir la clientèle",
+      "paragraphes": [
+        "Depuis août, l'annexe plus décontractée de la maison propose un menu complet à 25 euros, midi et soir, autour de plats classiques comme le chou farci, la daube ou la blanquette. L'idée est d'attirer une clientèle qui ne pousse plus la porte de la salle gastronomique.",
+        "Le chef diversifie aussi ses revenus : missions de conseil pour d'autres établissements et activité de traiteur avec un camion."
+      ]
+    },
+    {
+      "intertitre": "Un secteur sous tension",
+      "paragraphes": [
+        "Ce témoignage rejoint les alertes d'autres restaurateurs étoilés sur la baisse de fréquentation. Pour un dirigeant de TPE dans la restauration, une chute durable de l'activité fragilise vite la trésorerie. En cas de difficulté, des dispositifs existent : conciliation auprès du tribunal des activités économiques, médiation du crédit ou plan d'étalement des dettes fiscales et sociales via la CCSF."
+      ]
+    }
+  ],
+  "mots": 319,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/22/reportage-les-jardins-de-lopera-pour-ses-20-ans-place-du-capitole-le-restaurant-etoile-toulousain-doit-faire-face-a-une-baisse-enorme-de-frequentation-13658925.php",
+  "publie_le": "2026-11-22T05:19:02.000Z",
+  "redige_le": "2026-11-22T11:17:36.780Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/b9c8519b4b85510cf1f9b1b1b66462bcbfbc41e0.webp",
+    "source": "openverse",
+    "credit": "Seattle Municipal Archives",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/24256351@N04/2692476103",
+    "alt": "La salle ou la cuisine d'un restaurant.",
+    "mots_cles": [
+      "restaurant kitchen chef"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

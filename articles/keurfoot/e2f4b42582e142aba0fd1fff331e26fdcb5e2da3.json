@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "e2f4b42582e142aba0fd1fff331e26fdcb5e2da3",
+  "slug": "football-feminin-la-caf-cree-une-can-des-moins-de-17-ans-premiere-e2f4b4",
+  "titre": "Football féminin : la CAF crée une CAN des moins de 17 ans, première édition en 2028",
+  "chapo": "Les jeunes joueuses africaines auront bientôt leur propre championnat continental : la CAF a approuvé samedi la création d'une CAN féminine réservée aux moins de 17 ans.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'annonce a été faite par Patrice Motsepe, président de la Confédération africaine de football, lors de l'assemblée générale réunie le 21 novembre à Abuja, au Nigeria. Le comité exécutif a donné son feu vert à cette nouvelle épreuve.",
+        "Le calendrier est déjà posé. La phase finale inaugurale doit se disputer en mars et avril 2028. Les matchs de qualification commenceraient un an plus tôt, en avril 2027."
+      ]
+    },
+    {
+      "intertitre": "Un pays hôte encore à désigner",
+      "paragraphes": [
+        "La CAF a ouvert dans la foulée la course à l'organisation. Les fédérations intéressées ont trois semaines pour déposer leur dossier. Un appel du même type a été lancé pour la CAN féminine senior de 2028.",
+        "L'instance présente ce tournoi comme un moyen de donner plus de visibilité aux adolescentes, de les habituer au haut niveau et de mieux préparer la relève des équipes nationales A."
+      ]
+    },
+    {
+      "intertitre": "Quel lien avec le Mondial ?",
+      "paragraphes": [
+        "Chez les garçons, la CAN U17 sert de qualification pour le Mondial des moins de 17 ans. Pour les filles, l'instance ne précise pas encore si la nouvelle compétition jouera ce rôle.",
+        "Jusqu'ici, les équipes féminines africaines gagnaient leur billet par trois tours à élimination directe, en matchs aller et retour, les quatre derniers vainqueurs filant au tournoi mondial. Lors de la dernière édition, organisée cet automne par le Maroc, qui s'est achevée le 7 novembre, le continent avait exceptionnellement cinq représentants : Ghana, Kenya, Nigeria et Zambie, plus le Maroc, qualifié d'office comme hôte."
+      ]
+    },
+    {
+      "intertitre": "Une compétition de plus au calendrier",
+      "paragraphes": [
+        "Cette création s'ajoute aux épreuves féminines déjà gérées par la CAF, dont la CAN des seniors et la Ligue des champions féminine. Les modalités du tournoi, nombre d'équipes et format, restent à préciser dans les prochains mois."
+      ]
+    }
+  ],
+  "mots": 310,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "NG"
+  ],
+  "competition": "CAN féminine U17",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/la-caf-lance-une-nouvelle-competition",
+  "autres_sources": [
+    "https://africatopsports.com/afrique-football/football-feminin-une-can-u17-bientot-au-programme-des-competitions-de-la-caf/"
+  ],
+  "publie_le": "2026-11-21T22:30:15.000Z",
+  "redige_le": "2026-11-22T11:17:30.984Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/e2f4b42582e142aba0fd1fff331e26fdcb5e2da3.webp",
+    "source": "wikimedia",
+    "credit": "Premiero",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:CAF_headquarter.jpg",
+    "alt": "Logo ou symbole de la Confédération africaine de football.",
+    "mots_cles": [
+      "Confederation of African Football"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

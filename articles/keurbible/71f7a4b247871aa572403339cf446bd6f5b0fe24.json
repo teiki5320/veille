@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "71f7a4b247871aa572403339cf446bd6f5b0fe24",
+  "slug": "kenya-universite-catholique-tangaza-fete-ses-40-ans-et-batit-un-centre-71f7a4",
+  "titre": "Kenya : l'université catholique Tangaza fête ses 40 ans et bâtit un centre Benoît XVI",
+  "chapo": "À Nairobi, l'université catholique Tangaza marque ses quarante ans d'existence en poursuivant un chantier : un centre de ressources qui portera le nom du pape Benoît XVI.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le père Edward Etengu, chancelier de l'établissement, a présenté cet anniversaire à l'agence ACI Africa le jeudi 19 novembre. Il s'exprimait en marge d'une conférence panafricaine organisée dans la capitale kényane.",
+        "Selon lui, la hausse du nombre d'étudiants rend les locaux actuels trop étroits. Le futur bâtiment doit répondre à cette pression et offrir de nouveaux espaces de travail."
+      ]
+    },
+    {
+      "intertitre": "Un chantier lié au statut d'université",
+      "paragraphes": [
+        "Tangaza a obtenu en 2024 sa charte d'université de plein exercice. Cette reconnaissance s'accompagnait d'une obligation : agrandir ses infrastructures. Le centre de ressources en est la réponse.",
+        "Les travaux ont atteint le troisième étage, et deux niveaux restent à construire. Le coût total est évalué à 4 millions d'euros, environ 600 millions de shillings kényans. La moitié de la somme serait déjà rassemblée, et l'université sollicite des donateurs au Kenya et en Europe."
+      ]
+    },
+    {
+      "intertitre": "Le choix de Benoît XVI",
+      "paragraphes": [
+        "Le chancelier, moine bénédictin, explique avoir voulu honorer un pape qu'il décrit comme un grand intellectuel, attaché aux Écritures et aux livres. Il espère que ce nom incitera les étudiants, en particulier ceux qui se préparent au sacerdoce, à soigner leur formation intellectuelle autant que leur vie spirituelle.",
+        "Le pape allemand, mort le 31 décembre 2022, a dirigé l'Église catholique de 2005 à 2013."
+      ]
+    },
+    {
+      "intertitre": "Une conférence sur l'espérance",
+      "paragraphes": [
+        "L'anniversaire coïncide avec le colloque international organisé du 19 au 21 novembre par la Fondation vaticane Joseph Ratzinger-Benoît XVI, avec Tangaza et l'université Saint Mary's du Minnesota. Théologiens et responsables d'Église y ont réfléchi au renouveau de l'Église en Afrique à partir de la pensée de Benoît XVI : éducation, formation des prêtres et des religieux, liturgie et vie publique.",
+        "Fondée il y a quatre décennies par des congrégations religieuses, Tangaza forme aujourd’hui des laïcs comme des futurs prêtres, religieux et religieuses venus de plusieurs pays du continent."
+      ]
+    }
+  ],
+  "mots": 327,
+  "lecture_min": 1,
+  "theme": "culture",
+  "pays": [
+    "KE"
+  ],
+  "source_nom": "ACI Africa",
+  "source_url": "https://www.aciafrica.org/news/25503/at-40-kenyan-catholic-university-celebrates-growth-seeks-support-for-pope-benedict-xvi-resource-centre",
+  "publie_le": "2026-11-20T13:52:00.000Z",
+  "redige_le": "2026-11-22T11:17:25.526Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/71f7a4b247871aa572403339cf446bd6f5b0fe24.webp",
+    "source": "wikimedia",
+    "credit": "WDKrause",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Papst_Benedikt_XVI_in_Berlin_2011.jpg",
+    "alt": "Bâtiment de l'université Tangaza à Nairobi, au Kenya.",
+    "mots_cles": [
+      "Pope Benedict XVI"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

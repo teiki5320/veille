@@ -1,8 +1,108 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-21T18:15:47.996Z",
+  "genere_le": "2026-11-22T11:17:30.984Z",
   "actus": [
+    {
+      "id": "24525ce70364f6d1608fbe62f124d1a1c2dde7ca",
+      "titre": "Mondial U17 : le Cameroun battu 2-1 par le Venezuela, sa liste fait débat",
+      "resume": "Pour son entrée en Coupe du monde U17 au Qatar, le Cameroun s'est incliné 2-1 face au Venezuela. Dix des 21 joueurs retenus évoluent dans des clubs étrangers, alors qu'un décret de 2014 réserve cette sélection aux joueurs des compétitions de la Fécafoot.",
+      "theme": "foot",
+      "pays": [
+        "CM"
+      ],
+      "competition": "Coupe du monde U17",
+      "source_nom": "Camfoot",
+      "source_url": "https://www.camfoot.com/actualites/mondial-u17-malgre-le-decret-viole-les-lionceaux-battus-par-le-venezuela,560868.html",
+      "publie_le": "2026-11-22T06:24:05.000Z",
+      "collecte_le": "2026-11-22T11:17:30.984Z",
+      "langue": "fr",
+      "slug": "mondial-u17-le-cameroun-battu-2-1-par-le-venezuela-sa-liste-fait-debat-24525c",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/24525ce70364f6d1608fbe62f124d1a1c2dde7ca.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/24525ce70364f6d1608fbe62f124d1a1c2dde7ca.webp",
+        "source": "wikimedia",
+        "credit": "km2bp @ Mapillary.com",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:View_of_Wadi_Al_Gaiya_Street_in_Mehairja_from_Aspire_Zone_parking_lot.jpg",
+        "alt": "Joueurs de l'équipe du Cameroun des moins de 17 ans.",
+        "mots_cles": [
+          "Aspire Zone"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "e2f4b42582e142aba0fd1fff331e26fdcb5e2da3",
+      "titre": "Football féminin : la CAF crée une CAN des moins de 17 ans, première édition en 2028",
+      "resume": "Le comité exécutif de la CAF a validé à Abuja la naissance d'une CAN réservée aux joueuses de moins de 17 ans. Le premier tournoi est prévu en mars-avril 2028, après des éliminatoires lancés en avril 2027. Un appel aux pays candidats à l'organisation est ouvert.",
+      "theme": "foot",
+      "pays": [
+        "NG"
+      ],
+      "competition": "CAN féminine U17",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/la-caf-lance-une-nouvelle-competition",
+      "autres_sources": [
+        "https://africatopsports.com/afrique-football/football-feminin-une-can-u17-bientot-au-programme-des-competitions-de-la-caf/"
+      ],
+      "publie_le": "2026-11-21T22:30:15.000Z",
+      "collecte_le": "2026-11-22T11:17:30.984Z",
+      "langue": "fr",
+      "slug": "football-feminin-la-caf-cree-une-can-des-moins-de-17-ans-premiere-e2f4b4",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e2f4b42582e142aba0fd1fff331e26fdcb5e2da3.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/e2f4b42582e142aba0fd1fff331e26fdcb5e2da3.webp",
+        "source": "wikimedia",
+        "credit": "Premiero",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:CAF_headquarter.jpg",
+        "alt": "Logo ou symbole de la Confédération africaine de football.",
+        "mots_cles": [
+          "Confederation of African Football"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "75dfe92e68eca2d057acb10fbf9036b1f1273570",
+      "titre": "Élection FIFA : à Abuja, les 54 fédérations de la CAF se rangent derrière Infantino",
+      "resume": "Réunie en assemblée générale à Abuja, la CAF a affiché un soutien unanime à Gianni Infantino pour l'élection à la présidence de la FIFA, devant son rival Philippe Diallo. L'instance a aussi présenté des comptes redressés et fait du kiswahili l'une de ses langues officielles.",
+      "theme": "foot",
+      "pays": [
+        "NG"
+      ],
+      "competition": null,
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/les-3-chiffres-xxl-a-retenir-de-lassemblee-generale-de-la-caf",
+      "autres_sources": [
+        "https://www.lequipe.fr/Football/Article/Une-ovation-pour-gianni-infantino-a-l-assemblee-generale-de-la-caf-un-camouflet-pour-philippe-diallo-dur-debut-de-campagne-pour-le-president-de-la-fff/1745234",
+        "https://africatopsports.com/caf/caf-le-kiswahili-officiellement-adopte-parmi-les-langues-de-linstance/"
+      ],
+      "publie_le": "2026-11-21T20:01:21.000Z",
+      "collecte_le": "2026-11-22T11:17:30.984Z",
+      "langue": "fr",
+      "slug": "election-fifa-abuja-les-54-federations-de-la-caf-se-rangent-derriere-75dfe9",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/75dfe92e68eca2d057acb10fbf9036b1f1273570.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/75dfe92e68eca2d057acb10fbf9036b1f1273570.webp",
+        "source": "wikimedia",
+        "credit": "United Nations Office on Drugs and Crime",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Gianni_Infantino_(2020).jpg",
+        "alt": "Gianni Infantino, président de la FIFA, lors d'un événement officiel.",
+        "mots_cles": [
+          "Gianni Infantino"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "fee3d4d071210c3f9ff46a84fadcebeac0d17885",
       "titre": "CAN 2025 : Édouard Mendy raconte comment il a fait douter Brahim Díaz avant sa panenka",
@@ -1954,116 +2054,6 @@
         "alt": "Claude Le Roy, sélectionneur du Congo",
         "mots_cles": [
           "Claude Le Roy"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "9a39ed6510e1fdd7880550b6387f749c401aaadc",
-      "titre": "Cameroun : Baleba blessé renonce à la Namibie, David Pagou rappelle Ryan Fosso",
-      "resume": "Touché aux ischio-jambiers avec Manchester United contre la Roma, Carlos Baleba manquera les deux matchs du Cameroun face à la Namibie, les 12 et 16 novembre. Le sélectionneur David Pagou le remplace par Ryan Fosso, milieu de 24 ans du Standard de Liège.",
-      "theme": "foot",
-      "pays": [
-        "CM"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/le-cameroun-a-choisi-le-remplacant-de-carlos-baleba",
-      "autres_sources": [
-        "https://www.camfoot.com/actualites/cameroun-namibie-baleba-forfait-ryan-fosso-appele-en-renfort,559877.html",
-        "https://www.lequipe.fr/Football/Actualites/Touche-contre-l-as-rome-en-ligue-des-champions-carlos-baleba-sera-absent-plusieurs-semaines-avec-manchester-united/1741671"
-      ],
-      "publie_le": "2026-11-06T12:10:16.000Z",
-      "collecte_le": "2026-11-06T18:18:10.037Z",
-      "langue": "fr",
-      "slug": "cameroun-baleba-blesse-renonce-la-namibie-david-pagou-rappelle-ryan-9a39ed",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9a39ed6510e1fdd7880550b6387f749c401aaadc.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/9a39ed6510e1fdd7880550b6387f749c401aaadc.webp",
-        "source": "wikimedia",
-        "credit": "Timmy96",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Carlos_Baleba_24012026_(4).jpg",
-        "alt": "Le milieu de terrain camerounais Carlos Baleba",
-        "mots_cles": [
-          "Carlos Baleba"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "204f53d7369bdb94db5c3648fc6c3fbbf7916d0d",
-      "titre": "RD Congo : 26 Léopards face à la Sierra Leone, toujours sans Paris Brunner",
-      "resume": "Sébastien Desabre a publié vendredi sa liste de 26 joueurs pour les deux matchs contre la Sierra Leone, les 12 et 17 novembre, en éliminatoires de la CAN 2027. Bakambu, Wissa et Mbemba en font partie ; le Monégasque Paris Brunner n'est pas appelé.",
-      "theme": "foot",
-      "pays": [
-        "CD",
-        "SL"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Africa Top Sports",
-      "source_url": "https://africatopsports.com/afrique-football/elim-can-2027-mbemba-wissa-bakambu-decouvrez-les-26-leopards-convoques-contre-la-sierra-leone/",
-      "autres_sources": [
-        "https://www.footmercato.net/a1443449439356750785-la-liste-du-rd-congo-avec-banzuzi-mais-toujours-sans-brunner",
-        "https://foot-africa.com/actualites/rdc-sebastien-desabre-devoile-sa-liste-face-a-la-sierra-leone-officiel-1411391/"
-      ],
-      "publie_le": "2026-11-06T10:17:39.000Z",
-      "collecte_le": "2026-11-06T11:20:32.353Z",
-      "langue": "fr",
-      "slug": "rd-congo-26-leopards-face-la-sierra-leone-toujours-sans-paris-brunner-204f53",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/204f53d7369bdb94db5c3648fc6c3fbbf7916d0d.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/204f53d7369bdb94db5c3648fc6c3fbbf7916d0d.webp",
-        "source": "wikimedia",
-        "credit": "Sdesabre",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Desabre.JPG",
-        "alt": "Sébastien Desabre, sélectionneur de la RD Congo",
-        "mots_cles": [
-          "Sébastien Desabre"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "6cdb3bc4b14b136afccfd50b6cebdc7cbd996311",
-      "titre": "Amine Gouiri offre à l'OM sa première victoire européenne de la saison à Leverkusen",
-      "resume": "L'attaquant international algérien a inscrit l'unique but du match à la 77e minute, jeudi 5 novembre, en Ligue Europa. Marseille, battu lors des trois premières journées, prend ses premiers points mais ne figure pas encore parmi les 24 premiers du classement.",
-      "theme": "foot",
-      "pays": [
-        "DZ",
-        "FR"
-      ],
-      "competition": "Ligue Europa",
-      "source_nom": "Foot Mercato",
-      "source_url": "https://www.footmercato.net/a7832125042246191976-ligue-europa-lom-decroche-son-premier-succes-a-leverkusen-kolo-muani-porte-la-juventus",
-      "autres_sources": [
-        "https://www.footmercato.net/a7669702944867748179-om-la-reaction-a-chaud-du-heros-amine-gouiri",
-        "https://www.footmercato.net/a8363122841052968548-om-le-bijou-damine-gouiri-contre-leverkusen",
-        "https://www.lequipe.fr/Football/Actualites/Amine-gouiri-a-remis-son-costume-de-sauveur-a-leverkusen-et-s-impose-comme-le-nouvel-homme-fort-de-l-om/1741505",
-        "https://www.lequipe.fr/Football/Actualites/Avec-un-bijou-d-amine-gouiri-l-om-l-emporte-a-leverkusen-et-se-relance-en-ligue-europa/1741488",
-        "https://www.lequipe.fr/Football/Article/Les-notes-de-bayer-leverkusen-om-gouiri-enchaine-aguerd-dissuade/1741494"
-      ],
-      "publie_le": "2026-11-05T21:57:20.000Z",
-      "collecte_le": "2026-11-06T11:20:32.353Z",
-      "langue": "fr",
-      "slug": "amine-gouiri-offre-om-sa-premiere-victoire-europeenne-de-la-saison-6cdb3b",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/6cdb3bc4b14b136afccfd50b6cebdc7cbd996311.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/6cdb3bc4b14b136afccfd50b6cebdc7cbd996311.webp",
-        "source": "wikimedia",
-        "credit": "Laura Jonin",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Amine_Gouiri_(2017).jpg",
-        "alt": "L'attaquant algérien Amine Gouiri",
-        "mots_cles": [
-          "Amine Gouiri"
         ],
         "largeur": 1600,
         "hauteur": 900

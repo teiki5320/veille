@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-21T18:15:48.054Z",
+  "genere_le": "2026-11-22T11:17:36.773Z",
   "articles": [
+    {
+      "id": "768af74f79e50bd5338f3079a3413d4bb493d28d",
+      "slug": "plantes-vertes-interieur-liquide-batonnets-ou-granules-quel-engrais-768af7",
+      "titre": "Plantes vertes d'intérieur : liquide, bâtonnets ou granulés, quel engrais choisir ?",
+      "publie_le": "2026-11-21T23:01:02.000Z",
+      "redige_le": "2026-11-22T11:17:35.425Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/768af74f79e50bd5338f3079a3413d4bb493d28d.json"
+    },
     {
       "id": "fb9f7eb2347dff329d3f5f38bd286ebd7c35597a",
       "slug": "rwanda-upgrow-importe-ses-premieres-tours-aeroponiques-pour-cultiver-fb9f7e",

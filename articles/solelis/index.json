@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-21T18:16:27.139Z",
+  "genere_le": "2026-11-22T11:17:38.783Z",
   "articles": [
+    {
+      "id": "b9c8519b4b85510cf1f9b1b1b66462bcbfbc41e0",
+      "slug": "toulouse-une-table-etoilee-du-capitole-perd-20-de-clients-et-serre-ses-b9c851",
+      "titre": "Toulouse : une table étoilée du Capitole perd 20 % de clients et serre ses dépenses",
+      "publie_le": "2026-11-22T05:19:02.000Z",
+      "redige_le": "2026-11-22T11:17:36.780Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/b9c8519b4b85510cf1f9b1b1b66462bcbfbc41e0.json"
+    },
     {
       "id": "c2107aca0cc29b46e9832021440994291edcd30f",
       "slug": "marmande-une-verrerie-arret-depuis-aout-voit-ses-clients-partir-c2107a",

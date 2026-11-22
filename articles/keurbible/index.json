@@ -1,7 +1,7 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-21T18:15:45.022Z",
+  "genere_le": "2026-11-22T11:17:27.680Z",
   "articles": [
     {
       "id": "690b7c499779f4a3f404230f7a5602b1ffe2a527",
@@ -10,6 +10,14 @@
       "publie_le": "2026-11-20T20:55:00.000Z",
       "redige_le": "2026-11-21T11:20:00.102Z",
       "url": "https://teiki5320.github.io/veille/articles/keurbible/690b7c499779f4a3f404230f7a5602b1ffe2a527.json"
+    },
+    {
+      "id": "71f7a4b247871aa572403339cf446bd6f5b0fe24",
+      "slug": "kenya-universite-catholique-tangaza-fete-ses-40-ans-et-batit-un-centre-71f7a4",
+      "titre": "Kenya : l'université catholique Tangaza fête ses 40 ans et bâtit un centre Benoît XVI",
+      "publie_le": "2026-11-20T13:52:00.000Z",
+      "redige_le": "2026-11-22T11:17:25.526Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/71f7a4b247871aa572403339cf446bd6f5b0fe24.json"
     },
     {
       "id": "0b84e2632415ece7d51143fffe39fb06fd3f280b",

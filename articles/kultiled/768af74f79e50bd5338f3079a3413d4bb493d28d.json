@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "768af74f79e50bd5338f3079a3413d4bb493d28d",
+  "slug": "plantes-vertes-interieur-liquide-batonnets-ou-granules-quel-engrais-768af7",
+  "titre": "Plantes vertes d'intérieur : liquide, bâtonnets ou granulés, quel engrais choisir ?",
+  "chapo": "Une plante d'intérieur vit sur une réserve limitée de terreau. Lui apporter de l'engrais, sous la bonne forme et au bon moment, l'aide à garder un feuillage dense et bien vert.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le site de jardinage Gerbeaud a remis à jour, le 21 novembre, son guide sur la fertilisation des plantes vertes d'intérieur. Le principe de départ est simple : dans un pot, les racines puisent les nutriments du substrat, et l'eau d'arrosage en emporte une partie. Le mélange s'épuise donc avec le temps.",
+        "Pilea, calathea, caladium et autres plantes cultivées pour leurs feuilles réclament surtout de l'azote, l'élément qui favorise la croissance des feuilles."
+      ]
+    },
+    {
+      "intertitre": "Cinq façons de nourrir un pot",
+      "paragraphes": [
+        "L'engrais liquide, dilué dans l'eau d'arrosage, agit vite mais doit être renouvelé souvent, environ toutes les deux semaines. Mieux vaut humidifier la motte à l'eau claire juste avant, pour protéger les racines.",
+        "Les bâtonnets, enfoncés dans le terreau, à mi-distance de la tige et de la paroi, diffusent leurs éléments pendant six à douze semaines. Les granulés à libération lente se mélangent au terreau lors d'un rempotage ou se griffent en surface. Le compost, éventuellement produit dans un petit composteur d'appartement, s'emploie de la même manière.",
+        "Les engrais foliaires, vaporisés sur les feuilles, ont un effet immédiat mais bref ; ils salissent facilement et conviennent mieux au balcon."
+      ]
+    },
+    {
+      "intertitre": "Les engrais organiques plutôt dehors",
+      "paragraphes": [
+        "Corne broyée, sang séché, guano ou algues sont riches en azote, mais dégagent une odeur forte pendant quelques jours. Le guide les conseille surtout pour les pots placés à l'extérieur. Les orchidées, cultivées dans un substrat très drainant qui retient mal les éléments, se nourrissent plutôt d'engrais liquide ou foliaire."
+      ]
+    },
+    {
+      "intertitre": "Quand et à quelle dose",
+      "paragraphes": [
+        "La fertilisation se fait quand la plante pousse ou fleurit, c'est-à-dire le plus souvent d'avril à octobre ; en hiver, la plupart des plantes d'intérieur ralentissent. Le dosage indiqué par le fabricant reste la règle. Sur l'étiquette, les lettres N-P-K donnent la part d'azote, de phosphore et de potassium : beaucoup d'azote pour le feuillage, davantage de phosphore pour les plantes en fleurs."
+      ]
+    }
+  ],
+  "mots": 341,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [],
+  "source_nom": "Gerbeaud",
+  "source_url": "https://www.gerbeaud.com/jardin/fiches/engrais-pour-plantes-en-pot,3216.html",
+  "publie_le": "2026-11-21T23:01:02.000Z",
+  "redige_le": "2026-11-22T11:17:35.425Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/768af74f79e50bd5338f3079a3413d4bb493d28d.webp",
+    "source": "wikimedia",
+    "credit": "H. Zell",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Calathea_warscewiczii_-_Wilhelma.jpg",
+    "alt": "Une plante verte d'intérieur en pot.",
+    "mots_cles": [
+      "Calathea"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
