@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "f4ab6d976fdd614760f21fbf7f76539f0cc43a88",
+  "slug": "gers-usine-hensoldt-nexeya-de-cologne-et-ses-60-emplois-attendent-un-f4ab6d",
+  "titre": "Gers : l'usine Hensoldt Nexeya de Cologne et ses 60 emplois attendent un repreneur",
+  "chapo": "Le groupe Hensoldt Nexeya France entre en procédure collective. Dans le Gers, son usine de Cologne et sa soixantaine de salariés espèrent trouver rapidement un nouveau propriétaire.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le 9 novembre, les 500 salariés d'Hensoldt Nexeya France (HNF) ont appris que leur entreprise allait se déclarer en cessation de paiements. Une procédure de redressement judiciaire va s'ouvrir dans la foulée. Elle vise aussi le site de Cologne, petite commune rurale du Gers.",
+        "Cette usine, héritière de l'entreprise PMTL, emploie une soixantaine de personnes. Elle fabrique des structures en métal et des pièces usinées avec précision, destinées à l'armement et aux réseaux jugés sensibles."
+      ]
+    },
+    {
+      "intertitre": "Un site rentable dans un groupe en pertes",
+      "paragraphes": [
+        "Le groupe perd environ 25 millions d'euros par an, pour un chiffre d'affaires proche de 80 millions. L'établissement gersois fait figure d'exception : selon la direction, il gagne de l'argent depuis plusieurs années et son métier diffère du reste du groupe. Il vient de signer un contrat avec un important client de l'aéronautique.",
+        "Mi-2025, les dirigeants avaient présenté un projet de bâtiment de 6 000 m² pour augmenter de moitié les effectifs locaux. HNF ne le réalisera pas : il reviendra aux futurs repreneurs, qui en ont été informés."
+      ]
+    },
+    {
+      "intertitre": "Des candidats avant l'échéance du 31 mars",
+      "paragraphes": [
+        "Sous le contrôle du tribunal de commerce, la direction veut boucler les cessions avant le 31 mars. Pour Cologne, plusieurs candidats se sont déjà manifestés, mais aucune offre ferme n'a encore été déposée. La priorité affichée est de garder l'activité et les 60 postes.",
+        "Le maire de la commune se dit confiant. Il juge le site viable même séparé du groupe, qu'il n'a rejoint que récemment. Si le groupe venait à être découpé, l'usine pourrait selon lui poursuivre seule son activité. Pour ce bassin d'emploi rural, aucune autre entreprise industrielle n'atteint une telle taille. Les salariés attendent désormais la décision du tribunal."
+      ]
+    }
+  ],
+  "mots": 308,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/23/cessation-de-paiements-chez-hensoldt-nexeya-france-60-emplois-en-jeu-a-cologne-dans-le-gers-apres-lannonce-du-redressement-judiciaire-13655352.php",
+  "publie_le": "2026-11-23T10:59:02.000Z",
+  "redige_le": "2026-11-23T11:20:38.186Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/f4ab6d976fdd614760f21fbf7f76539f0cc43a88.webp",
+    "source": "wikimedia",
+    "credit": "Krzysztof Golik",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Market_hall_in_Cologne_(2).jpg",
+    "alt": "Vue de Cologne, commune du Gers",
+    "mots_cles": [
+      "Cologne (Gers)"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

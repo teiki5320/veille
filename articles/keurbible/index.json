@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurbible",
-  "genere_le": "2026-11-22T18:18:43.954Z",
+  "genere_le": "2026-11-23T11:20:29.000Z",
   "articles": [
+    {
+      "id": "b85a9ef9314f2f62cebe5b4a6656506c2c8d98fa",
+      "slug": "madagascar-les-lazaristes-lancent-radio-saint-vincent-de-paul-dans-b85a9e",
+      "titre": "Madagascar : les Lazaristes lancent Radio Saint Vincent de Paul dans l'Androy",
+      "publie_le": "2026-11-23T09:30:00.000Z",
+      "redige_le": "2026-11-23T11:20:26.583Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurbible/b85a9ef9314f2f62cebe5b4a6656506c2c8d98fa.json"
+    },
     {
       "id": "56282256d339b1baa230cf22603951f4e079ed5a",
       "slug": "gospel-le-nigerian-nathaniel-bassey-franchit-le-milliard-de-vues-sur-562822",

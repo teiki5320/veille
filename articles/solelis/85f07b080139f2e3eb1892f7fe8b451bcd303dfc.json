@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "85f07b080139f2e3eb1892f7fe8b451bcd303dfc",
+  "slug": "choose-france-273-projets-industriels-en-majorite-portes-par-des-pme-85f07b",
+  "titre": "Choose France : 273 projets industriels, en majorité portés par des PME",
+  "chapo": "Pour sa deuxième édition consacrée aux entreprises françaises, le rendez-vous Choose France présente 273 projets d'usines et d'industrie. Les PME y sont majoritaires, dans une économie pourtant au ralenti.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Environ 250 patrons de grands groupes, d'entreprises de taille intermédiaire, de PME et de start-up sont réunis ce lundi 23 novembre à Paris, sur le site de la Cité universitaire internationale. Ils y rencontrent notamment Roland Lescure, ministre de l'Économie, et Sébastien Martin, ministre de l'Industrie.",
+        "Sur les 273 projets présentés, 81 sont inédits. L'Élysée chiffre le total à 42,5 milliards d'euros, dont près de 15 milliards de nouveaux engagements. La première édition française, il y a un an, avait affiché 30,4 milliards."
+      ]
+    },
+    {
+      "intertitre": "Énergie, spatial et santé en tête",
+      "paragraphes": [
+        "D'après Bercy, la plupart des projets touchent l'énergie, puis le spatial et la santé. Ils sont surtout menés par des PME, d'abord en Île-de-France, puis en Nouvelle-Aquitaine et en Normandie. Selon le ministre de l'Économie, le Grand Ouest totalise 37 projets pour 5,45 milliards d'euros, et l'est du pays 72 projets pour 4,3 milliards.",
+        "Côté grands groupes, ADP, qui gère les aéroports de Paris, annonce 9,5 milliards d'euros. L'Oréal prévoit près de 300 millions pour moderniser certains sites. Une PME lyonnaise présente aussi une usine de carburant d'aviation tiré de la biomasse dans les Pyrénées-Atlantiques, chiffrée à 1,6 milliard, avec une mise en service espérée en 2031."
+      ]
+    },
+    {
+      "intertitre": "Une conjoncture qui reste morose",
+      "paragraphes": [
+        "Le sommet se tient dans un climat difficile. Selon l'Insee, l'investissement des entreprises a reculé pour le quatrième trimestre d'affilée, et le pays frôle la récession. La guerre au Moyen-Orient a fait grimper les coûts de production, et le budget 2027 n'est toujours pas adopté.",
+        "Lancé en 2018, Choose France visait d'abord les investisseurs étrangers. Le rendez-vous permet aussi à Emmanuel Macron de défendre son bilan économique, alors qu'il ne pourra pas briguer un troisième mandat consécutif en 2027. Ses détracteurs y voient surtout un outil de communication."
+      ]
+    }
+  ],
+  "mots": 318,
+  "lecture_min": 1,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "20 Minutes",
+  "source_url": "https://www.20minutes.fr/economie/4264998-20261123-choose-france-pres-15-milliards-euros-investissements-annonces-deuxieme-sommet-franco-francais?at_medium=display&at_campaign=149",
+  "autres_sources": [
+    "https://mesinfos.fr/75000-paris/choose-france-15-milliards-d-euros-de-nouveaux-investissements-annonces-343759.html",
+    "https://www.laprovence.com/article/economie/2681894065015214/choose-france-pres-de-15-milliards-d-euros-d-investissements-nouveaux-annonce-l-elysee",
+    "https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html",
+    "https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html",
+    "https://www.franceinfo.fr/economie/sommet-choose-france-2026-on-a-a-la-fois-plus-de-projets-et-plus-de-montants-investis-souligne-le-ministre-de-l-economie-roland-lescure_8295686.html",
+    "https://www.franceinfo.fr/economie/sommet-choose-france-il-y-a-un-investissement-qui-marche-a-deux-vitesses-en-france-resume-l-economiste-thomas-grjebine_8295824.html",
+    "https://www.ladepeche.fr/2026/11/23/choose-france-la-liste-des-25-projets-pour-plus-de-2-milliards-deuros-dinvestissements-en-occitanie-13666217.php"
+  ],
+  "publie_le": "2026-11-23T08:06:19.000Z",
+  "redige_le": "2026-11-23T11:20:38.186Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/85f07b080139f2e3eb1892f7fe8b451bcd303dfc.webp",
+    "source": "wikimedia",
+    "credit": "Guilhem Vellut from Paris, France",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Maison_des_Provinces_de_France_@_Cit%C3%A9_internationale_universitaire_@_Paris_(32086714060).jpg",
+    "alt": "La Cité internationale universitaire de Paris",
+    "mots_cles": [
+      "Cité internationale universitaire de Paris"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

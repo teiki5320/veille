@@ -1,8 +1,111 @@
 {
   "version": 3,
   "site": "solelis",
-  "genere_le": "2026-11-22T18:18:29.993Z",
+  "genere_le": "2026-11-23T11:20:38.186Z",
   "actus": [
+    {
+      "id": "f4ab6d976fdd614760f21fbf7f76539f0cc43a88",
+      "titre": "Gers : l'usine Hensoldt Nexeya de Cologne et ses 60 emplois attendent un repreneur",
+      "resume": "Hensoldt Nexeya France, qui compte 500 salariés, s'est déclarée en cessation des paiements et va être placée en redressement judiciaire. Son site de Cologne, dans le Gers, rentable selon la direction, intéresse déjà des candidats. Les reprises doivent être conclues d'ici au 31 mars.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/23/cessation-de-paiements-chez-hensoldt-nexeya-france-60-emplois-en-jeu-a-cologne-dans-le-gers-apres-lannonce-du-redressement-judiciaire-13655352.php",
+      "publie_le": "2026-11-23T10:59:02.000Z",
+      "collecte_le": "2026-11-23T11:20:38.186Z",
+      "langue": "fr",
+      "slug": "gers-usine-hensoldt-nexeya-de-cologne-et-ses-60-emplois-attendent-un-f4ab6d",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/f4ab6d976fdd614760f21fbf7f76539f0cc43a88.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/f4ab6d976fdd614760f21fbf7f76539f0cc43a88.webp",
+        "source": "wikimedia",
+        "credit": "Krzysztof Golik",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Market_hall_in_Cologne_(2).jpg",
+        "alt": "Vue de Cologne, commune du Gers",
+        "mots_cles": [
+          "Cologne (Gers)"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "a6f29c25925516eebacabc9fa65a6819136b1515",
+      "titre": "Aéronautique : Emmanuel Macron confirme 350 millions d'euros pour la recherche civile",
+      "resume": "En visite chez Airbus à Toulouse, Emmanuel Macron a annoncé 350 millions d'euros pour le Conseil pour la recherche aéronautique civile (Corac) au titre de 2026. La filière, forte de plus de 1 000 entreprises, réclamait ce soutien, promis à 300 millions par an depuis 2023 mais jamais versé en totalité.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "La Dépêche",
+      "source_url": "https://www.ladepeche.fr/2026/11/23/direct-emmanuel-macron-a-toulouse-le-chef-de-letat-en-visite-sur-le-site-dairbus-durant-toute-la-matinee-13666690.php",
+      "autres_sources": [
+        "https://www.lefigaro.fr/societes/chez-airbus-le-soutien-attendu-d-emmanuel-macron-a-la-filiere-aeronautique-20261122",
+        "https://www.ladepeche.fr/2026/11/23/emmanuel-macron-a-toulouse-chez-airbus-derriere-la-defense-de-son-bilan-economique-une-reindustrialisation-qui-sessouffle-13665899.php"
+      ],
+      "publie_le": "2026-11-23T10:53:55.000Z",
+      "collecte_le": "2026-11-23T11:20:38.186Z",
+      "langue": "fr",
+      "slug": "aeronautique-emmanuel-macron-confirme-350-millions-euros-pour-la-a6f29c",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a6f29c25925516eebacabc9fa65a6819136b1515.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/a6f29c25925516eebacabc9fa65a6819136b1515.webp",
+        "source": "wikimedia",
+        "credit": "Photograph by Mike Peel ( www.mikepeel.net ).",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:KLM_Airbus_A321neo_(PH-AXA)_@_MAN,_2025-07-16_(03).jpg",
+        "alt": "Un avion de ligne Airbus",
+        "mots_cles": [
+          "Airbus A321neo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "85f07b080139f2e3eb1892f7fe8b451bcd303dfc",
+      "titre": "Choose France : 273 projets industriels, en majorité portés par des PME",
+      "resume": "Le sommet Choose France réunit ce lundi à Paris quelque 250 dirigeants autour de 273 projets industriels, dont 81 nouveaux. Environ 15 milliards d'euros d'engagements inédits sont annoncés, sur 42,5 milliards au total. Énergie, spatial et santé dominent, avec une majorité de projets menés par des PME.",
+      "theme": "entreprises",
+      "pays": [
+        "FR"
+      ],
+      "source_nom": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/economie/4264998-20261123-choose-france-pres-15-milliards-euros-investissements-annonces-deuxieme-sommet-franco-francais?at_medium=display&at_campaign=149",
+      "autres_sources": [
+        "https://mesinfos.fr/75000-paris/choose-france-15-milliards-d-euros-de-nouveaux-investissements-annonces-343759.html",
+        "https://www.laprovence.com/article/economie/2681894065015214/choose-france-pres-de-15-milliards-d-euros-d-investissements-nouveaux-annonce-l-elysee",
+        "https://www.lemonde.fr/economie-francaise/article/2026/11/22/choose-france-273-projets-industriels-seront-presentes-lors-de-ce-sommet-devolu-aux-entreprises-tricolores_6814240_1656968.html",
+        "https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html",
+        "https://www.franceinfo.fr/economie/sommet-choose-france-2026-on-a-a-la-fois-plus-de-projets-et-plus-de-montants-investis-souligne-le-ministre-de-l-economie-roland-lescure_8295686.html",
+        "https://www.franceinfo.fr/economie/sommet-choose-france-il-y-a-un-investissement-qui-marche-a-deux-vitesses-en-france-resume-l-economiste-thomas-grjebine_8295824.html",
+        "https://www.ladepeche.fr/2026/11/23/choose-france-la-liste-des-25-projets-pour-plus-de-2-milliards-deuros-dinvestissements-en-occitanie-13666217.php"
+      ],
+      "publie_le": "2026-11-23T08:06:19.000Z",
+      "collecte_le": "2026-11-23T11:20:38.186Z",
+      "langue": "fr",
+      "slug": "choose-france-273-projets-industriels-en-majorite-portes-par-des-pme-85f07b",
+      "article_url": "https://teiki5320.github.io/veille/articles/solelis/85f07b080139f2e3eb1892f7fe8b451bcd303dfc.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/solelis/85f07b080139f2e3eb1892f7fe8b451bcd303dfc.webp",
+        "source": "wikimedia",
+        "credit": "Guilhem Vellut from Paris, France",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Maison_des_Provinces_de_France_@_Cit%C3%A9_internationale_universitaire_@_Paris_(32086714060).jpg",
+        "alt": "La Cité internationale universitaire de Paris",
+        "mots_cles": [
+          "Cité internationale universitaire de Paris"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f676912202b54445ac509f188212392cfe58b24e",
       "titre": "Lot : les entreprises de loisirs au tribunal après une saison 2026 très dure",
@@ -1824,112 +1927,6 @@
         "alt": "Le palais de justice de Paris",
         "mots_cles": [
           "Palais de justice de Paris"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "6c4de59c906a3789b5767b537fe4d66042baa98e",
-      "titre": "Paris : la justice place le BHV en redressement judiciaire, 700 emplois en jeu",
-      "resume": "Saisi par la direction comme par les élus du personnel, le tribunal parisien des activités économiques a ouvert lundi 2 novembre une procédure de redressement pour la société qui exploite le BHV Marais et le BHV Parly 2. Une période d'examen de six mois, qui peut être prolongée, s'ouvre. Le magasin reste ouvert.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "tags": [
-        "situation:dettes-fournisseurs"
-      ],
-      "source_nom": "Franceinfo",
-      "source_url": "https://www.franceinfo.fr/economie/l-emblematique-grand-magasin-parisien-bhv-place-en-redressement-judiciaire_8264255.html",
-      "autres_sources": [
-        "https://www.ladepeche.fr/2026/11/02/le-grand-magasin-bhv-place-en-redressement-judiciaire-700-emplois-menaces-13632504.php",
-        "https://www.20minutes.fr/economie/4259757-20261102-paris-bhv-marais-place-redressement-judiciaire?at_medium=display&at_campaign=149",
-        "https://www.lemonde.fr/economie/article/2026/11/02/le-bhv-marais-a-paris-place-en-redressement-judiciaire_6805272_3234.html",
-        "https://www.sudouest.fr/ile-de-france/paris/commerce-le-grand-magasin-bhv-place-en-redressement-judiciaire-31350625.php",
-        "https://www.laprovence.com/article/faits-divers-justice/10617752975932/bhv-en-difficulte-le-grand-magasin-parisien-place-en-redressement-judiciaire",
-        "https://www.bfmtv.com/economie/entreprises/le-grand-magasin-bhv-de-paris-est-place-en-redressement-judiciaire_AD-202611020620.html"
-      ],
-      "publie_le": "2026-11-02T15:19:23.000Z",
-      "collecte_le": "2026-11-02T18:21:26.395Z",
-      "langue": "fr",
-      "slug": "paris-la-justice-place-le-bhv-en-redressement-judiciaire-700-emplois-6c4de5",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/6c4de59c906a3789b5767b537fe4d66042baa98e.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/6c4de59c906a3789b5767b537fe4d66042baa98e.webp",
-        "source": "wikimedia",
-        "credit": "Guilhem Vellut from Paris, France",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Paris_75004_Rue_de_Rivoli_no_066_-_BHV_-_H%C3%B4tel_de_Ville_20160101_(cropped).jpg",
-        "alt": "La façade du BHV Marais, rue de Rivoli, face à l’Hôtel de Ville de Paris",
-        "mots_cles": [
-          "BHV Marais"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "a1644762c21d3ebabeb9544e98562bfdf9dd52d7",
-      "titre": "Région Sud : le patronat réclame une aide sur mesure pour les commerçants pillés",
-      "resume": "Les Entrepreneurs Sud comptent plus de 560 boutiques vandalisées dans la région après les violences de la mi-octobre. L'organisation patronale veut un fonds calculé sur les pertes réelles, en plus de l'aide d'urgence de 10 000 euros, et refuse tout nouvel emprunt.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "Le Journal des Entreprises",
-      "source_url": "https://www.lejournaldesentreprises.com/article/les-entrepreneurs-sud-reclament-un-fonds-de-solidarite-pour-les-commerces-touches-par-les-pillages-2148267",
-      "publie_le": "2026-11-02T11:11:15.000Z",
-      "collecte_le": "2026-11-02T11:20:26.383Z",
-      "langue": "fr",
-      "slug": "region-sud-le-patronat-reclame-une-aide-sur-mesure-pour-les-a16447",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/a1644762c21d3ebabeb9544e98562bfdf9dd52d7.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/a1644762c21d3ebabeb9544e98562bfdf9dd52d7.webp",
-        "source": "wikimedia",
-        "credit": "Benh LIEU SONG",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Marseille_Vieux_Port_Night.jpg",
-        "alt": "Le Vieux-Port de Marseille",
-        "mots_cles": [
-          "Vieux-Port de Marseille"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "9bc9041e0b4912de18f9d02f543a3ae054c38f9d",
-      "titre": "Commerces touchés par les manifestations : trois dimanches d'ouverture en plus",
-      "resume": "Le ministre des PME et du Commerce, Serge Papin, va demander aux préfets d'autoriser trois ouvertures dominicales supplémentaires avant Noël. La mesure vise à compenser les pertes des commerçants pénalisés par les manifestations et les pillages.",
-      "theme": "entreprises",
-      "pays": [
-        "FR"
-      ],
-      "source_nom": "Sud Ouest",
-      "source_url": "https://www.sudouest.fr/economie/mobilisation-sociale-et-violences-le-ministre-du-commerce-serge-papin-souhaite-autoriser-trois-dimanches-supplementaires-d-ouverture-des-magasins-avant-noel-31345461.php",
-      "autres_sources": [
-        "https://www.laprovence.com/article/societe/1079486629204414/manifestations-le-ministre-du-commerce-veut-autoriser-les-magasins-a-ouvrir-trois-dimanches-supplementaires",
-        "https://www.maire-info.com/2026/violences-urbaines/commerces-touches-par-les-violences-gouvernement-demande-aux-prefets-faciliter-les-ouvertures-dominicales-art26-31247",
-        "https://lexpress-franchise.com/actualites/trois-dimanches-ouverture-magasins-noel-2026/"
-      ],
-      "publie_le": "2026-11-02T10:11:09.000Z",
-      "collecte_le": "2026-11-02T11:20:26.383Z",
-      "langue": "fr",
-      "slug": "commerces-touches-par-les-manifestations-trois-dimanches-ouverture-en-9bc904",
-      "article_url": "https://teiki5320.github.io/veille/articles/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/solelis/9bc9041e0b4912de18f9d02f543a3ae054c38f9d.webp",
-        "source": "wikimedia",
-        "credit": "Bogdan Hoyaux / European Union, 2025 / EC - Audiovisual Service",
-        "licence": "CC BY 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Serge_Papin,_French_Minister_for_Small_and_Medium-sized_Enterprises,_Trade,_Crafts,_Tourism_and_Purchasing_Power,_to_the_EC_-_2025_(02).jpg",
-        "alt": "Serge Papin, ministre chargé des PME et du Commerce",
-        "mots_cles": [
-          "Serge Papin"
         ],
         "largeur": 1600,
         "hauteur": 900

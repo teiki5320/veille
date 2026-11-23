@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "site": "keurbible",
+  "id": "b85a9ef9314f2f62cebe5b4a6656506c2c8d98fa",
+  "slug": "madagascar-les-lazaristes-lancent-radio-saint-vincent-de-paul-dans-b85a9e",
+  "titre": "Madagascar : les Lazaristes lancent Radio Saint Vincent de Paul dans l'Androy",
+  "chapo": "Dans le sud de Madagascar, une nouvelle radio catholique veut rapprocher des villages isolés. Radio Saint Vincent de Paul, tenue par les prêtres lazaristes, émet depuis Ambovombe depuis le 15 août 2026.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La station a été inaugurée à Ambovombe, chef-lieu de la région Androy. Elle diffuse sur la fréquence 95.6 FM, attribuée par le ministère malgache de la Communication. Son directeur, le père Jean Dario, de la Congrégation de la Mission, porte le projet depuis 2023.",
+        "Les prêtres veulent faire de l'antenne la voix de ceux qu'on n'entend pas. Au programme : informations pratiques, émissions éducatives, campagnes de prévention, nouvelles des communautés, mais aussi lecture de l'Évangile et retransmission des célébrations."
+      ]
+    },
+    {
+      "intertitre": "Une région durement éprouvée",
+      "paragraphes": [
+        "L'Androy compte parmi les régions les plus difficiles de l'île. Sécheresse, manque d'eau, pauvreté et insécurité alimentaire pèsent sur beaucoup de familles. Les jeunes ont peu accès à l'école, à la formation et à l'emploi. Les longues distances entre villages compliquent aussi les échanges.",
+        "Dans ce territoire étendu, la radio reste un moyen simple de joindre chacun, même loin des villes."
+      ]
+    },
+    {
+      "intertitre": "Trois ans de préparation",
+      "paragraphes": [
+        "Monter la station a demandé du matériel, des compétences techniques et des soutiens. José Alberto Chávez del Rio, laïc salésien installé à Rome et ancien collaborateur de SIGNIS, l'association catholique mondiale des médias, a apporté son savoir-faire. Le père Michelangelo, lazariste lui aussi, a également prêté main-forte.",
+        "Sur place, les Lazaristes ont aménagé le studio et mené les démarches pour obtenir la fréquence. L'antenne a ensuite été posée sur un pylône, avec l'émetteur et l'équipement de production."
+      ]
+    },
+    {
+      "intertitre": "Étendre le signal, travailler avec Radio Vatican",
+      "paragraphes": [
+        "Aujourd'hui, le signal ne touche qu'environ un quart de l'Androy. L'objectif des Lazaristes est d'atteindre les villages les plus reculés.",
+        "De passage à Rome, le père Jean Dario a visité les studios de Vatican News – Radio Vatican. Il y a été reçu par le père Paul Samasumo, coordinateur du service anglophone pour l'Afrique. Les deux prêtres ont évoqué une coopération : la radio malgache pourrait reprendre des programmes de Radio Vatican, déjà relayés par un réseau de stations catholiques diocésaines sur le continent."
+      ]
+    }
+  ],
+  "mots": 348,
+  "lecture_min": 2,
+  "theme": "culture",
+  "pays": [
+    "MG"
+  ],
+  "source_nom": "Vatican News Africa",
+  "source_url": "https://www.vaticannews.va/en/africa/news/2026-11/madagascar-radio-saint-vincent-de-paul-a-new-voice-of-faith.html",
+  "publie_le": "2026-11-23T09:30:00.000Z",
+  "redige_le": "2026-11-23T11:20:26.583Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurbible/b85a9ef9314f2f62cebe5b4a6656506c2c8d98fa.webp",
+    "source": "wikimedia",
+    "credit": "HBoina",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mihaja_i_Androy,_Muscisien_Ambovombe_Tul%C3%A9ar_Madagascar.jpg",
+    "alt": "Vue d'Ambovombe, dans la région Androy, au sud de Madagascar",
+    "mots_cles": [
+      "Ambovombe"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

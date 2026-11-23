@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-22T18:17:44.334Z",
+  "genere_le": "2026-11-23T11:20:33.172Z",
   "articles": [
+    {
+      "id": "9679c25cd9cbfc70517794edf27163be6ef0fef2",
+      "slug": "can-2025-le-tas-tranchera-mardi-apres-midi-entre-le-senegal-et-le-9679c2",
+      "titre": "CAN 2025 : le TAS tranchera mardi après-midi entre le Sénégal et le Maroc",
+      "publie_le": "2026-11-23T09:43:00.000Z",
+      "redige_le": "2026-11-23T11:20:29.049Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/9679c25cd9cbfc70517794edf27163be6ef0fef2.json"
+    },
+    {
+      "id": "758f61c5b220f87ab4f1b05e4ecf38f755db2d5a",
+      "slug": "turquie-mbaye-diagne-denonce-cinq-mois-sans-salaire-et-rompt-avec-758f61",
+      "titre": "Turquie : Mbaye Diagne dénonce cinq mois sans salaire et rompt avec Amedspor",
+      "publie_le": "2026-11-23T09:03:12.000Z",
+      "redige_le": "2026-11-23T11:20:29.049Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/758f61c5b220f87ab4f1b05e4ecf38f755db2d5a.json"
+    },
+    {
+      "id": "2a4e2bd8c789ef285da5eb4bc919476387b2f1f2",
+      "slug": "liverpool-manchester-united-4-0-bryan-mbeumo-remplace-des-la-22e-2a4e2b",
+      "titre": "Liverpool-Manchester United (4-0) : Bryan Mbeumo remplacé dès la 22e minute",
+      "publie_le": "2026-11-22T20:38:22.000Z",
+      "redige_le": "2026-11-23T11:20:29.049Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/2a4e2bd8c789ef285da5eb4bc919476387b2f1f2.json"
+    },
     {
       "id": "8287cca29d8bc3c911df07c6cf3ca41c4de9035e",
       "slug": "mondial-u17-ouganda-tient-equateur-en-echec-egypte-impose-face-au-8287cc",

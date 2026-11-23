@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "kultiled",
-  "genere_le": "2026-11-22T18:17:48.006Z",
+  "genere_le": "2026-11-23T11:20:38.171Z",
   "articles": [
+    {
+      "id": "15976a6dfb064e67f2d8fd71da9a8bfc47c1d900",
+      "slug": "eclairage-dynamique-en-serre-regler-intensite-et-spectre-pour-depenser-15976a",
+      "titre": "Éclairage dynamique en serre : régler intensité et spectre pour dépenser moins",
+      "publie_le": "2026-11-23T11:05:00.000Z",
+      "redige_le": "2026-11-23T11:20:33.184Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/15976a6dfb064e67f2d8fd71da9a8bfc47c1d900.json"
+    },
+    {
+      "id": "212c32948cf1961cf01f2190b2c9cf361052b3a2",
+      "slug": "westland-chauffees-par-la-geothermie-des-serres-de-tomates-replantees-212c32",
+      "titre": "Westland : chauffées par la géothermie, des serres de tomates replantées très tôt",
+      "publie_le": "2026-11-23T11:05:00.000Z",
+      "redige_le": "2026-11-23T11:20:33.184Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/212c32948cf1961cf01f2190b2c9cf361052b3a2.json"
+    },
+    {
+      "id": "8340e2144158d0ff669a4fe181accb66eccea7fe",
+      "slug": "philippines-cinq-serres-connectees-ouvrent-iloilo-pour-nourrir-la-8340e2",
+      "titre": "Philippines : cinq serres connectées ouvrent à Iloilo pour nourrir la région",
+      "publie_le": "2026-11-23T11:05:00.000Z",
+      "redige_le": "2026-11-23T11:20:33.184Z",
+      "url": "https://teiki5320.github.io/veille/articles/kultiled/8340e2144158d0ff669a4fe181accb66eccea7fe.json"
+    },
     {
       "id": "6e113e7fc01045d93db7068d9050eb9f9fc939b0",
       "slug": "poinsettia-les-minuscules-fleurs-du-centre-disent-combien-de-temps-il-6e113e",

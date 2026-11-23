@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "solelis",
-  "genere_le": "2026-11-22T18:18:30.028Z",
+  "genere_le": "2026-11-23T11:20:43.471Z",
   "articles": [
+    {
+      "id": "f4ab6d976fdd614760f21fbf7f76539f0cc43a88",
+      "slug": "gers-usine-hensoldt-nexeya-de-cologne-et-ses-60-emplois-attendent-un-f4ab6d",
+      "titre": "Gers : l'usine Hensoldt Nexeya de Cologne et ses 60 emplois attendent un repreneur",
+      "publie_le": "2026-11-23T10:59:02.000Z",
+      "redige_le": "2026-11-23T11:20:38.186Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/f4ab6d976fdd614760f21fbf7f76539f0cc43a88.json"
+    },
+    {
+      "id": "a6f29c25925516eebacabc9fa65a6819136b1515",
+      "slug": "aeronautique-emmanuel-macron-confirme-350-millions-euros-pour-la-a6f29c",
+      "titre": "Aéronautique : Emmanuel Macron confirme 350 millions d'euros pour la recherche civile",
+      "publie_le": "2026-11-23T10:53:55.000Z",
+      "redige_le": "2026-11-23T11:20:38.186Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/a6f29c25925516eebacabc9fa65a6819136b1515.json"
+    },
+    {
+      "id": "85f07b080139f2e3eb1892f7fe8b451bcd303dfc",
+      "slug": "choose-france-273-projets-industriels-en-majorite-portes-par-des-pme-85f07b",
+      "titre": "Choose France : 273 projets industriels, en majorité portés par des PME",
+      "publie_le": "2026-11-23T08:06:19.000Z",
+      "redige_le": "2026-11-23T11:20:38.186Z",
+      "url": "https://teiki5320.github.io/veille/articles/solelis/85f07b080139f2e3eb1892f7fe8b451bcd303dfc.json"
+    },
     {
       "id": "f676912202b54445ac509f188212392cfe58b24e",
       "slug": "lot-les-entreprises-de-loisirs-au-tribunal-apres-une-saison-2026-tres-f67691",

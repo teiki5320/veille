@@ -1,8 +1,108 @@
 {
   "version": 3,
   "site": "kultiled",
-  "genere_le": "2026-11-22T18:17:44.348Z",
+  "genere_le": "2026-11-23T11:20:33.184Z",
   "actus": [
+    {
+      "id": "15976a6dfb064e67f2d8fd71da9a8bfc47c1d900",
+      "titre": "Éclairage dynamique en serre : régler intensité et spectre pour dépenser moins",
+      "resume": "Face à des prix de l'énergie instables, de plus en plus de serristes font varier l'intensité et la couleur de leurs LED au fil de la journée. Une agronome de la société Agrolux détaille les bonnes pratiques : partir des besoins de la plante, s'appuyer sur les données et ne pas sacrifier la récolte aux économies.",
+      "theme": "culture-interieur",
+      "pays": [],
+      "tags": [
+        "legume:tomate"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9895221/dynamic-lighting-smarter-energy-use-without-compromising-crop-performance/",
+      "publie_le": "2026-11-23T11:05:00.000Z",
+      "collecte_le": "2026-11-23T11:20:33.184Z",
+      "langue": "en",
+      "slug": "eclairage-dynamique-en-serre-regler-intensite-et-spectre-pour-depenser-15976a",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/15976a6dfb064e67f2d8fd71da9a8bfc47c1d900.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/15976a6dfb064e67f2d8fd71da9a8bfc47c1d900.webp",
+        "source": "wikimedia",
+        "credit": "Adamantios",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:CFL-grow-light-dual-spectrum.jpg",
+        "alt": "Des lampes horticoles éclairant des plantes cultivées",
+        "mots_cles": [
+          "Grow light"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "8340e2144158d0ff669a4fe181accb66eccea7fe",
+      "titre": "Philippines : cinq serres connectées ouvrent à Iloilo pour nourrir la région",
+      "resume": "À Tigbauan, dans la province d'Iloilo, cinq serres connectées soutenues par l'agence coréenne KOICA ont donné leur première récolte. Gérées par une coopérative de plus de 2 500 membres, elles doivent produire laitue, tomates cerises, concombres, poivrons et melons toute l'année.",
+      "theme": "culture-interieur",
+      "pays": [
+        "PH"
+      ],
+      "tags": [
+        "legume:laitue",
+        "legume:tomate",
+        "legume:concombre",
+        "legume:poivron"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9895300/philippines-iloilo-smart-farm-to-supply-high-value-crops-to-western-visayas/",
+      "publie_le": "2026-11-23T11:05:00.000Z",
+      "collecte_le": "2026-11-23T11:20:33.184Z",
+      "langue": "en",
+      "slug": "philippines-cinq-serres-connectees-ouvrent-iloilo-pour-nourrir-la-8340e2",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/8340e2144158d0ff669a4fe181accb66eccea7fe.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/8340e2144158d0ff669a4fe181accb66eccea7fe.webp",
+        "source": "wikimedia",
+        "credit": "Akosirobep",
+        "licence": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tigbauan_(Iloilo)_Municipal_Seal.png",
+        "alt": "Un paysage de la province d'Iloilo, aux Philippines",
+        "mots_cles": [
+          "Tigbauan"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "212c32948cf1961cf01f2190b2c9cf361052b3a2",
+      "titre": "Westland : chauffées par la géothermie, des serres de tomates replantées très tôt",
+      "resume": "Dans le Westland, aux Pays-Bas, la famille Van Schie a déjà replanté ses 10 hectares de serres de tomates. La chaleur d'un projet géothermique voisin permet ce départ précoce et une première récolte dès le début de 2027, pour offrir une tomate néerlandaise face aux tomates espagnoles et marocaines.",
+      "theme": "culture-interieur",
+      "pays": [
+        "NL"
+      ],
+      "tags": [
+        "legume:tomate"
+      ],
+      "source_nom": "HortiDaily",
+      "source_url": "https://www.hortidaily.com/article/9894666/early-planted-tomato-crop-thrives-on-geothermal-heat-in-the-netherlands/",
+      "publie_le": "2026-11-23T11:05:00.000Z",
+      "collecte_le": "2026-11-23T11:20:33.184Z",
+      "langue": "en",
+      "slug": "westland-chauffees-par-la-geothermie-des-serres-de-tomates-replantees-212c32",
+      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/212c32948cf1961cf01f2190b2c9cf361052b3a2.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/kultiled/212c32948cf1961cf01f2190b2c9cf361052b3a2.webp",
+        "source": "wikimedia",
+        "credit": "M.Minderhoud",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Kwintsheul_entree.jpg",
+        "alt": "Les serres du Westland, aux Pays-Bas",
+        "mots_cles": [
+          "Kwintsheul"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "6e113e7fc01045d93db7068d9050eb9f9fc939b0",
       "titre": "Poinsettia : les minuscules fleurs du centre disent combien de temps il restera coloré",
@@ -1854,107 +1954,6 @@
         "alt": "Illustration Kultiled avec la mention « Culture en intérieur »",
         "mots_cles": [
           "Cornell University"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "c7f1ece77e504034321039b214f25bad77d946b4",
-      "titre": "Afrique du Sud : des fraises hors-sol cultivées toute l'année sous 22 serres",
-      "resume": "Au sud-ouest de Johannesburg, Vusi's Farm est passée de trois à 22 serres depuis son rachat en 2020. Plus de deux millions de fraisiers y poussent sans terre, dans de la fibre de coco nourrie au goutte-à-goutte, pour environ 850 tonnes de fruits par an.",
-      "theme": "culture-interieur",
-      "pays": [
-        "ZA"
-      ],
-      "tags": [
-        "legume:fraise"
-      ],
-      "source_nom": "Vertical Farm Daily",
-      "source_url": "https://www.verticalfarmdaily.com/article/9887024/south-africa-how-vusi-s-farm-produces-strawberries-year-round/",
-      "publie_le": "2026-10-28T13:55:00.000Z",
-      "collecte_le": "2026-10-29T11:22:58.463Z",
-      "langue": "en",
-      "slug": "afrique-du-sud-des-fraises-hors-sol-cultivees-toute-annee-sous-22-c7f1ec",
-      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/c7f1ece77e504034321039b214f25bad77d946b4.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/cartes/kultiled/c7f1ece77e504034321039b214f25bad77d946b4.svg",
-        "source": "carte",
-        "credit": "Illustration : Kultiled",
-        "licence": null,
-        "page": null,
-        "alt": "Illustration Kultiled avec la mention « Culture en intérieur »",
-        "mots_cles": [
-          "Strawberry greenhouse hydroponic",
-          "strawberry greenhouse",
-          "hydroponic strawberries"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "0cd3f42aa166d00815a685eddc5fb73b7ff174d7",
-      "titre": "Éclairage horticole : la marque Hortilux reprise par le groupe de Gavita et Agrolux",
-      "resume": "Prohort Lighting Solutions, maison mère de Gavita International, rachète le nom, la propriété intellectuelle et le fonds d'Hortilux, fabricant néerlandais de lampes pour serres et fermes verticales déclaré en faillite en septembre. La marque rejoint Agrolux.",
-      "theme": "culture-interieur",
-      "pays": [
-        "NL"
-      ],
-      "source_nom": "HortiDaily",
-      "source_url": "https://www.hortidaily.com/article/9887083/prohort-lighting-solutions-bv-parent-company-of-gavita-international-bv-acquires-hortilux-brand/",
-      "autres_sources": [
-        "https://www.verticalfarmdaily.com/article/9887083/prohort-lighting-solutions-bv-parent-company-of-gavita-international-bv-acquires-hortilux-brand/"
-      ],
-      "publie_le": "2026-10-28T13:24:00.000Z",
-      "collecte_le": "2026-10-29T11:22:58.463Z",
-      "langue": "en",
-      "slug": "eclairage-horticole-la-marque-hortilux-reprise-par-le-groupe-de-gavita-0cd3f4",
-      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/0cd3f42aa166d00815a685eddc5fb73b7ff174d7.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/kultiled/0cd3f42aa166d00815a685eddc5fb73b7ff174d7.webp",
-        "source": "openverse",
-        "credit": "yellowcloud",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/63794141@N00/4240017317",
-        "alt": "Des plantes cultivées sous des lampes dans une serre",
-        "mots_cles": [
-          "led grow light plants"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "5912c83d3258812e9337c643a41dbcf001187f83",
-      "titre": "Détroit : la plus grande ferme verticale du Michigan cesse son activité et sera vendue",
-      "resume": "Planted Detroit, ouverte en 2018, arrête la production en novembre. Son site de 3 500 m², avec ses systèmes de culture automatisés, ses 98 étagères mobiles, son éclairage et son atelier de transformation, est mis en vente sous plis cachetés.",
-      "theme": "culture-interieur",
-      "pays": [
-        "US"
-      ],
-      "source_nom": "HortiDaily",
-      "source_url": "https://www.hortidaily.com/article/9887034/secondbloom-auctions-to-offer-planted-detroit-s-largest-vertical-farm-in-sealed-bid-sale/",
-      "autres_sources": [
-        "https://www.verticalfarmdaily.com/article/9887034/secondbloom-auctions-to-offer-planted-detroit-s-largest-vertical-farm-in-sealed-bid-sale/"
-      ],
-      "publie_le": "2026-10-28T13:24:00.000Z",
-      "collecte_le": "2026-10-29T11:22:58.463Z",
-      "langue": "en",
-      "slug": "detroit-la-plus-grande-ferme-verticale-du-michigan-cesse-son-activite-5912c8",
-      "article_url": "https://teiki5320.github.io/veille/articles/kultiled/5912c83d3258812e9337c643a41dbcf001187f83.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/kultiled/5912c83d3258812e9337c643a41dbcf001187f83.webp",
-        "source": "wikimedia",
-        "credit": "User21343321",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Detroit_montage_2020.jpg",
-        "alt": "Vue de la ville de Détroit, dans le Michigan",
-        "mots_cles": [
-          "Detroit"
         ],
         "largeur": 1600,
         "hauteur": 900

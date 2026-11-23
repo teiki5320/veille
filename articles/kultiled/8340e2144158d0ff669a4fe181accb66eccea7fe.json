@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "8340e2144158d0ff669a4fe181accb66eccea7fe",
+  "slug": "philippines-cinq-serres-connectees-ouvrent-iloilo-pour-nourrir-la-8340e2",
+  "titre": "Philippines : cinq serres connectées ouvrent à Iloilo pour nourrir la région",
+  "chapo": "Aux Philippines, la province d'Iloilo mise sur des serres pilotées par capteurs pour produire ses propres légumes. Cinq serres connectées viennent d'ouvrir à Tigbauan, avec une première récolte le jour même.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le site a ouvert vendredi dans le quartier de Namocon, à Tigbauan, sur l'île de Panay. Il fait partie d'un programme de coopération qui veut renforcer la filière des cultures à forte valeur. L'Agence coréenne de coopération internationale (KOICA) le finance avec le ministère philippin de l'Agriculture.",
+        "Les cinq serres disposent d'une irrigation automatisée, d'un contrôle du climat intérieur et de systèmes de conduite des cultures. Elles permettent de récolter en toute saison."
+      ]
+    },
+    {
+      "intertitre": "Des légumes qui viennent de loin",
+      "paragraphes": [
+        "Aujourd'hui, hôtels et restaurants de la province font venir leurs légumes de Baguio, dans le nord de l'île de Luçon, ou de Mindanao, dans le sud de l'archipel. Le nouveau site pourrait couvrir jusqu'à un cinquième des besoins des Visayas occidentales pour ces produits.",
+        "Maria Teresa Solis, responsable du projet, souligne que la région manque surtout de légumes de montagne, d'habitude cultivés au frais, en altitude. Les serres doivent aussi servir de vitrine pour montrer ces techniques à d'autres agriculteurs."
+      ]
+    },
+    {
+      "intertitre": "Environ 74 tonnes prévues en 2027",
+      "paragraphes": [
+        "Les serres fourniront laitue, poivrons, tomates cerises, concombres et melons à des prix abordables. Les objectifs pour 2027 sont précis : quelque 32 400 kilos de laitue, 12 200 kilos de tomates cerises, 11 800 kilos de poivrons, près de 8 900 kilos de melons et 8 800 kilos de concombres."
+      ]
+    },
+    {
+      "intertitre": "Une coopérative aux commandes",
+      "paragraphes": [
+        "L'exploitation est confiée à la coopérative Kooperatiba Naton, qui réunit plus de 2 500 membres. Sa directrice générale, Georgina Basco, veut prouver qu'une agriculture moderne peut être à la fois productive et rentable, au service de la sécurité alimentaire.",
+        "La première récolte, faite pendant l'inauguration, marque le passage du chantier à la production. Le site doit désormais montrer qu'il tient ses promesses sur la durée."
+      ]
+    }
+  ],
+  "mots": 316,
+  "lecture_min": 1,
+  "theme": "culture-interieur",
+  "pays": [
+    "PH"
+  ],
+  "tags": [
+    "legume:laitue",
+    "legume:tomate",
+    "legume:concombre",
+    "legume:poivron"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9895300/philippines-iloilo-smart-farm-to-supply-high-value-crops-to-western-visayas/",
+  "publie_le": "2026-11-23T11:05:00.000Z",
+  "redige_le": "2026-11-23T11:20:33.184Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/8340e2144158d0ff669a4fe181accb66eccea7fe.webp",
+    "source": "wikimedia",
+    "credit": "Akosirobep",
+    "licence": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tigbauan_(Iloilo)_Municipal_Seal.png",
+    "alt": "Un paysage de la province d'Iloilo, aux Philippines",
+    "mots_cles": [
+      "Tigbauan"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

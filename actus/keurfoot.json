@@ -1,8 +1,119 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-22T18:17:43.009Z",
+  "genere_le": "2026-11-23T11:20:29.049Z",
   "actus": [
+    {
+      "id": "9679c25cd9cbfc70517794edf27163be6ef0fef2",
+      "titre": "CAN 2025 : le TAS tranchera mardi après-midi entre le Sénégal et le Maroc",
+      "resume": "Le TAS fera connaître mardi après-midi, 24 novembre, sa sentence concernant le titre continental disputé entre Dakar et Rabat. Le Sénégal conteste le forfait prononcé contre lui par la CAF, qui avait donné le titre au Maroc sur tapis vert en mars.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "MA"
+      ],
+      "competition": "CAN 2025",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/senegal-maroc-le-tas-annonce-une-decision-imminente-pour-la-finale-de-la-can-2025",
+      "autres_sources": [
+        "https://www.lequipe.fr/Football/Actualites/Can-2025-le-tas-rendra-son-verdict-ce-mardi-pour-la-designation-definitive-du-vainqueur-entre-le-maroc-et-le-senegal/1745543",
+        "https://senego.com/can-2025-litige-senegal-maroc-le-tas-rendra-son-verdict-ce-mardi-apres-midi_2026990.html",
+        "https://senego.com/tas-verdict-mardi-24-novembre-sur-lappel-de-la-fsf-publie-sur-son-site-officiel_2026987.html",
+        "https://www.footmercato.net/a928195689754466745-le-vainqueur-de-la-can-2025-sera-connu-demain",
+        "https://africatopsports.com/football/can-2025-le-tas-livrera-son-verdict-ce-mardi/"
+      ],
+      "publie_le": "2026-11-23T09:43:00.000Z",
+      "collecte_le": "2026-11-23T11:20:29.049Z",
+      "langue": "fr",
+      "slug": "can-2025-le-tas-tranchera-mardi-apres-midi-entre-le-senegal-et-le-9679c2",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9679c25cd9cbfc70517794edf27163be6ef0fef2.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/9679c25cd9cbfc70517794edf27163be6ef0fef2.webp",
+        "source": "wikimedia",
+        "credit": "Fanny Schertzer",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Court_of_Arbitration_for_Sport_-_Lausanne.jpg",
+        "alt": "Le Tribunal arbitral du sport, à Lausanne, en Suisse",
+        "mots_cles": [
+          "Court of Arbitration for Sport"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "758f61c5b220f87ab4f1b05e4ecf38f755db2d5a",
+      "titre": "Turquie : Mbaye Diagne dénonce cinq mois sans salaire et rompt avec Amedspor",
+      "resume": "L'attaquant sénégalais Mbaye Diagne accuse son club turc d'Amedspor de ne pas l'avoir payé pendant cinq mois et de vouloir abîmer sa réputation. Sur Instagram, il annonce qu'il ne portera plus ses couleurs. Le club lui reproche des absences après la trêve internationale.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "TR"
+      ],
+      "competition": "Süper Lig",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/tres-remonte-contre-amedspor-mbaye-diagne-annonce-la-rupture-et-denonce-des-manoeuvres-vous-avez-essaye-de-me-tromper_2026961.html",
+      "autres_sources": [
+        "https://africatopsports.com/afrique-football/senegal/super-lig-je-ne-peux-accepter-quon-detruise-mon-nom-mbaye-diagne/"
+      ],
+      "publie_le": "2026-11-23T09:03:12.000Z",
+      "collecte_le": "2026-11-23T11:20:29.049Z",
+      "langue": "fr",
+      "slug": "turquie-mbaye-diagne-denonce-cinq-mois-sans-salaire-et-rompt-avec-758f61",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/758f61c5b220f87ab4f1b05e4ecf38f755db2d5a.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/758f61c5b220f87ab4f1b05e4ecf38f755db2d5a.webp",
+        "source": "wikimedia",
+        "credit": "Cinema Communautaire",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mbaye_Maniang_Diagne_Auteur_R%C3%A9alisateur_Producteur_S%C3%A9n%C3%A9gal.jpg",
+        "alt": "Mbaye Diagne, attaquant international sénégalais",
+        "mots_cles": [
+          "Mbaye Diagne"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "2a4e2bd8c789ef285da5eb4bc919476387b2f1f2",
+      "titre": "Liverpool-Manchester United (4-0) : Bryan Mbeumo remplacé dès la 22e minute",
+      "resume": "Pour ses débuts à la tête de Manchester United, l'Argentin Mauricio Pochettino a sorti Bryan Mbeumo à la 22e minute, après l'expulsion de Leny Yoro. L'attaquant camerounais, meilleur buteur mancunien en championnat, a vu du banc la lourde défaite de son équipe à Anfield.",
+      "theme": "foot",
+      "pays": [
+        "CM"
+      ],
+      "competition": "Premier League",
+      "source_nom": "Camfoot",
+      "source_url": "https://www.camfoot.com/les-lions-en-club/liverpool-manchester-united-4-0-pochettino-sacrifie-mbeumo,561075.html",
+      "autres_sources": [
+        "https://www.espn.com/soccer/report/_/gameId/401878755",
+        "https://www.lequipe.fr/Football/Actualites/Lourde-defaite-a-liverpool-pour-la-premiere-de-pochettino-avec-manchester-united/1745439",
+        "https://www.espn.com/soccer/story/_/id/50563684/liverpool-ruin-pochettino-manchester-united-debut",
+        "https://www.footmercato.net/a7341250143195501477-manchester-united-mauricio-pochettino-a-vecu-un-veritable-cauchemar-pour-ses-grands-debuts"
+      ],
+      "publie_le": "2026-11-22T20:38:22.000Z",
+      "collecte_le": "2026-11-23T11:20:29.049Z",
+      "langue": "fr",
+      "slug": "liverpool-manchester-united-4-0-bryan-mbeumo-remplace-des-la-22e-2a4e2b",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2a4e2bd8c789ef285da5eb4bc919476387b2f1f2.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/2a4e2bd8c789ef285da5eb4bc919476387b2f1f2.webp",
+        "source": "wikimedia",
+        "credit": "Pedro Semitiel",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Bryan_Mbeumo.jpg",
+        "alt": "Bryan Mbeumo, attaquant international camerounais",
+        "mots_cles": [
+          "Bryan Mbeumo"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "8287cca29d8bc3c911df07c6cf3ca41c4de9035e",
       "titre": "Mondial U17 : l'Ouganda tient l'Équateur en échec, l'Égypte s'impose face au Qatar",
@@ -1950,107 +2061,6 @@
         "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal",
         "mots_cles": [
           "Patrick Vieira"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "2fe41306bdffe427f7d4a71e085d72f13855fe6e",
-      "titre": "Sénégal : blessé au mollet, Mamadou Sarr déclare forfait contre le Soudan",
-      "resume": "Retenu par Patrick Vieira, le défenseur, qui joue à la Real Sociedad, ne disputera pas les deux rencontres des Lions face au Soudan. Les examens passés en Espagne ont révélé une lésion du soléaire gauche, sans durée d'absence annoncée.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/equipe-nationale-mamadou-sarr-forfait-pour-les-deux-matchs-contre-le-soudan_2021461.html",
-      "autres_sources": [
-        "https://senego.com/mamadou-sarr-forfait-avec-les-lions-pour-les-deux-matchs-contre-le-soudan_2021422.html",
-        "https://wiwsport.com/2026/11/07/equipe-nationale-blesse-avec-la-real-sociedad-mamadou-sarr-forfait-pour-le-rassemblement-des-lions/",
-        "https://wiwsport.com/2026/11/07/pellegrino-matarazzo-rassure-mamadou-sarr-apres-sa-blessure-des-quil-sera-de-nouveau-pret-il-redeviendra-un-element-tres-important/",
-        "https://foot-africa.com/actualites/mamadou-sarr-est-route-pour-la-real-sociedad-1331632/",
-        "https://africasoccer.com/mamadou-sarr-commits-to-senegal-over-france/"
-      ],
-      "publie_le": "2026-11-07T16:49:23.000Z",
-      "collecte_le": "2026-11-07T18:16:26.966Z",
-      "langue": "fr",
-      "slug": "senegal-blesse-au-mollet-mamadou-sarr-declare-forfait-contre-le-soudan-2fe413",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2fe41306bdffe427f7d4a71e085d72f13855fe6e.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/2fe41306bdffe427f7d4a71e085d72f13855fe6e.webp",
-        "source": "wikimedia",
-        "credit": "Jeanpierrekepseu",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:C%C3%A9l%C3%A9bration_S%C3%A9n%C3%A9gal_(4).jpg",
-        "alt": "Des joueurs de l'équipe du Sénégal de football",
-        "mots_cles": [
-          "Senegal Africa Cup of Nations 2021"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f",
-      "titre": "Éliminatoires CAN 2027 : les Lions du Sénégal se préparent de nouveau à Dakar",
-      "resume": "Avant d'affronter le Soudan le 12 novembre, la sélection sénégalaise quitte Saly et Diamniadio et revient dans la capitale. Les joueurs de Patrick Vieira s'entraîneront au stade Léopold-Sédar-Senghor, rouvert après des travaux.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Senego",
-      "source_url": "https://senego.com/eliminatoires-can-2027-les-lions-retrouvent-dakar-pour-preparer-le-match-contre-le-soudan_2021315.html",
-      "publie_le": "2026-11-07T09:07:48.000Z",
-      "collecte_le": "2026-11-07T11:20:55.382Z",
-      "langue": "fr",
-      "slug": "eliminatoires-can-2027-les-lions-du-senegal-se-preparent-de-nouveau-e5d4eb",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/e5d4ebaabd562cfe02a25f5e8f27cca94d30f99f.webp",
-        "source": "openverse",
-        "credit": "Jeff Attaway",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/33398364@N08/5316580750",
-        "alt": "Un stade de football en Afrique",
-        "mots_cles": [
-          "senegal football"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "31dfe6b08a50d28c942a1009aec36a2bf0eb3015",
-      "titre": "CAN 2027 : sans stade chez lui, le Niger défie deux fois le Maroc en novembre",
-      "resume": "Privé de stade homologué, le Niger jouera ses deux matches de novembre contre le Maroc sur le sol marocain, à Casablanca puis à Rabat. Son sélectionneur algérien, Nabil Neghiz, reconnaît la supériorité des Lions de l'Atlas mais vise au moins un point.",
-      "theme": "foot",
-      "pays": [
-        "NE",
-        "MA"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/maroc-face-a-la-meilleure-equipe-dafrique-le-selectionneur-algerien-du-niger-nabil-neghiz-se-donne-un-objectif-chiffre",
-      "publie_le": "2026-11-07T08:18:00.000Z",
-      "collecte_le": "2026-11-07T11:20:55.382Z",
-      "langue": "fr",
-      "slug": "can-2027-sans-stade-chez-lui-le-niger-defie-deux-fois-le-maroc-en-31dfe6",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/31dfe6b08a50d28c942a1009aec36a2bf0eb3015.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/31dfe6b08a50d28c942a1009aec36a2bf0eb3015.webp",
-        "source": "wikimedia",
-        "credit": "DRONE PROD-CINE MAROC",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Mohammed_V_stadium.jpg",
-        "alt": "Le stade Mohammed-V de Casablanca, au Maroc",
-        "mots_cles": [
-          "Stade Mohammed V Casablanca"
         ],
         "largeur": 1600,
         "hauteur": 900

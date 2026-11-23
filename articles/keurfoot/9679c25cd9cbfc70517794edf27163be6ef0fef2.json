@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "9679c25cd9cbfc70517794edf27163be6ef0fef2",
+  "slug": "can-2025-le-tas-tranchera-mardi-apres-midi-entre-le-senegal-et-le-9679c2",
+  "titre": "CAN 2025 : le TAS tranchera mardi après-midi entre le Sénégal et le Maroc",
+  "chapo": "Près de dix mois après le match de Rabat, l'épilogue judiciaire approche. Le TAS, juridiction suprême du sport, désignera mardi après-midi le vrai champion d'Afrique 2025 : Sénégal ou Maroc.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'instance installée à Lausanne a prévenu lundi les trois parties au dossier : la fédération du Sénégal (FSF), la CAF ainsi que la fédération du Maroc (FRMF). Sa décision tombera mardi après-midi. D'ici là, le tribunal ne répondra plus aux journalistes.",
+        "Le TAS demande aussi de ne se fier qu'à ses propres canaux, en particulier son site internet. Ces derniers mois, plusieurs faux jugements ont circulé sur les réseaux sociaux et semé la confusion."
+      ]
+    },
+    {
+      "intertitre": "Victoire sur la pelouse, défaite sur tapis vert",
+      "paragraphes": [
+        "Le 18 janvier à Rabat, la fin du match a tourné au chaos. Un but sénégalais a été annulé, puis l'arbitre a accordé un penalty au Maroc dans le temps additionnel. Sur décision de leur sélectionneur Pape Thiaw, les Lions de la Teranga sont sortis du terrain pendant un quart d'heure environ, avant d'y revenir, notamment à l'appel de Sadio Mané.",
+        "Édouard Mendy a ensuite repoussé la panenka de Brahim Díaz. En prolongation, Pape Gueye a offert la victoire au Sénégal, 1-0."
+      ]
+    },
+    {
+      "intertitre": "Deux décisions contraires de la CAF",
+      "paragraphes": [
+        "En première instance, les juges disciplinaires de la CAF ont infligé de fortes amendes, sans toucher au score. Saisi par la FRMF, le jury d'appel a changé de position le 17 mars : il a jugé que la sortie des Sénégalais valait abandon et a homologué un succès 3-0 du Maroc.",
+        "La FSF a porté l'affaire devant le TAS le 25 mars. Les parties ont été entendues à Lausanne le 8 octobre."
+      ]
+    },
+    {
+      "intertitre": "Ce que les juges doivent dire",
+      "paragraphes": [
+        "Dakar réclame l'annulation de la sanction et le retour au résultat du terrain. Son argument principal : l'arbitre a laissé la rencontre reprendre, puis a validé le score final. Les juges devront dire si une sortie provisoire suffit, en droit, à justifier un forfait alors que le match est allé à son terme.",
+        "Deux issues sont possibles : confirmer le titre attribué au Maroc ou rendre la couronne au Sénégal. Dans les deux pays, la sentence est attendue avec une grande impatience."
+      ]
+    }
+  ],
+  "mots": 360,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "MA"
+  ],
+  "competition": "CAN 2025",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/senegal-maroc-le-tas-annonce-une-decision-imminente-pour-la-finale-de-la-can-2025",
+  "autres_sources": [
+    "https://www.lequipe.fr/Football/Actualites/Can-2025-le-tas-rendra-son-verdict-ce-mardi-pour-la-designation-definitive-du-vainqueur-entre-le-maroc-et-le-senegal/1745543",
+    "https://senego.com/can-2025-litige-senegal-maroc-le-tas-rendra-son-verdict-ce-mardi-apres-midi_2026990.html",
+    "https://senego.com/tas-verdict-mardi-24-novembre-sur-lappel-de-la-fsf-publie-sur-son-site-officiel_2026987.html",
+    "https://www.footmercato.net/a928195689754466745-le-vainqueur-de-la-can-2025-sera-connu-demain",
+    "https://africatopsports.com/football/can-2025-le-tas-livrera-son-verdict-ce-mardi/"
+  ],
+  "publie_le": "2026-11-23T09:43:00.000Z",
+  "redige_le": "2026-11-23T11:20:29.049Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/9679c25cd9cbfc70517794edf27163be6ef0fef2.webp",
+    "source": "wikimedia",
+    "credit": "Fanny Schertzer",
+    "licence": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Court_of_Arbitration_for_Sport_-_Lausanne.jpg",
+    "alt": "Le Tribunal arbitral du sport, à Lausanne, en Suisse",
+    "mots_cles": [
+      "Court of Arbitration for Sport"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

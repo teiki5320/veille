@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "site": "kultiled",
+  "id": "212c32948cf1961cf01f2190b2c9cf361052b3a2",
+  "slug": "westland-chauffees-par-la-geothermie-des-serres-de-tomates-replantees-212c32",
+  "titre": "Westland : chauffées par la géothermie, des serres de tomates replantées très tôt",
+  "chapo": "Alors que l'hiver approche, les serres de L.A. van Schie sont déjà replantées. Chez ce producteur de tomates du Westland, aux Pays-Bas, la géothermie permet de lancer la saison bien avant la plupart des autres.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "L'entreprise familiale, installée à Kwintsheul, exploite 10 hectares de serres dans le polder de Broek. Rick van Schie la dirige avec son cousin Wes et son père Paul. Juste à côté se trouve Nature's Heat, un projet de géothermie qui fournit la chaleur nécessaire à ce démarrage hâtif.",
+        "Les jeunes plants sont entrés en serre après trois semaines de changement de culture. La variété retenue, Mediax, est greffée depuis deux ans sur un porte-greffe qui pousse la plante à fleurir et à fructifier. Selon le producteur, ses plants sont déjà plus développés que chez d'autres serristes précoces."
+      ]
+    },
+    {
+      "intertitre": "Des tomates néerlandaises dès février",
+      "paragraphes": [
+        "Les premiers fruits prennent en général leur couleur en février. Chaque année, les acheteurs réclament une solution de rechange aux tomates venues d'Espagne ou du Maroc ; ce départ précoce permet d'en proposer une cultivée aux Pays-Bas.",
+        "Au début, une partie est cueillie en grappes, car les fruits restés longtemps sur la plante tiennent bien à leur calice. Le nombre de grappes ainsi récoltées dépend de la demande : cinq ou six certaines années, souvent une seule ces derniers temps. Ensuite, place aux tomates détachées, que le marché préfère. Elles sont vendues par le groupement Oxin Growers."
+      ]
+    },
+    {
+      "intertitre": "Jours courts, climat délicat",
+      "paragraphes": [
+        "Le plus difficile reste le début de culture. À ce stade, le serriste soigne surtout la qualité des fleurs, parfois au détriment de la croissance future : les choix de décembre et de janvier pèsent sur le mois d'avril. Les jours raccourcissent alors que la charge de fruits augmente, ce qui exige une conduite fine du climat.",
+        "Les serres sont couvertes d'un film plastique dit AC. Pour la première fois, l'une d'elles reçoit aussi un double écran thermique. Vers la quatrième ou cinquième semaine de l'année, l'air devient trop humide et le film est retiré, mais il peut encore faire froid jusqu'en avril. Le second écran offre un réglage de plus ; son efficacité reste à vérifier."
+      ]
+    }
+  ],
+  "mots": 355,
+  "lecture_min": 2,
+  "theme": "culture-interieur",
+  "pays": [
+    "NL"
+  ],
+  "tags": [
+    "legume:tomate"
+  ],
+  "source_nom": "HortiDaily",
+  "source_url": "https://www.hortidaily.com/article/9894666/early-planted-tomato-crop-thrives-on-geothermal-heat-in-the-netherlands/",
+  "publie_le": "2026-11-23T11:05:00.000Z",
+  "redige_le": "2026-11-23T11:20:33.184Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/kultiled/212c32948cf1961cf01f2190b2c9cf361052b3a2.webp",
+    "source": "wikimedia",
+    "credit": "M.Minderhoud",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Kwintsheul_entree.jpg",
+    "alt": "Les serres du Westland, aux Pays-Bas",
+    "mots_cles": [
+      "Kwintsheul"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

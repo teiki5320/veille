@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "site": "solelis",
+  "id": "a6f29c25925516eebacabc9fa65a6819136b1515",
+  "slug": "aeronautique-emmanuel-macron-confirme-350-millions-euros-pour-la-a6f29c",
+  "titre": "Aéronautique : Emmanuel Macron confirme 350 millions d'euros pour la recherche civile",
+  "chapo": "Depuis l'usine Airbus de Toulouse, Emmanuel Macron a confirmé ce lundi 350 millions d'euros pour la recherche aéronautique civile en 2026. Un geste attendu par toute la filière, inquiète pour le financement de l'avion de demain.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Le président a parcouru lundi 23 novembre les chaînes d'Airbus, où il a découvert l'A350F, future version cargo du long-courrier, puis la ligne de l'A321. Il a confirmé une enveloppe de 350 millions d'euros destinée au Corac, l'organisme qui coordonne la recherche aéronautique civile. Il a aussi annoncé la création de vastes zones dédiées à l'industrie.",
+        "Le montant prévu pour 2026 n'était que de 215 millions, et il tardait à arriver. En 2023, le président avait promis 300 millions par an au Corac de 2024 à 2027. La filière a finalement reçu 284 millions en 2024 et 278 millions en 2025."
+      ]
+    },
+    {
+      "intertitre": "Plus d'un millier d'entreprises concernées",
+      "paragraphes": [
+        "L'aéronautique française compte entre 220 000 et 230 000 salariés directs, ainsi que plus d'un millier d'entreprises, des grands groupes aux sous-traitants. Le carnet de commandes déborde : plus de 20 000 commandes pour la famille A320 et 9 300 avions en attente de livraison.",
+        "Le président a demandé à Airbus de produire davantage. En inaugurant une deuxième ligne sur le site, il a rappelé le but du constructeur : porter la cadence à 75 avions A320 par mois, au plus tard début 2028."
+      ]
+    },
+    {
+      "intertitre": "Le financement de 2027 reste incertain",
+      "paragraphes": [
+        "Pour 2027, le projet de budget ne prévoit pour l'instant que 140 millions d'euros, plus 44 millions tirés d'un programme de recherche sur l'énergie et la mobilité. Avec la présidentielle, la suite reste floue. Or les industriels préparent un appareil très économe en carburant, dont le lancement est prévu en 2030 pour remplacer l'A320neo.",
+        "Le président a énuméré trois défis pour le secteur : l'intelligence artificielle, la décarbonation et la concurrence, notamment chinoise.",
+        "À Blagnac, une centaine de personnes ont manifesté à l'initiative de la CGT, tenues à distance de l'usine. Elles réclamaient des hausses de salaires, de pensions et de pouvoir d'achat."
+      ]
+    }
+  ],
+  "mots": 335,
+  "lecture_min": 2,
+  "theme": "entreprises",
+  "pays": [
+    "FR"
+  ],
+  "source_nom": "La Dépêche",
+  "source_url": "https://www.ladepeche.fr/2026/11/23/direct-emmanuel-macron-a-toulouse-le-chef-de-letat-en-visite-sur-le-site-dairbus-durant-toute-la-matinee-13666690.php",
+  "autres_sources": [
+    "https://www.lefigaro.fr/societes/chez-airbus-le-soutien-attendu-d-emmanuel-macron-a-la-filiere-aeronautique-20261122",
+    "https://www.ladepeche.fr/2026/11/23/emmanuel-macron-a-toulouse-chez-airbus-derriere-la-defense-de-son-bilan-economique-une-reindustrialisation-qui-sessouffle-13665899.php"
+  ],
+  "publie_le": "2026-11-23T10:53:55.000Z",
+  "redige_le": "2026-11-23T11:20:38.186Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/solelis/a6f29c25925516eebacabc9fa65a6819136b1515.webp",
+    "source": "wikimedia",
+    "credit": "Photograph by Mike Peel ( www.mikepeel.net ).",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:KLM_Airbus_A321neo_(PH-AXA)_@_MAN,_2025-07-16_(03).jpg",
+    "alt": "Un avion de ligne Airbus",
+    "mots_cles": [
+      "Airbus A321neo"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
