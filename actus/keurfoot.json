@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-23T11:20:29.049Z",
+  "genere_le": "2026-11-23T11:22:11.432Z",
   "actus": [
     {
       "id": "9679c25cd9cbfc70517794edf27163be6ef0fef2",
@@ -64,14 +64,15 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/758f61c5b220f87ab4f1b05e4ecf38f755db2d5a.json",
       "lecture_min": 1,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/758f61c5b220f87ab4f1b05e4ecf38f755db2d5a.webp",
-        "source": "wikimedia",
-        "credit": "Cinema Communautaire",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Mbaye_Maniang_Diagne_Auteur_R%C3%A9alisateur_Producteur_S%C3%A9n%C3%A9gal.jpg",
-        "alt": "Mbaye Diagne, attaquant international sénégalais",
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/758f61c5b220f87ab4f1b05e4ecf38f755db2d5a.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « Süper Lig »",
         "mots_cles": [
-          "Mbaye Diagne"
+          "Mbaye Diagne Amedspor 2026 xqzv",
+          "xqzvw mbaye amedspor"
         ],
         "largeur": 1600,
         "hauteur": 900

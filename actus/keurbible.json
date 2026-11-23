@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurbible",
-  "genere_le": "2026-11-23T11:20:26.583Z",
+  "genere_le": "2026-11-23T11:21:21.310Z",
   "actus": [
     {
       "id": "b85a9ef9314f2f62cebe5b4a6656506c2c8d98fa",
@@ -22,12 +22,12 @@
       "image": {
         "url": "https://teiki5320.github.io/veille/images/keurbible/b85a9ef9314f2f62cebe5b4a6656506c2c8d98fa.webp",
         "source": "wikimedia",
-        "credit": "HBoina",
-        "licence": "CC0",
-        "page": "https://commons.wikimedia.org/wiki/File:Mihaja_i_Androy,_Muscisien_Ambovombe_Tul%C3%A9ar_Madagascar.jpg",
-        "alt": "Vue d'Ambovombe, dans la région Androy, au sud de Madagascar",
+        "credit": "Kevin Gepford",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Madagascar_-_Androy_region.jpg",
+        "alt": "Un paysage du sud de Madagascar",
         "mots_cles": [
-          "Ambovombe"
+          "Androy Region"
         ],
         "largeur": 1600,
         "hauteur": 900
