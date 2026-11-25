@@ -1,8 +1,32 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-23T11:22:11.513Z",
+  "genere_le": "2026-11-25T01:09:18.126Z",
   "articles": [
+    {
+      "id": "3649ef5cbd07ef31ae3bbc8be77f725afb184309",
+      "slug": "mondial-u17-algerie-gagne-2-1-le-cameroun-battu-4-0-par-le-mexique-3649ef",
+      "titre": "Mondial U17 : l'Algérie gagne 2-1, le Cameroun battu 4-0 par le Mexique",
+      "publie_le": "2026-11-24T19:31:40.000Z",
+      "redige_le": "2026-11-25T01:08:03.315Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/3649ef5cbd07ef31ae3bbc8be77f725afb184309.json"
+    },
+    {
+      "id": "7617a12fda9ef713fe3e0dc8decb143b59286ad2",
+      "slug": "can-2025-la-federation-marocaine-veut-contester-la-sentence-du-tas-7617a1",
+      "titre": "CAN 2025 : la fédération marocaine veut contester la sentence du TAS",
+      "publie_le": "2026-11-24T19:19:19.000Z",
+      "redige_le": "2026-11-25T01:08:03.315Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/7617a12fda9ef713fe3e0dc8decb143b59286ad2.json"
+    },
+    {
+      "id": "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9",
+      "slug": "tas-le-senegal-reste-sacre-champion-afrique-2025-le-maroc-deboute-ac2229",
+      "titre": "TAS : le Sénégal reste sacré champion d'Afrique 2025, le Maroc débouté",
+      "publie_le": "2026-11-24T19:07:27.000Z",
+      "redige_le": "2026-11-25T01:08:03.315Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9.json"
+    },
     {
       "id": "9679c25cd9cbfc70517794edf27163be6ef0fef2",
       "slug": "can-2025-le-tas-tranchera-mardi-apres-midi-entre-le-senegal-et-le-9679c2",

@@ -1,8 +1,124 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-23T11:22:11.432Z",
+  "genere_le": "2026-11-25T01:08:03.315Z",
   "actus": [
+    {
+      "id": "3649ef5cbd07ef31ae3bbc8be77f725afb184309",
+      "titre": "Mondial U17 : l'Algérie gagne 2-1, le Cameroun battu 4-0 par le Mexique",
+      "resume": "Au Qatar, première victoire pour les jeunes Algériens (2-1 face au Monténégro), avec deux réalisations de Yacine Abed. Le Cameroun, déjà tombé contre le Venezuela, s'est incliné lourdement devant le Mexique (4-0). La Tanzanie a perdu de peu contre le Brésil (1-0).",
+      "theme": "foot",
+      "pays": [
+        "DZ",
+        "CM"
+      ],
+      "competition": "Coupe du monde U17",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u17-lalgerie-se-relance-contre-le-montenegro-le-cameroun-coule-face-au-mexique",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/24/mondial-u17-lalgerie-renverse-le-montenegro-2-1-et-se-relance/",
+        "https://africatopsports.com/coupe-du-monde-2026/coupe-du-monde-u17-le-mexique-ecrase-le-cameroun/",
+        "https://www.camfoot.com/actualites/cdm-u17-le-mexique-inflige-une-lecon-de-football-au-cameroun,561252.html"
+      ],
+      "publie_le": "2026-11-24T19:31:40.000Z",
+      "collecte_le": "2026-11-25T01:08:03.315Z",
+      "langue": "fr",
+      "slug": "mondial-u17-algerie-gagne-2-1-le-cameroun-battu-4-0-par-le-mexique-3649ef",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/3649ef5cbd07ef31ae3bbc8be77f725afb184309.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/3649ef5cbd07ef31ae3bbc8be77f725afb184309.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Algérie) et la mention « Coupe du monde U17 »",
+        "mots_cles": [
+          "Algérie équipe nationale de football des moins de 17 ans",
+          "youth football match africa",
+          "under 17 football"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "7617a12fda9ef713fe3e0dc8decb143b59286ad2",
+      "titre": "CAN 2025 : la fédération marocaine veut contester la sentence du TAS",
+      "resume": "Peu après la sentence de Lausanne favorable au Sénégal, la fédération marocaine promet d'user de tous les moyens de droit. Elle invoque un échange entre un des arbitres du dossier et le patron du football sénégalais, ce que Dakar récuse. La voie suisse existe, mais elle reste très étroite.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "SN"
+      ],
+      "competition": "CAN 2025",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/le-tas-retablit-le-senegal-la-federation-marocaine-na-quun-recours-etroit-en-suisse_2027600.html",
+      "autres_sources": [
+        "https://kawowo.com/2026/11/24/royal-moroccan-football-federation-reacts-after-cas-ruling-to-pursue-further-legal-means/",
+        "https://www.lequipe.fr/Football/Article/Mis-k-o-par-le-tas-le-maroc-compte-engager-toutes-les-procedures-legales-necessaires-pour-contester-la-decision-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745913",
+        "https://www.lequipe.fr/Football/Actualites/La-federation-royale-marocaine-conteste-la-decision-du-tas-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745836"
+      ],
+      "publie_le": "2026-11-24T19:19:19.000Z",
+      "collecte_le": "2026-11-25T01:08:03.315Z",
+      "langue": "fr",
+      "slug": "can-2025-la-federation-marocaine-veut-contester-la-sentence-du-tas-7617a1",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7617a12fda9ef713fe3e0dc8decb143b59286ad2.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/7617a12fda9ef713fe3e0dc8decb143b59286ad2.webp",
+        "source": "openverse",
+        "credit": "Magharebia",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=18787972",
+        "alt": "Des supporters de football dans un stade en Afrique.",
+        "mots_cles": [
+          "rabat stadium"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9",
+      "titre": "TAS : le Sénégal reste sacré champion d'Afrique 2025, le Maroc débouté",
+      "resume": "La juridiction sportive de Lausanne a donné tort au Maroc mardi : le Sénégal garde son sacre continental, celui du coup de sifflet final. L'instance écarte le forfait prononcé par la CAF. À ses yeux, l'arbitre pouvait légitimement relancer la partie.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "MA"
+      ],
+      "competition": "CAN 2025",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/aucune-erreur-de-droit-le-dg-du-tas-explique-pourquoi-le-senegal-a-conserve-sa-victoire-face-au-maroc_2027591.html",
+      "autres_sources": [
+        "https://senego.com/le-tas-communique-sa-sentence-complete-le-recours-au-tribunal-federal-reste-limite_2027524.html",
+        "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261124-edition-sp%C3%A9ciale-can-2025-le-s%C3%A9n%C3%A9gal-r%C3%A9cup%C3%A8re-son-titre-de-champion-d-afrique",
+        "https://www.lequipe.fr/Football/Actualites/Le-tas-justifie-sa-decision-de-debouter-le-maroc-et-de-donner-le-senegal-vainqueur-de-la-can-2025-l-arbitre-n-a-commis-aucune-erreur-de-droit/1745830",
+        "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/20261124-devant-le-tas-le-s%C3%A9n%C3%A9gal-r%C3%A9cup%C3%A8re-son-titre-de-champion-d-afrique-aux-d%C3%A9pens-du-maroc",
+        "https://senego.com/verdict-du-tas-le-senegal-echappe-aux-frais-darbitrage-le-maroc-et-la-caf-condamnes-a-payer_2027574.html",
+        "https://wiwsport.com/2026/11/24/classement-fifa-apres-le-verdict-du-tas-le-maroc-doit-rendre-18-points-au-senegal/"
+      ],
+      "publie_le": "2026-11-24T19:07:27.000Z",
+      "collecte_le": "2026-11-25T01:08:03.315Z",
+      "langue": "fr",
+      "slug": "tas-le-senegal-reste-sacre-champion-afrique-2025-le-maroc-deboute-ac2229",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9.webp",
+        "source": "openverse",
+        "credit": "yaroslavvb1",
+        "licence": "CC BY 2.0",
+        "page": "https://www.flickr.com/photos/84785685@N00/3011746950",
+        "alt": "Un bâtiment de justice ou de tribunal en Suisse.",
+        "mots_cles": [
+          "lausanne court building"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "9679c25cd9cbfc70517794edf27163be6ef0fef2",
       "titre": "CAN 2025 : le TAS tranchera mardi après-midi entre le Sénégal et le Maroc",
@@ -1957,111 +2073,6 @@
         "alt": "Des joueuses de l'équipe du Nigeria de football féminin",
         "mots_cles": [
           "Nigeria women's national football team"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751",
-      "titre": "CAF Awards 2026 : le Maroc a le plus de nommés, devant l'Égypte et le Sénégal",
-      "resume": "La CAF a dévoilé cette semaine les nommés de ses prix 2026, dont le Ballon d'Or africain. Le Maroc en totalise 16, l'Égypte 9, le Sénégal 8, l'Algérie 7 et la Côte d'Ivoire 5. Les lauréats seront connus le 7 décembre à Lagos.",
-      "theme": "foot",
-      "pays": [
-        "MA",
-        "EG",
-        "SN",
-        "DZ",
-        "CI"
-      ],
-      "competition": "Ballon d'Or africain",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/ballon-dor-africain-2026-maroc-senegal-algerie-cote-divoire-qui-a-le-plus-de-nommes-aux-caf-awards",
-      "publie_le": "2026-11-07T22:50:12.000Z",
-      "collecte_le": "2026-11-08T11:20:00.151Z",
-      "langue": "fr",
-      "slug": "caf-awards-2026-le-maroc-le-plus-de-nommes-devant-egypte-et-le-senegal-2d7e3e",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/2d7e3ef13b8ec0c29a8ebeb4dbe517b210e57751.webp",
-        "source": "wikimedia",
-        "credit": "Nawfel Ajari",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
-        "alt": "Achraf Hakimi, défenseur de l'équipe du Maroc",
-        "mots_cles": [
-          "Achraf Hakimi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "41cf9252dd268da413d2c491b4abd3c6fa9ab857",
-      "titre": "Égypte : Hossam Hassan n'est plus sélectionneur, Ali Maher prend sa place",
-      "resume": "La Fédération égyptienne a mis fin samedi aux fonctions d'Hossam Hassan, après des mois de polémiques liées à sa vie privée. Ali Maher lui succède aussitôt et affrontera le Malawi à deux reprises en novembre, en éliminatoires de la CAN 2027.",
-      "theme": "foot",
-      "pays": [
-        "EG"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/egypte-hossam-hassan-vire-du-poste-de-selectionneur-a-cause-de-ses-problemes-conjugaux",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/08/egypte-hossam-hassan-limoge-de-son-poste-de-selectionneur/",
-        "https://africatopsports.com/football/egypte-le-selectionneur-hossam-hassan-limoge-officiel/"
-      ],
-      "publie_le": "2026-11-07T20:44:01.000Z",
-      "collecte_le": "2026-11-08T11:20:00.151Z",
-      "langue": "fr",
-      "slug": "egypte-hossam-hassan-est-plus-selectionneur-ali-maher-prend-sa-place-41cf92",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/41cf9252dd268da413d2c491b4abd3c6fa9ab857.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/41cf9252dd268da413d2c491b4abd3c6fa9ab857.webp",
-        "source": "openverse",
-        "credit": "The original uploader was Realman208 at English Wikipedia.",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=1611939",
-        "alt": "Un stade de football en Égypte",
-        "mots_cles": [
-          "cairo international stadium"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "7ac3e0f0c1005892f076745253c4db6c3e7c9758",
-      "titre": "Sénégal : Mamadou Sarr blessé, Patrick Vieira doit remplacer un défenseur",
-      "resume": "Touché au mollet gauche, le défenseur de la Real Sociedad manquera les deux matchs des Lions contre le Soudan, prévus le 12 puis le 16 novembre. Selon la presse sénégalaise, Massiré Sylla, de l'Union Saint-Gilloise, serait appelé pour la première fois.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/senegal-patrick-vieira-deja-confronte-a-un-forfait-dans-sa-liste",
-      "autres_sources": [
-        "https://wiwsport.com/2026/11/07/info-wiwsports-massire-sylla-convoque-par-patrick-vieira-apres-le-forfait-de-mamadou-sarr/",
-        "https://senego.com/mamadou-sarr-forfait-massire-sylla-pourrait-rejoindre-les-lions-selon-wiwsport_2021520.html"
-      ],
-      "publie_le": "2026-11-07T18:58:25.000Z",
-      "collecte_le": "2026-11-08T11:20:00.151Z",
-      "langue": "fr",
-      "slug": "senegal-mamadou-sarr-blesse-patrick-vieira-doit-remplacer-un-defenseur-7ac3e0",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7ac3e0f0c1005892f076745253c4db6c3e7c9758.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/7ac3e0f0c1005892f076745253c4db6c3e7c9758.webp",
-        "source": "wikimedia",
-        "credit": "Simon Heseltine",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Patrick_Vieira_NYCFC.JPG",
-        "alt": "Patrick Vieira, sélectionneur de l'équipe du Sénégal",
-        "mots_cles": [
-          "Patrick Vieira"
         ],
         "largeur": 1600,
         "hauteur": 900

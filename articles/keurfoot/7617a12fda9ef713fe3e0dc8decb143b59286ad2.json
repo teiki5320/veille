@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "7617a12fda9ef713fe3e0dc8decb143b59286ad2",
+  "slug": "can-2025-la-federation-marocaine-veut-contester-la-sentence-du-tas-7617a1",
+  "titre": "CAN 2025 : la fédération marocaine veut contester la sentence du TAS",
+  "chapo": "Battue sur le plan juridique, la fédération marocaine ne s'avoue pas vaincue : elle prépare une riposte après la sentence rendue mardi à Lausanne.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Dans un communiqué diffusé après la sentence du 24 novembre, la FRMF exprime son mécontentement : l'une de ses demandes n'aurait pas été examinée. Elle promet de recourir à tous les moyens légaux disponibles contre la décision qui redonne la couronne continentale au Sénégal."
+      ]
+    },
+    {
+      "intertitre": "Ce que reproche la FRMF",
+      "paragraphes": [
+        "D'après la fédération marocaine, un échange aurait eu lieu entre l'arbitre allemand Ulrich Haas, l'un des arbitres du dossier, et le dirigeant de la fédération sénégalaise, environ deux jours avant l'annonce. Elle y voit une atteinte à l'impartialité du jugement.",
+        "Dakar conteste cette lecture. De son côté, le TAS dit n'avoir reçu aucune lettre marocaine signalant un tel incident. Rabat insiste aussi, pour sa part, sur le départ des joueurs sénégalais du terrain sans feu vert de l'arbitre, et juge la décision en décalage avec les positions récentes de l'IFAB et de la FIFA."
+      ]
+    },
+    {
+      "intertitre": "Une voie étroite en Suisse",
+      "paragraphes": [
+        "Reste une seule option : saisir la haute juridiction fédérale suisse. Elle ne rejoue pas la finale et ne nomme pas de vainqueur. Elle vérifie seulement si la procédure d'arbitrage a respecté des principes de base, par exemple l'indépendance du tribunal, sa compétence, le droit de chacun à être entendu, l'égalité des parties ou l'ordre public. Discuter la lecture du règlement de la CAN ne suffit généralement pas.",
+        "Le dépôt doit se faire dans un délai proche d'un mois après notification de la sentence, et il ne gèle pas automatiquement la décision. Les annulations de décisions du TAS restent rarissimes."
+      ]
+    },
+    {
+      "intertitre": "Ce qui s'applique en attendant",
+      "paragraphes": [
+        "En l'état, le jugement s'applique : le Sénégal est redevenu champion d'Afrique, un titre qu'il avait déjà remporté en 2022. La suite dépendra de la décision de la FRMF de saisir ou non la justice suisse dans le délai imparti."
+      ]
+    }
+  ],
+  "mots": 317,
+  "lecture_min": 1,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "SN"
+  ],
+  "competition": "CAN 2025",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/le-tas-retablit-le-senegal-la-federation-marocaine-na-quun-recours-etroit-en-suisse_2027600.html",
+  "autres_sources": [
+    "https://kawowo.com/2026/11/24/royal-moroccan-football-federation-reacts-after-cas-ruling-to-pursue-further-legal-means/",
+    "https://www.lequipe.fr/Football/Article/Mis-k-o-par-le-tas-le-maroc-compte-engager-toutes-les-procedures-legales-necessaires-pour-contester-la-decision-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745913",
+    "https://www.lequipe.fr/Football/Actualites/La-federation-royale-marocaine-conteste-la-decision-du-tas-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745836"
+  ],
+  "publie_le": "2026-11-24T19:19:19.000Z",
+  "redige_le": "2026-11-25T01:08:03.315Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/7617a12fda9ef713fe3e0dc8decb143b59286ad2.webp",
+    "source": "openverse",
+    "credit": "Magharebia",
+    "licence": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/w/index.php?curid=18787972",
+    "alt": "Des supporters de football dans un stade en Afrique.",
+    "mots_cles": [
+      "rabat stadium"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

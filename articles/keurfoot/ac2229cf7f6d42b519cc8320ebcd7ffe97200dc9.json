@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9",
+  "slug": "tas-le-senegal-reste-sacre-champion-afrique-2025-le-maroc-deboute-ac2229",
+  "titre": "TAS : le Sénégal reste sacré champion d'Afrique 2025, le Maroc débouté",
+  "chapo": "Dix mois après un match terminé dans la confusion, la justice sportive internationale a tranché : la couronne continentale 2025 revient au Sénégal, vainqueur sur la pelouse de Rabat.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "C'est le mardi 24 novembre 2026 que Lausanne a rendu son verdict. Les trois juges ont voté d'une seule voix. Ils accueillent le recours des Sénégalais, effacent la décision de l'instance d'appel de la confédération africaine et rétablissent l'avis initial de sa commission de discipline. Le score du terrain, 1-0 pour les Lions de la Teranga contre le Maroc, est donc validé."
+      ]
+    },
+    {
+      "intertitre": "Un trophée attribué deux fois",
+      "paragraphes": [
+        "Tout commence à Rabat, le 18 janvier 2026 : le Sénégal s'impose 1-0. Deux mois plus tard, le 17 mars, la CAF change la donne. Son instance d'appel estime que les Sénégalais ont déserté la pelouse en cours de partie, leur inflige un forfait en invoquant les articles 82 et 84 du règlement, puis offre le trophée au Maroc sur un 3-0 décidé au tapis vert.",
+        "Dakar a porté l'affaire à Lausanne le 25 mars, et les deux camps ont plaidé le 8 octobre."
+      ]
+    },
+    {
+      "intertitre": "Le raisonnement des juges",
+      "paragraphes": [
+        "Le patron du TAS, Matthieu Reeb, a détaillé sur France 24 la logique du jugement. Selon lui, joueurs sénégalais et marocains avaient regagné la pelouse, signe qu'ils acceptaient de jouer la fin du match. L'arbitre a donc relancé la partie à la 109e minute, un choix qui ne dépend que des lois du jeu et de son appréciation personnelle.",
+        "Pour les juges, un forfait n'aurait été envisageable que si l'arbitre avait décidé d'arrêter définitivement la rencontre, ce qui n'est pas arrivé. Pas de faute de droit, donc la sanction de la CAF tombe."
+      ]
+    },
+    {
+      "intertitre": "Et après ?",
+      "paragraphes": [
+        "Le jugement détaillé a été remis aux deux parties. Côté marocain, on annonce vouloir poursuivre sur le plan juridique ; la seule porte encore ouverte est un recours devant la haute juridiction suisse, aux motifs très restreints.",
+        "Pour les Lions de la Teranga, c'est un deuxième trophée continental, après celui de 2022."
+      ]
+    }
+  ],
+  "mots": 332,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "MA"
+  ],
+  "competition": "CAN 2025",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/aucune-erreur-de-droit-le-dg-du-tas-explique-pourquoi-le-senegal-a-conserve-sa-victoire-face-au-maroc_2027591.html",
+  "autres_sources": [
+    "https://senego.com/le-tas-communique-sa-sentence-complete-le-recours-au-tribunal-federal-reste-limite_2027524.html",
+    "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261124-edition-sp%C3%A9ciale-can-2025-le-s%C3%A9n%C3%A9gal-r%C3%A9cup%C3%A8re-son-titre-de-champion-d-afrique",
+    "https://www.lequipe.fr/Football/Actualites/Le-tas-justifie-sa-decision-de-debouter-le-maroc-et-de-donner-le-senegal-vainqueur-de-la-can-2025-l-arbitre-n-a-commis-aucune-erreur-de-droit/1745830",
+    "https://www.rfi.fr/fr/podcasts/radio-foot-internationale/20261124-devant-le-tas-le-s%C3%A9n%C3%A9gal-r%C3%A9cup%C3%A8re-son-titre-de-champion-d-afrique-aux-d%C3%A9pens-du-maroc",
+    "https://senego.com/verdict-du-tas-le-senegal-echappe-aux-frais-darbitrage-le-maroc-et-la-caf-condamnes-a-payer_2027574.html",
+    "https://wiwsport.com/2026/11/24/classement-fifa-apres-le-verdict-du-tas-le-maroc-doit-rendre-18-points-au-senegal/"
+  ],
+  "publie_le": "2026-11-24T19:07:27.000Z",
+  "redige_le": "2026-11-25T01:08:03.315Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9.webp",
+    "source": "openverse",
+    "credit": "yaroslavvb1",
+    "licence": "CC BY 2.0",
+    "page": "https://www.flickr.com/photos/84785685@N00/3011746950",
+    "alt": "Un bâtiment de justice ou de tribunal en Suisse.",
+    "mots_cles": [
+      "lausanne court building"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}
