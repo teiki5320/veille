@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-25T01:08:03.315Z",
+  "genere_le": "2026-11-25T01:09:50.521Z",
   "actus": [
     {
       "id": "3649ef5cbd07ef31ae3bbc8be77f725afb184309",
@@ -66,14 +66,15 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7617a12fda9ef713fe3e0dc8decb143b59286ad2.json",
       "lecture_min": 1,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/7617a12fda9ef713fe3e0dc8decb143b59286ad2.webp",
-        "source": "openverse",
-        "credit": "Magharebia",
-        "licence": "CC BY 2.0",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=18787972",
-        "alt": "Des supporters de football dans un stade en Afrique.",
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/7617a12fda9ef713fe3e0dc8decb143b59286ad2.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Maroc) et la mention « CAN 2025 »",
         "mots_cles": [
-          "rabat stadium"
+          "zzqxk introuvable",
+          "zzqxk introuvable"
         ],
         "largeur": 1600,
         "hauteur": 900
@@ -106,14 +107,15 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9.json",
       "lecture_min": 2,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9.webp",
-        "source": "openverse",
-        "credit": "yaroslavvb1",
-        "licence": "CC BY 2.0",
-        "page": "https://www.flickr.com/photos/84785685@N00/3011746950",
-        "alt": "Un bâtiment de justice ou de tribunal en Suisse.",
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Sénégal) et la mention « CAN 2025 »",
         "mots_cles": [
-          "lausanne court building"
+          "zzqxk introuvable",
+          "zzqxk introuvable"
         ],
         "largeur": 1600,
         "hauteur": 900

@@ -2692,11 +2692,11 @@
     },
     {
       "id": "7617a12fda9ef713fe3e0dc8decb143b59286ad2",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Moncef_Belkhyate_visiting_Fus_Rabat_Stadium.jpg"
+      "origine": "carte:keurfoot:7617a12fda9ef713fe3e0dc8decb143b59286ad2"
     },
     {
       "id": "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9",
-      "origine": "https://live.staticflickr.com/3071/3011746950_63cd008614_b.jpg"
+      "origine": "carte:keurfoot:ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9"
     },
     {
       "id": "9679c25cd9cbfc70517794edf27163be6ef0fef2",
@@ -2825,8 +2825,8 @@
     "9679c25cd9cbfc70517794edf27163be6ef0fef2": "https://upload.wikimedia.org/wikipedia/commons/1/13/Court_of_Arbitration_for_Sport_-_Lausanne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "2a4e2bd8c789ef285da5eb4bc919476387b2f1f2": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bryan_Mbeumo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "758f61c5b220f87ab4f1b05e4ecf38f755db2d5a": "carte:keurfoot:758f61c5b220f87ab4f1b05e4ecf38f755db2d5a",
-    "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9": "https://live.staticflickr.com/3071/3011746950_63cd008614_b.jpg",
-    "7617a12fda9ef713fe3e0dc8decb143b59286ad2": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Moncef_Belkhyate_visiting_Fus_Rabat_Stadium.jpg",
+    "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9": "carte:keurfoot:ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9",
+    "7617a12fda9ef713fe3e0dc8decb143b59286ad2": "carte:keurfoot:7617a12fda9ef713fe3e0dc8decb143b59286ad2",
     "3649ef5cbd07ef31ae3bbc8be77f725afb184309": "carte:keurfoot:3649ef5cbd07ef31ae3bbc8be77f725afb184309"
   },
   "refusees": {
@@ -2908,6 +2908,12 @@
       "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbaye_Maniang_Diagne_Auteur_R%C3%A9alisateur_Producteur_S%C3%A9n%C3%A9gal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ercan_%C3%87apar_at_Antalyaspor_vs_Amed_SK_20211130_%284%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/c/cb/SOCCER_STRIKER_DIOGO_FONSECA_from_PORTUGAL_2015.jpg"
+    ],
+    "7617a12fda9ef713fe3e0dc8decb143b59286ad2": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Moncef_Belkhyate_visiting_Fus_Rabat_Stadium.jpg"
+    ],
+    "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9": [
+      "https://live.staticflickr.com/3071/3011746950_63cd008614_b.jpg"
     ]
   }
 }
