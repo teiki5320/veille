@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "f8b314c6a527b4925d6fa7288e8c173e4ac63921",
+  "slug": "can-2027-la-mauritanie-contesterait-eligibilite-arthur-zagre-avec-le-f8b314",
+  "titre": "CAN 2027 : la Mauritanie contesterait l'éligibilité d'Arthur Zagré avec le Burkina",
+  "chapo": "Selon le journaliste Romain Molina, la fédération mauritanienne contesterait la présence d'Arthur Zagré chez les Étalons, ce qui menacerait le Burkina Faso dans sa route vers la CAN 2027.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Un recours sportif pourrait rebattre les cartes du groupe burkinabè en vue de la prochaine CAN. Le journaliste Romain Molina affirme que la fédération mauritanienne a écrit à la CAF pour mettre en cause l'arrière gauche Arthur Zagré, titulaire côté Burkina.",
+        "Il s'agit pour l'instant d'une information relayée par la presse : ni la CAF ni les fédérations concernées n'ont, dans les éléments consultés, confirmé la démarche ou ses suites."
+      ]
+    },
+    {
+      "intertitre": "Un changement de sélection au cœur du dossier",
+      "paragraphes": [
+        "Le joueur a porté par le passé le maillot des équipes de France de jeunes, notamment à l'Euro des moins de 19 ans. Changer ensuite de sélection suppose l'aval préalable de la FIFA, qui encadre ces transferts d'allégeance sportive.",
+        "D'après le journaliste, ce feu vert n'aurait jamais été obtenu, alors que le défenseur a joué lors des quatre premiers matches de cette campagne qualificative. La Mauritanie estime donc qu'un joueur non autorisé a été aligné, et c'est ce reproche précis qu'elle porterait devant l'instance continentale."
+      ]
+    },
+    {
+      "intertitre": "Ce que risquerait le Burkina Faso",
+      "paragraphes": [
+        "Si les instances compétentes donnaient raison au plaignant, la sanction habituelle dans ce type d'affaire est la défaite sur tapis vert. Romain Molina évoque ainsi une possible victoire par forfait de la Mauritanie lors des deux duels directs entre les deux nations.",
+        "Un tel verdict modifierait nettement le classement du groupe et, par ricochet, les chances de qualification de chaque équipe. Rien n'est toutefois tranché : la CAF doit encore examiner le dossier, et le Burkina Faso peut y répondre."
+      ]
+    },
+    {
+      "intertitre": "Un précédent côté mauritanien",
+      "paragraphes": [
+        "Ce dossier en rappelle un autre, vécu cette fois par la Mauritanie. En 2023, la sélection avait été punie pour avoir utilisé Khadim Diaw : c'est la RD Congo qui avait alors élevé une contestation sur son statut.",
+        "Les deux affaires montrent que l'éligibilité d'un joueur peut peser sur une qualification, parfois bien après le coup de sifflet final."
+      ]
+    }
+  ],
+  "mots": 341,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "BF",
+    "MR"
+  ],
+  "competition": "Éliminatoires CAN 2027",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/can-2027-la-mauritanie-attaque-le-burkina-faso-risque-le-forfait_2027929.html",
+  "autres_sources": [
+    "https://wiwsport.com/2026/11/25/can-2027-une-plainte-de-la-mauritanie-menace-la-qualification-du-burkina-faso/"
+  ],
+  "publie_le": "2026-11-25T15:49:52.000Z",
+  "redige_le": "2026-11-25T17:06:13.673Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/f8b314c6a527b4925d6fa7288e8c173e4ac63921.webp",
+    "source": "wikimedia",
+    "credit": "kyselak",
+    "licence": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Burkina_team.png",
+    "alt": "L'équipe nationale de football du Burkina Faso lors d'un match",
+    "mots_cles": [
+      "Burkina Faso national football team"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

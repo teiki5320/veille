@@ -1,8 +1,43 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-25T01:09:50.521Z",
+  "genere_le": "2026-11-25T17:06:13.673Z",
   "actus": [
+    {
+      "id": "f8b314c6a527b4925d6fa7288e8c173e4ac63921",
+      "titre": "CAN 2027 : la Mauritanie contesterait l'éligibilité d'Arthur Zagré avec le Burkina",
+      "resume": "D'après le journaliste Romain Molina, la Mauritanie aurait déposé un recours auprès de la CAF au sujet du défenseur Arthur Zagré, utilisé par les Étalons. Une sanction pourrait transformer deux matches en défaites sur tapis vert. Aucune confirmation officielle à ce stade.",
+      "theme": "foot",
+      "pays": [
+        "BF",
+        "MR"
+      ],
+      "competition": "Éliminatoires CAN 2027",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/can-2027-la-mauritanie-attaque-le-burkina-faso-risque-le-forfait_2027929.html",
+      "autres_sources": [
+        "https://wiwsport.com/2026/11/25/can-2027-une-plainte-de-la-mauritanie-menace-la-qualification-du-burkina-faso/"
+      ],
+      "publie_le": "2026-11-25T15:49:52.000Z",
+      "collecte_le": "2026-11-25T17:06:13.673Z",
+      "langue": "fr",
+      "slug": "can-2027-la-mauritanie-contesterait-eligibilite-arthur-zagre-avec-le-f8b314",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/f8b314c6a527b4925d6fa7288e8c173e4ac63921.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/f8b314c6a527b4925d6fa7288e8c173e4ac63921.webp",
+        "source": "wikimedia",
+        "credit": "kyselak",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Burkina_team.png",
+        "alt": "L'équipe nationale de football du Burkina Faso lors d'un match",
+        "mots_cles": [
+          "Burkina Faso national football team"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "3649ef5cbd07ef31ae3bbc8be77f725afb184309",
       "titre": "Mondial U17 : l'Algérie gagne 2-1, le Cameroun battu 4-0 par le Mexique",
@@ -2043,38 +2078,6 @@
         "alt": "Le Stadium of Light, stade du club anglais de Sunderland",
         "mots_cles": [
           "Stadium of Light Sunderland"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "5919fcd77c4a9c2f84e99bc9d29b7f297b29c083",
-      "titre": "Le Nigeria championne du monde U17, une première pour le football féminin africain",
-      "resume": "En finale à Rabat, samedi, les Flamingos ont dominé le Japon 2-1. Jamais une équipe africaine n'avait remporté un Mondial féminin, quelle que soit la catégorie d'âge. Oluebube Umejiaku a été élue meilleure joueuse du tournoi.",
-      "theme": "foot",
-      "pays": [
-        "NG",
-        "JP"
-      ],
-      "competition": "Coupe du monde féminine U17",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/coupe-du-monde-feminine-u17-lafrique-decroche-un-sacre-historique-au-maroc",
-      "publie_le": "2026-11-08T10:12:20.000Z",
-      "collecte_le": "2026-11-08T11:20:00.151Z",
-      "langue": "fr",
-      "slug": "le-nigeria-championne-du-monde-u17-une-premiere-pour-le-football-5919fc",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/5919fcd77c4a9c2f84e99bc9d29b7f297b29c083.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/5919fcd77c4a9c2f84e99bc9d29b7f297b29c083.webp",
-        "source": "wikimedia",
-        "credit": "David Jane Footballer",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:After_training_with_my_team_mates_in_the_National_Camp_Super_Falcon_in_Abuja_Nigeria.JPG",
-        "alt": "Des joueuses de l'équipe du Nigeria de football féminin",
-        "mots_cles": [
-          "Nigeria women's national football team"
         ],
         "largeur": 1600,
         "hauteur": 900
