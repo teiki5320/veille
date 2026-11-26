@@ -2854,7 +2854,7 @@
   "images_recentes": [
     {
       "id": "637af6a0688a6e8bc8157fc5971cffe1471baf8c",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ACM-Spurs_CL_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "carte:keurfoot:637af6a0688a6e8bc8157fc5971cffe1471baf8c"
     },
     {
       "id": "f8b314c6a527b4925d6fa7288e8c173e4ac63921",
@@ -2993,7 +2993,7 @@
     "7617a12fda9ef713fe3e0dc8decb143b59286ad2": "carte:keurfoot:7617a12fda9ef713fe3e0dc8decb143b59286ad2",
     "3649ef5cbd07ef31ae3bbc8be77f725afb184309": "carte:keurfoot:3649ef5cbd07ef31ae3bbc8be77f725afb184309",
     "f8b314c6a527b4925d6fa7288e8c173e4ac63921": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Burkina_team.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "637af6a0688a6e8bc8157fc5971cffe1471baf8c": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ACM-Spurs_CL_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "637af6a0688a6e8bc8157fc5971cffe1471baf8c": "carte:keurfoot:637af6a0688a6e8bc8157fc5971cffe1471baf8c"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [
@@ -3080,6 +3080,10 @@
     ],
     "ac2229cf7f6d42b519cc8320ebcd7ffe97200dc9": [
       "https://live.staticflickr.com/3071/3011746950_63cd008614_b.jpg"
+    ],
+    "637af6a0688a6e8bc8157fc5971cffe1471baf8c": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ef/ACM-Spurs_CL_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/ACM-Spurs_free_kick.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
   }
 }
