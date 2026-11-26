@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "637af6a0688a6e8bc8157fc5971cffe1471baf8c",
+  "slug": "caf-awards-2026-regragui-est-pas-dans-le-trio-de-tete-des-coachs-637af6",
+  "titre": "CAF Awards 2026 : Regragui n'est pas dans le trio de tête des coachs",
+  "chapo": "Le lendemain du verdict rendu par le TAS à propos de la CAN 2025, la CAF a fait connaître ses trois derniers candidats au trophée de meilleur coach africain. Regragui est écarté.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Selon le média sénégalais Senego, la course au trophée de meilleur coach africain 2026 se joue désormais entre le Sénégalais Thiaw, le Marocain Ouahbi et le Cap-Verdien Bubista. Walid Regragui, qui dirigeait le Maroc jusqu'au printemps, ne figure plus parmi les prétendants, à peine vingt-quatre heures après la sentence du Tribunal arbitral du sport.",
+        "Cette sentence, rendue mardi, a effacé la décision de la commission d'appel de la CAF qui donnait la finale gagnée au Maroc sur tapis vert. Le TAS a validé le résultat du terrain, 1-0 pour le Sénégal à Rabat : les Lions de la Teranga conservent donc leur couronne continentale."
+      ]
+    },
+    {
+      "intertitre": "Trois profils différents",
+      "paragraphes": [
+        "Pape Thiaw, bien sûr, demeure en lice : il a guidé le Sénégal vers ce titre. Mohamed Ouahbi a repris la sélection marocaine en mars, après Regragui, et l'a conduite au stade des quarts lors du Mondial 2026.",
+        "Bubista, lui, a qualifié le Cap-Vert pour la première Coupe du monde de son histoire, et son équipe a joué le premier tour de la compétition."
+      ]
+    },
+    {
+      "intertitre": "Pas de place pour les coachs de clubs",
+      "paragraphes": [
+        "Aucun entraîneur de club n'est retenu. Miguel Cardoso, qui a remporté la C1 africaine avec Mamelodi Sundowns, reste sur la touche, comme Lamine N'Diaye, vainqueur de la Coupe de la CAF à la tête de l'USM Alger."
+      ]
+    },
+    {
+      "intertitre": "Une revendication qui a tourné court",
+      "paragraphes": [
+        "Quand la commission d'appel de la CAF avait donné raison au Maroc, Regragui s'était proclamé champion d'Afrique, quoi qu'on en pense. Il avait également reproché à Thiaw d'avoir demandé à ses joueurs de quitter la pelouse pendant la finale.",
+        "Son nom est aujourd'hui évoqué pour le banc du Qatar, mais aucune confirmation n'existe et la fédération de ce pays affiche toujours son technicien en place.",
+        "La cérémonie qui désignera le gagnant aura lieu le 2 décembre à Lagos."
+      ]
+    }
+  ],
+  "mots": 332,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "SN",
+    "MA"
+  ],
+  "competition": "CAF Awards",
+  "source_nom": "Senego",
+  "source_url": "https://senego.com/en-24-heures-regragui-perd-le-titre-can-revendique-et-le-prix-dentraineur-caf_2028220.html",
+  "publie_le": "2026-11-26T10:06:54.000Z",
+  "redige_le": "2026-11-26T11:06:52.773Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/637af6a0688a6e8bc8157fc5971cffe1471baf8c.webp",
+    "source": "wikimedia",
+    "credit": "LHC88",
+    "licence": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:ACM-Spurs_CL_2023.png",
+    "alt": "Pape Thiaw, sélectionneur du Sénégal",
+    "mots_cles": [
+      "Pape Thiaw"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

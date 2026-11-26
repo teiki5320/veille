@@ -1,8 +1,40 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-25T17:06:13.673Z",
+  "genere_le": "2026-11-26T11:06:52.773Z",
   "actus": [
+    {
+      "id": "637af6a0688a6e8bc8157fc5971cffe1471baf8c",
+      "titre": "CAF Awards 2026 : Regragui n'est pas dans le trio de tête des coachs",
+      "resume": "D'après Senego, la CAF a dévoilé trois finalistes pour le meilleur coach du continent : Thiaw, Ouahbi et Bubista. Le Marocain Walid Regragui est absent, un jour après que le TAS a redonné le sacre de la CAN 2025 au Sénégal. Réponse attendue le 2 décembre, à Lagos.",
+      "theme": "foot",
+      "pays": [
+        "SN",
+        "MA"
+      ],
+      "competition": "CAF Awards",
+      "source_nom": "Senego",
+      "source_url": "https://senego.com/en-24-heures-regragui-perd-le-titre-can-revendique-et-le-prix-dentraineur-caf_2028220.html",
+      "publie_le": "2026-11-26T10:06:54.000Z",
+      "collecte_le": "2026-11-26T11:06:52.773Z",
+      "langue": "fr",
+      "slug": "caf-awards-2026-regragui-est-pas-dans-le-trio-de-tete-des-coachs-637af6",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/637af6a0688a6e8bc8157fc5971cffe1471baf8c.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/637af6a0688a6e8bc8157fc5971cffe1471baf8c.webp",
+        "source": "wikimedia",
+        "credit": "LHC88",
+        "licence": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:ACM-Spurs_CL_2023.png",
+        "alt": "Pape Thiaw, sélectionneur du Sénégal",
+        "mots_cles": [
+          "Pape Thiaw"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "f8b314c6a527b4925d6fa7288e8c173e4ac63921",
       "titre": "CAN 2027 : la Mauritanie contesterait l'éligibilité d'Arthur Zagré avec le Burkina",
@@ -2047,37 +2079,6 @@
         "alt": "Le stade Loftus Versfeld ou la ville de Pretoria, en Afrique du Sud",
         "mots_cles": [
           "Pretoria skyline"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "2fc3a4ad7b8e212950e8a20b04d792a62fd3d967",
-      "titre": "Premier League : le Congolais Jules Ahoka, homme du match de Sunderland contre Chelsea",
-      "resume": "Entré dès la 4e minute à la place de Granit Xhaka, blessé, le milieu congolais Jules Ahoka a été élu meilleur joueur de la victoire 1-0 de Sunderland sur Chelsea, dimanche. À 20 ans, il évoluait encore en deuxième division en RDC il y a un an.",
-      "theme": "foot",
-      "pays": [
-        "CD"
-      ],
-      "competition": "Premier League",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/jules-ahoka-la-folle-ascension-de-limprobable-heros-congolais-de-sunderland-contre-chelsea",
-      "publie_le": "2026-11-08T23:33:40.000Z",
-      "collecte_le": "2026-11-09T11:23:04.467Z",
-      "langue": "fr",
-      "slug": "premier-league-le-congolais-jules-ahoka-homme-du-match-de-sunderland-2fc3a4",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/2fc3a4ad7b8e212950e8a20b04d792a62fd3d967.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/2fc3a4ad7b8e212950e8a20b04d792a62fd3d967.webp",
-        "source": "wikimedia",
-        "credit": "Original: Arne Müseler; Derivative work: Blackcat",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Sunderland_Stadium_of_Light_aerial.jpg",
-        "alt": "Le Stadium of Light, stade du club anglais de Sunderland",
-        "mots_cles": [
-          "Stadium of Light Sunderland"
         ],
         "largeur": 1600,
         "hauteur": 900

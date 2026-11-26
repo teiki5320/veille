@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-25T17:06:17.412Z",
+  "genere_le": "2026-11-26T11:06:55.902Z",
   "articles": [
+    {
+      "id": "637af6a0688a6e8bc8157fc5971cffe1471baf8c",
+      "slug": "caf-awards-2026-regragui-est-pas-dans-le-trio-de-tete-des-coachs-637af6",
+      "titre": "CAF Awards 2026 : Regragui n'est pas dans le trio de tête des coachs",
+      "publie_le": "2026-11-26T10:06:54.000Z",
+      "redige_le": "2026-11-26T11:06:52.773Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/637af6a0688a6e8bc8157fc5971cffe1471baf8c.json"
+    },
     {
       "id": "f8b314c6a527b4925d6fa7288e8c173e4ac63921",
       "slug": "can-2027-la-mauritanie-contesterait-eligibilite-arthur-zagre-avec-le-f8b314",
