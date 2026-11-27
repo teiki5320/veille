@@ -1,8 +1,24 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-27T11:08:13.388Z",
+  "genere_le": "2026-11-27T17:07:47.374Z",
   "articles": [
+    {
+      "id": "943b380ba30f3a9885337b486fbe02b1de783011",
+      "slug": "ligue-des-champions-caf-mokwena-affiche-ses-ambitions-avant-pyramids-943b38",
+      "titre": "Ligue des champions CAF : Mokwena affiche ses ambitions avant Pyramids–MAS Fès",
+      "publie_le": "2026-11-27T16:32:52.000Z",
+      "redige_le": "2026-11-27T17:07:43.997Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/943b380ba30f3a9885337b486fbe02b1de783011.json"
+    },
+    {
+      "id": "9a66045ea66dbc35e2a7941a519d3b17369d4da8",
+      "slug": "la-caf-generalise-le-var-des-les-poules-de-ses-competitions-de-clubs-9a6604",
+      "titre": "La CAF généralise le VAR dès les poules de ses compétitions de clubs",
+      "publie_le": "2026-11-27T16:14:39.000Z",
+      "redige_le": "2026-11-27T17:07:43.997Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/9a66045ea66dbc35e2a7941a519d3b17369d4da8.json"
+    },
     {
       "id": "afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1",
       "slug": "caf-awards-2026-cinq-finalistes-pour-le-titre-de-meilleur-joueur-dont-afa3d0",

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "9a66045ea66dbc35e2a7941a519d3b17369d4da8",
+  "slug": "la-caf-generalise-le-var-des-les-poules-de-ses-competitions-de-clubs-9a6604",
+  "titre": "La CAF généralise le VAR dès les poules de ses compétitions de clubs",
+  "chapo": "La Confédération africaine de football étend l'arbitrage vidéo à toutes les rencontres de poules de ses deux compétitions de clubs pour la saison 2026-2027. Une première, jusqu'ici réservée aux phases à élimination directe.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "La CAF a annoncé que l'assistance vidéo à l'arbitrage, le VAR, sera disponible dès la phase de groupes de la Ligue des champions et de la Coupe de la Confédération pour l'édition 2026-2027. Les clubs africains n'en bénéficiaient jusqu'ici qu'à partir des tours à élimination directe.",
+        "La mesure s'applique immédiatement : elle débute ce vendredi 27 novembre 2026, jour du coup d'envoi de la phase de groupes de la Coupe de la Confédération."
+      ]
+    },
+    {
+      "intertitre": "Un dispositif rendu possible par la formation",
+      "paragraphes": [
+        "Pour équiper l'ensemble des stades concernés, l'instance s'est appuyée sur son programme de formation, la CAF VAR Academy. Celui-ci a fourni le matériel de diffusion et d'arbitrage nécessaire, et organisé des stages à l'échelle des zones comme du continent.",
+        "Résultat : un vivier plus large d'arbitres vidéo qualifiés, répartis dans les six unions zonales de la confédération. C'est cette réserve de compétences qui permet de couvrir toutes les journées de poules, sur des terrains très éloignés les uns des autres."
+      ]
+    },
+    {
+      "intertitre": "Une ligne défendue par la présidence de la CAF",
+      "paragraphes": [
+        "L'évolution est présentée comme le fruit des investissements voulus par le président Patrice Motsepe, qui met en avant les infrastructures, la formation des arbitres et la professionnalisation des compétitions continentales.",
+        "La CAF espère ainsi appuyer les arbitres de champ dans les matchs décisifs, rendre les décisions plus régulières et renforcer la confiance dans l'arbitrage africain."
+      ]
+    },
+    {
+      "intertitre": "Après la CAN, une généralisation progressive",
+      "paragraphes": [
+        "Le VAR était déjà en place pour la Coupe d'Afrique des nations masculine et pour la CAN féminine. Son arrivée en phase de groupes des compétitions interclubs prolonge cette volonté d'harmoniser les outils sur les grands rendez-vous du football africain.",
+        "Reste à voir, au fil des journées, comment les arbitres et les équipes s'adapteront à ce nouvel outil sur des rencontres où chaque point compte pour la qualification."
+      ]
+    }
+  ],
+  "mots": 331,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [],
+  "competition": "Ligue des champions CAF",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/11/27/caf-introduces-var-for-2026-27-interclub-group-stages-in-historic-officiating-milestone/",
+  "publie_le": "2026-11-27T16:14:39.000Z",
+  "redige_le": "2026-11-27T17:07:43.997Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/9a66045ea66dbc35e2a7941a519d3b17369d4da8.webp",
+    "source": "wikimedia",
+    "credit": "Carlos Figueroa",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Colo-Colo_v_Palestino_20200128_03.jpg",
+    "alt": "Un arbitre de football consulte l'écran de l'assistance vidéo en bord de terrain",
+    "mots_cles": [
+      "Video assistant referee"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

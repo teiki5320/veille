@@ -1,8 +1,68 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-27T11:08:11.405Z",
+  "genere_le": "2026-11-27T17:07:43.997Z",
   "actus": [
+    {
+      "id": "943b380ba30f3a9885337b486fbe02b1de783011",
+      "titre": "Ligue des champions CAF : Mokwena affiche ses ambitions avant Pyramids–MAS Fès",
+      "resume": "Pour son premier match de poules contre les Marocains de Fès, l'entraîneur de Pyramids FC vante un groupe expérimenté et estime que le titre se jouera sur la régularité. Il dit rester serein face à la pression.",
+      "theme": "foot",
+      "pays": [
+        "EG"
+      ],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Africa Top Sports",
+      "source_url": "https://africatopsports.com/football/ligue-des-champions-caf-rulani-mokwena-pyramids-fc-je-nai-pas-de-mauvais-pressentiment/",
+      "publie_le": "2026-11-27T16:32:52.000Z",
+      "collecte_le": "2026-11-27T17:07:43.997Z",
+      "langue": "fr",
+      "slug": "ligue-des-champions-caf-mokwena-affiche-ses-ambitions-avant-pyramids-943b38",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/943b380ba30f3a9885337b486fbe02b1de783011.json",
+      "lecture_min": 1,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/943b380ba30f3a9885337b486fbe02b1de783011.webp",
+        "source": "wikimedia",
+        "credit": "TAHA7199",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%D8%B7%D9%82%D9%85_%D8%A8%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D8%AF%D8%B2_%D9%85%D9%88%D8%B3%D9%85%D9%8A_2021-22%2B2022-23.jpg",
+        "alt": "Des joueurs de Pyramids FC lors d'un match",
+        "mots_cles": [
+          "Pyramids FC"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
+    {
+      "id": "9a66045ea66dbc35e2a7941a519d3b17369d4da8",
+      "titre": "La CAF généralise le VAR dès les poules de ses compétitions de clubs",
+      "resume": "La CAF déploie l'arbitrage vidéo dès la phase de groupes de la Ligue des champions et de la Coupe de la Confédération 2026-2027, alors qu'il était réservé aux phases finales. La mesure démarre ce vendredi 27 novembre 2026.",
+      "theme": "foot",
+      "pays": [],
+      "competition": "Ligue des champions CAF",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/27/caf-introduces-var-for-2026-27-interclub-group-stages-in-historic-officiating-milestone/",
+      "publie_le": "2026-11-27T16:14:39.000Z",
+      "collecte_le": "2026-11-27T17:07:43.997Z",
+      "langue": "en",
+      "slug": "la-caf-generalise-le-var-des-les-poules-de-ses-competitions-de-clubs-9a6604",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/9a66045ea66dbc35e2a7941a519d3b17369d4da8.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/9a66045ea66dbc35e2a7941a519d3b17369d4da8.webp",
+        "source": "wikimedia",
+        "credit": "Carlos Figueroa",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Colo-Colo_v_Palestino_20200128_03.jpg",
+        "alt": "Un arbitre de football consulte l'écran de l'assistance vidéo en bord de terrain",
+        "mots_cles": [
+          "Video assistant referee"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1",
       "titre": "CAF Awards 2026 : cinq finalistes pour le titre de meilleur joueur, dont Mané et Hakimi",
@@ -2004,75 +2064,6 @@
         "alt": "Achraf Hakimi, défenseur international marocain",
         "mots_cles": [
           "Achraf Hakimi"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "7c5b8921bb8b27a71eceb8145259c09576383c26",
-      "titre": "Sénégal : Krépin Diatta blessé et forfait, Arouna Sangante appelé contre le Soudan",
-      "resume": "Touché lors d'un match de Watford le 8 novembre, Krépin Diatta doit renoncer aux deux rencontres du Sénégal face au Soudan, les 12 et 16 novembre. Patrick Vieira le remplace par Arouna Sangante, défenseur du FC Séville âgé de 24 ans.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Afrik-Foot",
-      "source_url": "https://www.afrik-foot.com/senegal-patrick-vieira-fait-appel-a-un-renfort-de-liga",
-      "autres_sources": [
-        "https://senego.com/arouna-sangante-remplace-krepin-diatta-chez-les-lions-pour-les-eliminatoires-de-la-can-2027_2022120.html",
-        "https://wiwsport.com/2026/11/10/joj2026-exploit-historique-krepin-diatta-blesse-arouna-sangante-rappele/"
-      ],
-      "publie_le": "2026-11-09T19:43:11.000Z",
-      "collecte_le": "2026-11-10T11:17:02.251Z",
-      "langue": "fr",
-      "slug": "senegal-krepin-diatta-blesse-et-forfait-arouna-sangante-appele-contre-7c5b89",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/7c5b8921bb8b27a71eceb8145259c09576383c26.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/7c5b8921bb8b27a71eceb8145259c09576383c26.webp",
-        "source": "wikimedia",
-        "credit": "DAKARACTU TV HD",
-        "licence": "CC BY 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Kr%C3%A9pin_Diatta_S%C3%A9n%C3%A9gal.png",
-        "alt": "Krépin Diatta, international sénégalais",
-        "mots_cles": [
-          "Krépin Diatta"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "83d097c17a2ef2480db3b8af2e494f280ba65777",
-      "titre": "Premier League : Nicolas Jackson buteur à Old Trafford, Aston Villa accroché 4-4",
-      "resume": "L'attaquant sénégalais Nicolas Jackson a marqué dès la 4e minute et délivré une passe décisive lors du nul 4-4 d'Aston Villa chez Manchester United, dimanche. Avec six buts en championnat, il se hisse parmi les trois meilleurs buteurs de Premier League.",
-      "theme": "foot",
-      "pays": [
-        "SN"
-      ],
-      "competition": "Premier League",
-      "source_nom": "Wiwsport",
-      "source_url": "https://wiwsport.com/2026/11/09/premier-league-buteur-face-a-manchester-united-nicolas-jackson-integre-le-top-3-des-meilleurs-buteurs/",
-      "autres_sources": [
-        "https://lesoleil.sn/actualites/sports/football-la-tempete-jackson-deferle-sur-la-premier-league/"
-      ],
-      "publie_le": "2026-11-09T07:39:55.000Z",
-      "collecte_le": "2026-11-09T11:23:04.467Z",
-      "langue": "fr",
-      "slug": "premier-league-nicolas-jackson-buteur-old-trafford-aston-villa-83d097",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/83d097c17a2ef2480db3b8af2e494f280ba65777.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/83d097c17a2ef2480db3b8af2e494f280ba65777.webp",
-        "source": "wikimedia",
-        "credit": "Bryan Berlin",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Jackson_France_v_Senegal_16_June_2026-463.jpg",
-        "alt": "Nicolas Jackson, attaquant international sénégalais",
-        "mots_cles": [
-          "Nicolas Jackson Senegal"
         ],
         "largeur": 1600,
         "hauteur": 900
