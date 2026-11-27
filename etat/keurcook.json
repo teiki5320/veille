@@ -1821,104 +1821,187 @@
     "797156cb0cee7c287d9996868001879612f0ab0e": "2026-11-27T05:07:13.777Z",
     "79c3dafa6e3a5cd758cace97e7fd048d1b8b76b2": "2026-11-27T05:07:13.777Z",
     "be3f62c191d6b857ada9016d1b08abf2b4c16237": "2026-11-27T05:07:13.777Z",
-    "8cf576c859cf50b242bae6e4f53e78c575ab6c3f": "2026-11-27T05:07:13.777Z"
+    "8cf576c859cf50b242bae6e4f53e78c575ab6c3f": "2026-11-27T05:07:13.777Z",
+    "bea6a719e510cf4617054be5628c18060cefb14a": "2026-11-27T11:08:11.379Z",
+    "cf1dd313c011d382772dab497edff1641d036737": "2026-11-27T11:08:11.379Z",
+    "dd794f0c08822f34eb286a6a4bba1ea169c787d0": "2026-11-27T11:08:11.379Z",
+    "94d23f026759143ac4d8998305dd273078395f11": "2026-11-27T11:08:11.379Z",
+    "36730722c56386c28950c8c2ed34895416c744cb": "2026-11-27T11:08:11.379Z",
+    "5bd859bad8cae496695e25ef0304af305af69d00": "2026-11-27T11:08:11.379Z",
+    "22c1355e90658e2d15fcb1a9a0887fd2344099e6": "2026-11-27T11:08:11.379Z",
+    "6d32aac3066002e38145d1eba8f3b3225c2b775e": "2026-11-27T11:08:11.379Z",
+    "02567c6cc95b0d06e3c1b7ad48199302ddb58983": "2026-11-27T11:08:11.379Z",
+    "95a02dc6c712836fae28dcb56dfcfa786247f4dd": "2026-11-27T11:08:11.379Z",
+    "15d88eeab2fcd91248314116e01e128a3d5bdd23": "2026-11-27T11:08:11.379Z",
+    "6d390f40f08f0061237bc5a2c5ef79e3f8b79f97": "2026-11-27T11:08:11.379Z",
+    "8028161b11ca0918c22aa95401d9230750a33202": "2026-11-27T11:08:11.379Z",
+    "57329521a22ce3194acf18489240be56e5740344": "2026-11-27T11:08:11.379Z",
+    "25168205889551e1d271d1d66cacd1aecf121bbf": "2026-11-27T11:08:11.379Z",
+    "fefdca25365ac38e8a0768d9c4c0b4cd41554a10": "2026-11-27T11:08:11.379Z",
+    "d5c333e9c4e153c4551fd51e21b74dc88d4e3cbb": "2026-11-27T11:08:11.379Z",
+    "25c6a1970fc3c3c52696c89712b09cfb93aab655": "2026-11-27T11:08:11.379Z",
+    "94058f62d537fbd5e76f3014f7eb2b86480d8a62": "2026-11-27T11:08:11.379Z",
+    "e201d218c4b1afd6757ee801ebb13569db4ed064": "2026-11-27T11:08:11.379Z",
+    "a6286ac56860fc067bd4dbe2e60723f56ad03979": "2026-11-27T11:08:11.379Z",
+    "a0616a238aa5557f2ff696f66d713dcbba9a66b5": "2026-11-27T11:08:11.379Z",
+    "c8d40db275e0483b043b0590ed40c10fca2b532c": "2026-11-27T11:08:11.379Z",
+    "15642ebc37dc13597f069f541d56130637260ed4": "2026-11-27T11:08:11.379Z",
+    "f454739a95ae1aa7b79419fd99d6cabfeda1806b": "2026-11-27T11:08:11.379Z",
+    "b4a29a15f80a775c4e9d0076a1856d4136873aef": "2026-11-27T11:08:11.379Z",
+    "3eebec775ac88cd376e8c2cc1842f25e7fb45ed7": "2026-11-27T11:08:11.379Z",
+    "daa45225913761e8d45e1c222b86f331dd9a233e": "2026-11-27T11:08:11.379Z",
+    "1cac9dc5b32a78b95b6617f51e0ec9e54a05565f": "2026-11-27T11:08:11.379Z",
+    "1540ef54881b6e0c42e6b64dd498697ed564a691": "2026-11-27T11:08:11.379Z",
+    "ee0f0b8ab43c90ac8160a812a2c434efe3d7d045": "2026-11-27T11:08:11.379Z",
+    "c9707d3f1c8a13c910e4acb0486ccd8197f35905": "2026-11-27T11:08:11.379Z",
+    "ef29766f1ac91dfe463b34b3a624a3845a5fe202": "2026-11-27T11:08:11.379Z",
+    "1f75e1df7c5bdd96d579ae19ebdb584146cb17b1": "2026-11-27T11:08:11.379Z",
+    "b8cca6418d840317cb8f92e2412a0022a6bfc1d6": "2026-11-27T11:08:11.379Z",
+    "5941f5537731e74cf67ed75861ab0e6f64f96d0b": "2026-11-27T11:08:11.379Z",
+    "df8ac4b6f6fc8dbcc1a434973dc8d1c6ca717bef": "2026-11-27T11:08:11.379Z",
+    "aebb669412c0b93e79aabf72b1193242b628a74c": "2026-11-27T11:08:11.379Z",
+    "6552fc2a6088dc1bd08cf7cd2fe592d56a061e38": "2026-11-27T11:08:11.379Z",
+    "01af6c3a1d07ac71422a16bf0ec0c7ee90d0b1f7": "2026-11-27T11:08:11.379Z",
+    "323e651d81b323a0af67ef6e769b37cbfce866af": "2026-11-27T11:08:11.379Z",
+    "cbefecf638bce01f932c28401070179f28aafc01": "2026-11-27T11:08:11.379Z",
+    "6846eb0dcc2640bae8a3a9afb12ecfc82d80b7d3": "2026-11-27T11:08:11.379Z",
+    "0becb2af6467543bbae02aa600e16250964d57f2": "2026-11-27T11:08:11.379Z",
+    "b19391724c5db0a141b5e187a51be05d7e6a0333": "2026-11-27T11:08:11.379Z",
+    "216de2973426b13482fb7e720a6496ddc91cca3e": "2026-11-27T11:08:11.379Z",
+    "1849914fd8b09ce2dcacc27f7f94165262bfc6e8": "2026-11-27T11:08:11.379Z",
+    "5b77587e5e45a7809e3599eeea9342397e0b62cc": "2026-11-27T11:08:11.379Z",
+    "5825bb8e605480b36711d36f619fab880f3555e8": "2026-11-27T11:08:11.379Z",
+    "d376a00b6587693a23d6e8780839e091d7ef5643": "2026-11-27T11:08:11.379Z",
+    "bda3f289074fccd5f8145b14bdabc4d176d3414c": "2026-11-27T11:08:11.379Z",
+    "9af2f7c4f548f8e7b3eb2a8450171c9902f1ab48": "2026-11-27T11:08:11.379Z",
+    "32601922004905a611c50010c0cc90749ef0bec4": "2026-11-27T11:08:11.379Z",
+    "b471bc865196e0330350e67e3ebd052db60717d4": "2026-11-27T11:08:11.379Z",
+    "d96ebdf6ba587511f5db5beaeb8431ce0a1e985e": "2026-11-27T11:08:11.379Z",
+    "db88c70b6595d490210eee0cb52618b5d0dc89e6": "2026-11-27T11:08:11.379Z",
+    "b0c58d0dba539e42b576f7950b9afa8d374824fa": "2026-11-27T11:08:11.379Z",
+    "b341732d72b9ddcdea45c1ed4c89db266fa3acc4": "2026-11-27T11:08:11.379Z",
+    "cb5d05d0cd30e5b364497b08245ae2c4604c9134": "2026-11-27T11:08:11.379Z",
+    "4d3285a4fe1a7ccfcbae3ab9a18e923ee618c209": "2026-11-27T11:08:11.379Z",
+    "7c2b6a4328a7772592ed8057f682ed6972f88af1": "2026-11-27T11:08:11.379Z",
+    "e475769cb947c07790531c0a65c82c39805754de": "2026-11-27T11:08:11.379Z",
+    "09fa12f7d3383b1818568a4c51c4cc46f78ae6da": "2026-11-27T11:08:11.379Z",
+    "1f25a5cac77d1cde12f328727e11f91244937d83": "2026-11-27T11:08:11.379Z",
+    "0efee33af654d835cdf4b46e7ae9541f6adb21f7": "2026-11-27T11:08:11.379Z",
+    "94214c5257f16f1f5407d67086951d658ace7393": "2026-11-27T11:08:11.379Z",
+    "8697ca05692a0e5e10ecb725b98d31ac04600b8a": "2026-11-27T11:08:11.379Z",
+    "d8a3ab008f88ea5ce123043ab98cfbba0ceebb62": "2026-11-27T11:08:11.379Z",
+    "5e07f10005e18ce3dd2a909537b3b0067228ca48": "2026-11-27T11:08:11.379Z",
+    "85002660271e597722cae066e68e61f5d7d35b20": "2026-11-27T11:08:11.379Z",
+    "3d27137b2def6f64d435bfd851154ef92c90b1d0": "2026-11-27T11:08:11.379Z",
+    "6b71b1e6bd13b55544bc86edb20b025a9d3b5b07": "2026-11-27T11:08:11.379Z",
+    "f1f79f307c327a75a49b2ebc87e99cb5045dbd03": "2026-11-27T11:08:11.379Z",
+    "38cdf3f4da868fd70f4ac40a417a343af52bf845": "2026-11-27T11:08:11.379Z",
+    "3812756a5a6da8babb2c8a036bfdafdd4ac3cff5": "2026-11-27T11:08:11.379Z",
+    "56ae9a1add7eaa1b3e9075fbbbfedf50060208c2": "2026-11-27T11:08:11.379Z",
+    "dce212100a65a563d35c540b74acd805eb227e5b": "2026-11-27T11:08:11.379Z",
+    "373072268a0e5100d76f005ebcd60e8223448196": "2026-11-27T11:08:11.379Z",
+    "72f29dcaeafb0f9b888c64f03666307b2fa63cac": "2026-11-27T11:08:11.379Z",
+    "711099418640db074731eed39de21b1dc269ad2d": "2026-11-27T11:08:11.379Z",
+    "7e9061b723d9006766d3da85b4882d16d0a67882": "2026-11-27T11:08:11.379Z",
+    "5077b8a22b87b4487b2c9288bfc0d542458fad97": "2026-11-27T11:08:11.379Z",
+    "29702b7410c26d94d004b280795c00b7888dcc72": "2026-11-27T11:08:11.379Z"
   },
   "flux": {
     "https://www.lemonde.fr/afrique/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 2
     },
     "https://www.rfi.fr/fr/afrique/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 15
+      "articles": 4
     },
     "https://www.rfi.fr/fr/culture/rss": {
       "nom": "RFI",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 3
     },
     "https://www.france24.com/fr/afrique/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 7
+      "articles": 1
     },
     "https://www.france24.com/fr/culture/rss": {
       "nom": "France 24",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.bbc.com/afrique/index.xml": {
       "nom": "BBC Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://fr.africanews.com/feed/rss": {
       "nom": "Africanews",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 22
+      "articles": 10
     },
     "https://www.jeuneafrique.com/rubriques/lifestyle/feed/": {
       "nom": "Jeune Afrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 5
+      "articles": 8
     },
     "https://www.seneplus.com/rss.xml": {
       "nom": "SenePlus",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
       "articles": 10
     },
     "https://lesoleil.sn/feed/": {
       "nom": "Le Soleil",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 24
+      "articles": 7
     },
     "https://mondafrique.com/feed/": {
       "nom": "Mondafrique",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 0
     },
     "https://nofi.media/feed/": {
       "nom": "Nofi",
-      "erreurs": 0,
+      "erreurs": 1,
       "dernier_succes": "2026-11-27T05:05:22.525Z",
-      "derniere_erreur": null,
+      "derniere_erreur": "2026-11-27T11:06:42.323Z : HTTP 500",
       "articles": 0
     },
     "https://www.lefigaro.fr/rss/figaro_gastronomie.xml": {
       "nom": "Le Figaro",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 3
     },
     "https://www.theguardian.com/food/rss": {
       "nom": "The Guardian",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
       "articles": 2
     },
@@ -1932,65 +2015,65 @@
     "https://fr.allafrica.com/tools/headlines/rdf/latest/headlines.rdf": {
       "nom": "AllAfrica",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 25
+      "articles": 28
     },
     "https://www.africanbites.com/feed/": {
       "nom": "Immaculate Bites",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.myjoyonline.com/lifestyle/food/feed/": {
       "nom": "MyJoyOnline",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.zikoko.com/category/chopist/feed/": {
       "nom": "Zikoko",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.capetownetc.com/category/food-and-drink/feed/": {
       "nom": "Cape Town Etc",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.lemonde.fr/le-monde-passe-a-table/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
       "articles": 2
     },
     "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml": {
       "nom": "The New York Times",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 0
     },
     "https://www.eater.com/rss/index.xml": {
       "nom": "Eater",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://tastecooking.com/feed/": {
       "nom": "Taste",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:22.525Z",
+      "dernier_succes": "2026-11-27T11:06:42.323Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     }
   },
   "images_recentes": [

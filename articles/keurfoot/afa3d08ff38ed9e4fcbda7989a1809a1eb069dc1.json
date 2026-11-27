@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1",
+  "slug": "caf-awards-2026-cinq-finalistes-pour-le-titre-de-meilleur-joueur-dont-afa3d0",
+  "titre": "CAF Awards 2026 : cinq finalistes pour le titre de meilleur joueur, dont Mané et Hakimi",
+  "chapo": "La Confédération africaine de football a publié la liste des cinq derniers candidats au titre d'homme de l'année. Le Maroc et le Sénégal, finalistes de la dernière CAN, se partagent seuls la liste.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Après un premier tri parmi dix noms, l'instance africaine a retenu cinq joueurs pour le trophée de meilleur joueur masculin de l'année 2026. Trois sont marocains : Achraf Hakimi, Brahim Díaz et Ismaël Saibari. Deux sont sénégalais : Sadio Mané et Pape Gueye.",
+        "Le vainqueur sera désigné le mercredi 2 décembre 2026 à Lagos, lors de la cérémonie des CAF Awards. Elle se tient au Centre national des arts Wole Soyinka et ramène l'événement dans la capitale économique nigériane, une première depuis 2014."
+      ]
+    },
+    {
+      "intertitre": "Deux nations au premier plan",
+      "paragraphes": [
+        "Cette liste reflète la saison des deux pays. Lors de la finale de la CAN 2025, disputée au Maroc, le Sénégal s'est imposé 1-0 face au pays hôte pour décrocher son deuxième titre continental. Les Lions de l'Atlas ont ensuite atteint les quarts de finale de la Coupe du monde 2026, un résultat historique pour eux."
+      ]
+    },
+    {
+      "intertitre": "Les profils des finalistes",
+      "paragraphes": [
+        "Achraf Hakimi, tenant du titre, a remporté avec le Paris Saint-Germain la Ligue des champions et le championnat de France en 2026. Il a aussi mené le Maroc jusqu'à la finale de la CAN en tant que capitaine. Il avait déjà été sacré en 2022 et dispute ici un nouveau trophée individuel.",
+        "Sadio Mané, double lauréat, cherche un troisième sacre. Désigné meilleur joueur de la CAN 2025, l'attaquant d'Al-Nassr a pesé dans le parcours des Lions de la Teranga. Son compatriote Pape Gueye, milieu de Villarreal, est entré dans la légende en inscrivant en prolongation le but de la finale à Rabat ; il figure aussi dans le onze type de la compétition.",
+        "Côté marocain, Brahim Díaz, du Real Madrid, a terminé meilleur buteur de la CAN avec cinq réalisations, marquées lors de cinq matches de suite, puis a poursuivi son rythme à la Coupe du monde. Ismaïl Saibari, enfin, a vu sa progression récompensée par un transfert au Bayern Munich, et il a compté dans la marche du Maroc vers la finale continentale."
+      ]
+    },
+    {
+      "intertitre": "Rendez-vous le 2 décembre",
+      "paragraphes": [
+        "Le résultat dira si la distinction reste au Maroc, avec un deuxième sacre consécutif pour Hakimi ou une première pour Díaz ou Saibari, ou si elle revient au Sénégal avec Mané ou Gueye. D'autres trophées seront remis lors de la même soirée, dont celui du meilleur entraîneur."
+      ]
+    }
+  ],
+  "mots": 406,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "MA",
+    "SN"
+  ],
+  "competition": "Ballon d'Or",
+  "source_nom": "Kawowo Sports",
+  "source_url": "https://kawowo.com/2026/11/27/morocco-and-senegal-stars-headline-2026-caf-mens-player-of-the-year-shortlist/",
+  "publie_le": "2026-11-27T08:09:13.000Z",
+  "redige_le": "2026-11-27T11:08:11.405Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1.webp",
+    "source": "wikimedia",
+    "credit": "Nawfel Ajari",
+    "licence": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
+    "alt": "Achraf Hakimi, latéral du Maroc et du Paris Saint-Germain, en action sous le maillot marocain",
+    "mots_cles": [
+      "Achraf Hakimi"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

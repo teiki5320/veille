@@ -1,8 +1,40 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-27T05:07:57.466Z",
+  "genere_le": "2026-11-27T11:08:11.405Z",
   "actus": [
+    {
+      "id": "afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1",
+      "titre": "CAF Awards 2026 : cinq finalistes pour le titre de meilleur joueur, dont Mané et Hakimi",
+      "resume": "La CAF a dévoilé les cinq finalistes du titre de meilleur joueur africain 2026 : trois Marocains (Hakimi, Brahim Díaz, Saibari) et deux Sénégalais (Mané, Pape Gueye). Le lauréat sera connu le 2 décembre à Lagos, au Nigeria.",
+      "theme": "foot",
+      "pays": [
+        "MA",
+        "SN"
+      ],
+      "competition": "Ballon d'Or",
+      "source_nom": "Kawowo Sports",
+      "source_url": "https://kawowo.com/2026/11/27/morocco-and-senegal-stars-headline-2026-caf-mens-player-of-the-year-shortlist/",
+      "publie_le": "2026-11-27T08:09:13.000Z",
+      "collecte_le": "2026-11-27T11:08:11.405Z",
+      "langue": "en",
+      "slug": "caf-awards-2026-cinq-finalistes-pour-le-titre-de-meilleur-joueur-dont-afa3d0",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1.webp",
+        "source": "wikimedia",
+        "credit": "Nawfel Ajari",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:HakimiAchraf.jpg",
+        "alt": "Achraf Hakimi, latéral du Maroc et du Paris Saint-Germain, en action sous le maillot marocain",
+        "mots_cles": [
+          "Achraf Hakimi"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "db768ff87b5cb00dd25706a9408e1b425c02eaff",
       "titre": "Mondial U17 : le Mali sans faute, Maroc, Sénégal et Côte d'Ivoire en seizièmes",
@@ -2041,40 +2073,6 @@
         "alt": "Nicolas Jackson, attaquant international sénégalais",
         "mots_cles": [
           "Nicolas Jackson Senegal"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "0f874f628c2801b1746da2e89dd6c45f1da25129",
-      "titre": "Égypte : pour sa première liste, Ali Maher se passe d'Emam Ashour",
-      "resume": "Nouveau sélectionneur des Pharaons, Ali Maher a convoqué 26 joueurs pour affronter deux fois le Malawi, les 13 et 17 novembre, en éliminatoires de la CAN 2027. Mohamed Salah et Omar Marmoush en font partie, mais pas le milieu d'Al Ahly Emam Ashour.",
-      "theme": "foot",
-      "pays": [
-        "EG"
-      ],
-      "competition": "Éliminatoires CAN 2027",
-      "source_nom": "Kawowo Sports",
-      "source_url": "https://kawowo.com/2026/11/09/new-egypt-head-coach-maher-drops-emam-ashour/",
-      "autres_sources": [
-        "https://www.rfi.fr/fr/afrique-foot/20261108-%C3%A9liminatoires-can-2027-la-premi%C3%A8re-liste-d-ali-maher-avec-l-%C3%A9gypte"
-      ],
-      "publie_le": "2026-11-09T04:21:52.000Z",
-      "collecte_le": "2026-11-09T11:23:04.467Z",
-      "langue": "en",
-      "slug": "egypte-pour-sa-premiere-liste-ali-maher-se-passe-emam-ashour-0f874f",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/0f874f628c2801b1746da2e89dd6c45f1da25129.json",
-      "lecture_min": 1,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/0f874f628c2801b1746da2e89dd6c45f1da25129.webp",
-        "source": "wikimedia",
-        "credit": "Crosskimo",
-        "licence": "CC BY-SA 4.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Cairo_stadium_Egypt_vs_Senegal.jpg",
-        "alt": "Le stade international du Caire, en Égypte",
-        "mots_cles": [
-          "Cairo International Stadium"
         ],
         "largeur": 1600,
         "hauteur": 900

@@ -826,29 +826,43 @@
     "b390445ab68288cfa51610cab1af28322607ac71": "2026-11-27T05:07:16.176Z",
     "17a0643cb81e3222c43f8b2ce2fa09b6ecb88894": "2026-11-27T05:07:16.176Z",
     "5f4fd2569008c8ffd881b7b205342f5056a405fd": "2026-11-27T05:07:16.176Z",
-    "3cc1a0933e751e13df84495768bfc3b47467b589": "2026-11-27T05:07:16.176Z"
+    "3cc1a0933e751e13df84495768bfc3b47467b589": "2026-11-27T05:07:16.176Z",
+    "d7b81b6e69517a2c8cbccb01044d5f1886cd579c": "2026-11-27T11:08:13.390Z",
+    "7fab618cbec7e8c6df51ab8bd5459e2f156586a5": "2026-11-27T11:08:13.390Z",
+    "78d8f93422e031883ef2369a87f87d9ec1d640a3": "2026-11-27T11:08:13.390Z",
+    "5fcb391bb73d68f9370829e26fc4517f4f9af827": "2026-11-27T11:08:13.390Z",
+    "6047f3b8ced1cf34b5c276ad023bbfe81f3f54f1": "2026-11-27T11:08:13.390Z",
+    "ffdacf553672c8873e94bff7282b6089c0de897d": "2026-11-27T11:08:13.390Z",
+    "95321edd79a24eaba1fce351f2c666c8483be546": "2026-11-27T11:08:13.390Z",
+    "055858c017bad9ea8fba9078f46f3faad39b9862": "2026-11-27T11:08:13.390Z",
+    "edf72185e985824b3383f58296964c9c9fdea157": "2026-11-27T11:08:13.390Z",
+    "bc3c99a02fd137fea494deea6dc69e643b6a9c47": "2026-11-27T11:08:13.390Z",
+    "0b9ab40b03255b440bda5b067709f7c3ae945ff2": "2026-11-27T11:08:13.390Z",
+    "da33f28bb91aebecb7d893032955a894764329a2": "2026-11-27T11:08:13.390Z",
+    "333e95083bf530e91981b6068578108fb24411b0": "2026-11-27T11:08:13.390Z",
+    "67d55ee4e699342c465c9d5c163acb74ff882018": "2026-11-27T11:08:13.390Z"
   },
   "flux": {
     "https://www.gerbeaud.com/rss.xml": {
       "nom": "Gerbeaud",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.lefigaro.fr/rss/figaro_jardin.xml": {
       "nom": "Le Figaro",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.futura-sciences.com/rss/maison/actualites.xml": {
       "nom": "Futura",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.vegetable.fr/rss": {
       "nom": "Végétable",
@@ -860,133 +874,133 @@
     "https://www.sciencesetavenir.fr/nature-environnement/rss.xml": {
       "nom": "Sciences et Avenir",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 1
     },
     "https://www.lemonde.fr/planete/rss_full.xml": {
       "nom": "Le Monde",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 6
+      "articles": 5
     },
     "https://www.terre-net.fr/rss/": {
       "nom": "Terre-net",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 7
+      "articles": 2
     },
     "https://www.greenhousegrower.com/feed/": {
       "nom": "Greenhouse Grower",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 2
+      "articles": 0
     },
     "https://www.greenhousemag.com/rss/": {
       "nom": "Greenhouse Management",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.producegrower.com/rss/": {
       "nom": "Produce Grower",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.greenhousecanada.com/feed/": {
       "nom": "Greenhouse Canada",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://agfundernews.com/feed": {
       "nom": "AgFunderNews",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://phys.org/rss-feed/biology-news/plants-animals/": {
       "nom": "Phys.org",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.sciencedaily.com/rss/plants_animals/botany.xml": {
       "nom": "ScienceDaily",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.verticalfarmdaily.com/rss.xml/": {
       "nom": "Vertical Farm Daily",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 13
+      "articles": 0
     },
     "https://www.hortidaily.com/rss.xml/": {
       "nom": "HortiDaily",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 29
+      "articles": 0
     },
     "https://www.ceagworld.com/feed/": {
       "nom": "CEAg World",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.thesill.com/blogs/plants-101.atom": {
       "nom": "The Sill",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.gardeningknowhow.com/feed": {
       "nom": "Gardening Know How",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 3
+      "articles": 2
     },
     "https://phys.org/rss-feed/biology-news/agriculture/": {
       "nom": "Phys.org",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     },
     "https://www.materiel-paysage.com/rss/29251": {
       "nom": "Lien Horticole",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 1
+      "articles": 0
     },
     "https://www.jardiner-malin.fr/feed": {
       "nom": "Jardiner Malin",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
-      "articles": 0
+      "articles": 3
     },
     "https://www.vegetable.fr/feed/": {
       "nom": "Végétable",
       "erreurs": 0,
-      "dernier_succes": "2026-11-27T05:05:54.036Z",
+      "dernier_succes": "2026-11-27T11:07:14.193Z",
       "derniere_erreur": null,
       "articles": 0
     }

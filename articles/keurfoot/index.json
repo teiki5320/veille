@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-27T05:07:57.504Z",
+  "genere_le": "2026-11-27T11:08:13.388Z",
   "articles": [
+    {
+      "id": "afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1",
+      "slug": "caf-awards-2026-cinq-finalistes-pour-le-titre-de-meilleur-joueur-dont-afa3d0",
+      "titre": "CAF Awards 2026 : cinq finalistes pour le titre de meilleur joueur, dont Mané et Hakimi",
+      "publie_le": "2026-11-27T08:09:13.000Z",
+      "redige_le": "2026-11-27T11:08:11.405Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/afa3d08ff38ed9e4fcbda7989a1809a1eb069dc1.json"
+    },
     {
       "id": "db768ff87b5cb00dd25706a9408e1b425c02eaff",
       "slug": "mondial-u17-le-mali-sans-faute-maroc-senegal-et-cote-ivoire-en-db768f",
