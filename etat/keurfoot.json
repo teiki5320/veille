@@ -2726,7 +2726,7 @@
   "images_recentes": [
     {
       "id": "db768ff87b5cb00dd25706a9408e1b425c02eaff",
-      "origine": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Best_results_of_countries_in_the_FIFA_U-17_World_Cup-ar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      "origine": "carte:keurfoot:db768ff87b5cb00dd25706a9408e1b425c02eaff"
     },
     {
       "id": "637af6a0688a6e8bc8157fc5971cffe1471baf8c",
@@ -2865,7 +2865,7 @@
     "3649ef5cbd07ef31ae3bbc8be77f725afb184309": "carte:keurfoot:3649ef5cbd07ef31ae3bbc8be77f725afb184309",
     "f8b314c6a527b4925d6fa7288e8c173e4ac63921": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Burkina_team.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "637af6a0688a6e8bc8157fc5971cffe1471baf8c": "carte:keurfoot:637af6a0688a6e8bc8157fc5971cffe1471baf8c",
-    "db768ff87b5cb00dd25706a9408e1b425c02eaff": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Best_results_of_countries_in_the_FIFA_U-17_World_Cup-ar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    "db768ff87b5cb00dd25706a9408e1b425c02eaff": "carte:keurfoot:db768ff87b5cb00dd25706a9408e1b425c02eaff"
   },
   "refusees": {
     "41f717fd71426f081e91936449134cb8e233274d": [
@@ -2956,6 +2956,11 @@
     "637af6a0688a6e8bc8157fc5971cffe1471baf8c": [
       "https://upload.wikimedia.org/wikipedia/commons/e/ef/ACM-Spurs_CL_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/f/f3/ACM-Spurs_free_kick.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ],
+    "db768ff87b5cb00dd25706a9408e1b425c02eaff": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Best_results_of_countries_in_the_FIFA_U-17_World_Cup-ar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/Shrewsbury_Town_v_Shrewsbury_Youth_football_match_%281455555%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a3/Shrewsbury_Town_v_Shrewsbury_Youth_football_match_%281455557%29.jpg"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-27T05:07:13.803Z",
+  "genere_le": "2026-11-27T05:07:57.466Z",
   "actus": [
     {
       "id": "db768ff87b5cb00dd25706a9408e1b425c02eaff",
@@ -21,14 +21,14 @@
       "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/db768ff87b5cb00dd25706a9408e1b425c02eaff.json",
       "lecture_min": 2,
       "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/db768ff87b5cb00dd25706a9408e1b425c02eaff.webp",
-        "source": "wikimedia",
-        "credit": "Bassem Fleifel",
-        "licence": "Public domain",
-        "page": "https://commons.wikimedia.org/wiki/File:Best_results_of_countries_in_the_FIFA_U-17_World_Cup-ar.png",
-        "alt": "Des joueurs de l'équipe du Mali des moins de 17 ans lors d'un match",
+        "url": "https://teiki5320.github.io/veille/cartes/keurfoot/db768ff87b5cb00dd25706a9408e1b425c02eaff.svg",
+        "source": "carte",
+        "credit": "Illustration : Keur Foot",
+        "licence": null,
+        "page": null,
+        "alt": "Illustration Keur Foot avec le drapeau national (Mali) et la mention « Coupe du monde U17 »",
         "mots_cles": [
-          "FIFA U-17 World Cup"
+          "zzqxunlikelyterm"
         ],
         "largeur": 1600,
         "hauteur": 900
