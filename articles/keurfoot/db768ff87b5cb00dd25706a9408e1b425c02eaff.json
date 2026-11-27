@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "site": "keurfoot",
+  "id": "db768ff87b5cb00dd25706a9408e1b425c02eaff",
+  "slug": "mondial-u17-le-mali-sans-faute-maroc-senegal-et-cote-ivoire-en-db768f",
+  "titre": "Mondial U17 : le Mali sans faute, Maroc, Sénégal et Côte d'Ivoire en seizièmes",
+  "chapo": "La dernière journée de poule du Mondial des moins de 17 ans a confirmé la présence du Mali, de la Côte d'Ivoire, du Sénégal et du Maroc dans le tableau à élimination directe.",
+  "blocs": [
+    {
+      "intertitre": null,
+      "paragraphes": [
+        "Jeudi 26 novembre, quatre équipes africaines disputaient leur troisième match de groupe à la Coupe du monde des moins de 17 ans. Toutes se sont assuré une place en seizièmes de finale, même si le Maroc s'est incliné et si le Sénégal a dû se contenter d'un match nul.",
+        "Le tournoi se joue au Qatar. Sa phase de groupes s'achève avec un bilan contrasté, mais favorable au continent."
+      ]
+    },
+    {
+      "intertitre": "Le Mali, parfait avec neuf points",
+      "paragraphes": [
+        "Les Aiglonnets ont battu le Vietnam 2-0 pour clore leur parcours. Ils s'étaient imposés auparavant face à la Nouvelle-Zélande (3-0), puis contre la Belgique (2-1).",
+        "Ce sans-faute leur donne la première place du groupe G et en fait l'une des formations africaines les plus régulières de la compétition."
+      ]
+    },
+    {
+      "intertitre": "Côte d'Ivoire et Sénégal passent aussi",
+      "paragraphes": [
+        "Côté ivoirien, le troisième match a tourné à l'avantage des Éléphanteaux : 3-1 contre la Jamaïque, au sein du groupe E. Ils avaient commencé par un succès sur l'Ouzbékistan (2-1), avant de s'incliner contre l'Italie (1-2). Leurs six points suffisent pour avancer.",
+        "Le Sénégal termine deuxième du groupe F après un nouveau partage, 1-1 face au Tadjikistan. Sidy Barhama Ndiaye a marqué le premier but à la 37e minute, mais les Tadjiks ont égalisé sur penalty vers l'heure de jeu. Les Sénégalais ont ensuite fini la rencontre à dix : Ibrahima Konte a été expulsé à la 70e minute."
+      ]
+    },
+    {
+      "intertitre": "Le Maroc qualifié à la différence de buts",
+      "paragraphes": [
+        "Les Marocains avaient battu les Fidji 6-0, puis arraché un nul de 2-2 contre la Chine. Contre l'Espagne, ils ont cédé 0-2 : Ebrima Tunkara a ouvert le score à la 18e minute et Guillermo Trujillano a doublé la mise à la 61e.",
+        "Cette défaite ne coûte pas la qualification. Avec une différence de buts de +4, contre +3 pour la Chine (large vainqueur des Fidji, 8-0), le Maroc se classe deuxième du groupe H. À défaut, il aurait pu figurer parmi les meilleurs troisièmes."
+      ]
+    },
+    {
+      "intertitre": "Trois autres équipes du continent jouent vendredi",
+      "paragraphes": [
+        "Trois autres sélections du continent entrent en lice vendredi 27 novembre : celles d'Algérie, du Cameroun et de Tanzanie. Si elles se qualifient à leur tour, les dix représentants africains du tournoi seront tous présents en seizièmes de finale."
+      ]
+    }
+  ],
+  "mots": 399,
+  "lecture_min": 2,
+  "theme": "foot",
+  "pays": [
+    "ML"
+  ],
+  "competition": "Coupe du monde U17",
+  "source_nom": "Afrik-Foot",
+  "source_url": "https://www.afrik-foot.com/coupe-du-monde-u17-le-maroc-tombe-la-cote-divoire-qualifiee-le-mali-confirme",
+  "publie_le": "2026-11-26T17:28:01.000Z",
+  "redige_le": "2026-11-27T05:07:13.803Z",
+  "image": {
+    "url": "https://teiki5320.github.io/veille/images/keurfoot/db768ff87b5cb00dd25706a9408e1b425c02eaff.webp",
+    "source": "wikimedia",
+    "credit": "Bassem Fleifel",
+    "licence": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Best_results_of_countries_in_the_FIFA_U-17_World_Cup-ar.png",
+    "alt": "Des joueurs de l'équipe du Mali des moins de 17 ans lors d'un match",
+    "mots_cles": [
+      "FIFA U-17 World Cup"
+    ],
+    "largeur": 1600,
+    "hauteur": 900
+  }
+}

@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-26T11:07:16.553Z",
+  "genere_le": "2026-11-27T05:07:16.175Z",
   "articles": [
+    {
+      "id": "db768ff87b5cb00dd25706a9408e1b425c02eaff",
+      "slug": "mondial-u17-le-mali-sans-faute-maroc-senegal-et-cote-ivoire-en-db768f",
+      "titre": "Mondial U17 : le Mali sans faute, Maroc, Sénégal et Côte d'Ivoire en seizièmes",
+      "publie_le": "2026-11-26T17:28:01.000Z",
+      "redige_le": "2026-11-27T05:07:13.803Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/db768ff87b5cb00dd25706a9408e1b425c02eaff.json"
+    },
     {
       "id": "637af6a0688a6e8bc8157fc5971cffe1471baf8c",
       "slug": "caf-awards-2026-regragui-est-pas-dans-le-trio-de-tete-des-coachs-637af6",

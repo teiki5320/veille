@@ -1,8 +1,39 @@
 {
   "version": 3,
   "site": "keurfoot",
-  "genere_le": "2026-11-26T11:07:16.497Z",
+  "genere_le": "2026-11-27T05:07:13.803Z",
   "actus": [
+    {
+      "id": "db768ff87b5cb00dd25706a9408e1b425c02eaff",
+      "titre": "Mondial U17 : le Mali sans faute, Maroc, Sénégal et Côte d'Ivoire en seizièmes",
+      "resume": "Quatre sélections africaines ont validé leur place en seizièmes du Mondial des moins de 17 ans. Le Mali a gagné ses trois rencontres, alors que le Maroc passe malgré sa défaite contre l'Espagne.",
+      "theme": "foot",
+      "pays": [
+        "ML"
+      ],
+      "competition": "Coupe du monde U17",
+      "source_nom": "Afrik-Foot",
+      "source_url": "https://www.afrik-foot.com/coupe-du-monde-u17-le-maroc-tombe-la-cote-divoire-qualifiee-le-mali-confirme",
+      "publie_le": "2026-11-26T17:28:01.000Z",
+      "collecte_le": "2026-11-27T05:07:13.803Z",
+      "langue": "fr",
+      "slug": "mondial-u17-le-mali-sans-faute-maroc-senegal-et-cote-ivoire-en-db768f",
+      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/db768ff87b5cb00dd25706a9408e1b425c02eaff.json",
+      "lecture_min": 2,
+      "image": {
+        "url": "https://teiki5320.github.io/veille/images/keurfoot/db768ff87b5cb00dd25706a9408e1b425c02eaff.webp",
+        "source": "wikimedia",
+        "credit": "Bassem Fleifel",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Best_results_of_countries_in_the_FIFA_U-17_World_Cup-ar.png",
+        "alt": "Des joueurs de l'équipe du Mali des moins de 17 ans lors d'un match",
+        "mots_cles": [
+          "FIFA U-17 World Cup"
+        ],
+        "largeur": 1600,
+        "hauteur": 900
+      }
+    },
     {
       "id": "637af6a0688a6e8bc8157fc5971cffe1471baf8c",
       "titre": "CAF Awards 2026 : Regragui n'est pas dans le trio de tête des coachs",
@@ -2044,41 +2075,6 @@
         "alt": "Le stade international du Caire, en Égypte",
         "mots_cles": [
           "Cairo International Stadium"
-        ],
-        "largeur": 1600,
-        "hauteur": 900
-      }
-    },
-    {
-      "id": "98d3f36bf1e42b2dc5724f0776a9967a3169ea62",
-      "titre": "Supercoupe de la CAF : l'USM Alger bat le Mamelodi Sundowns 3-1 à Pretoria",
-      "resume": "L'USM Alger a dominé le Mamelodi Sundowns 3-1 dimanche à Pretoria en Supercoupe de la CAF. Draoui, Redouani et Khaldi ont marqué pour le club algérien, qui gagne ce trophée pour la deuxième fois après 2023.",
-      "theme": "foot",
-      "pays": [
-        "DZ",
-        "ZA"
-      ],
-      "competition": "Supercoupe de la CAF",
-      "source_nom": "Kawowo Sports",
-      "source_url": "https://kawowo.com/2026/11/09/onyangos-sundowns-fall-to-usm-alger-in-caf-super-cup/",
-      "autres_sources": [
-        "https://www.rfi.fr/fr/afrique-foot/20261108-supercoupe-de-la-caf-l-usm-alger-remporte-le-troph%C3%A9e-pour-la-deuxi%C3%A8me-fois-de-son-histoire-en-battant-le-mamelodi-sundowns"
-      ],
-      "publie_le": "2026-11-09T04:07:14.000Z",
-      "collecte_le": "2026-11-09T11:23:04.467Z",
-      "langue": "en",
-      "slug": "supercoupe-de-la-caf-usm-alger-bat-le-mamelodi-sundowns-3-1-pretoria-98d3f3",
-      "article_url": "https://teiki5320.github.io/veille/articles/keurfoot/98d3f36bf1e42b2dc5724f0776a9967a3169ea62.json",
-      "lecture_min": 2,
-      "image": {
-        "url": "https://teiki5320.github.io/veille/images/keurfoot/98d3f36bf1e42b2dc5724f0776a9967a3169ea62.webp",
-        "source": "wikimedia",
-        "credit": "R4vi from London, UK",
-        "licence": "CC BY-SA 2.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Pretoria_Skyline.jpg",
-        "alt": "Le stade Loftus Versfeld ou la ville de Pretoria, en Afrique du Sud",
-        "mots_cles": [
-          "Pretoria skyline"
         ],
         "largeur": 1600,
         "hauteur": 900
