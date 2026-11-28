@@ -1,8 +1,16 @@
 {
   "version": 1,
   "site": "keurfoot",
-  "genere_le": "2026-11-27T17:07:47.374Z",
+  "genere_le": "2026-11-28T17:07:21.382Z",
   "articles": [
+    {
+      "id": "ce6b1bb3bde38aa95f988311fd2b4d0cd70df90f",
+      "slug": "mondial-u17-le-cameroun-sort-sans-point-apres-trois-defaites-au-qatar-ce6b1b",
+      "titre": "Mondial U17 : le Cameroun sort sans point après trois défaites au Qatar",
+      "publie_le": "2026-11-28T11:28:00.000Z",
+      "redige_le": "2026-11-28T17:07:17.667Z",
+      "url": "https://teiki5320.github.io/veille/articles/keurfoot/ce6b1bb3bde38aa95f988311fd2b4d0cd70df90f.json"
+    },
     {
       "id": "943b380ba30f3a9885337b486fbe02b1de783011",
       "slug": "ligue-des-champions-caf-mokwena-affiche-ses-ambitions-avant-pyramids-943b38",
